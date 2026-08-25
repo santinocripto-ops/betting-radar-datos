@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T12:05:51.351996+00:00",
+ "actualizado": "2026-08-25T12:13:00.820015+00:00",
  "partidos_vivo": [
   {
    "home": "Gimcheon Sangmu FC",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:12",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -124,6 +130,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Wigan Athletic U21",
+   "away": "Cardiff City U21",
+   "liga": "Professional Development League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
   {
    "home": "Measurers",
    "away": "Mohammedan",
@@ -654,7 +671,7 @@
   "n": 2065,
   "ganados": 1432,
   "win_rate": 69,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 2,
