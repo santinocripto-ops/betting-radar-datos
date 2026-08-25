@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T01:22:19.668497+00:00",
+ "actualizado": "2026-08-25T01:22:22.549214+00:00",
  "partidos_vivo": [
   {
    "home": "Lanus",
@@ -139,7 +139,7 @@
   "balance_dia": 0.0,
   "ganados": 2031,
   "perdidos": 880,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.8,
@@ -572,7 +572,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
