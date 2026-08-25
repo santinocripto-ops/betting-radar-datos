@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T18:19:28.308181+00:00",
+ "actualizado": "2026-08-25T18:26:26.542387+00:00",
  "partidos_vivo": [
   {
    "home": "Skive",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:26",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:12",
@@ -199,12 +205,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:15",
    "tipo": "live"
   }
@@ -866,6 +866,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Sabah FK vs. MH Hapoel Be'er Sheva: O/U 4.5",
+   "apuesta": "SI, mas de 4.5 goles",
+   "usdc": 27322,
+   "prob": 57.5,
+   "n_traders": 3,
+   "trader": "swisstony",
+   "hora": "20:26"
+  },
+  {
    "titulo": "Will Southampton FC win on 2026-08-25?",
    "apuesta": "SI, Southampton ganara",
    "usdc": 140758,
@@ -927,15 +936,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "18:45"
-  },
-  {
-   "titulo": "Carbajal vs. Cosano: Match O/U 23.5",
-   "apuesta": "SI, mas de 23.5 goles",
-   "usdc": 110884,
-   "prob": 99.1,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "18:44"
   }
  ],
  "stats_gt": {
