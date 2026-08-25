@@ -1,23 +1,61 @@
 {
- "actualizado": "2026-08-25T15:23:51.018884+00:00",
+ "actualizado": "2026-08-25T15:30:44.743363+00:00",
  "partidos_vivo": [
   {
-   "home": "Dinamo Kirov",
-   "away": "Amkar",
+   "home": "Vukovar",
+   "away": "Radnički Dalj",
    "liga": "Cup",
    "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.0,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 44 minutos por jugar — margen amplio"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "NB Bornholm",
+   "away": "HIK",
+   "liga": "DBU Pokalen",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "UMM Salal",
+   "away": "Qatar U23",
+   "liga": "Second Division",
+   "minuto": 54,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 0.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
