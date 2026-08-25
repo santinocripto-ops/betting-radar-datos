@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-08-25T23:07:01.722209+00:00",
+ "actualizado": "2026-08-25T23:15:18.784094+00:00",
  "partidos_vivo": [
   {
-   "home": "Defensor Sporting",
-   "away": "Rentistas",
-   "liga": "Copa Uruguay",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.2,
+   "home": "Deportivo Madryn",
+   "away": "Godoy Cruz",
+   "liga": "Primera Nacional",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ 1 gol — Godoy Cruz buscará el empate"
    ]
   }
  ],
