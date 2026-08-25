@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T19:17:23.707280+00:00",
+ "actualizado": "2026-08-25T19:24:29.905802+00:00",
  "partidos_vivo": [
   {
    "home": "Sheffield United U21",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:24",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:17",
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:26",
    "tipo": "smart_money"
   }
  ],
@@ -435,7 +435,7 @@
   "balance_dia": -283.0,
   "ganados": 2040,
   "perdidos": 888,
-  "pendientes": 12,
+  "pendientes": 13,
   "ganados_dia": 9,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -954,6 +954,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
+   "apuesta": "SI, US Open, Qualification ATP: Pedro Martinez ganara",
+   "usdc": 91354,
+   "prob": 55.5,
+   "n_traders": 2,
+   "trader": "swisstony",
+   "hora": "21:24"
+  },
+  {
    "titulo": "Will Valencia CF win on 2026-08-25?",
    "apuesta": "SI, Valencia ganara",
    "usdc": 711819,
@@ -1015,15 +1024,6 @@
    "n_traders": 3,
    "trader": "swisstony",
    "hora": "19:43"
-  },
-  {
-   "titulo": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko",
-   "apuesta": "SI, US Open, Qualification ATP: Gauthier Onclin ganara",
-   "usdc": 53856,
-   "prob": 75.0,
-   "n_traders": 4,
-   "trader": "swisstony",
-   "hora": "19:22"
   }
  ],
  "stats_gt": {
@@ -1035,7 +1035,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 9,
-  "en_juego": 13,
+  "en_juego": 14,
   "win_rate": 50
  },
  "stats_banker": {
