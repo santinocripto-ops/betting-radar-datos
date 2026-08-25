@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T13:00:40.497817+00:00",
+ "actualizado": "2026-08-25T13:07:42.452165+00:00",
  "partidos_vivo": [
   {
    "home": "Coventry City U21",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,7 +116,7 @@
    "minuto": 11,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
    "es_hoy": true
   },
@@ -128,13 +134,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42633.0,
-  "balance_total": 32633.0,
-  "balance_dia": 22.0,
-  "ganados": 2033,
+  "capital": 42694.0,
+  "balance_total": 32694.0,
+  "balance_dia": 83.0,
+  "ganados": 2034,
   "perdidos": 881,
-  "pendientes": 2,
-  "ganados_dia": 2,
+  "pendientes": 1,
+  "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -630,16 +636,16 @@
  },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 2065,
-  "ganados": 1432,
+  "n": 2066,
+  "ganados": 1433,
   "win_rate": 69,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 3,
   "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 67
+  "en_juego": 2,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 59,
