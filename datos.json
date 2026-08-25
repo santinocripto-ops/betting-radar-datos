@@ -1,70 +1,13 @@
 {
- "actualizado": "2026-08-25T21:06:47.038876+00:00",
+ "actualizado": "2026-08-25T21:16:44.187233+00:00",
  "partidos_vivo": [
   {
-   "home": "Valencia",
-   "away": "Real Betis",
-   "liga": "La Liga",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Lask Linz",
-   "away": "Celtic",
-   "liga": "UEFA Champions League",
-   "minuto": 58,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Bodo/Glimt",
-   "away": "NEC Nijmegen",
-   "liga": "UEFA Champions League",
-   "minuto": 54,
-   "marcador": "2-0",
+   "home": "Alianza Atletico",
+   "away": "UTC Cajamarca",
+   "liga": "Copa De La Liga",
+   "minuto": 50,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Kelty Hearts",
-   "away": "Clydebank",
-   "liga": "Challenge Cup",
-   "minuto": 57,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
    "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
@@ -72,112 +15,17 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Birmingham",
-   "away": "Brentford",
-   "liga": "League Cup",
-   "minuto": 57,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Birmingham pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Sporting CP U23",
-   "away": "Benfica U23",
-   "liga": "Liga Revelação U23",
-   "minuto": 57,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga goleadora: 3.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Gualberto Villarroel SJ",
-   "away": "Oriente Petrolero",
-   "liga": "Primera División",
-   "minuto": 51,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "General Caballero",
-   "away": "Rubio NU",
-   "liga": "Copa Paraguay",
-   "minuto": 57,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.8 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Nottingham Forest",
-   "away": "Leeds",
-   "liga": "League Cup",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Nottingham Forest buscará el empate",
-    "⏱ 32 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Al Quwa Al Jawiya",
-   "away": "Ghaz Al Shamal",
-   "liga": "Iraqi League",
-   "minuto": 62,
-   "marcador": "0-1",
+   "home": "Jarabacoa",
+   "away": "Atlántico",
+   "liga": "Liga Mayor",
+   "minuto": 55,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 0.5,
    "recomendar": false,
@@ -186,9 +34,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.15 goles/partido",
+    "🔒 Liga muy cerrada: 1.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Quwa Al Jawiya buscará el empate"
+    "⚽ 1 gol — Atlántico buscará el empate"
    ]
   }
  ],
@@ -686,13 +534,6 @@
    "liga": "League Cup",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Lokomotive Leipzig",
-   "away": "Chemnitzer FC",
-   "liga": "Regionalliga - Nordost",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -710,6 +551,48 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-25T22:30:00+00:00",
     "ts": "2026-08-25T15:03:34.625982+00:00"
+   },
+   {
+    "home": "Juventude",
+    "away": "CRB",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 5.16,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-25T22:30:00+00:00",
+    "ts": "2026-08-25T21:06:36.609711+00:00"
+   },
+   {
+    "home": "Juventude",
+    "away": "CRB",
+    "liga": "Serie B",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "pinnacle": true,
+    "delta": 3.26,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-25T22:30:00+00:00",
+    "ts": "2026-08-25T21:06:36.807915+00:00"
+   },
+   {
+    "home": "Juventude",
+    "away": "CRB",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 6,
+    "pinnacle": false,
+    "delta": 3.96,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-25T22:30:00+00:00",
+    "ts": "2026-08-25T21:06:36.966072+00:00"
    },
    {
     "home": "Deportivo Madryn",
@@ -864,54 +747,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-24T18:45:00+00:00",
     "ts": "2026-08-24T13:05:57.958938+00:00"
-   },
-   {
-    "home": "Sivasspor",
-    "away": "Manisa F.K.",
-    "liga": "1. Lig",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "pinnacle": true,
-    "delta": 3.26,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-24T18:30:00+00:00",
-    "ts": "2026-08-24T14:07:12.370638+00:00"
-   },
-   {
-    "home": "Jong PSV U21",
-    "away": "FC OSS",
-    "liga": "Eerste Divisie",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "pinnacle": true,
-    "delta": 3.52,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-24T18:00:00+00:00",
-    "ts": "2026-08-24T13:05:56.333357+00:00"
-   },
-   {
-    "home": "Farense",
-    "away": "Felgueiras 1932",
-    "liga": "Segunda Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 9,
-    "pinnacle": true,
-    "delta": 3.81,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-24T17:00:00+00:00",
-    "ts": "2026-08-24T10:08:07.482816+00:00"
    }
   ],
   "balance": {
    "ganados": 144,
    "perdidos": 67,
-   "pendientes": 3,
+   "pendientes": 6,
    "acierto": 68.2,
    "total": 211
   }
@@ -999,7 +840,7 @@
  "stats_dia": {
   "ganados": 22,
   "perdidos": 11,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 67
  },
  "stats_banker": {
