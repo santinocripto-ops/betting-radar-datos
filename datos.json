@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T01:35:41.835723+00:00",
+ "actualizado": "2026-08-25T01:42:24.606102+00:00",
  "partidos_vivo": [
   {
    "home": "Lanus",
@@ -562,7 +562,17 @@
    "total": 207
   }
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 108690,
+   "prob": 35.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "03:42"
+  }
+ ],
  "stats_gt": {
   "n": 2064,
   "ganados": 1431,
