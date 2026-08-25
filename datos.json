@@ -1,164 +1,107 @@
 {
- "actualizado": "2026-08-25T17:07:08.867756+00:00",
+ "actualizado": "2026-08-25T17:08:23.063367+00:00",
  "partidos_vivo": [
   {
-   "home": "Motorlet Praha",
-   "away": "Vysočina Jihlava",
-   "liga": "Cup",
-   "minuto": 49,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Horní Ředice",
-   "away": "Dukla Praha",
-   "liga": "Cup",
-   "minuto": 52,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "SGI",
-   "away": "Aarhus Fremad",
-   "liga": "DBU Pokalen",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Vatanspor",
-   "away": "Aalborg",
-   "liga": "DBU Pokalen",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Allerød",
-   "away": "Vanløse",
-   "liga": "DBU Pokalen",
-   "minuto": 49,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sokol Zápy",
-   "away": "Bohemians 1905",
-   "liga": "Cup",
-   "minuto": 49,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Beroe",
-   "away": "Spartak Pleven",
-   "liga": "Second League",
+   "home": "Auda",
+   "away": "FK Liepaja",
+   "liga": "Virsliga",
    "minuto": 47,
-   "marcador": "2-0",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.7,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Växjö Norra",
+   "away": "Sölvesborg",
+   "liga": "Division 2 - Södra Götaland",
+   "minuto": 49,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 4.0,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Såby",
-   "away": "Roskilde",
-   "liga": "DBU Pokalen",
+   "home": "Brann W",
+   "away": "Austria Wien W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Academico Viseu U23",
+   "away": "Vizela U23",
+   "liga": "Liga Revelação U23",
    "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 4.0,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Såby buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Munkebo",
-   "away": "Næsby",
+   "home": "Al Kuwait",
+   "away": "Al Arabi",
+   "liga": "Premier League",
+   "minuto": 55,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto",
+    "⏱ 35 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Skovshoved",
+   "away": "Tårnby FF",
    "liga": "DBU Pokalen",
-   "minuto": 52,
-   "marcador": "0-1",
+   "minuto": 57,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 3.5,
    "recomendar": false,
@@ -169,31 +112,12 @@
    "razones": [
     "⚽ Liga muy goleadora: 4.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Munkebo buscará el empate"
+    "⚽ 1 gol — Tårnby FF buscará el empate"
    ]
   },
   {
-   "home": "OKS",
-   "away": "Middelfart",
-   "liga": "DBU Pokalen",
-   "minuto": 51,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — OKS buscará el empate"
-   ]
-  },
-  {
-   "home": "Uničov",
-   "away": "Zlin",
+   "home": "Hluboka nad Vltavou",
+   "away": "Viktoria Žižkov",
    "liga": "Cup",
    "minuto": 51,
    "marcador": "0-1",
@@ -207,11 +131,67 @@
    "razones": [
     "⚽ Liga muy goleadora: 4.38 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Uničov buscará el empate"
+    "⚽ 1 gol — Hluboka nad Vltavou buscará el empate"
+   ]
+  },
+  {
+   "home": "Al-Jolan SC",
+   "away": "Al Shorta",
+   "liga": "Iraqi League",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.15 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Al-Jolan SC buscará el empate"
+   ]
+  },
+  {
+   "home": "Zakho",
+   "away": "Diyala",
+   "liga": "Iraqi League",
+   "minuto": 62,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 0.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.15 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "19:08",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -264,24 +244,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:21",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:13",
    "tipo": "smart_money"
   }
  ],
@@ -402,7 +364,7 @@
    "minuto": 10,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-25",
    "es_hoy": true
   },
@@ -420,16 +382,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42755.0,
-  "balance_total": 32755.0,
-  "balance_dia": 144.0,
+  "capital": 42455.0,
+  "balance_total": 32455.0,
+  "balance_dia": -156.0,
   "ganados": 2035,
-  "perdidos": 881,
-  "pendientes": 7,
+  "perdidos": 884,
+  "pendientes": 6,
   "ganados_dia": 4,
-  "perdidos_dia": 1,
-  "win_rate": 69.8,
-  "roi": 11.2,
+  "perdidos_dia": 4,
+  "win_rate": 69.7,
+  "roi": 11.1,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -700,11 +662,18 @@
  },
  "reentradas": [
   {
+   "home": "Auda",
+   "away": "FK Liepaja",
+   "liga": "Virsliga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Varnsdorf",
    "away": "Ústí nad Labem",
    "liga": "Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -994,16 +963,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2067,
+  "n": 2068,
   "ganados": 1434,
   "win_rate": 69,
   "hoy": 8
  },
  "stats_dia": {
   "ganados": 4,
-  "perdidos": 1,
-  "en_juego": 9,
-  "win_rate": 80
+  "perdidos": 4,
+  "en_juego": 8,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 59,
