@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T16:37:26.319087+00:00",
+ "actualizado": "2026-08-25T16:45:17.430116+00:00",
  "partidos_vivo": [
   {
    "home": "Motorlet Praha",
@@ -213,6 +213,30 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:45",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:44",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:44",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:36",
@@ -259,30 +283,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "17:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Deportivo Madryn vs Godoy Cruz · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: ",
-   "hora": "17:03",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Brønshøj",
+   "away": "AB Copenhagen",
+   "liga": "DBU Pokalen",
+   "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
+  {
    "home": "Al Taawon",
    "away": "Al-Fayha",
    "liga": "Pro League",
@@ -401,17 +412,6 @@
    "liga": "Professional Development League",
    "minuto": 11,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": true
-  },
-  {
-   "home": "Measurers",
-   "away": "Mohammedan",
-   "liga": "Calcutta Premier Division",
-   "minuto": 11,
-   "score": 8.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
@@ -930,6 +930,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Real Betis Balompié win on 2026-08-25?",
+   "apuesta": "NO, Real Betis Balompié no ganara",
+   "usdc": 99427,
+   "prob": 64.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "18:45"
+  },
+  {
+   "titulo": "Carbajal vs. Cosano: Match O/U 23.5",
+   "apuesta": "SI, mas de 23.5 goles",
+   "usdc": 110884,
+   "prob": 99.1,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "18:44"
+  },
+  {
+   "titulo": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
+   "apuesta": "SI, US Open, Qualification ATP: Soon-Woo Kwon ganara",
+   "usdc": 50798,
+   "prob": 36.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:44"
+  },
+  {
    "titulo": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
    "apuesta": "SI, US Open, Qualification ATP: Sebastian Ofner ganara",
    "usdc": 150652,
@@ -961,7 +988,7 @@
   "n": 2067,
   "ganados": 1434,
   "win_rate": 69,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 4,
