@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T19:46:26.455063+00:00",
+ "actualizado": "2026-08-25T19:53:20.875944+00:00",
  "partidos_vivo": [
   {
    "home": "Ross County",
@@ -100,6 +100,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:53",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:31",
    "tipo": "live"
@@ -161,12 +167,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:54",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:54",
    "tipo": "live"
   }
@@ -302,7 +302,7 @@
   "balance_dia": -283.0,
   "ganados": 2040,
   "perdidos": 888,
-  "pendientes": 14,
+  "pendientes": 15,
   "ganados_dia": 9,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -576,6 +576,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Ipswich",
+   "away": "Leicester",
+   "liga": "League Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Lokomotive Leipzig",
    "away": "Chemnitzer FC",
@@ -902,7 +909,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 9,
-  "en_juego": 15,
+  "en_juego": 16,
   "win_rate": 50
  },
  "stats_banker": {
