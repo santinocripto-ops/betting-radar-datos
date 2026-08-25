@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T09:41:18.705338+00:00",
+ "actualizado": "2026-08-25T09:48:10.915030+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -182,7 +182,7 @@
   "balance_dia": -39.0,
   "ganados": 2032,
   "perdidos": 881,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 1,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -634,7 +634,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 1,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 50
  },
  "stats_banker": {
