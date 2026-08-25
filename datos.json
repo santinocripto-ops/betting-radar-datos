@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T19:24:29.905802+00:00",
+ "actualizado": "2026-08-25T19:31:46.566767+00:00",
  "partidos_vivo": [
   {
    "home": "Sheffield United U21",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:31",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "21:24",
@@ -296,12 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:54",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:54",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -362,6 +362,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Afturelding",
+   "away": "Grotta",
+   "liga": "1. Deild",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
+  {
    "home": "Nottingham Forest",
    "away": "Leeds",
    "liga": "League Cup",
@@ -411,17 +422,6 @@
    "liga": "League Cup",
    "minuto": 10,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25",
-   "es_hoy": true
-  },
-  {
-   "home": "Blackpool",
-   "away": "Lincoln",
-   "liga": "League Cup",
-   "minuto": 10,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-25",
@@ -1030,7 +1030,7 @@
   "n": 2073,
   "ganados": 1436,
   "win_rate": 69,
-  "hoy": 21
+  "hoy": 22
  },
  "stats_dia": {
   "ganados": 9,
