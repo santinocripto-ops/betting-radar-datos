@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T17:36:36.691420+00:00",
+ "actualizado": "2026-08-25T17:43:32.824230+00:00",
  "partidos_vivo": [
   {
    "home": "Portimonense U23",
@@ -139,6 +139,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "19:43",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "19:22",
    "tipo": "smart_money"
   },
@@ -194,12 +200,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:45",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:44",
    "tipo": "smart_money"
   },
   {
@@ -868,6 +868,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Wolverhampton Wanderers FC win on 2026-08-25?",
+   "apuesta": "SI, Wolverhampton Wanderers ganara",
+   "usdc": 31038,
+   "prob": 65.5,
+   "n_traders": 3,
+   "trader": "swisstony",
+   "hora": "19:43"
+  },
+  {
    "titulo": "US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko",
    "apuesta": "SI, US Open, Qualification ATP: Gauthier Onclin ganara",
    "usdc": 53856,
@@ -929,15 +938,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "18:21"
-  },
-  {
-   "titulo": "Will Al Taawoun Saudi Club win on 2026-08-25?",
-   "apuesta": "SI, Al Taawoun Saudi Club ganara",
-   "usdc": 26176,
-   "prob": 59.5,
-   "n_traders": 2,
-   "trader": "swisstony",
-   "hora": "18:13"
   }
  ],
  "stats_gt": {
