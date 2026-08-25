@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T00:53:59.137351+00:00",
+ "actualizado": "2026-08-25T01:08:14.038811+00:00",
  "partidos_vivo": [
   {
    "home": "Everton de Vina",
@@ -40,7 +40,14 @@
    ]
   }
  ],
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "03:08",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
@@ -70,7 +77,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 964
+   "n_historico": 965
   },
   {
    "clave": "btts",
@@ -84,7 +91,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 942
+   "n_historico": 943
   }
  ],
  "gol_temprano": [
@@ -356,10 +363,10 @@
    }
   ],
   "balance": {
-   "ganados": 1132,
+   "ganados": 1134,
    "perdidos": 774,
    "acierto": 59.4,
-   "yield": 9.9,
+   "yield": 10.0,
    "cuota_media": 1.85
   }
  },
