@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T16:14:11.541193+00:00",
+ "actualizado": "2026-08-25T16:21:42.448545+00:00",
  "partidos_vivo": [
   {
    "home": "Varnsdorf",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:21",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "18:14",
@@ -144,12 +150,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:12",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -292,7 +292,7 @@
   "balance_dia": 144.0,
   "ganados": 2035,
   "perdidos": 881,
-  "pendientes": 3,
+  "pendientes": 5,
   "ganados_dia": 4,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -797,6 +797,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Carbajal vs. Cosano: Match O/U 21.5",
+   "apuesta": "SI, mas de 21.5 goles",
+   "usdc": 81820,
+   "prob": 87.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "18:21"
+  },
+  {
    "titulo": "Will Al Taawoun Saudi Club win on 2026-08-25?",
    "apuesta": "SI, Al Taawoun Saudi Club ganara",
    "usdc": 26176,
@@ -815,7 +824,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 5,
+  "en_juego": 7,
   "win_rate": 80
  },
  "stats_banker": {
