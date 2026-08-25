@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T13:55:03.860258+00:00",
+ "actualizado": "2026-08-25T14:02:23.256111+00:00",
  "partidos_vivo": [
   {
    "home": "Bolton Wanderers Res.",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -94,7 +100,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 948
+   "n_historico": 949
   }
  ],
  "gol_temprano": [
@@ -105,7 +111,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
    "es_hoy": true
   },
@@ -134,13 +140,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42694.0,
-  "balance_total": 32694.0,
-  "balance_dia": 83.0,
-  "ganados": 2034,
+  "capital": 42755.0,
+  "balance_total": 32755.0,
+  "balance_dia": 144.0,
+  "ganados": 2035,
   "perdidos": 881,
-  "pendientes": 1,
-  "ganados_dia": 3,
+  "pendientes": 0,
+  "ganados_dia": 4,
   "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -406,7 +412,7 @@
   ],
   "balance": {
    "ganados": 1138,
-   "perdidos": 780,
+   "perdidos": 781,
    "acierto": 59.3,
    "yield": 12.7,
    "cuota_media": 1.9
@@ -636,16 +642,16 @@
  },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 2066,
-  "ganados": 1433,
+  "n": 2067,
+  "ganados": 1434,
   "win_rate": 69,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 3,
+  "ganados": 4,
   "perdidos": 1,
-  "en_juego": 2,
-  "win_rate": 75
+  "en_juego": 1,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 59,
