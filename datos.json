@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T09:34:21.603824+00:00",
+ "actualizado": "2026-08-25T09:41:18.705338+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "11:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -87,12 +93,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "09:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -152,6 +152,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Measurers",
+   "away": "Mohammedan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 11,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
   {
    "home": "Atlas W",
    "away": "Tijuana W",
@@ -618,7 +629,7 @@
   "n": 2065,
   "ganados": 1432,
   "win_rate": 69,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
