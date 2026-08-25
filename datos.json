@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T18:47:42.321125+00:00",
+ "actualizado": "2026-08-25T18:54:55.472475+00:00",
  "partidos_vivo": [
   {
    "home": "Skjold Sæby",
@@ -118,6 +118,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:54",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:54",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:54",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:26",
@@ -170,24 +188,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:50",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:43",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:22",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -847,6 +847,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will LASK Linz win on 2026-08-25?",
+   "apuesta": "SI, LASK Linz ganara",
+   "usdc": 123396,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "20:54"
+  },
+  {
    "titulo": "Sabah FK vs. MH Hapoel Be'er Sheva: O/U 4.5",
    "apuesta": "SI, mas de 4.5 goles",
    "usdc": 27322,
@@ -908,15 +917,6 @@
    "n_traders": 2,
    "trader": "swisstony",
    "hora": "19:00"
-  },
-  {
-   "titulo": "Will Real Betis Balompié win on 2026-08-25?",
-   "apuesta": "NO, Real Betis Balompié no ganara",
-   "usdc": 99427,
-   "prob": 64.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "18:45"
   }
  ],
  "stats_gt": {
