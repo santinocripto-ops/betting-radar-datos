@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-08-25T13:34:51.446601+00:00",
+ "actualizado": "2026-08-25T13:41:39.544041+00:00",
  "partidos_vivo": [
   {
-   "home": "Coventry City U21",
-   "away": "Fleetwood Town U21",
+   "home": "Bolton Wanderers Res.",
+   "away": "Colchester United U21",
    "liga": "Professional Development League",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.0,
+   "minuto": 50,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -17,7 +17,7 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Coventry City U21 buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
