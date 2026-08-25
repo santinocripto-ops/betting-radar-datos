@@ -1,30 +1,30 @@
 {
- "actualizado": "2026-08-25T17:29:01.057942+00:00",
+ "actualizado": "2026-08-25T17:36:34.673674+00:00",
  "partidos_vivo": [
   {
-   "home": "Auda",
-   "away": "FK Liepaja",
-   "liga": "Virsliga",
+   "home": "Portimonense U23",
+   "away": "Farense U23",
+   "liga": "Liga Revelação U23",
    "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 8.7,
-   "recomendar": true,
+   "score": 5.2,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Växjö Norra",
-   "away": "Sölvesborg",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 49,
+   "home": "Fuglebakken KFUM",
+   "away": "Vendsyssel FF",
+   "liga": "DBU Pokalen",
+   "minuto": 47,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "score": 5.0,
@@ -34,73 +34,54 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Brann W",
-   "away": "Austria Wien W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 50,
-   "marcador": "1-1",
+   "home": "Eskilsminne",
+   "away": "Orgryte IS",
+   "liga": "Svenska Cupen",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 4.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.26 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Orgryte IS buscará el empate"
+   ]
+  },
+  {
+   "home": "Bayern München II",
+   "away": "Memmingen",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 46,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 5.0,
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Academico Viseu U23",
-   "away": "Vizela U23",
-   "liga": "Liga Revelação U23",
-   "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Al Kuwait",
-   "away": "Al Arabi",
-   "liga": "Premier League",
-   "minuto": 55,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Skovshoved",
-   "away": "Tårnby FF",
-   "liga": "DBU Pokalen",
-   "minuto": 57,
+   "home": "Utsikten",
+   "away": "BK Hacken",
+   "liga": "Svenska Cupen",
+   "minuto": 51,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 3.5,
@@ -110,18 +91,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚽ Liga muy goleadora: 3.26 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tårnby FF buscará el empate"
+    "⚽ 1 gol — BK Hacken buscará el empate"
    ]
   },
   {
-   "home": "Hluboka nad Vltavou",
-   "away": "Viktoria Žižkov",
-   "liga": "Cup",
-   "minuto": 51,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Famalicão U23",
+   "away": "Felgueiras U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 59,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "score": 3.5,
    "recomendar": false,
    "momentum_home": 50,
@@ -129,47 +110,28 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hluboka nad Vltavou buscará el empate"
-   ]
-  },
-  {
-   "home": "Al-Jolan SC",
-   "away": "Al Shorta",
-   "liga": "Iraqi League",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al-Jolan SC buscará el empate"
-   ]
-  },
-  {
-   "home": "Zakho",
-   "away": "Diyala",
-   "liga": "Iraqi League",
-   "minuto": 62,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 0.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.15 goles/partido",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Al Waab",
+   "away": "Al Rayyan SC B",
+   "liga": "Second Division",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Al Rayyan SC B buscará el empate"
    ]
   }
  ],
