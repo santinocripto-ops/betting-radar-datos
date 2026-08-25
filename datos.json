@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T18:55:13.378578+00:00",
+ "actualizado": "2026-08-25T19:02:13.022538+00:00",
  "partidos_vivo": [
   {
    "home": "Skjold Sæby",
@@ -118,6 +118,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:02",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:55",
@@ -182,12 +188,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:57",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -847,6 +847,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Valencia CF win on 2026-08-25?",
+   "apuesta": "SI, Valencia ganara",
+   "usdc": 711819,
+   "prob": 35.5,
+   "n_traders": 2,
+   "trader": "BreakTheBank",
+   "hora": "21:02"
+  },
+  {
    "titulo": "Will LASK Linz win on 2026-08-25?",
    "apuesta": "SI, LASK Linz ganara",
    "usdc": 123396,
@@ -908,15 +917,6 @@
    "n_traders": 4,
    "trader": "swisstony",
    "hora": "19:22"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-08-29?",
-   "apuesta": "NO, Newcastle United no ganara",
-   "usdc": 57759,
-   "prob": 68.5,
-   "n_traders": 2,
-   "trader": "swisstony",
-   "hora": "19:00"
   }
  ],
  "stats_gt": {
