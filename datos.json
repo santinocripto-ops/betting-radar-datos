@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T08:06:40.491140+00:00",
+ "actualizado": "2026-08-25T08:07:01.972505+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -22,6 +22,24 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Unirea Slobozia vs Metaloglobus · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota:",
+   "hora": "10:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -75,22 +93,20 @@
    "texto": "──────────────────────────────",
    "hora": "03:42",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "03:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Unirea Slobozia",
+   "away": "Metaloglobus",
+   "liga": "Liga II",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.37,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -613,7 +629,7 @@
  "stats_banker": {
   "ganados": 59,
   "perdidos": 22,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
