@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T03:58:32.310662+00:00",
+ "actualizado": "2026-08-25T04:05:24.214999+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -76,7 +76,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 969
+   "n_historico": 970
   },
   {
    "clave": "btts",
@@ -90,7 +90,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 947
+   "n_historico": 948
   }
  ],
  "gol_temprano": [
@@ -108,14 +108,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42672.0,
-  "balance_total": 32672.0,
-  "balance_dia": 61.0,
+  "capital": 42572.0,
+  "balance_total": 32572.0,
+  "balance_dia": -39.0,
   "ganados": 2032,
-  "perdidos": 880,
-  "pendientes": 1,
+  "perdidos": 881,
+  "pendientes": 0,
   "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.2,
   "stake": 100.0,
@@ -137,7 +137,7 @@
     "away": "Sporting KC II",
     "liga": "MLS Next Pro",
     "hora": "04:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -229,7 +229,7 @@
     "away": "Sporting KC II",
     "liga": "MLS Next Pro",
     "hora": "04:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -307,8 +307,8 @@
    }
   ],
   "balance": {
-   "ganados": 1137,
-   "perdidos": 779,
+   "ganados": 1138,
+   "perdidos": 780,
    "acierto": 59.3,
    "yield": 9.8,
    "cuota_media": 1.85
@@ -555,9 +555,9 @@
  },
  "stats_dia": {
   "ganados": 1,
-  "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 100
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 59,
