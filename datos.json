@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-08-25T16:36:05.892730+00:00",
+ "actualizado": "2026-08-25T16:37:26.319087+00:00",
  "partidos_vivo": [
   {
-   "home": "Varnsdorf",
-   "away": "Ústí nad Labem",
+   "home": "Motorlet Praha",
+   "away": "Vysočina Jihlava",
    "liga": "Cup",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 9.2,
-   "recomendar": true,
+   "minuto": 49,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 6.5,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
@@ -17,36 +17,112 @@
    "razones": [
     "⚽ Liga muy goleadora: 4.38 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Dinamo Samarqand",
-   "away": "Pakhtakor",
-   "liga": "Super League",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.2,
+   "home": "Horní Ředice",
+   "away": "Dukla Praha",
+   "liga": "Cup",
+   "minuto": 52,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "SGI",
+   "away": "Aarhus Fremad",
+   "liga": "DBU Pokalen",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "CSKA Sofia II",
-   "away": "Ludogorets II",
-   "liga": "Second League",
-   "minuto": 49,
+   "home": "Vatanspor",
+   "away": "Aalborg",
+   "liga": "DBU Pokalen",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Allerød",
+   "away": "Vanløse",
+   "liga": "DBU Pokalen",
+   "minuto": 49,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Sokol Zápy",
+   "away": "Bohemians 1905",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Beroe",
+   "away": "Spartak Pleven",
+   "liga": "Second League",
+   "minuto": 47,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -55,14 +131,14 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.76 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Tartu Kalev",
-   "away": "Tallinna Kalev II",
-   "liga": "Esiliiga B",
-   "minuto": 48,
+   "home": "Såby",
+   "away": "Roskilde",
+   "liga": "DBU Pokalen",
+   "minuto": 49,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 4.0,
@@ -72,9 +148,66 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tartu Kalev buscará el empate"
+    "⚽ 1 gol — Såby buscará el empate"
+   ]
+  },
+  {
+   "home": "Munkebo",
+   "away": "Næsby",
+   "liga": "DBU Pokalen",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Munkebo buscará el empate"
+   ]
+  },
+  {
+   "home": "OKS",
+   "away": "Middelfart",
+   "liga": "DBU Pokalen",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — OKS buscará el empate"
+   ]
+  },
+  {
+   "home": "Uničov",
+   "away": "Zlin",
+   "liga": "Cup",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Uničov buscará el empate"
    ]
   }
  ],
@@ -292,7 +425,7 @@
   "balance_dia": 144.0,
   "ganados": 2035,
   "perdidos": 881,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 4,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -833,7 +966,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 80
  },
  "stats_banker": {
