@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T22:51:55.154253+00:00",
+ "actualizado": "2026-08-25T22:51:58.803715+00:00",
  "partidos_vivo": [
   {
    "home": "Defensor Sporting",
@@ -171,6 +171,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Juventude",
+   "away": "CRB",
+   "liga": "Serie B",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": false
+  },
+  {
    "home": "Afturelding",
    "away": "Grotta",
    "liga": "1. Deild",
@@ -220,17 +231,6 @@
    "liga": "League Cup",
    "minuto": 18,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Southampton",
-   "away": "West Ham",
-   "liga": "League Cup",
-   "minuto": 10,
-   "score": 8.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
