@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T21:50:53.341135+00:00",
+ "actualizado": "2026-08-25T21:58:07.551286+00:00",
  "partidos_vivo": [
   {
    "home": "Popayan",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "23:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Juventude vs CRB · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.39 (10 casas)",
@@ -85,12 +91,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
    "hora": "21:17",
    "tipo": "live"
   }
