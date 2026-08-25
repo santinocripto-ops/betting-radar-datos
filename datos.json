@@ -1,27 +1,52 @@
 {
- "actualizado": "2026-08-25T10:29:16.970134+00:00",
+ "actualizado": "2026-08-25T10:36:23.140972+00:00",
  "partidos_vivo": [
   {
-   "home": "Tacoma Defiance",
-   "away": "Sporting KC II",
-   "liga": "MLS Next Pro",
-   "minuto": 49,
-   "marcador": "4-0",
+   "home": "Moreland City",
+   "away": "Nunawading",
+   "liga": "Victoria Premier League 2",
+   "minuto": 47,
+   "marcador": "1-3",
    "apuesta": "Over 4.5",
-   "score": 8.2,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Lions",
+   "away": "North Sunshine Eagles",
+   "liga": "Australia Cup",
+   "minuto": 48,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.85 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "12:36",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -68,12 +93,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "10:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:04",
    "tipo": "smart_money"
   },
   {
@@ -182,7 +201,7 @@
   "balance_dia": -39.0,
   "ganados": 2032,
   "perdidos": 881,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 1,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -634,7 +653,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 1,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 50
  },
  "stats_banker": {
