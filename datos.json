@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T17:50:34.792826+00:00",
+ "actualizado": "2026-08-25T17:57:20.274954+00:00",
  "partidos_vivo": [
   {
    "home": "Portimonense U23",
@@ -139,6 +139,18 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "19:57",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:57",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "19:50",
    "tipo": "smart_money"
   },
@@ -194,18 +206,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:00",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:45",
    "tipo": "smart_money"
   }
  ],
@@ -868,6 +868,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Southampton FC win on 2026-08-25?",
+   "apuesta": "SI, Southampton ganara",
+   "usdc": 140758,
+   "prob": 46.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "19:57"
+  },
+  {
+   "titulo": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz",
+   "apuesta": "SI, US Open, Qualification ATP: Alex Bolt ganara",
+   "usdc": 104736,
+   "prob": 37.5,
+   "n_traders": 3,
+   "trader": "swisstony",
+   "hora": "19:56"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
    "usdc": 133736,
@@ -920,24 +938,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x8",
    "hora": "18:44"
-  },
-  {
-   "titulo": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
-   "apuesta": "SI, US Open, Qualification ATP: Soon-Woo Kwon ganara",
-   "usdc": 50798,
-   "prob": 36.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:44"
-  },
-  {
-   "titulo": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
-   "apuesta": "SI, US Open, Qualification ATP: Sebastian Ofner ganara",
-   "usdc": 150652,
-   "prob": 29.5,
-   "n_traders": 4,
-   "trader": "RN1",
-   "hora": "18:36"
   }
  ],
  "stats_gt": {
