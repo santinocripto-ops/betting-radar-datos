@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T01:55:57.013964+00:00",
+ "actualizado": "2026-08-25T02:02:40.849861+00:00",
  "partidos_vivo": [
   {
    "home": "Internacional Palmira",
@@ -70,7 +70,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 965
+   "n_historico": 966
   },
   {
    "clave": "btts",
@@ -84,7 +84,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 943
+   "n_historico": 944
   }
  ],
  "gol_temprano": [
@@ -140,7 +140,7 @@
     "away": "Macara",
     "liga": "Liga Pro",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -232,7 +232,7 @@
     "away": "Macara",
     "liga": "Liga Pro",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -302,9 +302,9 @@
   ],
   "balance": {
    "ganados": 1134,
-   "perdidos": 774,
+   "perdidos": 776,
    "acierto": 59.4,
-   "yield": 10.0,
+   "yield": 9.8,
    "cuota_media": 1.85
   }
  },
