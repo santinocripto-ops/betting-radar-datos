@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T22:05:58.229955+00:00",
+ "actualizado": "2026-08-25T22:13:19.013214+00:00",
  "partidos_vivo": [
   {
    "home": "Popayan",
@@ -527,8 +527,8 @@
     "casas": 3,
     "pinnacle": true,
     "delta": 3.16,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "5-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-25T19:00:00+00:00",
     "ts": "2026-08-25T01:08:14.263187+00:00"
    },
@@ -660,11 +660,11 @@
    }
   ],
   "balance": {
-   "ganados": 144,
+   "ganados": 145,
    "perdidos": 67,
-   "pendientes": 6,
-   "acierto": 68.2,
-   "total": 211
+   "pendientes": 5,
+   "acierto": 68.4,
+   "total": 212
   }
  },
  "apuestas_top": [
@@ -750,7 +750,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
