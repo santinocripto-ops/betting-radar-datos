@@ -1,42 +1,61 @@
 {
- "actualizado": "2026-08-25T11:44:56.617781+00:00",
+ "actualizado": "2026-08-25T11:52:07.127020+00:00",
  "partidos_vivo": [
   {
-   "home": "Estoril U23",
-   "away": "Moreirense U23",
-   "liga": "Liga Revelação U23",
-   "minuto": 60,
+   "home": "Gimcheon Sangmu FC",
+   "away": "Jeonbuk Motors",
+   "liga": "K League 1",
+   "minuto": 62,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 4.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga por encima de la media: 2.78 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Avangard Kursk",
-   "away": "Kaluga",
-   "liga": "Cup",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 2.5,
+   "home": "Jeju United FC",
+   "away": "Pohang Steelers",
+   "liga": "K League 1",
+   "minuto": 63,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga por encima de la media: 2.78 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⏱ 25 minutos por jugar — margen justo"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "FC Seoul",
+   "away": "Bucheon FC 1995",
+   "liga": "K League 1",
+   "minuto": 63,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.78 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Bucheon FC 1995 buscará el empate"
    ]
   }
  ],
