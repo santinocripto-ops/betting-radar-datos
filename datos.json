@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-08-25T23:38:22.692754+00:00",
+ "actualizado": "2026-08-25T23:46:18.833337+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Madryn",
-   "away": "Godoy Cruz",
-   "liga": "Primera Nacional",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 1.5,
+   "home": "Atletico Goianiense",
+   "away": "Botafogo SP",
+   "liga": "Serie B",
+   "minuto": 55,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -17,7 +17,26 @@
    "razones": [
     "🔒 Liga poco goleadora: 2.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Godoy Cruz buscará el empate"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Juventude",
+   "away": "CRB",
+   "liga": "Serie B",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 1.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Juventude buscará el empate"
    ]
   }
  ],
