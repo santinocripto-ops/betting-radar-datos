@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T18:12:44.688695+00:00",
+ "actualizado": "2026-08-25T18:19:28.308181+00:00",
  "partidos_vivo": [
   {
    "home": "Skive",
@@ -340,7 +340,7 @@
   "balance_dia": -89.0,
   "ganados": 2038,
   "perdidos": 885,
-  "pendientes": 5,
+  "pendientes": 9,
   "ganados_dia": 7,
   "perdidos_dia": 5,
   "win_rate": 69.7,
@@ -947,7 +947,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 6,
-  "en_juego": 6,
+  "en_juego": 10,
   "win_rate": 54
  },
  "stats_banker": {
