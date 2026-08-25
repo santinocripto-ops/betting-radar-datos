@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-08-25T14:56:20.278353+00:00",
+ "actualizado": "2026-08-25T15:03:42.543658+00:00",
  "partidos_vivo": [
   {
-   "home": "Queens Park Rangers U21",
-   "away": "Hull City U21",
-   "liga": "Professional Development League",
-   "minuto": 51,
+   "home": "Dinamo Kirov",
+   "away": "Amkar",
+   "liga": "Cup",
+   "minuto": 46,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "score": 2.0,
@@ -15,13 +15,31 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 2 goles — partido activo",
+    "⏱ 44 minutos por jugar — margen amplio"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Deportivo Madryn vs Godoy Cruz · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: ",
+   "hora": "17:03",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -49,6 +67,15 @@
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Deportivo Madryn",
+   "away": "Godoy Cruz",
+   "liga": "Primera Nacional",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.23,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25"
+  },
   {
    "home": "Unirea Slobozia",
    "away": "Metaloglobus",
@@ -656,7 +683,7 @@
  "stats_banker": {
   "ganados": 59,
   "perdidos": 22,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
