@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T17:00:16.058462+00:00",
+ "actualizado": "2026-08-25T17:07:08.867756+00:00",
  "partidos_vivo": [
   {
    "home": "Motorlet Praha",
@@ -213,6 +213,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "19:07",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:00",
@@ -277,12 +283,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:13",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "18:06",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
