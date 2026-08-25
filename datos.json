@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T21:58:07.551286+00:00",
+ "actualizado": "2026-08-25T22:05:34.626973+00:00",
  "partidos_vivo": [
   {
    "home": "Popayan",
@@ -135,29 +135,29 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "baja",
-   "home": "Sabah FA",
-   "away": "Hapoel Beer Sheva",
+   "home": "Celje",
+   "away": "Slovan Bratislava",
    "liga": "UEFA Champions League",
    "cuota": null,
    "score": 4.0,
-   "hora": "16:45",
-   "resultado": "ganado",
+   "hora": "19:00",
+   "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 978
+   "n_historico": 979
   },
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "baja",
-   "home": "Sabah FA",
-   "away": "Hapoel Beer Sheva",
+   "home": "Celje",
+   "away": "Slovan Bratislava",
    "liga": "UEFA Champions League",
    "cuota": null,
    "score": 3.0,
-   "hora": "16:45",
-   "resultado": "ganado",
+   "hora": "19:00",
+   "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 956
+   "n_historico": 957
   }
  ],
  "gol_temprano": [
@@ -168,9 +168,9 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Nottingham Forest",
@@ -181,7 +181,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Blackburn",
@@ -192,7 +192,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Ipswich",
@@ -203,7 +203,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Barnsley",
@@ -214,7 +214,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Southampton",
@@ -225,19 +225,19 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42905.0,
-  "balance_total": 32905.0,
-  "balance_dia": 294.0,
-  "ganados": 2053,
+  "capital": 42966.0,
+  "balance_total": 32966.0,
+  "balance_dia": 0.0,
+  "ganados": 2054,
   "perdidos": 890,
-  "pendientes": 1,
-  "ganados_dia": 22,
-  "perdidos_dia": 10,
+  "pendientes": 0,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.8,
   "roi": 11.2,
   "stake": 100.0,
@@ -246,62 +246,53 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Atlas W",
-    "away": "Tijuana W",
-    "liga": "Liga MX Femenil",
-    "hora": "03:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Tacoma Defiance",
-    "away": "Sporting KC II",
-    "liga": "MLS Next Pro",
-    "hora": "04:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Libertad",
-    "away": "Macara",
-    "liga": "Liga Pro",
+    "home": "River Plate Res.",
+    "away": "Unión Santa Fe Res.",
+    "liga": "Reserve League",
     "hora": "02:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Lanus",
-    "away": "Argentinos JRS",
-    "liga": "Liga Profesional Argentina",
-    "hora": "02:15",
-    "resultado": "ganado",
+    "home": "Cruzeiro",
+    "away": "Atletico-MG",
+    "liga": "Copa Do Brasil",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Talleres Cordoba",
-    "away": "Rosario Central",
-    "liga": "Liga Profesional Argentina",
-    "hora": "02:15",
-    "resultado": "ganado",
+    "home": "Independiente del Valle",
+    "away": "Deportes Tolima",
+    "liga": "CONMEBOL Libertadores",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Sabah FA",
-    "away": "Hapoel Beer Sheva",
-    "liga": "UEFA Champions League",
-    "hora": "18:45",
-    "resultado": "ganado",
+    "home": "Monterrey",
+    "away": "Chicago Fire",
+    "liga": "Leagues Cup",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Lask Linz",
-    "away": "Celtic",
+    "home": "Cucuta",
+    "away": "Alianza Valledupar",
+    "liga": "Primera A",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Celje",
+    "away": "Slovan Bratislava",
     "liga": "UEFA Champions League",
     "hora": "21:00",
     "resultado": "pendiente",
@@ -309,64 +300,37 @@
     "tanda": 2
    },
    {
-    "home": "Bodo/Glimt",
-    "away": "NEC Nijmegen",
+    "home": "AEK Athens FC",
+    "away": "Levski Sofia",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "FK Tobol Kostanay",
-    "away": "Kaisar",
+    "home": "Lyon",
+    "away": "Fenerbahçe",
+    "liga": "UEFA Champions League",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Viking",
+    "away": "Dinamo Zagreb",
+    "liga": "UEFA Champions League",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Smouha SC",
+    "away": "Asyut Petrol",
     "liga": "Premier League",
     "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Al Kuwait",
-    "away": "Al Arabi",
-    "liga": "Premier League",
-    "hora": "17:45",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Sheffield United U21",
-    "away": "West Ham United U21",
-    "liga": "Premier League Cup",
-    "hora": "20:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Valencia",
-    "away": "Real Betis",
-    "liga": "La Liga",
-    "hora": "21:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Al Fahaheel",
-    "away": "Al Qadsia",
-    "liga": "Premier League",
-    "hora": "20:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Alianza Atletico",
-    "away": "UTC Cajamarca",
-    "liga": "Copa De La Liga",
-    "hora": "22:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
@@ -374,62 +338,53 @@
   ],
   "over25": [
    {
-    "home": "Atlas W",
-    "away": "Tijuana W",
-    "liga": "Liga MX Femenil",
-    "hora": "03:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Tacoma Defiance",
-    "away": "Sporting KC II",
-    "liga": "MLS Next Pro",
-    "hora": "04:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Libertad",
-    "away": "Macara",
-    "liga": "Liga Pro",
+    "home": "River Plate Res.",
+    "away": "Unión Santa Fe Res.",
+    "liga": "Reserve League",
     "hora": "02:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Lanus",
-    "away": "Argentinos JRS",
-    "liga": "Liga Profesional Argentina",
-    "hora": "02:15",
-    "resultado": "perdido",
+    "home": "Cruzeiro",
+    "away": "Atletico-MG",
+    "liga": "Copa Do Brasil",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Talleres Cordoba",
-    "away": "Rosario Central",
-    "liga": "Liga Profesional Argentina",
-    "hora": "02:15",
-    "resultado": "ganado",
+    "home": "Independiente del Valle",
+    "away": "Deportes Tolima",
+    "liga": "CONMEBOL Libertadores",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Sabah FA",
-    "away": "Hapoel Beer Sheva",
-    "liga": "UEFA Champions League",
-    "hora": "18:45",
-    "resultado": "ganado",
+    "home": "Monterrey",
+    "away": "Chicago Fire",
+    "liga": "Leagues Cup",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Lask Linz",
-    "away": "Celtic",
+    "home": "Cucuta",
+    "away": "Alianza Valledupar",
+    "liga": "Primera A",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Celje",
+    "away": "Slovan Bratislava",
     "liga": "UEFA Champions League",
     "hora": "21:00",
     "resultado": "pendiente",
@@ -437,86 +392,51 @@
     "tanda": 2
    },
    {
-    "home": "Bodo/Glimt",
-    "away": "NEC Nijmegen",
+    "home": "AEK Athens FC",
+    "away": "Levski Sofia",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "FK Tobol Kostanay",
-    "away": "Kaisar",
+    "home": "Lyon",
+    "away": "Fenerbahçe",
+    "liga": "UEFA Champions League",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Viking",
+    "away": "Dinamo Zagreb",
+    "liga": "UEFA Champions League",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Smouha SC",
+    "away": "Asyut Petrol",
     "liga": "Premier League",
     "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Al Kuwait",
-    "away": "Al Arabi",
-    "liga": "Premier League",
-    "hora": "17:45",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Sheffield United U21",
-    "away": "West Ham United U21",
-    "liga": "Premier League Cup",
-    "hora": "20:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Valencia",
-    "away": "Real Betis",
-    "liga": "La Liga",
-    "hora": "21:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Al Fahaheel",
-    "away": "Al Qadsia",
-    "liga": "Premier League",
-    "hora": "20:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Alianza Atletico",
-    "away": "UTC Cajamarca",
-    "liga": "Copa De La Liga",
-    "hora": "22:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1149,
+   "ganados": 1151,
    "perdidos": 785,
-   "acierto": 59.4,
-   "yield": 12.9,
+   "acierto": 59.5,
+   "yield": 13.0,
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Ipswich",
-   "away": "Leicester",
-   "liga": "League Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -813,16 +733,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2085,
-  "ganados": 1446,
+  "n": 2086,
+  "ganados": 1447,
   "win_rate": 69,
-  "hoy": 22
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 22,
-  "perdidos": 11,
-  "en_juego": 3,
-  "win_rate": 67
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 59,
