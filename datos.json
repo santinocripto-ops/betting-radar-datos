@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T22:44:32.314626+00:00",
+ "actualizado": "2026-08-25T22:51:55.154253+00:00",
  "partidos_vivo": [
   {
    "home": "Defensor Sporting",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -87,12 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:53",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
