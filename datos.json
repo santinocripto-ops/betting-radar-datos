@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T16:29:03.317925+00:00",
+ "actualizado": "2026-08-25T16:36:05.892730+00:00",
  "partidos_vivo": [
   {
    "home": "Varnsdorf",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:36",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:28",
@@ -143,12 +149,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:02",
    "tipo": "smart_money"
   }
  ],
@@ -796,6 +796,15 @@
   }
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
+   "apuesta": "SI, US Open, Qualification ATP: Sebastian Ofner ganara",
+   "usdc": 150652,
+   "prob": 29.5,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "18:36"
+  },
   {
    "titulo": "Carbajal vs. Cosano: Match O/U 21.5",
    "apuesta": "SI, mas de 21.5 goles",
