@@ -1,107 +1,202 @@
 {
- "actualizado": "2026-08-25T19:03:29.169781+00:00",
+ "actualizado": "2026-08-25T19:17:23.707280+00:00",
  "partidos_vivo": [
   {
-   "home": "Skjold Sæby",
-   "away": "Espergærde",
-   "liga": "DBU Pokalen",
-   "minuto": 50,
+   "home": "Sheffield United U21",
+   "away": "West Ham United U21",
+   "liga": "Premier League Cup",
+   "minuto": 56,
    "marcador": "3-0",
    "apuesta": "Over 3.5",
-   "score": 6.5,
+   "score": 8.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga muy goleadora: 3.47 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Al Fahaheel",
+   "away": "Al Qadsia",
+   "liga": "Premier League",
+   "minuto": 54,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 36 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Bristol Rovers",
+   "away": "Chelsea U21",
+   "liga": "EFL Trophy",
+   "minuto": 58,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Chelsea U21 buscará el empate"
+   ]
+  },
+  {
+   "home": "Al-Ettifaq",
+   "away": "Al-Nassr",
+   "liga": "Pro League",
+   "minuto": 51,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Al Shabab",
+   "away": "Al Riyadh",
+   "liga": "Pro League",
+   "minuto": 54,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Al Zawra'a",
+   "away": "Naft Maysan",
+   "liga": "Iraqi League",
+   "minuto": 55,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.15 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Siwelele",
-   "away": "Chippa United",
-   "liga": "Premier Soccer League",
-   "minuto": 51,
+   "home": "Sarmiento Res.",
+   "away": "Aldosivi Res.",
+   "liga": "Reserve League",
+   "minuto": 59,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 4.2,
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Kruger United",
-   "away": "Durban City",
-   "liga": "Premier Soccer League",
-   "minuto": 51,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.0,
+   "home": "San Martín San Juan Res.",
+   "away": "Huracán Res.",
+   "liga": "Reserve League",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⚡ Kruger United pierde por 2 — atacará sin freno"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Dodoma Jiji",
-   "away": "Polisi Tanzania",
-   "liga": "Ligi kuu Bara",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.0,
+   "home": "UAI Urquiza",
+   "away": "Deportivo Laferrere",
+   "liga": "Primera B Metropolitana",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 2.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "🔒 Liga muy cerrada: 1.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dodoma Jiji buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Orlando Pirates",
-   "away": "Sekhukhune United",
-   "liga": "Premier Soccer League",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "home": "Villa Dalmine",
+   "away": "Talleres Remedios",
+   "liga": "Primera B Metropolitana",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 2.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga muy cerrada: 1.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Sekhukhune United buscará el empate",
-    "⏱ 41 minutos por jugar — margen amplio"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Marumo Gallants",
-   "away": "TS Galaxy",
-   "liga": "Premier Soccer League",
+   "home": "San Martín Burzaco",
+   "away": "Argentino Quilmes",
+   "liga": "Primera B Metropolitana",
    "minuto": 47,
-   "marcador": "1-1",
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "score": 2.0,
    "recomendar": false,
@@ -110,13 +205,44 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga muy cerrada: 1.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 43 minutos por jugar — margen amplio"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Cardiff",
+   "away": "Norwich",
+   "liga": "League Cup",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Cardiff buscará el empate",
+    "⏱ 35 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "21:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -176,18 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:26",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -248,6 +362,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Nottingham Forest",
+   "away": "Leeds",
+   "liga": "League Cup",
+   "minuto": 17,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
+  {
    "home": "Blackburn",
    "away": "Sheffield Utd",
    "liga": "League Cup",
@@ -301,17 +426,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-25",
    "es_hoy": true
-  },
-  {
-   "home": "Guiseley AFC",
-   "away": "Stockton Town",
-   "liga": "Non League Premier - Northern",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -321,7 +435,7 @@
   "balance_dia": -283.0,
   "ganados": 2040,
   "perdidos": 888,
-  "pendientes": 8,
+  "pendientes": 12,
   "ganados_dia": 9,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -615,13 +729,6 @@
    "liga": "Virsliga",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Varnsdorf",
-   "away": "Ústí nad Labem",
-   "liga": "Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -691,8 +798,8 @@
     "casas": 5,
     "pinnacle": true,
     "delta": 4.42,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-08-25T17:00:00+00:00",
     "ts": "2026-08-25T08:06:53.129109+00:00"
    },
@@ -839,10 +946,10 @@
   ],
   "balance": {
    "ganados": 143,
-   "perdidos": 66,
-   "pendientes": 5,
-   "acierto": 68.4,
-   "total": 209
+   "perdidos": 67,
+   "pendientes": 4,
+   "acierto": 68.1,
+   "total": 210
   }
  },
  "apuestas_top": [
@@ -923,12 +1030,12 @@
   "n": 2073,
   "ganados": 1436,
   "win_rate": 69,
-  "hoy": 20
+  "hoy": 21
  },
  "stats_dia": {
   "ganados": 9,
   "perdidos": 9,
-  "en_juego": 9,
+  "en_juego": 13,
   "win_rate": 50
  },
  "stats_banker": {
