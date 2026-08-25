@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T22:59:21.979094+00:00",
+ "actualizado": "2026-08-25T23:07:01.722209+00:00",
  "partidos_vivo": [
   {
    "home": "Defensor Sporting",
@@ -152,7 +152,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 979
+   "n_historico": 980
   },
   {
    "clave": "btts",
@@ -166,7 +166,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 957
+   "n_historico": 958
   }
  ],
  "gol_temprano": [
@@ -438,10 +438,10 @@
    }
   ],
   "balance": {
-   "ganados": 1151,
-   "perdidos": 785,
-   "acierto": 59.5,
-   "yield": 13.0,
+   "ganados": 1152,
+   "perdidos": 786,
+   "acierto": 59.4,
+   "yield": 12.9,
    "cuota_media": 1.9
   }
  },
