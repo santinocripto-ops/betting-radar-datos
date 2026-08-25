@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T19:31:46.566767+00:00",
+ "actualizado": "2026-08-25T19:38:55.524275+00:00",
  "partidos_vivo": [
   {
    "home": "Sheffield United U21",
@@ -435,7 +435,7 @@
   "balance_dia": -283.0,
   "ganados": 2040,
   "perdidos": 888,
-  "pendientes": 13,
+  "pendientes": 14,
   "ganados_dia": 9,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -1035,7 +1035,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 9,
-  "en_juego": 14,
+  "en_juego": 15,
   "win_rate": 50
  },
  "stats_banker": {
