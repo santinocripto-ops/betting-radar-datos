@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T04:12:25.602309+00:00",
+ "actualizado": "2026-08-25T04:19:16.548561+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:19",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -537,6 +543,15 @@
   }
  },
  "apuestas_top": [
+  {
+   "titulo": "Monterrey Open: Diane Parry vs Donna Vekic",
+   "apuesta": "SI, Monterrey Open: Diane Parry ganara",
+   "usdc": 15780,
+   "prob": 48.5,
+   "n_traders": 3,
+   "trader": "swisstony",
+   "hora": "06:19"
+  },
   {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
