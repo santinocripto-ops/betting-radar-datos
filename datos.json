@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-08-25T18:33:11.642568+00:00",
+ "actualizado": "2026-08-25T18:40:48.103536+00:00",
  "partidos_vivo": [
   {
-   "home": "Skive",
-   "away": "Esbjerg",
+   "home": "Skjold Sæby",
+   "away": "Espergærde",
    "liga": "DBU Pokalen",
-   "minuto": 49,
-   "marcador": "0-3",
+   "minuto": 50,
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
    "score": 6.5,
    "recomendar": false,
@@ -21,117 +21,98 @@
    ]
   },
   {
-   "home": "Luckenwalde",
-   "away": "FC Rot-Weiß Erfurt",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 48,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.35 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Žalgiris II",
-   "away": "Transinvest 2",
-   "liga": "1 Lyga",
-   "minuto": 47,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sabah FA",
-   "away": "Hapoel Beer Sheva",
-   "liga": "UEFA Champions League",
-   "minuto": 58,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Osters IF",
-   "away": "GIF Sundsvall",
-   "liga": "Superettan",
-   "minuto": 48,
+   "home": "Siwelele",
+   "away": "Chippa United",
+   "liga": "Premier Soccer League",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 4.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Orebro SK",
-   "away": "Varbergs BoIS FC",
-   "liga": "Superettan",
-   "minuto": 46,
-   "marcador": "2-0",
+   "home": "Kruger United",
+   "away": "Durban City",
+   "liga": "Premier Soccer League",
+   "minuto": 51,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 4.0,
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 2 goles — partido activo",
+    "⚡ Kruger United pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Magdeburg II",
-   "away": "BSG Chemie Leipzig",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 52,
+   "home": "Dodoma Jiji",
+   "away": "Polisi Tanzania",
+   "liga": "Ligi kuu Bara",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Dodoma Jiji buscará el empate"
+   ]
+  },
+  {
+   "home": "Orlando Pirates",
+   "away": "Sekhukhune United",
+   "liga": "Premier Soccer League",
+   "minuto": 49,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 3.2,
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.35 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Sekhukhune United buscará el empate",
+    "⏱ 41 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Marumo Gallants",
+   "away": "TS Galaxy",
+   "liga": "Premier Soccer League",
+   "minuto": 47,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo",
+    "⏱ 43 minutos por jugar — margen amplio"
    ]
   }
  ],
