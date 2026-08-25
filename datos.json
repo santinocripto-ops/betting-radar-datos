@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T15:58:36.373895+00:00",
+ "actualizado": "2026-08-25T16:05:54.303618+00:00",
  "partidos_vivo": [
   {
    "home": "Vukovar",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:05",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
