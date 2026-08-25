@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T11:58:52.638457+00:00",
+ "actualizado": "2026-08-25T12:05:51.351996+00:00",
  "partidos_vivo": [
   {
    "home": "Gimcheon Sangmu FC",
@@ -59,7 +59,14 @@
    ]
   }
  ],
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [
   {
@@ -142,13 +149,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42572.0,
-  "balance_total": 32572.0,
-  "balance_dia": -39.0,
-  "ganados": 2032,
+  "capital": 42633.0,
+  "balance_total": 32633.0,
+  "balance_dia": 22.0,
+  "ganados": 2033,
   "perdidos": 881,
-  "pendientes": 2,
-  "ganados_dia": 1,
+  "pendientes": 1,
+  "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -650,10 +657,10 @@
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 50
+  "en_juego": 2,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 59,
