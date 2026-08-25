@@ -1,31 +1,50 @@
 {
- "actualizado": "2026-08-25T01:15:14.560952+00:00",
+ "actualizado": "2026-08-25T01:22:19.668497+00:00",
  "partidos_vivo": [
   {
-   "home": "Everton de Vina",
-   "away": "Universidad de Concepcion",
-   "liga": "Primera División",
-   "minuto": 65,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 5.0,
+   "home": "Lanus",
+   "away": "Argentinos JRS",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 3.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
+    "🔒 Liga poco goleadora: 2.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "San Luis",
-   "away": "Santiago Wanderers",
-   "liga": "Primera B",
-   "minuto": 64,
-   "marcador": "0-1",
+   "home": "Libertad",
+   "away": "Macara",
+   "liga": "Liga Pro",
+   "minuto": 63,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Macara buscará el empate"
+   ]
+  },
+  {
+   "home": "Talleres Cordoba",
+   "away": "Rosario Central",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 46,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 1.5,
    "recomendar": false,
@@ -34,9 +53,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga poco goleadora: 2.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — San Luis buscará el empate",
-    "⏱ 26 minutos por jugar — margen justo"
+    "⚽ 1 gol — Rosario Central buscará el empate"
    ]
   }
  ],
