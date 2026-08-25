@@ -1,11 +1,87 @@
 {
- "actualizado": "2026-08-25T17:57:20.274954+00:00",
+ "actualizado": "2026-08-25T18:05:22.598219+00:00",
  "partidos_vivo": [
   {
-   "home": "Portimonense U23",
-   "away": "Farense U23",
-   "liga": "Liga Revelação U23",
+   "home": "Skive",
+   "away": "Esbjerg",
+   "liga": "DBU Pokalen",
+   "minuto": 49,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Luckenwalde",
+   "away": "FC Rot-Weiß Erfurt",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 48,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.35 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Žalgiris II",
+   "away": "Transinvest 2",
+   "liga": "1 Lyga",
    "minuto": 47,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Sabah FA",
+   "away": "Hapoel Beer Sheva",
+   "liga": "UEFA Champions League",
+   "minuto": 58,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Osters IF",
+   "away": "GIF Sundsvall",
+   "liga": "Superettan",
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 5.2,
@@ -15,57 +91,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Fuglebakken KFUM",
-   "away": "Vendsyssel FF",
-   "liga": "DBU Pokalen",
-   "minuto": 47,
-   "marcador": "0-2",
+   "home": "Orebro SK",
+   "away": "Varbergs BoIS FC",
+   "liga": "Superettan",
+   "minuto": 46,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 5.0,
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.14 goles/partido",
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Eskilsminne",
-   "away": "Orgryte IS",
-   "liga": "Svenska Cupen",
-   "minuto": 47,
+   "home": "Magdeburg II",
+   "away": "BSG Chemie Leipzig",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 52,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Orgryte IS buscará el empate"
-   ]
-  },
-  {
-   "home": "Bayern München II",
-   "away": "Memmingen",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 4.0,
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -73,65 +130,8 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚽ Liga muy goleadora: 3.35 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Utsikten",
-   "away": "BK Hacken",
-   "liga": "Svenska Cupen",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — BK Hacken buscará el empate"
-   ]
-  },
-  {
-   "home": "Famalicão U23",
-   "away": "Felgueiras U23",
-   "liga": "Liga Revelação U23",
-   "minuto": 59,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Al Waab",
-   "away": "Al Rayyan SC B",
-   "liga": "Second Division",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 1.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Rayyan SC B buscará el empate"
    ]
   }
  ],
@@ -219,15 +219,6 @@
    "cuota": 1.23,
    "resultado": "pendiente",
    "fecha": "2026-08-25"
-  },
-  {
-   "home": "Unirea Slobozia",
-   "away": "Metaloglobus",
-   "liga": "Liga II",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.37,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25"
   }
  ],
  "mejores_dia": [
@@ -257,7 +248,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 971
+   "n_historico": 972
   },
   {
    "clave": "btts",
@@ -271,7 +262,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 950
+   "n_historico": 951
   }
  ],
  "gol_temprano": [
@@ -315,7 +306,7 @@
    "minuto": 14,
    "score": 8.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
    "es_hoy": true
   },
@@ -326,7 +317,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-25",
    "es_hoy": true
   },
@@ -344,14 +335,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42455.0,
-  "balance_total": 32455.0,
-  "balance_dia": -156.0,
-  "ganados": 2035,
-  "perdidos": 884,
-  "pendientes": 8,
-  "ganados_dia": 4,
-  "perdidos_dia": 4,
+  "capital": 42522.0,
+  "balance_total": 32522.0,
+  "balance_dia": -89.0,
+  "ganados": 2038,
+  "perdidos": 885,
+  "pendientes": 4,
+  "ganados_dia": 7,
+  "perdidos_dia": 5,
   "win_rate": 69.7,
   "roi": 11.1,
   "stake": 100.0,
@@ -445,7 +436,7 @@
     "away": "Al Arabi",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -573,7 +564,7 @@
     "away": "Al Arabi",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -615,9 +606,9 @@
    }
   ],
   "balance": {
-   "ganados": 1140,
+   "ganados": 1142,
    "perdidos": 781,
-   "acierto": 59.3,
+   "acierto": 59.4,
    "yield": 12.8,
    "cuota_media": 1.9
   }
@@ -635,7 +626,7 @@
    "away": "FK Liepaja",
    "liga": "Virsliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Varnsdorf",
@@ -941,22 +932,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2068,
-  "ganados": 1434,
+  "n": 2070,
+  "ganados": 1435,
   "win_rate": 69,
   "hoy": 9
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 4,
-  "en_juego": 10,
-  "win_rate": 50
+  "ganados": 7,
+  "perdidos": 6,
+  "en_juego": 5,
+  "win_rate": 54
  },
  "stats_banker": {
   "ganados": 59,
-  "perdidos": 22,
-  "pendientes": 2,
-  "win_rate": 73
+  "perdidos": 23,
+  "pendientes": 1,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
