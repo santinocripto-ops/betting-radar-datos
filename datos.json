@@ -1,14 +1,52 @@
 {
- "actualizado": "2026-08-25T02:16:15.449650+00:00",
+ "actualizado": "2026-08-25T02:23:16.256914+00:00",
  "partidos_vivo": [
   {
-   "home": "Internacional Palmira",
-   "away": "Barranquilla",
-   "liga": "Primera B",
-   "minuto": 50,
+   "home": "Atlas W",
+   "away": "Tijuana W",
+   "liga": "Liga MX Femenil",
+   "minuto": 60,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 2.5,
+   "score": 5.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Guadalupe FC",
+   "away": "AD Carmelita",
+   "liga": "Liga de Ascenso",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Guadalupe FC buscará el empate"
+   ]
+  },
+  {
+   "home": "Alianza FC",
+   "away": "Tauro FC",
+   "liga": "Liga Panameña de Fútbol",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -16,8 +54,8 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Barranquilla buscará el empate",
-    "⏱ 40 minutos por jugar — margen amplio"
+    "⚽ 1 gol — Tauro FC buscará el empate",
+    "⏱ 25 minutos por jugar — margen justo"
    ]
   }
  ],
