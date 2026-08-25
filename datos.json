@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T20:00:16.664739+00:00",
+ "actualizado": "2026-08-25T20:07:07.158171+00:00",
  "partidos_vivo": [
   {
    "home": "Ross County",
@@ -99,6 +99,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:07",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:53",
@@ -162,12 +168,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:54",
    "tipo": "live"
   }
  ],
@@ -828,6 +828,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
+   "apuesta": "SI, ganara",
+   "usdc": 54650,
+   "prob": 15.0,
+   "n_traders": 4,
+   "trader": "swisstony",
+   "hora": "22:07"
+  },
+  {
    "titulo": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
    "apuesta": "SI, US Open, Qualification ATP: Pedro Martinez ganara",
    "usdc": 91354,
@@ -889,15 +898,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "19:50"
-  },
-  {
-   "titulo": "Will Wolverhampton Wanderers FC win on 2026-08-25?",
-   "apuesta": "SI, Wolverhampton Wanderers ganara",
-   "usdc": 31038,
-   "prob": 65.5,
-   "n_traders": 3,
-   "trader": "swisstony",
-   "hora": "19:43"
   }
  ],
  "stats_gt": {
