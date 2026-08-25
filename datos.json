@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T16:21:42.448545+00:00",
+ "actualizado": "2026-08-25T16:29:03.317925+00:00",
  "partidos_vivo": [
   {
    "home": "Varnsdorf",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:28",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:21",
@@ -143,12 +149,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:07",
    "tipo": "smart_money"
   }
  ],
@@ -219,6 +219,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Taawon",
+   "away": "Al-Fayha",
+   "liga": "Pro League",
+   "minuto": 19,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-25",
+   "es_hoy": true
+  },
+  {
    "home": "Brann W",
    "away": "Austria Wien W",
    "liga": "UEFA Champions League Women",
@@ -268,17 +279,6 @@
    "liga": "Calcutta Premier Division",
    "minuto": 11,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": true
-  },
-  {
-   "home": "Atlas W",
-   "away": "Tijuana W",
-   "liga": "Liga MX Femenil",
-   "minuto": 14,
-   "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-25",
@@ -819,7 +819,7 @@
   "n": 2067,
   "ganados": 1434,
   "win_rate": 69,
-  "hoy": 6
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 4,
