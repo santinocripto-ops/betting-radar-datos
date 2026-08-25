@@ -1,14 +1,71 @@
 {
- "actualizado": "2026-08-25T20:07:57.322567+00:00",
+ "actualizado": "2026-08-25T20:16:34.709072+00:00",
  "partidos_vivo": [
   {
-   "home": "Ross County",
-   "away": "Banks O' Dee",
-   "liga": "Challenge Cup",
-   "minuto": 46,
+   "home": "Valencia",
+   "away": "Real Betis",
+   "liga": "La Liga",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.2,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Lask Linz",
+   "away": "Celtic",
+   "liga": "UEFA Champions League",
+   "minuto": 58,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Bodo/Glimt",
+   "away": "NEC Nijmegen",
+   "liga": "UEFA Champions League",
+   "minuto": 54,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 5.0,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Kelty Hearts",
+   "away": "Clydebank",
+   "liga": "Challenge Cup",
+   "minuto": 57,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -16,70 +73,89 @@
    "remates_away": "-",
    "razones": [
     "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Birmingham",
+   "away": "Brentford",
+   "liga": "League Cup",
+   "minuto": 57,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Birmingham pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Sporting CP U23",
+   "away": "Benfica U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 57,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Hamilton Academical",
-   "away": "Edinburgh City",
-   "liga": "Challenge Cup",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hamilton Academical buscará el empate"
-   ]
-  },
-  {
-   "home": "Cowdenbeath",
-   "away": "East Kilbride",
-   "liga": "Challenge Cup",
-   "minuto": 46,
+   "home": "Gualberto Villarroel SJ",
+   "away": "Oriente Petrolero",
+   "liga": "Primera División",
+   "minuto": 51,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 3.5,
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Stevenage",
-   "away": "Reading",
-   "liga": "League Cup",
-   "minuto": 46,
-   "marcador": "0-2",
+   "home": "General Caballero",
+   "away": "Rubio NU",
+   "liga": "Copa Paraguay",
+   "minuto": 57,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 3.5,
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⚡ Stevenage pierde por 2 — atacará sin freno"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Doncaster",
-   "away": "Middlesbrough",
+   "home": "Nottingham Forest",
+   "away": "Leeds",
    "liga": "League Cup",
    "minuto": 58,
    "marcador": "0-1",
@@ -92,12 +168,37 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Doncaster buscará el empate",
+    "⚽ 1 gol — Nottingham Forest buscará el empate",
     "⏱ 32 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Al Quwa Al Jawiya",
+   "away": "Ghaz Al Shamal",
+   "liga": "Iraqi League",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.15 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Al Quwa Al Jawiya buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "22:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -161,12 +262,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:55",
    "tipo": "live"
   }
@@ -302,7 +397,7 @@
   "balance_dia": 22.0,
   "ganados": 2045,
   "perdidos": 888,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 14,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -589,13 +684,6 @@
    "liga": "Regionalliga - Nordost",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Al Taawon",
-   "away": "Al-Fayha",
-   "liga": "Pro League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -651,8 +739,8 @@
     "casas": 3,
     "pinnacle": true,
     "delta": 3.1,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-3",
+    "resultado": "ganado",
     "kickoff": "2026-08-25T18:00:00+00:00",
     "ts": "2026-08-25T14:02:23.430881+00:00"
    },
@@ -812,11 +900,11 @@
    }
   ],
   "balance": {
-   "ganados": 143,
+   "ganados": 144,
    "perdidos": 67,
-   "pendientes": 4,
-   "acierto": 68.1,
-   "total": 210
+   "pendientes": 3,
+   "acierto": 68.2,
+   "total": 211
   }
  },
  "apuestas_top": [
@@ -902,7 +990,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 9,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 61
  },
  "stats_banker": {
