@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T02:57:08.996443+00:00",
+ "actualizado": "2026-08-25T03:04:26.369107+00:00",
  "partidos_vivo": [
   {
    "home": "Atlas W",
@@ -108,7 +108,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 966
+   "n_historico": 969
   },
   {
    "clave": "btts",
@@ -122,7 +122,7 @@
    "hora": "16:45",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 944
+   "n_historico": 947
   }
  ],
  "gol_temprano": [
@@ -133,20 +133,20 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42611.0,
-  "balance_total": 32611.0,
-  "balance_dia": 0.0,
-  "ganados": 2031,
+  "capital": 42672.0,
+  "balance_total": 32672.0,
+  "balance_dia": 61.0,
+  "ganados": 2032,
   "perdidos": 880,
-  "pendientes": 1,
-  "ganados_dia": 0,
+  "pendientes": 0,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -160,7 +160,7 @@
     "away": "Tijuana W",
     "liga": "Liga MX Femenil",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -187,7 +187,7 @@
     "away": "Argentinos JRS",
     "liga": "Liga Profesional Argentina",
     "hora": "02:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -196,7 +196,7 @@
     "away": "Rosario Central",
     "liga": "Liga Profesional Argentina",
     "hora": "02:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -252,7 +252,7 @@
     "away": "Tijuana W",
     "liga": "Liga MX Femenil",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -279,7 +279,7 @@
     "away": "Argentinos JRS",
     "liga": "Liga Profesional Argentina",
     "hora": "02:15",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -288,7 +288,7 @@
     "away": "Rosario Central",
     "liga": "Liga Profesional Argentina",
     "hora": "02:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -339,9 +339,9 @@
    }
   ],
   "balance": {
-   "ganados": 1134,
-   "perdidos": 776,
-   "acierto": 59.4,
+   "ganados": 1137,
+   "perdidos": 779,
+   "acierto": 59.3,
    "yield": 9.8,
    "cuota_media": 1.85
   }
@@ -580,16 +580,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2064,
-  "ganados": 1431,
+  "n": 2065,
+  "ganados": 1432,
   "win_rate": 69,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 59,
