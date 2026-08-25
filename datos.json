@@ -1,61 +1,23 @@
 {
- "actualizado": "2026-08-25T01:49:09.847192+00:00",
+ "actualizado": "2026-08-25T01:55:57.013964+00:00",
  "partidos_vivo": [
   {
-   "home": "Lanus",
-   "away": "Argentinos JRS",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Libertad",
-   "away": "Macara",
-   "liga": "Liga Pro",
-   "minuto": 63,
+   "home": "Internacional Palmira",
+   "away": "Barranquilla",
+   "liga": "Primera B",
+   "minuto": 50,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 2.0,
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Macara buscará el empate"
-   ]
-  },
-  {
-   "home": "Talleres Cordoba",
-   "away": "Rosario Central",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 1.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Rosario Central buscará el empate"
+    "⚽ 1 gol — Barranquilla buscará el empate",
+    "⏱ 40 minutos por jugar — margen amplio"
    ]
   }
  ],
