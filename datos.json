@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T11:03:37.155561+00:00",
+ "actualizado": "2026-08-25T11:08:46.687465+00:00",
  "partidos_vivo": [
   {
    "home": "Moreland City",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📈 2ª TANDA OVER 2.5 — HOY 25/08/2026",
+   "hora": "13:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -93,12 +99,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "10:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:04",
    "tipo": "smart_money"
   },
   {
@@ -300,6 +300,42 @@
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
+   },
+   {
+    "home": "Sheffield United U21",
+    "away": "West Ham United U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Valencia",
+    "away": "Real Betis",
+    "liga": "La Liga",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Al Fahaheel",
+    "away": "Al Qadsia",
+    "liga": "Premier League",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Alianza Atletico",
+    "away": "UTC Cajamarca",
+    "liga": "Copa De La Liga",
+    "hora": "22:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
    }
   ],
   "over25": [
@@ -389,6 +425,42 @@
     "away": "Al Arabi",
     "liga": "Premier League",
     "hora": "17:45",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Sheffield United U21",
+    "away": "West Ham United U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Valencia",
+    "away": "Real Betis",
+    "liga": "La Liga",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Al Fahaheel",
+    "away": "Al Qadsia",
+    "liga": "Premier League",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Alianza Atletico",
+    "away": "UTC Cajamarca",
+    "liga": "Copa De La Liga",
+    "hora": "22:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
