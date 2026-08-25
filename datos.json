@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T16:45:17.430116+00:00",
+ "actualizado": "2026-08-25T16:52:38.673542+00:00",
  "partidos_vivo": [
   {
    "home": "Motorlet Praha",
@@ -425,7 +425,7 @@
   "balance_dia": 144.0,
   "ganados": 2035,
   "perdidos": 881,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 4,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -993,7 +993,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 80
  },
  "stats_banker": {
