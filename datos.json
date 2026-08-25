@@ -1,42 +1,23 @@
 {
- "actualizado": "2026-08-25T21:36:12.575365+00:00",
+ "actualizado": "2026-08-25T21:43:36.177933+00:00",
  "partidos_vivo": [
   {
-   "home": "Alianza Atletico",
-   "away": "UTC Cajamarca",
-   "liga": "Copa De La Liga",
-   "minuto": 50,
+   "home": "Popayan",
+   "away": "Bogota FC",
+   "liga": "Primera B",
+   "minuto": 56,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 4.5,
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Jarabacoa",
-   "away": "Atlántico",
-   "liga": "Liga Mayor",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Atlántico buscará el empate"
+    "⚽ 2 goles — partido activo",
+    "⏱ 34 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
