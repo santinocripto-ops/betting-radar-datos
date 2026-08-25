@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-25T09:00:19.357419+00:00",
+ "actualizado": "2026-08-25T09:07:13.859417+00:00",
  "partidos_vivo": [
   {
    "home": "Tacoma Defiance",
@@ -22,6 +22,24 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Unirea Slobozia vs Metaloglobus · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota:",
@@ -74,24 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "07:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:19",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "05:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:42",
    "tipo": "smart_money"
   }
  ],
