@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-08-25T14:09:23.733108+00:00",
+ "actualizado": "2026-08-25T14:16:21.498142+00:00",
  "partidos_vivo": [
   {
-   "home": "Bolton Wanderers Res.",
-   "away": "Colchester United U21",
+   "home": "Queens Park Rangers U21",
+   "away": "Hull City U21",
    "liga": "Professional Development League",
-   "minuto": 50,
-   "marcador": "2-0",
+   "minuto": 51,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 4.0,
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
