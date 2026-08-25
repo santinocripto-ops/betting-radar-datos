@@ -1,220 +1,87 @@
 {
- "actualizado": "2026-08-25T19:38:55.524275+00:00",
+ "actualizado": "2026-08-25T19:46:26.455063+00:00",
  "partidos_vivo": [
   {
-   "home": "Sheffield United U21",
-   "away": "West Ham United U21",
-   "liga": "Premier League Cup",
-   "minuto": 56,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.47 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Al Fahaheel",
-   "away": "Al Qadsia",
-   "liga": "Premier League",
-   "minuto": 54,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⏱ 36 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Bristol Rovers",
-   "away": "Chelsea U21",
-   "liga": "EFL Trophy",
-   "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Chelsea U21 buscará el empate"
-   ]
-  },
-  {
-   "home": "Al-Ettifaq",
-   "away": "Al-Nassr",
-   "liga": "Pro League",
-   "minuto": 51,
+   "home": "Ross County",
+   "away": "Banks O' Dee",
+   "liga": "Challenge Cup",
+   "minuto": 46,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 3.5,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Al Shabab",
-   "away": "Al Riyadh",
-   "liga": "Pro League",
-   "minuto": 54,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.8 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Al Zawra'a",
-   "away": "Naft Maysan",
-   "liga": "Iraqi League",
-   "minuto": 55,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sarmiento Res.",
-   "away": "Aldosivi Res.",
-   "liga": "Reserve League",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "San Martín San Juan Res.",
-   "away": "Huracán Res.",
-   "liga": "Reserve League",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "UAI Urquiza",
-   "away": "Deportivo Laferrere",
-   "liga": "Primera B Metropolitana",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 2.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.7 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Villa Dalmine",
-   "away": "Talleres Remedios",
-   "liga": "Primera B Metropolitana",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 2.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.7 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "San Martín Burzaco",
-   "away": "Argentino Quilmes",
-   "liga": "Primera B Metropolitana",
+   "home": "Hamilton Academical",
+   "away": "Edinburgh City",
+   "liga": "Challenge Cup",
    "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 4.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Hamilton Academical buscará el empate"
+   ]
+  },
+  {
+   "home": "Cowdenbeath",
+   "away": "East Kilbride",
+   "liga": "Challenge Cup",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Stevenage",
+   "away": "Reading",
+   "liga": "League Cup",
+   "minuto": 46,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 2.0,
+   "score": 3.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 2 goles — partido activo",
+    "⚡ Stevenage pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Cardiff",
-   "away": "Norwich",
+   "home": "Doncaster",
+   "away": "Middlesbrough",
    "liga": "League Cup",
-   "minuto": 55,
+   "minuto": 58,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 2.0,
@@ -225,8 +92,8 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cardiff buscará el empate",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
+    "⚽ 1 gol — Doncaster buscará el empate",
+    "⏱ 32 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
