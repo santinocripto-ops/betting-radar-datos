@@ -1,14 +1,14 @@
 {
- "actualizado": "2026-08-25T12:53:43.416675+00:00",
+ "actualizado": "2026-08-25T13:00:40.497817+00:00",
  "partidos_vivo": [
   {
-   "home": "Swansea City U21",
-   "away": "Peterborough United U21",
+   "home": "Coventry City U21",
+   "away": "Fleetwood Town U21",
    "liga": "Professional Development League",
-   "minuto": 59,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 5.0,
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -17,26 +17,7 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "České Budějovice U19",
-   "away": "Zbrojovka Brno U19",
-   "liga": "1. Liga U19",
-   "minuto": 54,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.77 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 1 gol — Coventry City U21 buscará el empate"
    ]
   }
  ],
