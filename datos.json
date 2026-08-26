@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T07:56:44.506234+00:00",
+ "actualizado": "2026-08-26T08:04:27.975584+00:00",
  "partidos_vivo": [
   {
    "home": "CS Cartagines",
@@ -41,6 +41,18 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "10:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -100,18 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:47",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:51",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -616,6 +616,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: Aurora Gaming ganara",
+   "usdc": 85000,
+   "prob": 47.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "10:04"
+  },
+  {
    "titulo": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
    "apuesta": "SI, Monterrey Open: Oleksandra Oliynykova ganara",
    "usdc": 15001,
@@ -677,15 +686,6 @@
    "n_traders": 2,
    "trader": "swisstony",
    "hora": "21:24"
-  },
-  {
-   "titulo": "Will Valencia CF win on 2026-08-25?",
-   "apuesta": "SI, Valencia ganara",
-   "usdc": 711819,
-   "prob": 35.5,
-   "n_traders": 2,
-   "trader": "BreakTheBank",
-   "hora": "21:02"
   }
  ],
  "stats_gt": {
