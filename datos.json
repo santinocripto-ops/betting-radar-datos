@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T13:58:05.241975+00:00",
+ "actualizado": "2026-08-26T14:04:47.756038+00:00",
  "partidos_vivo": [
   {
    "home": "Johor Darul Takzim FC",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -86,12 +92,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "05:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "05:39",
    "tipo": "live"
   }
  ],
