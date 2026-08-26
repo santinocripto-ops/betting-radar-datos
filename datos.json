@@ -1,31 +1,69 @@
 {
- "actualizado": "2026-08-26T12:10:38.660076+00:00",
+ "actualizado": "2026-08-26T12:18:00.044761+00:00",
  "partidos_vivo": [
   {
-   "home": "Gangwon FC",
-   "away": "Gwangju FC",
-   "liga": "K League 1",
-   "minuto": 59,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
+   "home": "Avispa Fukuoka",
+   "away": "Verspah Oita",
+   "liga": "Emperor Cup",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Daejeon Citizen",
-   "away": "Ulsan Hyundai FC",
-   "liga": "K League 1",
+   "home": "KDV",
+   "away": "Chertanovo Moscow",
+   "liga": "Cup",
+   "minuto": 57,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ KDV pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Torpedo Miass",
+   "away": "Volna Nizhegorodskaya",
+   "liga": "Cup",
    "minuto": 58,
-   "marcador": "0-1",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Vozdovac U19",
+   "away": "Brodarac U19",
+   "liga": "U19 league",
+   "minuto": 56,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 2.5,
    "recomendar": false,
@@ -34,28 +72,28 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Daejeon Citizen buscará el empate"
+    "⚽ Liga muy goleadora: 4.15 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "FC Anyang",
-   "away": "Incheon United",
-   "liga": "K League 1",
-   "minuto": 58,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.0,
+   "home": "Nosta",
+   "away": "FK Sokol Saratov",
+   "liga": "Cup",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — FK Sokol Saratov buscará el empate",
+    "⏱ 28 minutos por jugar — margen justo"
    ]
   }
  ],
