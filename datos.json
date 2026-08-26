@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T01:19:25.333240+00:00",
+ "actualizado": "2026-08-26T01:26:54.906680+00:00",
  "partidos_vivo": [
   {
    "home": "Cruzeiro",
@@ -161,7 +161,7 @@
   "balance_dia": 61.0,
   "ganados": 2055,
   "perdidos": 890,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.8,
@@ -667,7 +667,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
