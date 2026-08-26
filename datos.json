@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T10:57:46.819945+00:00",
+ "actualizado": "2026-08-26T11:05:33.254694+00:00",
  "partidos_vivo": [
   {
    "home": "George Telegraph",
@@ -214,6 +214,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:50",
    "tipo": "smart_money"
@@ -276,12 +282,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "04:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "04:12",
    "tipo": "live"
   }
  ],
