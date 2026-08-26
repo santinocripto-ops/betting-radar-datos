@@ -1,27 +1,71 @@
 {
- "actualizado": "2026-08-26T14:04:47.756038+00:00",
+ "actualizado": "2026-08-26T14:05:30.428016+00:00",
  "partidos_vivo": [
   {
-   "home": "Johor Darul Takzim FC",
-   "away": "Kelantan Red Warrior FC",
-   "liga": "Super League",
-   "minuto": 57,
-   "marcador": "5-0",
-   "apuesta": "Over 5.5",
-   "score": 6.0,
+   "home": "Livyi Bereh U19",
+   "away": "Kolos Kovalivka U19",
+   "liga": "U19 League",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Vietnam",
+   "away": "Thailand",
+   "liga": "ASEAN Championship",
+   "minuto": 48,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 4.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "⚽ 1 gol — Vietnam buscará el empate"
+   ]
+  },
+  {
+   "home": "Zlín U19",
+   "away": "Pardubice U19",
+   "liga": "1. Liga U19",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.87 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "16:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -87,12 +131,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "09:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "05:40",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
