@@ -1,31 +1,69 @@
 {
- "actualizado": "2026-08-26T00:09:17.669106+00:00",
+ "actualizado": "2026-08-26T00:17:16.110059+00:00",
  "partidos_vivo": [
   {
-   "home": "Atletico Goianiense",
-   "away": "Botafogo SP",
-   "liga": "Serie B",
-   "minuto": 55,
+   "home": "Santa Fe W",
+   "away": "Orsomarso W",
+   "liga": "Liga Femenina",
+   "minuto": 57,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 2.0,
+   "score": 3.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Juventude",
-   "away": "CRB",
-   "liga": "Serie B",
-   "minuto": 53,
-   "marcador": "0-1",
+   "home": "Universitario de Vinto",
+   "away": "Nacional Potosí",
+   "liga": "Primera División",
+   "minuto": 58,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Nacional Potosí buscará el empate"
+   ]
+  },
+  {
+   "home": "Cibao",
+   "away": "Delfines Del Este",
+   "liga": "Liga Mayor",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 2.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Excursionistas",
+   "away": "Argentino de Merlo",
+   "liga": "Primera B Metropolitana",
+   "minuto": 58,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 1.0,
    "recomendar": false,
@@ -34,9 +72,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "🔒 Liga poco goleadora: 1.9 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Juventude buscará el empate"
+    "⚽ 1 gol — Argentino de Merlo buscará el empate"
    ]
   }
  ],
