@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T16:42:15.664674+00:00",
+ "actualizado": "2026-08-26T16:48:56.639453+00:00",
  "partidos_vivo": [
   {
    "home": "Brønderslev",
@@ -922,6 +922,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino",
+   "apuesta": "SI, US Open, Qualification WTA: Elena Pridankina ganara",
+   "usdc": 154293,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:48"
+  },
+  {
    "titulo": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: FURIA ganara",
    "usdc": 98324,
@@ -983,15 +992,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "03:49"
-  },
-  {
-   "titulo": "Winston-Salem Open: Hugo Grenier vs Sebastian Baez",
-   "apuesta": "SI, ganara",
-   "usdc": 33858,
-   "prob": 12.5,
-   "n_traders": 3,
-   "trader": "swisstony",
-   "hora": "02:47"
   }
  ],
  "stats_gt": {
