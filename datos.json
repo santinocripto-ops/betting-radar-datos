@@ -1,27 +1,52 @@
 {
- "actualizado": "2026-08-26T03:39:45.376928+00:00",
+ "actualizado": "2026-08-26T03:40:09.564356+00:00",
  "partidos_vivo": [
   {
-   "home": "Cucuta",
-   "away": "Alianza Valledupar",
-   "liga": "Primera A",
-   "minuto": 52,
+   "home": "CS Cartagines",
+   "away": "FAS",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.7,
+   "score": 7.7,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Municipal",
+   "away": "CD Motagua",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 50,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.73 goles/partido",
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Municipal buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "05:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -81,12 +106,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "00:51",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:28",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -172,7 +191,7 @@
   "balance_dia": 6.0,
   "ganados": 2056,
   "perdidos": 891,
-  "pendientes": 1,
+  "pendientes": 3,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -374,6 +393,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "CS Cartagines",
+   "away": "FAS",
+   "liga": "CONCACAF Central American Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Cucuta",
    "away": "Alianza Valledupar",
@@ -686,7 +712,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 1,
-  "en_juego": 1,
+  "en_juego": 3,
   "win_rate": 75
  },
  "stats_banker": {
