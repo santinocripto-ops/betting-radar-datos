@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T17:12:09.808953+00:00",
+ "actualizado": "2026-08-26T17:18:50.267575+00:00",
  "partidos_vivo": [
   {
    "home": "Al Shabab",
@@ -425,7 +425,7 @@
   "balance_dia": 73.0,
   "ganados": 2059,
   "perdidos": 892,
-  "pendientes": 7,
+  "pendientes": 12,
   "ganados_dia": 5,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -1003,7 +1003,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 2,
-  "en_juego": 7,
+  "en_juego": 12,
   "win_rate": 75
  },
  "stats_banker": {
