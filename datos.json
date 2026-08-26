@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T02:56:02.042600+00:00",
+ "actualizado": "2026-08-26T03:03:33.010175+00:00",
  "partidos_vivo": [
   {
    "home": "Cucuta",
@@ -124,7 +124,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 981
+   "n_historico": 985
   },
   {
    "clave": "btts",
@@ -138,7 +138,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 959
+   "n_historico": 963
   }
  ],
  "gol_temprano": [
@@ -160,21 +160,21 @@
    "minuto": 19,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-26",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 43027.0,
-  "balance_total": 33027.0,
-  "balance_dia": 61.0,
-  "ganados": 2055,
-  "perdidos": 890,
-  "pendientes": 3,
-  "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "capital": 42972.0,
+  "balance_total": 32972.0,
+  "balance_dia": 6.0,
+  "ganados": 2056,
+  "perdidos": 891,
+  "pendientes": 1,
+  "ganados_dia": 2,
+  "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.2,
   "stake": 100.0,
@@ -187,7 +187,7 @@
     "away": "Unión Santa Fe Res.",
     "liga": "Reserve League",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -205,7 +205,7 @@
     "away": "Deportes Tolima",
     "liga": "CONMEBOL Libertadores",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -214,7 +214,7 @@
     "away": "Chicago Fire",
     "liga": "Leagues Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -223,7 +223,7 @@
     "away": "Alianza Valledupar",
     "liga": "Primera A",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -279,7 +279,7 @@
     "away": "Unión Santa Fe Res.",
     "liga": "Reserve League",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -297,7 +297,7 @@
     "away": "Deportes Tolima",
     "liga": "CONMEBOL Libertadores",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -306,7 +306,7 @@
     "away": "Chicago Fire",
     "liga": "Leagues Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -315,7 +315,7 @@
     "away": "Alianza Valledupar",
     "liga": "Primera A",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -366,10 +366,10 @@
    }
   ],
   "balance": {
-   "ganados": 1153,
-   "perdidos": 787,
-   "acierto": 59.4,
-   "yield": 12.9,
+   "ganados": 1159,
+   "perdidos": 789,
+   "acierto": 59.5,
+   "yield": 13.0,
    "cuota_media": 1.9
   }
  },
@@ -379,7 +379,7 @@
    "away": "Alianza Valledupar",
    "liga": "Primera A",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -678,16 +678,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2087,
+  "n": 2088,
   "ganados": 1448,
   "win_rate": 69,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 100
+  "ganados": 3,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 62,
