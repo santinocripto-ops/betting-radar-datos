@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T18:10:14.181295+00:00",
+ "actualizado": "2026-08-26T18:10:28.835117+00:00",
  "partidos_vivo": [
   {
    "home": "Haugesund",
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Diriyah",
+   "away": "Al Kholood",
+   "liga": "Pro League",
+   "minuto": 10,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
    "home": "Ajax W",
    "away": "Real Madrid W",
    "liga": "UEFA Champions League Women",
@@ -401,17 +412,6 @@
    "liga": "1. Division",
    "minuto": 12,
    "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Asane",
-   "away": "Lyn",
-   "liga": "1. Division",
-   "minuto": 12,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-26",
@@ -998,7 +998,7 @@
   "n": 2096,
   "ganados": 1455,
   "win_rate": 69,
-  "hoy": 16
+  "hoy": 17
  },
  "stats_dia": {
   "ganados": 12,
