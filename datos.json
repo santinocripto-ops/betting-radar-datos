@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T01:11:54.565595+00:00",
+ "actualizado": "2026-08-26T01:19:25.333240+00:00",
  "partidos_vivo": [
   {
    "home": "Cruzeiro",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "03:19",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -87,12 +93,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "23:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -143,70 +143,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Juventude",
-   "away": "CRB",
-   "liga": "Serie B",
-   "minuto": 20,
-   "score": 10.0,
+   "home": "Cucuta",
+   "away": "Alianza Valledupar",
+   "liga": "Primera A",
+   "minuto": 19,
+   "score": 8.5,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Afturelding",
-   "away": "Grotta",
-   "liga": "1. Deild",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Nottingham Forest",
-   "away": "Leeds",
-   "liga": "League Cup",
-   "minuto": 17,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Blackburn",
-   "away": "Sheffield Utd",
-   "liga": "League Cup",
-   "minuto": 18,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Ipswich",
-   "away": "Leicester",
-   "liga": "League Cup",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Barnsley",
-   "away": "Crewe",
-   "liga": "League Cup",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-25",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -717,7 +662,7 @@
   "n": 2087,
   "ganados": 1448,
   "win_rate": 69,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
