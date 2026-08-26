@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T16:55:55.770281+00:00",
+ "actualizado": "2026-08-26T17:03:01.131480+00:00",
  "partidos_vivo": [
   {
    "home": "Brønderslev",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:48",
    "tipo": "smart_money"
@@ -296,12 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -420,13 +420,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42978.0,
-  "balance_total": 32978.0,
-  "balance_dia": 12.0,
-  "ganados": 2058,
+  "capital": 43039.0,
+  "balance_total": 33039.0,
+  "balance_dia": 73.0,
+  "ganados": 2059,
   "perdidos": 892,
-  "pendientes": 8,
-  "ganados_dia": 4,
+  "pendientes": 7,
+  "ganados_dia": 5,
   "perdidos_dia": 2,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -995,16 +995,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2089,
-  "ganados": 1448,
+  "n": 2090,
+  "ganados": 1449,
   "win_rate": 69,
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 5,
+  "ganados": 6,
   "perdidos": 2,
-  "en_juego": 8,
-  "win_rate": 71
+  "en_juego": 7,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 62,
