@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T00:55:45.192147+00:00",
+ "actualizado": "2026-08-26T01:03:54.657726+00:00",
  "partidos_vivo": [
   {
    "home": "Santa Fe W",
@@ -81,6 +81,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "02:47",
    "tipo": "smart_money"
@@ -144,44 +150,10 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "23:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Juventude",
-   "away": "CRB",
-   "liga": "Serie B",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.39,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25"
-  },
-  {
-   "home": "Juventude",
-   "away": "CRB",
-   "liga": "Serie B",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.39,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25"
-  },
-  {
-   "home": "Deportivo Madryn",
-   "away": "Godoy Cruz",
-   "liga": "Primera Nacional",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.23,
-   "resultado": "pendiente",
-   "fecha": "2026-08-25"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -234,7 +206,7 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-25",
    "es_hoy": false
   },
@@ -296,13 +268,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42966.0,
-  "balance_total": 32966.0,
-  "balance_dia": 0.0,
-  "ganados": 2054,
+  "capital": 43027.0,
+  "balance_total": 33027.0,
+  "balance_dia": 61.0,
+  "ganados": 2055,
   "perdidos": 890,
-  "pendientes": 1,
-  "ganados_dia": 0,
+  "pendientes": 0,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.8,
   "roi": 11.2,
@@ -799,22 +771,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2086,
-  "ganados": 1447,
+  "n": 2087,
+  "ganados": 1448,
   "win_rate": 69,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
-  "ganados": 59,
+  "ganados": 62,
   "perdidos": 23,
-  "pendientes": 3,
-  "win_rate": 72
+  "pendientes": 0,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
