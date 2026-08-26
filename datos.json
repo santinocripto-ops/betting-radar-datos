@@ -1,23 +1,42 @@
 {
- "actualizado": "2026-08-26T01:34:18.279932+00:00",
+ "actualizado": "2026-08-26T01:42:01.194408+00:00",
  "partidos_vivo": [
   {
-   "home": "Cruzeiro",
-   "away": "Atletico-MG",
-   "liga": "Copa Do Brasil",
-   "minuto": 50,
+   "home": "Independiente del Valle",
+   "away": "Deportes Tolima",
+   "liga": "CONMEBOL Libertadores",
+   "minuto": 53,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 3.7,
+   "score": 2.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "🔒 Liga muy cerrada: 1.76 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "River Plate Res.",
+   "away": "Unión Santa Fe Res.",
+   "liga": "Reserve League",
+   "minuto": 55,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
