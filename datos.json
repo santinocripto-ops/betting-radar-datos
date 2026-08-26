@@ -1,185 +1,14 @@
 {
- "actualizado": "2026-08-26T20:43:11.067164+00:00",
+ "actualizado": "2026-08-26T20:50:15.974725+00:00",
  "partidos_vivo": [
   {
-   "home": "AEK Athens FC",
-   "away": "Levski Sofia",
-   "liga": "UEFA Champions League",
-   "minuto": 63,
+   "home": "Mineros de Guyana",
+   "away": "Dinamo de Puerto La Cruz",
+   "liga": "Copa Venezuela",
+   "minuto": 59,
    "marcador": "4-0",
    "apuesta": "Over 4.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Viking",
-   "away": "Dinamo Zagreb",
-   "liga": "UEFA Champions League",
-   "minuto": 62,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Al Talaba",
-   "away": "Newroz",
-   "liga": "Iraqi League",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Lyon",
-   "away": "Fenerbahçe",
-   "liga": "UEFA Champions League",
-   "minuto": 65,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Celje",
-   "away": "Slovan Bratislava",
-   "liga": "UEFA Champions League",
-   "minuto": 64,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Real Madrid",
-   "away": "Real Sociedad",
-   "liga": "La Liga",
-   "minuto": 58,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Boavista SC",
-   "away": "Madureira",
-   "liga": "Copa Rio",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Preston",
-   "away": "Everton",
-   "liga": "League Cup",
-   "minuto": 64,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Torreense W",
-   "away": "Kolos Kovalivka W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 64,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto",
-    "⚡ Kolos Kovalivka W pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Bolívar",
-   "away": "Monagas SC",
-   "liga": "Copa Venezuela",
-   "minuto": 62,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
+   "score": 5.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -188,45 +17,45 @@
    "razones": [
     "⚽ Liga goleadora: 2.94 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Deportivo Santani",
-   "away": "Deportivo Recoleta",
-   "liga": "Copa Paraguay",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "San Antonio Bulo Bulo",
-   "away": "The Strongest",
-   "liga": "Primera División",
+   "home": "Rayo Zuliano",
+   "away": "Urena SC",
+   "liga": "Copa Venezuela",
    "minuto": 62,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga goleadora: 2.94 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Atletico el Vigia FC",
+   "away": "Club Atletico Barinas",
+   "liga": "Copa Venezuela",
+   "minuto": 64,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.94 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Club Atletico Barinas buscará el empate"
    ]
   }
  ],
