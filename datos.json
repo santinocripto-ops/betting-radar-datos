@@ -1,33 +1,14 @@
 {
- "actualizado": "2026-08-26T23:45:19.644819+00:00",
+ "actualizado": "2026-08-26T23:52:52.878719+00:00",
  "partidos_vivo": [
   {
-   "home": "Sao Jose",
-   "away": "Goiatuba EC",
-   "liga": "Serie D",
-   "minuto": 55,
+   "home": "Real Potosí",
+   "away": "Real Tomayapo",
+   "liga": "Primera División",
+   "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 3.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Coquimbo Unido",
-   "away": "U. Catolica",
-   "liga": "Primera División",
-   "minuto": 63,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "score": 4.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -36,36 +17,17 @@
    "razones": [
     "⚽ Liga goleadora: 3.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — U. Catolica buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Caracas FC",
-   "away": "Fundación Lara Deportiva",
-   "liga": "Copa Venezuela",
+   "home": "Goiânia",
+   "away": "Rio Verde",
+   "liga": "Goiano - 2",
    "minuto": 64,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.94 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Fundación Lara Deportiva buscará el empate"
-   ]
-  },
-  {
-   "home": "Aldosivi",
-   "away": "Independ. Rivadavia",
-   "liga": "Copa Argentina",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -73,56 +35,18 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Aldosivi buscará el empate",
-    "⏱ 42 minutos por jugar — margen amplio"
+    "⚽ 1 gol — Rio Verde buscará el empate",
+    "⏱ 26 minutos por jugar — margen justo"
    ]
   },
   {
-   "home": "LDU de Quito",
-   "away": "Aucas",
-   "liga": "Copa Ecuador",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 1.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "⏱ 25 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "Deportivo Merlo",
-   "away": "Dock Sud",
-   "liga": "Primera B Metropolitana",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 1.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 1.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Deportivo Merlo buscará el empate"
-   ]
-  },
-  {
-   "home": "Grêmio Anápolis",
-   "away": "Goianésia",
+   "home": "Trindade",
+   "away": "Morrinhos",
    "liga": "Goiano - 2",
-   "minuto": 61,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 1.0,
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -130,8 +54,8 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 29 minutos por jugar — margen justo"
+    "⚽ 1 gol — Trindade buscará el empate",
+    "⏱ 27 minutos por jugar — margen justo"
    ]
   }
  ],
