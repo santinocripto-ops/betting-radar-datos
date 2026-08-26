@@ -1,31 +1,12 @@
 {
- "actualizado": "2026-08-26T08:34:17.792223+00:00",
+ "actualizado": "2026-08-26T08:41:47.608828+00:00",
  "partidos_vivo": [
   {
-   "home": "CS Cartagines",
-   "away": "FAS",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.7,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Municipal",
-   "away": "CD Motagua",
-   "liga": "CONCACAF Central American Cup",
+   "home": "Crvena Zvezda U18",
+   "away": "OFK Beograd U19",
+   "liga": "U19 league",
    "minuto": 50,
-   "marcador": "0-1",
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 3.0,
    "recomendar": false,
@@ -34,9 +15,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Municipal buscará el empate"
+    "⚽ Liga muy goleadora: 4.15 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
