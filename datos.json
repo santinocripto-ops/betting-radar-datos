@@ -1,59 +1,40 @@
 {
- "actualizado": "2026-08-26T21:45:07.927063+00:00",
+ "actualizado": "2026-08-26T21:52:45.719428+00:00",
  "partidos_vivo": [
   {
-   "home": "Sporting Cristal",
-   "away": "Sport Huancayo",
-   "liga": "Copa De La Liga",
-   "minuto": 64,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Trujillanos FC",
-   "away": "Deportivo Lara",
-   "liga": "Copa Venezuela",
-   "minuto": 58,
+   "home": "Cumbayá",
+   "away": "LDU Portoviejo",
+   "liga": "Liga Pro Serie B",
+   "minuto": 62,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 2.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.94 goles/partido",
+    "🔒 Liga muy cerrada: 1.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Atletico Grau",
-   "away": "Sport Boys",
-   "liga": "Copa De La Liga",
-   "minuto": 56,
+   "home": "América de Cali W",
+   "away": "Deportivo Cali W",
+   "liga": "Liga Femenina",
+   "minuto": 64,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 4.0,
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
