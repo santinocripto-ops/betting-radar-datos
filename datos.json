@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T18:10:28.835117+00:00",
+ "actualizado": "2026-08-26T18:18:12.722200+00:00",
  "partidos_vivo": [
   {
    "home": "Haugesund",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:17",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:10",
    "tipo": "live"
@@ -290,18 +302,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:03",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:48",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:42",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -351,6 +351,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Union Saint-Gilloise II",
+   "away": "Rochefort",
+   "liga": "First Amateur Division",
+   "minuto": 15,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
   {
    "home": "Al Diriyah",
    "away": "Al Kholood",
@@ -405,17 +416,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-26",
    "es_hoy": true
-  },
-  {
-   "home": "Moss",
-   "away": "Sogndal",
-   "liga": "1. Division",
-   "minuto": 12,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -425,7 +425,7 @@
   "balance_dia": 439.0,
   "ganados": 2065,
   "perdidos": 892,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 11,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -922,6 +922,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
+   "apuesta": "SI, ganara",
+   "usdc": 69919,
+   "prob": 53.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "20:17"
+  },
+  {
    "titulo": "Map Handicap: FURIA (-1.5) vs paiN (+1.5)",
    "apuesta": "SI, Map Handicap: FURIA (-1.5) ganara",
    "usdc": 209557,
@@ -983,27 +992,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x1",
    "hora": "12:34"
-  },
-  {
-   "titulo": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
-   "apuesta": "SI, Counter-Strike: Aurora Gaming ganara",
-   "usdc": 85000,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "10:04"
   }
  ],
  "stats_gt": {
   "n": 2096,
   "ganados": 1455,
   "win_rate": 69,
-  "hoy": 17
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 12,
   "perdidos": 2,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 86
  },
  "stats_banker": {
