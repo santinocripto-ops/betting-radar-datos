@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T16:16:50.527135+00:00",
+ "actualizado": "2026-08-26T16:23:47.945716+00:00",
  "partidos_vivo": [
   {
    "home": "Divina",
@@ -425,7 +425,7 @@
   "balance_dia": 12.0,
   "ganados": 2058,
   "perdidos": 892,
-  "pendientes": 5,
+  "pendientes": 7,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -1003,7 +1003,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 2,
-  "en_juego": 5,
+  "en_juego": 7,
   "win_rate": 71
  },
  "stats_banker": {
