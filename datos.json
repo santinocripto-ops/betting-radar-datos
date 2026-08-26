@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T10:26:47.697828+00:00",
+ "actualizado": "2026-08-26T10:34:14.802862+00:00",
  "partidos_vivo": [
   {
    "home": "Shakhtar Donetsk U19",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:34",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -105,12 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:12",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:49",
    "tipo": "smart_money"
   }
  ],
@@ -616,6 +616,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Real Madrid CF win on 2026-08-26?",
+   "apuesta": "NO, Real Madrid no ganara",
+   "usdc": 95000,
+   "prob": 23.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "12:34"
+  },
+  {
    "titulo": "Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: Aurora Gaming ganara",
    "usdc": 85000,
@@ -677,15 +686,6 @@
    "n_traders": 4,
    "trader": "swisstony",
    "hora": "22:07"
-  },
-  {
-   "titulo": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
-   "apuesta": "SI, US Open, Qualification ATP: Pedro Martinez ganara",
-   "usdc": 91354,
-   "prob": 55.5,
-   "n_traders": 2,
-   "trader": "swisstony",
-   "hora": "21:24"
   }
  ],
  "stats_gt": {
