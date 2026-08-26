@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T00:40:07.612223+00:00",
+ "actualizado": "2026-08-26T00:48:07.389470+00:00",
  "partidos_vivo": [
   {
    "home": "Santa Fe W",
@@ -82,6 +82,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "02:47",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "01:53",
    "tipo": "smart_money"
   },
@@ -144,12 +150,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "22:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -726,6 +726,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Winston-Salem Open: Hugo Grenier vs Sebastian Baez",
+   "apuesta": "SI, ganara",
+   "usdc": 33858,
+   "prob": 12.5,
+   "n_traders": 3,
+   "trader": "swisstony",
+   "hora": "02:47"
+  },
+  {
    "titulo": "Tampa Bay Rays vs. Detroit Tigers: O/U 7.5",
    "apuesta": "SI, mas de 7.5 goles",
    "usdc": 124868,
@@ -787,15 +796,6 @@
    "n_traders": 3,
    "trader": "swisstony",
    "hora": "20:26"
-  },
-  {
-   "titulo": "Will Southampton FC win on 2026-08-25?",
-   "apuesta": "SI, Southampton ganara",
-   "usdc": 140758,
-   "prob": 46.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "19:57"
   }
  ],
  "stats_gt": {
