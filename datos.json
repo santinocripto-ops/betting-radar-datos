@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T16:09:22.040003+00:00",
+ "actualizado": "2026-08-26T16:16:50.527135+00:00",
  "partidos_vivo": [
   {
    "home": "Divina",
@@ -232,6 +232,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:16",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "18:09",
@@ -290,18 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "16:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:44",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al-Faisaly FC",
+   "away": "Al-Fateh",
+   "liga": "Pro League",
+   "minuto": 14,
+   "score": 8.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Tammeka",
+   "away": "Flora Tallinn",
+   "liga": "Meistriliiga",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
    "home": "Písek",
    "away": "Pardubice",
    "liga": "Cup",
@@ -392,28 +414,6 @@
    "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Trans Narva",
-   "away": "Kalju Nomme",
-   "liga": "Cup",
-   "minuto": 12,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "CS Cartagines",
-   "away": "FAS",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 11,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-08-26",
    "es_hoy": true
   }
@@ -998,7 +998,7 @@
   "n": 2089,
   "ganados": 1448,
   "win_rate": 69,
-  "hoy": 7
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 5,
