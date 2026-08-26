@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T19:00:31.781816+00:00",
+ "actualizado": "2026-08-26T19:07:28.165661+00:00",
  "partidos_vivo": [
   {
    "home": "SV Drochtersen/Assel",
@@ -176,6 +176,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:00",
    "tipo": "live"
@@ -231,18 +243,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:11",
    "tipo": "live"
   }
