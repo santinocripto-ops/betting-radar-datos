@@ -1,11 +1,30 @@
 {
- "actualizado": "2026-08-26T14:59:50.912462+00:00",
+ "actualizado": "2026-08-26T15:07:24.609464+00:00",
  "partidos_vivo": [
   {
-   "home": "Livyi Bereh U19",
-   "away": "Kolos Kovalivka U19",
-   "liga": "U19 League",
-   "minuto": 48,
+   "home": "Lokomotiv",
+   "away": "Bunyodkor",
+   "liga": "Super League",
+   "minuto": 50,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Bunyodkor pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Dinamo Stavropol",
+   "away": "Astrakhan",
+   "liga": "Cup",
+   "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 4.7,
@@ -15,18 +34,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Vietnam",
-   "away": "Thailand",
-   "liga": "ASEAN Championship",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Usce U19",
+   "away": "Sp. Subotica U19",
+   "liga": "U19 league",
+   "minuto": 46,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
    "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -34,32 +53,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Vietnam buscará el empate"
+    "⚽ Liga muy goleadora: 4.18 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Zlín U19",
-   "away": "Pardubice U19",
-   "liga": "1. Liga U19",
+   "home": "Mash'al",
+   "away": "Navbahor",
+   "liga": "Super League",
    "minuto": 47,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 3.0,
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.87 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Mash'al buscará el empate",
+    "⏱ 43 minutos por jugar — margen amplio"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -124,12 +149,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "10:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:05",
    "tipo": "smart_money"
   }
  ],
