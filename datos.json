@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T19:19:49.639600+00:00",
+ "actualizado": "2026-08-26T19:26:24.433743+00:00",
  "partidos_vivo": [
   {
    "home": "Al Diriyah",
@@ -425,7 +425,7 @@
   "balance_dia": 805.0,
   "ganados": 2071,
   "perdidos": 892,
-  "pendientes": 10,
+  "pendientes": 13,
   "ganados_dia": 17,
   "perdidos_dia": 2,
   "win_rate": 69.9,
@@ -1018,7 +1018,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 2,
-  "en_juego": 10,
+  "en_juego": 13,
   "win_rate": 90
  },
  "stats_banker": {
