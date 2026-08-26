@@ -1,46 +1,39 @@
 {
- "actualizado": "2026-08-26T02:04:33.790116+00:00",
+ "actualizado": "2026-08-26T02:12:30.420499+00:00",
  "partidos_vivo": [
   {
-   "home": "Independiente del Valle",
-   "away": "Deportes Tolima",
-   "liga": "CONMEBOL Libertadores",
-   "minuto": 53,
+   "home": "Cucuta",
+   "away": "Alianza Valledupar",
+   "liga": "Primera A",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 2.7,
+   "score": 5.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.76 goles/partido",
+    "🔒 Liga muy cerrada: 1.73 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "River Plate Res.",
-   "away": "Unión Santa Fe Res.",
-   "liga": "Reserve League",
-   "minuto": 55,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 2.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "04:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:12",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -99,18 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
    "hora": "23:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Juventude vs CRB · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.39 (10 casas)",
-   "hora": "23:06",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:06",
    "tipo": "smart_money"
   }
  ],
@@ -180,7 +161,7 @@
   "balance_dia": 61.0,
   "ganados": 2055,
   "perdidos": 890,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.8,
@@ -381,7 +362,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Cucuta",
+   "away": "Alianza Valledupar",
+   "liga": "Primera A",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -605,6 +594,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
+   "apuesta": "SI, Monterrey Open: Oleksandra Oliynykova ganara",
+   "usdc": 15001,
+   "prob": 23.5,
+   "n_traders": 2,
+   "trader": "swisstony",
+   "hora": "04:12"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 95930,
@@ -666,15 +664,6 @@
    "n_traders": 2,
    "trader": "BreakTheBank",
    "hora": "21:02"
-  },
-  {
-   "titulo": "Will LASK Linz win on 2026-08-25?",
-   "apuesta": "SI, LASK Linz ganara",
-   "usdc": 123396,
-   "prob": 52.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "20:54"
   }
  ],
  "stats_gt": {
@@ -686,7 +675,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
