@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-08-26T13:24:40.306255+00:00",
+ "actualizado": "2026-08-26T13:31:22.363387+00:00",
  "partidos_vivo": [
   {
-   "home": "Rukh Vynnyky U19",
-   "away": "Veres Rivne U19",
-   "liga": "U19 League",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "home": "Johor Darul Takzim FC",
+   "away": "Kelantan Red Warrior FC",
+   "liga": "Super League",
+   "minuto": 57,
+   "marcador": "5-0",
+   "apuesta": "Over 5.5",
+   "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
