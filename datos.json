@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T18:18:12.722200+00:00",
+ "actualizado": "2026-08-26T18:25:26.230807+00:00",
  "partidos_vivo": [
   {
    "home": "Haugesund",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:25",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:17",
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
    "tipo": "smart_money"
   }
  ],
@@ -425,7 +425,7 @@
   "balance_dia": 439.0,
   "ganados": 2065,
   "perdidos": 892,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 11,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -922,6 +922,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Real Madrid CF vs. Real Sociedad de Fútbol: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 560437,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "20:25"
+  },
+  {
    "titulo": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
    "apuesta": "SI, ganara",
    "usdc": 69919,
@@ -983,15 +992,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "12:50"
-  },
-  {
-   "titulo": "Will Real Madrid CF win on 2026-08-26?",
-   "apuesta": "NO, Real Madrid no ganara",
-   "usdc": 95000,
-   "prob": 23.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "12:34"
   }
  ],
  "stats_gt": {
@@ -1003,7 +1003,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 86
  },
  "stats_banker": {
