@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T05:07:48.690791+00:00",
+ "actualizado": "2026-08-26T05:15:25.097938+00:00",
  "partidos_vivo": [
   {
    "home": "CS Cartagines",
@@ -397,13 +397,6 @@
    "home": "CS Cartagines",
    "away": "FAS",
    "liga": "CONCACAF Central American Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Cucuta",
-   "away": "Alianza Valledupar",
-   "liga": "Primera A",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
