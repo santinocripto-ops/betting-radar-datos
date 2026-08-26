@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T08:56:33.040031+00:00",
+ "actualizado": "2026-08-26T09:04:03.963134+00:00",
  "partidos_vivo": [
   {
    "home": "Crvena Zvezda U18",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -86,12 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "03:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "02:47",
    "tipo": "smart_money"
   }
  ],
