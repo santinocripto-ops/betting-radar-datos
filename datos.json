@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T06:35:58.315807+00:00",
+ "actualizado": "2026-08-26T06:43:16.301122+00:00",
  "partidos_vivo": [
   {
    "home": "CS Cartagines",
@@ -392,15 +392,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "CS Cartagines",
-   "away": "FAS",
-   "liga": "CONCACAF Central American Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
