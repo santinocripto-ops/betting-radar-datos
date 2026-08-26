@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T15:45:18.141487+00:00",
+ "actualizado": "2026-08-26T15:52:42.184182+00:00",
  "partidos_vivo": [
   {
    "home": "Zagora",
@@ -156,6 +156,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:52",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "17:44",
@@ -219,12 +225,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:50",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:34",
    "tipo": "smart_money"
   }
  ],
@@ -349,7 +349,7 @@
   "balance_dia": 12.0,
   "ganados": 2058,
   "perdidos": 892,
-  "pendientes": 1,
+  "pendientes": 5,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -846,6 +846,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: FURIA ganara",
+   "usdc": 98324,
+   "prob": 79.5,
+   "n_traders": 2,
+   "trader": "Djdjdjekekek",
+   "hora": "17:52"
+  },
+  {
    "titulo": "Augsburg: Facundo Mena vs Kai Wehnelt",
    "apuesta": "SI, Augsburg: Facundo Mena ganara",
    "usdc": 86465,
@@ -907,15 +916,6 @@
    "n_traders": 3,
    "trader": "swisstony",
    "hora": "02:47"
-  },
-  {
-   "titulo": "Tampa Bay Rays vs. Detroit Tigers: O/U 7.5",
-   "apuesta": "SI, mas de 7.5 goles",
-   "usdc": 124868,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "00:28"
   }
  ],
  "stats_gt": {
@@ -927,7 +927,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 5,
   "win_rate": 71
  },
  "stats_banker": {
