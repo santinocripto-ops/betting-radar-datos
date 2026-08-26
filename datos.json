@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T15:14:51.235851+00:00",
+ "actualizado": "2026-08-26T15:21:52.197473+00:00",
  "partidos_vivo": [
   {
    "home": "Lokomotiv",
@@ -240,7 +240,7 @@
   "balance_dia": 12.0,
   "ganados": 2058,
   "perdidos": 892,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 71
  },
  "stats_banker": {
