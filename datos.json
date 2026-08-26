@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T19:10:40.180563+00:00",
+ "actualizado": "2026-08-26T19:19:40.729002+00:00",
  "partidos_vivo": [
   {
    "home": "Al Diriyah",
@@ -234,6 +234,30 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:19",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:19",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:10",
    "tipo": "live"
   },
@@ -278,30 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "21:00",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:25",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:17",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -425,7 +425,7 @@
   "balance_dia": 805.0,
   "ganados": 2071,
   "perdidos": 892,
-  "pendientes": 8,
+  "pendientes": 10,
   "ganados_dia": 17,
   "perdidos_dia": 2,
   "win_rate": 69.9,
@@ -937,6 +937,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 123577,
+   "prob": 12.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "21:19"
+  },
+  {
+   "titulo": "Will Olympique Lyonnais win on 2026-08-26?",
+   "apuesta": "SI, Olympique Lyonnais ganara",
+   "usdc": 115125,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:19"
+  },
+  {
    "titulo": "US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones",
    "apuesta": "SI, US Open, Qualification ATP: Otto Virtanen ganara",
    "usdc": 66421,
@@ -989,24 +1007,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "18:48"
-  },
-  {
-   "titulo": "Counter-Strike: FURIA vs paiN (BO3) - BLAST Open Porto Group A",
-   "apuesta": "SI, Counter-Strike: FURIA ganara",
-   "usdc": 98324,
-   "prob": 79.5,
-   "n_traders": 2,
-   "trader": "Djdjdjekekek",
-   "hora": "17:52"
-  },
-  {
-   "titulo": "Augsburg: Facundo Mena vs Kai Wehnelt",
-   "apuesta": "SI, Augsburg: Facundo Mena ganara",
-   "usdc": 86465,
-   "prob": 62.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "15:44"
   }
  ],
  "stats_gt": {
@@ -1018,7 +1018,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 10,
   "win_rate": 90
  },
  "stats_banker": {
