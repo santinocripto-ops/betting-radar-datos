@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T01:42:01.194408+00:00",
+ "actualizado": "2026-08-26T01:49:28.990224+00:00",
  "partidos_vivo": [
   {
    "home": "Independiente del Valle",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:49",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -100,12 +106,6 @@
    "texto": "⚽ Juventude vs CRB · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.39 (10 casas)",
    "hora": "23:06",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:06",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -605,6 +605,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 95930,
+   "prob": 67.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "03:49"
+  },
+  {
    "titulo": "Winston-Salem Open: Hugo Grenier vs Sebastian Baez",
    "apuesta": "SI, ganara",
    "usdc": 33858,
@@ -666,15 +675,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "20:54"
-  },
-  {
-   "titulo": "Sabah FK vs. MH Hapoel Be'er Sheva: O/U 4.5",
-   "apuesta": "SI, mas de 4.5 goles",
-   "usdc": 27322,
-   "prob": 57.5,
-   "n_traders": 3,
-   "trader": "swisstony",
-   "hora": "20:26"
   }
  ],
  "stats_gt": {
