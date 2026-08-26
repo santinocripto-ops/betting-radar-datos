@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T02:34:18.974125+00:00",
+ "actualizado": "2026-08-26T02:41:35.271612+00:00",
  "partidos_vivo": [
   {
    "home": "Cucuta",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "04:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -87,12 +93,6 @@
    "texto": "⚽ Juventude vs CRB · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.39 (10 casas)",
    "hora": "00:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
-   "hora": "23:58",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -142,6 +142,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "CS Cartagines",
+   "away": "FAS",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 11,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
   {
    "home": "Cucuta",
    "away": "Alianza Valledupar",
@@ -670,7 +681,7 @@
   "n": 2087,
   "ganados": 1448,
   "win_rate": 69,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 2,
