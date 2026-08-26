@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T11:05:33.254694+00:00",
+ "actualizado": "2026-08-26T11:10:25.793615+00:00",
  "partidos_vivo": [
   {
    "home": "George Telegraph",
@@ -461,6 +461,42 @@
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
+   },
+   {
+    "home": "Bromley U21",
+    "away": "West Bromwich Albion U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Stockport County U21",
+    "away": "Charlton Athletic U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Real Madrid",
+    "away": "Real Sociedad",
+    "liga": "La Liga",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Al Shabab",
+    "away": "Al Jahra",
+    "liga": "Premier League",
+    "hora": "17:45",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
    }
   ],
   "over25": [
@@ -550,6 +586,42 @@
     "away": "Asyut Petrol",
     "liga": "Premier League",
     "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Bromley U21",
+    "away": "West Bromwich Albion U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Stockport County U21",
+    "away": "Charlton Athletic U21",
+    "liga": "Premier League Cup",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Real Madrid",
+    "away": "Real Sociedad",
+    "liga": "La Liga",
+    "hora": "21:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Al Shabab",
+    "away": "Al Jahra",
+    "liga": "Premier League",
+    "hora": "17:45",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
