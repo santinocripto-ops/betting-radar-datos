@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T16:48:56.639453+00:00",
+ "actualizado": "2026-08-26T16:49:09.276826+00:00",
  "partidos_vivo": [
   {
    "home": "Brønderslev",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:48",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:42",
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:05",
    "tipo": "smart_money"
   }
  ],
@@ -425,7 +425,7 @@
   "balance_dia": 12.0,
   "ganados": 2058,
   "perdidos": 892,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -1003,7 +1003,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 2,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 71
  },
  "stats_banker": {
