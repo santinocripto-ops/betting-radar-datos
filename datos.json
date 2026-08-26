@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T20:07:00.960083+00:00",
+ "actualizado": "2026-08-26T20:14:15.937125+00:00",
  "partidos_vivo": [
   {
    "home": "St. Pölten W",
@@ -100,6 +100,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:19",
    "tipo": "live"
@@ -156,12 +162,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:00",
    "tipo": "live"
   },
   {
@@ -292,7 +292,7 @@
   "balance_dia": 817.0,
   "ganados": 2075,
   "perdidos": 894,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 21,
   "perdidos_dia": 4,
   "win_rate": 69.9,
@@ -566,6 +566,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Al Talaba",
+   "away": "Newroz",
+   "liga": "Iraqi League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Union Saint-Gilloise II",
    "away": "Rochefort",
@@ -885,7 +892,7 @@
  "stats_dia": {
   "ganados": 22,
   "perdidos": 4,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 85
  },
  "stats_banker": {
