@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T18:53:37.715272+00:00",
+ "actualizado": "2026-08-26T19:00:31.781816+00:00",
  "partidos_vivo": [
   {
    "home": "SV Drochtersen/Assel",
@@ -175,6 +175,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:00",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:25",
@@ -227,24 +245,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -295,6 +295,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Tottenham",
+   "away": "Charlton",
+   "liga": "League Cup",
+   "minuto": 15,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Newcastle",
+   "away": "West Brom",
+   "liga": "League Cup",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
    "home": "Union Saint-Gilloise II",
    "away": "Rochefort",
    "liga": "First Amateur Division",
@@ -333,28 +355,6 @@
    "liga": "Regionalliga - Nordost",
    "minuto": 11,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Stabaek",
-   "away": "Ranheim",
-   "liga": "1. Division",
-   "minuto": 12,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "ODD Ballklubb",
-   "away": "Kongsvinger",
-   "liga": "1. Division",
-   "minuto": 12,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-26",
@@ -865,6 +865,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones",
+   "apuesta": "SI, US Open, Qualification ATP: Otto Virtanen ganara",
+   "usdc": 66421,
+   "prob": 34.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:00"
+  },
+  {
    "titulo": "Real Madrid CF vs. Real Sociedad de Fútbol: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 560437,
@@ -926,22 +935,13 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "15:44"
-  },
-  {
-   "titulo": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
-   "apuesta": "SI, LoL: KT Rolster ganara",
-   "usdc": 80595,
-   "prob": 36.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "12:50"
   }
  ],
  "stats_gt": {
   "n": 2096,
   "ganados": 1455,
   "win_rate": 69,
-  "hoy": 18
+  "hoy": 20
  },
  "stats_dia": {
   "ganados": 12,
