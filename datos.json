@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T17:11:57.405913+00:00",
+ "actualizado": "2026-08-26T17:12:09.808953+00:00",
  "partidos_vivo": [
   {
    "home": "Al Shabab",
@@ -352,43 +352,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Skövde AIK",
-   "away": "Halmstad",
-   "liga": "Svenska Cupen",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Faisaly FC",
-   "away": "Al-Fateh",
-   "liga": "Pro League",
-   "minuto": 14,
-   "score": 8.9,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Tammeka",
-   "away": "Flora Tallinn",
-   "liga": "Meistriliiga",
-   "minuto": 16,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Písek",
-   "away": "Pardubice",
-   "liga": "Cup",
-   "minuto": 13,
+   "home": "Greifswalder FC",
+   "away": "SV Babelsberg 03",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 11,
    "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -396,21 +363,54 @@
    "es_hoy": true
   },
   {
-   "home": "Králův Dvůr",
-   "away": "Loko Vltavín",
-   "liga": "Cup",
-   "minuto": 10,
-   "score": 10.0,
+   "home": "Stabaek",
+   "away": "Ranheim",
+   "liga": "1. Division",
+   "minuto": 12,
+   "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-26",
    "es_hoy": true
   },
   {
-   "home": "Monori Se",
-   "away": "Hódmezővásárhely",
-   "liga": "NB III - Southeast",
-   "minuto": 14,
+   "home": "ODD Ballklubb",
+   "away": "Kongsvinger",
+   "liga": "1. Division",
+   "minuto": 12,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Moss",
+   "away": "Sogndal",
+   "liga": "1. Division",
+   "minuto": 12,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Asane",
+   "away": "Lyn",
+   "liga": "1. Division",
+   "minuto": 12,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Skövde AIK",
+   "away": "Halmstad",
+   "liga": "Svenska Cupen",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -998,7 +998,7 @@
   "n": 2090,
   "ganados": 1449,
   "win_rate": 69,
-  "hoy": 10
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 6,
