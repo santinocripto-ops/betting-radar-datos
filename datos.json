@@ -1,204 +1,33 @@
 {
- "actualizado": "2026-08-26T16:30:35.417099+00:00",
+ "actualizado": "2026-08-26T16:42:15.664674+00:00",
  "partidos_vivo": [
   {
-   "home": "Divina",
-   "away": "Žilina",
-   "liga": "Cup",
-   "minuto": 54,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 6.0,
+   "home": "Brønderslev",
+   "away": "Kolding IF",
+   "liga": "DBU Pokalen",
+   "minuto": 50,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚽ Liga muy goleadora: 4.41 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Sparta Brno",
-   "away": "Baník Ostrava",
-   "liga": "Cup",
-   "minuto": 52,
-   "marcador": "0-6",
-   "apuesta": "Over 6.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Priechod",
-   "away": "Zlaté Moravce",
+   "home": "Bzenec",
+   "away": "Třinec",
    "liga": "Cup",
    "minuto": 50,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Trans Narva",
-   "away": "Kalju Nomme",
-   "liga": "Cup",
-   "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 6.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "SeaSters Odesa W",
-   "away": "Rosenborg W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Radomlje W",
-   "away": "Vålerenga W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Priehrada",
-   "away": "Baník Prievidza",
-   "liga": "Cup",
-   "minuto": 52,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Mitrovica W",
-   "away": "Metalist 1925 W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Zahradne",
-   "away": "Vranov nad Topľou",
-   "liga": "Cup",
-   "minuto": 48,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Apollon Limassol W",
-   "away": "FH W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 49,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⚡ Apollon Limassol W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Kozlovice",
-   "away": "Karviná",
-   "liga": "Cup",
-   "minuto": 52,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.5,
+   "marcador": "1-4",
+   "apuesta": "Over 5.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -207,30 +36,207 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Kozlovice buscará el empate"
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Dila",
-   "away": "Samgurali",
-   "liga": "David Kipiani Cup",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 3.0,
+   "home": "Frýdlant",
+   "away": "Zbrojovka Brno",
+   "liga": "Cup",
+   "minuto": 50,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Samgurali buscará el empate"
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Meteor Praha",
+   "away": "Mlada Boleslav",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Baník Souš",
+   "away": "Příbram",
+   "liga": "Cup",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Admira Praha",
+   "away": "Táborsko",
+   "liga": "Cup",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Dorogi FC",
+   "away": "Komárom",
+   "liga": "NB III - Northwest",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "ESMTK",
+   "away": "Sándorfalva",
+   "liga": "NB III - Southeast",
+   "minuto": 54,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Csepel",
+   "away": "BKV Előre",
+   "liga": "NB III - Southeast",
+   "minuto": 53,
+   "marcador": "5-0",
+   "apuesta": "Over 5.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Honvéd II",
+   "away": "Szegedi VSE",
+   "liga": "NB III - Southeast",
+   "minuto": 52,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Budafoki LC",
+   "away": "Szekszárd",
+   "liga": "NB III - Southwest",
+   "minuto": 53,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Písek",
+   "away": "Pardubice",
+   "liga": "Cup",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:42",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -296,12 +302,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "16:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Skövde AIK",
+   "away": "Halmstad",
+   "liga": "Svenska Cupen",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
+  {
    "home": "Al-Faisaly FC",
    "away": "Al-Fateh",
    "liga": "Pro League",
@@ -401,17 +412,6 @@
    "liga": "NB III - Southeast",
    "minuto": 14,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-26",
-   "es_hoy": true
-  },
-  {
-   "home": "ESMTK",
-   "away": "Sándorfalva",
-   "liga": "NB III - Southeast",
-   "minuto": 15,
-   "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-26",
@@ -998,7 +998,7 @@
   "n": 2089,
   "ganados": 1448,
   "win_rate": 69,
-  "hoy": 9
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 5,
