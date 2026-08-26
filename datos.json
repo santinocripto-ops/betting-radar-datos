@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-26T17:32:06.877412+00:00",
+ "actualizado": "2026-08-26T17:39:51.070233+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Shabab",
-   "away": "Al Jahra",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Sparta Praha W",
+   "away": "Servette Chênois W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 51,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -15,35 +15,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Fauske Sprint",
-   "away": "Bodo/Glimt",
-   "liga": "NM Cupen",
-   "minuto": 55,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Gagra",
-   "away": "Aragvi Dusheti",
-   "liga": "David Kipiani Cup",
-   "minuto": 48,
+   "home": "Friska Viljor",
+   "away": "Sirius",
+   "liga": "Svenska Cupen",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 5.2,
@@ -53,16 +34,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "RSV Eintracht",
-   "away": "FSV Zwickau",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 53,
+   "home": "Eimsbütteler TV",
+   "away": "Bremer SV",
+   "liga": "Regionalliga - Nord",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 5.1,
@@ -73,74 +54,17 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Strommen",
-   "away": "Raufoss",
-   "liga": "1. Division",
-   "minuto": 50,
-   "marcador": "2-0",
+   "home": "Stockholm Internazionale",
+   "away": "Hammarby FF",
+   "liga": "Svenska Cupen",
+   "minuto": 49,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "VfL Wolfsburg W",
-   "away": "Inter Milano W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 52,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Inter Milano W buscará el empate"
-   ]
-  },
-  {
-   "home": "Volgar Astrakhan",
-   "away": "Spartak Nalchik",
-   "liga": "Cup",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Tammeka",
-   "away": "Flora Tallinn",
-   "liga": "Meistriliiga",
-   "minuto": 52,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
    "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
@@ -148,16 +72,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "FC Fredericia",
-   "away": "Odense",
-   "liga": "DBU Pokalen",
-   "minuto": 53,
+   "home": "Schöningen",
+   "away": "St. Pauli II",
+   "liga": "Regionalliga - Nord",
+   "minuto": 48,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "score": 4.5,
@@ -167,18 +91,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Varhaug",
-   "away": "Sandnes ULF",
-   "liga": "NM Cupen",
-   "minuto": 52,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Todesfelde",
+   "away": "VfB Oldenburg",
+   "liga": "Regionalliga - Nord",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
@@ -186,35 +110,54 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Al Zulfi",
-   "away": "Al Wehda Club",
-   "liga": "Division 1",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.2,
+   "home": "Bollstanäs",
+   "away": "United Nordic",
+   "liga": "Svenska Cupen",
+   "minuto": 53,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.89 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Al-Faisaly FC",
-   "away": "Al-Fateh",
-   "liga": "Pro League",
-   "minuto": 47,
+   "home": "Dalstorps",
+   "away": "Norrby IF",
+   "liga": "Svenska Cupen",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Dalstorps buscará el empate"
+   ]
+  },
+  {
+   "home": "Skövde AIK",
+   "away": "Halmstad",
+   "liga": "Svenska Cupen",
+   "minuto": 55,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "score": 2.5,
@@ -224,7 +167,7 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
