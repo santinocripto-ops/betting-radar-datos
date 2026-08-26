@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-08-26T18:00:22.158177+00:00",
+ "actualizado": "2026-08-26T18:10:14.181295+00:00",
  "partidos_vivo": [
   {
-   "home": "Sparta Praha W",
-   "away": "Servette Chênois W",
-   "liga": "UEFA Champions League Women",
+   "home": "Haugesund",
+   "away": "Egersund",
+   "liga": "1. Division",
    "minuto": 51,
-   "marcador": "2-1",
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
    "score": 6.0,
    "recomendar": false,
@@ -15,74 +15,93 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Friska Viljor",
-   "away": "Sirius",
-   "liga": "Svenska Cupen",
+   "home": "Stromsgodset",
+   "away": "hodd",
+   "liga": "1. Division",
    "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 5.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Eimsbütteler TV",
-   "away": "Bremer SV",
-   "liga": "Regionalliga - Nord",
-   "minuto": 51,
+   "home": "FA 2000",
+   "away": "Lyngby",
+   "liga": "DBU Pokalen",
+   "minuto": 53,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.1,
+   "score": 5.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Stockholm Internazionale",
-   "away": "Hammarby FF",
-   "liga": "Svenska Cupen",
-   "minuto": 49,
+   "home": "Asane",
+   "away": "Lyn",
+   "liga": "1. Division",
+   "minuto": 50,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 4.5,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Schöningen",
-   "away": "St. Pauli II",
-   "liga": "Regionalliga - Nord",
-   "minuto": 48,
-   "marcador": "1-2",
+   "home": "PSV/Eindhoven W",
+   "away": "Køge W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — PSV/Eindhoven W buscará el empate"
+   ]
+  },
+  {
+   "home": "Moss",
+   "away": "Sogndal",
+   "liga": "1. Division",
+   "minuto": 51,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "score": 4.5,
    "recomendar": false,
@@ -91,17 +110,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Todesfelde",
-   "away": "VfB Oldenburg",
-   "liga": "Regionalliga - Nord",
-   "minuto": 48,
-   "marcador": "0-2",
+   "home": "Stabaek",
+   "away": "Ranheim",
+   "liga": "1. Division",
+   "minuto": 51,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Czarni Sosnowiec W",
+   "away": "OH Leuven W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 52,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "score": 4.5,
    "recomendar": false,
@@ -110,18 +148,37 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Bollstanäs",
-   "away": "United Nordic",
-   "liga": "Svenska Cupen",
-   "minuto": 53,
-   "marcador": "0-2",
+   "home": "Eintracht Frankfurt W",
+   "away": "Paris Saint Germain W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 52,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "ODD Ballklubb",
+   "away": "Kongsvinger",
+   "liga": "1. Division",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -129,51 +186,57 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — ODD Ballklubb buscará el empate"
    ]
   },
   {
-   "home": "Dalstorps",
-   "away": "Norrby IF",
-   "liga": "Svenska Cupen",
-   "minuto": 52,
+   "home": "Torpedo Kutaisi",
+   "away": "Dinamo Batumi",
+   "liga": "David Kipiani Cup",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 4.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Greifswalder FC",
+   "away": "SV Babelsberg 03",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 50,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 3.0,
+   "score": 3.6,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dalstorps buscará el empate"
-   ]
-  },
-  {
-   "home": "Skövde AIK",
-   "away": "Halmstad",
-   "liga": "Svenska Cupen",
-   "minuto": 55,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:10",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -239,12 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:42",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -276,7 +333,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 986
+   "n_historico": 987
   },
   {
    "clave": "btts",
@@ -290,7 +347,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 964
+   "n_historico": 965
   }
  ],
  "gol_temprano": [
@@ -363,16 +420,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 43039.0,
-  "balance_total": 33039.0,
-  "balance_dia": 73.0,
-  "ganados": 2059,
+  "capital": 43405.0,
+  "balance_total": 33405.0,
+  "balance_dia": 439.0,
+  "ganados": 2065,
   "perdidos": 892,
-  "pendientes": 13,
-  "ganados_dia": 5,
+  "pendientes": 7,
+  "ganados_dia": 11,
   "perdidos_dia": 2,
   "win_rate": 69.8,
-  "roi": 11.2,
+  "roi": 11.3,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -500,7 +557,7 @@
     "away": "Al Jahra",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -628,16 +685,16 @@
     "away": "Al Jahra",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1159,
+   "ganados": 1161,
    "perdidos": 791,
-   "acierto": 59.4,
-   "yield": 12.9,
+   "acierto": 59.5,
+   "yield": 13.0,
    "cuota_media": 1.9
   }
  },
@@ -938,16 +995,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2090,
-  "ganados": 1449,
+  "n": 2096,
+  "ganados": 1455,
   "win_rate": 69,
   "hoy": 16
  },
  "stats_dia": {
-  "ganados": 6,
+  "ganados": 12,
   "perdidos": 2,
-  "en_juego": 13,
-  "win_rate": 75
+  "en_juego": 7,
+  "win_rate": 86
  },
  "stats_banker": {
   "ganados": 62,
