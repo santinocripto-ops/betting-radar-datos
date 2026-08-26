@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T20:57:13.866034+00:00",
+ "actualizado": "2026-08-26T21:05:00.599997+00:00",
  "partidos_vivo": [
   {
    "home": "Mineros de Guyana",
@@ -61,6 +61,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:04",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "22:22",
@@ -113,24 +131,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "21:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:07",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -162,7 +162,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 991
+   "n_historico": 995
   },
   {
    "clave": "btts",
@@ -176,7 +176,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 968
+   "n_historico": 972
   }
  ],
  "gol_temprano": [
@@ -198,7 +198,7 @@
    "minuto": 19,
    "score": 9.2,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-26",
    "es_hoy": true
   },
@@ -209,7 +209,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-26",
    "es_hoy": true
   },
@@ -220,7 +220,7 @@
    "minuto": 10,
    "score": 9.3,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-26",
    "es_hoy": true
   },
@@ -242,21 +242,21 @@
    "minuto": 15,
    "score": 9.3,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-26",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 43783.0,
-  "balance_total": 33783.0,
-  "balance_dia": 817.0,
-  "ganados": 2075,
-  "perdidos": 894,
-  "pendientes": 9,
-  "ganados_dia": 21,
-  "perdidos_dia": 4,
+  "capital": 43988.0,
+  "balance_total": 33988.0,
+  "balance_dia": 1022.0,
+  "ganados": 2080,
+  "perdidos": 895,
+  "pendientes": 3,
+  "ganados_dia": 26,
+  "perdidos_dia": 5,
   "win_rate": 69.9,
   "roi": 11.4,
   "stake": 100.0,
@@ -323,7 +323,7 @@
     "away": "Levski Sofia",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -332,7 +332,7 @@
     "away": "Fenerbahçe",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -341,7 +341,7 @@
     "away": "Dinamo Zagreb",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -377,7 +377,7 @@
     "away": "Real Sociedad",
     "liga": "La Liga",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -451,7 +451,7 @@
     "away": "Levski Sofia",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -460,7 +460,7 @@
     "away": "Fenerbahçe",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -469,7 +469,7 @@
     "away": "Dinamo Zagreb",
     "liga": "UEFA Champions League",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -505,7 +505,7 @@
     "away": "Real Sociedad",
     "liga": "La Liga",
     "hora": "21:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -520,10 +520,10 @@
    }
   ],
   "balance": {
-   "ganados": 1166,
-   "perdidos": 793,
-   "acierto": 59.5,
-   "yield": 13.1,
+   "ganados": 1173,
+   "perdidos": 794,
+   "acierto": 59.6,
+   "yield": 13.3,
    "cuota_media": 1.9
   }
  },
@@ -846,16 +846,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2105,
-  "ganados": 1462,
-  "win_rate": 69,
+  "n": 2110,
+  "ganados": 1467,
+  "win_rate": 70,
   "hoy": 25
  },
  "stats_dia": {
-  "ganados": 22,
-  "perdidos": 4,
-  "en_juego": 9,
-  "win_rate": 85
+  "ganados": 27,
+  "perdidos": 5,
+  "en_juego": 3,
+  "win_rate": 84
  },
  "stats_banker": {
   "ganados": 62,
