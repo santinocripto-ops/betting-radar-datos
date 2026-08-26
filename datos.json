@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T06:57:48.950173+00:00",
+ "actualizado": "2026-08-26T07:05:19.060123+00:00",
  "partidos_vivo": [
   {
    "home": "CS Cartagines",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "00:51",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:28",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
