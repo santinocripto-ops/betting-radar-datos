@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T02:41:35.271612+00:00",
+ "actualizado": "2026-08-26T02:48:48.060549+00:00",
  "partidos_vivo": [
   {
    "home": "Cucuta",
@@ -172,7 +172,7 @@
   "balance_dia": 61.0,
   "ganados": 2055,
   "perdidos": 890,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.8,
@@ -686,7 +686,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
