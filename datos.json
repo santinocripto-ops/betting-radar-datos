@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T22:59:49.541157+00:00",
+ "actualizado": "2026-08-26T23:07:27.291459+00:00",
  "partidos_vivo": [
   {
    "home": "Cristóbal Colón JAS",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -81,12 +87,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:19",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -641,6 +641,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret",
+   "apuesta": "SI, Philadelphia: Oksana Selekhmeteva ganara",
+   "usdc": 15016,
+   "prob": 37.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "01:07"
+  },
+  {
    "titulo": "Monterrey Open: Cristina Bucsa vs Darja Vidmanova",
    "apuesta": "SI, Monterrey Open: Cristina Bucsa ganara",
    "usdc": 52855,
@@ -702,15 +711,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "19:53"
-  },
-  {
-   "titulo": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
-   "apuesta": "SI, Counter-Strike: Natus Vincere ganara",
-   "usdc": 64174,
-   "prob": 21.5,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "19:09"
   }
  ],
  "stats_gt": {
