@@ -1,223 +1,14 @@
 {
- "actualizado": "2026-08-26T18:32:40.165594+00:00",
+ "actualizado": "2026-08-26T18:40:31.966851+00:00",
  "partidos_vivo": [
   {
-   "home": "Haugesund",
-   "away": "Egersund",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Stromsgodset",
-   "away": "hodd",
-   "liga": "1. Division",
-   "minuto": 52,
+   "home": "SV Drochtersen/Assel",
+   "away": "Werder Bremen II",
+   "liga": "Regionalliga - Nord",
+   "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "FA 2000",
-   "away": "Lyngby",
-   "liga": "DBU Pokalen",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Asane",
-   "away": "Lyn",
-   "liga": "1. Division",
-   "minuto": 50,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "PSV/Eindhoven W",
-   "away": "Køge W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 52,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — PSV/Eindhoven W buscará el empate"
-   ]
-  },
-  {
-   "home": "Moss",
-   "away": "Sogndal",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Stabaek",
-   "away": "Ranheim",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Czarni Sosnowiec W",
-   "away": "OH Leuven W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Eintracht Frankfurt W",
-   "away": "Paris Saint Germain W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "ODD Ballklubb",
-   "away": "Kongsvinger",
-   "liga": "1. Division",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — ODD Ballklubb buscará el empate"
-   ]
-  },
-  {
-   "home": "Torpedo Kutaisi",
-   "away": "Dinamo Batumi",
-   "liga": "David Kipiani Cup",
-   "minuto": 47,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Greifswalder FC",
-   "away": "SV Babelsberg 03",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.6,
+   "score": 5.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -225,7 +16,159 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Ajax W",
+   "away": "Real Madrid W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 48,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Ajax W buscará el empate"
+   ]
+  },
+  {
+   "home": "Golden Arrows",
+   "away": "Stellenbosch",
+   "liga": "Premier Soccer League",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Polokwane City",
+   "away": "Milford FC",
+   "liga": "Premier Soccer League",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Atlas Delmenhorst",
+   "away": "Kickers Emden",
+   "liga": "Regionalliga - Nord",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Breidablik W",
+   "away": "Csikszereda MC W",
+   "liga": "UEFA Europa Cup - Women",
+   "minuto": 54,
+   "marcador": "8-0",
+   "apuesta": "Over 8.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 8 goles — partido muy abierto",
+    "⚡ Csikszereda MC W pierde por 8 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Mamelodi Sundowns",
+   "away": "Amazulu",
+   "liga": "Premier Soccer League",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 42 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Richards Bay",
+   "away": "Kaizer Chiefs",
+   "liga": "Premier Soccer League",
+   "minuto": 49,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 3.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 41 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Atlético Astorga",
+   "away": "Salamanca UDS",
+   "liga": "Friendlies Clubs",
+   "minuto": 53,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.91 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
