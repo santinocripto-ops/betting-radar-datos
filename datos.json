@@ -1,61 +1,23 @@
 {
- "actualizado": "2026-08-26T22:44:56.267705+00:00",
+ "actualizado": "2026-08-26T22:52:22.923745+00:00",
  "partidos_vivo": [
   {
-   "home": "Chico",
-   "away": "Fortaleza FC",
-   "liga": "Primera A",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 2.2,
+   "home": "Cristóbal Colón JAS",
+   "away": "Olimpia",
+   "liga": "Copa Paraguay",
+   "minuto": 63,
+   "marcador": "3-4",
+   "apuesta": "Over 7.5",
+   "score": 3.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.47 goles/partido",
+    "⚽ Liga goleadora: 2.92 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Platense",
-   "away": "Alianza",
-   "liga": "Primera Division",
-   "minuto": 55,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 1.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Vega Real",
-   "away": "Universidad O&M",
-   "liga": "Liga Mayor",
-   "minuto": 61,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 1.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 7 goles — partido muy abierto"
    ]
   }
  ],
