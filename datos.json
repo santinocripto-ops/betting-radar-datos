@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T03:32:30.090813+00:00",
+ "actualizado": "2026-08-26T03:39:45.376928+00:00",
  "partidos_vivo": [
   {
    "home": "Cucuta",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "05:39",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -87,12 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "00:28",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Juventude vs CRB · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.39 (10 casas)",
-   "hora": "00:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
