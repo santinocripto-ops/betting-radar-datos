@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T15:07:24.609464+00:00",
+ "actualizado": "2026-08-26T15:14:51.235851+00:00",
  "partidos_vivo": [
   {
    "home": "Lokomotiv",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:14",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:07",
@@ -144,12 +150,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "10:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -199,6 +199,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Trans Narva",
+   "away": "Kalju Nomme",
+   "liga": "Cup",
+   "minuto": 12,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-26",
+   "es_hoy": true
+  },
   {
    "home": "CS Cartagines",
    "away": "FAS",
@@ -802,7 +813,7 @@
   "n": 2089,
   "ganados": 1448,
   "win_rate": 69,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 5,
