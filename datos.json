@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T05:00:11.710112+00:00",
+ "actualizado": "2026-08-26T05:07:48.690791+00:00",
  "partidos_vivo": [
   {
    "home": "CS Cartagines",
@@ -168,7 +168,7 @@
    "minuto": 11,
    "score": 9.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-26",
    "es_hoy": true
   },
@@ -186,14 +186,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 42972.0,
-  "balance_total": 32972.0,
-  "balance_dia": 6.0,
-  "ganados": 2056,
-  "perdidos": 891,
-  "pendientes": 3,
-  "ganados_dia": 2,
-  "perdidos_dia": 1,
+  "capital": 42978.0,
+  "balance_total": 32978.0,
+  "balance_dia": 12.0,
+  "ganados": 2058,
+  "perdidos": 892,
+  "pendientes": 0,
+  "ganados_dia": 4,
+  "perdidos_dia": 2,
   "win_rate": 69.8,
   "roi": 11.2,
   "stake": 100.0,
@@ -398,7 +398,7 @@
    "away": "FAS",
    "liga": "CONCACAF Central American Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Cucuta",
@@ -704,16 +704,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2088,
+  "n": 2089,
   "ganados": 1448,
   "win_rate": 69,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 3,
-  "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 75
+  "ganados": 5,
+  "perdidos": 2,
+  "en_juego": 0,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 62,
