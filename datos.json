@@ -1,33 +1,33 @@
 {
- "actualizado": "2026-08-26T21:13:45.855409+00:00",
+ "actualizado": "2026-08-26T21:23:33.174502+00:00",
  "partidos_vivo": [
   {
-   "home": "Mineros de Guyana",
-   "away": "Dinamo de Puerto La Cruz",
-   "liga": "Copa Venezuela",
-   "minuto": 59,
-   "marcador": "4-0",
+   "home": "Sporting Cristal",
+   "away": "Sport Huancayo",
+   "liga": "Copa De La Liga",
+   "minuto": 64,
+   "marcador": "3-1",
    "apuesta": "Over 4.5",
-   "score": 5.5,
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.94 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Rayo Zuliano",
-   "away": "Urena SC",
+   "home": "Trujillanos FC",
+   "away": "Deportivo Lara",
    "liga": "Copa Venezuela",
-   "minuto": 62,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 5.0,
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -36,26 +36,26 @@
    "razones": [
     "⚽ Liga goleadora: 2.94 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Atletico el Vigia FC",
-   "away": "Club Atletico Barinas",
-   "liga": "Copa Venezuela",
-   "minuto": 64,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "home": "Atletico Grau",
+   "away": "Sport Boys",
+   "liga": "Copa De La Liga",
+   "minuto": 56,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.94 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Club Atletico Barinas buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
