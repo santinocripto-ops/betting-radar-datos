@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T21:05:00.599997+00:00",
+ "actualizado": "2026-08-26T21:13:45.855409+00:00",
  "partidos_vivo": [
   {
    "home": "Mineros de Guyana",
@@ -561,8 +561,8 @@
     "casas": 3,
     "pinnacle": false,
     "delta": 3.78,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-26T19:00:00+00:00",
     "ts": "2026-08-26T11:05:33.511105+00:00"
    },
@@ -764,11 +764,11 @@
    }
   ],
   "balance": {
-   "ganados": 149,
+   "ganados": 150,
    "perdidos": 68,
-   "pendientes": 1,
-   "acierto": 68.7,
-   "total": 217
+   "pendientes": 0,
+   "acierto": 68.8,
+   "total": 218
   }
  },
  "apuestas_top": [
