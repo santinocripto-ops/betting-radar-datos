@@ -1,106 +1,30 @@
 {
- "actualizado": "2026-08-26T19:45:50.428476+00:00",
+ "actualizado": "2026-08-26T19:53:05.043229+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Diriyah",
-   "away": "Al Kholood",
-   "liga": "Pro League",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Union Saint-Gilloise II",
-   "away": "Rochefort",
-   "liga": "First Amateur Division",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.7,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Al Salmiyah",
-   "away": "Al Nasar",
-   "liga": "Premier League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.7,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Bromley U21",
-   "away": "West Bromwich Albion U21",
-   "liga": "Premier League Cup",
-   "minuto": 48,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Stockport County U21",
-   "away": "Charlton Athletic U21",
-   "liga": "Premier League Cup",
+   "home": "St. Pölten W",
+   "away": "Juventus W",
+   "liga": "UEFA Champions League Women",
    "minuto": 50,
-   "marcador": "1-1",
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 6.0,
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "IFK Umeå",
-   "away": "Umeå FC Akademi",
-   "liga": "Division 2 - Norrland",
-   "minuto": 55,
+   "home": "Bradford",
+   "away": "Burnley",
+   "liga": "League Cup",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 5.7,
@@ -110,112 +34,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.55 goles/partido",
+    "⚽ Liga muy goleadora: 3.27 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Chelsea W",
-   "away": "Real Sociedad W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 65,
+   "home": "Avro",
+   "away": "Leek Town",
+   "liga": "Non League Premier - Northern",
+   "minuto": 46,
    "marcador": "2-2",
    "apuesta": "Over 4.5",
-   "score": 5.5,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Olympic Charleroi",
-   "away": "Standard Liège II",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Albert Quévy-Mons",
-   "away": "Meux",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Tubize",
-   "away": "Sporting Charleroi II",
-   "liga": "First Amateur Division",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Al-Ahli Jeddah",
-   "away": "Auckland",
-   "liga": "FIFA Intercontinental Cup",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Spartak Subotica W",
-   "away": "Brøndby W",
-   "liga": "UEFA Europa Cup - Women",
+   "home": "Newcastle",
+   "away": "West Brom",
+   "liga": "League Cup",
    "minuto": 51,
-   "marcador": "0-3",
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "score": 4.5,
    "recomendar": false,
@@ -224,9 +72,28 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 3.27 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Spartak Subotica W pierde por 3 — atacará sin freno"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Patronato",
+   "away": "Atlanta",
+   "liga": "Primera Nacional",
+   "minuto": 58,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Atlanta buscará el empate"
    ]
   }
  ],
