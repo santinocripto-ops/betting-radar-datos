@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T17:03:01.131480+00:00",
+ "actualizado": "2026-08-26T17:09:53.437415+00:00",
  "partidos_vivo": [
   {
    "home": "Brønderslev",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:03",
    "tipo": "smart_money"
@@ -295,12 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "17:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:14",
    "tipo": "live"
   }
  ],
@@ -922,6 +922,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: Natus Vincere ganara",
+   "usdc": 64174,
+   "prob": 21.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "19:09"
+  },
+  {
    "titulo": "US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino",
    "apuesta": "SI, US Open, Qualification WTA: Elena Pridankina ganara",
    "usdc": 154293,
@@ -983,15 +992,6 @@
    "n_traders": 2,
    "trader": "swisstony",
    "hora": "04:12"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the September 2026",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
-   "usdc": 95930,
-   "prob": 67.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "03:49"
   }
  ],
  "stats_gt": {
