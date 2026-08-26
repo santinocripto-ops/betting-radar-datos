@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T01:56:58.108813+00:00",
+ "actualizado": "2026-08-26T02:04:33.790116+00:00",
  "partidos_vivo": [
   {
    "home": "Independiente del Valle",
@@ -143,7 +143,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 980
+   "n_historico": 981
   },
   {
    "clave": "btts",
@@ -157,7 +157,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 958
+   "n_historico": 959
   }
  ],
  "gol_temprano": [
@@ -204,7 +204,7 @@
     "away": "Atletico-MG",
     "liga": "Copa Do Brasil",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -296,7 +296,7 @@
     "away": "Atletico-MG",
     "liga": "Copa Do Brasil",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -374,8 +374,8 @@
    }
   ],
   "balance": {
-   "ganados": 1152,
-   "perdidos": 786,
+   "ganados": 1153,
+   "perdidos": 787,
    "acierto": 59.4,
    "yield": 12.9,
    "cuota_media": 1.9
