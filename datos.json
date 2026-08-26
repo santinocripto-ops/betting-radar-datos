@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-26T13:37:51.588754+00:00",
+ "actualizado": "2026-08-26T13:44:36.728811+00:00",
  "partidos_vivo": [
   {
    "home": "Johor Darul Takzim FC",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:44",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -86,12 +92,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "05:39",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "04:41",
    "tipo": "live"
   }
  ],
@@ -669,6 +669,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Augsburg: Facundo Mena vs Kai Wehnelt",
+   "apuesta": "SI, Augsburg: Facundo Mena ganara",
+   "usdc": 86465,
+   "prob": 62.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "15:44"
+  },
+  {
    "titulo": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
    "apuesta": "SI, LoL: KT Rolster ganara",
    "usdc": 80595,
@@ -729,15 +738,6 @@
    "prob": 53.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
-   "hora": "00:28"
-  },
-  {
-   "titulo": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
-   "apuesta": "SI, ganara",
-   "usdc": 89931,
-   "prob": 44.5,
-   "n_traders": 4,
-   "trader": "swisstony",
    "hora": "00:28"
   }
  ],
