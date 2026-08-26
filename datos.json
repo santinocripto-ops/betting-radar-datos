@@ -1,13 +1,127 @@
 {
- "actualizado": "2026-08-26T15:28:50.069872+00:00",
+ "actualizado": "2026-08-26T15:36:33.071910+00:00",
  "partidos_vivo": [
   {
-   "home": "Lokomotiv",
-   "away": "Bunyodkor",
-   "liga": "Super League",
-   "minuto": 50,
-   "marcador": "3-0",
+   "home": "Zagora",
+   "away": "Bratstvo Jurovec",
+   "liga": "Cup",
+   "minuto": 47,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 7.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Geča",
+   "away": "Spišská Nová Ves",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-3",
    "apuesta": "Over 3.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Vrbovec",
+   "away": "Daruvar",
+   "liga": "Cup",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 7.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Orsha",
+   "away": "Dinamo Minsk II",
+   "liga": "1. Division",
+   "minuto": 51,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 6.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Dinamo Predavac",
+   "away": "Hrvatski Dragovoljac",
+   "liga": "Cup",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 7.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Gerlachov",
+   "away": "Liptovský Mikuláš",
+   "liga": "Cup",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Cuba U20",
+   "away": "Uljanik",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -15,66 +129,28 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 7.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Bunyodkor pierde por 3 — atacará sin freno"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Dinamo Stavropol",
-   "away": "Astrakhan",
+   "home": "V. Kapusany",
+   "away": "Zemplín Michalovce",
    "liga": "Cup",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.7,
+   "minuto": 52,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Usce U19",
-   "away": "Sp. Subotica U19",
-   "liga": "U19 league",
-   "minuto": 46,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.18 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Mash'al",
-   "away": "Navbahor",
-   "liga": "Super League",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Mash'al buscará el empate",
-    "⏱ 43 minutos por jugar — margen amplio"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
