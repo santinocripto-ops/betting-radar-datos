@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T00:37:46.744230+00:00",
+ "actualizado": "2026-08-27T00:45:24.766356+00:00",
  "partidos_vivo": [
   {
    "home": "Penarol",
@@ -63,6 +63,24 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:30",
    "tipo": "live"
   },
@@ -113,24 +131,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -180,6 +180,39 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Palmeiras",
+   "away": "Santos",
+   "liga": "Copa Do Brasil",
+   "minuto": 14,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
+  {
+   "home": "Blooming",
+   "away": "Real Oruro",
+   "liga": "Primera División",
+   "minuto": 15,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
+  {
+   "home": "Colo Colo",
+   "away": "Union Espanola",
+   "liga": "Copa Chile",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
   {
    "home": "North Carolina Courage W",
    "away": "Angel City W",
@@ -700,7 +733,7 @@
   "n": 2112,
   "ganados": 1468,
   "win_rate": 70,
-  "hoy": 1
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 0,
