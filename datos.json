@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:00:14.560682+00:00",
+ "actualizado": "2026-08-27T18:06:50.790222+00:00",
  "partidos_vivo": [
   {
    "home": "Monaco",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:34",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:12",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -751,6 +751,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Brighton & Hove Albion FC vs. Tromsø IL: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 145270,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xb",
+   "hora": "20:06"
+  },
+  {
    "titulo": "Will FC Barcelona win on 2026-08-27?",
    "apuesta": "SI, FC Barcelona ganara",
    "usdc": 502250,
@@ -812,15 +821,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "17:26"
-  },
-  {
-   "titulo": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 127253,
-   "prob": 64.5,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "15:20"
   }
  ],
  "stats_gt": {
