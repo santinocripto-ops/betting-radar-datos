@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-27T19:48:13.596235+00:00",
+ "actualizado": "2026-08-27T19:55:59.336686+00:00",
  "partidos_vivo": [
   {
-   "home": "Aarhus",
-   "away": "Benfica",
+   "home": "Ferencvarosi TC",
+   "away": "Trabzonspor",
    "liga": "UEFA Europa League",
-   "minuto": 64,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
+   "minuto": 65,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
@@ -21,13 +21,13 @@
    ]
   },
   {
-   "home": "FC ST. Gallen",
-   "away": "FC Nordsjaelland",
+   "home": "Brighton",
+   "away": "Tromso",
    "liga": "UEFA Europa Conference League",
-   "minuto": 61,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 4.5,
+   "minuto": 62,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -36,68 +36,93 @@
    "razones": [
     "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Botafogo U20",
-   "away": "Volta Redonda U20",
-   "liga": "Carioca U20",
-   "minuto": 62,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 3.0,
+   "home": "Anderlecht",
+   "away": "Kairat Almaty",
+   "liga": "UEFA Europa League",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Deportivo Riestra Res.",
-   "away": "Defensa y Justicia Res.",
-   "liga": "Reserve League",
-   "minuto": 65,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 1.5,
+   "home": "HNK Rijeka",
+   "away": "FC Midtjylland",
+   "liga": "UEFA Europa Conference League",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Independiente Riva. Res.",
-   "away": "Estudiantes Rio Cuarto 2",
-   "liga": "Reserve League",
-   "minuto": 65,
-   "marcador": "1-0",
+   "home": "Boreham Wood",
+   "away": "Boston United",
+   "liga": "National League",
+   "minuto": 54,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 0.5,
+   "score": 2.8,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Caen",
+   "away": "Bastia",
+   "liga": "Ligue 3",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Estudiantes Rio Cuarto 2 buscará el empate"
+    "⚽ 1 gol — Caen buscará el empate",
+    "⏱ 39 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "21:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -156,12 +181,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:11",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
    "tipo": "smart_money"
   },
   {
@@ -302,7 +321,7 @@
   "balance_dia": 390.0,
   "ganados": 2096,
   "perdidos": 900,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 14,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -871,7 +890,7 @@
  "stats_dia": {
   "ganados": 16,
   "perdidos": 4,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 80
  },
  "stats_banker": {
