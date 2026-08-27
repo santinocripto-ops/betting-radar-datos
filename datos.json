@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T11:16:37.290821+00:00",
+ "actualizado": "2026-08-27T11:18:35.287921+00:00",
  "partidos_vivo": [
   {
    "home": "Ekibastuz",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📈 2ª TANDA OVER 2.5 — HOY 27/08/2026",
+   "hora": "13:18",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "⚽ 2ª TANDA BTTS — HOY 27/08/2026",
@@ -234,6 +240,15 @@
     "tanda": 1
    },
    {
+    "home": "Red Bull Salzburg",
+    "away": "Mjallby AIF",
+    "liga": "UEFA Europa League",
+    "hora": "19:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
     "home": "Future FC",
     "away": "Ghazl El Mehalla",
     "liga": "Premier League",
@@ -326,6 +341,24 @@
     "tanda": 1
    },
    {
+    "home": "FC Iberia 1999",
+    "away": "Jagiellonia",
+    "liga": "UEFA Europa League",
+    "hora": "18:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Omonia Nicosia",
+    "away": "St. Truiden",
+    "liga": "UEFA Europa League",
+    "hora": "19:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
     "home": "Future FC",
     "away": "Ghazl El Mehalla",
     "liga": "Premier League",
@@ -366,6 +399,24 @@
     "away": "AL Masry",
     "liga": "Premier League",
     "hora": "19:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Celta Vigo",
+    "away": "Osasuna",
+    "liga": "La Liga",
+    "hora": "20:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "liga": "La Liga",
+    "hora": "21:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
