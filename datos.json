@@ -1,27 +1,71 @@
 {
- "actualizado": "2026-08-27T21:34:08.225795+00:00",
+ "actualizado": "2026-08-27T21:40:48.692421+00:00",
  "partidos_vivo": [
   {
-   "home": "Central Córdoba SdE Res.",
-   "away": "Ferro 2",
-   "liga": "Reserve League",
-   "minuto": 46,
+   "home": "San Antonio",
+   "away": "Ind. Juniors",
+   "liga": "Liga Pro Serie B",
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 3.7,
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "🔒 Liga muy cerrada: 1.63 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "22 de Julio",
+   "away": "Santo Domingo",
+   "liga": "Liga Pro Serie B",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.63 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — 22 de Julio buscará el empate"
+   ]
+  },
+  {
+   "home": "Cuniburo",
+   "away": "Atletico FC",
+   "liga": "Liga Pro Serie B",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.63 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Atletico FC buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "23:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -87,12 +131,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:25",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:11",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -142,6 +180,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Resistencia",
+   "away": "Cerro Porteno",
+   "liga": "Copa Paraguay",
+   "minuto": 11,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
   {
    "home": "Anderlecht",
    "away": "Kairat Almaty",
@@ -194,17 +243,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-08-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Sport Academy Kairat",
-   "away": "Arys",
-   "liga": "1. Division",
-   "minuto": 13,
-   "score": 9.1,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   }
@@ -765,7 +803,7 @@
   "n": 2124,
   "ganados": 1476,
   "win_rate": 69,
-  "hoy": 12
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 18,
