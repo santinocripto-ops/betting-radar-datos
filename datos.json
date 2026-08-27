@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T21:53:15.206097+00:00",
+ "actualizado": "2026-08-27T21:59:33.619807+00:00",
  "partidos_vivo": [
   {
    "home": "San Antonio",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "23:59",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -124,12 +130,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:25",
    "tipo": "smart_money"
   }
  ],
