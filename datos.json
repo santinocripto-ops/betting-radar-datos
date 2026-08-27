@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T09:29:08.284653+00:00",
+ "actualizado": "2026-08-27T09:36:05.598813+00:00",
  "partidos_vivo": [
   {
    "home": "Unión Adarve",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:35",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -86,12 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:06",
    "tipo": "smart_money"
   }
  ],
@@ -669,6 +669,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 119785,
+   "prob": 54.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "11:35"
+  },
+  {
    "titulo": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
    "apuesta": "SI, LoL: Nongshim Red Force ganara",
    "usdc": 49474,
@@ -730,15 +739,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "01:07"
-  },
-  {
-   "titulo": "Monterrey Open: Cristina Bucsa vs Darja Vidmanova",
-   "apuesta": "SI, Monterrey Open: Cristina Bucsa ganara",
-   "usdc": 52855,
-   "prob": 27.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:07"
   }
  ],
  "stats_gt": {
