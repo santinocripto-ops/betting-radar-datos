@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T17:18:23.510957+00:00",
+ "actualizado": "2026-08-27T17:25:38.783386+00:00",
  "partidos_vivo": [
   {
    "home": "Ararat-Armenia",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:25",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -123,12 +129,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:12",
    "tipo": "live"
   }
@@ -770,6 +770,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Barcelona win on 2026-08-27?",
+   "apuesta": "SI, FC Barcelona ganara",
+   "usdc": 502250,
+   "prob": 79.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "19:25"
+  },
+  {
    "titulo": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
    "apuesta": "SI, ganara",
    "usdc": 153995,
@@ -829,15 +838,6 @@
    "usdc": 127253,
    "prob": 64.5,
    "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "15:20"
-  },
-  {
-   "titulo": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 152833,
-   "prob": 51.0,
-   "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "15:20"
   }
