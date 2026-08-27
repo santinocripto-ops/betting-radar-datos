@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T17:11:01.381639+00:00",
+ "actualizado": "2026-08-27T17:11:28.483390+00:00",
  "partidos_vivo": [
   {
    "home": "Ararat-Armenia",
@@ -61,6 +61,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "19:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:11",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:11",
@@ -119,18 +131,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:56",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -282,7 +282,7 @@
   "balance_dia": 317.0,
   "ganados": 2091,
   "perdidos": 898,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 70.0,
@@ -530,6 +530,13 @@
  },
  "reentradas": [
   {
+   "home": "Simba",
+   "away": "Coastal Union",
+   "liga": "Ligi kuu Bara",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Ararat-Armenia",
    "away": "Universitatea Craiova",
    "liga": "UEFA Europa League",
@@ -765,6 +772,15 @@
   {
    "titulo": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
    "apuesta": "SI, ganara",
+   "usdc": 153995,
+   "prob": 74.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "19:11"
+  },
+  {
+   "titulo": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
+   "apuesta": "SI, ganara",
    "usdc": 197161,
    "prob": 76.5,
    "n_traders": 2,
@@ -824,15 +840,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "15:20"
-  },
-  {
-   "titulo": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
-   "apuesta": "SI, Map Handicap: MOUZ (-1.5) ganara",
-   "usdc": 170335,
-   "prob": 38.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "14:04"
   }
  ],
  "stats_gt": {
@@ -844,7 +851,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 2,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 82
  },
  "stats_banker": {
