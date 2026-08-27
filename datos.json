@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:44:26.006140+00:00",
+ "actualizado": "2026-08-27T18:44:38.456449+00:00",
  "partidos_vivo": [
   {
    "home": "El Mokawloon",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:03",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:02",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -181,6 +181,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Anderlecht",
+   "away": "Kairat Almaty",
+   "liga": "UEFA Europa League",
+   "minuto": 14,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
+  {
    "home": "Al Wakrah",
    "away": "Al-Rayyan SC",
    "liga": "Stars League",
@@ -230,17 +241,6 @@
    "liga": "1. Division",
    "minuto": 13,
    "score": 9.1,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Club America",
-   "away": "Columbus Crew",
-   "liga": "Leagues Cup",
-   "minuto": 11,
-   "score": 9.7,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-27",
@@ -818,7 +818,7 @@
   "n": 2122,
   "ganados": 1474,
   "win_rate": 69,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 14,
