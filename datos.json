@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T11:18:35.287921+00:00",
+ "actualizado": "2026-08-27T11:25:11.069187+00:00",
  "partidos_vivo": [
   {
    "home": "Ekibastuz",
@@ -84,12 +84,12 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "baja",
-   "home": "Future FC",
-   "away": "Ghazl El Mehalla",
-   "liga": "Premier League",
+   "home": "FC Iberia 1999",
+   "away": "Jagiellonia",
+   "liga": "UEFA Europa League",
    "cuota": null,
-   "score": 3.5,
-   "hora": "14:00",
+   "score": 4.3,
+   "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 61,
    "n_historico": 1001
@@ -98,12 +98,12 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "baja",
-   "home": "Future FC",
-   "away": "Ghazl El Mehalla",
-   "liga": "Premier League",
+   "home": "Red Bull Salzburg",
+   "away": "Mjallby AIF",
+   "liga": "UEFA Europa League",
    "cuota": null,
-   "score": 2.5,
-   "hora": "14:00",
+   "score": 3.0,
+   "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 978
