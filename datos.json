@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T01:53:11.690276+00:00",
+ "actualizado": "2026-08-27T02:00:52.772596+00:00",
  "partidos_vivo": [
   {
    "home": "Toluca",
@@ -194,6 +194,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:00",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "03:53",
@@ -257,12 +263,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "00:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:05",
    "tipo": "smart_money"
   }
  ],
@@ -816,6 +816,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Monterrey Open: Maja Chwalinska vs Alycia Parks",
+   "apuesta": "SI, Monterrey Open: Maja Chwalinska ganara",
+   "usdc": 17398,
+   "prob": 77.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "04:00"
+  },
+  {
    "titulo": "Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret",
    "apuesta": "SI, Philadelphia: Oksana Selekhmeteva ganara",
    "usdc": 15016,
@@ -877,15 +886,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "20:17"
-  },
-  {
-   "titulo": "Map Handicap: FURIA (-1.5) vs paiN (+1.5)",
-   "apuesta": "SI, Map Handicap: FURIA (-1.5) ganara",
-   "usdc": 209557,
-   "prob": 55.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "19:53"
   }
  ],
  "stats_gt": {
