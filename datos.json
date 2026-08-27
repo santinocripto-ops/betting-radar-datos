@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T12:05:31.230805+00:00",
+ "actualizado": "2026-08-27T12:05:37.918674+00:00",
  "partidos_vivo": [
   {
    "home": "Yelimay Semey 2",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
