@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T21:04:08.681980+00:00",
+ "actualizado": "2026-08-27T21:15:03.930175+00:00",
  "partidos_vivo": [
   {
    "home": "Central Córdoba SdE Res.",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:14",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -87,12 +93,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:11",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -488,8 +488,8 @@
     "casas": 3,
     "pinnacle": true,
     "delta": 2.96,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-27T19:00:00+00:00",
     "ts": "2026-08-27T07:02:47.264637+00:00"
    },
@@ -502,8 +502,8 @@
     "casas": 7,
     "pinnacle": true,
     "delta": 4.19,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-0",
+    "resultado": "perdido",
     "kickoff": "2026-08-27T18:30:00+00:00",
     "ts": "2026-08-27T07:02:44.598214+00:00"
    },
@@ -516,8 +516,8 @@
     "casas": 6,
     "pinnacle": true,
     "delta": 3.39,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-27T18:30:00+00:00",
     "ts": "2026-08-27T13:06:54.156083+00:00"
    },
@@ -677,17 +677,26 @@
    }
   ],
   "balance": {
-   "ganados": 153,
-   "perdidos": 69,
-   "pendientes": 4,
+   "ganados": 155,
+   "perdidos": 70,
+   "pendientes": 1,
    "acierto": 68.9,
-   "total": 222
+   "total": 225
   }
  },
  "mejor_dia": {
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Monterrey Open: Alycia Parks vs Ann Li",
+   "apuesta": "SI, Monterrey Open: Alycia Parks ganara",
+   "usdc": 46968,
+   "prob": 30.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:14"
+  },
   {
    "titulo": "FC Barcelona vs. Athletic Club: O/U 1.5",
    "apuesta": "SI, mas de 1.5 goles",
@@ -750,15 +759,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "19:02"
-  },
-  {
-   "titulo": "Will Trabzonspor win on 2026-08-27?",
-   "apuesta": "NO, Trabzonspor no ganara",
-   "usdc": 37482,
-   "prob": 58.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:34"
   }
  ],
  "stats_gt": {
