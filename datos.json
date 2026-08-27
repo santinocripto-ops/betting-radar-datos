@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T10:03:11.452121+00:00",
+ "actualizado": "2026-08-27T10:10:02.915355+00:00",
  "partidos_vivo": [
   {
    "home": "Unión Adarve",
@@ -491,6 +491,20 @@
     "ts": "2026-08-27T07:02:41.998145+00:00"
    },
    {
+    "home": "Red Bull Salzburg",
+    "away": "Mjallby AIF",
+    "liga": "UEFA Europa League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "pinnacle": false,
+    "delta": 3.45,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-27T17:00:00+00:00",
+    "ts": "2026-08-27T10:03:11.637886+00:00"
+   },
+   {
     "home": "FC Iberia 1999",
     "away": "Jagiellonia",
     "liga": "UEFA Europa League",
@@ -643,26 +657,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-25T16:00:00+00:00",
     "ts": "2026-08-24T20:04:18.676114+00:00"
-   },
-   {
-    "home": "Unirea Slobozia",
-    "away": "Metaloglobus",
-    "liga": "Liga II",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "pinnacle": true,
-    "delta": 3.93,
-    "marcador": "1-2",
-    "resultado": "perdido",
-    "kickoff": "2026-08-25T16:00:00+00:00",
-    "ts": "2026-08-25T08:06:52.017150+00:00"
    }
   ],
   "balance": {
    "ganados": 150,
    "perdidos": 68,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 68.8,
    "total": 218
   }
