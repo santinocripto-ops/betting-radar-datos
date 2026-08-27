@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T00:52:53.131102+00:00",
+ "actualizado": "2026-08-27T00:53:03.021482+00:00",
  "partidos_vivo": [
   {
    "home": "Naples",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -87,12 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -142,6 +142,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Toluca",
+   "away": "Austin",
+   "liga": "Leagues Cup",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
   {
    "home": "Palmeiras",
    "away": "Santos",
@@ -695,7 +706,7 @@
   "n": 2112,
   "ganados": 1468,
   "win_rate": 70,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 0,
