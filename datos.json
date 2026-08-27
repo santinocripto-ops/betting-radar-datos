@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T20:03:48.908613+00:00",
+ "actualizado": "2026-08-27T20:11:34.588733+00:00",
  "partidos_vivo": [
   {
    "home": "Ferencvarosi TC",
@@ -567,15 +567,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Simba",
-   "away": "Coastal Union",
-   "liga": "Ligi kuu Bara",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
