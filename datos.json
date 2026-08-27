@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-08-27T11:31:39.213322+00:00",
+ "actualizado": "2026-08-27T11:38:17.775316+00:00",
  "partidos_vivo": [
   {
-   "home": "Ekibastuz",
-   "away": "Turan Turkistan",
-   "liga": "1. Division",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.5,
+   "home": "Dinamo Barnaul",
+   "away": "Irtysh Omsk",
+   "liga": "Cup",
+   "minuto": 47,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Ekibastuz buscará el empate"
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Irtysh Omsk pierde por 4 — atacará sin freno"
    ]
   }
  ],
