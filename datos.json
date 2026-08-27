@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T00:23:03.914861+00:00",
+ "actualizado": "2026-08-27T00:30:30.410741+00:00",
  "partidos_vivo": [
   {
    "home": "Penarol",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:30",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -125,12 +131,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:19",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -181,70 +181,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Al Talaba",
-   "away": "Newroz",
-   "liga": "Iraqi League",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Preston",
-   "away": "Everton",
-   "liga": "League Cup",
-   "minuto": 19,
-   "score": 9.2,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Real Madrid",
-   "away": "Real Sociedad",
-   "liga": "La Liga",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Lyon",
-   "away": "Fenerbahçe",
-   "liga": "UEFA Champions League",
-   "minuto": 10,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Celje",
-   "away": "Slovan Bratislava",
-   "liga": "UEFA Champions League",
-   "minuto": 10,
-   "score": 9.6,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Tottenham",
-   "away": "Charlton",
-   "liga": "League Cup",
+   "home": "North Carolina Courage W",
+   "away": "Angel City W",
+   "liga": "NWSL Women",
    "minuto": 15,
-   "score": 9.3,
+   "score": 9.8,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-26",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -755,7 +700,7 @@
   "n": 2112,
   "ganados": 1468,
   "win_rate": 70,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
