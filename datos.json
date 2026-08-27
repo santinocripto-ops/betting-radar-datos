@@ -1,42 +1,42 @@
 {
- "actualizado": "2026-08-27T15:56:20.157033+00:00",
+ "actualizado": "2026-08-27T16:04:17.812755+00:00",
  "partidos_vivo": [
   {
-   "home": "Al-Gharafa",
-   "away": "Al Shamal",
-   "liga": "Stars League",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 3.0,
+   "home": "KuPS",
+   "away": "Shamrock Rovers",
+   "liga": "UEFA Europa Conference League",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Shamal buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "1º de Maio",
-   "away": "1º de Agosto",
-   "liga": "Girabola",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 1.0,
+   "home": "HamKam U19",
+   "away": "Rosenborg U19",
+   "liga": "Nasjonal U19 Champions League",
+   "minuto": 50,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 5.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.8 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — 1º de Maio buscará el empate"
+    "⚽ Liga muy goleadora: 4.43 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
@@ -171,7 +171,7 @@
    "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 1001
+   "n_historico": 1002
   },
   {
    "clave": "btts",
@@ -185,7 +185,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 978
+   "n_historico": 979
   }
  ],
  "gol_temprano": [
@@ -332,7 +332,7 @@
     "away": "Ghazl El Mehalla",
     "liga": "Premier League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -442,7 +442,7 @@
     "away": "Ghazl El Mehalla",
     "liga": "Premier League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -503,9 +503,9 @@
   ],
   "balance": {
    "ganados": 1180,
-   "perdidos": 799,
+   "perdidos": 801,
    "acierto": 59.6,
-   "yield": 13.3,
+   "yield": 13.2,
    "cuota_media": 1.9
   }
  },
