@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T16:41:52.824947+00:00",
+ "actualizado": "2026-08-27T16:41:59.903680+00:00",
  "partidos_vivo": [
   {
    "home": "Falu BS",
@@ -171,6 +171,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Wakrah",
+   "away": "Al-Rayyan SC",
+   "liga": "Stars League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
+  {
    "home": "FC Iberia 1999",
    "away": "Jagiellonia",
    "liga": "UEFA Europa League",
@@ -222,17 +233,6 @@
    "score": 9.7,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-08-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Toluca",
-   "away": "Austin",
-   "liga": "Leagues Cup",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-08-27",
    "es_hoy": true
   }
@@ -784,7 +784,7 @@
   "n": 2119,
   "ganados": 1473,
   "win_rate": 70,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 9,
