@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T16:41:59.903680+00:00",
+ "actualizado": "2026-08-27T16:49:01.775835+00:00",
  "partidos_vivo": [
   {
    "home": "Falu BS",
@@ -244,7 +244,7 @@
   "balance_dia": 317.0,
   "ganados": 2091,
   "perdidos": 898,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 70.0,
@@ -789,7 +789,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 2,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 82
  },
  "stats_banker": {
