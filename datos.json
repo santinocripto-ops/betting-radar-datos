@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T11:15:32.235436+00:00",
+ "actualizado": "2026-08-27T11:16:37.290821+00:00",
  "partidos_vivo": [
   {
    "home": "Ekibastuz",
@@ -21,7 +21,14 @@
    ]
   }
  ],
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "⚽ 2ª TANDA BTTS — HOY 27/08/2026",
+   "hora": "13:16",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [
   {
