@@ -1,46 +1,33 @@
 {
- "actualizado": "2026-08-27T16:26:46.525689+00:00",
+ "actualizado": "2026-08-27T16:34:23.852652+00:00",
  "partidos_vivo": [
   {
-   "home": "KuPS",
-   "away": "Shamrock Rovers",
-   "liga": "UEFA Europa Conference League",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "HamKam U19",
-   "away": "Rosenborg U19",
-   "liga": "Nasjonal U19 Champions League",
-   "minuto": 50,
-   "marcador": "0-2",
+   "home": "Falu BS",
+   "away": "IF Brommapojkarna",
+   "liga": "Svenska Cupen",
+   "minuto": 48,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 5.5,
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.43 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:34",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -98,12 +85,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:06",
    "tipo": "smart_money"
   },
@@ -735,6 +716,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Trabzonspor win on 2026-08-27?",
+   "apuesta": "NO, Trabzonspor no ganara",
+   "usdc": 37482,
+   "prob": 58.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:34"
+  },
   {
    "titulo": "Spread: FC Barcelona (-1.5)",
    "apuesta": "SI — Spread: FC Barcelona (-1.5)",
