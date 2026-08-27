@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T15:04:36.044769+00:00",
+ "actualizado": "2026-08-27T15:12:19.048369+00:00",
  "partidos_vivo": [
   {
    "home": "Team",
@@ -611,6 +611,20 @@
     "ts": "2026-08-27T07:02:40.936817+00:00"
    },
    {
+    "home": "Ararat-Armenia",
+    "away": "Universitatea Craiova",
+    "liga": "UEFA Europa League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 12,
+    "pinnacle": true,
+    "delta": 5.25,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-27T16:00:00+00:00",
+    "ts": "2026-08-27T15:04:37.862812+00:00"
+   },
+   {
     "home": "Real Madrid",
     "away": "Real Sociedad",
     "liga": "La Liga",
@@ -707,26 +721,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-25T19:00:00+00:00",
     "ts": "2026-08-25T01:08:14.263187+00:00"
-   },
-   {
-    "home": "Al Shabab",
-    "away": "Al Riyadh",
-    "liga": "Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "pinnacle": true,
-    "delta": 3.1,
-    "marcador": "3-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-25T18:00:00+00:00",
-    "ts": "2026-08-25T14:02:23.430881+00:00"
    }
   ],
   "balance": {
    "ganados": 150,
    "perdidos": 68,
-   "pendientes": 7,
+   "pendientes": 8,
    "acierto": 68.8,
    "total": 218
   }
