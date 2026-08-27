@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T16:12:26.967446+00:00",
+ "actualizado": "2026-08-27T16:19:36.434171+00:00",
  "partidos_vivo": [
   {
    "home": "KuPS",
@@ -263,7 +263,7 @@
   "balance_dia": 317.0,
   "ganados": 2091,
   "perdidos": 898,
-  "pendientes": 0,
+  "pendientes": 3,
   "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 70.0,
@@ -799,7 +799,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 2,
-  "en_juego": 3,
+  "en_juego": 6,
   "win_rate": 82
  },
  "stats_banker": {
