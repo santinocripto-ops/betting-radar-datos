@@ -1,42 +1,42 @@
 {
- "actualizado": "2026-08-27T15:26:35.479071+00:00",
+ "actualizado": "2026-08-27T15:33:51.851332+00:00",
  "partidos_vivo": [
   {
-   "home": "Team",
-   "away": "El Seka El Hadid",
-   "liga": "Second League",
-   "minuto": 61,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 1.5,
+   "home": "Al-Gharafa",
+   "away": "Al Shamal",
+   "liga": "Stars League",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 1 gol — Al Shamal buscará el empate"
    ]
   },
   {
-   "home": "Mega Sport",
-   "away": "El Entag EL Harby",
-   "liga": "Second League",
-   "minuto": 65,
-   "marcador": "1-0",
+   "home": "1º de Maio",
+   "away": "1º de Agosto",
+   "liga": "Girabola",
+   "minuto": 48,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 0.5,
+   "score": 1.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "🔒 Liga muy cerrada: 1.8 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — El Entag EL Harby buscará el empate"
+    "⚽ 1 gol — 1º de Maio buscará el empate"
    ]
   }
  ],
