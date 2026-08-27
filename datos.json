@@ -1,30 +1,11 @@
 {
- "actualizado": "2026-08-27T02:45:06.913334+00:00",
+ "actualizado": "2026-08-27T02:52:56.919809+00:00",
  "partidos_vivo": [
   {
-   "home": "Vancouver Whitecaps II",
-   "away": "Los Angeles FC II",
-   "liga": "MLS Next Pro",
-   "minuto": 60,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 7.7,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "El Paso Locomotive",
-   "away": "Pittsburgh Riverhounds",
+   "home": "New Mexico United",
+   "away": "Lexington",
    "liga": "USL Championship",
-   "minuto": 57,
+   "minuto": 58,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 2.5,
@@ -36,11 +17,36 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.76 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — El Paso Locomotive buscará el empate"
+    "⚽ 1 gol — New Mexico United buscará el empate"
+   ]
+  },
+  {
+   "home": "Atletico Nacional",
+   "away": "Deportivo Cali",
+   "liga": "Primera A",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 1.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.47 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:52",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:30",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -664,6 +664,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will CA River Plate win on 2026-08-19?",
+   "apuesta": "SI, CA River Plate ganara",
+   "usdc": 87221,
+   "prob": 68.6,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "04:52"
+  },
+  {
    "titulo": "Monterrey Open: Maja Chwalinska vs Alycia Parks",
    "apuesta": "SI, Monterrey Open: Maja Chwalinska ganara",
    "usdc": 17398,
@@ -725,15 +734,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x1",
    "hora": "20:25"
-  },
-  {
-   "titulo": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
-   "apuesta": "SI, ganara",
-   "usdc": 69919,
-   "prob": 53.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "20:17"
   }
  ],
  "stats_gt": {
