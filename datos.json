@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-08-27T08:55:22.798491+00:00",
+ "actualizado": "2026-08-27T09:02:12.487918+00:00",
  "partidos_vivo": [
   {
-   "home": "Club America",
-   "away": "Columbus Crew",
-   "liga": "Leagues Cup",
-   "minuto": 48,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 4.5,
+   "home": "Unión Adarve",
+   "away": "Getafe II",
+   "liga": "Friendlies Clubs",
+   "minuto": 46,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
