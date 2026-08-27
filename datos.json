@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T19:07:25.142608+00:00",
+ "actualizado": "2026-08-27T19:20:20.275654+00:00",
  "partidos_vivo": [
   {
    "home": "Al Jandal",
@@ -555,8 +555,8 @@
     "casas": 3,
     "pinnacle": true,
     "delta": 3.19,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-08-27T17:00:00+00:00",
     "ts": "2026-08-27T07:02:41.998145+00:00"
    },
@@ -569,8 +569,8 @@
     "casas": 3,
     "pinnacle": false,
     "delta": 3.45,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-27T17:00:00+00:00",
     "ts": "2026-08-27T10:03:11.637886+00:00"
    },
@@ -702,11 +702,11 @@
    }
   ],
   "balance": {
-   "ganados": 151,
+   "ganados": 153,
    "perdidos": 69,
-   "pendientes": 6,
-   "acierto": 68.6,
-   "total": 220
+   "pendientes": 4,
+   "acierto": 68.9,
+   "total": 222
   }
  },
  "mejor_dia": {
