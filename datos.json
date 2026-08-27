@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T04:30:18.265094+00:00",
+ "actualizado": "2026-08-27T04:37:28.222405+00:00",
  "partidos_vivo": [
   {
    "home": "Club America",
@@ -422,13 +422,6 @@
    "home": "Toluca",
    "away": "Austin",
    "liga": "Leagues Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Blooming",
-   "away": "Real Oruro",
-   "liga": "Primera División",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
