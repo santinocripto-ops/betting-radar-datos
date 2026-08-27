@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T01:30:12.107029+00:00",
+ "actualizado": "2026-08-27T01:37:22.826104+00:00",
  "partidos_vivo": [
   {
    "home": "Cliper",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "03:37",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -106,12 +112,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "22:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -224,7 +224,7 @@
   "balance_dia": 0.0,
   "ganados": 2082,
   "perdidos": 896,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -425,7 +425,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Blooming",
+   "away": "Real Oruro",
+   "liga": "Primera División",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -730,7 +738,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 0
  },
  "stats_banker": {
