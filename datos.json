@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T19:55:59.336686+00:00",
+ "actualizado": "2026-08-27T20:03:48.908613+00:00",
  "partidos_vivo": [
   {
    "home": "Ferencvarosi TC",
@@ -118,6 +118,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:03",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "21:55",
@@ -182,12 +188,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:11",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -229,7 +229,7 @@
    "hora": "16:00",
    "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1010
+   "n_historico": 1011
   },
   {
    "clave": "btts",
@@ -316,16 +316,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44384.0,
-  "balance_total": 34384.0,
-  "balance_dia": 390.0,
+  "capital": 44284.0,
+  "balance_total": 34284.0,
+  "balance_dia": 290.0,
   "ganados": 2096,
-  "perdidos": 900,
-  "pendientes": 3,
+  "perdidos": 901,
+  "pendientes": 2,
   "ganados_dia": 14,
-  "perdidos_dia": 4,
-  "win_rate": 70.0,
-  "roi": 11.5,
+  "perdidos_dia": 5,
+  "win_rate": 69.9,
+  "roi": 11.4,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -560,7 +560,7 @@
    }
   ],
   "balance": {
-   "ganados": 1187,
+   "ganados": 1188,
    "perdidos": 807,
    "acierto": 59.5,
    "yield": 13.1,
@@ -572,13 +572,6 @@
    "home": "Simba",
    "away": "Coastal Union",
    "liga": "Ligi kuu Bara",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Ararat-Armenia",
-   "away": "Universitatea Craiova",
-   "liga": "UEFA Europa League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -809,6 +802,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "FC Barcelona vs. Athletic Club: O/U 1.5",
+   "apuesta": "SI, mas de 1.5 goles",
+   "usdc": 18699,
+   "prob": 89.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:03"
+  },
+  {
    "titulo": "Will CA Osasuna win on 2026-08-16?",
    "apuesta": "SI, CA Osasuna ganara",
    "usdc": 93008,
@@ -870,15 +872,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:34"
-  },
-  {
-   "titulo": "Spread: FC Barcelona (-1.5)",
-   "apuesta": "SI — Spread: FC Barcelona (-1.5)",
-   "usdc": 107898,
-   "prob": 59.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "17:56"
   }
  ],
  "stats_gt": {
@@ -889,9 +882,9 @@
  },
  "stats_dia": {
   "ganados": 16,
-  "perdidos": 4,
-  "en_juego": 4,
-  "win_rate": 80
+  "perdidos": 5,
+  "en_juego": 3,
+  "win_rate": 76
  },
  "stats_banker": {
   "ganados": 64,
