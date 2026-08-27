@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T01:44:39.747908+00:00",
+ "actualizado": "2026-08-27T01:51:58.121699+00:00",
  "partidos_vivo": [
   {
    "home": "Cliper",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "03:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -99,12 +105,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:04",
    "tipo": "smart_money"
   },
   {
