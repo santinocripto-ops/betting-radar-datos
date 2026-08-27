@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:06:50.790222+00:00",
+ "actualizado": "2026-08-27T18:07:42.571476+00:00",
  "partidos_vivo": [
   {
    "home": "Monaco",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:34",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -122,15 +122,6 @@
    "liga": "UEFA Europa League",
    "mercado": "Over 1.5 goles",
    "cuota": 1.32,
-   "resultado": "pendiente",
-   "fecha": "2026-08-27"
-  },
-  {
-   "home": "FC Iberia 1999",
-   "away": "Jagiellonia",
-   "liga": "UEFA Europa League",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.25,
    "resultado": "pendiente",
    "fecha": "2026-08-27"
   },
@@ -169,9 +160,9 @@
    "cuota": null,
    "score": 4.3,
    "hora": "16:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1002
+   "n_historico": 1006
   },
   {
    "clave": "btts",
@@ -185,7 +176,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 979
+   "n_historico": 981
   }
  ],
  "gol_temprano": [
@@ -207,7 +198,7 @@
    "minuto": 12,
    "score": 8.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -218,7 +209,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -229,7 +220,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -258,15 +249,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44311.0,
-  "balance_total": 34311.0,
-  "balance_dia": 317.0,
-  "ganados": 2091,
-  "perdidos": 898,
-  "pendientes": 7,
-  "ganados_dia": 9,
-  "perdidos_dia": 2,
-  "win_rate": 70.0,
+  "capital": 44323.0,
+  "balance_total": 34323.0,
+  "balance_dia": 329.0,
+  "ganados": 2095,
+  "perdidos": 900,
+  "pendientes": 1,
+  "ganados_dia": 13,
+  "perdidos_dia": 4,
+  "win_rate": 69.9,
   "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -341,7 +332,7 @@
     "away": "Al Sulaibikhat",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -350,7 +341,7 @@
     "away": "Khalidiya",
     "liga": "Premier League",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -424,7 +415,7 @@
     "away": "Jagiellonia",
     "liga": "UEFA Europa League",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -451,7 +442,7 @@
     "away": "Al Sulaibikhat",
     "liga": "Premier League",
     "hora": "17:45",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -460,7 +451,7 @@
     "away": "Khalidiya",
     "liga": "Premier League",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -502,10 +493,10 @@
    }
   ],
   "balance": {
-   "ganados": 1180,
-   "perdidos": 801,
-   "acierto": 59.6,
-   "yield": 13.2,
+   "ganados": 1183,
+   "perdidos": 804,
+   "acierto": 59.5,
+   "yield": 13.1,
    "cuota_media": 1.9
   }
  },
@@ -515,14 +506,14 @@
    "away": "Coastal Union",
    "liga": "Ligi kuu Bara",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Ararat-Armenia",
    "away": "Universitatea Craiova",
    "liga": "UEFA Europa League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -824,21 +815,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2119,
-  "ganados": 1473,
-  "win_rate": 70,
+  "n": 2122,
+  "ganados": 1474,
+  "win_rate": 69,
   "hoy": 11
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 2,
-  "en_juego": 10,
-  "win_rate": 82
+  "ganados": 14,
+  "perdidos": 4,
+  "en_juego": 3,
+  "win_rate": 78
  },
  "stats_banker": {
-  "ganados": 62,
+  "ganados": 63,
   "perdidos": 23,
-  "pendientes": 3,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
