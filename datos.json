@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T04:51:51.809180+00:00",
+ "actualizado": "2026-08-27T04:59:06.773415+00:00",
  "partidos_vivo": [
   {
    "home": "Club America",
@@ -417,15 +417,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Toluca",
-   "away": "Austin",
-   "liga": "Leagues Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
