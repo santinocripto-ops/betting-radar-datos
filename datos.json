@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T09:08:57.944047+00:00",
+ "actualizado": "2026-08-27T09:15:40.076580+00:00",
  "partidos_vivo": [
   {
    "home": "Unión Adarve",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:15",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Omonia Nicosia vs St. Truiden · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (10 casas)",
@@ -80,12 +86,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:06",
    "tipo": "smart_money"
   },
   {
@@ -669,6 +669,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
+   "apuesta": "SI, LoL: Nongshim Red Force ganara",
+   "usdc": 49474,
+   "prob": 68.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "11:15"
+  },
+  {
    "titulo": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
    "apuesta": "SI, Counter-Strike: MOUZ ganara",
    "usdc": 1579527,
@@ -730,15 +739,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "00:07"
-  },
-  {
-   "titulo": "Will Real Madrid CF vs. Real Sociedad de Fútbol end in a draw?",
-   "apuesta": "SI, acabará en empate",
-   "usdc": 123577,
-   "prob": 12.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "21:19"
   }
  ],
  "stats_gt": {
