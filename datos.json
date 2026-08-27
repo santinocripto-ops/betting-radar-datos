@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T15:19:25.370179+00:00",
+ "actualizado": "2026-08-27T15:26:28.196979+00:00",
  "partidos_vivo": [
   {
    "home": "Team",
@@ -43,6 +43,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:26",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:04",
    "tipo": "smart_money"
@@ -68,12 +74,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:06",
    "tipo": "smart_money"
   },
@@ -735,6 +735,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will FC Twente win on 2026-08-27?",
+   "apuesta": "SI, FC Twente ganara",
+   "usdc": 120950,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "17:26"
+  },
   {
    "titulo": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
    "apuesta": "SI, ganara",
