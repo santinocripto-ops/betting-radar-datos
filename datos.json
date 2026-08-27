@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:29:37.415785+00:00",
+ "actualizado": "2026-08-27T18:36:52.430620+00:00",
  "partidos_vivo": [
   {
    "home": "El Mokawloon",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:36",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -106,12 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
