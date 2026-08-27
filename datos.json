@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T22:06:54.603285+00:00",
+ "actualizado": "2026-08-27T22:07:26.822342+00:00",
  "partidos_vivo": [
   {
    "home": "Atlético Nacional W",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Alebrijes de Oaxaca vs Tapatío · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
+   "hora": "00:07",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -87,16 +93,20 @@
    "texto": "──────────────────────────────",
    "hora": "21:27",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:52",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Alebrijes de Oaxaca",
+   "away": "Tapatío",
+   "liga": "Liga de Expansión MX",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.4,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -767,7 +777,7 @@
  "stats_banker": {
   "ganados": 64,
   "perdidos": 24,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
