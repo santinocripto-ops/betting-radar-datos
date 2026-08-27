@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T02:00:52.772596+00:00",
+ "actualizado": "2026-08-27T02:08:07.360187+00:00",
  "partidos_vivo": [
   {
    "home": "Toluca",
@@ -196,6 +196,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "04:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "04:00",
    "tipo": "smart_money"
   },
@@ -257,12 +263,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "00:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:07",
    "tipo": "smart_money"
   }
  ],
