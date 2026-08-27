@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T03:00:19.951480+00:00",
+ "actualizado": "2026-08-27T03:08:20.963580+00:00",
  "partidos_vivo": [
   {
    "home": "New Mexico United",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:08",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:30",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -143,7 +143,7 @@
    "hora": "14:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 996
+   "n_historico": 1001
   },
   {
    "clave": "btts",
@@ -157,10 +157,21 @@
    "hora": "14:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 973
+   "n_historico": 978
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Club America",
+   "away": "Columbus Crew",
+   "liga": "Leagues Cup",
+   "minuto": 11,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27",
+   "es_hoy": true
+  },
   {
    "home": "Toluca",
    "away": "Austin",
@@ -168,7 +179,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -179,7 +190,7 @@
    "minuto": 14,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -190,7 +201,7 @@
    "minuto": 15,
    "score": 9.2,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -201,7 +212,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -212,21 +223,21 @@
    "minuto": 15,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 43994.0,
-  "balance_total": 33994.0,
-  "balance_dia": 0.0,
-  "ganados": 2082,
-  "perdidos": 896,
-  "pendientes": 9,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 44189.0,
+  "balance_total": 34189.0,
+  "balance_dia": 195.0,
+  "ganados": 2089,
+  "perdidos": 898,
+  "pendientes": 0,
+  "ganados_dia": 7,
+  "perdidos_dia": 2,
   "win_rate": 69.9,
   "roi": 11.4,
   "stake": 100.0,
@@ -239,7 +250,7 @@
     "away": "Los Angeles FC II",
     "liga": "MLS Next Pro",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -248,7 +259,7 @@
     "away": "Angel City W",
     "liga": "NWSL Women",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -257,7 +268,7 @@
     "away": "Deportivo Moron",
     "liga": "Primera Nacional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -266,7 +277,7 @@
     "away": "Antigua GFC",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -275,7 +286,7 @@
     "away": "Real Estelí",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -331,7 +342,7 @@
     "away": "Los Angeles FC II",
     "liga": "MLS Next Pro",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -340,7 +351,7 @@
     "away": "Angel City W",
     "liga": "NWSL Women",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -349,7 +360,7 @@
     "away": "Deportivo Moron",
     "liga": "Primera Nacional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -358,7 +369,7 @@
     "away": "Antigua GFC",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -367,7 +378,7 @@
     "away": "Real Estelí",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -418,10 +429,10 @@
    }
   ],
   "balance": {
-   "ganados": 1175,
-   "perdidos": 794,
-   "acierto": 59.7,
-   "yield": 13.4,
+   "ganados": 1180,
+   "perdidos": 799,
+   "acierto": 59.6,
+   "yield": 13.3,
    "cuota_media": 1.9
   }
  },
@@ -431,14 +442,14 @@
    "away": "Austin",
    "liga": "Leagues Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Blooming",
    "away": "Real Oruro",
    "liga": "Primera División",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -737,16 +748,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2112,
-  "ganados": 1468,
-  "win_rate": 70,
-  "hoy": 5
+  "n": 2117,
+  "ganados": 1471,
+  "win_rate": 69,
+  "hoy": 6
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 9,
-  "win_rate": 0
+  "ganados": 7,
+  "perdidos": 2,
+  "en_juego": 0,
+  "win_rate": 78
  },
  "stats_banker": {
   "ganados": 62,
