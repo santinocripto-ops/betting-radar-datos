@@ -1,23 +1,42 @@
 {
- "actualizado": "2026-08-27T14:56:03.606772+00:00",
+ "actualizado": "2026-08-27T15:03:59.682151+00:00",
  "partidos_vivo": [
   {
-   "home": "BuxDu",
-   "away": "Metalourg",
-   "liga": "Pro League A",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.0,
+   "home": "Team",
+   "away": "El Seka El Hadid",
+   "liga": "Second League",
+   "minuto": 61,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — BuxDu buscará el empate"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Mega Sport",
+   "away": "El Entag EL Harby",
+   "liga": "Second League",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — El Entag EL Harby buscará el empate"
    ]
   }
  ],
@@ -177,7 +196,7 @@
    "minuto": 13,
    "score": 9.1,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-27",
    "es_hoy": true
   },
@@ -239,15 +258,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44250.0,
-  "balance_total": 34250.0,
-  "balance_dia": 256.0,
-  "ganados": 2090,
+  "capital": 44311.0,
+  "balance_total": 34311.0,
+  "balance_dia": 317.0,
+  "ganados": 2091,
   "perdidos": 898,
-  "pendientes": 1,
-  "ganados_dia": 8,
+  "pendientes": 0,
+  "ganados_dia": 9,
   "perdidos_dia": 2,
-  "win_rate": 69.9,
+  "win_rate": 70.0,
   "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -754,16 +773,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2118,
-  "ganados": 1472,
-  "win_rate": 69,
+  "n": 2119,
+  "ganados": 1473,
+  "win_rate": 70,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 8,
+  "ganados": 9,
   "perdidos": 2,
-  "en_juego": 4,
-  "win_rate": 80
+  "en_juego": 3,
+  "win_rate": 82
  },
  "stats_banker": {
   "ganados": 62,
