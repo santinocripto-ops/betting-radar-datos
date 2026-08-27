@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:07:42.571476+00:00",
+ "actualizado": "2026-08-27T18:15:14.550156+00:00",
  "partidos_vivo": [
   {
    "home": "Monaco",
@@ -611,8 +611,8 @@
     "casas": 4,
     "pinnacle": true,
     "delta": 3.58,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "ganado",
     "kickoff": "2026-08-27T16:00:00+00:00",
     "ts": "2026-08-27T07:02:40.936817+00:00"
    },
@@ -625,8 +625,8 @@
     "casas": 12,
     "pinnacle": true,
     "delta": 5.25,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-08-27T16:00:00+00:00",
     "ts": "2026-08-27T15:04:37.862812+00:00"
    },
@@ -730,11 +730,11 @@
    }
   ],
   "balance": {
-   "ganados": 150,
-   "perdidos": 68,
-   "pendientes": 8,
-   "acierto": 68.8,
-   "total": 218
+   "ganados": 151,
+   "perdidos": 69,
+   "pendientes": 6,
+   "acierto": 68.6,
+   "total": 220
   }
  },
  "mejor_dia": {
