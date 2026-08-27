@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T06:55:03.687004+00:00",
+ "actualizado": "2026-08-27T07:02:57.896709+00:00",
  "partidos_vivo": [
   {
    "home": "Club America",
@@ -22,6 +22,48 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Omonia Nicosia vs St. Truiden · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (10 casas)",
+   "hora": "09:02",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ FC Iberia 1999 vs Jagiellonia · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (10 casas)",
+   "hora": "09:02",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Ferencvarosi TC vs Trabzonspor · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
+   "hora": "09:02",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:02",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:02",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:02",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -51,52 +93,38 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "07:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "05:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:52",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "04:23",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Omonia Nicosia",
+   "away": "St. Truiden",
+   "liga": "UEFA Europa League",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27"
+  },
+  {
+   "home": "FC Iberia 1999",
+   "away": "Jagiellonia",
+   "liga": "UEFA Europa League",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27"
+  },
+  {
+   "home": "Ferencvarosi TC",
+   "away": "Trabzonspor",
+   "liga": "UEFA Europa League",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.33,
+   "resultado": "pendiente",
+   "fecha": "2026-08-27"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -728,7 +756,7 @@
  "stats_banker": {
   "ganados": 62,
   "perdidos": 23,
-  "pendientes": 0,
+  "pendientes": 3,
   "win_rate": 73
  },
  "marca": {
