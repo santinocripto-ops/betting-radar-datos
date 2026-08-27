@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T12:12:47.325058+00:00",
+ "actualizado": "2026-08-27T12:19:26.216769+00:00",
  "partidos_vivo": [
   {
    "home": "Yelimay Semey 2",
@@ -226,7 +226,7 @@
   "balance_dia": 256.0,
   "ganados": 2090,
   "perdidos": 898,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 8,
   "perdidos_dia": 2,
   "win_rate": 69.9,
@@ -726,7 +726,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 2,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 80
  },
  "stats_banker": {
