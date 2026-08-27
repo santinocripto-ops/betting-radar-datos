@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T03:08:20.963580+00:00",
+ "actualizado": "2026-08-27T03:16:08.584767+00:00",
  "partidos_vivo": [
   {
    "home": "New Mexico United",
@@ -235,7 +235,7 @@
   "balance_dia": 195.0,
   "ganados": 2089,
   "perdidos": 898,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 7,
   "perdidos_dia": 2,
   "win_rate": 69.9,
@@ -756,7 +756,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 78
  },
  "stats_banker": {
