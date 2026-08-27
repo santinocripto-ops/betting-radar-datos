@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T10:02:58.020016+00:00",
+ "actualizado": "2026-08-27T10:03:11.452121+00:00",
  "partidos_vivo": [
   {
    "home": "Unión Adarve",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -86,12 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "08:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:04",
    "tipo": "smart_money"
   }
  ],
