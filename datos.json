@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T00:53:03.021482+00:00",
+ "actualizado": "2026-08-27T01:00:24.559375+00:00",
  "partidos_vivo": [
   {
    "home": "Naples",
@@ -205,7 +205,7 @@
   "balance_dia": 0.0,
   "ganados": 2082,
   "perdidos": 896,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -711,7 +711,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 0
  },
  "stats_banker": {
