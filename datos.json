@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T21:40:48.692421+00:00",
+ "actualizado": "2026-08-27T21:47:02.245045+00:00",
  "partidos_vivo": [
   {
    "home": "San Antonio",
@@ -254,7 +254,7 @@
   "balance_dia": 412.0,
   "ganados": 2098,
   "perdidos": 901,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 16,
   "perdidos_dia": 5,
   "win_rate": 70.0,
@@ -808,7 +808,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 6,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 75
  },
  "stats_banker": {
