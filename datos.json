@@ -1,40 +1,40 @@
 {
- "actualizado": "2026-08-27T03:31:05.778638+00:00",
+ "actualizado": "2026-08-27T03:38:44.269925+00:00",
  "partidos_vivo": [
   {
-   "home": "New Mexico United",
-   "away": "Lexington",
-   "liga": "USL Championship",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.5,
+   "home": "LD Alajuelense",
+   "away": "Plaza Amador",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 52,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — New Mexico United buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Atletico Nacional",
-   "away": "Deportivo Cali",
-   "liga": "Primera A",
-   "minuto": 64,
-   "marcador": "2-0",
+   "home": "Xelajú",
+   "away": "Firpo",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 51,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 1.0,
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.47 goles/partido",
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
