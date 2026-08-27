@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T00:30:30.410741+00:00",
+ "actualizado": "2026-08-27T00:37:46.744230+00:00",
  "partidos_vivo": [
   {
    "home": "Penarol",
@@ -199,7 +199,7 @@
   "balance_dia": 0.0,
   "ganados": 2082,
   "perdidos": 896,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -705,7 +705,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
