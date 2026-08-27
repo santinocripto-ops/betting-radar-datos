@@ -1,33 +1,52 @@
 {
- "actualizado": "2026-08-27T20:18:31.691853+00:00",
+ "actualizado": "2026-08-27T20:25:20.956600+00:00",
  "partidos_vivo": [
   {
-   "home": "Ferencvarosi TC",
-   "away": "Trabzonspor",
-   "liga": "UEFA Europa League",
-   "minuto": 65,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 7.5,
-   "recomendar": true,
+   "home": "Wilstermann Cooperativa",
+   "away": "Atletico Juniors",
+   "liga": "Nacional B",
+   "minuto": 63,
+   "marcador": "2-4",
+   "apuesta": "Over 6.5",
+   "score": 5.5,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 6 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Brighton",
-   "away": "Tromso",
+   "home": "Barcelona",
+   "away": "Athletic Club",
+   "liga": "La Liga",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Athletic Club buscará el empate"
+   ]
+  },
+  {
+   "home": "FK Partizan",
+   "away": "Getafe",
    "liga": "UEFA Europa Conference League",
    "minuto": 62,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 6.0,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 3.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -36,83 +55,7 @@
    "razones": [
     "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Anderlecht",
-   "away": "Kairat Almaty",
-   "liga": "UEFA Europa League",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "HNK Rijeka",
-   "away": "FC Midtjylland",
-   "liga": "UEFA Europa Conference League",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 4.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Boreham Wood",
-   "away": "Boston United",
-   "liga": "National League",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Caen",
-   "away": "Bastia",
-   "liga": "Ligue 3",
-   "minuto": 51,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 2.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Caen buscará el empate",
-    "⏱ 39 minutos por jugar — tiempo suficiente"
+    "⚽ 1 gol — Getafe buscará el empate"
    ]
   }
  ],
