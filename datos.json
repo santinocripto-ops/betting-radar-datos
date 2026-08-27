@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T13:13:44.161676+00:00",
+ "actualizado": "2026-08-27T13:20:39.458330+00:00",
  "partidos_vivo": [
   {
    "home": "Sport Academy Kairat",
@@ -24,8 +24,14 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
+   "texto": "──────────────────────────────",
+   "hora": "15:20",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:20",
    "tipo": "smart_money"
   },
   {
@@ -36,7 +42,7 @@
   },
   {
    "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:06",
    "tipo": "smart_money"
   },
@@ -83,15 +89,9 @@
    "tipo": "smart_money"
   },
   {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:12",
-   "tipo": "live"
-  },
-  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:05",
+   "hora": "15:06",
    "tipo": "smart_money"
   }
  ],
@@ -716,6 +716,24 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 127253,
+   "prob": 64.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "15:20"
+  },
+  {
+   "titulo": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 152833,
+   "prob": 51.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "15:20"
+  },
   {
    "titulo": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
    "apuesta": "SI, Map Handicap: MOUZ (-1.5) ganara",
