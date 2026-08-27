@@ -1,27 +1,51 @@
 {
- "actualizado": "2026-08-27T11:58:11.905770+00:00",
+ "actualizado": "2026-08-27T12:05:31.230805+00:00",
  "partidos_vivo": [
   {
-   "home": "Dinamo Barnaul",
-   "away": "Irtysh Omsk",
-   "liga": "Cup",
-   "minuto": 47,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "score": 5.0,
+   "home": "Yelimay Semey 2",
+   "away": "Shakhter Karagandy",
+   "liga": "1. Division",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Irtysh Omsk pierde por 4 — atacará sin freno"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -662,6 +686,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
+   "apuesta": "SI, Map Handicap: MOUZ (-1.5) ganara",
+   "usdc": 170335,
+   "prob": 38.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "14:04"
+  },
   {
    "titulo": "Will RC Celta de Vigo win on 2026-08-16?",
    "apuesta": "SI, RC Celta de Vigo ganara",
