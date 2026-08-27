@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T18:52:32.027197+00:00",
+ "actualizado": "2026-08-27T18:52:42.392008+00:00",
  "partidos_vivo": [
   {
    "home": "El Mokawloon",
@@ -254,7 +254,7 @@
   "balance_dia": 329.0,
   "ganados": 2095,
   "perdidos": 900,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 13,
   "perdidos_dia": 4,
   "win_rate": 69.9,
@@ -823,7 +823,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 4,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 78
  },
  "stats_banker": {
