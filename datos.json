@@ -1,42 +1,23 @@
 {
- "actualizado": "2026-08-27T18:52:42.392008+00:00",
+ "actualizado": "2026-08-27T19:00:09.362035+00:00",
  "partidos_vivo": [
   {
-   "home": "El Mokawloon",
-   "away": "AL Masry",
-   "liga": "Premier League",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 3.0,
+   "home": "Al Jandal",
+   "away": "Al Saqer",
+   "liga": "Division 1",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "🔒 Liga poco goleadora: 2.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Pafos",
-   "away": "Dinamo Tirana",
-   "liga": "UEFA Europa Conference League",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 3.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — Al Saqer buscará el empate"
    ]
   }
  ],
