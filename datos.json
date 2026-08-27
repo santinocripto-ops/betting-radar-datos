@@ -1,21 +1,21 @@
 {
- "actualizado": "2026-08-27T22:26:11.228472+00:00",
+ "actualizado": "2026-08-27T22:32:50.891811+00:00",
  "partidos_vivo": [
   {
-   "home": "Atlético Nacional W",
-   "away": "Millonarios W",
-   "liga": "Liga Femenina",
-   "minuto": 46,
+   "home": "Club Nacional",
+   "away": "Albion FC",
+   "liga": "Copa Uruguay",
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 5.2,
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
