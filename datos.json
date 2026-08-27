@@ -1,42 +1,61 @@
 {
- "actualizado": "2026-08-27T14:01:02.923230+00:00",
+ "actualizado": "2026-08-27T14:08:04.015578+00:00",
  "partidos_vivo": [
   {
-   "home": "Merani Tbilisi",
-   "away": "Gardabani",
-   "liga": "Liga 3",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 3.2,
+   "home": "Kaspij Aktau 2",
+   "away": "Akademiya Ontustik",
+   "liga": "1. Division",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Irao",
-   "away": "Kolkheti Khobi",
-   "liga": "Liga 3",
-   "minuto": 49,
-   "marcador": "1-0",
+   "home": "Mashujaa",
+   "away": "Kagera Sugar",
+   "liga": "Ligi kuu Bara",
+   "minuto": 48,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 3.2,
+   "score": 2.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Mashujaa buscará el empate",
+    "⏱ 42 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Luki-Energiya",
+   "away": "Cherepovets",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 2.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo",
+    "⏱ 41 minutos por jugar — margen amplio"
    ]
   }
  ],
