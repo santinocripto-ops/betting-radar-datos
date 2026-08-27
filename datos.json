@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T09:36:05.598813+00:00",
+ "actualizado": "2026-08-27T09:42:49.993163+00:00",
  "partidos_vivo": [
   {
    "home": "Unión Adarve",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:42",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -80,12 +86,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "08:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:04",
    "tipo": "smart_money"
   },
   {
@@ -669,6 +669,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Augsburg: Benito Sanchez Martinez vs Hynek Barton",
+   "apuesta": "SI, Augsburg: Benito Sanchez Martinez ganara",
+   "usdc": 202270,
+   "prob": 66.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "11:42"
+  },
+  {
    "titulo": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 119785,
@@ -730,15 +739,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "04:00"
-  },
-  {
-   "titulo": "Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret",
-   "apuesta": "SI, Philadelphia: Oksana Selekhmeteva ganara",
-   "usdc": 15016,
-   "prob": 37.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "01:07"
   }
  ],
  "stats_gt": {
