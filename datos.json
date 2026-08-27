@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T13:06:57.234907+00:00",
+ "actualizado": "2026-08-27T13:13:44.161676+00:00",
  "partidos_vivo": [
   {
    "home": "Sport Academy Kairat",
@@ -494,6 +494,20 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Alebrijes de Oaxaca",
+    "away": "Tapatío",
+    "liga": "Liga de Expansión MX",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 11,
+    "pinnacle": true,
+    "delta": 6.38,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T01:00:00+00:00",
+    "ts": "2026-08-27T13:06:57.340183+00:00"
+   },
+   {
     "home": "Barcelona",
     "away": "Athletic Club",
     "liga": "La Liga",
@@ -520,6 +534,20 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-27T18:30:00+00:00",
     "ts": "2026-08-27T07:02:44.598214+00:00"
+   },
+   {
+    "home": "Ferencvarosi TC",
+    "away": "Trabzonspor",
+    "liga": "UEFA Europa League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "pinnacle": true,
+    "delta": 3.39,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-27T18:30:00+00:00",
+    "ts": "2026-08-27T13:06:54.156083+00:00"
    },
    {
     "home": "Omonia Nicosia",
@@ -674,40 +702,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-25T18:00:00+00:00",
     "ts": "2026-08-25T14:02:23.430881+00:00"
-   },
-   {
-    "home": "Osters IF",
-    "away": "GIF Sundsvall",
-    "liga": "Superettan",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "pinnacle": true,
-    "delta": 4.42,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-08-25T17:00:00+00:00",
-    "ts": "2026-08-25T08:06:53.129109+00:00"
-   },
-   {
-    "home": "Unirea Slobozia",
-    "away": "Metaloglobus",
-    "liga": "Liga II",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 8,
-    "pinnacle": false,
-    "delta": 4.18,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-25T16:00:00+00:00",
-    "ts": "2026-08-24T20:04:18.676114+00:00"
    }
   ],
   "balance": {
    "ganados": 150,
    "perdidos": 68,
-   "pendientes": 5,
+   "pendientes": 7,
    "acierto": 68.8,
    "total": 218
   }
