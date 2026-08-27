@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T17:03:38.820713+00:00",
+ "actualizado": "2026-08-27T17:11:01.381639+00:00",
  "partidos_vivo": [
   {
    "home": "Ararat-Armenia",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:11",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -124,12 +130,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:56",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:26",
    "tipo": "smart_money"
   }
  ],
@@ -763,6 +763,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Team Falcons vs Lynn Vision - Map 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 197161,
+   "prob": 76.5,
+   "n_traders": 2,
+   "trader": "Djdjdjekekek",
+   "hora": "19:10"
+  },
+  {
    "titulo": "Map Handicap: FAL (-1.5) vs Lynn Vision (+1.5)",
    "apuesta": "SI, Map Handicap: FAL (-1.5) ganara",
    "usdc": 113677,
@@ -824,15 +833,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "14:04"
-  },
-  {
-   "titulo": "Will RC Celta de Vigo win on 2026-08-16?",
-   "apuesta": "SI, RC Celta de Vigo ganara",
-   "usdc": 173012,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "13:51"
   }
  ],
  "stats_gt": {
