@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T22:07:26.822342+00:00",
+ "actualizado": "2026-08-27T22:13:55.419978+00:00",
  "partidos_vivo": [
   {
    "home": "Atlético Nacional W",
@@ -771,7 +771,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
