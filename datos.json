@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-27T06:47:40.242020+00:00",
+ "actualizado": "2026-08-27T06:55:03.687004+00:00",
  "partidos_vivo": [
   {
    "home": "Club America",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "08:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -86,12 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:00",
    "tipo": "smart_money"
   }
  ],
@@ -641,6 +641,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
+   "apuesta": "SI, Counter-Strike: MOUZ ganara",
+   "usdc": 1579527,
+   "prob": 63.5,
+   "n_traders": 2,
+   "trader": "Djdjdjekekek",
+   "hora": "08:54"
+  },
+  {
    "titulo": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
    "apuesta": "SI, Monterrey Open: Ekaterina Alexandrova ganara",
    "usdc": 187166,
@@ -701,15 +710,6 @@
    "prob": 12.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x8",
-   "hora": "21:19"
-  },
-  {
-   "titulo": "Will Olympique Lyonnais win on 2026-08-26?",
-   "apuesta": "SI, Olympique Lyonnais ganara",
-   "usdc": 115125,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "RN1",
    "hora": "21:19"
   }
  ],
