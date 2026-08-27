@@ -1,40 +1,21 @@
 {
- "actualizado": "2026-08-27T04:01:33.072613+00:00",
+ "actualizado": "2026-08-27T04:08:36.399020+00:00",
  "partidos_vivo": [
   {
-   "home": "LD Alajuelense",
-   "away": "Plaza Amador",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 52,
-   "marcador": "1-1",
+   "home": "Club America",
+   "away": "Columbus Crew",
+   "liga": "Leagues Cup",
+   "minuto": 48,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 2.0,
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Xelajú",
-   "away": "Firpo",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 51,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
