@@ -1,61 +1,61 @@
 {
- "actualizado": "2026-08-27T00:15:22.325345+00:00",
+ "actualizado": "2026-08-27T00:23:03.914861+00:00",
  "partidos_vivo": [
   {
-   "home": "Real Potosí",
-   "away": "Real Tomayapo",
-   "liga": "Primera División",
-   "minuto": 64,
+   "home": "Penarol",
+   "away": "Atletico Torque",
+   "liga": "Copa Uruguay",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 4.7,
+   "score": 3.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "🔒 Liga muy cerrada: 0.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Goiânia",
-   "away": "Rio Verde",
-   "liga": "Goiano - 2",
-   "minuto": 64,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 1.5,
+   "home": "Moca",
+   "away": "Salcedo",
+   "liga": "Liga Mayor",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 2.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga muy cerrada: 1.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Rio Verde buscará el empate",
-    "⏱ 26 minutos por jugar — margen justo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Trindade",
-   "away": "Morrinhos",
-   "liga": "Goiano - 2",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 1.5,
+   "home": "Petare FC",
+   "away": "Anzoátegui FC",
+   "liga": "Copa Venezuela",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 2.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga goleadora: 2.94 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Trindade buscará el empate",
-    "⏱ 27 minutos por jugar — margen justo"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
