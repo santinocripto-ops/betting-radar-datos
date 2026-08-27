@@ -1,13 +1,70 @@
 {
- "actualizado": "2026-08-27T19:20:20.275654+00:00",
+ "actualizado": "2026-08-27T19:27:39.719344+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Jandal",
-   "away": "Al Saqer",
-   "liga": "Division 1",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Aarhus",
+   "away": "Benfica",
+   "liga": "UEFA Europa League",
+   "minuto": 64,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "FC ST. Gallen",
+   "away": "FC Nordsjaelland",
+   "liga": "UEFA Europa Conference League",
+   "minuto": 61,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.5 (UEFA Europa Conference League)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Botafogo U20",
+   "away": "Volta Redonda U20",
+   "liga": "Carioca U20",
+   "minuto": 62,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Deportivo Riestra Res.",
+   "away": "Defensa y Justicia Res.",
+   "liga": "Reserve League",
+   "minuto": 65,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
    "score": 1.5,
    "recomendar": false,
    "momentum_home": 50,
@@ -15,13 +72,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.17 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Saqer buscará el empate"
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Independiente Riva. Res.",
+   "away": "Estudiantes Rio Cuarto 2",
+   "liga": "Reserve League",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Estudiantes Rio Cuarto 2 buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "21:27",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -87,12 +169,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:03",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "19:03",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -226,7 +302,7 @@
   "balance_dia": 390.0,
   "ganados": 2096,
   "perdidos": 900,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 14,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -795,7 +871,7 @@
  "stats_dia": {
   "ganados": 16,
   "perdidos": 4,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 80
  },
  "stats_banker": {
