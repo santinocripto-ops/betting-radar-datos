@@ -1,11 +1,30 @@
 {
- "actualizado": "2026-08-27T01:15:30.287944+00:00",
+ "actualizado": "2026-08-27T01:23:01.765820+00:00",
  "partidos_vivo": [
   {
-   "home": "Naples",
-   "away": "Union Omaha",
-   "liga": "USL League One",
-   "minuto": 50,
+   "home": "Cliper",
+   "away": "Operário AM",
+   "liga": "Amazonense - 2",
+   "minuto": 62,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "North Carolina Courage W",
+   "away": "Angel City W",
+   "liga": "NWSL Women",
+   "minuto": 48,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 3.5,
@@ -15,9 +34,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Union Omaha buscará el empate"
+    "⚽ 1 gol — Angel City W buscará el empate"
    ]
   }
  ],
