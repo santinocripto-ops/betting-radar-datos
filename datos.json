@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T02:04:52.041517+00:00",
+ "actualizado": "2026-08-28T02:05:22.260850+00:00",
  "partidos_vivo": [
   {
    "home": "Bolívar",
@@ -62,6 +62,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "04:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:04",
    "tipo": "smart_money"
@@ -100,12 +106,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:05",
    "tipo": "smart_money"
   },
   {
