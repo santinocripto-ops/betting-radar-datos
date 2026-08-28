@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T12:00:22.936649+00:00",
+ "actualizado": "2026-08-28T12:08:24.450576+00:00",
  "partidos_vivo": [
   {
    "home": "Ansan Greeners",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -120,15 +126,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44456.0,
-  "balance_total": 34456.0,
-  "balance_dia": 89.0,
-  "ganados": 2104,
+  "capital": 44578.0,
+  "balance_total": 34578.0,
+  "balance_dia": 211.0,
+  "ganados": 2106,
   "perdidos": 904,
-  "pendientes": 2,
-  "ganados_dia": 5,
+  "pendientes": 0,
+  "ganados_dia": 7,
   "perdidos_dia": 2,
-  "win_rate": 69.9,
+  "win_rate": 70.0,
   "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -637,10 +643,10 @@
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 6,
+  "ganados": 8,
   "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 75
+  "en_juego": 0,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 65,
