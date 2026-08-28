@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:20:36.113171+00:00",
+ "actualizado": "2026-08-28T18:26:43.593106+00:00",
  "partidos_vivo": [
   {
    "home": "VfL Bochum",
@@ -158,6 +158,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "20:26",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "20:20",
    "tipo": "smart_money"
   },
@@ -220,12 +226,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -901,6 +901,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Bayern München win on 2026-08-28?",
+   "apuesta": "SI, FC Bayern München ganara",
+   "usdc": 118612,
+   "prob": 79.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "20:26"
+  },
+  {
    "titulo": "Will Paris Saint-Germain FC win on 2026-08-28?",
    "apuesta": "SI, Paris Saint-Germain ganara",
    "usdc": 102679,
@@ -962,15 +971,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "17:26"
-  },
-  {
-   "titulo": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
-   "apuesta": "SI, Counter-Strike: Natus Vincere ganara",
-   "usdc": 60155,
-   "prob": 85.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "16:40"
   }
  ],
  "stats_gt": {
