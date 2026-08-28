@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-28T08:59:56.873028+00:00",
+ "actualizado": "2026-08-28T09:07:43.130316+00:00",
  "partidos_vivo": [
   {
-   "home": "CD Olimpia",
-   "away": "Deportivo Saprissa",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Ural U20",
+   "away": "Zenit U19",
+   "liga": "Youth Championship",
+   "minuto": 49,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -15,32 +15,25 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Deportivo Saprissa buscará el empate"
-   ]
-  },
-  {
-   "home": "Mixco",
-   "away": "Alianza FC",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 4.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Alianza FC buscará el empate"
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "11:07",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -99,18 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "07:38",
    "tipo": "smart_money"
   }
  ],
@@ -191,7 +172,7 @@
   "balance_dia": 28.0,
   "ganados": 2103,
   "perdidos": 904,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.9,
@@ -700,7 +681,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 71
  },
  "stats_banker": {
