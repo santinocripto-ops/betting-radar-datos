@@ -1,27 +1,71 @@
 {
- "actualizado": "2026-08-28T01:42:05.940140+00:00",
+ "actualizado": "2026-08-28T01:42:46.414280+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Cuenca Juniors",
-   "away": "9 de Octubre",
-   "liga": "Liga Pro Serie B",
-   "minuto": 51,
+   "home": "Bolívar",
+   "away": "ABB",
+   "liga": "Primera División",
+   "minuto": 55,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 0.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚽ 1 gol — ABB buscará el empate",
+    "⏱ 35 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Platense",
+   "away": "Instituto Cordoba",
+   "liga": "Copa Argentina",
+   "minuto": 59,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 4.3,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — 9 de Octubre buscará el empate"
+    "⚽ 2 goles — partido activo",
+    "⏱ 31 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Nacional AM",
+   "away": "CSA",
+   "liga": "Serie D",
+   "minuto": 65,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "03:42",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -44,12 +88,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:05",
    "tipo": "smart_money"
   },
   {
@@ -182,7 +220,7 @@
   "balance_dia": 0.0,
   "ganados": 2099,
   "perdidos": 902,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -662,7 +700,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 0
  },
  "stats_banker": {
