@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:28:25.061627+00:00",
+ "actualizado": "2026-08-28T16:36:10.815213+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:36",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:20",
    "tipo": "live"
@@ -294,12 +300,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "17:43",
    "tipo": "live"
   }
@@ -444,7 +444,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -718,6 +718,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Frýdek-Místek",
+   "away": "Sigma Olomouc II",
+   "liga": "3. liga - MSFL",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Terengganu",
    "away": "Selangor",
@@ -1012,7 +1019,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 13,
+  "en_juego": 14,
   "win_rate": 76
  },
  "stats_banker": {
