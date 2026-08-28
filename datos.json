@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T11:28:25.613641+00:00",
+ "actualizado": "2026-08-28T11:45:19.759767+00:00",
  "partidos_vivo": [
   {
    "home": "Almaz Antey U19",
@@ -238,46 +238,82 @@
     "tanda": 1
    },
    {
+    "home": "Aston Villa U21",
+    "away": "Crystal Palace U21",
+    "liga": "Premier League 2 Division One",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Burnley U21",
+    "away": "Reading U21",
+    "liga": "Premier League 2 Division One",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Everton U21",
+    "away": "Southampton U21",
+    "liga": "Premier League 2 Division One",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Norwich City U21",
+    "away": "Stoke City U21",
+    "liga": "Premier League 2 Division One",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Nottingham Forest U21",
+    "away": "Manchester City U21",
+    "liga": "Premier League 2 Division One",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Bayern München",
+    "away": "VfB Stuttgart",
+    "liga": "Bundesliga",
+    "hora": "20:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Alaves",
+    "away": "Villarreal",
+    "liga": "La Liga",
+    "hora": "21:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Groningen",
+    "away": "Fortuna Sittard",
+    "liga": "Eredivisie",
+    "hora": "20:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
     "home": "Warriors",
     "away": "Shatin",
     "liga": "Premier League",
     "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Kolos Kovalivka",
-    "away": "Obolon'-Brovar",
-    "liga": "Premier League",
-    "hora": "14:30",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Olympic El Qanah",
-    "away": "El Gouna FC",
-    "liga": "Premier League",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Enppi",
-    "away": "Wadi Degla",
-    "liga": "Premier League",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "FC Vitebsk",
-    "away": "Naftan",
-    "liga": "Premier League",
-    "hora": "17:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
@@ -348,63 +384,63 @@
     "tanda": 1
    },
    {
-    "home": "Bolívar",
-    "away": "ABB",
-    "liga": "Primera División",
-    "hora": "02:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Alebrijes de Oaxaca",
-    "away": "Tapatío",
-    "liga": "Liga de Expansión MX",
-    "hora": "03:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Warriors",
-    "away": "Shatin",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "home": "Nyva Ternopil II",
+    "away": "Skala 1911 Stryi",
+    "liga": "Druha Liga",
+    "hora": "15:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Kolos Kovalivka",
-    "away": "Obolon'-Brovar",
-    "liga": "Premier League",
-    "hora": "14:30",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Olympic El Qanah",
-    "away": "El Gouna FC",
-    "liga": "Premier League",
+    "home": "Dynamo Makhachkala U19",
+    "away": "Rostov U19",
+    "liga": "Youth Championship",
     "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Enppi",
-    "away": "Wadi Degla",
-    "liga": "Premier League",
+    "home": "Khan Tengri",
+    "away": "Astana II",
+    "liga": "1. Division",
     "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "FC Vitebsk",
-    "away": "Naftan",
-    "liga": "Premier League",
+    "home": "FCM Ungheni",
+    "away": "Iskra",
+    "liga": "Liga 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Vulturii Cutezători",
+    "away": "Zimbru II",
+    "liga": "Liga 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ferizaj",
+    "away": "Trepça'89",
+    "liga": "Liga E Pare",
+    "hora": "16:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Carlos Mannucci W",
+    "away": "Defensores W",
+    "liga": "Liga Women",
     "hora": "17:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
