@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T00:37:01.565470+00:00",
+ "actualizado": "2026-08-28T00:43:55.824916+00:00",
  "partidos_vivo": [
   {
    "home": "Internacional",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:43",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
