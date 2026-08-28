@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T11:19:57.812584+00:00",
+ "actualizado": "2026-08-28T11:28:25.613641+00:00",
  "partidos_vivo": [
   {
    "home": "Almaz Antey U19",
@@ -107,31 +107,567 @@
  ],
  "picks_recientes": [],
  "bankers": [],
- "mejores_dia": [],
- "gol_temprano": [],
- "banca": {},
- "pagina2": {},
+ "mejores_dia": [
+  {
+   "clave": "over15",
+   "etiqueta": "Over 1.5 Goles",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
+   "cuota": null,
+   "score": null,
+   "hora": "",
+   "resultado": null,
+   "wr_historico": 68,
+   "n_historico": 85
+  },
+  {
+   "clave": "over25",
+   "etiqueta": "Over 2.5 Goles",
+   "confianza": "baja",
+   "home": "Atlético Ottawa",
+   "away": "York United",
+   "liga": "Canadian Premier League",
+   "cuota": null,
+   "score": 3.5,
+   "hora": "23:00",
+   "resultado": "pendiente",
+   "wr_historico": 61,
+   "n_historico": 1020
+  },
+  {
+   "clave": "btts",
+   "etiqueta": "Ambos Marcan",
+   "confianza": "baja",
+   "home": "Atlético Ottawa",
+   "away": "York United",
+   "liga": "Canadian Premier League",
+   "cuota": null,
+   "score": 2.5,
+   "hora": "23:00",
+   "resultado": "pendiente",
+   "wr_historico": 58,
+   "n_historico": 985
+  }
+ ],
+ "gol_temprano": [
+  {
+   "home": "Cancún",
+   "away": "CA La Paz",
+   "liga": "Liga de Expansión MX",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Bolívar",
+   "away": "ABB",
+   "liga": "Primera División",
+   "minuto": 14,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  }
+ ],
+ "banca": {
+  "capital_inicial": 10000.0,
+  "capital": 44456.0,
+  "balance_total": 34456.0,
+  "balance_dia": 89.0,
+  "ganados": 2104,
+  "perdidos": 904,
+  "pendientes": 2,
+  "ganados_dia": 5,
+  "perdidos_dia": 2,
+  "win_rate": 69.9,
+  "roi": 11.5,
+  "stake": 100.0,
+  "cuota_fija": 1.61
+ },
+ "pagina2": {
+  "btts": [
+   {
+    "home": "Atlético Ottawa",
+    "away": "York United",
+    "liga": "Canadian Premier League",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Supra du Quebec",
+    "away": "Forge",
+    "liga": "Canadian Premier League",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Inter Miami II",
+    "away": "Atlanta United II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Toronto II",
+    "away": "New York City II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Nacional AM",
+    "away": "CSA",
+    "liga": "Serie D",
+    "hora": "02:00",
+    "resultado": "ganado",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Warriors",
+    "away": "Shatin",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Kolos Kovalivka",
+    "away": "Obolon'-Brovar",
+    "liga": "Premier League",
+    "hora": "14:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Olympic El Qanah",
+    "away": "El Gouna FC",
+    "liga": "Premier League",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Enppi",
+    "away": "Wadi Degla",
+    "liga": "Premier League",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "FC Vitebsk",
+    "away": "Naftan",
+    "liga": "Premier League",
+    "hora": "17:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   }
+  ],
+  "over25": [
+   {
+    "home": "Atlético Ottawa",
+    "away": "York United",
+    "liga": "Canadian Premier League",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Supra du Quebec",
+    "away": "Forge",
+    "liga": "Canadian Premier League",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Inter Miami II",
+    "away": "Atlanta United II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Toronto II",
+    "away": "New York City II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Nacional AM",
+    "away": "CSA",
+    "liga": "Serie D",
+    "hora": "02:00",
+    "resultado": "ganado",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Deportivo Cuenca Juniors",
+    "away": "9 de Octubre",
+    "liga": "Liga Pro Serie B",
+    "hora": "02:00",
+    "resultado": "perdido",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Platense",
+    "away": "Instituto Cordoba",
+    "liga": "Copa Argentina",
+    "hora": "02:15",
+    "resultado": "perdido",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Bolívar",
+    "away": "ABB",
+    "liga": "Primera División",
+    "hora": "02:30",
+    "resultado": "ganado",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Alebrijes de Oaxaca",
+    "away": "Tapatío",
+    "liga": "Liga de Expansión MX",
+    "hora": "03:00",
+    "resultado": "perdido",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Warriors",
+    "away": "Shatin",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Kolos Kovalivka",
+    "away": "Obolon'-Brovar",
+    "liga": "Premier League",
+    "hora": "14:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Olympic El Qanah",
+    "away": "El Gouna FC",
+    "liga": "Premier League",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Enppi",
+    "away": "Wadi Degla",
+    "liga": "Premier League",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "FC Vitebsk",
+    "away": "Naftan",
+    "liga": "Premier League",
+    "hora": "17:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
+  "balance": {
+   "ganados": 1193,
+   "perdidos": 812,
+   "acierto": 59.5,
+   "yield": 13.1,
+   "cuota_media": 1.9
+  }
+ },
  "reentradas": [],
- "pagina_smart": {},
- "mejor_dia": {},
+ "pagina_smart": {
+  "picks": [
+   {
+    "home": "Rodez",
+    "away": "PAU",
+    "liga": "Ligue 2",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 4.78,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T18:00:00+00:00",
+    "ts": "2026-08-28T01:06:25.062472+00:00"
+   },
+   {
+    "home": "Voitsberg",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 5.13,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T08:08:10.573293+00:00"
+   },
+   {
+    "home": "Voitsberg",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 6,
+    "pinnacle": false,
+    "delta": 4.57,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T08:08:10.689170+00:00"
+   },
+   {
+    "home": "VfL Bochum",
+    "away": "VfL Osnabrück",
+    "liga": "2. Bundesliga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "pinnacle": true,
+    "delta": 3.06,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T11:10:00.999601+00:00"
+   },
+   {
+    "home": "Alebrijes de Oaxaca",
+    "away": "Tapatío",
+    "liga": "Liga de Expansión MX",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 11,
+    "pinnacle": true,
+    "delta": 6.38,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-08-28T01:00:00+00:00",
+    "ts": "2026-08-27T13:06:57.340183+00:00"
+   },
+   {
+    "home": "Barcelona",
+    "away": "Athletic Club",
+    "liga": "La Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "pinnacle": true,
+    "delta": 2.96,
+    "marcador": "2-0",
+    "resultado": "ganado",
+    "kickoff": "2026-08-27T19:00:00+00:00",
+    "ts": "2026-08-27T07:02:47.264637+00:00"
+   },
+   {
+    "home": "Ferencvarosi TC",
+    "away": "Trabzonspor",
+    "liga": "UEFA Europa League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 4.19,
+    "marcador": "4-0",
+    "resultado": "perdido",
+    "kickoff": "2026-08-27T18:30:00+00:00",
+    "ts": "2026-08-27T07:02:44.598214+00:00"
+   },
+   {
+    "home": "Ferencvarosi TC",
+    "away": "Trabzonspor",
+    "liga": "UEFA Europa League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "pinnacle": true,
+    "delta": 3.39,
+    "marcador": "4-0",
+    "resultado": "ganado",
+    "kickoff": "2026-08-27T18:30:00+00:00",
+    "ts": "2026-08-27T13:06:54.156083+00:00"
+   },
+   {
+    "home": "Omonia Nicosia",
+    "away": "St. Truiden",
+    "liga": "UEFA Europa League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "pinnacle": true,
+    "delta": 3.19,
+    "marcador": "4-2",
+    "resultado": "ganado",
+    "kickoff": "2026-08-27T17:00:00+00:00",
+    "ts": "2026-08-27T07:02:41.998145+00:00"
+   },
+   {
+    "home": "Red Bull Salzburg",
+    "away": "Mjallby AIF",
+    "liga": "UEFA Europa League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "pinnacle": false,
+    "delta": 3.45,
+    "marcador": "3-0",
+    "resultado": "ganado",
+    "kickoff": "2026-08-27T17:00:00+00:00",
+    "ts": "2026-08-27T10:03:11.637886+00:00"
+   },
+   {
+    "home": "FC Iberia 1999",
+    "away": "Jagiellonia",
+    "liga": "UEFA Europa League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "pinnacle": true,
+    "delta": 3.58,
+    "marcador": "1-2",
+    "resultado": "ganado",
+    "kickoff": "2026-08-27T16:00:00+00:00",
+    "ts": "2026-08-27T07:02:40.936817+00:00"
+   },
+   {
+    "home": "Ararat-Armenia",
+    "away": "Universitatea Craiova",
+    "liga": "UEFA Europa League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 12,
+    "pinnacle": true,
+    "delta": 5.25,
+    "marcador": "1-0",
+    "resultado": "perdido",
+    "kickoff": "2026-08-27T16:00:00+00:00",
+    "ts": "2026-08-27T15:04:37.862812+00:00"
+   },
+   {
+    "home": "Real Madrid",
+    "away": "Real Sociedad",
+    "liga": "La Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "pinnacle": false,
+    "delta": 3.78,
+    "marcador": "4-1",
+    "resultado": "ganado",
+    "kickoff": "2026-08-26T19:00:00+00:00",
+    "ts": "2026-08-26T11:05:33.511105+00:00"
+   },
+   {
+    "home": "Juventude",
+    "away": "CRB",
+    "liga": "Serie B",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "pinnacle": true,
+    "delta": 3.45,
+    "marcador": "2-1",
+    "resultado": "perdido",
+    "kickoff": "2026-08-25T22:30:00+00:00",
+    "ts": "2026-08-25T15:03:34.625982+00:00"
+   },
+   {
+    "home": "Juventude",
+    "away": "CRB",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 5.16,
+    "marcador": "2-1",
+    "resultado": "ganado",
+    "kickoff": "2026-08-25T22:30:00+00:00",
+    "ts": "2026-08-25T21:06:36.609711+00:00"
+   }
+  ],
+  "balance": {
+   "ganados": 156,
+   "perdidos": 70,
+   "pendientes": 4,
+   "acierto": 69.0,
+   "total": 226
+  }
+ },
+ "mejor_dia": {
+  "disponible": true,
+  "hora": "01:00",
+  "cuota": null,
+  "score": 3.5,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
+ },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 0,
-  "ganados": 0,
-  "win_rate": 0,
-  "hoy": 0
+  "n": 2127,
+  "ganados": 1477,
+  "win_rate": 69,
+  "hoy": 2
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 0,
-  "win_rate": 0
+  "ganados": 6,
+  "perdidos": 2,
+  "en_juego": 2,
+  "win_rate": 75
  },
  "stats_banker": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 65,
+  "perdidos": 24,
   "pendientes": 0,
-  "win_rate": 0
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
