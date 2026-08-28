@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:42:28.881068+00:00",
+ "actualizado": "2026-08-28T18:49:08.925683+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ittihad",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:49",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:42",
    "tipo": "live"
@@ -277,18 +289,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
    "tipo": "live"
   },
   {
@@ -362,6 +362,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Norwich City U21",
+   "away": "Stoke City U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Bayern München",
+   "away": "VfB Stuttgart",
+   "liga": "Bundesliga",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Cremonese",
    "away": "Modena",
    "liga": "Serie B",
@@ -404,28 +426,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-28",
    "es_hoy": true
-  },
-  {
-   "home": "Young Africans",
-   "away": "Pamba Jiji",
-   "liga": "Ligi kuu Bara",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Debreceni VSC",
-   "away": "MTK Budapest",
-   "liga": "NB I",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -435,7 +435,7 @@
   "balance_dia": 623.0,
   "ganados": 2122,
   "perdidos": 909,
-  "pendientes": 31,
+  "pendientes": 32,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 70.0,
@@ -1060,12 +1060,12 @@
   "n": 2137,
   "ganados": 1483,
   "win_rate": 69,
-  "hoy": 38
+  "hoy": 40
  },
  "stats_dia": {
   "ganados": 24,
   "perdidos": 8,
-  "en_juego": 32,
+  "en_juego": 33,
   "win_rate": 75
  },
  "stats_banker": {
