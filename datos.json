@@ -1,15 +1,224 @@
 {
- "actualizado": "2026-08-28T16:09:17.765971+00:00",
+ "actualizado": "2026-08-28T16:20:28.272361+00:00",
  "partidos_vivo": [
   {
-   "home": "Honka",
-   "away": "P-Iirot",
-   "liga": "Kakkonen - Lohko B",
+   "home": "Akron",
+   "away": "CSKA Moscow",
+   "liga": "Premier League",
+   "minuto": 57,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 17,
+   "momentum_away": 83,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "FC Vitebsk",
+   "away": "Naftan",
+   "liga": "Premier League",
    "minuto": 62,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.16 goles/partido",
+    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Tatran Bohunice",
+   "away": "Velké Meziříčí",
+   "liga": "4. liga - Divizie D",
+   "minuto": 59,
+   "marcador": "3-3",
+   "apuesta": "Over 6.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 6 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Gonio",
+   "away": "FC Iberia 1999 II",
+   "liga": "Liga 3",
+   "minuto": 58,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 8.0,
+   "score": 7.2,
    "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Dainava",
+   "away": "Žalgiris II",
+   "liga": "1 Lyga",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Kluczevia Stargard",
+   "away": "Unia Swarzędz",
+   "liga": "III Liga - Group 2",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Luzino",
+   "away": "Lipno Stęszew",
+   "liga": "III Liga - Group 2",
+   "minuto": 54,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Wda Świecie",
+   "away": "Noteć Czarnków",
+   "liga": "III Liga - Group 2",
+   "minuto": 60,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Shooting Stars",
+   "away": "Inter Lagos",
+   "liga": "NPFL",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Struga",
+   "away": "Bregalnica Štip",
+   "liga": "First League",
+   "minuto": 57,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 6.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.05 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Dibba Al-Fujairah",
+   "away": "Gulf United",
+   "liga": "Division 1",
+   "minuto": 49,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 5.8,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "EPS",
+   "away": "HJS Akatemia",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 62,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 5.3,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
@@ -17,68 +226,29 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Honka buscará el empate"
-   ]
-  },
-  {
-   "home": "Drenica Skënderaj",
-   "away": "Ballkani",
-   "liga": "Superliga",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Interclube",
-   "away": "FC Luanda",
-   "liga": "Girabola",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 3.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Pharco",
-   "away": "El Mansura",
-   "liga": "Second League",
-   "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 1.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "18:20",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -132,24 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:42",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:34",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:26",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:26",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -292,7 +444,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -572,17 +724,24 @@
    "liga": "Super League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Sichuan Jiuniu",
-   "away": "SHANGHAI SIPG",
-   "liga": "Super League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Necaxa",
+    "away": "Cruz Azul",
+    "liga": "Liga MX",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 8,
+    "pinnacle": true,
+    "delta": 3.56,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T01:00:00+00:00",
+    "ts": "2026-08-28T16:09:13.667723+00:00"
+   },
    {
     "home": "Rodez",
     "away": "PAU",
@@ -682,6 +841,34 @@
     "ts": "2026-08-28T15:08:11.653138+00:00"
    },
    {
+    "home": "First Vienna",
+    "away": "SKU Amstetten",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "pinnacle": true,
+    "delta": 4.4,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T16:09:17.389266+00:00"
+   },
+   {
+    "home": "Voitsberg",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "pinnacle": true,
+    "delta": 4.51,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T16:09:17.890093+00:00"
+   },
+   {
     "home": "Al Riyadh",
     "away": "NEOM",
     "liga": "Pro League",
@@ -750,54 +937,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-27T18:30:00+00:00",
     "ts": "2026-08-27T13:06:54.156083+00:00"
-   },
-   {
-    "home": "Omonia Nicosia",
-    "away": "St. Truiden",
-    "liga": "UEFA Europa League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "pinnacle": true,
-    "delta": 3.19,
-    "marcador": "4-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-27T17:00:00+00:00",
-    "ts": "2026-08-27T07:02:41.998145+00:00"
-   },
-   {
-    "home": "Red Bull Salzburg",
-    "away": "Mjallby AIF",
-    "liga": "UEFA Europa League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "pinnacle": false,
-    "delta": 3.45,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-27T17:00:00+00:00",
-    "ts": "2026-08-27T10:03:11.637886+00:00"
-   },
-   {
-    "home": "FC Iberia 1999",
-    "away": "Jagiellonia",
-    "liga": "UEFA Europa League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 4,
-    "pinnacle": true,
-    "delta": 3.58,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-27T16:00:00+00:00",
-    "ts": "2026-08-27T07:02:40.936817+00:00"
    }
   ],
   "balance": {
    "ganados": 156,
    "perdidos": 70,
-   "pendientes": 8,
+   "pendientes": 11,
    "acierto": 69.0,
    "total": 226
   }
@@ -867,7 +1012,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 76
  },
  "stats_banker": {
