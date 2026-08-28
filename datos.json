@@ -1,198 +1,45 @@
 {
- "actualizado": "2026-08-28T21:06:44.241769+00:00",
+ "actualizado": "2026-08-28T22:01:35.203282+00:00",
  "partidos_vivo": [
   {
-   "home": "Alaves",
-   "away": "Villarreal",
-   "liga": "La Liga",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ 1 gol — Villarreal buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Rio Ave",
-   "away": "Sporting CP",
-   "liga": "Primeira Liga",
-   "minuto": 57,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Fylkir",
-   "away": "Grotta",
-   "liga": "1. Deild",
-   "minuto": 59,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.68 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Grotta buscará el empate"
-   ]
-  },
-  {
-   "home": "Throttur Reykjavik",
-   "away": "Ægir",
-   "liga": "1. Deild",
-   "minuto": 62,
-   "marcador": "4-2",
-   "apuesta": "Over 6.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.68 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Kári",
-   "away": "Thróttur Vogar",
-   "liga": "2. Deild",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.68 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Thróttur Vogar buscará el empate"
-   ]
-  },
-  {
-   "home": "Cacereño",
-   "away": "Mirandes",
-   "liga": "Primera División RFEF - Group 1",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Mirandes buscará el empate",
-    "⏱ 34 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Juvenes / Dogana",
-   "away": "Faetano",
-   "liga": "Campionato",
+   "home": "Mushuc Runa SC",
+   "away": "Delfin SC",
+   "liga": "Liga Pro",
    "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Faetano buscará el empate",
+    "⚽ 1 gol — Delfin SC buscará el empate",
+    "🎯 10 remates totales",
     "⏱ 27 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "San Marino Academy",
-   "away": "Fiorentino",
-   "liga": "Campionato",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.6,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — San Marino Academy buscará el empate",
-    "⏱ 30 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Cailungo",
-   "away": "Domagnano",
-   "liga": "Campionato",
-   "minuto": 58,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 3.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "📊 Cailungo: Over2.5 histórico 80%"
-   ]
-  },
-  {
-   "home": "Folgore",
-   "away": "Murata",
-   "liga": "Campionato",
-   "minuto": 61,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Murata pierde por 3 — atacará sin freno"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "00:01",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "00:01",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:01",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -246,24 +93,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "22:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:33",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:32",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -272,6 +101,20 @@
   {
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
+   "confianza": "alta",
+   "home": "Viking",
+   "away": "Aalesund",
+   "liga": "Eliteserien",
+   "cuota": 1.08,
+   "score": 9.43,
+   "hora": "16:00",
+   "resultado": "pendiente",
+   "wr_historico": 68,
+   "n_historico": 85
+  },
+  {
+   "clave": "over25",
+   "etiqueta": "Over 2.5 Goles",
    "confianza": null,
    "home": null,
    "away": null,
@@ -280,20 +123,6 @@
    "score": null,
    "hora": "",
    "resultado": null,
-   "wr_historico": 68,
-   "n_historico": 85
-  },
-  {
-   "clave": "over25",
-   "etiqueta": "Over 2.5 Goles",
-   "confianza": "alta",
-   "home": "Nyva Ternopil II",
-   "away": "Skala 1911 Stryi",
-   "liga": "Druha Liga",
-   "cuota": null,
-   "score": 10,
-   "hora": "13:00",
-   "resultado": "perdido",
    "wr_historico": 61,
    "n_historico": 1030
   },
@@ -301,13 +130,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Aston Villa U21",
-   "away": "Crystal Palace U21",
-   "liga": "Premier League 2 Division One",
-   "cuota": 1.44,
+   "home": "Toluca W",
+   "away": "León W",
+   "liga": "Liga MX Femenil",
+   "cuota": 1.51,
    "score": 10,
-   "hora": "18:00",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 996
   }
@@ -322,7 +151,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Cardiff MET",
@@ -333,7 +162,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Guiseley AFC",
@@ -344,7 +173,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Burgess Hill Town",
@@ -355,7 +184,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Gateshead",
@@ -366,7 +195,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Edinburgh City",
@@ -377,19 +206,19 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-28",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 45595.0,
   "balance_total": 35595.0,
-  "balance_dia": 1228.0,
+  "balance_dia": 0.0,
   "ganados": 2151,
   "perdidos": 920,
-  "pendientes": 2,
-  "ganados_dia": 52,
-  "perdidos_dia": 18,
+  "pendientes": 3,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 70.0,
   "roi": 11.6,
   "stake": 100.0,
@@ -398,260 +227,133 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Atlético Ottawa",
-    "away": "York United",
-    "liga": "Canadian Premier League",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Supra du Quebec",
-    "away": "Forge",
-    "liga": "Canadian Premier League",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Inter Miami II",
-    "away": "Atlanta United II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Toronto II",
-    "away": "New York City II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Nacional AM",
-    "away": "CSA",
-    "liga": "Serie D",
+    "home": "Toluca W",
+    "away": "León W",
+    "liga": "Liga MX Femenil",
     "hora": "02:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Aston Villa U21",
-    "away": "Crystal Palace U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "20:00",
-    "resultado": "perdido",
+    "home": "Kahibah",
+    "away": "New Lambton",
+    "liga": "Northern NSW NPL",
+    "hora": "06:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Burnley U21",
-    "away": "Reading U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "20:00",
-    "resultado": "ganado",
+    "home": "South Hobart",
+    "away": "Kingborough Lions",
+    "liga": "Tasmania NPL",
+    "hora": "06:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Everton U21",
-    "away": "Southampton U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "20:00",
-    "resultado": "ganado",
+    "home": "Avondale",
+    "away": "Hume City",
+    "liga": "Victoria NPL",
+    "hora": "07:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Norwich City U21",
-    "away": "Stoke City U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "20:00",
-    "resultado": "perdido",
+    "home": "St. Albans Saints",
+    "away": "Dandenong Thunder",
+    "liga": "Victoria NPL",
+    "hora": "07:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Nottingham Forest U21",
-    "away": "Manchester City U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "20:00",
-    "resultado": "ganado",
+    "home": "Eastern Lions",
+    "away": "Kingston City",
+    "liga": "Victoria Premier League 2",
+    "hora": "07:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Bayern München",
-    "away": "VfB Stuttgart",
-    "liga": "Bundesliga",
-    "hora": "20:30",
-    "resultado": "ganado",
+    "home": "Moreland City",
+    "away": "Essendon Royals SC",
+    "liga": "Victoria Premier League 2",
+    "hora": "07:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Alaves",
-    "away": "Villarreal",
-    "liga": "La Liga",
-    "hora": "21:30",
+    "home": "Bryne",
+    "away": "Haugesund",
+    "liga": "1. Division",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Groningen",
-    "away": "Fortuna Sittard",
-    "liga": "Eredivisie",
-    "hora": "20:00",
-    "resultado": "ganado",
+    "home": "Asker",
+    "away": "Frigg",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Warriors",
-    "away": "Shatin",
-    "liga": "Premier League",
+    "home": "Askøy",
+    "away": "Gneist",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Hinna",
+    "away": "Våg",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Mandalskameratene",
+    "away": "Varhaug",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Drøbak / Frogn",
+    "away": "Fram",
+    "liga": "3. Division - Girone 6",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Karlshamn",
+    "away": "Nosaby",
+    "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
-  "over25": [
-   {
-    "home": "Atlético Ottawa",
-    "away": "York United",
-    "liga": "Canadian Premier League",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Supra du Quebec",
-    "away": "Forge",
-    "liga": "Canadian Premier League",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Inter Miami II",
-    "away": "Atlanta United II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Toronto II",
-    "away": "New York City II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Nacional AM",
-    "away": "CSA",
-    "liga": "Serie D",
-    "hora": "02:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Deportivo Cuenca Juniors",
-    "away": "9 de Octubre",
-    "liga": "Liga Pro Serie B",
-    "hora": "02:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Platense",
-    "away": "Instituto Cordoba",
-    "liga": "Copa Argentina",
-    "hora": "02:15",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Nyva Ternopil II",
-    "away": "Skala 1911 Stryi",
-    "liga": "Druha Liga",
-    "hora": "15:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Dynamo Makhachkala U19",
-    "away": "Rostov U19",
-    "liga": "Youth Championship",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Khan Tengri",
-    "away": "Astana II",
-    "liga": "1. Division",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "FCM Ungheni",
-    "away": "Iskra",
-    "liga": "Liga 1",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Vulturii Cutezători",
-    "away": "Zimbru II",
-    "liga": "Liga 1",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Ferizaj",
-    "away": "Trepça'89",
-    "liga": "Liga E Pare",
-    "hora": "16:30",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Carlos Mannucci W",
-    "away": "Defensores W",
-    "liga": "Liga Women",
-    "hora": "17:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   }
-  ],
+  "over25": [],
   "balance": {
    "ganados": 1205,
    "perdidos": 821,
@@ -660,17 +362,23 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Vikingur Gota",
-   "away": "HB Torshavn",
-   "liga": "Meistaradeildin",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "UCSA",
+    "away": "Inhulets",
+    "liga": "Persha Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "pinnacle": false,
+    "delta": 3.92,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T09:00:00+00:00",
+    "ts": "2026-08-28T21:06:44.505599+00:00"
+   },
    {
     "home": "Necaxa",
     "away": "Cruz Azul",
@@ -736,8 +444,8 @@
     "casas": 7,
     "pinnacle": true,
     "delta": 4.78,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-08-28T18:00:00+00:00",
     "ts": "2026-08-28T01:06:25.062472+00:00"
    },
@@ -750,8 +458,8 @@
     "casas": 5,
     "pinnacle": false,
     "delta": 3.88,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-28T18:00:00+00:00",
     "ts": "2026-08-28T12:10:01.305169+00:00"
    },
@@ -764,8 +472,8 @@
     "casas": 3,
     "pinnacle": false,
     "delta": 3.32,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-08-28T18:00:00+00:00",
     "ts": "2026-08-28T15:08:16.887706+00:00"
    },
@@ -866,40 +574,29 @@
     "resultado": "perdido",
     "kickoff": "2026-08-28T15:50:00+00:00",
     "ts": "2026-08-28T15:08:07.316689+00:00"
-   },
-   {
-    "home": "Alebrijes de Oaxaca",
-    "away": "Tapatío",
-    "liga": "Liga de Expansión MX",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 11,
-    "pinnacle": true,
-    "delta": 6.38,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T01:00:00+00:00",
-    "ts": "2026-08-27T13:06:57.340183+00:00"
    }
   ],
   "balance": {
-   "ganados": 160,
+   "ganados": 163,
    "perdidos": 73,
-   "pendientes": 7,
-   "acierto": 68.7,
-   "total": 233
+   "pendientes": 5,
+   "acierto": 69.1,
+   "total": 236
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "01:00",
-  "cuota": null,
-  "score": 3.5,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Coventry City FC win on 2026-08-29?",
+   "apuesta": "SI, Coventry City ganara",
+   "usdc": 143421,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "00:00"
+  },
   {
    "titulo": "Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi",
    "apuesta": "SI, ganara",
@@ -962,28 +659,19 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "18:52"
-  },
-  {
-   "titulo": "Will Real Racing Club win on 2026-08-28?",
-   "apuesta": "SI, Real Racing Club ganara",
-   "usdc": 1032798,
-   "prob": 47.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "18:52"
   }
  ],
  "stats_gt": {
   "n": 2171,
   "ganados": 1507,
   "win_rate": 69,
-  "hoy": 47
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 54,
-  "perdidos": 19,
-  "en_juego": 2,
-  "win_rate": 74
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 66,
