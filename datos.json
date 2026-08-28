@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T04:31:21.557518+00:00",
+ "actualizado": "2026-08-28T04:38:56.699324+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -428,15 +428,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Bolívar",
-   "away": "ABB",
-   "liga": "Primera División",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
