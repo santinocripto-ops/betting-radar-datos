@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T17:46:56.857737+00:00",
+ "actualizado": "2026-08-28T17:47:18.233368+00:00",
  "partidos_vivo": [
   {
    "home": "Wisla Plock",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "19:46",
    "tipo": "live"
@@ -289,18 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
    "tipo": "live"
   }
  ],
@@ -371,6 +371,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Westfalia Rhynern",
+   "away": "FC Gutersloh",
+   "liga": "Regionalliga - West",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "SV Rodinghausen",
+   "away": "Sportfreunde Siegen",
+   "liga": "Regionalliga - West",
+   "minuto": 11,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Vikingur Gota",
+   "away": "HB Torshavn",
+   "liga": "Meistaradeildin",
+   "minuto": 16,
+   "score": 8.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Austria Lustenau",
    "away": "WSG Wattens",
    "liga": "Bundesliga",
@@ -398,39 +431,6 @@
    "liga": "2. Division",
    "minuto": 16,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Racing Santander",
-   "away": "Elche",
-   "liga": "La Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "AC Horsens",
-   "away": "Viborg",
-   "liga": "Superliga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Gomel",
-   "away": "Belshina",
-   "liga": "Premier League",
-   "minuto": 15,
-   "score": 8.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -1048,7 +1048,7 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 24
+  "hoy": 27
  },
  "stats_dia": {
   "ganados": 13,
