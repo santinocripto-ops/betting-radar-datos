@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:36:10.815213+00:00",
+ "actualizado": "2026-08-28T16:44:21.955728+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -233,6 +233,30 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:43",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:36",
    "tipo": "live"
@@ -278,30 +302,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "18:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "17:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -371,6 +371,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Qatar SC",
+   "away": "Al Sadd",
+   "liga": "Stars League",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Koln W",
+   "away": "1899 Hoffenheim W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 13,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Muharraq",
    "away": "Al Ahli",
    "liga": "Premier League",
@@ -413,28 +435,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-28",
    "es_hoy": true
-  },
-  {
-   "home": "JBK",
-   "away": "Kraft",
-   "liga": "Kakkonen - Lohko C",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Geita Gold",
-   "away": "Azam",
-   "liga": "Ligi kuu Bara",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -444,7 +444,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 12,
+  "pendientes": 13,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -719,6 +719,13 @@
  },
  "reentradas": [
   {
+   "home": "Atlantis",
+   "away": "HIFK Helsinki",
+   "liga": "Kakkonen - Lohko A",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Frýdek-Místek",
    "away": "Sigma Olomouc II",
    "liga": "3. liga - MSFL",
@@ -965,6 +972,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
+   "apuesta": "SI, US Open, Qualification ATP: Vilius Gaubas ganara",
+   "usdc": 117860,
+   "prob": 17.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:43"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 142403,
@@ -1014,12 +1030,12 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 13
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 14,
+  "en_juego": 15,
   "win_rate": 76
  },
  "stats_banker": {
