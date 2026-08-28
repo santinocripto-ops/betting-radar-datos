@@ -1,89 +1,51 @@
 {
- "actualizado": "2026-08-28T18:26:43.593106+00:00",
+ "actualizado": "2026-08-28T18:29:13.084920+00:00",
  "partidos_vivo": [
   {
-   "home": "VfL Bochum",
-   "away": "VfL Osnabrück",
-   "liga": "2. Bundesliga",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga goleadora: 3.06 goles/partido",
-    "⚽ 1 gol — VfL Bochum buscará el empate"
-   ]
-  },
-  {
-   "home": "Eintracht Braunschweig",
-   "away": "Hertha BSC",
-   "liga": "2. Bundesliga",
-   "minuto": 64,
-   "marcador": "2-3",
-   "apuesta": "Over 5.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 37,
-   "momentum_away": 63,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga goleadora: 3.06 goles/partido",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "FK Neftekhimik",
-   "away": "FC UFA",
-   "liga": "First League",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Datos en vivo parciales — fiabilidad media",
-    "⚽ 1 gol — FK Neftekhimik buscará el empate"
-   ]
-  },
-  {
-   "home": "Qatar SC",
-   "away": "Al Sadd",
-   "liga": "Stars League",
-   "minuto": 63,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Al-Wasl FC",
-   "away": "Shabab Al Ahli Dubai",
-   "liga": "Pro League",
+   "home": "Al Ittihad",
+   "away": "Ceramica Cleopatra",
+   "liga": "Premier League",
    "minuto": 59,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 22,
+   "momentum_away": 78,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.19 goles/partido",
+    "⚽ 1 gol — Al Ittihad buscará el empate",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Masr",
+   "away": "Al Ahly",
+   "liga": "Premier League",
+   "minuto": 58,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.19 goles/partido",
+    "⚽ 1 gol — Masr buscará el empate",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "Luzern W",
+   "away": "St. Gallen W",
+   "liga": "AXA Women’s Super League",
+   "minuto": 64,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -91,54 +53,54 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
+    "⚽ Liga muy goleadora: 3.9 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al-Wasl FC buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "First Vienna",
-   "away": "SKU Amstetten",
-   "liga": "2. Liga",
+   "home": "Kickers Offenbach",
+   "away": "Kaiserslautern II",
+   "liga": "Regionalliga - SudWest",
+   "minuto": 62,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.46 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "UFC Hallein",
+   "away": "SK Vorwarts Steyr",
+   "liga": "Regionalliga - North",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.81 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Kluczbork",
+   "away": "Stal Brzeg",
+   "liga": "III Liga - Group 3",
    "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — SKU Amstetten buscará el empate"
-   ]
-  },
-  {
-   "home": "SV Kapfenberg",
-   "away": "FC BW Linz",
-   "liga": "2. Liga",
-   "minuto": 64,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Hibernians",
-   "away": "Zabbar St. Patrick",
-   "liga": "Premier League",
-   "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 6.5,
@@ -148,13 +110,133 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 3.04 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Altglienicke",
+   "away": "BSG Chemie Leipzig",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 6.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Barockstadt Fulda-Lehn.",
+   "away": "FSV Frankfurt",
+   "liga": "Regionalliga - SudWest",
+   "minuto": 59,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 5.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.46 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Seekirchen",
+   "away": "Wallern / Marienkirchen",
+   "liga": "Regionalliga - North",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 5.4,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.81 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Tillmitsch",
+   "away": "Deutschlandsberger SC",
+   "liga": "Regionalliga - South",
+   "minuto": 65,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 5.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Olympiakos",
+   "away": "Nea Salamis",
+   "liga": "1. Division",
+   "minuto": 65,
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
+   "score": 4.8,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Zabbar St. Patrick buscará el empate",
-    "⏱ 27 minutos por jugar — margen justo"
+    "🔥 5 goles — partido muy abierto",
+    "⏱ 25 minutos por jugar — margen justo"
+   ]
+  },
+  {
+   "home": "Chemnitzer FC",
+   "away": "FC Carl Zeiss Jena",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "20:29",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -183,12 +265,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
    "tipo": "live"
   },
   {
