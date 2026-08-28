@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:18:19.386100+00:00",
+ "actualizado": "2026-08-28T15:27:16.757225+00:00",
  "partidos_vivo": [
   {
    "home": "FC Energetik-Bgu Minsk",
@@ -175,6 +175,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:26",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:26",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "17:18",
@@ -214,18 +226,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
    "tipo": "smart_money"
   },
   {
@@ -376,7 +376,7 @@
   "balance_dia": 223.0,
   "ganados": 2110,
   "perdidos": 906,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 11,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -897,6 +897,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 87279,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "17:26"
+  },
+  {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 90752,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "17:26"
+  },
+  {
    "titulo": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: Natus Vincere ganara",
    "usdc": 60155,
@@ -924,7 +942,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 75
  },
  "stats_banker": {
