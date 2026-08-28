@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T01:34:55.415062+00:00",
+ "actualizado": "2026-08-28T01:42:05.940140+00:00",
  "partidos_vivo": [
   {
    "home": "Deportivo Cuenca Juniors",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:42",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -87,12 +93,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "03:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
