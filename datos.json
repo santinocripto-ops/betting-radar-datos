@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T12:17:48.652705+00:00",
+ "actualizado": "2026-08-28T12:25:06.853024+00:00",
  "partidos_vivo": [
   {
    "home": "Ansan Greeners",
@@ -202,7 +202,7 @@
   "balance_dia": 211.0,
   "ganados": 2106,
   "perdidos": 904,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 7,
   "perdidos_dia": 2,
   "win_rate": 70.0,
@@ -716,7 +716,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 80
  },
  "stats_banker": {
