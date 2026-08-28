@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T12:10:01.069759+00:00",
+ "actualizado": "2026-08-28T12:17:48.652705+00:00",
  "partidos_vivo": [
   {
    "home": "Ansan Greeners",
@@ -42,6 +42,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "14:17",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "14:10",
@@ -81,12 +87,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:08",
    "tipo": "smart_money"
   },
   {
@@ -161,6 +161,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Sichuan Jiuniu",
+   "away": "SHANGHAI SIPG",
+   "liga": "Super League",
+   "minuto": 18,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
   {
    "home": "Cancún",
    "away": "CA La Paz",
@@ -482,6 +493,20 @@
     "ts": "2026-08-28T01:06:25.062472+00:00"
    },
    {
+    "home": "Al-Nassr",
+    "away": "Al Taawon",
+    "liga": "Pro League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 5,
+    "pinnacle": false,
+    "delta": 3.88,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T18:00:00+00:00",
+    "ts": "2026-08-28T12:10:01.305169+00:00"
+   },
+   {
     "home": "Voitsberg",
     "away": "FC Liefering",
     "liga": "2. Liga",
@@ -662,26 +687,12 @@
     "resultado": "perdido",
     "kickoff": "2026-08-25T22:30:00+00:00",
     "ts": "2026-08-25T15:03:34.625982+00:00"
-   },
-   {
-    "home": "Juventude",
-    "away": "CRB",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 7,
-    "pinnacle": true,
-    "delta": 5.16,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-25T22:30:00+00:00",
-    "ts": "2026-08-25T21:06:36.609711+00:00"
    }
   ],
   "balance": {
    "ganados": 156,
    "perdidos": 70,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 69.0,
    "total": 226
   }
@@ -700,7 +711,7 @@
   "n": 2127,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 8,
