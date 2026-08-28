@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:27:16.757225+00:00",
+ "actualizado": "2026-08-28T15:35:06.291959+00:00",
  "partidos_vivo": [
   {
    "home": "FC Energetik-Bgu Minsk",
@@ -177,6 +177,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "17:34",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "17:26",
    "tipo": "smart_money"
   },
@@ -226,12 +232,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
    "tipo": "smart_money"
   },
   {
@@ -896,6 +896,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 142403,
+   "prob": 51.5,
+   "n_traders": 2,
+   "trader": "ImJustKen",
+   "hora": "17:34"
+  },
   {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
