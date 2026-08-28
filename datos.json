@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:20:42.621763+00:00",
+ "actualizado": "2026-08-28T16:28:25.061627+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -444,7 +444,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 8,
+  "pendientes": 11,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -1012,7 +1012,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 10,
+  "en_juego": 13,
   "win_rate": 76
  },
  "stats_banker": {
