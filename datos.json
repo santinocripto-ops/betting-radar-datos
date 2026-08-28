@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:29:22.510232+00:00",
+ "actualizado": "2026-08-28T18:35:45.244980+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ittihad",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:35",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "20:29",
@@ -265,12 +271,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
    "tipo": "live"
   },
   {
@@ -435,7 +435,7 @@
   "balance_dia": 623.0,
   "ganados": 2122,
   "perdidos": 909,
-  "pendientes": 30,
+  "pendientes": 31,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 70.0,
@@ -709,6 +709,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Vikingur Gota",
+   "away": "HB Torshavn",
+   "liga": "Meistaradeildin",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "FC Gomel",
    "away": "Belshina",
@@ -1058,7 +1065,7 @@
  "stats_dia": {
   "ganados": 24,
   "perdidos": 8,
-  "en_juego": 31,
+  "en_juego": 32,
   "win_rate": 75
  },
  "stats_banker": {
