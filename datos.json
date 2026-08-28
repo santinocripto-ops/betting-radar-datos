@@ -1,137 +1,61 @@
 {
- "actualizado": "2026-08-28T14:41:11.675439+00:00",
+ "actualizado": "2026-08-28T14:49:18.943892+00:00",
  "partidos_vivo": [
   {
-   "home": "Terengganu",
-   "away": "Selangor",
-   "liga": "Super League",
-   "minuto": 47,
+   "home": "AL Nasr SC",
+   "away": "Haras El Hodood",
+   "liga": "Second League",
+   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.43 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Nyva Ternopil II",
-   "away": "Skala 1911 Stryi",
-   "liga": "Druha Liga",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Nyva Ternopil II buscará el empate"
-   ]
-  },
-  {
-   "home": "Aktobe Jas",
-   "away": "Jaiyq",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Taraz",
-   "away": "Tobol 2",
-   "liga": "1. Division",
-   "minuto": 52,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Tauras",
-   "away": "BFA",
-   "liga": "1 Lyga",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — BFA buscará el empate"
-   ]
-  },
-  {
-   "home": "Itabirito U20",
-   "away": "Coimbra U20",
-   "liga": "Mineiro U20",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 5.6,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "🔒 Liga muy cerrada: 1.87 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Fountain Gate",
-   "away": "Mbeya City",
-   "liga": "Ligi kuu Bara",
-   "minuto": 50,
+   "home": "Masar",
+   "away": "Dayrout",
+   "liga": "Second League",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 4.0,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga muy cerrada: 1.87 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Itesalat",
+   "away": "Ismaily SC",
+   "liga": "Second League",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 0.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.87 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
