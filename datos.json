@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:59:42.227511+00:00",
+ "actualizado": "2026-08-28T16:07:51.589313+00:00",
  "partidos_vivo": [
   {
    "home": "Honka",
@@ -200,7 +200,7 @@
    "hora": "13:00",
    "resultado": "perdido",
    "wr_historico": 61,
-   "n_historico": 1021
+   "n_historico": 1024
   },
   {
    "clave": "btts",
@@ -214,7 +214,7 @@
    "hora": "18:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 985
+   "n_historico": 987
   }
  ],
  "gol_temprano": [
@@ -287,13 +287,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44590.0,
-  "balance_total": 34590.0,
-  "balance_dia": 223.0,
-  "ganados": 2110,
+  "capital": 44651.0,
+  "balance_total": 34651.0,
+  "balance_dia": 284.0,
+  "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 8,
-  "ganados_dia": 11,
+  "pendientes": 7,
+  "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
   "roi": 11.5,
@@ -507,7 +507,7 @@
     "away": "Rostov U19",
     "liga": "Youth Championship",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -558,10 +558,10 @@
    }
   ],
   "balance": {
-   "ganados": 1193,
-   "perdidos": 813,
+   "ganados": 1197,
+   "perdidos": 814,
    "acierto": 59.5,
-   "yield": 13.0,
+   "yield": 13.1,
    "cuota_media": 1.9
   }
  },
@@ -865,10 +865,10 @@
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 12,
+  "ganados": 13,
   "perdidos": 4,
-  "en_juego": 10,
-  "win_rate": 75
+  "en_juego": 9,
+  "win_rate": 76
  },
  "stats_banker": {
   "ganados": 65,
