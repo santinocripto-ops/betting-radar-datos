@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T12:54:24.400035+00:00",
+ "actualizado": "2026-08-28T13:01:40.199235+00:00",
  "partidos_vivo": [
   {
    "home": "Sabah FA",
@@ -687,7 +687,17 @@
   "mercado_pista": "Goles",
   "resultado": "pendiente"
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: G2 vs Spirit - Map 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 125371,
+   "prob": 41.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "15:01"
+  }
+ ],
  "stats_gt": {
   "n": 2127,
   "ganados": 1477,
