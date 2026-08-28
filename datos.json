@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:07:51.589313+00:00",
+ "actualizado": "2026-08-28T16:09:17.765971+00:00",
  "partidos_vivo": [
   {
    "home": "Honka",
@@ -80,6 +80,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "18:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "18:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "18:09",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:52",
@@ -132,24 +150,6 @@
    "texto": "──────────────────────────────",
    "hora": "17:26",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "17:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "17:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Al Riyadh vs NEOM · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
-   "hora": "17:08",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
