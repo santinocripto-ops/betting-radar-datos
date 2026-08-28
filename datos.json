@@ -1,70 +1,32 @@
 {
- "actualizado": "2026-08-28T11:45:19.759767+00:00",
+ "actualizado": "2026-08-28T11:53:05.457230+00:00",
  "partidos_vivo": [
   {
-   "home": "Almaz Antey U19",
-   "away": "CSKA Moskva U19",
-   "liga": "Youth Championship",
-   "minuto": 62,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 7.0,
-   "recomendar": true,
+   "home": "Ansan Greeners",
+   "away": "Daegu FC",
+   "liga": "K League 2",
+   "minuto": 65,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 6.4,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 25 minutos por jugar — margen justo"
    ]
   },
   {
-   "home": "Prospect United",
-   "away": "Hurstville FC",
-   "liga": "New South Wales NPL 2",
-   "minuto": 52,
+   "home": "Jeonnam Dragons",
+   "away": "Cheonan City",
+   "liga": "K League 2",
+   "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 6.9,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hurstville FC buscará el empate"
-   ]
-  },
-  {
-   "home": "Suwon FMC W",
-   "away": "Seoul W",
-   "liga": "WK-League",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Suwon FMC W buscará el empate",
-    "📊 Suwon FMC W: Over2.5 histórico 70%"
-   ]
-  },
-  {
-   "home": "Legia Warszawa U19",
-   "away": "Lech Poznań U19",
-   "liga": "Central Youth League",
-   "minuto": 58,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
    "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -72,28 +34,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Incheon Red Angels W",
-   "away": "Gyeongju W",
-   "liga": "WK-League",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 2.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Gyeongju W buscará el empate",
-    "⏱ 29 minutos por jugar — margen justo"
+    "⚽ 1 gol — Cheonan City buscará el empate",
+    "⏱ 27 minutos por jugar — margen justo"
    ]
   }
  ],
@@ -125,13 +68,13 @@
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": "baja",
-   "home": "Atlético Ottawa",
-   "away": "York United",
-   "liga": "Canadian Premier League",
+   "confianza": "alta",
+   "home": "Nyva Ternopil II",
+   "away": "Skala 1911 Stryi",
+   "liga": "Druha Liga",
    "cuota": null,
-   "score": 3.5,
-   "hora": "23:00",
+   "score": 10,
+   "hora": "13:00",
    "resultado": "pendiente",
    "wr_historico": 61,
    "n_historico": 1020
@@ -139,13 +82,13 @@
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
-   "confianza": "baja",
-   "home": "Atlético Ottawa",
-   "away": "York United",
-   "liga": "Canadian Premier League",
-   "cuota": null,
-   "score": 2.5,
-   "hora": "23:00",
+   "confianza": "alta",
+   "home": "Aston Villa U21",
+   "away": "Crystal Palace U21",
+   "liga": "Premier League 2 Division One",
+   "cuota": 1.44,
+   "score": 10,
+   "hora": "18:00",
    "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 985
