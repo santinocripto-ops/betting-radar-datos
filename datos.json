@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T06:00:34.679514+00:00",
+ "actualizado": "2026-08-28T06:08:49.589557+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -43,6 +43,36 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "08:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "08:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "08:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "08:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "08:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "07:38",
    "tipo": "smart_money"
@@ -82,36 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "03:42",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:42",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "03:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "03:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -186,13 +186,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44334.0,
-  "balance_total": 34334.0,
-  "balance_dia": -33.0,
-  "ganados": 2102,
+  "capital": 44395.0,
+  "balance_total": 34395.0,
+  "balance_dia": 28.0,
+  "ganados": 2103,
   "perdidos": 904,
-  "pendientes": 1,
-  "ganados_dia": 3,
+  "pendientes": 0,
+  "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.9,
   "roi": 11.4,
@@ -689,10 +689,10 @@
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 4,
+  "ganados": 5,
   "perdidos": 2,
-  "en_juego": 1,
-  "win_rate": 67
+  "en_juego": 0,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 65,
