@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T20:55:08.348732+00:00",
+ "actualizado": "2026-08-28T21:05:20.520575+00:00",
  "partidos_vivo": [
   {
    "home": "Alaves",
@@ -195,6 +195,36 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "22:48",
    "tipo": "smart_money"
@@ -234,50 +264,10 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "21:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Rodez",
-   "away": "PAU",
-   "liga": "Ligue 2",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.2,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -305,7 +295,7 @@
    "hora": "13:00",
    "resultado": "perdido",
    "wr_historico": 61,
-   "n_historico": 1029
+   "n_historico": 1030
   },
   {
    "clave": "btts",
@@ -317,9 +307,9 @@
    "cuota": 1.44,
    "score": 10,
    "hora": "18:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 989
+   "n_historico": 996
   }
  ],
  "gol_temprano": [
@@ -341,7 +331,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
@@ -352,7 +342,7 @@
    "minuto": 12,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
@@ -363,7 +353,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
@@ -374,7 +364,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
@@ -385,23 +375,23 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-28",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45113.0,
-  "balance_total": 35113.0,
-  "balance_dia": 746.0,
-  "ganados": 2133,
-  "perdidos": 914,
-  "pendientes": 26,
-  "ganados_dia": 34,
-  "perdidos_dia": 12,
+  "capital": 45595.0,
+  "balance_total": 35595.0,
+  "balance_dia": 1228.0,
+  "ganados": 2151,
+  "perdidos": 920,
+  "pendientes": 2,
+  "ganados_dia": 52,
+  "perdidos_dia": 18,
   "win_rate": 70.0,
-  "roi": 11.5,
+  "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -457,7 +447,7 @@
     "away": "Crystal Palace U21",
     "liga": "Premier League 2 Division One",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -466,7 +456,7 @@
     "away": "Reading U21",
     "liga": "Premier League 2 Division One",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -475,7 +465,7 @@
     "away": "Southampton U21",
     "liga": "Premier League 2 Division One",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -484,7 +474,7 @@
     "away": "Stoke City U21",
     "liga": "Premier League 2 Division One",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -493,7 +483,7 @@
     "away": "Manchester City U21",
     "liga": "Premier League 2 Division One",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -502,7 +492,7 @@
     "away": "VfB Stuttgart",
     "liga": "Bundesliga",
     "hora": "20:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -520,7 +510,7 @@
     "away": "Fortuna Sittard",
     "liga": "Eredivisie",
     "hora": "20:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -648,7 +638,7 @@
     "away": "Trepça'89",
     "liga": "Liga E Pare",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -663,8 +653,8 @@
    }
   ],
   "balance": {
-   "ganados": 1200,
-   "perdidos": 818,
+   "ganados": 1205,
+   "perdidos": 821,
    "acierto": 59.5,
    "yield": 13.0,
    "cuota_media": 1.9
@@ -675,20 +665,6 @@
    "home": "Vikingur Gota",
    "away": "HB Torshavn",
    "liga": "Meistaradeildin",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "FC Gomel",
-   "away": "Belshina",
-   "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Stenungsund",
-   "away": "Herrestads",
-   "liga": "Division 2 - Norra Götaland",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -998,22 +974,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2148,
-  "ganados": 1490,
+  "n": 2171,
+  "ganados": 1507,
   "win_rate": 69,
   "hoy": 47
  },
  "stats_dia": {
-  "ganados": 35,
-  "perdidos": 13,
-  "en_juego": 27,
-  "win_rate": 73
+  "ganados": 54,
+  "perdidos": 19,
+  "en_juego": 2,
+  "win_rate": 74
  },
  "stats_banker": {
-  "ganados": 65,
+  "ganados": 66,
   "perdidos": 25,
-  "pendientes": 1,
-  "win_rate": 72
+  "pendientes": 0,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
