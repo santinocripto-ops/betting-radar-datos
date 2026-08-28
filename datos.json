@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T14:33:25.698553+00:00",
+ "actualizado": "2026-08-28T14:41:01.985592+00:00",
  "partidos_vivo": [
   {
    "home": "Terengganu",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:41",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "16:10",
@@ -182,12 +188,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
    "tipo": "smart_money"
   },
   {
@@ -828,6 +828,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: Natus Vincere ganara",
+   "usdc": 60155,
+   "prob": 85.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "16:40"
+  },
   {
    "titulo": "Counter-Strike: G2 vs Spirit - Map 2 Winner",
    "apuesta": "SI, ganara",
