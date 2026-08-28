@@ -1,223 +1,71 @@
 {
- "actualizado": "2026-08-28T18:49:08.925683+00:00",
+ "actualizado": "2026-08-28T18:56:20.500278+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Ittihad",
-   "away": "Ceramica Cleopatra",
-   "liga": "Premier League",
-   "minuto": 59,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 22,
-   "momentum_away": 78,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.19 goles/partido",
-    "⚽ 1 gol — Al Ittihad buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Masr",
-   "away": "Al Ahly",
-   "liga": "Premier League",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.19 goles/partido",
-    "⚽ 1 gol — Masr buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Luzern W",
-   "away": "St. Gallen W",
-   "liga": "AXA Women’s Super League",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Kickers Offenbach",
-   "away": "Kaiserslautern II",
-   "liga": "Regionalliga - SudWest",
+   "home": "Bonner SC",
+   "away": "Bochum II",
+   "liga": "Regionalliga - West",
    "minuto": 62,
-   "marcador": "4-0",
+   "marcador": "2-2",
    "apuesta": "Over 4.5",
-   "score": 7.0,
-   "recomendar": true,
+   "score": 5.7,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "UFC Hallein",
-   "away": "SK Vorwarts Steyr",
-   "liga": "Regionalliga - North",
-   "minuto": 56,
+   "home": "Chateauroux",
+   "away": "Hyères",
+   "liga": "National 2 - Group C",
+   "minuto": 61,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Kluczbork",
-   "away": "Stal Brzeg",
-   "liga": "III Liga - Group 3",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.5,
+   "score": 5.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Altglienicke",
-   "away": "BSG Chemie Leipzig",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 61,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Barockstadt Fulda-Lehn.",
-   "away": "FSV Frankfurt",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 59,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 5.6,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Seekirchen",
-   "away": "Wallern / Marienkirchen",
-   "liga": "Regionalliga - North",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 5.4,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Tillmitsch",
-   "away": "Deutschlandsberger SC",
-   "liga": "Regionalliga - South",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 5.2,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Olympiakos",
-   "away": "Nea Salamis",
-   "liga": "1. Division",
-   "minuto": 65,
-   "marcador": "2-3",
-   "apuesta": "Over 5.5",
-   "score": 4.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto",
-    "⏱ 25 minutos por jugar — margen justo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Chemnitzer FC",
-   "away": "FC Carl Zeiss Jena",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 64,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 4.5,
+   "home": "Foolad FC",
+   "away": "Esteghlal FC",
+   "liga": "Persian Gulf Pro League",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "SV Rodinghausen",
+   "away": "Sportfreunde Siegen",
+   "liga": "Regionalliga - West",
+   "minuto": 63,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 4.2,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -225,12 +73,18 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -289,12 +143,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
    "tipo": "live"
   },
   {
@@ -435,7 +283,7 @@
   "balance_dia": 623.0,
   "ganados": 2122,
   "perdidos": 909,
-  "pendientes": 32,
+  "pendientes": 34,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 70.0,
@@ -1065,7 +913,7 @@
  "stats_dia": {
   "ganados": 24,
   "perdidos": 8,
-  "en_juego": 33,
+  "en_juego": 35,
   "win_rate": 75
  },
  "stats_banker": {
