@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:57:07.014162+00:00",
+ "actualizado": "2026-08-28T19:05:23.571225+00:00",
  "partidos_vivo": [
   {
    "home": "Bonner SC",
@@ -191,7 +191,7 @@
    "hora": "13:00",
    "resultado": "perdido",
    "wr_historico": 61,
-   "n_historico": 1026
+   "n_historico": 1029
   },
   {
    "clave": "btts",
@@ -278,14 +278,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44990.0,
-  "balance_total": 34990.0,
-  "balance_dia": 623.0,
-  "ganados": 2122,
-  "perdidos": 909,
-  "pendientes": 34,
-  "ganados_dia": 23,
-  "perdidos_dia": 7,
+  "capital": 45113.0,
+  "balance_total": 35113.0,
+  "balance_dia": 746.0,
+  "ganados": 2133,
+  "perdidos": 914,
+  "pendientes": 23,
+  "ganados_dia": 34,
+  "perdidos_dia": 12,
   "win_rate": 70.0,
   "roi": 11.5,
   "stake": 100.0,
@@ -507,7 +507,7 @@
     "away": "Astana II",
     "liga": "1. Division",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -516,7 +516,7 @@
     "away": "Iskra",
     "liga": "Liga 1",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -525,7 +525,7 @@
     "away": "Zimbru II",
     "liga": "Liga 1",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -549,10 +549,10 @@
    }
   ],
   "balance": {
-   "ganados": 1197,
+   "ganados": 1200,
    "perdidos": 818,
-   "acierto": 59.4,
-   "yield": 12.9,
+   "acierto": 59.5,
+   "yield": 13.0,
    "cuota_media": 1.9
   }
  },
@@ -569,21 +569,21 @@
    "away": "Belshina",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Stenungsund",
    "away": "Herrestads",
    "liga": "Division 2 - Norra Götaland",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "FC Koln W",
    "away": "1899 Hoffenheim W",
    "liga": "Frauen Bundesliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Atlantis",
@@ -905,16 +905,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2137,
-  "ganados": 1483,
+  "n": 2148,
+  "ganados": 1490,
   "win_rate": 69,
   "hoy": 45
  },
  "stats_dia": {
-  "ganados": 24,
-  "perdidos": 8,
-  "en_juego": 35,
-  "win_rate": 75
+  "ganados": 35,
+  "perdidos": 13,
+  "en_juego": 24,
+  "win_rate": 73
  },
  "stats_banker": {
   "ganados": 65,
