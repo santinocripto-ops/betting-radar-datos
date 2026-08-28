@@ -1,27 +1,52 @@
 {
- "actualizado": "2026-08-28T00:15:28.834958+00:00",
+ "actualizado": "2026-08-28T00:22:48.091713+00:00",
  "partidos_vivo": [
   {
-   "home": "Independiente Petrolero",
-   "away": "Guabirá",
-   "liga": "Primera División",
-   "minuto": 53,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
+   "home": "Internacional",
+   "away": "Gremio",
+   "liga": "Copa Do Brasil",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 9.0,
    "recomendar": true,
-   "momentum_home": 41,
-   "momentum_away": 59,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Llaneros",
+   "away": "Millonarios",
+   "liga": "Primera A",
+   "minuto": 51,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 8.5,
+   "recomendar": true,
+   "momentum_home": 26,
+   "momentum_away": 74,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.75 goles/partido",
     "⚽ 2 goles — partido activo",
-    "🎯 16 remates totales"
+    "⚡ Llaneros pierde por 2 — atacará sin freno"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "02:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -160,7 +185,7 @@
   "balance_dia": 0.0,
   "ganados": 2098,
   "perdidos": 901,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -632,7 +657,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
