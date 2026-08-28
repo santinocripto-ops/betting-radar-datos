@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T00:57:52.543189+00:00",
+ "actualizado": "2026-08-28T01:05:02.645527+00:00",
  "partidos_vivo": [
   {
    "home": "Internacional",
@@ -131,15 +131,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44406.0,
-  "balance_total": 34406.0,
+  "capital": 44367.0,
+  "balance_total": 34367.0,
   "balance_dia": 0.0,
-  "ganados": 2098,
-  "perdidos": 901,
-  "pendientes": 4,
+  "ganados": 2099,
+  "perdidos": 902,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
-  "win_rate": 70.0,
+  "win_rate": 69.9,
   "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -600,7 +600,7 @@
  },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 2124,
+  "n": 2125,
   "ganados": 1476,
   "win_rate": 69,
   "hoy": 1
