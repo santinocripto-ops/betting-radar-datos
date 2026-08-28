@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T14:01:29.410474+00:00",
+ "actualizado": "2026-08-28T14:09:06.302155+00:00",
  "partidos_vivo": [
   {
    "home": "Kolos Kovalivka",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -56,12 +62,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
    "tipo": "smart_money"
   },
   {
