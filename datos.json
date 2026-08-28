@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T13:09:47.934395+00:00",
+ "actualizado": "2026-08-28T13:17:18.689914+00:00",
  "partidos_vivo": [
   {
    "home": "Sichuan Jiuniu",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
@@ -125,12 +131,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -180,6 +180,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Terengganu",
+   "away": "Selangor",
+   "liga": "Super League",
+   "minuto": 16,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
   {
    "home": "Sichuan Jiuniu",
    "away": "SHANGHAI SIPG",
@@ -748,7 +759,7 @@
   "n": 2127,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 8,
