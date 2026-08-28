@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:08:11.508320+00:00",
+ "actualizado": "2026-08-28T15:08:28.801994+00:00",
  "partidos_vivo": [
   {
    "home": "AL Nasr SC",
@@ -61,6 +61,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Al Riyadh vs NEOM · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
+   "hora": "17:08",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Rodez vs PAU · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (11 casas)",
+   "hora": "17:08",
+   "tipo": "banker"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:08",
@@ -74,8 +86,8 @@
   },
   {
    "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:08",
    "tipo": "smart_money"
   },
   {
@@ -118,23 +130,30 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:06",
    "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Al Riyadh",
+   "away": "NEOM",
+   "liga": "Pro League",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28"
+  },
+  {
+   "home": "Rodez",
+   "away": "PAU",
+   "liga": "Ligue 2",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.2,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -786,7 +805,7 @@
  "stats_banker": {
   "ganados": 65,
   "perdidos": 24,
-  "pendientes": 0,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
