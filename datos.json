@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T05:30:57.923763+00:00",
+ "actualizado": "2026-08-28T05:38:28.915490+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "07:38",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -99,12 +105,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:05",
    "tipo": "smart_money"
   },
   {
@@ -654,6 +654,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Manchester City FC win on 2026-08-28?",
+   "apuesta": "NO, Manchester City no ganara",
+   "usdc": 313855,
+   "prob": 42.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "07:38"
+  },
   {
    "titulo": "49ers vs. Raiders: O/U 36.5",
    "apuesta": "SI, mas de 36.5 goles",
