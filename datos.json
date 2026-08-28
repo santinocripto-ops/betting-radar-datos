@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:44:21.955728+00:00",
+ "actualizado": "2026-08-28T16:52:29.660670+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -232,6 +232,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:52",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:52",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:44",
@@ -284,18 +296,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "18:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "18:09",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -971,6 +971,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Map Handicap: FURIA (-1.5) vs M80 (+1.5)",
+   "apuesta": "SI, Map Handicap: FURIA (-1.5) ganara",
+   "usdc": 104695,
+   "prob": 54.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "18:52"
+  },
+  {
+   "titulo": "Will Real Racing Club win on 2026-08-28?",
+   "apuesta": "SI, Real Racing Club ganara",
+   "usdc": 1032798,
+   "prob": 47.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:52"
+  },
   {
    "titulo": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
    "apuesta": "SI, US Open, Qualification ATP: Vilius Gaubas ganara",
