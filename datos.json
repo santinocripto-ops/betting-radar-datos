@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T13:17:18.689914+00:00",
+ "actualizado": "2026-08-28T13:24:37.588494+00:00",
  "partidos_vivo": [
   {
    "home": "Sichuan Jiuniu",
@@ -232,7 +232,7 @@
   "balance_dia": 211.0,
   "ganados": 2106,
   "perdidos": 904,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 7,
   "perdidos_dia": 2,
   "win_rate": 70.0,
@@ -764,7 +764,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 2,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 80
  },
  "stats_banker": {
