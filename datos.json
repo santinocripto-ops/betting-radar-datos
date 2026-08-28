@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:12:58.154344+00:00",
+ "actualizado": "2026-08-28T18:13:25.284367+00:00",
  "partidos_vivo": [
   {
    "home": "VfL Bochum",
@@ -157,8 +157,20 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:13",
    "tipo": "live"
   },
   {
@@ -198,22 +210,10 @@
    "tipo": "live"
   },
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:04",
-   "tipo": "smart_money"
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:12",
+   "tipo": "live"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -286,21 +286,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Westfalia Rhynern",
-   "away": "FC Gutersloh",
-   "liga": "Regionalliga - West",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "SV Rodinghausen",
-   "away": "Sportfreunde Siegen",
-   "liga": "Regionalliga - West",
-   "minuto": 11,
+   "home": "Nottingham Forest U21",
+   "away": "Manchester City U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 12,
    "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -308,21 +297,32 @@
    "es_hoy": true
   },
   {
-   "home": "Vikingur Gota",
-   "away": "HB Torshavn",
-   "liga": "Meistaradeildin",
-   "minuto": 16,
-   "score": 8.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Austria Lustenau",
-   "away": "WSG Wattens",
-   "liga": "Bundesliga",
+   "home": "Everton U21",
+   "away": "Southampton U21",
+   "liga": "Premier League 2 Division One",
    "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Burnley U21",
+   "away": "Reading U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 12,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Young Africans",
+   "away": "Pamba Jiji",
+   "liga": "Ligi kuu Bara",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -330,22 +330,22 @@
    "es_hoy": true
   },
   {
-   "home": "União de Leiria",
-   "away": "Tondela",
-   "liga": "Segunda Liga",
-   "minuto": 16,
-   "score": 10.0,
+   "home": "Debreceni VSC",
+   "away": "MTK Budapest",
+   "liga": "NB I",
+   "minuto": 12,
+   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
   {
-   "home": "Nykobing FC",
-   "away": "Roskilde",
-   "liga": "2. Division",
-   "minuto": 16,
-   "score": 10.0,
+   "home": "Groningen",
+   "away": "Fortuna Sittard",
+   "liga": "Eredivisie",
+   "minuto": 11,
+   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -977,7 +977,7 @@
   "n": 2137,
   "ganados": 1483,
   "win_rate": 69,
-  "hoy": 27
+  "hoy": 37
  },
  "stats_dia": {
   "ganados": 24,
