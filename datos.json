@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T11:08:15.510078+00:00",
+ "actualizado": "2026-08-28T11:09:10.009799+00:00",
  "partidos_vivo": [
   {
    "home": "Almaz Antey U19",
@@ -63,6 +63,36 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "13:08",
    "tipo": "smart_money"
   },
@@ -79,57 +109,27 @@
    "tipo": "smart_money"
   },
   {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "13:07",
-   "tipo": "live"
-  },
-  {
    "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:01",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:38",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:08",
    "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:08",
+   "hora": "13:08",
    "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:08",
+   "hora": "13:08",
    "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:07",
+   "hora": "13:08",
    "tipo": "smart_money"
   }
  ],
