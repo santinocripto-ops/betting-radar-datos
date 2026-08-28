@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T00:43:59.563944+00:00",
+ "actualizado": "2026-08-28T00:50:56.274314+00:00",
  "partidos_vivo": [
   {
    "home": "Internacional",
@@ -136,7 +136,7 @@
   "balance_dia": 0.0,
   "ganados": 2098,
   "perdidos": 901,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -608,7 +608,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
