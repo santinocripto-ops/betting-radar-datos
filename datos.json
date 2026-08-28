@@ -1,23 +1,42 @@
 {
- "actualizado": "2026-08-28T10:30:25.184915+00:00",
+ "actualizado": "2026-08-28T10:37:57.144600+00:00",
  "partidos_vivo": [
   {
-   "home": "Ural U20",
-   "away": "Zenit U19",
-   "liga": "Youth Championship",
-   "minuto": 49,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 7.0,
-   "recomendar": true,
+   "home": "Coal India",
+   "away": "Mohammedan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 46,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 6.5,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.45 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Mohammedan buscará el empate"
+   ]
+  },
+  {
+   "home": "Lokomotiv Kyiv",
+   "away": "Yarud Mariupol'",
+   "liga": "Persha Liga",
+   "minuto": 52,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 6.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
