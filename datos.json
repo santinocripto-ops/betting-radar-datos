@@ -1,65 +1,52 @@
 {
- "actualizado": "2026-08-28T23:42:46.480347+00:00",
+ "actualizado": "2026-08-28T23:49:48.115689+00:00",
  "partidos_vivo": [
   {
-   "home": "Union Santa Fe",
-   "away": "Sarmiento Junin",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.17 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Sarmiento Junin pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Municipal Limeño",
-   "away": "Isidro Metapán",
-   "liga": "Primera Division",
-   "minuto": 53,
+   "home": "Cobresal",
+   "away": "Palestino",
+   "liga": "Primera División",
+   "minuto": 61,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 6.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Isidro Metapán buscará el empate",
-    "⏱ 37 minutos por jugar — tiempo suficiente"
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ 1 gol — Palestino buscará el empate",
+    "🎯 20 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Wanderers",
-   "away": "Central Espanol",
-   "liga": "Primera División",
-   "minuto": 63,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 2.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "home": "Goias",
+   "away": "São Bernardo",
+   "liga": "Serie B",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Central Espanol pierde por 3 — atacará sin freno"
+    "⚽ 1 gol — São Bernardo buscará el empate",
+    "🎯 10 remates totales",
+    "🎯 5 remates a puerta"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "01:49",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -118,12 +105,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:04",
    "tipo": "smart_money"
   },
   {
@@ -254,7 +235,7 @@
   "balance_dia": 0.0,
   "ganados": 2151,
   "perdidos": 923,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
