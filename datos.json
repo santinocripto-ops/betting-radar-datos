@@ -1,179 +1,96 @@
 {
- "actualizado": "2026-08-28T15:43:28.181730+00:00",
+ "actualizado": "2026-08-28T15:52:10.907229+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Energetik-Bgu Minsk",
-   "away": "Minsk II",
-   "liga": "1. Division",
+   "home": "Honka",
+   "away": "P-Iirot",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Honka buscará el empate"
+   ]
+  },
+  {
+   "home": "Drenica Skënderaj",
+   "away": "Ballkani",
+   "liga": "Superliga",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Interclube",
+   "away": "FC Luanda",
+   "liga": "Girabola",
    "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Dubai United",
-   "away": "Al-Ittihad Kalba",
-   "liga": "Pro League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sileks",
-   "away": "Shkendija",
-   "liga": "First League",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.05 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Sileks buscará el empate"
-   ]
-  },
-  {
-   "home": "Dynamo Makhachkala U19",
-   "away": "Rostov U19",
-   "liga": "Youth Championship",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Gazalkent",
-   "away": "FarDu",
-   "liga": "Pro League A",
-   "minuto": 59,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Gazalkent buscará el empate"
-   ]
-  },
-  {
-   "home": "Spartak Moskva U19",
-   "away": "Rodina Moscow U19",
-   "liga": "Youth Championship",
-   "minuto": 53,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 6.8,
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Miedź Legnica II",
-   "away": "Stilon Gorzów",
-   "liga": "III Liga - Group 3",
-   "minuto": 60,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 6.5,
+   "home": "Pharco",
+   "away": "El Mansura",
+   "liga": "Second League",
+   "minuto": 46,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 1.3,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Enppi",
-   "away": "Wadi Degla",
-   "liga": "Premier League",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.3,
-   "recomendar": false,
-   "momentum_home": 38,
-   "momentum_away": 62,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.19 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Olympic El Qanah",
-   "away": "El Gouna FC",
-   "liga": "Premier League",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.1,
-   "recomendar": false,
-   "momentum_home": 18,
-   "momentum_away": 82,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.19 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 12 remates totales"
+    "🔒 Liga muy cerrada: 1.87 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:52",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "17:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -233,18 +150,6 @@
    "texto": "⚽ Al Riyadh vs NEOM · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
    "hora": "17:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Rodez vs PAU · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (11 casas)",
-   "hora": "17:08",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -314,6 +219,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Atlantis",
+   "away": "HIFK Helsinki",
+   "liga": "Kakkonen - Lohko A",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "JBK",
    "away": "Kraft",
    "liga": "Kakkonen - Lohko C",
@@ -367,17 +283,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-28",
    "es_hoy": true
-  },
-  {
-   "home": "Terengganu",
-   "away": "Selangor",
-   "liga": "Super League",
-   "minuto": 16,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-28",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -387,7 +292,7 @@
   "balance_dia": 223.0,
   "ganados": 2110,
   "perdidos": 906,
-  "pendientes": 2,
+  "pendientes": 7,
   "ganados_dia": 11,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -957,12 +862,12 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 9
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 4,
+  "en_juego": 9,
   "win_rate": 75
  },
  "stats_banker": {
