@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T17:09:01.147216+00:00",
+ "actualizado": "2026-08-28T17:15:47.585598+00:00",
  "partidos_vivo": [
   {
    "home": "Atlantis",
@@ -194,6 +194,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:15",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "18:54",
@@ -256,12 +262,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
    "hora": "18:20",
    "tipo": "live"
   }
