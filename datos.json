@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T08:08:10.574353+00:00",
+ "actualizado": "2026-08-28T08:15:40.815248+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -446,6 +446,34 @@
     "ts": "2026-08-28T01:06:25.062472+00:00"
    },
    {
+    "home": "Voitsberg",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "pinnacle": true,
+    "delta": 5.13,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T08:08:10.573293+00:00"
+   },
+   {
+    "home": "Voitsberg",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 6,
+    "pinnacle": false,
+    "delta": 4.57,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-28T16:30:00+00:00",
+    "ts": "2026-08-28T08:08:10.689170+00:00"
+   },
+   {
     "home": "Alebrijes de Oaxaca",
     "away": "Tapatío",
     "liga": "Liga de Expansión MX",
@@ -612,40 +640,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-25T22:30:00+00:00",
     "ts": "2026-08-25T21:06:36.807915+00:00"
-   },
-   {
-    "home": "Juventude",
-    "away": "CRB",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 6,
-    "pinnacle": false,
-    "delta": 3.96,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-25T22:30:00+00:00",
-    "ts": "2026-08-25T21:06:36.966072+00:00"
-   },
-   {
-    "home": "Deportivo Madryn",
-    "away": "Godoy Cruz",
-    "liga": "Primera Nacional",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "pinnacle": true,
-    "delta": 3.49,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-25T22:00:00+00:00",
-    "ts": "2026-08-25T15:03:34.138218+00:00"
    }
   ],
   "balance": {
    "ganados": 156,
    "perdidos": 70,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 69.0,
    "total": 226
   }
