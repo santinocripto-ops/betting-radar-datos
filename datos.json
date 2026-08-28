@@ -1,236 +1,204 @@
 {
- "actualizado": "2026-08-28T16:52:29.660670+00:00",
+ "actualizado": "2026-08-28T16:54:22.106397+00:00",
  "partidos_vivo": [
   {
-   "home": "Akron",
-   "away": "CSKA Moscow",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 17,
-   "momentum_away": 83,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "FC Vitebsk",
-   "away": "Naftan",
-   "liga": "Premier League",
-   "minuto": 62,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.16 goles/partido",
-    "⚠️ Datos en vivo parciales — fiabilidad media",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Tatran Bohunice",
-   "away": "Velké Meziříčí",
-   "liga": "4. liga - Divizie D",
-   "minuto": 59,
-   "marcador": "3-3",
-   "apuesta": "Over 6.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Gonio",
-   "away": "FC Iberia 1999 II",
-   "liga": "Liga 3",
+   "home": "Atlantis",
+   "away": "HIFK Helsinki",
+   "liga": "Kakkonen - Lohko A",
    "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Dainava",
-   "away": "Žalgiris II",
-   "liga": "1 Lyga",
-   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 7.0,
+   "score": 9.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ Liga muy goleadora: 4.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Kluczevia Stargard",
-   "away": "Unia Swarzędz",
-   "liga": "III Liga - Group 2",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
+   "home": "Strání",
+   "away": "Nové Sady",
+   "liga": "4. liga - Divizie E",
+   "minuto": 63,
+   "marcador": "5-0",
+   "apuesta": "Over 5.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Luzino",
-   "away": "Lipno Stęszew",
-   "liga": "III Liga - Group 2",
-   "minuto": 54,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Wda Świecie",
-   "away": "Noteć Czarnków",
-   "liga": "III Liga - Group 2",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Shooting Stars",
-   "away": "Inter Lagos",
-   "liga": "NPFL",
-   "minuto": 48,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Struga",
-   "away": "Bregalnica Štip",
-   "liga": "First League",
-   "minuto": 57,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 6.3,
+   "home": "Kotwica Kórnik",
+   "away": "Chemik Bydgoszcz",
+   "liga": "III Liga - Group 2",
+   "minuto": 65,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Frýdek-Místek",
+   "away": "Sigma Olomouc II",
+   "liga": "3. liga - MSFL",
+   "minuto": 62,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.7,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.05 goles/partido",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "JäPS",
+   "away": "KäPa",
+   "liga": "Ykkösliiga",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Kooteepee",
+   "away": "Haka",
+   "liga": "Ykkösliiga",
+   "minuto": 60,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Haka buscará el empate",
+    "📊 Haka: Over2.5 histórico 70%"
+   ]
+  },
+  {
+   "home": "Vukovar",
+   "away": "Segesta Sisak",
+   "liga": "First NL",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 6.1,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Dibba Al-Fujairah",
-   "away": "Gulf United",
-   "liga": "Division 1",
-   "minuto": 49,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 5.8,
+   "home": "Chadormalu SC",
+   "away": "Tractor Sazi",
+   "liga": "Persian Gulf Pro League",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 5.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ 1 gol — Chadormalu SC buscará el empate"
    ]
   },
   {
-   "home": "EPS",
-   "away": "HJS Akatemia",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 62,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 5.3,
+   "home": "Paykan",
+   "away": "Esteghlal Khuzestan",
+   "liga": "Persian Gulf Pro League",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Dubrava Zagreb",
+   "away": "Croatia Zmijavci",
+   "liga": "First NL",
+   "minuto": 63,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Croatia Zmijavci buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "18:54",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -296,12 +264,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "18:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -444,7 +406,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 13,
+  "pendientes": 16,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -1053,7 +1015,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 15,
+  "en_juego": 18,
   "win_rate": 76
  },
  "stats_banker": {
