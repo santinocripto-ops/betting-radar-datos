@@ -1,87 +1,87 @@
 {
- "actualizado": "2026-08-28T17:47:18.233368+00:00",
+ "actualizado": "2026-08-28T17:55:39.664883+00:00",
  "partidos_vivo": [
   {
-   "home": "Wisla Plock",
-   "away": "Korona Kielce",
-   "liga": "Ekstraklasa",
+   "home": "VfL Bochum",
+   "away": "VfL Osnabrück",
+   "liga": "2. Bundesliga",
    "minuto": 63,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 64,
+   "momentum_away": 36,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Wisla Plock pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga goleadora: 3.06 goles/partido",
+    "⚽ 1 gol — VfL Bochum buscará el empate"
    ]
   },
   {
-   "home": "Keçiörengücü",
-   "away": "Ümraniyespor",
-   "liga": "1. Lig",
+   "home": "Eintracht Braunschweig",
+   "away": "Hertha BSC",
+   "liga": "2. Bundesliga",
    "minuto": 64,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
+   "momentum_home": 37,
+   "momentum_away": 63,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 15 remates totales"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga goleadora: 3.06 goles/partido",
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Pendikspor",
-   "away": "Bandırmaspor",
-   "liga": "1. Lig",
+   "home": "FK Neftekhimik",
+   "away": "FC UFA",
+   "liga": "First League",
    "minuto": 62,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 9.5,
    "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
+   "momentum_home": 25,
+   "momentum_away": 75,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 13 remates totales"
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 1 gol — FK Neftekhimik buscará el empate"
    ]
   },
   {
-   "home": "Al-Fayha",
-   "away": "Abha",
-   "liga": "Pro League",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.81 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Abha pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "East Riffa",
-   "away": "Al-Hidd",
-   "liga": "Premier League",
+   "home": "Qatar SC",
+   "away": "Al Sadd",
+   "liga": "Stars League",
    "minuto": 63,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Al-Wasl FC",
+   "away": "Shabab Al Ahli Dubai",
+   "liga": "Pro League",
+   "minuto": 59,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 8.0,
@@ -91,146 +91,76 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
+    "⚽ Liga muy goleadora: 3.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — East Riffa buscará el empate"
+    "⚽ 1 gol — Al-Wasl FC buscará el empate"
    ]
   },
   {
-   "home": "Muharraq",
-   "away": "Al Ahli",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.8,
-   "recomendar": false,
+   "home": "First Vienna",
+   "away": "SKU Amstetten",
+   "liga": "2. Liga",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.5,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
+    "⚽ Liga goleadora: 3.12 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — SKU Amstetten buscará el empate"
+   ]
+  },
+  {
+   "home": "SV Kapfenberg",
+   "away": "FC BW Linz",
+   "liga": "2. Liga",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.12 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Ryazan",
-   "away": "Salyut-Belgorod",
-   "liga": "Second League - Group 3",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "📊 Salyut-Belgorod: Over2.5 histórico 70%"
-   ]
-  },
-  {
-   "home": "Pogoń Grod. Mazowiecki",
-   "away": "Nieciecza",
-   "liga": "I Liga",
-   "minuto": 48,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 42 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Krasava Ypsonas",
-   "away": "Omonia 29is Maiou",
-   "liga": "1. Division",
-   "minuto": 60,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Krasava Ypsonas pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Dukla Praha",
-   "away": "Vysočina Jihlava",
-   "liga": "FNL",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 5.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Al Anwar",
-   "away": "Al Ula",
-   "liga": "Division 1",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "FC Urartu",
-   "away": "Alashkert",
+   "home": "Hibernians",
+   "away": "Zabbar St. Patrick",
    "liga": "Premier League",
-   "minuto": 65,
+   "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 3.6,
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.87 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Alashkert buscará el empate"
+    "⚽ 1 gol — Zabbar St. Patrick buscará el empate",
+    "⏱ 27 minutos por jugar — margen justo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "19:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -294,12 +224,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
    "tipo": "live"
   }
@@ -444,7 +368,7 @@
   "balance_dia": 284.0,
   "ganados": 2111,
   "perdidos": 906,
-  "pendientes": 27,
+  "pendientes": 31,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -1053,7 +977,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 4,
-  "en_juego": 29,
+  "en_juego": 33,
   "win_rate": 76
  },
  "stats_banker": {
