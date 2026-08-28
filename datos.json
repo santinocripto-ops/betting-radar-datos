@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:18:14.343233+00:00",
+ "actualizado": "2026-08-28T15:18:19.386100+00:00",
  "partidos_vivo": [
   {
    "home": "FC Energetik-Bgu Minsk",
@@ -313,6 +313,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "EPS",
+   "away": "HJS Akatemia",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 17,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
   {
    "home": "Terengganu",
    "away": "Selangor",
@@ -908,7 +919,7 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 12,
