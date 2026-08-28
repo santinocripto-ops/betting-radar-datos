@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T21:06:14.299716+00:00",
+ "actualizado": "2026-08-28T21:06:44.241769+00:00",
  "partidos_vivo": [
   {
    "home": "Alaves",
@@ -195,6 +195,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "23:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:06",
    "tipo": "smart_money"
@@ -251,12 +257,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "22:33",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:32",
    "tipo": "smart_money"
   },
   {
