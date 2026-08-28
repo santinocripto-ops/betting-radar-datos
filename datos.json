@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T12:09:26.009519+00:00",
+ "actualizado": "2026-08-28T12:10:01.069759+00:00",
  "partidos_vivo": [
   {
    "home": "Ansan Greeners",
@@ -43,8 +43,8 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:10",
    "tipo": "smart_money"
   },
   {
@@ -74,7 +74,13 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:08",
+   "hora": "14:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:09",
    "tipo": "smart_money"
   },
   {
@@ -106,12 +112,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "13:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
