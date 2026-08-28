@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T17:33:30.554303+00:00",
+ "actualizado": "2026-08-28T17:40:21.264265+00:00",
  "partidos_vivo": [
   {
    "home": "Wisla Plock",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:33",
    "tipo": "live"
@@ -296,12 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:15",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "18:54",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -371,6 +371,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Austria Lustenau",
+   "away": "WSG Wattens",
+   "liga": "Bundesliga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "União de Leiria",
    "away": "Tondela",
    "liga": "Segunda Liga",
@@ -420,17 +431,6 @@
    "liga": "Premier League",
    "minuto": 15,
    "score": 8.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Böljan",
-   "away": "Qviding FIF",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 16,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -1048,7 +1048,7 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 23
+  "hoy": 24
  },
  "stats_dia": {
   "ganados": 13,
