@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T03:05:17.579121+00:00",
+ "actualizado": "2026-08-28T03:13:52.383388+00:00",
  "partidos_vivo": [
   {
    "home": "Alebrijes de Oaxaca",
@@ -462,8 +462,8 @@
     "casas": 11,
     "pinnacle": true,
     "delta": 6.38,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-28T01:00:00+00:00",
     "ts": "2026-08-27T13:06:57.340183+00:00"
    },
@@ -651,11 +651,11 @@
    }
   ],
   "balance": {
-   "ganados": 155,
+   "ganados": 156,
    "perdidos": 70,
-   "pendientes": 2,
-   "acierto": 68.9,
-   "total": 225
+   "pendientes": 1,
+   "acierto": 69.0,
+   "total": 226
   }
  },
  "mejor_dia": {
