@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:56:20.500278+00:00",
+ "actualizado": "2026-08-28T18:57:07.014162+00:00",
  "partidos_vivo": [
   {
    "home": "Bonner SC",
@@ -82,6 +82,30 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:56",
    "tipo": "live"
   },
@@ -126,30 +150,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:20",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -210,10 +210,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Norwich City U21",
-   "away": "Stoke City U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 16,
+   "home": "Guiseley AFC",
+   "away": "Lancaster City",
+   "liga": "Non League Premier - Northern",
+   "minuto": 12,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Burgess Hill Town",
+   "away": "Dartford",
+   "liga": "Non League Premier - Isthmian",
+   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -221,55 +232,44 @@
    "es_hoy": true
   },
   {
-   "home": "Bayern München",
-   "away": "VfB Stuttgart",
-   "liga": "Bundesliga",
+   "home": "Gateshead",
+   "away": "Sutton Utd",
+   "liga": "National League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Edinburgh City",
+   "away": "Forfar Athletic",
+   "liga": "League Two",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "St Patrick's Athl.",
+   "away": "Waterford",
+   "liga": "Premier Division",
+   "minuto": 11,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Norwich City U21",
+   "away": "Stoke City U21",
+   "liga": "Premier League 2 Division One",
    "minuto": 16,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Cremonese",
-   "away": "Modena",
-   "liga": "Serie B",
-   "minuto": 10,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Nottingham Forest U21",
-   "away": "Manchester City U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 12,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Everton U21",
-   "away": "Southampton U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 10,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Burnley U21",
-   "away": "Reading U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 12,
-   "score": 8.5,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -908,7 +908,7 @@
   "n": 2137,
   "ganados": 1483,
   "win_rate": 69,
-  "hoy": 40
+  "hoy": 45
  },
  "stats_dia": {
   "ganados": 24,
