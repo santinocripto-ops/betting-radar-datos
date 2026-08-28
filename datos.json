@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:29:13.084920+00:00",
+ "actualizado": "2026-08-28T18:29:22.510232+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ittihad",
@@ -435,7 +435,7 @@
   "balance_dia": 623.0,
   "ganados": 2122,
   "perdidos": 909,
-  "pendientes": 29,
+  "pendientes": 30,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 70.0,
@@ -1058,7 +1058,7 @@
  "stats_dia": {
   "ganados": 24,
   "perdidos": 8,
-  "en_juego": 30,
+  "en_juego": 31,
   "win_rate": 75
  },
  "stats_banker": {
