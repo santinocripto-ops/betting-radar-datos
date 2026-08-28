@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T16:20:28.272361+00:00",
+ "actualizado": "2026-08-28T16:20:42.621763+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -244,6 +244,12 @@
    "tipo": "live"
   },
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:20",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "18:20",
@@ -295,12 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "17:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:42",
    "tipo": "live"
   }
  ],
@@ -371,6 +371,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Muharraq",
+   "away": "Al Ahli",
+   "liga": "Premier League",
+   "minuto": 16,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Al-Fayha",
+   "away": "Abha",
+   "liga": "Pro League",
+   "minuto": 19,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Wisla Plock",
+   "away": "Korona Kielce",
+   "liga": "Ekstraklasa",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Atlantis",
    "away": "HIFK Helsinki",
    "liga": "Kakkonen - Lohko A",
@@ -398,39 +431,6 @@
    "liga": "Ligi kuu Bara",
    "minuto": 12,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Vukovar",
-   "away": "Segesta Sisak",
-   "liga": "First NL",
-   "minuto": 12,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Frýdek-Místek",
-   "away": "Sigma Olomouc II",
-   "liga": "3. liga - MSFL",
-   "minuto": 11,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "EPS",
-   "away": "HJS Akatemia",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 17,
-   "score": 8.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -1007,7 +1007,7 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 10
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 13,
