@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T19:07:51.387895+00:00",
+ "actualizado": "2026-08-28T20:33:08.352788+00:00",
  "partidos_vivo": [
   {
    "home": "Bonner SC",
@@ -81,8 +81,20 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:07",
+   "texto": "──────────────────────────────",
+   "hora": "22:33",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:32",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:32",
    "tipo": "smart_money"
   },
   {
@@ -99,6 +111,12 @@
   },
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:07",
    "tipo": "smart_money"
@@ -132,24 +150,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -832,6 +832,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Deportivo Alavés vs. Villarreal CF end in a draw?",
+   "apuesta": "NO acabará en empate",
+   "usdc": 60039,
+   "prob": 71.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:33"
+  },
+  {
+   "titulo": "Will Deportivo Alavés vs. Villarreal CF end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 112968,
+   "prob": 28.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "22:32"
+  },
+  {
+   "titulo": "Will Lille OSC win on 2026-08-28?",
+   "apuesta": "SI, Lille OSC ganara",
+   "usdc": 54969,
+   "prob": 58.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "22:32"
+  },
+  {
    "titulo": "Will FC Bayern München win on 2026-08-28?",
    "apuesta": "SI, FC Bayern München ganara",
    "usdc": 118612,
@@ -875,33 +902,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "18:43"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the September 2026",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
-   "usdc": 142403,
-   "prob": 51.5,
-   "n_traders": 2,
-   "trader": "ImJustKen",
-   "hora": "17:34"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 87279,
-   "prob": 51.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "17:26"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 90752,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "17:26"
   }
  ],
  "stats_gt": {
