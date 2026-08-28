@@ -1,61 +1,42 @@
 {
- "actualizado": "2026-08-28T02:05:22.260850+00:00",
+ "actualizado": "2026-08-28T02:13:25.582799+00:00",
  "partidos_vivo": [
   {
-   "home": "Bolívar",
-   "away": "ABB",
-   "liga": "Primera División",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
+   "home": "Alebrijes de Oaxaca",
+   "away": "Tapatío",
+   "liga": "Liga de Expansión MX",
+   "minuto": 54,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚽ 1 gol — ABB buscará el empate",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Platense",
-   "away": "Instituto Cordoba",
-   "liga": "Copa Argentina",
-   "minuto": 59,
-   "marcador": "1-1",
+   "home": "Cancún",
+   "away": "CA La Paz",
+   "liga": "Liga de Expansión MX",
+   "minuto": 47,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 4.3,
-   "recomendar": false,
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 31 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Nacional AM",
-   "away": "CSA",
-   "liga": "Serie D",
-   "minuto": 65,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
