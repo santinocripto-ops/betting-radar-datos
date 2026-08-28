@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T03:59:34.627614+00:00",
+ "actualizado": "2026-08-28T04:07:30.578146+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -143,7 +143,7 @@
    "hora": "23:00",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 1019
+   "n_historico": 1020
   },
   {
    "clave": "btts",
@@ -168,7 +168,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-28",
    "es_hoy": true
   },
@@ -186,13 +186,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 44273.0,
-  "balance_total": 34273.0,
-  "balance_dia": -94.0,
-  "ganados": 2101,
+  "capital": 44334.0,
+  "balance_total": 34334.0,
+  "balance_dia": -33.0,
+  "ganados": 2102,
   "perdidos": 904,
-  "pendientes": 2,
-  "ganados_dia": 2,
+  "pendientes": 1,
+  "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.9,
   "roi": 11.4,
@@ -421,10 +421,10 @@
    }
   ],
   "balance": {
-   "ganados": 1192,
+   "ganados": 1193,
    "perdidos": 812,
    "acierto": 59.5,
-   "yield": 13.0,
+   "yield": 13.1,
    "cuota_media": 1.9
   }
  },
@@ -682,16 +682,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2126,
-  "ganados": 1476,
+  "n": 2127,
+  "ganados": 1477,
   "win_rate": 69,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 3,
+  "ganados": 4,
   "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 60
+  "en_juego": 1,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 65,
