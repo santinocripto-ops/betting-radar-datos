@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T20:34:59.553983+00:00",
+ "actualizado": "2026-08-28T20:41:44.769703+00:00",
  "partidos_vivo": [
   {
    "home": "Alaves",
@@ -194,6 +194,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:41",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "22:34",
@@ -239,12 +245,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:06",
    "tipo": "smart_money"
   },
   {
@@ -324,6 +324,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mushuc Runa SC",
+   "away": "Delfin SC",
+   "liga": "Liga Pro",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Cardiff MET",
    "away": "Briton Ferry",
    "liga": "Premier League",
@@ -373,17 +384,6 @@
    "liga": "League Two",
    "minuto": 10,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "St Patrick's Athl.",
-   "away": "Waterford",
-   "liga": "Premier Division",
-   "minuto": 11,
-   "score": 8.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-28",
@@ -1001,7 +1001,7 @@
   "n": 2148,
   "ganados": 1490,
   "win_rate": 69,
-  "hoy": 46
+  "hoy": 47
  },
  "stats_dia": {
   "ganados": 35,
