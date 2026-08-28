@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T01:49:54.552254+00:00",
+ "actualizado": "2026-08-28T01:57:12.613919+00:00",
  "partidos_vivo": [
   {
    "home": "Bolívar",
@@ -61,6 +61,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:57",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "03:42",
@@ -88,12 +94,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:05",
    "tipo": "smart_money"
   },
   {
@@ -690,7 +690,17 @@
  "mejor_dia": {
   "disponible": false
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Winston-Salem Open: Arthur Fery vs Aleksandar Kovacevic",
+   "apuesta": "SI, ganara",
+   "usdc": 23310,
+   "prob": 54.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "03:57"
+  }
+ ],
  "stats_gt": {
   "n": 2125,
   "ganados": 1476,
