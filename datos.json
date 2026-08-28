@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T00:43:55.824916+00:00",
+ "actualizado": "2026-08-28T00:43:59.563944+00:00",
  "partidos_vivo": [
   {
    "home": "Internacional",
@@ -118,70 +118,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Resistencia",
-   "away": "Cerro Porteno",
-   "liga": "Copa Paraguay",
-   "minuto": 11,
-   "score": 9.3,
+   "home": "Bolívar",
+   "away": "ABB",
+   "liga": "Primera División",
+   "minuto": 14,
+   "score": 9.2,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Anderlecht",
-   "away": "Kairat Almaty",
-   "liga": "UEFA Europa League",
-   "minuto": 14,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Al Wakrah",
-   "away": "Al-Rayyan SC",
-   "liga": "Stars League",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-27",
-   "es_hoy": false
-  },
-  {
-   "home": "FC Iberia 1999",
-   "away": "Jagiellonia",
-   "liga": "UEFA Europa League",
-   "minuto": 12,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Ararat-Armenia",
-   "away": "Universitatea Craiova",
-   "liga": "UEFA Europa League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Simba",
-   "away": "Coastal Union",
-   "liga": "Ligi kuu Bara",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-27",
-   "es_hoy": false
+   "fecha": "2026-08-28",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -658,7 +603,7 @@
   "n": 2124,
   "ganados": 1476,
   "win_rate": 69,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
