@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T15:52:10.907229+00:00",
+ "actualizado": "2026-08-28T15:59:42.227511+00:00",
  "partidos_vivo": [
   {
    "home": "Honka",
@@ -292,7 +292,7 @@
   "balance_dia": 223.0,
   "ganados": 2110,
   "perdidos": 906,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 11,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -867,7 +867,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 75
  },
  "stats_banker": {
