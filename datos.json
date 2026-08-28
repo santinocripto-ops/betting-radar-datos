@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T07:59:37.881260+00:00",
+ "actualizado": "2026-08-28T08:07:15.369785+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "10:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -105,12 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:57",
    "tipo": "smart_money"
   }
  ],
