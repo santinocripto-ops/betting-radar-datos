@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T06:16:50.990485+00:00",
+ "actualizado": "2026-08-28T06:24:12.546505+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "08:24",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -106,12 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "03:57",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "03:42",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -654,6 +654,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
+   "apuesta": "SI — Will United Russia (ER) gain the most seats in the next Russ",
+   "usdc": 130869,
+   "prob": 76.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xb",
+   "hora": "08:24"
+  },
   {
    "titulo": "Will Manchester City FC win on 2026-08-28?",
    "apuesta": "NO, Manchester City no ganara",
