@@ -1,23 +1,23 @@
 {
- "actualizado": "2026-08-28T22:01:35.203282+00:00",
+ "actualizado": "2026-08-28T22:54:23.397100+00:00",
  "partidos_vivo": [
   {
-   "home": "Mushuc Runa SC",
-   "away": "Delfin SC",
-   "liga": "Liga Pro",
-   "minuto": 63,
-   "marcador": "1-0",
+   "home": "Club Sp. San Lorenzo",
+   "away": "Nacional Asuncion",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 64,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
+   "score": 3.8,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Delfin SC buscará el empate",
-    "🎯 10 remates totales",
-    "⏱ 27 minutos por jugar — margen justo"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Club Sp. San Lorenzo buscará el empate",
+    "⏱ 26 minutos por jugar — margen justo"
    ]
   }
  ],
