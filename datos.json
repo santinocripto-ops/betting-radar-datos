@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T08:45:02.943170+00:00",
+ "actualizado": "2026-08-28T08:52:37.356865+00:00",
  "partidos_vivo": [
   {
    "home": "CD Olimpia",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:52",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -106,12 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "07:38",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "05:36",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
