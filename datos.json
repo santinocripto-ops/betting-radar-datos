@@ -1,42 +1,23 @@
 {
- "actualizado": "2026-08-28T12:32:22.470747+00:00",
+ "actualizado": "2026-08-28T12:39:50.605771+00:00",
  "partidos_vivo": [
   {
-   "home": "Ansan Greeners",
-   "away": "Daegu FC",
-   "liga": "K League 2",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 6.4,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⏱ 25 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "Jeonnam Dragons",
-   "away": "Cheonan City",
-   "liga": "K League 2",
-   "minuto": 63,
+   "home": "Sabah FA",
+   "away": "Penang",
+   "liga": "Super League",
+   "minuto": 49,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 6.0,
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 4.43 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cheonan City buscará el empate",
-    "⏱ 27 minutos por jugar — margen justo"
+    "⚽ 1 gol — Penang buscará el empate"
    ]
   }
  ],
