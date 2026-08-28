@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T22:54:23.397100+00:00",
+ "actualizado": "2026-08-28T23:01:39.049348+00:00",
  "partidos_vivo": [
   {
    "home": "Club Sp. San Lorenzo",
@@ -149,7 +149,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-28",
    "es_hoy": false
   },
@@ -211,16 +211,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45595.0,
-  "balance_total": 35595.0,
+  "capital": 45295.0,
+  "balance_total": 35295.0,
   "balance_dia": 0.0,
   "ganados": 2151,
-  "perdidos": 920,
-  "pendientes": 3,
+  "perdidos": 923,
+  "pendientes": 0,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
-  "roi": 11.6,
+  "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -662,7 +662,7 @@
   }
  ],
  "stats_gt": {
-  "n": 2171,
+  "n": 2172,
   "ganados": 1507,
   "win_rate": 69,
   "hoy": 0
