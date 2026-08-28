@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T18:42:12.034227+00:00",
+ "actualizado": "2026-08-28T18:42:28.881068+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ittihad",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:35",
    "tipo": "live"
@@ -271,12 +277,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
    "tipo": "live"
   },
   {
@@ -362,6 +362,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Cremonese",
+   "away": "Modena",
+   "liga": "Serie B",
+   "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
    "home": "Nottingham Forest U21",
    "away": "Manchester City U21",
    "liga": "Premier League 2 Division One",
@@ -410,17 +421,6 @@
    "away": "MTK Budapest",
    "liga": "NB I",
    "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Groningen",
-   "away": "Fortuna Sittard",
-   "liga": "Eredivisie",
-   "minuto": 11,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -1060,7 +1060,7 @@
   "n": 2137,
   "ganados": 1483,
   "win_rate": 69,
-  "hoy": 37
+  "hoy": 38
  },
  "stats_dia": {
   "ganados": 24,
