@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T17:16:41.352379+00:00",
+ "actualizado": "2026-08-28T17:17:06.212958+00:00",
  "partidos_vivo": [
   {
    "home": "Atlantis",
@@ -333,54 +333,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Qatar SC",
-   "away": "Al Sadd",
-   "liga": "Stars League",
-   "minuto": 14,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Koln W",
-   "away": "1899 Hoffenheim W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 13,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Muharraq",
-   "away": "Al Ahli",
-   "liga": "Premier League",
+   "home": "União de Leiria",
+   "away": "Tondela",
+   "liga": "Segunda Liga",
    "minuto": 16,
-   "score": 9.2,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Fayha",
-   "away": "Abha",
-   "liga": "Pro League",
-   "minuto": 19,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Wisla Plock",
-   "away": "Korona Kielce",
-   "liga": "Ekstraklasa",
-   "minuto": 20,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -388,10 +344,54 @@
    "es_hoy": true
   },
   {
-   "home": "Atlantis",
-   "away": "HIFK Helsinki",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 17,
+   "home": "Nykobing FC",
+   "away": "Roskilde",
+   "liga": "2. Division",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Racing Santander",
+   "away": "Elche",
+   "liga": "La Liga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "AC Horsens",
+   "away": "Viborg",
+   "liga": "Superliga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Gomel",
+   "away": "Belshina",
+   "liga": "Premier League",
+   "minuto": 15,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-28",
+   "es_hoy": true
+  },
+  {
+   "home": "Böljan",
+   "away": "Qviding FIF",
+   "liga": "Division 2 - Västra Götaland",
+   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1003,7 +1003,7 @@
   "n": 2129,
   "ganados": 1477,
   "win_rate": 69,
-  "hoy": 15
+  "hoy": 23
  },
  "stats_dia": {
   "ganados": 13,
