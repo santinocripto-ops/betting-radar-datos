@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:13:26.417205+00:00",
+ "actualizado": "2026-08-29T09:20:41.927466+00:00",
  "partidos_vivo": [
   {
    "home": "Dumbrăviţa",
@@ -22,6 +22,18 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "11:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:20",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -80,18 +92,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "10:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:28",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:14",
    "tipo": "live"
   }
  ],
@@ -235,7 +235,7 @@
   "balance_dia": 589.0,
   "ganados": 2170,
   "perdidos": 927,
-  "pendientes": 3,
+  "pendientes": 7,
   "ganados_dia": 17,
   "perdidos_dia": 4,
   "win_rate": 70.1,
@@ -382,6 +382,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Chrudim",
+   "away": "Baník Souš",
+   "liga": "3. liga - CFL B",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Broadmeadow Magic",
    "away": "Weston Bears",
@@ -616,6 +623,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Liverpool FC win on 2026-08-29?",
+   "apuesta": "SI, Liverpool ganara",
+   "usdc": 583051,
+   "prob": 67.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "11:20"
+  },
+  {
    "titulo": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
    "apuesta": "SI, Map Handicap: VIT (-1.5) ganara",
    "usdc": 104124,
@@ -677,15 +693,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "05:28"
-  },
-  {
-   "titulo": "Will Coventry City FC win on 2026-08-29?",
-   "apuesta": "SI, Coventry City ganara",
-   "usdc": 143421,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "00:00"
   }
  ],
  "stats_gt": {
@@ -697,7 +704,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 4,
-  "en_juego": 5,
+  "en_juego": 9,
   "win_rate": 82
  },
  "stats_banker": {
