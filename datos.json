@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T10:40:55.304671+00:00",
+ "actualizado": "2026-08-29T10:47:20.524558+00:00",
  "partidos_vivo": [
   {
    "home": "FC Tallinn",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -104,12 +110,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "12:13",
    "tipo": "live"
   }
@@ -181,6 +181,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Bucheon FC 1995",
+   "away": "FC Anyang",
+   "liga": "K League 1",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Radomiak Radom",
    "away": "Cracovia Krakow",
    "liga": "Ekstraklasa",
@@ -229,17 +240,6 @@
    "away": "AFC Bournemouth U18",
    "liga": "U18 Premier League - South",
    "minuto": 13,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Aston Villa U18",
-   "away": "Crystal Palace U18",
-   "liga": "U18 Premier League - South",
-   "minuto": 11,
    "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -717,7 +717,7 @@
   "n": 2177,
   "ganados": 1509,
   "win_rate": 69,
-  "hoy": 19
+  "hoy": 20
  },
  "stats_dia": {
   "ganados": 19,
