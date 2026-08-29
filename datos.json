@@ -1,46 +1,33 @@
 {
- "actualizado": "2026-08-29T07:30:23.966939+00:00",
+ "actualizado": "2026-08-29T07:37:28.836369+00:00",
  "partidos_vivo": [
   {
-   "home": "Broadmeadow Magic",
-   "away": "Weston Bears",
-   "liga": "Northern NSW NPL",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 9.0,
+   "home": "Cooma Tigers FC",
+   "away": "Canberra Juventus",
+   "liga": "Capital Territory NPL",
+   "minuto": 64,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Yenisey W",
-   "away": "Rostov W",
-   "liga": "Supreme Division Women",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 6.6,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "09:37",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -105,12 +92,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "09:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "09:06",
    "tipo": "live"
   }
  ],
@@ -212,7 +193,7 @@
   "balance_dia": 400.0,
   "ganados": 2165,
   "perdidos": 926,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 12,
   "perdidos_dia": 3,
   "win_rate": 70.0,
@@ -674,7 +655,7 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 3,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 81
  },
  "stats_banker": {
