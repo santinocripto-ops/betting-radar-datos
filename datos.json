@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T00:05:37.551959+00:00",
+ "actualizado": "2026-08-29T00:06:33.516432+00:00",
  "partidos_vivo": [
   {
    "home": "Cobresal",
@@ -42,10 +42,10 @@
  ],
  "alertas": [
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:05",
-   "tipo": "smart_money"
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Necaxa vs Cruz Azul · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.29 (1",
+   "hora": "02:06",
+   "tipo": "banker"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -74,7 +74,7 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:04",
+   "hora": "02:05",
    "tipo": "smart_money"
   },
   {
@@ -115,7 +115,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Necaxa",
+   "away": "Cruz Azul",
+   "liga": "Liga MX",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.29,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -695,7 +705,7 @@
  "stats_banker": {
   "ganados": 66,
   "perdidos": 25,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
