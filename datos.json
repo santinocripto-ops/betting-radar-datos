@@ -1,237 +1,243 @@
 {
- "actualizado": "2026-08-29T16:22:44.284739+00:00",
+ "actualizado": "2026-08-29T16:31:14.004663+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Krasnodar",
-   "away": "FC Rostov",
-   "liga": "Premier League",
+   "home": "Budapest Honved",
+   "away": "Zalaegerszegi TE",
+   "liga": "NB I",
+   "minuto": 64,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚽ 1 gol — Zalaegerszegi TE buscará el empate",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Grazer AK",
+   "away": "Wolfsberger AC",
+   "liga": "Bundesliga",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 86,
+   "momentum_away": 14,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.73 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Sabadell",
+   "away": "Almeria",
+   "liga": "Segunda División",
    "minuto": 59,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 48,
-   "momentum_away": 52,
+   "momentum_home": 80,
+   "momentum_away": 20,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 1 gol — FC Rostov buscará el empate",
+    "⚽ 1 gol — Almeria buscará el empate",
+    "🎯 15 remates totales",
+    "⏱ 31 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Levante",
+   "away": "Real Betis",
+   "liga": "La Liga",
+   "minuto": 55,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 42,
+   "momentum_away": 58,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 28 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Pardubice",
+   "away": "Artis",
+   "liga": "Czech Liga",
+   "minuto": 63,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 9.9,
+   "recomendar": true,
+   "momentum_home": 55,
+   "momentum_away": 45,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
+    "⚽ 1 gol — Artis buscará el empate",
     "🎯 17 remates totales"
    ]
   },
   {
-   "home": "Alverca",
-   "away": "Santa Clara",
-   "liga": "Primeira Liga",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Arouca",
-   "away": "Maritimo",
-   "liga": "Primeira Liga",
+   "home": "Zbrojovka Brno",
+   "away": "Zlin",
+   "liga": "Czech Liga",
    "minuto": 63,
    "marcador": "2-1",
    "apuesta": "Over 3.5",
-   "score": 9.4,
+   "score": 9.1,
    "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lokomotíva Košice",
-   "away": "Raslavice",
-   "liga": "3. liga - East",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Slovan Duslo Šaľa",
-   "away": "MŠK Senec",
-   "liga": "3. liga - West",
-   "minuto": 64,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Čadca",
-   "away": "Baník Kalinovo",
-   "liga": "3. liga - Center",
-   "minuto": 65,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Winterthur II",
-   "away": "Mendrisio",
-   "liga": "1. Liga Classic - Group 3",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.9,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Winterthur II buscará el empate"
-   ]
-  },
-  {
-   "home": "Tomislav",
-   "away": "Travnik",
-   "liga": "1st League - FBiH",
-   "minuto": 63,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 6.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Tomislav pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Šamorín",
-   "away": "Žilina II",
-   "liga": "2. liga",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 5.3,
-   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga por encima de la media: 2.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto",
+    "🎯 12 remates totales"
    ]
   },
   {
-   "home": "Čapljina",
-   "away": "Bratstvo Gračanica",
-   "liga": "1st League - FBiH",
+   "home": "Slovan Velvary",
+   "away": "Karlovy Vary",
+   "liga": "4. liga - Divizie B",
    "minuto": 64,
    "marcador": "2-1",
    "apuesta": "Over 3.5",
-   "score": 4.3,
-   "recomendar": false,
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 4.19 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "📊 Čapljina: Over2.5 histórico 80%"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Slovan Sabinov",
-   "away": "Lipany",
-   "liga": "3. liga - East",
+   "home": "Al Jazira Al Hamra",
+   "away": "Al Bataeh",
+   "liga": "Division 1",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Friska Viljor",
+   "away": "Umea FF",
+   "liga": "Division 2 - Norrland",
    "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 1.9,
-   "recomendar": false,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Tefik Canga",
-   "away": "Ramiz Sadiku",
-   "liga": "Liga E Pare",
-   "minuto": 61,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 0.0,
-   "recomendar": false,
+   "home": "Killas W",
+   "away": "Sporting Cristal W",
+   "liga": "Liga Women",
+   "minuto": 62,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 29 minutos por jugar — margen justo"
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Shakhter Soligorsk",
+   "away": "Lida",
+   "liga": "1. Division",
+   "minuto": 65,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.18 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "VIFK W",
+   "away": "JyPK W",
+   "liga": "Kansallinen Liiga",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
   {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "18:31",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:22",
@@ -290,12 +296,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:14",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -425,7 +425,7 @@
   "balance_dia": 1240.0,
   "ganados": 2221,
   "perdidos": 950,
-  "pendientes": 12,
+  "pendientes": 21,
   "ganados_dia": 68,
   "perdidos_dia": 27,
   "win_rate": 70.0,
@@ -1016,7 +1016,7 @@
  "stats_dia": {
   "ganados": 70,
   "perdidos": 28,
-  "en_juego": 12,
+  "en_juego": 21,
   "win_rate": 71
  },
  "stats_banker": {
