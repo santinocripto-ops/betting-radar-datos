@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:37:51.888046+00:00",
+ "actualizado": "2026-08-29T11:44:43.117030+00:00",
  "partidos_vivo": [
   {
    "home": "Radomiak Radom",
@@ -138,6 +138,36 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:37",
    "tipo": "live"
@@ -177,36 +207,6 @@
    "texto": "──────────────────────────────",
    "hora": "12:40",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:40",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "12:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "12:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:27",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "12:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
