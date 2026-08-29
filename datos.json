@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:42:15.696305+00:00",
+ "actualizado": "2026-08-29T12:42:27.496906+00:00",
  "partidos_vivo": [
   {
    "home": "Tus Dassendorf",
@@ -119,6 +119,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "14:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "14:42",
    "tipo": "live"
@@ -157,12 +163,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:19",
    "tipo": "live"
   },
   {
@@ -248,6 +248,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Viktoria Plzeň W",
+   "away": "Baník Ostrava W",
+   "liga": "1. Liga Women",
+   "minuto": 11,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Verl",
    "away": "Fortuna Köln",
    "liga": "3. Liga",
@@ -295,17 +306,6 @@
    "home": "Memmingen",
    "away": "SpVgg Unterhaching",
    "liga": "Regionalliga - Bayern",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "SV Wehen",
-   "away": "Rot-Weiß Essen",
-   "liga": "3. Liga",
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
@@ -878,7 +878,7 @@
   "n": 2191,
   "ganados": 1519,
   "win_rate": 69,
-  "hoy": 37
+  "hoy": 38
  },
  "stats_dia": {
   "ganados": 34,
