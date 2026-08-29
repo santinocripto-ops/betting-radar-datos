@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:14:17.533689+00:00",
+ "actualizado": "2026-08-29T16:15:17.875244+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -232,75 +232,75 @@
  ],
  "alertas": [
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "17:56",
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:15",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:47",
+   "hora": "18:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:14",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:40",
+   "hora": "18:14",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:34",
+   "hora": "18:14",
    "tipo": "live"
   },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
-   "hora": "17:33",
+   "hora": "18:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
    "tipo": "smart_money"
   }
  ],
@@ -700,8 +700,8 @@
     "cuota": 1.35,
     "pinnacle": true,
     "delta": 3.54,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-29T14:00:00+00:00",
     "ts": "2026-08-29T13:06:01.492999+00:00"
    },
@@ -917,11 +917,11 @@
    }
   ],
   "balance": {
-   "ganados": 170,
+   "ganados": 171,
    "perdidos": 76,
-   "pendientes": 1,
-   "acierto": 69.1,
-   "total": 246
+   "pendientes": 0,
+   "acierto": 69.2,
+   "total": 247
   }
  },
  "mejor_dia": {
@@ -934,6 +934,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will AC Monza win on 2026-08-29?",
+   "apuesta": "SI, AC Monza ganara",
+   "usdc": 201528,
+   "prob": 32.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:14"
+  },
   {
    "titulo": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
    "apuesta": "SI, BV Borussia 09 Dortmund ganara",
