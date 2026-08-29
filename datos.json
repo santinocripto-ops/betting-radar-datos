@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T22:17:15.444237+00:00",
+ "actualizado": "2026-08-29T22:23:42.133636+00:00",
  "partidos_vivo": [
   {
    "home": "Guayaquil City FC",
@@ -118,6 +118,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:23",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "00:17",
@@ -181,12 +187,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "22:37",
    "tipo": "live"
   }
  ],
@@ -826,6 +826,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season",
+   "apuesta": "SI, LoL: Team Liquid ganara",
+   "usdc": 302327,
+   "prob": 98.2,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "00:23"
+  },
+  {
    "titulo": "Will Chelsea FC win on 2026-08-30?",
    "apuesta": "NO, Chelsea no ganara",
    "usdc": 316379,
@@ -887,15 +896,6 @@
    "n_traders": 2,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "20:41"
-  },
-  {
-   "titulo": "Real Sociedad de Fútbol vs. RCD Espanyol de Barcelona: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 93058,
-   "prob": 67.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "20:25"
   }
  ],
  "stats_gt": {
