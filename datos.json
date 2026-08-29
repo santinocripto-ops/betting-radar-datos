@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:13:03.247377+00:00",
+ "actualizado": "2026-08-29T13:14:04.447941+00:00",
  "partidos_vivo": [
   {
    "home": "Chengdu Better City",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "15:13",
    "tipo": "live"
@@ -290,18 +302,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:04",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:55",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -352,54 +352,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Nyiregyhaza",
-   "away": "Paks",
-   "liga": "NB I",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Viktoria Plzeň W",
-   "away": "Baník Ostrava W",
-   "liga": "1. Liga Women",
+   "home": "Sparta Rotterdam II",
+   "away": "HHC",
+   "liga": "Tweede Divisie",
    "minuto": 11,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Verl",
-   "away": "Fortuna Köln",
-   "liga": "3. Liga",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "AIK W",
-   "away": "Kristianstad W",
-   "liga": "Damallsvenskan",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Skellefteå",
-   "away": "Boden",
-   "liga": "Division 2 - Norrland",
-   "minuto": 19,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -407,10 +363,54 @@
    "es_hoy": true
   },
   {
-   "home": "Pirmasens",
-   "away": "Eisbachtal",
-   "liga": "Oberliga - Rheinland-Pfalz / Saar",
+   "home": "Ijsselmeervogels",
+   "away": "RKAV Volendam",
+   "liga": "Tweede Divisie",
+   "minuto": 10,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Linköping W",
+   "away": "Göteborg W",
+   "liga": "Elitettan",
+   "minuto": 12,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Alingsås W",
+   "away": "Örebro SK W",
+   "liga": "Elitettan",
    "minuto": 13,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Växjö W",
+   "away": "Malmö FF W",
+   "liga": "Damallsvenskan",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Hammarby W",
+   "away": "Vittsjö W",
+   "liga": "Damallsvenskan",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -948,7 +948,7 @@
   "n": 2193,
   "ganados": 1520,
   "win_rate": 69,
-  "hoy": 39
+  "hoy": 46
  },
  "stats_dia": {
   "ganados": 40,
