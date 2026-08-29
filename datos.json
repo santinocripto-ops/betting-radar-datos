@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:18:16.761704+00:00",
+ "actualizado": "2026-08-29T18:25:42.792830+00:00",
  "partidos_vivo": [
   {
    "home": "Fiorentina",
@@ -101,6 +101,24 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:25",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:18",
    "tipo": "live"
   },
@@ -151,24 +169,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:00",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "20:00",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:46",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -219,6 +219,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Zaglebie Lubin",
+   "away": "Pogon Szczecin",
+   "liga": "Ekstraklasa",
+   "minuto": 10,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Independiente del Valle",
+   "away": "Universidad Catolica",
+   "liga": "Liga Pro",
+   "minuto": 25,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Al-Fateh",
    "away": "Al-Ittihad FC",
    "liga": "Pro League",
@@ -261,28 +283,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Ujpest",
-   "away": "Vasas",
-   "liga": "NB I",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Lokomotiv",
-   "away": "Dynamo",
-   "liga": "Premier League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -292,7 +292,7 @@
   "balance_dia": 1735.0,
   "ganados": 2240,
   "perdidos": 956,
-  "pendientes": 13,
+  "pendientes": 15,
   "ganados_dia": 87,
   "perdidos_dia": 33,
   "win_rate": 70.1,
@@ -802,6 +802,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Real Sociedad de Fútbol vs. RCD Espanyol de Barcelona: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 93058,
+   "prob": 67.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:25"
+  },
+  {
    "titulo": "Tottenham Hotspur FC vs. Newcastle United FC: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 18570,
@@ -863,27 +872,18 @@
    "n_traders": 3,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "18:14"
-  },
-  {
-   "titulo": "Will Real Betis Balompié win on 2026-08-29?",
-   "apuesta": "NO, Real Betis Balompié no ganara",
-   "usdc": 39809,
-   "prob": 80.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "17:33"
   }
  ],
  "stats_gt": {
   "n": 2243,
   "ganados": 1555,
   "win_rate": 69,
-  "hoy": 82
+  "hoy": 84
  },
  "stats_dia": {
   "ganados": 89,
   "perdidos": 34,
-  "en_juego": 13,
+  "en_juego": 15,
   "win_rate": 72
  },
  "stats_banker": {
