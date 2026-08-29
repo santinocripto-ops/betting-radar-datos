@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T01:04:40.734510+00:00",
+ "actualizado": "2026-08-29T01:11:46.844401+00:00",
  "partidos_vivo": [
   {
    "home": "Nautico Recife",
@@ -60,6 +60,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "03:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Metalul Buzău vs Chindia Targoviste · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cu",
@@ -125,12 +131,6 @@
    "texto": "⚽ Necaxa vs Cruz Azul · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.29 (1",
    "hora": "02:06",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -218,7 +218,7 @@
   "balance_dia": 0.0,
   "ganados": 2153,
   "perdidos": 923,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -364,7 +364,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "NJ/NY Gotham FC W",
+   "away": "Portland Thorns W",
+   "liga": "NWSL Women",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -380,6 +388,34 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-29T09:00:00+00:00",
     "ts": "2026-08-28T21:06:44.505599+00:00"
+   },
+   {
+    "home": "Metalul Buzău",
+    "away": "Chindia Targoviste",
+    "liga": "Liga II",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "pinnacle": true,
+    "delta": 3.86,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T08:00:00+00:00",
+    "ts": "2026-08-29T01:04:21.412140+00:00"
+   },
+   {
+    "home": "CS Afumati",
+    "away": "Unirea Slobozia",
+    "liga": "Liga II",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 9,
+    "pinnacle": true,
+    "delta": 4.21,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T08:00:00+00:00",
+    "ts": "2026-08-29T01:04:23.825495+00:00"
    },
    {
     "home": "Necaxa",
@@ -548,40 +584,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-28T16:30:00+00:00",
     "ts": "2026-08-28T16:09:17.389266+00:00"
-   },
-   {
-    "home": "Voitsberg",
-    "away": "FC Liefering",
-    "liga": "2. Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "pinnacle": true,
-    "delta": 4.51,
-    "marcador": "2-3",
-    "resultado": "perdido",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T16:09:17.890093+00:00"
-   },
-   {
-    "home": "Al Riyadh",
-    "away": "NEOM",
-    "liga": "Pro League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "pinnacle": true,
-    "delta": 3.95,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-08-28T15:50:00+00:00",
-    "ts": "2026-08-28T15:08:07.316689+00:00"
    }
   ],
   "balance": {
    "ganados": 163,
    "perdidos": 73,
-   "pendientes": 5,
+   "pendientes": 7,
    "acierto": 69.1,
    "total": 236
   }
@@ -672,7 +680,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 7,
   "win_rate": 0
  },
  "stats_banker": {
