@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T03:14:44.734313+00:00",
+ "actualizado": "2026-08-29T03:21:43.520908+00:00",
  "partidos_vivo": [
   {
    "home": "Atlante FC",
@@ -81,6 +81,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "05:14",
    "tipo": "live"
@@ -144,12 +150,6 @@
    "texto": "──────────────────────────────",
    "hora": "04:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "03:47",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -209,6 +209,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Club Tijuana",
+   "away": "U.N.A.M. - Pumas",
+   "liga": "Liga MX",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "NJ/NY Gotham FC W",
    "away": "Portland Thorns W",
@@ -685,7 +696,7 @@
   "n": 2174,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 8,
