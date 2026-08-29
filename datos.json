@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T02:22:29.653168+00:00",
+ "actualizado": "2026-08-29T02:29:25.877210+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa",
@@ -99,6 +99,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:29",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "04:15",
@@ -163,12 +169,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "03:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "02:48",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
