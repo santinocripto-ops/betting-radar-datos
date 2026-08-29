@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T23:06:00.978424+00:00",
+ "actualizado": "2026-08-29T23:14:11.703942+00:00",
  "partidos_vivo": [
   {
    "home": "Botafogo SP",
@@ -194,6 +194,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:14",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "00:58",
@@ -257,12 +263,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "23:45",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:07",
    "tipo": "smart_money"
   }
  ],
