@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T00:06:33.516432+00:00",
+ "actualizado": "2026-08-29T00:13:05.480639+00:00",
  "partidos_vivo": [
   {
    "home": "Cobresal",
@@ -699,7 +699,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
