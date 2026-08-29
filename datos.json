@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T10:27:23.061517+00:00",
+ "actualizado": "2026-08-29T10:27:32.628773+00:00",
  "partidos_vivo": [
   {
    "home": "Qingdao Jonoon",
@@ -314,6 +314,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Urawa",
+   "away": "Yokohama F. Marinos",
+   "liga": "J1 League",
+   "minuto": 24,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Portimonense",
    "away": "Leixoes",
    "liga": "Segunda Liga",
@@ -363,17 +374,6 @@
    "liga": "III Liga - Group 1",
    "minuto": 12,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Vissel Kobe",
-   "away": "Cerezo Osaka",
-   "liga": "J1 League",
-   "minuto": 10,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -850,7 +850,7 @@
   "n": 2177,
   "ganados": 1509,
   "win_rate": 69,
-  "hoy": 17
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 19,
