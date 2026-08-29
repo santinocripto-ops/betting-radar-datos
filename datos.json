@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T15:41:07.561074+00:00",
+ "actualizado": "2026-08-29T15:47:57.115687+00:00",
  "partidos_vivo": [
   {
    "home": "Heart Of Midlothian",
@@ -234,6 +234,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:40",
    "tipo": "live"
   },
@@ -283,12 +289,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
    "tipo": "smart_money"
   },
   {
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Arges Pitesti",
+   "away": "Sepsi OSK Sfantu Gheorghe",
+   "liga": "Liga I",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Floridsdorfer AC",
    "away": "Wacker Innsbruck",
    "liga": "2. Liga",
@@ -405,17 +416,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Excelsior",
-   "away": "Sparta Rotterdam",
-   "liga": "Eredivisie",
-   "minuto": 14,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -425,7 +425,7 @@
   "balance_dia": 1406.0,
   "ganados": 2215,
   "perdidos": 945,
-  "pendientes": 19,
+  "pendientes": 21,
   "ganados_dia": 62,
   "perdidos_dia": 22,
   "win_rate": 70.1,
@@ -975,12 +975,12 @@
   "n": 2219,
   "ganados": 1538,
   "win_rate": 69,
-  "hoy": 61
+  "hoy": 62
  },
  "stats_dia": {
   "ganados": 64,
   "perdidos": 23,
-  "en_juego": 19,
+  "en_juego": 21,
   "win_rate": 74
  },
  "stats_banker": {
