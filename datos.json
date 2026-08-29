@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:09:09.834683+00:00",
+ "actualizado": "2026-08-29T14:16:18.376119+00:00",
  "partidos_vivo": [
   {
    "home": "Motor Lublin",
@@ -425,7 +425,7 @@
   "balance_dia": 967.0,
   "ganados": 2204,
   "perdidos": 943,
-  "pendientes": 16,
+  "pendientes": 18,
   "ganados_dia": 51,
   "perdidos_dia": 20,
   "win_rate": 70.0,
@@ -715,8 +715,8 @@
     "cuota": null,
     "pinnacle": true,
     "delta": 3.53,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-29T11:30:00+00:00",
     "ts": "2026-08-29T08:07:34.564527+00:00"
    },
@@ -917,11 +917,11 @@
    }
   ],
   "balance": {
-   "ganados": 169,
+   "ganados": 170,
    "perdidos": 76,
-   "pendientes": 2,
-   "acierto": 69.0,
-   "total": 245
+   "pendientes": 1,
+   "acierto": 69.1,
+   "total": 246
   }
  },
  "mejor_dia": {
@@ -971,7 +971,7 @@
  "stats_dia": {
   "ganados": 53,
   "perdidos": 21,
-  "en_juego": 16,
+  "en_juego": 18,
   "win_rate": 72
  },
  "stats_banker": {
