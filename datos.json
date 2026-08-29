@@ -1,141 +1,52 @@
 {
- "actualizado": "2026-08-29T01:40:21.335633+00:00",
+ "actualizado": "2026-08-29T01:47:39.512727+00:00",
  "partidos_vivo": [
   {
-   "home": "NJ/NY Gotham FC W",
-   "away": "Portland Thorns W",
-   "liga": "NWSL Women",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Tecnico Universitario",
-   "away": "Deportivo Cuenca",
-   "liga": "Liga Pro",
-   "minuto": 57,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 8.9,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Deportivo Cuenca pierde por 2 — atacará sin freno",
-    "🎯 10 remates totales"
-   ]
-  },
-  {
-   "home": "Toluca W",
-   "away": "León W",
-   "liga": "Liga MX Femenil",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Colorado Rapids II",
-   "away": "Ventura County",
-   "liga": "MLS Next Pro",
-   "minuto": 56,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Charlotte Independence",
-   "away": "Alta",
-   "liga": "USL League One",
+   "home": "Boca Juniors",
+   "away": "Lanus",
+   "liga": "Liga Profesional Argentina",
    "minuto": 60,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Inca Aruba",
-   "away": "Cacahuatique",
-   "liga": "Primera Division",
-   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 72,
+   "momentum_away": 28,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔒 Liga poco goleadora: 2.17 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "St. Louis City II",
-   "away": "North Texas",
-   "liga": "MLS Next Pro",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 5.5,
+   "home": "Chapulineros",
+   "away": "Jaguares de Chiapas",
+   "liga": "Primera Premier",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 1.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "🔒 Liga muy cerrada: 1.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "03:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
@@ -199,12 +110,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
    "hora": "02:20",
    "tipo": "live"
   }
@@ -294,7 +199,7 @@
   "balance_dia": 0.0,
   "ganados": 2153,
   "perdidos": 923,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -756,7 +661,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 0
  },
  "stats_banker": {
