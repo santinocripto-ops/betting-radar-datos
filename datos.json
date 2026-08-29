@@ -1,198 +1,102 @@
 {
- "actualizado": "2026-08-29T23:14:11.703942+00:00",
+ "actualizado": "2026-08-29T23:15:17.427188+00:00",
  "partidos_vivo": [
   {
-   "home": "Botafogo SP",
-   "away": "Cuiaba",
-   "liga": "Serie B",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Atletico-MG",
-   "away": "Vitoria",
-   "liga": "Serie A",
-   "minuto": 56,
+   "home": "Tlaxcala",
+   "away": "Venados FC",
+   "liga": "Liga de Expansión MX",
+   "minuto": 53,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 9.8,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 1 gol — Vitoria buscará el empate",
-    "🎯 14 remates totales"
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Venados FC buscará el empate"
    ]
   },
   {
-   "home": "Jaguares",
-   "away": "America de Cali",
-   "liga": "Primera A",
-   "minuto": 53,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 36,
-   "momentum_away": 64,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.78 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Deportes Limache",
-   "away": "Everton de Vina",
-   "liga": "Primera División",
-   "minuto": 55,
-   "marcador": "0-2",
+   "home": "Huracan",
+   "away": "Estudiantes de Rio Cuarto",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 56,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 8.4,
-   "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
+   "score": 6.0,
+   "recomendar": false,
+   "momentum_home": 61,
+   "momentum_away": 39,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 2 goles — partido activo",
+    "🎯 15 remates totales",
+    "📈 xG total: 2.27 — buenas ocasiones generadas"
+   ]
+  },
+  {
+   "home": "Deportivo Cali W",
+   "away": "Santa Fe W",
+   "liga": "Liga Femenina",
+   "minuto": 57,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Deportivo Recoleta",
-   "away": "Olimpia",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 57,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 0,
-   "momentum_away": 100,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Datos en vivo muy limitados — baja fiabilidad",
-    "⚽ 2 goles — partido activo",
-    "⚡ Deportivo Recoleta pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Platense",
-   "away": "Inter",
-   "liga": "Primera Division",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Union Espanola",
-   "away": "Rangers de Talca",
-   "liga": "Primera B",
-   "minuto": 56,
-   "marcador": "0-1",
+   "home": "Paysandu",
+   "away": "Atenas",
+   "liga": "Segunda División",
+   "minuto": 54,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 6.1,
+   "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "🔒 Liga poco goleadora: 2.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Union Espanola buscará el empate",
-    "⏱ 34 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Pioneros de Cancún",
-   "away": "Celaya",
-   "liga": "Primera Premier",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Ciervos",
-   "away": "Dragones de Oaxaca",
-   "liga": "Liga Premier Serie A",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 3.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⚡ Ciervos pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Defensores de Cambaceres",
-   "away": "Deportivo Paraguayo",
-   "liga": "Primera C",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.68 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Atenas buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "01:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -246,24 +150,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "23:47",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "23:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "23:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "23:45",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -314,6 +200,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Querétaro W",
+   "away": "Monterrey W",
+   "liga": "Liga MX Femenil",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
+   "home": "Atlas",
+   "away": "Club Queretaro",
+   "liga": "Liga MX",
+   "minuto": 13,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
    "home": "Kansas City W",
    "away": "North Carolina Courage W",
    "liga": "NWSL Women",
@@ -356,28 +264,6 @@
    "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": false
-  },
-  {
-   "home": "Rosario Central",
-   "away": "Gimnasia L.P.",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 23,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Cercle Brugge",
-   "away": "Lommel United",
-   "liga": "Jupiler Pro League",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": false
   }
  ],
  "banca": {
@@ -387,7 +273,7 @@
   "balance_dia": 0.0,
   "ganados": 2260,
   "perdidos": 968,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
