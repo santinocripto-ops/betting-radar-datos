@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:06:00.367143+00:00",
+ "actualizado": "2026-08-29T09:13:11.040402+00:00",
  "partidos_vivo": [
   {
    "home": "Dumbrăviţa",
@@ -22,6 +22,30 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "11:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "11:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:12",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ 1. FC Heidenheim vs Dynamo Dresden · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuo",
@@ -69,30 +93,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "10:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:14",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "10:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "10:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -396,6 +396,20 @@
     "ts": "2026-08-29T08:07:34.564527+00:00"
    },
    {
+    "home": "1. FC Heidenheim",
+    "away": "Dynamo Dresden",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "pinnacle": true,
+    "delta": 3.4,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T11:00:00+00:00",
+    "ts": "2026-08-29T09:05:42.090419+00:00"
+   },
+   {
     "home": "UCSA",
     "away": "Inhulets",
     "liga": "Persha Liga",
@@ -576,26 +590,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-28T16:30:00+00:00",
     "ts": "2026-08-28T08:08:10.689170+00:00"
-   },
-   {
-    "home": "VfL Bochum",
-    "away": "VfL Osnabrück",
-    "liga": "2. Bundesliga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "pinnacle": true,
-    "delta": 3.06,
-    "marcador": "0-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T11:10:00.999601+00:00"
    }
   ],
   "balance": {
    "ganados": 167,
    "perdidos": 73,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 69.6,
    "total": 240
   }
@@ -604,6 +604,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
+   "apuesta": "SI, Map Handicap: VIT (-1.5) ganara",
+   "usdc": 104124,
+   "prob": 66.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "11:12"
+  },
   {
    "titulo": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Mai",
    "apuesta": "SI, UFC Fight Night: Liu Ce ganara",
@@ -666,15 +675,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "00:00"
-  },
-  {
-   "titulo": "Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi",
-   "apuesta": "SI, ganara",
-   "usdc": 124890,
-   "prob": 45.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "22:48"
   }
  ],
  "stats_gt": {
@@ -686,7 +686,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 4,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 82
  },
  "stats_banker": {
