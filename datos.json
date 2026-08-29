@@ -1,84 +1,52 @@
 {
- "actualizado": "2026-08-29T03:36:06.020995+00:00",
+ "actualizado": "2026-08-29T03:43:31.508588+00:00",
  "partidos_vivo": [
   {
-   "home": "Atlante FC",
-   "away": "Leon",
-   "liga": "Liga MX",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.8,
+   "home": "Dorados",
+   "away": "Monarcas",
+   "liga": "Liga de Expansión MX",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.43 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Dorados buscará el empate"
    ]
   },
   {
-   "home": "Suchitepéquez",
-   "away": "Cobán Imperial",
-   "liga": "Liga Nacional",
+   "home": "Tigres de Alica",
+   "away": "Zacatepec 1948",
+   "liga": "Primera Premier",
    "minuto": 47,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 6.6,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 3.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "🔒 Liga muy cerrada: 1.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sporting San Jose",
-   "away": "Inter San Carlos",
-   "liga": "Primera División",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Inter San Carlos buscará el empate",
-    "⏱ 37 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "San Diego Wave W",
-   "away": "Racing Louisville W",
-   "liga": "NWSL Women",
-   "minuto": 49,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 2.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "05:43",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -119,12 +87,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "05:05",
    "tipo": "smart_money"
   },
   {
@@ -239,7 +201,7 @@
   "balance_dia": 311.0,
   "ganados": 2160,
   "perdidos": 924,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 7,
   "perdidos_dia": 1,
   "win_rate": 70.0,
@@ -701,7 +663,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 1,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 89
  },
  "stats_banker": {
