@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:15:17.875244+00:00",
+ "actualizado": "2026-08-29T16:16:12.498052+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "18:15",
    "tipo": "live"
@@ -277,18 +289,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:14",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
    "tipo": "smart_money"
   },
   {
@@ -352,10 +352,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Arges Pitesti",
-   "away": "Sepsi OSK Sfantu Gheorghe",
-   "liga": "Liga I",
-   "minuto": 15,
+   "home": "Sorrento",
+   "away": "Crotone",
+   "liga": "Serie C - Girone C",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -363,42 +363,9 @@
    "es_hoy": true
   },
   {
-   "home": "Floridsdorfer AC",
-   "away": "Wacker Innsbruck",
-   "liga": "2. Liga",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Halmstad",
-   "away": "Kalmar FF",
-   "liga": "Allsvenskan",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Levante",
-   "away": "Real Betis",
-   "liga": "La Liga",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Hoffenheim II",
-   "away": "SSV Jahn Regensburg",
-   "liga": "3. Liga",
+   "home": "Kayserispor",
+   "away": "Bursaspor",
+   "liga": "1. Lig",
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
@@ -407,11 +374,44 @@
    "es_hoy": true
   },
   {
-   "home": "Arouca",
-   "away": "Maritimo",
-   "liga": "Primeira Liga",
-   "minuto": 16,
+   "home": "Sturm Graz W",
+   "away": "Südburgenland W",
+   "liga": "Frauenliga",
+   "minuto": 14,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Třinec",
+   "away": "Baník Ostrava II",
+   "liga": "FNL",
+   "minuto": 14,
    "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Táborsko",
+   "away": "Ústí nad Labem",
+   "liga": "FNL",
+   "minuto": 13,
+   "score": 8.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Lausanne",
+   "away": "FC Zurich",
+   "liga": "Super League",
+   "minuto": 14,
+   "score": 8.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -993,7 +993,7 @@
   "n": 2225,
   "ganados": 1541,
   "win_rate": 69,
-  "hoy": 62
+  "hoy": 70
  },
  "stats_dia": {
   "ganados": 70,
