@@ -1,87 +1,30 @@
 {
- "actualizado": "2026-08-29T11:51:27.851747+00:00",
+ "actualizado": "2026-08-29T11:58:32.603999+00:00",
  "partidos_vivo": [
   {
-   "home": "Radomiak Radom",
-   "away": "Cracovia Krakow",
-   "liga": "Ekstraklasa",
-   "minuto": 52,
+   "home": "Slovácko W",
+   "away": "Sparta Praha W",
+   "liga": "1. Liga Women",
+   "minuto": 55,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚽ 1 gol — Radomiak Radom buscará el empate",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Urawa",
-   "away": "Yokohama F. Marinos",
-   "liga": "J1 League",
-   "minuto": 65,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 63,
-   "momentum_away": 37,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "🎯 23 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Tokyo Verdy",
-   "away": "Kashima",
-   "liga": "J1 League",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 19,
-   "momentum_away": 81,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Tokyo Verdy pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Rebel",
-   "away": "Metalurh Zaporizhya",
-   "liga": "Druha Liga",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.1,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Metalurh Zaporizhya buscará el empate"
+    "⚽ 1 gol — Slovácko W buscará el empate"
    ]
   },
   {
-   "home": "Avangard Kursk",
-   "away": "Rodina Moskva III",
-   "liga": "Second League - Group 3",
-   "minuto": 60,
+   "home": "IMT Novi Beograd U19",
+   "away": "Jedinstvo U. U19",
+   "liga": "U19 league",
+   "minuto": 63,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 6.5,
@@ -91,19 +34,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Avangard Kursk buscará el empate",
-    "🟥 1 tarjeta(s) roja(s) — más espacio en el campo"
+    "⚽ Liga muy goleadora: 4.45 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "UCSA",
-   "away": "Inhulets",
+   "home": "BAK 07 U19",
+   "away": "Karlsruher SC U19",
+   "liga": "DFB Junioren Pokal",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 6.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Karlsruher SC U19 buscará el empate"
+   ]
+  },
+  {
+   "home": "Polissya II",
+   "away": "Prykarpattia",
    "liga": "Persha Liga",
-   "minuto": 49,
+   "minuto": 55,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 4.1,
+   "score": 5.6,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -112,30 +74,17 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — UCSA buscará el empate"
-   ]
-  },
-  {
-   "home": "Torreense U19",
-   "away": "Sporting CP U19",
-   "liga": "Júniores U19",
-   "minuto": 63,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 0.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 1 gol — Polissya II buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "13:58",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -193,12 +142,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "13:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:07",
    "tipo": "live"
   },
@@ -349,7 +292,7 @@
   "balance_dia": 550.0,
   "ganados": 2171,
   "perdidos": 928,
-  "pendientes": 31,
+  "pendientes": 32,
   "ganados_dia": 18,
   "perdidos_dia": 5,
   "win_rate": 70.1,
@@ -911,7 +854,7 @@
  "stats_dia": {
   "ganados": 19,
   "perdidos": 5,
-  "en_juego": 33,
+  "en_juego": 34,
   "win_rate": 79
  },
  "stats_banker": {
