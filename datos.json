@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:16:18.376119+00:00",
+ "actualizado": "2026-08-29T14:20:05.746978+00:00",
  "partidos_vivo": [
   {
    "home": "Motor Lublin",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:20",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "16:09",
@@ -289,12 +295,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:44",
    "tipo": "live"
   },
   {
