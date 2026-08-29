@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T17:24:08.298265+00:00",
+ "actualizado": "2026-08-29T17:30:40.582107+00:00",
  "partidos_vivo": [
   {
    "home": "Diyala",
@@ -175,6 +175,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:30",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
@@ -237,12 +243,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:38",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:38",
    "tipo": "live"
   }
