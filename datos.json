@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T23:15:17.427188+00:00",
+ "actualizado": "2026-08-29T23:22:29.535557+00:00",
  "partidos_vivo": [
   {
    "home": "Tlaxcala",
@@ -80,6 +80,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:22",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:15",
@@ -138,18 +150,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "00:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "23:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "23:47",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -273,7 +273,7 @@
   "balance_dia": 0.0,
   "ganados": 2260,
   "perdidos": 968,
-  "pendientes": 6,
+  "pendientes": 8,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -788,6 +788,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Inter Miami CF (-1.5)",
+   "apuesta": "SI — Spread: Inter Miami CF (-1.5)",
+   "usdc": 152582,
+   "prob": 50.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "01:22"
+  },
+  {
+   "titulo": "Spread: Inter Miami CF (-1.5)",
+   "apuesta": "SI — Spread: Inter Miami CF (-1.5)",
+   "usdc": 102365,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "01:22"
+  },
+  {
    "titulo": "LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season",
    "apuesta": "SI, LoL: Team Liquid ganara",
    "usdc": 302327,
@@ -840,24 +858,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "20:49"
-  },
-  {
-   "titulo": "Spread: Juventus FC (-1.5)",
-   "apuesta": "SI — Spread: Juventus FC (-1.5)",
-   "usdc": 103454,
-   "prob": 57.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "20:41"
-  },
-  {
-   "titulo": "Spread: Juventus FC (-1.5)",
-   "apuesta": "SI — Spread: Juventus FC (-1.5)",
-   "usdc": 307802,
-   "prob": 57.5,
-   "n_traders": 2,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "20:41"
   }
  ],
  "stats_gt": {
@@ -869,7 +869,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
