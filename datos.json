@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T03:57:26.667803+00:00",
+ "actualizado": "2026-08-29T04:04:48.761851+00:00",
  "partidos_vivo": [
   {
    "home": "Dorados",
@@ -196,13 +196,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45728.0,
-  "balance_total": 35728.0,
-  "balance_dia": 311.0,
-  "ganados": 2160,
+  "capital": 45789.0,
+  "balance_total": 35789.0,
+  "balance_dia": 372.0,
+  "ganados": 2161,
   "perdidos": 924,
-  "pendientes": 3,
-  "ganados_dia": 7,
+  "pendientes": 2,
+  "ganados_dia": 8,
   "perdidos_dia": 1,
   "win_rate": 70.0,
   "roi": 11.6,
@@ -661,10 +661,10 @@
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 8,
+  "ganados": 9,
   "perdidos": 1,
-  "en_juego": 4,
-  "win_rate": 89
+  "en_juego": 3,
+  "win_rate": 90
  },
  "stats_banker": {
   "ganados": 67,
