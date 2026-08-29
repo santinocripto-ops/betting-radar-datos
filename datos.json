@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:59:37.393567+00:00",
+ "actualizado": "2026-08-29T15:07:55.045309+00:00",
  "partidos_vivo": [
   {
    "home": "SV Elversberg",
@@ -232,6 +232,30 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:46",
@@ -278,30 +302,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:39",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:39",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -333,7 +333,7 @@
    "hora": "13:30",
    "resultado": "pendiente",
    "wr_historico": 61,
-   "n_historico": 1038
+   "n_historico": 1042
   },
   {
    "clave": "btts",
@@ -420,16 +420,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 46384.0,
-  "balance_total": 36384.0,
-  "balance_dia": 967.0,
-  "ganados": 2204,
-  "perdidos": 943,
-  "pendientes": 28,
-  "ganados_dia": 51,
-  "perdidos_dia": 20,
-  "win_rate": 70.0,
-  "roi": 11.6,
+  "capital": 46823.0,
+  "balance_total": 36823.0,
+  "balance_dia": 1406.0,
+  "ganados": 2215,
+  "perdidos": 945,
+  "pendientes": 16,
+  "ganados_dia": 62,
+  "perdidos_dia": 22,
+  "win_rate": 70.1,
+  "roi": 11.7,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -512,7 +512,7 @@
     "away": "Frigg",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -577,7 +577,7 @@
     "away": "Frigg",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -604,7 +604,7 @@
     "away": "Neudrossenfeld",
     "liga": "Oberliga - Bayern Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -613,7 +613,7 @@
     "away": "Schwabmünchen",
     "liga": "Oberliga - Bayern Süd",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -622,7 +622,7 @@
     "away": "Union Klosterfelde",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -631,20 +631,27 @@
     "away": "Makkabi",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1218,
-   "perdidos": 833,
+   "ganados": 1221,
+   "perdidos": 834,
    "acierto": 59.4,
-   "yield": 12.8,
+   "yield": 12.9,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Khorfakkan",
+   "away": "Al-Dhafra",
+   "liga": "Pro League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Brighton U18",
    "away": "Arsenal U18",
@@ -664,26 +671,19 @@
    "away": "Örebro SK W",
    "liga": "Elitettan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Nyiregyhaza",
    "away": "Paks",
    "liga": "NB I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Verl",
    "away": "Fortuna Köln",
    "liga": "3. Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Fakel",
-   "away": "Zenit",
-   "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -963,16 +963,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2209,
-  "ganados": 1530,
+  "n": 2219,
+  "ganados": 1538,
   "win_rate": 69,
   "hoy": 58
  },
  "stats_dia": {
-  "ganados": 53,
-  "perdidos": 21,
-  "en_juego": 28,
-  "win_rate": 72
+  "ganados": 64,
+  "perdidos": 23,
+  "en_juego": 16,
+  "win_rate": 74
  },
  "stats_banker": {
   "ganados": 68,
