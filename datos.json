@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:20:05.746978+00:00",
+ "actualizado": "2026-08-29T14:26:27.161928+00:00",
  "partidos_vivo": [
   {
    "home": "Motor Lublin",
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Vikingur Olafsiik",
+   "away": "Haukar",
+   "liga": "2. Deild",
+   "minuto": 17,
+   "score": 9.1,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Khorfakkan",
    "away": "Al-Dhafra",
    "liga": "Pro League",
@@ -401,17 +412,6 @@
    "liga": "Bundesliga",
    "minuto": 11,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Sparta Rotterdam II",
-   "away": "HHC",
-   "liga": "Tweede Divisie",
-   "minuto": 11,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -966,7 +966,7 @@
   "n": 2209,
   "ganados": 1530,
   "win_rate": 69,
-  "hoy": 51
+  "hoy": 52
  },
  "stats_dia": {
   "ganados": 53,
