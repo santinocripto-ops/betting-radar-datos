@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T05:03:53.558116+00:00",
+ "actualizado": "2026-08-29T05:04:21.050124+00:00",
  "partidos_vivo": [
   {
    "home": "South Hobart",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "07:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -100,12 +106,6 @@
    "texto": "──────────────────────────────",
    "hora": "05:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:28",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
