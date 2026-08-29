@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:00:42.752389+00:00",
+ "actualizado": "2026-08-29T18:09:47.732429+00:00",
  "partidos_vivo": [
   {
    "home": "Fiorentina",
@@ -99,6 +99,30 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:00",
@@ -145,30 +169,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:08",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -186,7 +186,7 @@
    "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 69,
-   "n_historico": 90
+   "n_historico": 91
   },
   {
    "clave": "over25",
@@ -287,16 +287,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 46707.0,
-  "balance_total": 36707.0,
-  "balance_dia": 1290.0,
-  "ganados": 2227,
-  "perdidos": 953,
-  "pendientes": 27,
-  "ganados_dia": 74,
-  "perdidos_dia": 30,
-  "win_rate": 70.0,
-  "roi": 11.5,
+  "capital": 47152.0,
+  "balance_total": 37152.0,
+  "balance_dia": 1735.0,
+  "ganados": 2240,
+  "perdidos": 956,
+  "pendientes": 12,
+  "ganados_dia": 87,
+  "perdidos_dia": 33,
+  "win_rate": 70.1,
+  "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -524,33 +524,26 @@
    "away": "Crotone",
    "liga": "Serie C - Girone C",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Arges Pitesti",
    "away": "Sepsi OSK Sfantu Gheorghe",
    "liga": "Liga I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Halmstad",
    "away": "Kalmar FF",
    "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Víkingur II",
    "away": "HB II",
    "liga": "1. Deild",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Khorfakkan",
-   "away": "Al-Dhafra",
-   "liga": "Pro League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -875,16 +868,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2231,
-  "ganados": 1546,
+  "n": 2243,
+  "ganados": 1555,
   "win_rate": 69,
   "hoy": 80
  },
  "stats_dia": {
-  "ganados": 76,
-  "perdidos": 31,
-  "en_juego": 27,
-  "win_rate": 71
+  "ganados": 89,
+  "perdidos": 34,
+  "en_juego": 12,
+  "win_rate": 72
  },
  "stats_banker": {
   "ganados": 68,
