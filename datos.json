@@ -1,236 +1,242 @@
 {
- "actualizado": "2026-08-29T15:08:38.710492+00:00",
+ "actualizado": "2026-08-29T15:27:04.742509+00:00",
  "partidos_vivo": [
   {
-   "home": "SV Elversberg",
-   "away": "Bayer Leverkusen",
-   "liga": "Bundesliga",
-   "minuto": 50,
-   "marcador": "3-0",
+   "home": "Heart Of Midlothian",
+   "away": "ST Johnstone",
+   "liga": "Premiership",
+   "minuto": 57,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 65,
+   "momentum_away": 35,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 17 remates totales"
    ]
   },
   {
-   "home": "1. FC Köln",
-   "away": "1899 Hoffenheim",
-   "liga": "Bundesliga",
-   "minuto": 48,
-   "marcador": "0-1",
+   "home": "Kilmarnock",
+   "away": "Dundee Utd",
+   "liga": "Premiership",
+   "minuto": 57,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 52,
+   "momentum_away": 48,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Kilmarnock pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Bournemouth",
+   "away": "Everton",
+   "liga": "Premier League",
+   "minuto": 60,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
+   "momentum_home": 48,
+   "momentum_away": 52,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
-    "⚽ 1 gol — 1. FC Köln buscará el empate"
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga goleadora: 3.18 goles/partido",
+    "⚽ 1 gol — Everton buscará el empate"
    ]
   },
   {
-   "home": "FSV Mainz 05",
-   "away": "SC Paderborn 07",
-   "liga": "Bundesliga",
-   "minuto": 50,
+   "home": "Coventry",
+   "away": "Hull City",
+   "liga": "Premier League",
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 73,
+   "momentum_away": 27,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga goleadora: 3.18 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "RB Leipzig",
-   "away": "Borussia Mönchengladbach",
-   "liga": "Bundesliga",
-   "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 6.0 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Brighton U18",
-   "away": "Arsenal U18",
-   "liga": "U18 Premier League - South",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 6.04 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Grand-Saconnex",
-   "away": "Paradiso",
-   "liga": "1. Liga Promotion",
-   "minuto": 47,
+   "home": "RAAL La Louvière",
+   "away": "KV Mechelen",
+   "liga": "Jupiler Pro League",
+   "minuto": 53,
    "marcador": "2-2",
    "apuesta": "Over 4.5",
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 37,
+   "momentum_away": 63,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
     "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "AFC Amsterdam",
-   "away": "ROHDA Raalte",
-   "liga": "Tweede Divisie",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.06 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — ROHDA Raalte buscará el empate"
-   ]
-  },
-  {
-   "home": "Auersmacher",
-   "away": "Mechtersheim",
-   "liga": "Oberliga - Rheinland-Pfalz / Saar",
-   "minuto": 47,
+   "home": "RSC Anderlecht II",
+   "away": "Beerschot VA",
+   "liga": "Challenger Pro League",
+   "minuto": 51,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 56,
+   "momentum_away": 44,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Auersmacher buscará el empate"
+    "⚽ Liga goleadora: 3.06 goles/partido",
+    "⚽ 1 gol — RSC Anderlecht II buscará el empate",
+    "🎯 17 remates totales"
    ]
   },
   {
-   "home": "Brøndby W",
-   "away": "FC Copenhagen W",
-   "liga": "Kvindeliga",
-   "minuto": 49,
+   "home": "Liège",
+   "away": "Dender",
+   "liga": "Challenger Pro League",
+   "minuto": 57,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 7.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.06 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Blackburn",
+   "away": "QPR",
+   "liga": "Championship",
+   "minuto": 59,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 9.6,
+   "recomendar": true,
+   "momentum_home": 55,
+   "momentum_away": 45,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Celtic",
+   "away": "Falkirk",
+   "liga": "Premiership",
+   "minuto": 58,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 9.4,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Falkirk pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "TB",
+   "away": "NSÍ II",
+   "liga": "1. Deild",
+   "minuto": 56,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "⚽ Liga muy goleadora: 4.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Puszcza Niepołomice",
-   "away": "Podbeskidzie",
-   "liga": "I Liga",
-   "minuto": 48,
+   "home": "Afturelding",
+   "away": "Vestri",
+   "liga": "1. Deild",
+   "minuto": 53,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 6.5,
-   "recomendar": false,
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 3.96 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Podbeskidzie buscará el empate",
-    "⏱ 42 minutos por jugar — margen amplio"
+    "⚽ 1 gol — Vestri buscará el empate"
    ]
   },
   {
-   "home": "Shortan",
-   "away": "Lochin",
-   "liga": "Pro League A",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.0,
-   "recomendar": false,
+   "home": "Grindavik",
+   "away": "HK Kopavogur",
+   "liga": "1. Deild",
+   "minuto": 60,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ Liga muy goleadora: 3.96 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Ryazan W",
-   "away": "Zenit W",
-   "liga": "Supreme Division Women",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 5.6,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Ryazan W buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "17:27",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -295,12 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:45",
    "tipo": "live"
   }
  ],
@@ -425,7 +425,7 @@
   "balance_dia": 1406.0,
   "ganados": 2215,
   "perdidos": 945,
-  "pendientes": 16,
+  "pendientes": 17,
   "ganados_dia": 62,
   "perdidos_dia": 22,
   "win_rate": 70.1,
@@ -971,7 +971,7 @@
  "stats_dia": {
   "ganados": 64,
   "perdidos": 23,
-  "en_juego": 16,
+  "en_juego": 17,
   "win_rate": 74
  },
  "stats_banker": {
