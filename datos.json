@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T17:08:22.151179+00:00",
+ "actualizado": "2026-08-29T17:08:56.488169+00:00",
  "partidos_vivo": [
   {
    "home": "Diyala",
@@ -175,6 +175,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:08",
@@ -233,18 +245,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:37",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:37",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "18:31",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
