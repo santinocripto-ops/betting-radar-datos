@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:56:39.754579+00:00",
+ "actualizado": "2026-08-29T13:56:42.333501+00:00",
  "partidos_vivo": [
   {
    "home": "Henan Jianye",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:56",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:50",
@@ -288,12 +294,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
    "tipo": "live"
   },
