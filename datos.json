@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:41:53.546978+00:00",
+ "actualizado": "2026-08-29T18:42:05.591993+00:00",
  "partidos_vivo": [
   {
    "home": "Academico Viseu",
@@ -201,6 +201,12 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:41",
    "tipo": "live"
@@ -258,12 +264,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:17",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -314,6 +314,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mardin 1969",
+   "away": "Vanspor FK",
+   "liga": "1. Lig",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Batman Petrolspor",
+   "away": "Sivasspor",
+   "liga": "1. Lig",
+   "minuto": 11,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Gaziantep FK",
+   "away": "Rizespor",
+   "liga": "Süper Lig",
+   "minuto": 11,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Zaglebie Lubin",
    "away": "Pogon Szczecin",
    "liga": "Ekstraklasa",
@@ -341,39 +374,6 @@
    "liga": "Pro League",
    "minuto": 18,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Baník Ostrava",
-   "away": "Sigma Olomouc",
-   "liga": "Czech Liga",
-   "minuto": 17,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportivo Riestra",
-   "away": "Velez Sarsfield",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportivo Binacional",
-   "away": "Comerciantes",
-   "liga": "Segunda División",
-   "minuto": 16,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -973,7 +973,7 @@
   "n": 2243,
   "ganados": 1555,
   "win_rate": 69,
-  "hoy": 84
+  "hoy": 87
  },
  "stats_dia": {
   "ganados": 89,
