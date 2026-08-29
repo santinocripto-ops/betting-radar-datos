@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:42:05.591993+00:00",
+ "actualizado": "2026-08-29T18:49:36.513662+00:00",
  "partidos_vivo": [
   {
    "home": "Academico Viseu",
@@ -196,6 +196,30 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:49",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:49",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:49",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:49",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:41",
    "tipo": "live"
   },
@@ -239,30 +263,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:25",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:17",
    "tipo": "live"
   }
  ],
@@ -313,6 +313,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Galatasaray",
+   "away": "Göztepe",
+   "liga": "Süper Lig",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Mardin 1969",
    "away": "Vanspor FK",
@@ -367,17 +378,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Al-Fateh",
-   "away": "Al-Ittihad FC",
-   "liga": "Pro League",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -387,7 +387,7 @@
   "balance_dia": 1735.0,
   "ganados": 2240,
   "perdidos": 956,
-  "pendientes": 19,
+  "pendientes": 23,
   "ganados_dia": 87,
   "perdidos_dia": 33,
   "win_rate": 70.1,
@@ -608,6 +608,13 @@
  },
  "reentradas": [
   {
+   "home": "Deportivo Riestra",
+   "away": "Velez Sarsfield",
+   "liga": "Liga Profesional Argentina",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Deportivo Binacional",
    "away": "Comerciantes",
    "liga": "Segunda División",
@@ -639,13 +646,6 @@
    "home": "Arges Pitesti",
    "away": "Sepsi OSK Sfantu Gheorghe",
    "liga": "Liga I",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Halmstad",
-   "away": "Kalmar FF",
-   "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -897,6 +897,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
+   "apuesta": "SI, ganara",
+   "usdc": 249761,
+   "prob": 54.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:49"
+  },
+  {
+   "titulo": "Will Olympique Lyonnais win on 2026-08-29?",
+   "apuesta": "SI, Olympique Lyonnais ganara",
+   "usdc": 737115,
+   "prob": 68.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:49"
+  },
+  {
    "titulo": "Spread: Juventus FC (-1.5)",
    "apuesta": "SI — Spread: Juventus FC (-1.5)",
    "usdc": 103454,
@@ -949,36 +967,18 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "18:37"
-  },
-  {
-   "titulo": "Will ACF Fiorentina win on 2026-08-29?",
-   "apuesta": "NO, ACF Fiorentina no ganara",
-   "usdc": 143452,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "18:22"
-  },
-  {
-   "titulo": "Will ACF Fiorentina win on 2026-08-29?",
-   "apuesta": "SI, ACF Fiorentina ganara",
-   "usdc": 50127,
-   "prob": 55.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:22"
   }
  ],
  "stats_gt": {
   "n": 2243,
   "ganados": 1555,
   "win_rate": 69,
-  "hoy": 87
+  "hoy": 88
  },
  "stats_dia": {
   "ganados": 89,
   "perdidos": 34,
-  "en_juego": 19,
+  "en_juego": 23,
   "win_rate": 72
  },
  "stats_banker": {
