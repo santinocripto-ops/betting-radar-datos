@@ -1,109 +1,109 @@
 {
- "actualizado": "2026-08-29T22:37:13.675816+00:00",
+ "actualizado": "2026-08-29T22:45:38.242572+00:00",
  "partidos_vivo": [
   {
-   "home": "Guayaquil City FC",
-   "away": "LDU de Quito",
-   "liga": "Liga Pro",
-   "minuto": 47,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 17 remates totales",
-    "🚩 8 córners"
-   ]
-  },
-  {
-   "home": "Cavalry FC",
-   "away": "Vancouver FC",
-   "liga": "Canadian Premier League",
-   "minuto": 49,
+   "home": "Botafogo SP",
+   "away": "Cuiaba",
+   "liga": "Serie B",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 11 remates totales"
    ]
   },
   {
-   "home": "Pittsburgh Riverhounds",
-   "away": "Tampa Bay Rowdies",
-   "liga": "USL Championship",
+   "home": "Atletico-MG",
+   "away": "Vitoria",
+   "liga": "Serie A",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 9.8,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ 1 gol — Vitoria buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Jaguares",
+   "away": "America de Cali",
+   "liga": "Primera A",
    "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "União São João",
-   "away": "Bandeirante SP",
-   "liga": "Copa Paulista",
-   "minuto": 57,
-   "marcador": "3-0",
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
-   "score": 4.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 8.5,
+   "recomendar": true,
+   "momentum_home": 36,
+   "momentum_away": 64,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔒 Liga muy cerrada: 1.78 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "⚡ Bandeirante SP pierde por 3 — atacará sin freno"
+    "🎯 16 remates totales"
    ]
   },
   {
-   "home": "Guastatoya",
-   "away": "Marquense",
-   "liga": "Liga Nacional",
-   "minuto": 53,
-   "marcador": "1-1",
+   "home": "Deportes Limache",
+   "away": "Everton de Vina",
+   "liga": "Primera División",
+   "minuto": 55,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 8.4,
+   "recomendar": true,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Datos en vivo parciales — fiabilidad media",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Génesis",
-   "away": "CD Marathon",
-   "liga": "Liga Nacional",
-   "minuto": 55,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 0.0,
+   "home": "Deportivo Recoleta",
+   "away": "Olimpia",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 57,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 0,
+   "momentum_away": 100,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Datos en vivo muy limitados — baja fiabilidad",
+    "⚽ 2 goles — partido activo",
+    "⚡ Deportivo Recoleta pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Platense",
+   "away": "Inter",
+   "liga": "Primera Division",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -111,12 +111,94 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Union Espanola",
+   "away": "Rangers de Talca",
+   "liga": "Primera B",
+   "minuto": 56,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 6.1,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Union Espanola buscará el empate",
+    "⏱ 34 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Pioneros de Cancún",
+   "away": "Celaya",
+   "liga": "Primera Premier",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Ciervos",
+   "away": "Dragones de Oaxaca",
+   "liga": "Liga Premier Serie A",
+   "minuto": 46,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 3.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo",
+    "⚡ Ciervos pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Defensores de Cambaceres",
+   "away": "Deportivo Paraguayo",
+   "liga": "Primera C",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 2.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.68 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "00:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -181,12 +263,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "23:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "22:50",
    "tipo": "live"
   }
  ],
@@ -311,7 +387,7 @@
   "balance_dia": 0.0,
   "ganados": 2258,
   "perdidos": 968,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
