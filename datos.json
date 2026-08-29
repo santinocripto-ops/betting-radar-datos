@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:45:21.438125+00:00",
+ "actualizado": "2026-08-29T16:52:04.382644+00:00",
  "partidos_vivo": [
   {
    "home": "Budapest Honved",
@@ -234,6 +234,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:52",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:45",
    "tipo": "live"
   },
@@ -296,12 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:22",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:22",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -351,6 +351,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Volos NFC",
+   "away": "Iraklis 1908",
+   "liga": "Super League 1",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Al Ain",
    "away": "Al Nasr",
@@ -405,17 +416,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Kayserispor",
-   "away": "Bursaspor",
-   "liga": "1. Lig",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -425,7 +425,7 @@
   "balance_dia": 1240.0,
   "ganados": 2221,
   "perdidos": 950,
-  "pendientes": 24,
+  "pendientes": 27,
   "ganados_dia": 68,
   "perdidos_dia": 27,
   "win_rate": 70.0,
@@ -1011,12 +1011,12 @@
   "n": 2225,
   "ganados": 1541,
   "win_rate": 69,
-  "hoy": 74
+  "hoy": 75
  },
  "stats_dia": {
   "ganados": 70,
   "perdidos": 28,
-  "en_juego": 24,
+  "en_juego": 27,
   "win_rate": 71
  },
  "stats_banker": {
