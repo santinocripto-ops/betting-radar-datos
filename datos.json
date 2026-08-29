@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T00:48:15.635625+00:00",
+ "actualizado": "2026-08-29T00:48:22.693241+00:00",
  "partidos_vivo": [
   {
    "home": "Nautico Recife",
@@ -61,6 +61,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "02:48",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:20",
@@ -106,12 +112,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "02:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:04",
    "tipo": "smart_money"
   },
   {
@@ -209,7 +209,7 @@
   "balance_dia": 0.0,
   "ganados": 2152,
   "perdidos": 923,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -663,7 +663,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 0
  },
  "stats_banker": {
