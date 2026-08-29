@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T03:21:43.520908+00:00",
+ "actualizado": "2026-08-29T03:28:49.925148+00:00",
  "partidos_vivo": [
   {
    "home": "Atlante FC",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "05:28",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "05:21",
@@ -144,12 +150,6 @@
    "texto": "──────────────────────────────",
    "hora": "04:29",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "04:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -620,6 +620,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Monterrey Open: Nikola Bartunkova vs Elise Mertens",
+   "apuesta": "SI, Monterrey Open: Nikola Bartunkova ganara",
+   "usdc": 122897,
+   "prob": 17.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "05:28"
+  },
+  {
    "titulo": "Will Coventry City FC win on 2026-08-29?",
    "apuesta": "SI, Coventry City ganara",
    "usdc": 143421,
@@ -681,15 +690,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "20:20"
-  },
-  {
-   "titulo": "Map Handicap: FURIA (-1.5) vs M80 (+1.5)",
-   "apuesta": "SI, Map Handicap: FURIA (-1.5) ganara",
-   "usdc": 104695,
-   "prob": 54.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "18:52"
   }
  ],
  "stats_gt": {
