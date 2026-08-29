@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:06:05.873753+00:00",
+ "actualizado": "2026-08-29T16:06:31.057574+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -240,6 +240,24 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "18:05",
    "tipo": "smart_money"
   },
@@ -283,24 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:33",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:27",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "17:27",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:08",
    "tipo": "smart_money"
   }
  ],
