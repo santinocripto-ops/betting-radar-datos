@@ -1,14 +1,52 @@
 {
- "actualizado": "2026-08-29T03:06:51.536859+00:00",
+ "actualizado": "2026-08-29T03:14:44.734313+00:00",
  "partidos_vivo": [
   {
-   "home": "Tauro FC",
-   "away": "Independiente de La Chorrera",
-   "liga": "Liga Panameña de Fútbol",
+   "home": "Atlante FC",
+   "away": "Leon",
+   "liga": "Liga MX",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Suchitepéquez",
+   "away": "Cobán Imperial",
+   "liga": "Liga Nacional",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 6.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Sporting San Jose",
+   "away": "Inter San Carlos",
+   "liga": "Primera División",
    "minuto": 53,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 5.1,
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -16,12 +54,37 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Independiente de La Chorrera buscará el empate",
+    "⚽ 1 gol — Inter San Carlos buscará el empate",
     "⏱ 37 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "San Diego Wave W",
+   "away": "Racing Louisville W",
+   "liga": "NWSL Women",
+   "minuto": 49,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 2.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "05:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -86,12 +149,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "03:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "03:19",
    "tipo": "live"
   }
  ],
@@ -171,7 +228,7 @@
   "balance_dia": 311.0,
   "ganados": 2160,
   "perdidos": 924,
-  "pendientes": 0,
+  "pendientes": 1,
   "ganados_dia": 7,
   "perdidos_dia": 1,
   "win_rate": 70.0,
@@ -371,32 +428,18 @@
     "ts": "2026-08-29T01:04:23.825495+00:00"
    },
    {
-    "home": "Necaxa",
-    "away": "Cruz Azul",
-    "liga": "Liga MX",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 8,
-    "pinnacle": true,
-    "delta": 3.56,
-    "marcador": "",
-    "resultado": "pendiente",
-    "kickoff": "2026-08-29T01:00:00+00:00",
-    "ts": "2026-08-28T16:09:13.667723+00:00"
-   },
-   {
-    "home": "Necaxa",
-    "away": "Cruz Azul",
-    "liga": "Liga MX",
+    "home": "CSM Reşiţa",
+    "away": "CSA Steaua Bucureşti",
+    "liga": "Liga II",
     "pick": "X2 (visitante o empate)",
     "senal": "Away",
-    "casas": 3,
+    "casas": 4,
     "pinnacle": true,
-    "delta": 3.44,
+    "delta": 3.74,
     "marcador": "",
     "resultado": "pendiente",
-    "kickoff": "2026-08-29T01:00:00+00:00",
-    "ts": "2026-08-28T19:07:45.163114+00:00"
+    "kickoff": "2026-08-29T08:00:00+00:00",
+    "ts": "2026-08-29T03:06:51.726337+00:00"
    },
    {
     "home": "Atlante FC",
@@ -413,6 +456,34 @@
     "ts": "2026-08-28T19:07:45.649863+00:00"
    },
    {
+    "home": "Necaxa",
+    "away": "Cruz Azul",
+    "liga": "Liga MX",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 8,
+    "pinnacle": true,
+    "delta": 3.56,
+    "marcador": "1-3",
+    "resultado": "ganado",
+    "kickoff": "2026-08-29T01:00:00+00:00",
+    "ts": "2026-08-28T16:09:13.667723+00:00"
+   },
+   {
+    "home": "Necaxa",
+    "away": "Cruz Azul",
+    "liga": "Liga MX",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "pinnacle": true,
+    "delta": 3.44,
+    "marcador": "1-3",
+    "resultado": "ganado",
+    "kickoff": "2026-08-29T01:00:00+00:00",
+    "ts": "2026-08-28T19:07:45.163114+00:00"
+   },
+   {
     "home": "Gimnasia Y Tiro",
     "away": "Chacarita Juniors",
     "liga": "Primera Nacional",
@@ -421,8 +492,8 @@
     "casas": 3,
     "pinnacle": true,
     "delta": 4.08,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-29T01:00:00+00:00",
     "ts": "2026-08-28T19:07:51.553572+00:00"
    },
@@ -523,28 +594,14 @@
     "resultado": "perdido",
     "kickoff": "2026-08-28T16:30:00+00:00",
     "ts": "2026-08-28T15:08:11.653138+00:00"
-   },
-   {
-    "home": "First Vienna",
-    "away": "SKU Amstetten",
-    "liga": "2. Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "pinnacle": true,
-    "delta": 4.4,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T16:09:17.389266+00:00"
    }
   ],
   "balance": {
-   "ganados": 163,
+   "ganados": 166,
    "perdidos": 73,
-   "pendientes": 7,
-   "acierto": 69.1,
-   "total": 236
+   "pendientes": 5,
+   "acierto": 69.5,
+   "total": 239
   }
  },
  "mejor_dia": {
@@ -633,7 +690,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 1,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 89
  },
  "stats_banker": {
