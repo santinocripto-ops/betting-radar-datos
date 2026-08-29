@@ -1,49 +1,11 @@
 {
- "actualizado": "2026-08-29T20:57:16.134156+00:00",
+ "actualizado": "2026-08-29T21:05:46.057654+00:00",
  "partidos_vivo": [
   {
-   "home": "Torreense",
-   "away": "Vizela",
-   "liga": "Segunda Liga",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.07 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Torreense pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Gremio W",
-   "away": "São Paulo W",
-   "liga": "Brasileiro Women",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Zamora FC B",
-   "away": "Deportivo Lara",
+   "home": "Aragua FC",
+   "away": "Dinamo de Puerto La Cruz",
    "liga": "Segunda División",
-   "minuto": 49,
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 7.5,
@@ -59,51 +21,70 @@
    ]
   },
   {
-   "home": "Hércules",
-   "away": "Real Murcia",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 49,
+   "home": "Gremio W",
+   "away": "São Paulo W",
+   "liga": "Brasileiro Women",
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
+   "score": 7.5,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Deportivo Tigres",
-   "away": "Universitario Tarija",
-   "liga": "Nacional B",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Gori",
-   "away": "Shturmi",
-   "liga": "Erovnuli Liga 2",
+   "home": "Midland",
+   "away": "Nueva Chicago",
+   "liga": "Primera Nacional",
+   "minuto": 63,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 2.8,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Barra",
+   "away": "Volta Redonda",
+   "liga": "Serie C",
    "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.5,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 2.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Volta Redonda buscará el empate"
+   ]
+  },
+  {
+   "home": "Defensor Sporting",
+   "away": "Atletico Torque",
+   "liga": "Primera División",
+   "minuto": 47,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -111,31 +92,18 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Girona",
-   "away": "Las Palmas",
-   "liga": "Segunda División",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 4.1,
-   "recomendar": false,
-   "momentum_home": 77,
-   "momentum_away": 23,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 9 remates totales",
-    "🎯 5 remates a puerta"
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 43 minutos por jugar — margen amplio"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "23:05",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -201,12 +169,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -223,8 +185,8 @@
    "score": 9.43,
    "hora": "16:00",
    "resultado": "pendiente",
-   "wr_historico": 69,
-   "n_historico": 91
+   "wr_historico": 70,
+   "n_historico": 92
   },
   {
    "clave": "over25",
@@ -285,7 +247,7 @@
    "minuto": 18,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
@@ -296,7 +258,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
@@ -307,7 +269,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
@@ -318,21 +280,21 @@
    "minuto": 11,
    "score": 9.3,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 47020.0,
-  "balance_total": 37020.0,
-  "balance_dia": 1603.0,
-  "ganados": 2252,
-  "perdidos": 964,
-  "pendientes": 10,
-  "ganados_dia": 99,
-  "perdidos_dia": 41,
+  "capital": 46964.0,
+  "balance_total": 36964.0,
+  "balance_dia": 1547.0,
+  "ganados": 2256,
+  "perdidos": 967,
+  "pendientes": 4,
+  "ganados_dia": 103,
+  "perdidos_dia": 44,
   "win_rate": 70.0,
   "roi": 11.5,
   "stake": 100.0,
@@ -892,16 +854,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2256,
-  "ganados": 1561,
+  "n": 2262,
+  "ganados": 1564,
   "win_rate": 69,
   "hoy": 91
  },
  "stats_dia": {
-  "ganados": 101,
-  "perdidos": 42,
-  "en_juego": 10,
-  "win_rate": 71
+  "ganados": 105,
+  "perdidos": 45,
+  "en_juego": 4,
+  "win_rate": 70
  },
  "stats_banker": {
   "ganados": 68,
