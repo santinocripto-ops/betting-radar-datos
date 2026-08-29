@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:10:36.019812+00:00",
+ "actualizado": "2026-08-29T12:18:59.768262+00:00",
  "partidos_vivo": [
   {
    "home": "Slovácko W",
@@ -585,8 +585,8 @@
     "casas": 5,
     "pinnacle": true,
     "delta": 3.86,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "perdido",
     "kickoff": "2026-08-29T08:00:00+00:00",
     "ts": "2026-08-29T01:04:21.412140+00:00"
    },
@@ -599,8 +599,8 @@
     "casas": 9,
     "pinnacle": true,
     "delta": 4.21,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "perdido",
     "kickoff": "2026-08-29T08:00:00+00:00",
     "ts": "2026-08-29T01:04:23.825495+00:00"
    },
@@ -613,8 +613,8 @@
     "casas": 4,
     "pinnacle": true,
     "delta": 3.74,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "perdido",
     "kickoff": "2026-08-29T08:00:00+00:00",
     "ts": "2026-08-29T03:06:51.726337+00:00"
    },
@@ -747,10 +747,10 @@
   ],
   "balance": {
    "ganados": 167,
-   "perdidos": 73,
-   "pendientes": 6,
-   "acierto": 69.6,
-   "total": 240
+   "perdidos": 76,
+   "pendientes": 3,
+   "acierto": 68.7,
+   "total": 243
   }
  },
  "mejor_dia": {
