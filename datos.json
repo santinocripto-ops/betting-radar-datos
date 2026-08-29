@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T17:46:16.146383+00:00",
+ "actualizado": "2026-08-29T17:52:45.789790+00:00",
  "partidos_vivo": [
   {
    "home": "Al Kholood",
@@ -368,7 +368,7 @@
   "balance_dia": 1290.0,
   "ganados": 2227,
   "perdidos": 953,
-  "pendientes": 24,
+  "pendientes": 26,
   "ganados_dia": 74,
   "perdidos_dia": 30,
   "win_rate": 70.0,
@@ -959,7 +959,7 @@
  "stats_dia": {
   "ganados": 76,
   "perdidos": 31,
-  "en_juego": 24,
+  "en_juego": 26,
   "win_rate": 71
  },
  "stats_banker": {
