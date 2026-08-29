@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T00:20:39.313460+00:00",
+ "actualizado": "2026-08-29T00:27:26.630127+00:00",
  "partidos_vivo": [
   {
    "home": "Inter Miami II",
@@ -228,7 +228,7 @@
   "balance_dia": 0.0,
   "ganados": 2152,
   "perdidos": 923,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -682,7 +682,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 0
  },
  "stats_banker": {
