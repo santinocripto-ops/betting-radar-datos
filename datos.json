@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T20:37:56.932466+00:00",
+ "actualizado": "2026-08-29T20:44:31.928135+00:00",
  "partidos_vivo": [
   {
    "home": "Torreense",
@@ -567,13 +567,6 @@
   {
    "home": "Lokomotiv",
    "away": "Dynamo",
-   "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Tottenham",
-   "away": "Newcastle",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
