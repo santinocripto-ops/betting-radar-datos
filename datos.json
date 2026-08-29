@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T19:05:54.867100+00:00",
+ "actualizado": "2026-08-29T20:03:35.619128+00:00",
  "partidos_vivo": [
   {
    "home": "Deportivo Riestra",
@@ -157,6 +157,18 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "21:05",
    "tipo": "smart_money"
@@ -213,18 +225,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "21:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:49",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:49",
    "tipo": "live"
   }
  ],
@@ -859,6 +859,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Sevilla FC vs. Club Atlético de Madrid: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 75166,
+   "prob": 83.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "22:03"
+  },
+  {
+   "titulo": "Will Club Atlético de Madrid win on 2026-08-29?",
+   "apuesta": "NO, Club Atlético de Madrid no ganara",
+   "usdc": 110468,
+   "prob": 8.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "22:03"
+  },
+  {
    "titulo": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
    "apuesta": "SI, ganara",
    "usdc": 249761,
@@ -909,24 +927,6 @@
    "usdc": 18570,
    "prob": 57.5,
    "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:37"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-08-29?",
-   "apuesta": "NO, Newcastle United no ganara",
-   "usdc": 23526,
-   "prob": 67.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:37"
-  },
-  {
-   "titulo": "Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw?",
-   "apuesta": "SI, acabará en empate",
-   "usdc": 263157,
-   "prob": 26.5,
-   "n_traders": 3,
    "trader": "RN1",
    "hora": "18:37"
   }
