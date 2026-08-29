@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:51:02.339966+00:00",
+ "actualizado": "2026-08-29T09:57:54.937339+00:00",
  "partidos_vivo": [
   {
    "home": "Chomutov",
@@ -444,7 +444,7 @@
   "balance_dia": 589.0,
   "ganados": 2170,
   "perdidos": 927,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 17,
   "perdidos_dia": 4,
   "win_rate": 70.1,
@@ -913,7 +913,7 @@
  "stats_dia": {
   "ganados": 18,
   "perdidos": 4,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 82
  },
  "stats_banker": {
