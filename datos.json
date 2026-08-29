@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T04:04:48.761851+00:00",
+ "actualizado": "2026-08-29T04:05:12.247312+00:00",
  "partidos_vivo": [
   {
    "home": "Dorados",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "06:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -87,12 +93,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "05:05",
    "tipo": "smart_money"
   },
   {
