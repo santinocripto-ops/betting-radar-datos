@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T04:55:35.178781+00:00",
+ "actualizado": "2026-08-29T05:02:27.211783+00:00",
  "partidos_vivo": [
   {
    "home": "Club Tijuana",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "07:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -79,12 +85,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "05:06",
    "tipo": "smart_money"
   },
@@ -563,6 +563,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Racing Club de Lens win on 2026-08-29?",
+   "apuesta": "SI, Racing Club de Lens ganara",
+   "usdc": 137000,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "07:02"
+  },
+  {
    "titulo": "Will Tottenham Hotspur FC win on 2026-08-29?",
    "apuesta": "SI, Tottenham Hotspur ganara",
    "usdc": 224104,
@@ -623,15 +632,6 @@
    "prob": 28.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xe",
-   "hora": "22:32"
-  },
-  {
-   "titulo": "Will Lille OSC win on 2026-08-28?",
-   "apuesta": "SI, Lille OSC ganara",
-   "usdc": 54969,
-   "prob": 58.5,
-   "n_traders": 3,
-   "trader": "RN1",
    "hora": "22:32"
   }
  ],
