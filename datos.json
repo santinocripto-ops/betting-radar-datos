@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T21:47:07.731479+00:00",
+ "actualizado": "2026-08-29T21:47:18.831439+00:00",
  "partidos_vivo": [
   {
    "home": "Seattle Sounders",
@@ -257,6 +257,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Deportes Limache",
+   "away": "Everton de Vina",
+   "liga": "Primera División",
+   "minuto": 17,
+   "score": 9.1,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Atletico-MG",
+   "away": "Vitoria",
+   "liga": "Serie A",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Seattle Sounders",
    "away": "Chicago Fire",
    "liga": "Major League Soccer",
@@ -295,28 +317,6 @@
    "liga": "Süper Lig",
    "minuto": 16,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Mardin 1969",
-   "away": "Vanspor FK",
-   "liga": "1. Lig",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Batman Petrolspor",
-   "away": "Sivasspor",
-   "liga": "1. Lig",
-   "minuto": 11,
-   "score": 9.3,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-29",
@@ -881,7 +881,7 @@
   "n": 2262,
   "ganados": 1564,
   "win_rate": 69,
-  "hoy": 91
+  "hoy": 93
  },
  "stats_dia": {
   "ganados": 105,
