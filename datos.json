@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T15:34:08.723481+00:00",
+ "actualizado": "2026-08-29T15:41:07.561074+00:00",
  "partidos_vivo": [
   {
    "home": "Heart Of Midlothian",
@@ -233,6 +233,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:34",
    "tipo": "live"
@@ -290,18 +302,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:46",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Floridsdorfer AC",
+   "away": "Wacker Innsbruck",
+   "liga": "2. Liga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Halmstad",
+   "away": "Kalmar FF",
+   "liga": "Allsvenskan",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Levante",
    "away": "Real Betis",
    "liga": "La Liga",
@@ -390,28 +412,6 @@
    "liga": "Eredivisie",
    "minuto": 14,
    "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "De Graafschap",
-   "away": "Almere City FC",
-   "liga": "Eerste Divisie",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Dinamo Brest",
-   "away": "ML Vitebsk",
-   "liga": "Premier League",
-   "minuto": 15,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -975,7 +975,7 @@
   "n": 2219,
   "ganados": 1538,
   "win_rate": 69,
-  "hoy": 59
+  "hoy": 61
  },
  "stats_dia": {
   "ganados": 64,
