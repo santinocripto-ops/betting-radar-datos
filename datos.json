@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-29T13:56:42.333501+00:00",
+ "actualizado": "2026-08-29T13:59:15.287916+00:00",
  "partidos_vivo": [
   {
-   "home": "Henan Jianye",
-   "away": "Chongqing Tongliang Long",
-   "liga": "Super League",
-   "minuto": 62,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Motor Lublin",
+   "away": "Piast Gliwice",
+   "liga": "Ekstraklasa",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "score": 10.0,
    "recomendar": true,
    "momentum_home": 59,
@@ -15,222 +15,228 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Fakel",
-   "away": "Zenit",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ Liga goleadora: 3.1 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Alemannia Aachen",
-   "away": "SV Meppen",
-   "liga": "3. Liga",
-   "minuto": 62,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "SG Sonnenhof Grossaspach",
-   "away": "FC Ingolstadt 04",
-   "liga": "3. Liga",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Verl",
-   "away": "Fortuna Köln",
-   "liga": "3. Liga",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "SV Wehen",
-   "away": "Rot-Weiß Essen",
-   "liga": "3. Liga",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 40,
-   "momentum_away": 60,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Rosengård W",
-   "away": "Häcken W",
-   "liga": "Damallsvenskan",
-   "minuto": 63,
+   "home": "Nyiregyhaza",
+   "away": "Paks",
+   "liga": "NB I",
+   "minuto": 55,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 9.1,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 22,
-   "momentum_away": 78,
+   "momentum_home": 66,
+   "momentum_away": 34,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.81 goles/partido",
-    "⚽ 1 gol — Rosengård W buscará el empate",
-    "🎯 12 remates totales"
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚽ 1 gol — Nyiregyhaza buscará el empate",
+    "🎯 20 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Rotherham",
-   "away": "Chesterfield",
-   "liga": "League Two",
-   "minuto": 63,
+   "home": "Hoek",
+   "away": "Spakenburg",
+   "liga": "Tweede Divisie",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.06 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Hoek buscará el empate"
+   ]
+  },
+  {
+   "home": "Viktoria Plzeň W",
+   "away": "Baník Ostrava W",
+   "liga": "1. Liga Women",
+   "minuto": 64,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 9.1,
-   "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Chesterfield buscará el empate",
-    "🎯 12 remates totales",
-    "🔄 3 sustituciones en 2T — equipos apostando al ataque"
-   ]
-  },
-  {
-   "home": "RED Star FC 93",
-   "away": "Reims",
-   "liga": "Ligue 2",
-   "minuto": 60,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.11 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ RED Star FC 93 pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Hoyvík",
-   "away": "Suduroy",
-   "liga": "1. Deild",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
+   "score": 6.6,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.69 goles/partido",
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — Baník Ostrava W buscará el empate"
    ]
   },
   {
-   "home": "Karlshamn",
-   "away": "Nosaby",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 62,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Ingolstadt II",
-   "away": "Neudrossenfeld",
-   "liga": "Oberliga - Bayern Nord",
-   "minuto": 57,
+   "home": "Rakow II",
+   "away": "Goczałkowice Zdrój",
+   "liga": "III Liga - Group 3",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
+   "score": 6.0,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.19 goles/partido",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Amiens",
+   "away": "Versailles",
+   "liga": "Ligue 3",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Thionville Lusitanos",
+   "away": "Gobelins",
+   "liga": "Ligue 3",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Valenciennes",
+   "away": "Concarneau",
+   "liga": "Ligue 3",
+   "minuto": 54,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Villefranche",
+   "away": "Rouen",
+   "liga": "Ligue 3",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Orleans",
+   "away": "La Roche VF",
+   "liga": "Ligue 3",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.1,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Orleans buscará el empate"
+   ]
+  },
+  {
+   "home": "Cannes",
+   "away": "Le Puy Foot",
+   "liga": "Ligue 3",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 0.1,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Le Puy Foot buscará el empate"
+   ]
+  },
+  {
+   "home": "Aubagne",
+   "away": "Bourg-en-bresse 01",
+   "liga": "Ligue 3",
+   "minuto": 54,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 0.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "15:59",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -294,12 +300,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
    "tipo": "live"
   }
@@ -425,7 +425,7 @@
   "balance_dia": 1206.0,
   "ganados": 2191,
   "perdidos": 933,
-  "pendientes": 37,
+  "pendientes": 38,
   "ganados_dia": 38,
   "perdidos_dia": 10,
   "win_rate": 70.1,
@@ -971,7 +971,7 @@
  "stats_dia": {
   "ganados": 40,
   "perdidos": 11,
-  "en_juego": 37,
+  "en_juego": 38,
   "win_rate": 78
  },
  "stats_banker": {
