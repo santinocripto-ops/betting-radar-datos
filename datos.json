@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:04:19.910507+00:00",
+ "actualizado": "2026-08-29T13:06:01.205377+00:00",
  "partidos_vivo": [
   {
    "home": "Chengdu Better City",
@@ -231,6 +231,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
