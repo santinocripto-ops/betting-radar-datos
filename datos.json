@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T00:55:09.602504+00:00",
+ "actualizado": "2026-08-29T01:02:43.882664+00:00",
  "partidos_vivo": [
   {
    "home": "Nautico Recife",
@@ -61,6 +61,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:02",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:02",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "02:48",
@@ -112,18 +124,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "02:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:04",
    "tipo": "smart_money"
   },
   {
@@ -204,12 +204,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45356.0,
-  "balance_total": 35356.0,
+  "capital": 45417.0,
+  "balance_total": 35417.0,
   "balance_dia": 0.0,
-  "ganados": 2152,
+  "ganados": 2153,
   "perdidos": 923,
-  "pendientes": 5,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
