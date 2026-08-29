@@ -1,118 +1,42 @@
 {
- "actualizado": "2026-08-29T17:52:45.789790+00:00",
+ "actualizado": "2026-08-29T18:00:42.752389+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Kholood",
-   "away": "Al-Ahli Jeddah",
-   "liga": "Pro League",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 22,
-   "momentum_away": 78,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 1 gol — Al-Ahli Jeddah buscará el empate",
-    "⏱ 29 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "De Treffers",
-   "away": "Rijnsburgse Boys",
-   "liga": "Tweede Divisie",
-   "minuto": 64,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.06 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — De Treffers buscará el empate"
-   ]
-  },
-  {
-   "home": "VfB Oldenburg",
-   "away": "Eimsbütteler TV",
-   "liga": "Regionalliga - Nord",
-   "minuto": 62,
-   "marcador": "4-3",
-   "apuesta": "Over 7.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.54 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Kortrijk",
-   "away": "Charleroi",
-   "liga": "Jupiler Pro League",
-   "minuto": 55,
-   "marcador": "1-1",
+   "home": "Fiorentina",
+   "away": "Frosinone",
+   "liga": "Serie A",
+   "minuto": 65,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 6.7,
-   "recomendar": false,
-   "momentum_home": 43,
-   "momentum_away": 57,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ 2 goles — partido activo",
+    "⚡ Fiorentina pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Foggia",
-   "away": "Salernitana",
-   "liga": "Serie C - Girone C",
-   "minuto": 64,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 5.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "home": "AZ Alkmaar",
+   "away": "GO Ahead Eagles",
+   "liga": "Eredivisie",
+   "minuto": 57,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 87,
+   "momentum_away": 13,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Nimes",
-   "away": "Fréjus St-Raphaël",
-   "liga": "National 2 - Group C",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 5.1,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 3.8 goles/partido",
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
@@ -135,45 +59,57 @@
    ]
   },
   {
-   "home": "Torres",
-   "away": "Sambenedettese",
-   "liga": "Serie C - Girone B",
+   "home": "Hamrun Spartans",
+   "away": "Floriana",
+   "liga": "Premier League",
    "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.4,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "🔒 Liga poco goleadora: 1.91 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Floriana buscará el empate",
+    "⏱ 27 minutos por jugar — margen justo"
    ]
   },
   {
-   "home": "Safa Baku",
-   "away": "Imisli FK",
-   "liga": "Premyer Liqa",
-   "minuto": 59,
+   "home": "Partizani",
+   "away": "Laci",
+   "liga": "Superliga",
+   "minuto": 63,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 1.5,
+   "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.09 goles/partido",
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Safa Baku buscará el empate"
+    "⚽ 1 gol — Partizani buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "20:00",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -233,18 +169,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:08",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:45",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -294,6 +218,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Deportivo Riestra",
+   "away": "Velez Sarsfield",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Deportivo Binacional",
    "away": "Comerciantes",
@@ -348,17 +283,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Al Ain",
-   "away": "Al Nasr",
-   "liga": "Pro League",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -368,7 +292,7 @@
   "balance_dia": 1290.0,
   "ganados": 2227,
   "perdidos": 953,
-  "pendientes": 26,
+  "pendientes": 27,
   "ganados_dia": 74,
   "perdidos_dia": 30,
   "win_rate": 70.0,
@@ -954,12 +878,12 @@
   "n": 2231,
   "ganados": 1546,
   "win_rate": 69,
-  "hoy": 79
+  "hoy": 80
  },
  "stats_dia": {
   "ganados": 76,
   "perdidos": 31,
-  "en_juego": 26,
+  "en_juego": 27,
   "win_rate": 71
  },
  "stats_banker": {
