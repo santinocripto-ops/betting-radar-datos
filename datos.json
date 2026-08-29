@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T20:51:00.739500+00:00",
+ "actualizado": "2026-08-29T20:57:16.134156+00:00",
  "partidos_vivo": [
   {
    "home": "Torreense",
@@ -330,7 +330,7 @@
   "balance_dia": 1603.0,
   "ganados": 2252,
   "perdidos": 964,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 99,
   "perdidos_dia": 41,
   "win_rate": 70.0,
@@ -900,7 +900,7 @@
  "stats_dia": {
   "ganados": 101,
   "perdidos": 42,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 71
  },
  "stats_banker": {
