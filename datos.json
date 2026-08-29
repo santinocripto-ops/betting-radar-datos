@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:28:24.214917+00:00",
+ "actualizado": "2026-08-29T12:35:04.193946+00:00",
  "partidos_vivo": [
   {
    "home": "Tus Dassendorf",
@@ -118,6 +118,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:35",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:28",
@@ -176,12 +182,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -795,6 +795,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group ",
+   "apuesta": "SI, Counter-Strike: Legacy ganara",
+   "usdc": 90323,
+   "prob": 37.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "14:34"
+  },
+  {
    "titulo": "Will Nottingham Forest FC win on 2026-08-29?",
    "apuesta": "NO, Nottingham Forest no ganara",
    "usdc": 20060,
@@ -856,15 +865,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "10:14"
-  },
-  {
-   "titulo": "Will Racing Club de Lens win on 2026-08-29?",
-   "apuesta": "SI, Racing Club de Lens ganara",
-   "usdc": 137000,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "07:02"
   }
  ],
  "stats_gt": {
