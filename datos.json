@@ -1,40 +1,78 @@
 {
- "actualizado": "2026-08-29T10:53:34.190773+00:00",
+ "actualizado": "2026-08-29T11:01:04.700814+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Tallinn",
-   "away": "Nõmme Kalju II",
-   "liga": "Esiliiga A",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
+   "home": "V-varen Nagasaki",
+   "away": "FC Tokyo",
+   "liga": "J1 League",
+   "minuto": 61,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 32,
+   "momentum_away": 68,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — FC Tallinn buscará el empate"
+    "🔥 3 goles — partido muy abierto",
+    "⚡ V-varen Nagasaki pierde por 3 — atacará sin freno"
    ]
   },
   {
-   "home": "Flora II",
-   "away": "Tallinna Kalev",
-   "liga": "Esiliiga A",
-   "minuto": 48,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 7.5,
+   "home": "Lozova",
+   "away": "Atlet",
+   "liga": "Druha Liga",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 7.4,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Lozova buscará el empate"
+   ]
+  },
+  {
+   "home": "Ipswich Town U18",
+   "away": "AFC Bournemouth U18",
+   "liga": "U18 Premier League - South",
+   "minuto": 46,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "MetroStars",
+   "away": "West Torrens Birkalla",
+   "liga": "South Australia NPL",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 1.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.1 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
