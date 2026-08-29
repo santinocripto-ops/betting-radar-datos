@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T20:44:31.928135+00:00",
+ "actualizado": "2026-08-29T20:51:00.739500+00:00",
  "partidos_vivo": [
   {
    "home": "Torreense",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:50",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "22:37",
@@ -201,12 +207,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -257,6 +257,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Seattle Sounders",
+   "away": "Chicago Fire",
+   "liga": "Major League Soccer",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Rosario Central",
    "away": "Gimnasia L.P.",
    "liga": "Liga Profesional Argentina",
@@ -306,17 +317,6 @@
    "liga": "1. Lig",
    "minuto": 11,
    "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Gaziantep FK",
-   "away": "Rizespor",
-   "liga": "Süper Lig",
-   "minuto": 11,
-   "score": 8.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -895,7 +895,7 @@
   "n": 2256,
   "ganados": 1561,
   "win_rate": 69,
-  "hoy": 90
+  "hoy": 91
  },
  "stats_dia": {
   "ganados": 101,
