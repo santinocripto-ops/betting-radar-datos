@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T15:56:51.098246+00:00",
+ "actualizado": "2026-08-29T16:06:05.873753+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -232,6 +232,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "18:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "17:56",
@@ -284,24 +302,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -319,7 +319,7 @@
    "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 69,
-   "n_historico": 87
+   "n_historico": 89
   },
   {
    "clave": "over25",
@@ -331,9 +331,9 @@
    "cuota": null,
    "score": 10,
    "hora": "13:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1042
+   "n_historico": 1043
   },
   {
    "clave": "btts",
@@ -347,7 +347,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1013
+   "n_historico": 1018
   }
  ],
  "gol_temprano": [
@@ -420,16 +420,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 46823.0,
-  "balance_total": 36823.0,
-  "balance_dia": 1406.0,
-  "ganados": 2215,
-  "perdidos": 945,
-  "pendientes": 23,
-  "ganados_dia": 62,
-  "perdidos_dia": 22,
-  "win_rate": 70.1,
-  "roi": 11.7,
+  "capital": 46657.0,
+  "balance_total": 36657.0,
+  "balance_dia": 1240.0,
+  "ganados": 2221,
+  "perdidos": 950,
+  "pendientes": 12,
+  "ganados_dia": 68,
+  "perdidos_dia": 27,
+  "win_rate": 70.0,
+  "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -568,7 +568,7 @@
     "away": "Arsenal U18",
     "liga": "U18 Premier League - South",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -637,8 +637,8 @@
    }
   ],
   "balance": {
-   "ganados": 1221,
-   "perdidos": 834,
+   "ganados": 1225,
+   "perdidos": 836,
    "acierto": 59.4,
    "yield": 12.9,
    "cuota_media": 1.9
@@ -657,21 +657,21 @@
    "away": "Al-Dhafra",
    "liga": "Pro League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Brighton U18",
    "away": "Arsenal U18",
    "liga": "U18 Premier League - South",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "FSV Mainz 05",
    "away": "SC Paderborn 07",
    "liga": "Bundesliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Alingsås W",
@@ -972,16 +972,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2219,
-  "ganados": 1538,
+  "n": 2225,
+  "ganados": 1541,
   "win_rate": 69,
   "hoy": 62
  },
  "stats_dia": {
-  "ganados": 64,
-  "perdidos": 23,
-  "en_juego": 23,
-  "win_rate": 74
+  "ganados": 70,
+  "perdidos": 28,
+  "en_juego": 12,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 68,
