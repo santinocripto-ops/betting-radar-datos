@@ -1,11 +1,49 @@
 {
- "actualizado": "2026-08-29T06:00:43.000846+00:00",
+ "actualizado": "2026-08-29T06:09:20.713291+00:00",
  "partidos_vivo": [
   {
-   "home": "South Hobart",
-   "away": "Kingborough Lions",
-   "liga": "Tasmania NPL",
+   "home": "Avondale",
+   "away": "Hume City",
+   "liga": "Victoria NPL",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Hume City buscará el empate"
+   ]
+  },
+  {
+   "home": "Heidelberg United",
+   "away": "Bentleigh Greens",
+   "liga": "Victoria NPL",
    "minuto": 46,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Oakleigh Cannons",
+   "away": "Dandenong City",
+   "liga": "Victoria NPL",
+   "minuto": 51,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "score": 8.0,
@@ -15,32 +53,114 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Kahibah",
-   "away": "New Lambton",
-   "liga": "Northern NSW NPL",
-   "minuto": 47,
+   "home": "Sunshine Georgies",
+   "away": "South Melbourne",
+   "liga": "Victoria NPL",
+   "minuto": 50,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — New Lambton buscará el empate"
+    "⚽ 1 gol — South Melbourne buscará el empate"
+   ]
+  },
+  {
+   "home": "St. Albans Saints",
+   "away": "Dandenong Thunder",
+   "liga": "Victoria NPL",
+   "minuto": 50,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Melbourne City II",
+   "away": "Green Gully",
+   "liga": "Victoria NPL",
+   "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Green Gully buscará el empate"
+   ]
+  },
+  {
+   "home": "Moreland City",
+   "away": "Essendon Royals SC",
+   "liga": "Victoria Premier League 2",
+   "minuto": 48,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Preston Lions",
+   "away": "Altona Magic",
+   "liga": "Victoria NPL",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Altona Magic buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "08:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -106,12 +226,6 @@
    "texto": "──────────────────────────────",
    "hora": "05:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:28",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -178,7 +292,7 @@
    "minuto": 11,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
@@ -196,14 +310,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45689.0,
-  "balance_total": 35689.0,
-  "balance_dia": 272.0,
-  "ganados": 2161,
-  "perdidos": 925,
-  "pendientes": 4,
-  "ganados_dia": 8,
-  "perdidos_dia": 2,
+  "capital": 45695.0,
+  "balance_total": 35695.0,
+  "balance_dia": 278.0,
+  "ganados": 2163,
+  "perdidos": 926,
+  "pendientes": 2,
+  "ganados_dia": 10,
+  "perdidos_dia": 3,
   "win_rate": 70.0,
   "roi": 11.6,
   "stake": 100.0,
@@ -353,7 +467,7 @@
    "away": "U.N.A.M. - Pumas",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -655,16 +769,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2174,
+  "n": 2175,
   "ganados": 1508,
   "win_rate": 69,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 2,
-  "en_juego": 5,
-  "win_rate": 82
+  "ganados": 11,
+  "perdidos": 3,
+  "en_juego": 3,
+  "win_rate": 79
  },
  "stats_banker": {
   "ganados": 67,
