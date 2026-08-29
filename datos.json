@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:37:46.212512+00:00",
+ "actualizado": "2026-08-29T11:37:51.888046+00:00",
  "partidos_vivo": [
   {
    "home": "Radomiak Radom",
@@ -349,7 +349,7 @@
   "balance_dia": 550.0,
   "ganados": 2171,
   "perdidos": 928,
-  "pendientes": 23,
+  "pendientes": 24,
   "ganados_dia": 18,
   "perdidos_dia": 5,
   "win_rate": 70.1,
@@ -569,6 +569,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Bucheon FC 1995",
+   "away": "FC Anyang",
+   "liga": "K League 1",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Jagiellonia II",
    "away": "Lechia T. Mazowiecki",
@@ -904,7 +911,7 @@
  "stats_dia": {
   "ganados": 19,
   "perdidos": 5,
-  "en_juego": 25,
+  "en_juego": 26,
   "win_rate": 79
  },
  "stats_banker": {
