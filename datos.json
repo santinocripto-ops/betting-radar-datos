@@ -1,27 +1,70 @@
 {
- "actualizado": "2026-08-29T05:02:27.211783+00:00",
+ "actualizado": "2026-08-29T05:03:53.558116+00:00",
  "partidos_vivo": [
   {
-   "home": "Club Tijuana",
-   "away": "U.N.A.M. - Pumas",
-   "liga": "Liga MX",
+   "home": "South Hobart",
+   "away": "Kingborough Lions",
+   "liga": "Tasmania NPL",
    "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.8,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Kahibah",
+   "away": "New Lambton",
+   "liga": "Northern NSW NPL",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — New Lambton buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "07:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "07:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "07:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "07:03",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,30 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "05:28",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "05:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "05:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "05:06",
    "tipo": "smart_money"
   }
  ],
@@ -177,14 +196,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45789.0,
-  "balance_total": 35789.0,
-  "balance_dia": 372.0,
+  "capital": 45689.0,
+  "balance_total": 35689.0,
+  "balance_dia": 272.0,
   "ganados": 2161,
-  "perdidos": 924,
+  "perdidos": 925,
   "pendientes": 4,
   "ganados_dia": 8,
-  "perdidos_dia": 1,
+  "perdidos_dia": 2,
   "win_rate": 70.0,
   "roi": 11.6,
   "stake": 100.0,
@@ -643,9 +662,9 @@
  },
  "stats_dia": {
   "ganados": 9,
-  "perdidos": 1,
+  "perdidos": 2,
   "en_juego": 5,
-  "win_rate": 90
+  "win_rate": 82
  },
  "stats_banker": {
   "ganados": 67,
