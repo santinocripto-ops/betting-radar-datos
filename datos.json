@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T08:06:33.006663+00:00",
+ "actualizado": "2026-08-29T08:07:34.352739+00:00",
  "partidos_vivo": [
   {
    "home": "Seosan Pioneer",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -99,12 +105,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "09:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:07",
    "tipo": "smart_money"
   },
   {
