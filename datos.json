@@ -1,160 +1,242 @@
 {
- "actualizado": "2026-08-29T20:03:35.619128+00:00",
+ "actualizado": "2026-08-29T20:08:09.974358+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Riestra",
-   "away": "Velez Sarsfield",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.4,
-   "recomendar": true,
-   "momentum_home": 37,
-   "momentum_away": 63,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Velez Sarsfield buscará el empate",
-    "🎯 13 remates totales",
-    "🎯 6 remates a puerta"
-   ]
-  },
-  {
-   "home": "Sparta Petegem",
-   "away": "Zulte Waregem II",
-   "liga": "Second Amateur Division - VFV A",
+   "home": "NK Varazdin",
+   "away": "Rudes",
+   "liga": "HNL",
    "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 80,
+   "momentum_away": 20,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ Liga muy goleadora: 3.6 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "JKT Tanzania",
-   "away": "Namungo",
-   "liga": "Ligi kuu Bara",
-   "minuto": 46,
+   "home": "Juventus",
+   "away": "Parma",
+   "liga": "Serie A",
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 86,
+   "momentum_away": 14,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +1.5 (Serie A)",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Serrano PE U20",
-   "away": "Jaguar U20",
-   "liga": "Pernambucano - U20",
+   "home": "Lyon",
+   "away": "Le Havre",
+   "liga": "Ligue 1",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 44,
+   "momentum_away": 56,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Novi Pazar",
+   "away": "Macva",
+   "liga": "Super Liga",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Cercle Brugge",
+   "away": "Lommel United",
+   "liga": "Jupiler Pro League",
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ 1 gol — Cercle Brugge buscará el empate"
+   ]
+  },
+  {
+   "home": "Sportivo Trinidense",
+   "away": "2 de Mayo",
+   "liga": "Division Profesional - Clausura",
    "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 9 remates totales"
    ]
   },
   {
-   "home": "RWDM",
-   "away": "Flénu",
-   "liga": "First Amateur Division",
-   "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "home": "OH Leuven",
+   "away": "Standard Liege",
+   "liga": "Jupiler Pro League",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 9.1,
+   "recomendar": true,
+   "momentum_home": 78,
+   "momentum_away": 22,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ 1 gol — OH Leuven buscará el empate"
+   ]
+  },
+  {
+   "home": "Auxerre",
+   "away": "Angers",
+   "liga": "Ligue 1",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 8.7,
+   "recomendar": true,
+   "momentum_home": 49,
+   "momentum_away": 51,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Olimpia Grudziądz",
-   "away": "Podhale Nowy Targ",
-   "liga": "II Liga - East",
-   "minuto": 64,
+   "home": "Stade Brestois 29",
+   "away": "Toulouse",
+   "liga": "Ligue 1",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 8.4,
+   "recomendar": true,
+   "momentum_home": 77,
+   "momentum_away": 23,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Radnicki NIS",
+   "away": "Radnicki 1923",
+   "liga": "Super Liga",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 7.9,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Radnicki 1923 buscará el empate",
+    "🎯 8 remates totales",
+    "⏱ 43 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Inter U23",
+   "away": "Team Altamura",
+   "liga": "Serie C - Girone C",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 6.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Lorient",
+   "away": "Estac Troyes",
+   "liga": "Ligue 1",
+   "minuto": 62,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
-   "score": 5.1,
+   "score": 5.9,
    "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 60,
+   "momentum_away": 40,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Gori",
-   "away": "Shturmi",
-   "liga": "Erovnuli Liga 2",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Houtvenne",
-   "away": "Oud-Heverlee Leuven II",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 0.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
     "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "22:08",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -219,12 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "21:03",
    "tipo": "live"
   }
  ],
@@ -344,16 +420,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 47363.0,
-  "balance_total": 37363.0,
-  "balance_dia": 1946.0,
-  "ganados": 2247,
-  "perdidos": 958,
-  "pendientes": 16,
-  "ganados_dia": 94,
-  "perdidos_dia": 35,
-  "win_rate": 70.1,
-  "roi": 11.7,
+  "capital": 47020.0,
+  "balance_total": 37020.0,
+  "balance_dia": 1603.0,
+  "ganados": 2252,
+  "perdidos": 964,
+  "pendientes": 7,
+  "ganados_dia": 99,
+  "perdidos_dia": 41,
+  "win_rate": 70.0,
+  "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -574,21 +650,21 @@
    "away": "Velez Sarsfield",
    "liga": "Liga Profesional Argentina",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Deportivo Binacional",
    "away": "Comerciantes",
    "liga": "Segunda División",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Lokomotiv",
    "away": "Dynamo",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Tottenham",
@@ -603,17 +679,40 @@
    "liga": "Serie C - Girone C",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Arges Pitesti",
-   "away": "Sepsi OSK Sfantu Gheorghe",
-   "liga": "Liga I",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Torreense",
+    "away": "Vizela",
+    "liga": "Segunda Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.74,
+    "pinnacle": true,
+    "delta": 3.85,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T19:30:00+00:00",
+    "ts": "2026-08-29T19:05:53.710717+00:00"
+   },
+   {
+    "home": "Midland",
+    "away": "Nueva Chicago",
+    "liga": "Primera Nacional",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 3.16,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T19:30:00+00:00",
+    "ts": "2026-08-29T19:05:55.039992+00:00"
+   },
    {
     "home": "Norwich",
     "away": "Burnley",
@@ -808,42 +907,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-28T18:00:00+00:00",
     "ts": "2026-08-28T12:10:01.305169+00:00"
-   },
-   {
-    "home": "Rodez",
-    "away": "PAU",
-    "liga": "Ligue 2",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": null,
-    "pinnacle": false,
-    "delta": 3.32,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T18:00:00+00:00",
-    "ts": "2026-08-28T15:08:16.887706+00:00"
-   },
-   {
-    "home": "Voitsberg",
-    "away": "FC Liefering",
-    "liga": "2. Liga",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 7,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 5.13,
-    "marcador": "2-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T08:08:10.573293+00:00"
    }
   ],
   "balance": {
    "ganados": 171,
    "perdidos": 76,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 69.2,
    "total": 247
   }
@@ -932,16 +1001,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2249,
-  "ganados": 1560,
+  "n": 2256,
+  "ganados": 1561,
   "win_rate": 69,
   "hoy": 89
  },
  "stats_dia": {
-  "ganados": 96,
-  "perdidos": 36,
-  "en_juego": 16,
-  "win_rate": 73
+  "ganados": 101,
+  "perdidos": 42,
+  "en_juego": 7,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 68,
