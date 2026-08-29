@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T08:35:37.273454+00:00",
+ "actualizado": "2026-08-29T08:42:31.155677+00:00",
  "partidos_vivo": [
   {
    "home": "Canterbury Bankstown",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:42",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -75,12 +81,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -596,6 +596,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "UFC Fight Night: Liu Ce vs. Levi Rodrigues Jr. (Light Heavyweight, Mai",
+   "apuesta": "SI, UFC Fight Night: Liu Ce ganara",
+   "usdc": 85872,
+   "prob": 60.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "10:42"
+  },
+  {
    "titulo": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
    "apuesta": "SI, LoL: T1 ganara",
    "usdc": 90209,
@@ -657,15 +666,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "22:48"
-  },
-  {
-   "titulo": "Will Deportivo Alavés vs. Villarreal CF end in a draw?",
-   "apuesta": "NO acabará en empate",
-   "usdc": 60039,
-   "prob": 71.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "22:33"
   }
  ],
  "stats_gt": {
