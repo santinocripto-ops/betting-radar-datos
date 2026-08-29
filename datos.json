@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:13:11.040402+00:00",
+ "actualizado": "2026-08-29T09:13:26.417205+00:00",
  "partidos_vivo": [
   {
    "home": "Dumbrăviţa",
@@ -162,6 +162,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Slovácko U19",
+   "away": "Zlín U19",
+   "liga": "1. Liga U19",
+   "minuto": 14,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Fukushima United",
+   "away": "Nara Club",
+   "liga": "J3 League",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Kamatamare Sanuki",
+   "away": "Kagoshima United",
+   "liga": "J3 League",
+   "minuto": 10,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Chrudim",
    "away": "Baník Souš",
    "liga": "3. liga - CFL B",
@@ -189,28 +222,6 @@
    "liga": "Northern NSW NPL",
    "minuto": 13,
    "score": 9.1,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Club Tijuana",
-   "away": "U.N.A.M. - Pumas",
-   "liga": "Liga MX",
-   "minuto": 11,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "NJ/NY Gotham FC W",
-   "away": "Portland Thorns W",
-   "liga": "NWSL Women",
-   "minuto": 10,
-   "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-29",
@@ -681,7 +692,7 @@
   "n": 2176,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 5
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 18,
