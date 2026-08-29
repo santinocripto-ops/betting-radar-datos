@@ -1,165 +1,70 @@
 {
- "actualizado": "2026-08-29T09:57:54.937339+00:00",
+ "actualizado": "2026-08-29T10:07:07.954145+00:00",
  "partidos_vivo": [
   {
-   "home": "Chomutov",
-   "away": "Meteor Praha",
-   "liga": "4. liga - Divizie B",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Ústí nad Labem II",
-   "away": "Sokol Hostouň",
-   "liga": "4. liga - Divizie B",
+   "home": "Qingdao Jonoon",
+   "away": "Wuhan Three Towns",
+   "liga": "Super League",
    "minuto": 48,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Qingdao Jonoon pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Opava II",
-   "away": "Kravare",
-   "liga": "4. liga - Divizie F",
-   "minuto": 59,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Slovan Liberec II",
-   "away": "Teplice II",
-   "liga": "3. liga - CFL B",
-   "minuto": 60,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Neratovice-Byškovice",
-   "away": "Varnsdorf",
-   "liga": "3. liga - CFL B",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Brandýs nad Labem",
-   "away": "Tempo Praha",
-   "liga": "4. liga - Divizie B",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Brandýs nad Labem buscará el empate"
-   ]
-  },
-  {
-   "home": "Hlinsko",
-   "away": "Vykan",
-   "liga": "4. liga - Divizie C",
-   "minuto": 46,
+   "home": "Stuttgart U19",
+   "away": "Freiburg U19",
+   "liga": "DFB Junioren Pokal",
+   "minuto": 58,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 6.8,
-   "recomendar": false,
+   "score": 7.3,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.35 goles/partido",
+    "⚽ Liga muy goleadora: 5.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Břidličná",
-   "away": "Bílovec",
-   "liga": "4. liga - Divizie F",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.1,
-   "recomendar": false,
+   "home": "Slovácko U19",
+   "away": "Zlín U19",
+   "liga": "1. Liga U19",
+   "minuto": 49,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 7.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Bílovec buscará el empate"
+    "⚽ Liga muy goleadora: 4.81 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Újezd Praha 4",
-   "away": "Ostrov",
-   "liga": "4. liga - Divizie B",
-   "minuto": 64,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "home": "Eger",
+   "away": "Kisvárda II",
+   "liga": "NB III - Northeast",
+   "minuto": 50,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "score": 6.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -167,16 +72,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Escola Varsovia U19",
-   "away": "Arkonia U19",
+   "home": "Arka Gdynia U19",
+   "away": "Jagiellonia U19",
    "liga": "Central Youth League",
-   "minuto": 49,
+   "minuto": 47,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 6.0,
@@ -192,32 +97,13 @@
    ]
   },
   {
-   "home": "Křimice",
-   "away": "Komárov",
-   "liga": "4. liga - Divizie A",
-   "minuto": 60,
-   "marcador": "1-2",
+   "home": "Ayeyawady United",
+   "away": "I.S.P.E",
+   "liga": "National League",
+   "minuto": 47,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
-   "score": 5.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Chrudim",
-   "away": "Baník Souš",
-   "liga": "3. liga - CFL B",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 4.6,
+   "score": 5.9,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -225,8 +111,65 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Dagon",
+   "away": "Hantharwady United",
+   "liga": "National League",
+   "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Illescas",
+   "away": "Pozuelo Alarcón",
+   "liga": "Friendlies Clubs",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 3.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Iwaki",
+   "away": "Albirex Niigata",
+   "liga": "J2 League",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 3.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
