@@ -1,68 +1,49 @@
 {
- "actualizado": "2026-08-29T00:40:55.132493+00:00",
+ "actualizado": "2026-08-29T00:48:15.635625+00:00",
  "partidos_vivo": [
   {
-   "home": "Inter Miami II",
-   "away": "Atlanta United II",
-   "liga": "MLS Next Pro",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Toronto II",
-   "away": "New York City II",
-   "liga": "MLS Next Pro",
-   "minuto": 58,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Atlético Ottawa",
-   "away": "York United",
-   "liga": "Canadian Premier League",
-   "minuto": 48,
+   "home": "Nautico Recife",
+   "away": "Athletic Club",
+   "liga": "Serie B",
+   "minuto": 54,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 68,
+   "momentum_away": 32,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Atlético Ottawa buscará el empate"
+    "⚽ 1 gol — Nautico Recife buscará el empate",
+    "🎯 18 remates totales",
+    "🎯 5 remates a puerta"
    ]
   },
   {
-   "home": "Supra du Quebec",
-   "away": "Forge",
-   "liga": "Canadian Premier League",
-   "minuto": 47,
+   "home": "Novorizontino",
+   "away": "Sport Recife",
+   "liga": "Serie B",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Sport Recife buscará el empate",
+    "🎯 20 remates totales — partido muy intenso",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Fort Lauderdale United W",
+   "away": "Brooklyn W",
+   "liga": "USL Super League",
+   "minuto": 50,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 7.5,
@@ -72,9 +53,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Forge buscará el empate"
+    "⚽ 1 gol — Brooklyn W buscará el empate"
    ]
   }
  ],
