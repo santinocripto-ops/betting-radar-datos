@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:44:03.406963+00:00",
+ "actualizado": "2026-08-29T09:51:02.339966+00:00",
  "partidos_vivo": [
   {
    "home": "Chomutov",
@@ -234,6 +234,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:50",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:43",
    "tipo": "live"
   },
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:03",
    "tipo": "smart_money"
   }
  ],
@@ -371,6 +371,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "V-varen Nagasaki",
+   "away": "FC Tokyo",
+   "liga": "J1 League",
+   "minuto": 17,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "FC Tallinn",
    "away": "Nõmme Kalju II",
    "liga": "Esiliiga A",
@@ -424,17 +435,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Hradec Králové U19",
-   "away": "Pardubice U19",
-   "liga": "1. Liga U19",
-   "minuto": 11,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -444,7 +444,7 @@
   "balance_dia": 589.0,
   "ganados": 2170,
   "perdidos": 927,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 17,
   "perdidos_dia": 4,
   "win_rate": 70.1,
@@ -908,12 +908,12 @@
   "n": 2176,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 9
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 18,
   "perdidos": 4,
-  "en_juego": 10,
+  "en_juego": 11,
   "win_rate": 82
  },
  "stats_banker": {
