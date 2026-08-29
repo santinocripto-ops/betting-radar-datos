@@ -1,42 +1,118 @@
 {
- "actualizado": "2026-08-29T18:25:42.792830+00:00",
+ "actualizado": "2026-08-29T18:34:26.819253+00:00",
  "partidos_vivo": [
   {
-   "home": "Fiorentina",
-   "away": "Frosinone",
-   "liga": "Serie A",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Academico Viseu",
+   "away": "FC Porto",
+   "liga": "Primeira Liga",
+   "minuto": 64,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Serie A)",
-    "⚽ 2 goles — partido activo",
-    "⚡ Fiorentina pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +0.5 (Primeira Liga)",
+    "⚽ Liga por encima de la media: 2.84 goles/partido",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "AZ Alkmaar",
-   "away": "GO Ahead Eagles",
-   "liga": "Eredivisie",
-   "minuto": 57,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 87,
-   "momentum_away": 13,
+   "home": "Huesca",
+   "away": "Sant Andreu",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 3.8 goles/partido",
-    "🔥 4 goles — partido muy abierto"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Mérida AD",
+   "away": "Deportivo La Coruña II",
+   "liga": "Primera División RFEF - Group 1",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Zamora",
+   "away": "Athletic Club II",
+   "liga": "Primera División RFEF - Group 1",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga muy cerrada: 1.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Tonota",
+   "away": "TAFIC",
+   "liga": "Premier League",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 4.7,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Lexington W",
+   "away": "DC Power W",
+   "liga": "USL Super League",
+   "minuto": 62,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 4.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Lexington W buscará el empate"
    ]
   },
   {
@@ -59,13 +135,13 @@
    ]
   },
   {
-   "home": "Hamrun Spartans",
-   "away": "Floriana",
-   "liga": "Premier League",
-   "minuto": 63,
-   "marcador": "1-0",
+   "home": "Rayo Majadahonda",
+   "away": "Villarreal II",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 59,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 0.0,
+   "score": 2.1,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -73,17 +149,36 @@
    "remates_away": "-",
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Floriana buscará el empate",
-    "⏱ 27 minutos por jugar — margen justo"
+    "⚽ 1 gol — Rayo Majadahonda buscará el empate",
+    "⏱ 31 minutos por jugar — tiempo suficiente"
    ]
   },
   {
-   "home": "Partizani",
-   "away": "Laci",
-   "liga": "Superliga",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Algeciras",
+   "away": "FC Cartagena",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 53,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 1.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto",
+    "⏱ 37 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Juventud",
+   "away": "Deportivo Maldonado",
+   "liga": "Primera División",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
@@ -91,13 +186,19 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Partizani buscará el empate"
+    "⚽ 2 goles — partido activo",
+    "⚡ Deportivo Maldonado pierde por 2 — atacará sin freno"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "20:34",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -138,12 +239,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:09",
    "tipo": "smart_money"
   },
   {
@@ -292,7 +387,7 @@
   "balance_dia": 1735.0,
   "ganados": 2240,
   "perdidos": 956,
-  "pendientes": 15,
+  "pendientes": 18,
   "ganados_dia": 87,
   "perdidos_dia": 33,
   "win_rate": 70.1,
@@ -544,13 +639,6 @@
    "home": "Halmstad",
    "away": "Kalmar FF",
    "liga": "Allsvenskan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Víkingur II",
-   "away": "HB II",
-   "liga": "1. Deild",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -883,7 +971,7 @@
  "stats_dia": {
   "ganados": 89,
   "perdidos": 34,
-  "en_juego": 15,
+  "en_juego": 18,
   "win_rate": 72
  },
  "stats_banker": {
