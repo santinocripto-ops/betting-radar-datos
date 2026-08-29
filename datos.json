@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:45:00.427853+00:00",
+ "actualizado": "2026-08-29T11:51:27.851747+00:00",
  "partidos_vivo": [
   {
    "home": "Radomiak Radom",
@@ -349,7 +349,7 @@
   "balance_dia": 550.0,
   "ganados": 2171,
   "perdidos": 928,
-  "pendientes": 24,
+  "pendientes": 31,
   "ganados_dia": 18,
   "perdidos_dia": 5,
   "win_rate": 70.1,
@@ -911,7 +911,7 @@
  "stats_dia": {
   "ganados": 19,
   "perdidos": 5,
-  "en_juego": 26,
+  "en_juego": 33,
   "win_rate": 79
  },
  "stats_banker": {
