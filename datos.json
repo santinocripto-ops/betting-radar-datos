@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:50:43.719326+00:00",
+ "actualizado": "2026-08-29T13:56:39.754579+00:00",
  "partidos_vivo": [
   {
    "home": "Henan Jianye",
@@ -934,6 +934,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will AFC Bournemouth vs. Everton FC end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 205357,
+   "prob": 27.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "15:56"
+  },
   {
    "titulo": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
    "apuesta": "SI, TSG 1899 Hoffenheim ganara",
