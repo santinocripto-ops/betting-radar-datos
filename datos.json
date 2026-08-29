@@ -1,46 +1,109 @@
 {
- "actualizado": "2026-08-29T02:08:05.295499+00:00",
+ "actualizado": "2026-08-29T02:15:37.861711+00:00",
  "partidos_vivo": [
   {
-   "home": "Boca Juniors",
-   "away": "Lanus",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 9.0,
+   "home": "Necaxa",
+   "away": "Cruz Azul",
+   "liga": "Liga MX",
+   "minuto": 51,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 8.8,
    "recomendar": true,
-   "momentum_home": 72,
-   "momentum_away": 28,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.17 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Datos en vivo muy limitados — baja fiabilidad"
    ]
   },
   {
-   "home": "Chapulineros",
-   "away": "Jaguares de Chiapas",
-   "liga": "Primera Premier",
-   "minuto": 64,
+   "home": "Correcaminos Uat",
+   "away": "Durango",
+   "liga": "Liga de Expansión MX",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 1.0,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.43 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Union Magdalena",
+   "away": "Quindio",
+   "liga": "Primera B",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Juticalpa",
+   "away": "Lobos Upnfm",
+   "liga": "Liga Nacional",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Gimnasia Y Tiro",
+   "away": "Chacarita Juniors",
+   "liga": "Primera Nacional",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "04:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
@@ -105,12 +168,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "02:48",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:20",
    "tipo": "live"
   }
  ],
@@ -199,7 +256,7 @@
   "balance_dia": 0.0,
   "ganados": 2153,
   "perdidos": 923,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -661,7 +718,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 0
  },
  "stats_banker": {
