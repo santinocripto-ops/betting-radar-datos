@@ -1,179 +1,58 @@
 {
- "actualizado": "2026-08-29T10:27:32.628773+00:00",
+ "actualizado": "2026-08-29T10:34:21.753773+00:00",
  "partidos_vivo": [
   {
-   "home": "Qingdao Jonoon",
-   "away": "Wuhan Three Towns",
-   "liga": "Super League",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Qingdao Jonoon pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Stuttgart U19",
-   "away": "Freiburg U19",
-   "liga": "DFB Junioren Pokal",
-   "minuto": 58,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 7.3,
+   "home": "FC Tallinn",
+   "away": "Nõmme Kalju II",
+   "liga": "Esiliiga A",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 5.67 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — FC Tallinn buscará el empate"
    ]
   },
   {
-   "home": "Slovácko U19",
-   "away": "Zlín U19",
-   "liga": "1. Liga U19",
-   "minuto": 49,
+   "home": "Flora II",
+   "away": "Tallinna Kalev",
+   "liga": "Esiliiga A",
+   "minuto": 48,
    "marcador": "3-0",
    "apuesta": "Over 3.5",
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.81 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Eger",
-   "away": "Kisvárda II",
-   "liga": "NB III - Northeast",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Arka Gdynia U19",
-   "away": "Jagiellonia U19",
-   "liga": "Central Youth League",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Ayeyawady United",
-   "away": "I.S.P.E",
-   "liga": "National League",
-   "minuto": 47,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 5.9,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Dagon",
-   "away": "Hantharwady United",
-   "liga": "National League",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 5.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Illescas",
-   "away": "Pozuelo Alarcón",
-   "liga": "Friendlies Clubs",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 3.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Iwaki",
-   "away": "Albirex Niigata",
-   "liga": "J2 League",
-   "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 3.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "12:34",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "12:34",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -232,18 +111,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "11:36",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "11:20",
    "tipo": "live"
   }
  ],
@@ -314,6 +181,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Radomiak Radom",
+   "away": "Cracovia Krakow",
+   "liga": "Ekstraklasa",
+   "minuto": 16,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Urawa",
    "away": "Yokohama F. Marinos",
    "liga": "J1 League",
@@ -367,17 +245,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Jagiellonia II",
-   "away": "Lechia T. Mazowiecki",
-   "liga": "III Liga - Group 1",
-   "minuto": 12,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -387,7 +254,7 @@
   "balance_dia": 550.0,
   "ganados": 2171,
   "perdidos": 928,
-  "pendientes": 15,
+  "pendientes": 17,
   "ganados_dia": 18,
   "perdidos_dia": 5,
   "win_rate": 70.1,
@@ -850,12 +717,12 @@
   "n": 2177,
   "ganados": 1509,
   "win_rate": 69,
-  "hoy": 18
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 19,
   "perdidos": 5,
-  "en_juego": 17,
+  "en_juego": 19,
   "win_rate": 79
  },
  "stats_banker": {
