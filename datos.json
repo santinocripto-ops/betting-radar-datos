@@ -1,33 +1,109 @@
 {
- "actualizado": "2026-08-29T17:30:40.582107+00:00",
+ "actualizado": "2026-08-29T17:32:36.459079+00:00",
  "partidos_vivo": [
   {
-   "home": "Diyala",
-   "away": "Al-Jolan SC",
-   "liga": "Iraqi League",
-   "minuto": 53,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 6.5,
+   "home": "Al Kholood",
+   "away": "Al-Ahli Jeddah",
+   "liga": "Pro League",
+   "minuto": 61,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 22,
+   "momentum_away": 78,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ 1 gol — Al-Ahli Jeddah buscará el empate",
+    "⏱ 29 minutos por jugar — margen justo"
+   ]
+  },
+  {
+   "home": "De Treffers",
+   "away": "Rijnsburgse Boys",
+   "liga": "Tweede Divisie",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.06 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — De Treffers buscará el empate"
+   ]
+  },
+  {
+   "home": "VfB Oldenburg",
+   "away": "Eimsbütteler TV",
+   "liga": "Regionalliga - Nord",
+   "minuto": 62,
+   "marcador": "4-3",
+   "apuesta": "Over 7.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.54 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Kortrijk",
+   "away": "Charleroi",
+   "liga": "Jupiler Pro League",
+   "minuto": 55,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 6.7,
+   "recomendar": false,
+   "momentum_home": 43,
+   "momentum_away": 57,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Foggia",
+   "away": "Salernitana",
+   "liga": "Serie C - Girone C",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 5.3,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Diyala pierde por 2 — atacará sin freno"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Etar Veliko Tarnovo",
-   "away": "Beroe",
-   "liga": "Second League",
-   "minuto": 55,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 4.4,
+   "home": "Nimes",
+   "away": "Fréjus St-Raphaël",
+   "liga": "National 2 - Group C",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 5.1,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -36,144 +112,74 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Club Africain",
-   "away": "ES Hammam-Sousse",
-   "liga": "Ligue 1",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 3.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Mes Shahr-e Babak",
-   "away": "Sanat Naft",
-   "liga": "Persian Gulf Pro League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 2.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.89 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "U. San Martin",
-   "away": "Cesar Vallejo",
-   "liga": "Segunda División",
+   "home": "Gori",
+   "away": "Shturmi",
+   "liga": "Erovnuli Liga 2",
    "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 1.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cesar Vallejo buscará el empate"
-   ]
-  },
-  {
-   "home": "Persepolis FC",
-   "away": "Malavan",
-   "liga": "Persian Gulf Pro League",
-   "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.89 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "CS Sfaxien",
-   "away": "ES Zarzis",
-   "liga": "Ligue 1",
-   "minuto": 63,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 0.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "US Monastirienne",
-   "away": "Stade Tunisien",
-   "liga": "Ligue 1",
-   "minuto": 55,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 0.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Fajr Sepasi",
-   "away": "ZOB Ahan",
-   "liga": "Persian Gulf Pro League",
-   "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 0.0,
+   "score": 4.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.89 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Torres",
+   "away": "Sambenedettese",
+   "liga": "Serie C - Girone B",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 3.4,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "🔒 Liga poco goleadora: 1.91 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Safa Baku",
+   "away": "Imisli FK",
+   "liga": "Premyer Liqa",
+   "minuto": 59,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 1.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.09 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Safa Baku buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "19:32",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -238,12 +244,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:38",
    "tipo": "live"
   }
  ],
@@ -368,7 +368,7 @@
   "balance_dia": 1290.0,
   "ganados": 2227,
   "perdidos": 953,
-  "pendientes": 22,
+  "pendientes": 23,
   "ganados_dia": 74,
   "perdidos_dia": 30,
   "win_rate": 70.0,
@@ -959,7 +959,7 @@
  "stats_dia": {
   "ganados": 76,
   "perdidos": 31,
-  "en_juego": 22,
+  "en_juego": 23,
   "win_rate": 71
  },
  "stats_banker": {
