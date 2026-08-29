@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:31:14.004663+00:00",
+ "actualizado": "2026-08-29T16:38:18.918090+00:00",
  "partidos_vivo": [
   {
    "home": "Budapest Honved",
@@ -232,6 +232,36 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:38",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:37",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:37",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "18:31",
@@ -272,36 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:14",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -351,6 +351,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Kortrijk",
+   "away": "Charleroi",
+   "liga": "Jupiler Pro League",
+   "minuto": 21,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Sorrento",
    "away": "Crotone",
@@ -405,17 +416,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Lausanne",
-   "away": "FC Zurich",
-   "liga": "Super League",
-   "minuto": 14,
-   "score": 8.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -425,7 +425,7 @@
   "balance_dia": 1240.0,
   "ganados": 2221,
   "perdidos": 950,
-  "pendientes": 21,
+  "pendientes": 22,
   "ganados_dia": 68,
   "perdidos_dia": 27,
   "win_rate": 70.0,
@@ -646,6 +646,13 @@
  },
  "reentradas": [
   {
+   "home": "Halmstad",
+   "away": "Kalmar FF",
+   "liga": "Allsvenskan",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Víkingur II",
    "away": "HB II",
    "liga": "1. Deild",
@@ -677,13 +684,6 @@
    "home": "Alingsås W",
    "away": "Örebro SK W",
    "liga": "Elitettan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Nyiregyhaza",
-   "away": "Paks",
-   "liga": "NB I",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -935,6 +935,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Tottenham Hotspur FC vs. Newcastle United FC: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 18570,
+   "prob": 57.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:37"
+  },
+  {
+   "titulo": "Will Newcastle United FC win on 2026-08-29?",
+   "apuesta": "NO, Newcastle United no ganara",
+   "usdc": 23526,
+   "prob": 67.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:37"
+  },
+  {
+   "titulo": "Will Tottenham Hotspur FC vs. Newcastle United FC end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 263157,
+   "prob": 26.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:37"
+  },
+  {
    "titulo": "Will ACF Fiorentina win on 2026-08-29?",
    "apuesta": "NO, ACF Fiorentina no ganara",
    "usdc": 143452,
@@ -978,45 +1005,18 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "17:33"
-  },
-  {
-   "titulo": "Will AFC Bournemouth vs. Everton FC end in a draw?",
-   "apuesta": "SI, acabará en empate",
-   "usdc": 205357,
-   "prob": 27.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "15:56"
-  },
-  {
-   "titulo": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
-   "apuesta": "SI, TSG 1899 Hoffenheim ganara",
-   "usdc": 489185,
-   "prob": 43.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "15:37"
-  },
-  {
-   "titulo": "Coventry City FC vs. Hull City AFC: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 103957,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "15:12"
   }
  ],
  "stats_gt": {
   "n": 2225,
   "ganados": 1541,
   "win_rate": 69,
-  "hoy": 70
+  "hoy": 71
  },
  "stats_dia": {
   "ganados": 70,
   "perdidos": 28,
-  "en_juego": 21,
+  "en_juego": 22,
   "win_rate": 71
  },
  "stats_banker": {
