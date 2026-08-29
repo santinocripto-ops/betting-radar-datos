@@ -1,80 +1,23 @@
 {
- "actualizado": "2026-08-29T23:36:51.484350+00:00",
+ "actualizado": "2026-08-29T23:44:11.355358+00:00",
  "partidos_vivo": [
   {
-   "home": "Tlaxcala",
-   "away": "Venados FC",
-   "liga": "Liga de Expansión MX",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Venados FC buscará el empate"
-   ]
-  },
-  {
-   "home": "Huracan",
-   "away": "Estudiantes de Rio Cuarto",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 6.0,
-   "recomendar": false,
-   "momentum_home": 61,
-   "momentum_away": 39,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 15 remates totales",
-    "📈 xG total: 2.27 — buenas ocasiones generadas"
-   ]
-  },
-  {
-   "home": "Deportivo Cali W",
-   "away": "Santa Fe W",
-   "liga": "Liga Femenina",
-   "minuto": 57,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 0.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Paysandu",
-   "away": "Atenas",
-   "liga": "Segunda División",
+   "home": "Real Cartagena",
+   "away": "Tigres FC",
+   "liga": "Primera B",
    "minuto": 54,
-   "marcador": "1-0",
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 0.0,
+   "score": 4.9,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Atenas buscará el empate"
+    "⚽ 1 gol — Real Cartagena buscará el empate",
+    "⏱ 36 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
