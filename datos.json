@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T15:27:04.742509+00:00",
+ "actualizado": "2026-08-29T15:27:18.967810+00:00",
  "partidos_vivo": [
   {
    "home": "Heart Of Midlothian",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:27",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "17:27",
@@ -296,12 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:46",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:46",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Levante",
+   "away": "Real Betis",
+   "liga": "La Liga",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Hoffenheim II",
    "away": "SSV Jahn Regensburg",
    "liga": "3. Liga",
@@ -401,17 +412,6 @@
    "liga": "Premier League",
    "minuto": 15,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Víkingur II",
-   "away": "HB II",
-   "liga": "1. Deild",
-   "minuto": 17,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -966,7 +966,7 @@
   "n": 2219,
   "ganados": 1538,
   "win_rate": 69,
-  "hoy": 58
+  "hoy": 59
  },
  "stats_dia": {
   "ganados": 64,
