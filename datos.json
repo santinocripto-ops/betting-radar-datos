@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T10:14:32.437546+00:00",
+ "actualizado": "2026-08-29T10:21:09.911232+00:00",
  "partidos_vivo": [
   {
    "home": "Qingdao Jonoon",
@@ -176,6 +176,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "12:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:14",
    "tipo": "live"
@@ -239,12 +245,6 @@
    "texto": "──────────────────────────────",
    "hora": "11:20",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "11:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -314,6 +314,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Portimonense",
+   "away": "Leixoes",
+   "liga": "Segunda Liga",
+   "minuto": 18,
+   "score": 8.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Nottingham Forest U18",
    "away": "Stoke City U18",
    "liga": "U18 Premier League - North",
@@ -367,17 +378,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
-  },
-  {
-   "home": "Gangneung City",
-   "away": "Jeonbuk Motors II",
-   "liga": "K3 League",
-   "minuto": 13,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -387,7 +387,7 @@
   "balance_dia": 550.0,
   "ganados": 2171,
   "perdidos": 928,
-  "pendientes": 8,
+  "pendientes": 14,
   "ganados_dia": 18,
   "perdidos_dia": 5,
   "win_rate": 70.1,
@@ -850,12 +850,12 @@
   "n": 2177,
   "ganados": 1509,
   "win_rate": 69,
-  "hoy": 16
+  "hoy": 17
  },
  "stats_dia": {
   "ganados": 19,
   "perdidos": 5,
-  "en_juego": 10,
+  "en_juego": 16,
   "win_rate": 79
  },
  "stats_banker": {
