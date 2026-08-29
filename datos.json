@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:35:04.193946+00:00",
+ "actualizado": "2026-08-29T12:35:19.467778+00:00",
  "partidos_vivo": [
   {
    "home": "Tus Dassendorf",
@@ -321,7 +321,7 @@
   "balance_dia": 1017.0,
   "ganados": 2186,
   "perdidos": 932,
-  "pendientes": 21,
+  "pendientes": 23,
   "ganados_dia": 33,
   "perdidos_dia": 9,
   "win_rate": 70.1,
@@ -876,7 +876,7 @@
  "stats_dia": {
   "ganados": 34,
   "perdidos": 10,
-  "en_juego": 22,
+  "en_juego": 24,
   "win_rate": 77
  },
  "stats_banker": {
