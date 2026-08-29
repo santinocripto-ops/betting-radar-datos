@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:44:25.823840+00:00",
+ "actualizado": "2026-08-29T13:50:33.387123+00:00",
  "partidos_vivo": [
   {
    "home": "Henan Jianye",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:50",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:44",
    "tipo": "live"
@@ -282,12 +288,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
    "tipo": "live"
   },
@@ -425,7 +425,7 @@
   "balance_dia": 1206.0,
   "ganados": 2191,
   "perdidos": 933,
-  "pendientes": 33,
+  "pendientes": 37,
   "ganados_dia": 38,
   "perdidos_dia": 10,
   "win_rate": 70.1,
@@ -646,6 +646,13 @@
  },
  "reentradas": [
   {
+   "home": "Nyiregyhaza",
+   "away": "Paks",
+   "liga": "NB I",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Verl",
    "away": "Fortuna Köln",
    "liga": "3. Liga",
@@ -679,13 +686,6 @@
    "liga": "2. Division",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Bucheon FC 1995",
-   "away": "FC Anyang",
-   "liga": "K League 1",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -962,7 +962,7 @@
  "stats_dia": {
   "ganados": 40,
   "perdidos": 11,
-  "en_juego": 33,
+  "en_juego": 37,
   "win_rate": 78
  },
  "stats_banker": {
