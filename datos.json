@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T04:48:31.245786+00:00",
+ "actualizado": "2026-08-29T04:55:35.178781+00:00",
  "partidos_vivo": [
   {
    "home": "Club Tijuana",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:55",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -86,12 +92,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "05:05",
    "tipo": "smart_money"
   }
  ],
@@ -563,6 +563,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Tottenham Hotspur FC win on 2026-08-29?",
+   "apuesta": "SI, Tottenham Hotspur ganara",
+   "usdc": 224104,
+   "prob": 43.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "06:55"
+  },
+  {
    "titulo": "Monterrey Open: Nikola Bartunkova vs Elise Mertens",
    "apuesta": "SI, Monterrey Open: Nikola Bartunkova ganara",
    "usdc": 59866,
@@ -624,15 +633,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "22:32"
-  },
-  {
-   "titulo": "Will FC Bayern München win on 2026-08-28?",
-   "apuesta": "SI, FC Bayern München ganara",
-   "usdc": 118612,
-   "prob": 79.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "20:26"
   }
  ],
  "stats_gt": {
