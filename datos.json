@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-29T12:20:20.956916+00:00",
+ "actualizado": "2026-08-29T12:28:10.472132+00:00",
  "partidos_vivo": [
   {
-   "home": "Slovácko W",
-   "away": "Sparta Praha W",
-   "liga": "1. Liga Women",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Tus Dassendorf",
+   "away": "Norderstedt II",
+   "liga": "Oberliga - Hamburg",
+   "minuto": 54,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -15,39 +15,20 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Slovácko W buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "IMT Novi Beograd U19",
-   "away": "Jedinstvo U. U19",
-   "liga": "U19 league",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.45 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "BAK 07 U19",
-   "away": "Karlsruher SC U19",
+   "home": "Magdeburg U19",
+   "away": "Schalke 04 U19",
    "liga": "DFB Junioren Pokal",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 6.3,
-   "recomendar": false,
+   "minuto": 54,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 8.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
@@ -55,34 +36,91 @@
    "razones": [
     "⚽ Liga muy goleadora: 5.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Karlsruher SC U19 buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Polissya II",
-   "away": "Prykarpattia",
-   "liga": "Persha Liga",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 5.6,
-   "recomendar": false,
+   "home": "AFC Eskilstuna",
+   "away": "Sollentuna",
+   "liga": "Ettan - Norra",
+   "minuto": 60,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 7.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Polissya II buscará el empate"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Mladá Boleslav U19",
+   "away": "Baník Ostrava U19",
+   "liga": "1. Liga U19",
+   "minuto": 64,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.81 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Tottenham Hotspur U18",
+   "away": "Birmingham City U18",
+   "liga": "U18 Premier League - South",
+   "minuto": 65,
+   "marcador": "5-1",
+   "apuesta": "Over 6.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Manchester City U18",
+   "away": "Leeds United U18",
+   "liga": "U18 Premier League - North",
+   "minuto": 64,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.92 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
   {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:20",
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "14:28",
    "tipo": "live"
   },
   {
@@ -94,7 +132,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:19",
+   "hora": "14:20",
    "tipo": "live"
   },
   {
@@ -122,10 +160,10 @@
    "tipo": "live"
   },
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:19",
+   "tipo": "live"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -283,7 +321,7 @@
   "balance_dia": 1017.0,
   "ganados": 2186,
   "perdidos": 932,
-  "pendientes": 13,
+  "pendientes": 21,
   "ganados_dia": 33,
   "perdidos_dia": 9,
   "win_rate": 70.1,
@@ -521,13 +559,6 @@
    "home": "Vissel Kobe",
    "away": "Cerezo Osaka",
    "liga": "J1 League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Chrudim",
-   "away": "Baník Souš",
-   "liga": "3. liga - CFL B",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -845,7 +876,7 @@
  "stats_dia": {
   "ganados": 34,
   "perdidos": 10,
-  "en_juego": 14,
+  "en_juego": 22,
   "win_rate": 77
  },
  "stats_banker": {
