@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T08:07:34.352739+00:00",
+ "actualizado": "2026-08-29T08:14:55.508180+00:00",
  "partidos_vivo": [
   {
    "home": "Seosan Pioneer",
@@ -41,6 +41,18 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:14",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -99,18 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "09:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:07",
    "tipo": "smart_money"
   }
  ],
@@ -171,6 +171,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Hradec Králové U19",
+   "away": "Pardubice U19",
+   "liga": "1. Liga U19",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Broadmeadow Magic",
    "away": "Weston Bears",
@@ -370,6 +381,20 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Milton Keynes Dons",
+    "away": "Leicester",
+    "liga": "League One",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "pinnacle": true,
+    "delta": 3.53,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T11:30:00+00:00",
+    "ts": "2026-08-29T08:07:34.564527+00:00"
+   },
+   {
     "home": "UCSA",
     "away": "Inhulets",
     "liga": "Persha Liga",
@@ -564,26 +589,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-28T16:30:00+00:00",
     "ts": "2026-08-28T11:10:00.999601+00:00"
-   },
-   {
-    "home": "SKN ST. Polten",
-    "away": "Austria Salzburg",
-    "liga": "2. Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "pinnacle": true,
-    "delta": 5.71,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T15:08:11.653138+00:00"
    }
   ],
   "balance": {
    "ganados": 167,
    "perdidos": 73,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 69.6,
    "total": 240
   }
@@ -592,6 +603,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+   "apuesta": "SI, LoL: T1 ganara",
+   "usdc": 90209,
+   "prob": 81.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "10:14"
+  },
   {
    "titulo": "Will Racing Club de Lens win on 2026-08-29?",
    "apuesta": "SI, Racing Club de Lens ganara",
@@ -654,22 +674,13 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "22:33"
-  },
-  {
-   "titulo": "Will Deportivo Alavés vs. Villarreal CF end in a draw?",
-   "apuesta": "SI, acabará en empate",
-   "usdc": 112968,
-   "prob": 28.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "22:32"
   }
  ],
  "stats_gt": {
   "n": 2175,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 14,
