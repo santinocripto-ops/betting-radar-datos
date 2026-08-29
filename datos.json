@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-29T08:28:36.943070+00:00",
+ "actualizado": "2026-08-29T08:35:37.273454+00:00",
  "partidos_vivo": [
   {
-   "home": "Seosan Pioneer",
-   "away": "Namyangju",
-   "liga": "K4 League",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Canterbury Bankstown",
+   "away": "Macarthur Rams",
+   "liga": "New South Wales NPL 2",
+   "minuto": 64,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -15,32 +15,19 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚽ Liga muy goleadora: 3.73 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Moreton City Excelsior",
-   "away": "Gold Coast Knights",
-   "liga": "Queensland NPL",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "10:35",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -88,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -234,7 +215,7 @@
   "balance_dia": 461.0,
   "ganados": 2166,
   "perdidos": 926,
-  "pendientes": 6,
+  "pendientes": 8,
   "ganados_dia": 13,
   "perdidos_dia": 3,
   "win_rate": 70.1,
@@ -696,7 +677,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 3,
-  "en_juego": 7,
+  "en_juego": 9,
   "win_rate": 82
  },
  "stats_banker": {
