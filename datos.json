@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:44:43.117030+00:00",
+ "actualizado": "2026-08-29T11:45:00.427853+00:00",
  "partidos_vivo": [
   {
    "home": "Radomiak Radom",
@@ -150,6 +150,18 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "13:44",
    "tipo": "live"
@@ -195,18 +207,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:07",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:40",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -276,21 +276,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Slovácko W",
-   "away": "Sparta Praha W",
-   "liga": "1. Liga Women",
-   "minuto": 21,
-   "score": 8.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Bucheon FC 1995",
-   "away": "FC Anyang",
-   "liga": "K League 1",
-   "minuto": 17,
+   "home": "Newcastle United U18",
+   "away": "Blackburn Rovers U18",
+   "liga": "U18 Premier League - North",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -298,21 +287,21 @@
    "es_hoy": true
   },
   {
-   "home": "Radomiak Radom",
-   "away": "Cracovia Krakow",
-   "liga": "Ekstraklasa",
-   "minuto": 16,
-   "score": 8.5,
+   "home": "Middlesbrough U18",
+   "away": "Derby County U18",
+   "liga": "U18 Premier League - North",
+   "minuto": 11,
+   "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
   {
-   "home": "Urawa",
-   "away": "Yokohama F. Marinos",
-   "liga": "J1 League",
-   "minuto": 24,
+   "home": "VSK Århus",
+   "away": "FA 2000",
+   "liga": "2. Division",
+   "minuto": 10,
    "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -320,21 +309,32 @@
    "es_hoy": true
   },
   {
-   "home": "Portimonense",
-   "away": "Leixoes",
-   "liga": "Segunda Liga",
-   "minuto": 18,
-   "score": 8.6,
+   "home": "Blackpool",
+   "away": "Peterborough",
+   "liga": "League One",
+   "minuto": 14,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
   {
-   "home": "Nottingham Forest U18",
-   "away": "Stoke City U18",
-   "liga": "U18 Premier League - North",
-   "minuto": 12,
+   "home": "Hebei Kungfu",
+   "away": "Wuxi Wugou",
+   "liga": "League One",
+   "minuto": 14,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Dongguan United",
+   "away": "Shenzhen Juniors",
+   "liga": "League One",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -906,7 +906,7 @@
   "n": 2177,
   "ganados": 1509,
   "win_rate": 69,
-  "hoy": 21
+  "hoy": 28
  },
  "stats_dia": {
   "ganados": 19,
