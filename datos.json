@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T01:04:21.188774+00:00",
+ "actualizado": "2026-08-29T01:04:40.734510+00:00",
  "partidos_vivo": [
   {
    "home": "Nautico Recife",
@@ -61,6 +61,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Metalul Buzău vs Chindia Targoviste · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cu",
+   "hora": "03:04",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "03:04",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:04",
@@ -119,22 +131,19 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "02:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Metalul Buzău",
+   "away": "Chindia Targoviste",
+   "liga": "Liga II",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.36,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29"
+  },
   {
    "home": "Necaxa",
    "away": "Cruz Azul",
@@ -669,7 +678,7 @@
  "stats_banker": {
   "ganados": 66,
   "perdidos": 25,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
