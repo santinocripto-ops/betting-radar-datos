@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T23:44:11.355358+00:00",
+ "actualizado": "2026-08-29T23:52:07.691197+00:00",
  "partidos_vivo": [
   {
    "home": "Real Cartagena",
@@ -23,6 +23,48 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:52",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:51",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:51",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:51",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "01:22",
@@ -51,48 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:14",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:58",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "00:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:23",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "00:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "00:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "00:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -143,6 +143,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Junior",
+   "away": "Santa Fe",
+   "liga": "Primera A",
+   "minuto": 21,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
+   "home": "Atlanta United FC",
+   "away": "Charlotte",
+   "liga": "Major League Soccer",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
+   "home": "Toronto FC",
+   "away": "New York City FC",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
+   "home": "New York Red Bulls",
+   "away": "Philadelphia Union",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
+  {
    "home": "Querétaro W",
    "away": "Monterrey W",
    "liga": "Liga MX Femenil",
@@ -161,50 +205,6 @@
    "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Kansas City W",
-   "away": "North Carolina Courage W",
-   "liga": "NWSL Women",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Deportes Limache",
-   "away": "Everton de Vina",
-   "liga": "Primera División",
-   "minuto": 17,
-   "score": 9.1,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Atletico-MG",
-   "away": "Vitoria",
-   "liga": "Serie A",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Seattle Sounders",
-   "away": "Chicago Fire",
-   "liga": "Major League Soccer",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": false
   }
@@ -731,6 +731,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Vancouver Whitecaps FC (-1.5)",
+   "apuesta": "SI — Spread: Vancouver Whitecaps FC (-1.5)",
+   "usdc": 110000,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "01:51"
+  },
+  {
+   "titulo": "Will Nashville SC win on 2026-08-29?",
+   "apuesta": "SI, Nashville ganara",
+   "usdc": 172520,
+   "prob": 55.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "01:51"
+  },
+  {
+   "titulo": "Will Inter Miami CF win on 2026-08-29?",
+   "apuesta": "SI, Inter Miami ganara",
+   "usdc": 606313,
+   "prob": 70.5,
+   "n_traders": 2,
+   "trader": "beachboy4",
+   "hora": "01:51"
+  },
+  {
    "titulo": "Spread: Inter Miami CF (-1.5)",
    "apuesta": "SI — Spread: Inter Miami CF (-1.5)",
    "usdc": 152582,
@@ -774,33 +801,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "22:03"
-  },
-  {
-   "titulo": "Will Club Atlético de Madrid win on 2026-08-29?",
-   "apuesta": "NO, Club Atlético de Madrid no ganara",
-   "usdc": 110468,
-   "prob": 8.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "22:03"
-  },
-  {
-   "titulo": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
-   "apuesta": "SI, ganara",
-   "usdc": 249761,
-   "prob": 54.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "20:49"
-  },
-  {
-   "titulo": "Will Olympique Lyonnais win on 2026-08-29?",
-   "apuesta": "SI, Olympique Lyonnais ganara",
-   "usdc": 737115,
-   "prob": 68.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "20:49"
   }
  ],
  "stats_gt": {
