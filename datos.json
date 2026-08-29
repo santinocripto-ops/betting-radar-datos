@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T08:14:55.508180+00:00",
+ "actualizado": "2026-08-29T08:21:41.381183+00:00",
  "partidos_vivo": [
   {
    "home": "Seosan Pioneer",
@@ -223,7 +223,7 @@
   "balance_dia": 461.0,
   "ganados": 2166,
   "perdidos": 926,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 13,
   "perdidos_dia": 3,
   "win_rate": 70.1,
@@ -685,7 +685,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 3,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 82
  },
  "stats_banker": {
