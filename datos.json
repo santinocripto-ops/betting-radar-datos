@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T22:00:38.715660+00:00",
+ "actualizado": "2026-08-29T22:08:38.002735+00:00",
  "partidos_vivo": [
   {
    "home": "Seattle Sounders",
@@ -138,6 +138,18 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "00:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "00:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "23:53",
    "tipo": "smart_money"
@@ -194,18 +206,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:23",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "22:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "22:08",
    "tipo": "live"
   }
  ],
@@ -296,7 +296,7 @@
    "minuto": 23,
    "score": 9.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": false
   },
@@ -325,12 +325,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 46964.0,
-  "balance_total": 36964.0,
+  "capital": 46986.0,
+  "balance_total": 36986.0,
   "balance_dia": 0.0,
-  "ganados": 2256,
-  "perdidos": 967,
-  "pendientes": 7,
+  "ganados": 2258,
+  "perdidos": 968,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -918,7 +918,7 @@
   }
  ],
  "stats_gt": {
-  "n": 2262,
+  "n": 2263,
   "ganados": 1564,
   "win_rate": 69,
   "hoy": 0
