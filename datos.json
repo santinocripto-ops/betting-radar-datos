@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T20:23:21.176920+00:00",
+ "actualizado": "2026-08-29T20:30:14.322776+00:00",
  "partidos_vivo": [
   {
    "home": "NK Varazdin",
@@ -425,7 +425,7 @@
   "balance_dia": 1603.0,
   "ganados": 2252,
   "perdidos": 964,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 99,
   "perdidos_dia": 41,
   "win_rate": 70.0,
@@ -1002,7 +1002,7 @@
  "stats_dia": {
   "ganados": 101,
   "perdidos": 42,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 71
  },
  "stats_banker": {
