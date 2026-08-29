@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T17:17:15.839371+00:00",
+ "actualizado": "2026-08-29T17:24:08.298265+00:00",
  "partidos_vivo": [
   {
    "home": "Diyala",
@@ -368,7 +368,7 @@
   "balance_dia": 1290.0,
   "ganados": 2227,
   "perdidos": 953,
-  "pendientes": 20,
+  "pendientes": 22,
   "ganados_dia": 74,
   "perdidos_dia": 30,
   "win_rate": 70.0,
@@ -959,7 +959,7 @@
  "stats_dia": {
   "ganados": 76,
   "perdidos": 31,
-  "en_juego": 20,
+  "en_juego": 22,
   "win_rate": 71
  },
  "stats_banker": {
