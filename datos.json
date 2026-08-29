@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T16:16:12.498052+00:00",
+ "actualizado": "2026-08-29T16:22:44.284739+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -232,6 +232,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:22",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:15",
@@ -289,18 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:14",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "18:06",
    "tipo": "smart_money"
   }
  ],
@@ -934,6 +934,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will ACF Fiorentina win on 2026-08-29?",
+   "apuesta": "NO, ACF Fiorentina no ganara",
+   "usdc": 143452,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "18:22"
+  },
+  {
+   "titulo": "Will ACF Fiorentina win on 2026-08-29?",
+   "apuesta": "SI, ACF Fiorentina ganara",
+   "usdc": 50127,
+   "prob": 55.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:22"
+  },
   {
    "titulo": "Will AC Monza win on 2026-08-29?",
    "apuesta": "SI, AC Monza ganara",
