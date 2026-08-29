@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:09:47.732429+00:00",
+ "actualizado": "2026-08-29T18:10:13.152299+00:00",
  "partidos_vivo": [
   {
    "home": "Fiorentina",
@@ -101,6 +101,18 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:09",
    "tipo": "smart_money"
   },
@@ -156,18 +168,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "19:32",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:30",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:16",
    "tipo": "live"
   }
  ],
