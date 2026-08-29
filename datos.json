@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T20:08:52.024190+00:00",
+ "actualizado": "2026-08-29T20:16:34.707863+00:00",
  "partidos_vivo": [
   {
    "home": "NK Varazdin",
@@ -670,13 +670,6 @@
    "home": "Tottenham",
    "away": "Newcastle",
    "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Sorrento",
-   "away": "Crotone",
-   "liga": "Serie C - Girone C",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
