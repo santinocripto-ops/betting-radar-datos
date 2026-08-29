@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T22:52:19.543519+00:00",
+ "actualizado": "2026-08-29T22:59:02.055026+00:00",
  "partidos_vivo": [
   {
    "home": "Botafogo SP",
@@ -195,6 +195,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:58",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "00:45",
    "tipo": "live"
@@ -258,12 +264,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "23:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "23:05",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -313,6 +313,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Kansas City W",
+   "away": "North Carolina Courage W",
+   "liga": "NWSL Women",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
   {
    "home": "Deportes Limache",
    "away": "Everton de Vina",
@@ -365,17 +376,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Galatasaray",
-   "away": "Göztepe",
-   "liga": "Süper Lig",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": false
   }
