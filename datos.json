@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T21:05:46.057654+00:00",
+ "actualizado": "2026-08-29T21:07:12.155022+00:00",
  "partidos_vivo": [
   {
    "home": "Aragua FC",
@@ -99,6 +99,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "23:07",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "23:05",
@@ -155,12 +161,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:05",
    "tipo": "smart_money"
   },
