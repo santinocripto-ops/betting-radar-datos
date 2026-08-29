@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:07:20.450884+00:00",
+ "actualizado": "2026-08-29T11:23:55.891989+00:00",
  "partidos_vivo": [
   {
    "home": "V-varen Nagasaki",
@@ -429,7 +429,80 @@
     "tanda": 2
    }
   ],
-  "over25": [],
+  "over25": [
+   {
+    "home": "Brighton U18",
+    "away": "Arsenal U18",
+    "liga": "U18 Premier League - South",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Asker",
+    "away": "Frigg",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Karlshamn",
+    "away": "Nosaby",
+    "liga": "Division 2 - Södra Götaland",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "BATE II",
+    "away": "Gomel II",
+    "liga": "1. Division",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ingolstadt II",
+    "away": "Neudrossenfeld",
+    "liga": "Oberliga - Bayern Nord",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Pfaffenhofen",
+    "away": "Schwabmünchen",
+    "liga": "Oberliga - Bayern Süd",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Siedenbollentin",
+    "away": "Union Klosterfelde",
+    "liga": "Oberliga - Nordost-Nord",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Anker Wismar",
+    "away": "Makkabi",
+    "liga": "Oberliga - Nordost-Nord",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
   "balance": {
    "ganados": 1212,
    "perdidos": 833,
