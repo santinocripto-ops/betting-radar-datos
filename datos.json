@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-28T23:56:27.930392+00:00",
+ "actualizado": "2026-08-29T00:03:58.908075+00:00",
  "partidos_vivo": [
   {
    "home": "Cobresal",
@@ -41,6 +41,30 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -87,30 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:04",
    "tipo": "smart_money"
   }
  ],
@@ -230,12 +230,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45295.0,
-  "balance_total": 35295.0,
+  "capital": 45356.0,
+  "balance_total": 35356.0,
   "balance_dia": 0.0,
-  "ganados": 2151,
+  "ganados": 2152,
   "perdidos": 923,
-  "pendientes": 3,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
