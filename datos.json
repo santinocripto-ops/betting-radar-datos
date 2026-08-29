@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:46:46.076347+00:00",
+ "actualizado": "2026-08-29T14:53:16.105574+00:00",
  "partidos_vivo": [
   {
    "home": "SV Elversberg",
@@ -425,7 +425,7 @@
   "balance_dia": 967.0,
   "ganados": 2204,
   "perdidos": 943,
-  "pendientes": 22,
+  "pendientes": 28,
   "ganados_dia": 51,
   "perdidos_dia": 20,
   "win_rate": 70.0,
@@ -971,7 +971,7 @@
  "stats_dia": {
   "ganados": 53,
   "perdidos": 21,
-  "en_juego": 22,
+  "en_juego": 28,
   "win_rate": 72
  },
  "stats_banker": {
