@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:19:47.723683+00:00",
+ "actualizado": "2026-08-29T12:20:20.956916+00:00",
  "partidos_vivo": [
   {
    "home": "Slovácko W",
@@ -82,7 +82,13 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:19",
+   "hora": "14:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:20",
    "tipo": "live"
   },
   {
@@ -110,10 +116,10 @@
    "tipo": "live"
   },
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:19",
+   "tipo": "live"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -142,13 +148,7 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
+   "hora": "14:10",
    "tipo": "smart_money"
   }
  ],
@@ -210,10 +210,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Newcastle United U18",
-   "away": "Blackburn Rovers U18",
-   "liga": "U18 Premier League - North",
-   "minuto": 12,
+   "home": "Skellefteå",
+   "away": "Boden",
+   "liga": "Division 2 - Norrland",
+   "minuto": 19,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Pirmasens",
+   "away": "Eisbachtal",
+   "liga": "Oberliga - Rheinland-Pfalz / Saar",
+   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -221,32 +232,10 @@
    "es_hoy": true
   },
   {
-   "home": "Middlesbrough U18",
-   "away": "Derby County U18",
-   "liga": "U18 Premier League - North",
-   "minuto": 11,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "VSK Århus",
-   "away": "FA 2000",
-   "liga": "2. Division",
-   "minuto": 10,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Blackpool",
-   "away": "Peterborough",
-   "liga": "League One",
-   "minuto": 14,
+   "home": "Memmingen",
+   "away": "SpVgg Unterhaching",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -254,20 +243,31 @@
    "es_hoy": true
   },
   {
-   "home": "Hebei Kungfu",
-   "away": "Wuxi Wugou",
-   "liga": "League One",
-   "minuto": 14,
-   "score": 8.5,
+   "home": "SV Wehen",
+   "away": "Rot-Weiß Essen",
+   "liga": "3. Liga",
+   "minuto": 19,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
   {
-   "home": "Dongguan United",
-   "away": "Shenzhen Juniors",
-   "liga": "League One",
+   "home": "St. Pölten W",
+   "away": "Salzburg W",
+   "liga": "Frauenliga",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Deisenhofen",
+   "away": "Pipinsried",
+   "liga": "Oberliga - Bayern Süd",
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
@@ -840,7 +840,7 @@
   "n": 2191,
   "ganados": 1519,
   "win_rate": 69,
-  "hoy": 28
+  "hoy": 35
  },
  "stats_dia": {
   "ganados": 34,
