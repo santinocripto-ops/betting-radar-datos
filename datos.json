@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:12:26.102811+00:00",
+ "actualizado": "2026-08-29T13:13:03.247377+00:00",
  "partidos_vivo": [
   {
    "home": "Chengdu Better City",
@@ -232,6 +232,48 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "15:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:12",
@@ -259,12 +301,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "14:54",
    "tipo": "live"
   }
  ],
@@ -389,7 +425,7 @@
   "balance_dia": 1206.0,
   "ganados": 2191,
   "perdidos": 933,
-  "pendientes": 23,
+  "pendientes": 25,
   "ganados_dia": 38,
   "perdidos_dia": 10,
   "win_rate": 70.1,
@@ -610,6 +646,20 @@
  },
  "reentradas": [
   {
+   "home": "Verl",
+   "away": "Fortuna Köln",
+   "liga": "3. Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Fakel",
+   "away": "Zenit",
+   "liga": "Premier League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Memmingen",
    "away": "SpVgg Unterhaching",
    "liga": "Regionalliga - Bayern",
@@ -636,24 +686,25 @@
    "liga": "K League 1",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Jagiellonia II",
-   "away": "Lechia T. Mazowiecki",
-   "liga": "III Liga - Group 1",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Vissel Kobe",
-   "away": "Cerezo Osaka",
-   "liga": "J1 League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Norwich",
+    "away": "Burnley",
+    "liga": "Championship",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 3.54,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-29T14:00:00+00:00",
+    "ts": "2026-08-29T13:06:01.492999+00:00"
+   },
    {
     "home": "Milton Keynes Dons",
     "away": "Leicester",
@@ -679,8 +730,8 @@
     "cuota": null,
     "pinnacle": true,
     "delta": 3.4,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "5-3",
+    "resultado": "ganado",
     "kickoff": "2026-08-29T11:00:00+00:00",
     "ts": "2026-08-29T09:05:42.090419+00:00"
    },
@@ -694,8 +745,8 @@
     "cuota": null,
     "pinnacle": false,
     "delta": 3.92,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "ganado",
     "kickoff": "2026-08-29T09:00:00+00:00",
     "ts": "2026-08-28T21:06:44.505599+00:00"
    },
@@ -863,29 +914,14 @@
     "resultado": "ganado",
     "kickoff": "2026-08-28T16:30:00+00:00",
     "ts": "2026-08-28T08:08:10.573293+00:00"
-   },
-   {
-    "home": "Voitsberg",
-    "away": "FC Liefering",
-    "liga": "2. Liga",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 6,
-    "cuota": null,
-    "pinnacle": false,
-    "delta": 4.57,
-    "marcador": "2-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T16:30:00+00:00",
-    "ts": "2026-08-28T08:08:10.689170+00:00"
    }
   ],
   "balance": {
-   "ganados": 167,
+   "ganados": 169,
    "perdidos": 76,
-   "pendientes": 3,
-   "acierto": 68.7,
-   "total": 243
+   "pendientes": 2,
+   "acierto": 69.0,
+   "total": 245
   }
  },
  "mejor_dia": {
@@ -917,7 +953,7 @@
  "stats_dia": {
   "ganados": 40,
   "perdidos": 11,
-  "en_juego": 23,
+  "en_juego": 25,
   "win_rate": 78
  },
  "stats_banker": {
