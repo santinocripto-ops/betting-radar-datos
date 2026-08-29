@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T06:09:51.455359+00:00",
+ "actualizado": "2026-08-29T06:18:12.583074+00:00",
  "partidos_vivo": [
   {
    "home": "Avondale",
@@ -156,6 +156,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "08:18",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:09",
@@ -220,12 +226,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "06:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "06:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -285,6 +285,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Broadmeadow Magic",
+   "away": "Weston Bears",
+   "liga": "Northern NSW NPL",
+   "minuto": 13,
+   "score": 9.1,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
   {
    "home": "Club Tijuana",
    "away": "U.N.A.M. - Pumas",
@@ -772,7 +783,7 @@
   "n": 2175,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 11,
