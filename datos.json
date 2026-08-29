@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T07:08:36.417571+00:00",
+ "actualizado": "2026-08-29T07:08:58.479743+00:00",
  "partidos_vivo": [
   {
    "home": "Broadmeadow Magic",
@@ -74,6 +74,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "09:07",
    "tipo": "smart_money"
   },
@@ -105,12 +111,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "09:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "08:38",
    "tipo": "live"
   }
  ],
