@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T09:37:02.254063+00:00",
+ "actualizado": "2026-08-29T09:44:03.406963+00:00",
  "partidos_vivo": [
   {
    "home": "Chomutov",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:43",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "11:36",
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:42",
    "tipo": "smart_money"
   }
  ],
@@ -371,6 +371,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Tallinn",
+   "away": "Nõmme Kalju II",
+   "liga": "Esiliiga A",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Slovácko U19",
    "away": "Zlín U19",
    "liga": "1. Liga U19",
@@ -422,17 +433,6 @@
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Broadmeadow Magic",
-   "away": "Weston Bears",
-   "liga": "Northern NSW NPL",
-   "minuto": 13,
-   "score": 9.1,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": true
   }
@@ -908,7 +908,7 @@
   "n": 2176,
   "ganados": 1508,
   "win_rate": 69,
-  "hoy": 8
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 18,
