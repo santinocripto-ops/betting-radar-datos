@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:37:44.645485+00:00",
+ "actualizado": "2026-08-29T13:44:25.823840+00:00",
  "partidos_vivo": [
   {
    "home": "Henan Jianye",
@@ -232,6 +232,24 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:44",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:37",
@@ -284,24 +302,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:12",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -352,6 +352,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Brighton U18",
+   "away": "Arsenal U18",
+   "liga": "U18 Premier League - South",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "FSV Mainz 05",
+   "away": "SC Paderborn 07",
+   "liga": "Bundesliga",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "1. FC Köln",
+   "away": "1899 Hoffenheim",
+   "liga": "Bundesliga",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Sparta Rotterdam II",
    "away": "HHC",
    "liga": "Tweede Divisie",
@@ -379,39 +412,6 @@
    "liga": "Elitettan",
    "minuto": 12,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Alingsås W",
-   "away": "Örebro SK W",
-   "liga": "Elitettan",
-   "minuto": 13,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Växjö W",
-   "away": "Malmö FF W",
-   "liga": "Damallsvenskan",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Hammarby W",
-   "away": "Vittsjö W",
-   "liga": "Damallsvenskan",
-   "minuto": 12,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-29",
@@ -957,7 +957,7 @@
   "n": 2193,
   "ganados": 1520,
   "win_rate": 69,
-  "hoy": 46
+  "hoy": 49
  },
  "stats_dia": {
   "ganados": 40,
