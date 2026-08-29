@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:28:10.472132+00:00",
+ "actualizado": "2026-08-29T12:28:24.214917+00:00",
  "partidos_vivo": [
   {
    "home": "Tus Dassendorf",
@@ -118,6 +118,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:28",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:28",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "14:28",
@@ -164,18 +176,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -248,6 +248,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Verl",
+   "away": "Fortuna Köln",
+   "liga": "3. Liga",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
+   "home": "AIK W",
+   "away": "Kristianstad W",
+   "liga": "Damallsvenskan",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": true
+  },
+  {
    "home": "Skellefteå",
    "away": "Boden",
    "liga": "Division 2 - Norrland",
@@ -285,28 +307,6 @@
    "away": "Rot-Weiß Essen",
    "liga": "3. Liga",
    "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "St. Pölten W",
-   "away": "Salzburg W",
-   "liga": "Frauenliga",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": true
-  },
-  {
-   "home": "Deisenhofen",
-   "away": "Pipinsried",
-   "liga": "Oberliga - Bayern Süd",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -871,7 +871,7 @@
   "n": 2191,
   "ganados": 1519,
   "win_rate": 69,
-  "hoy": 35
+  "hoy": 37
  },
  "stats_dia": {
   "ganados": 34,
