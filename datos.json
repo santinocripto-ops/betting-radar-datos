@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:06:01.205377+00:00",
+ "actualizado": "2026-08-29T13:12:26.102811+00:00",
  "partidos_vivo": [
   {
    "home": "Chengdu Better City",
@@ -231,6 +231,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:12",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -891,7 +897,17 @@
   "mercado_pista": "Goles",
   "resultado": "pendiente"
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Coventry City FC vs. Hull City AFC: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 103957,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "15:12"
+  }
+ ],
  "stats_gt": {
   "n": 2193,
   "ganados": 1520,
