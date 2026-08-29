@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T11:31:39.029142+00:00",
+ "actualizado": "2026-08-29T11:37:46.212512+00:00",
  "partidos_vivo": [
   {
    "home": "Radomiak Radom",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "13:37",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "13:31",
@@ -200,12 +206,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "12:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:14",
    "tipo": "live"
   }
  ],
