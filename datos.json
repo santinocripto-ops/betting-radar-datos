@@ -1,27 +1,76 @@
 {
- "actualizado": "2026-08-29T06:59:21.193694+00:00",
+ "actualizado": "2026-08-29T07:07:40.118723+00:00",
  "partidos_vivo": [
   {
-   "home": "Adelaide Blue Eagles",
-   "away": "Adelaide Raiders",
-   "liga": "South Australia State League 1",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
+   "home": "Broadmeadow Magic",
+   "away": "Weston Bears",
+   "liga": "Northern NSW NPL",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 9.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚽ Liga goleadora: 3.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Yenisey W",
+   "away": "Rostov W",
+   "liga": "Supreme Division Women",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 6.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "09:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "09:06",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -62,36 +111,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "07:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "07:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "07:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:55",
    "tipo": "smart_money"
   }
  ],
@@ -148,7 +167,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 997
+   "n_historico": 1002
   }
  ],
  "gol_temprano": [
@@ -188,13 +207,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45695.0,
-  "balance_total": 35695.0,
-  "balance_dia": 278.0,
-  "ganados": 2163,
+  "capital": 45817.0,
+  "balance_total": 35817.0,
+  "balance_dia": 400.0,
+  "ganados": 2165,
   "perdidos": 926,
   "pendientes": 4,
-  "ganados_dia": 10,
+  "ganados_dia": 12,
   "perdidos_dia": 3,
   "win_rate": 70.0,
   "roi": 11.6,
@@ -217,7 +236,7 @@
     "away": "New Lambton",
     "liga": "Northern NSW NPL",
     "hora": "06:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -226,7 +245,7 @@
     "away": "Kingborough Lions",
     "liga": "Tasmania NPL",
     "hora": "06:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -235,7 +254,7 @@
     "away": "Hume City",
     "liga": "Victoria NPL",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -244,7 +263,7 @@
     "away": "Dandenong Thunder",
     "liga": "Victoria NPL",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -262,7 +281,7 @@
     "away": "Essendon Royals SC",
     "liga": "Victoria Premier League 2",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -332,14 +351,21 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1205,
-   "perdidos": 822,
+   "ganados": 1207,
+   "perdidos": 825,
    "acierto": 59.4,
-   "yield": 13.0,
+   "yield": 12.9,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Broadmeadow Magic",
+   "away": "Weston Bears",
+   "liga": "Northern NSW NPL",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Club Tijuana",
    "away": "U.N.A.M. - Pumas",
@@ -653,10 +679,10 @@
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 11,
+  "ganados": 13,
   "perdidos": 3,
   "en_juego": 5,
-  "win_rate": 79
+  "win_rate": 81
  },
  "stats_banker": {
   "ganados": 67,
