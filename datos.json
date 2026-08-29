@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:34:26.819253+00:00",
+ "actualizado": "2026-08-29T18:41:53.546978+00:00",
  "partidos_vivo": [
   {
    "home": "Academico Viseu",
@@ -194,6 +194,36 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:41",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:41",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "20:34",
@@ -234,36 +264,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:17",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -387,7 +387,7 @@
   "balance_dia": 1735.0,
   "ganados": 2240,
   "perdidos": 956,
-  "pendientes": 18,
+  "pendientes": 19,
   "ganados_dia": 87,
   "perdidos_dia": 33,
   "win_rate": 70.1,
@@ -607,6 +607,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Deportivo Binacional",
+   "away": "Comerciantes",
+   "liga": "Segunda División",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Lokomotiv",
    "away": "Dynamo",
@@ -890,6 +897,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Juventus FC (-1.5)",
+   "apuesta": "SI — Spread: Juventus FC (-1.5)",
+   "usdc": 103454,
+   "prob": 57.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:41"
+  },
+  {
+   "titulo": "Spread: Juventus FC (-1.5)",
+   "apuesta": "SI — Spread: Juventus FC (-1.5)",
+   "usdc": 307802,
+   "prob": 57.5,
+   "n_traders": 2,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "20:41"
+  },
+  {
    "titulo": "Real Sociedad de Fútbol vs. RCD Espanyol de Barcelona: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 93058,
@@ -942,24 +967,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:22"
-  },
-  {
-   "titulo": "Will AC Monza win on 2026-08-29?",
-   "apuesta": "SI, AC Monza ganara",
-   "usdc": 201528,
-   "prob": 32.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "18:14"
-  },
-  {
-   "titulo": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
-   "apuesta": "SI, BV Borussia 09 Dortmund ganara",
-   "usdc": 705447,
-   "prob": 72.5,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "18:14"
   }
  ],
  "stats_gt": {
@@ -971,7 +978,7 @@
  "stats_dia": {
   "ganados": 89,
   "perdidos": 34,
-  "en_juego": 18,
+  "en_juego": 19,
   "win_rate": 72
  },
  "stats_banker": {
