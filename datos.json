@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T22:59:02.055026+00:00",
+ "actualizado": "2026-08-29T23:06:00.978424+00:00",
  "partidos_vivo": [
   {
    "home": "Botafogo SP",
@@ -353,7 +353,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-29",
    "es_hoy": false
   },
@@ -382,12 +382,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 46986.0,
-  "balance_total": 36986.0,
+  "capital": 47108.0,
+  "balance_total": 37108.0,
   "balance_dia": 0.0,
-  "ganados": 2258,
+  "ganados": 2260,
   "perdidos": 968,
-  "pendientes": 6,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -975,15 +975,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2263,
-  "ganados": 1564,
+  "n": 2264,
+  "ganados": 1565,
   "win_rate": 69,
   "hoy": 0
  },
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
