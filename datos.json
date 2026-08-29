@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T14:26:27.161928+00:00",
+ "actualizado": "2026-08-29T14:32:54.452772+00:00",
  "partidos_vivo": [
   {
    "home": "Motor Lublin",
@@ -425,7 +425,7 @@
   "balance_dia": 967.0,
   "ganados": 2204,
   "perdidos": 943,
-  "pendientes": 18,
+  "pendientes": 19,
   "ganados_dia": 51,
   "perdidos_dia": 20,
   "win_rate": 70.0,
@@ -971,7 +971,7 @@
  "stats_dia": {
   "ganados": 53,
   "perdidos": 21,
-  "en_juego": 18,
+  "en_juego": 19,
   "win_rate": 72
  },
  "stats_banker": {
