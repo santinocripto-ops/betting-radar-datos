@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T13:31:07.527869+00:00",
+ "actualizado": "2026-08-29T13:37:29.210662+00:00",
  "partidos_vivo": [
   {
    "home": "Henan Jianye",
@@ -232,6 +232,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:37",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "15:31",
@@ -295,12 +301,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:12",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
    "tipo": "smart_money"
   }
  ],
@@ -934,6 +934,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will TSG 1899 Hoffenheim win on 2026-08-29?",
+   "apuesta": "SI, TSG 1899 Hoffenheim ganara",
+   "usdc": 489185,
+   "prob": 43.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "15:37"
+  },
   {
    "titulo": "Coventry City FC vs. Hull City AFC: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
