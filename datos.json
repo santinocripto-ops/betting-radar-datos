@@ -1,27 +1,39 @@
 {
- "actualizado": "2026-08-29T08:56:08.312823+00:00",
+ "actualizado": "2026-08-29T09:04:02.583586+00:00",
  "partidos_vivo": [
   {
-   "home": "Canterbury Bankstown",
-   "away": "Macarthur Rams",
-   "liga": "New South Wales NPL 2",
-   "minuto": 64,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 8.0,
-   "recomendar": true,
+   "home": "Dumbrăviţa",
+   "away": "CSM Ramnicu Valcea",
+   "liga": "Liga II",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.0,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "⚽ Liga por encima de la media: 2.71 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "11:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -81,18 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -134,7 +134,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 61,
-   "n_historico": 1034
+   "n_historico": 1036
   },
   {
    "clave": "btts",
@@ -147,8 +147,8 @@
    "score": 10,
    "hora": "00:00",
    "resultado": "perdido",
-   "wr_historico": 58,
-   "n_historico": 1007
+   "wr_historico": 57,
+   "n_historico": 1009
   }
  ],
  "gol_temprano": [
@@ -181,7 +181,7 @@
    "minuto": 13,
    "score": 9.1,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-29",
    "es_hoy": true
   },
@@ -210,14 +210,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 45878.0,
-  "balance_total": 35878.0,
-  "balance_dia": 461.0,
-  "ganados": 2166,
-  "perdidos": 926,
-  "pendientes": 8,
-  "ganados_dia": 13,
-  "perdidos_dia": 3,
+  "capital": 46006.0,
+  "balance_total": 36006.0,
+  "balance_dia": 589.0,
+  "ganados": 2170,
+  "perdidos": 927,
+  "pendientes": 3,
+  "ganados_dia": 17,
+  "perdidos_dia": 4,
   "win_rate": 70.1,
   "roi": 11.6,
   "stake": 100.0,
@@ -354,10 +354,10 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1211,
-   "perdidos": 830,
+   "ganados": 1212,
+   "perdidos": 833,
    "acierto": 59.3,
-   "yield": 12.7,
+   "yield": 12.6,
    "cuota_media": 1.9
   }
  },
@@ -367,7 +367,7 @@
    "away": "Weston Bears",
    "liga": "Northern NSW NPL",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -669,15 +669,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2175,
+  "n": 2176,
   "ganados": 1508,
   "win_rate": 69,
   "hoy": 5
  },
  "stats_dia": {
-  "ganados": 14,
-  "perdidos": 3,
-  "en_juego": 9,
+  "ganados": 18,
+  "perdidos": 4,
+  "en_juego": 4,
   "win_rate": 82
  },
  "stats_banker": {
