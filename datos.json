@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T12:35:19.467778+00:00",
+ "actualizado": "2026-08-29T12:42:15.696305+00:00",
  "partidos_vivo": [
   {
    "home": "Tus Dassendorf",
@@ -118,6 +118,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "14:42",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "14:35",
@@ -182,12 +188,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -321,7 +321,7 @@
   "balance_dia": 1017.0,
   "ganados": 2186,
   "perdidos": 932,
-  "pendientes": 23,
+  "pendientes": 24,
   "ganados_dia": 33,
   "perdidos_dia": 9,
   "win_rate": 70.1,
@@ -541,6 +541,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "VSK Århus",
+   "away": "FA 2000",
+   "liga": "2. Division",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Bucheon FC 1995",
    "away": "FC Anyang",
@@ -876,7 +883,7 @@
  "stats_dia": {
   "ganados": 34,
   "perdidos": 10,
-  "en_juego": 24,
+  "en_juego": 25,
   "win_rate": 77
  },
  "stats_banker": {
