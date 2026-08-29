@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T06:18:12.583074+00:00",
+ "actualizado": "2026-08-29T06:25:03.927438+00:00",
  "partidos_vivo": [
   {
    "home": "Avondale",
@@ -326,7 +326,7 @@
   "balance_dia": 278.0,
   "ganados": 2163,
   "perdidos": 926,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 10,
   "perdidos_dia": 3,
   "win_rate": 70.0,
@@ -788,7 +788,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 3,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 79
  },
  "stats_banker": {
