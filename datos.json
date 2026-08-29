@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T18:49:36.513662+00:00",
+ "actualizado": "2026-08-29T18:55:39.168489+00:00",
  "partidos_vivo": [
   {
    "home": "Academico Viseu",
@@ -387,7 +387,7 @@
   "balance_dia": 1735.0,
   "ganados": 2240,
   "perdidos": 956,
-  "pendientes": 23,
+  "pendientes": 24,
   "ganados_dia": 87,
   "perdidos_dia": 33,
   "win_rate": 70.1,
@@ -978,7 +978,7 @@
  "stats_dia": {
   "ganados": 89,
   "perdidos": 34,
-  "en_juego": 23,
+  "en_juego": 24,
   "win_rate": 72
  },
  "stats_banker": {
