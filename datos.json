@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T21:47:18.831439+00:00",
+ "actualizado": "2026-08-29T21:53:59.983293+00:00",
  "partidos_vivo": [
   {
    "home": "Seattle Sounders",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:53",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "23:47",
@@ -201,12 +207,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:08",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -330,7 +330,7 @@
   "balance_dia": 1547.0,
   "ganados": 2256,
   "perdidos": 967,
-  "pendientes": 5,
+  "pendientes": 7,
   "ganados_dia": 103,
   "perdidos_dia": 44,
   "win_rate": 70.0,
@@ -549,15 +549,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Deportivo Riestra",
-   "away": "Velez Sarsfield",
-   "liga": "Liga Profesional Argentina",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -886,7 +878,7 @@
  "stats_dia": {
   "ganados": 105,
   "perdidos": 45,
-  "en_juego": 5,
+  "en_juego": 7,
   "win_rate": 70
  },
  "stats_banker": {
