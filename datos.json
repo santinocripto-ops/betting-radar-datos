@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T23:45:51.421078+00:00",
+ "actualizado": "2026-08-30T23:56:19.183234+00:00",
  "partidos_vivo": [
   {
    "home": "Independiente",
@@ -24,6 +24,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:56",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:55",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "texto": "──────────────────────────────",
    "hora": "23:31",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -218,7 +218,7 @@
   "balance_dia": 0.0,
   "ganados": 2376,
   "perdidos": 1013,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -733,6 +733,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 84825,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "01:56"
+  },
+  {
+   "titulo": "US Open ATP: Mariano Navone vs Novak Djokovic",
+   "apuesta": "SI, US Open ATP: Mariano Navone ganara",
+   "usdc": 81474,
+   "prob": 11.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "01:55"
+  },
+  {
    "titulo": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
    "apuesta": "SI, US Open ATP: Thiago Agustin Tirante ganara",
    "usdc": 194579,
@@ -785,24 +803,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "21:40"
-  },
-  {
-   "titulo": "US Open WTA: Lucrezia Stefanini vs Dayana Yastremska",
-   "apuesta": "SI, US Open WTA: Lucrezia Stefanini ganara",
-   "usdc": 75784,
-   "prob": 80.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "21:40"
-  },
-  {
-   "titulo": "Will SS Lazio win on 2026-08-30?",
-   "apuesta": "NO, SS Lazio no ganara",
-   "usdc": 100000,
-   "prob": 57.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "20:53"
   }
  ],
  "stats_gt": {
@@ -814,7 +814,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
