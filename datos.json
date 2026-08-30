@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:09:37.759990+00:00",
+ "actualizado": "2026-08-30T15:19:38.165629+00:00",
  "partidos_vivo": [
   {
    "home": "Wiltz",
@@ -24,6 +24,30 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:18",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -70,30 +94,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:00",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "16:59",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:52",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:30",
    "tipo": "live"
   }
  ],
@@ -602,21 +602,6 @@
     "ts": "2026-08-30T07:06:14.780828+00:00"
    },
    {
-    "home": "Fenix",
-    "away": "Miramar",
-    "liga": "Segunda División",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.18,
-    "pinnacle": false,
-    "delta": 4.55,
-    "marcador": "",
-    "resultado": "pendiente",
-    "kickoff": "2026-08-30T13:00:00+00:00",
-    "ts": "2026-08-30T09:08:38.024405+00:00"
-   },
-   {
     "home": "LNZ Cherkasy",
     "away": "Veres Rivne",
     "liga": "Premier League",
@@ -645,6 +630,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-30T12:30:00+00:00",
     "ts": "2026-08-30T10:09:27.876020+00:00"
+   },
+   {
+    "home": "Fenix",
+    "away": "Miramar",
+    "liga": "Segunda División",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 1.18,
+    "pinnacle": false,
+    "delta": 4.55,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-08-30T13:00:00+00:00",
+    "ts": "2026-08-30T09:08:38.024405+00:00"
    },
    {
     "home": "FC St. Pauli",
@@ -783,11 +783,11 @@
    }
   ],
   "balance": {
-   "ganados": 175,
+   "ganados": 176,
    "perdidos": 78,
-   "pendientes": 6,
-   "acierto": 69.2,
-   "total": 253
+   "pendientes": 5,
+   "acierto": 69.3,
+   "total": 254
   }
  },
  "mejor_dia": {
@@ -800,6 +800,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Stade Rennais FC 1901 win on 2026-08-30?",
+   "apuesta": "SI, Stade Rennais FC 1901 ganara",
+   "usdc": 891105,
+   "prob": 71.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:18"
+  },
   {
    "titulo": "Will AFC Ajax win on 2026-08-30?",
    "apuesta": "SI, AFC Ajax ganara",
@@ -861,15 +870,6 @@
    "prob": 59.5,
    "n_traders": 2,
    "trader": "RN1",
-   "hora": "13:19"
-  },
-  {
-   "titulo": "Will Sunderland AFC win on 2026-08-30?",
-   "apuesta": "SI, Sunderland AFC ganara",
-   "usdc": 442436,
-   "prob": 40.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
    "hora": "13:19"
   }
  ],
