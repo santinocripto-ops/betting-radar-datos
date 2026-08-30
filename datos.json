@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T08:35:20.347031+00:00",
+ "actualizado": "2026-08-30T08:43:18.336034+00:00",
  "partidos_vivo": [
   {
    "home": "Sydney Utd U20",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:43",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -74,12 +80,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "09:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:05",
    "tipo": "smart_money"
   },
   {
@@ -750,6 +750,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: G2 ganara",
+   "usdc": 100000,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "10:43"
+  },
+  {
    "titulo": "Spread: FC Internazionale Milano (-1.5)",
    "apuesta": "SI — Spread: FC Internazionale Milano (-1.5)",
    "usdc": 87317,
@@ -810,15 +819,6 @@
    "prob": 50.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
-   "hora": "01:22"
-  },
-  {
-   "titulo": "Spread: Inter Miami CF (-1.5)",
-   "apuesta": "SI — Spread: Inter Miami CF (-1.5)",
-   "usdc": 102365,
-   "prob": 50.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
    "hora": "01:22"
   }
  ],
