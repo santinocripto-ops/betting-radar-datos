@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T03:34:24.680859+00:00",
+ "actualizado": "2026-08-30T03:42:40.603132+00:00",
  "partidos_vivo": [
   {
    "home": "Monterey Bay",
@@ -235,7 +235,7 @@
   "balance_dia": 788.0,
   "ganados": 2285,
   "perdidos": 972,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 20,
   "perdidos_dia": 4,
   "win_rate": 70.2,
@@ -853,7 +853,7 @@
  "stats_dia": {
   "ganados": 20,
   "perdidos": 4,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 83
  },
  "stats_banker": {
