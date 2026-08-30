@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:30:34.791759+00:00",
+ "actualizado": "2026-08-30T14:37:46.400528+00:00",
  "partidos_vivo": [
   {
    "home": "Paris FC",
@@ -446,7 +446,7 @@
   "balance_dia": 1744.0,
   "ganados": 2317,
   "perdidos": 981,
-  "pendientes": 24,
+  "pendientes": 25,
   "ganados_dia": 52,
   "perdidos_dia": 13,
   "win_rate": 70.3,
@@ -1082,7 +1082,7 @@
  "stats_dia": {
   "ganados": 52,
   "perdidos": 14,
-  "en_juego": 26,
+  "en_juego": 27,
   "win_rate": 79
  },
  "stats_banker": {
