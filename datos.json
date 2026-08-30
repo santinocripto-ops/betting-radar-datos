@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T02:58:09.946120+00:00",
+ "actualizado": "2026-08-30T03:07:33.292149+00:00",
  "partidos_vivo": [
   {
    "home": "Colorado Rapids",
@@ -179,9 +179,9 @@
    "cuota": 5.0,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1043
+   "n_historico": 1048
   },
   {
    "clave": "btts",
@@ -194,8 +194,8 @@
    "score": 10,
    "hora": "00:00",
    "resultado": "ganado",
-   "wr_historico": 58,
-   "n_historico": 1020
+   "wr_historico": 57,
+   "n_historico": 1025
   }
  ],
  "gol_temprano": [
@@ -239,7 +239,7 @@
    "minuto": 17,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-30",
    "es_hoy": true
   },
@@ -250,7 +250,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-30",
    "es_hoy": true
   },
@@ -261,22 +261,22 @@
    "minuto": 25,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-30",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 47968.0,
-  "balance_total": 37968.0,
-  "balance_dia": 555.0,
-  "ganados": 2276,
-  "perdidos": 969,
-  "pendientes": 17,
-  "ganados_dia": 11,
-  "perdidos_dia": 1,
-  "win_rate": 70.1,
+  "capital": 48201.0,
+  "balance_total": 38201.0,
+  "balance_dia": 788.0,
+  "ganados": 2285,
+  "perdidos": 972,
+  "pendientes": 5,
+  "ganados_dia": 20,
+  "perdidos_dia": 4,
+  "win_rate": 70.2,
   "roi": 11.7,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -297,7 +297,7 @@
     "away": "FC Cincinnati",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -306,7 +306,7 @@
     "away": "Orlando City SC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -315,7 +315,7 @@
     "away": "San Jose Earthquakes",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -324,7 +324,7 @@
     "away": "Rancho Santana",
     "liga": "Primera Division",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -333,7 +333,7 @@
     "away": "Puebla",
     "liga": "Liga MX",
     "hora": "03:05",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -416,7 +416,7 @@
     "away": "FC Cincinnati",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -425,7 +425,7 @@
     "away": "Orlando City SC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -434,7 +434,7 @@
     "away": "San Jose Earthquakes",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -443,7 +443,7 @@
     "away": "Rancho Santana",
     "liga": "Primera Division",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -452,7 +452,7 @@
     "away": "Puebla",
     "liga": "Liga MX",
     "hora": "03:05",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -539,10 +539,10 @@
    }
   ],
   "balance": {
-   "ganados": 1226,
-   "perdidos": 837,
-   "acierto": 59.4,
-   "yield": 12.9,
+   "ganados": 1229,
+   "perdidos": 844,
+   "acierto": 59.3,
+   "yield": 12.6,
    "cuota_media": 1.9
   }
  },
@@ -559,14 +559,14 @@
    "away": "CDS Tampico Madero",
    "liga": "Liga de Expansión MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Houston Dynamo",
    "away": "San Jose Earthquakes",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Junior",
@@ -890,16 +890,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2274,
-  "ganados": 1574,
+  "n": 2282,
+  "ganados": 1580,
   "win_rate": 69,
   "hoy": 11
  },
  "stats_dia": {
-  "ganados": 11,
-  "perdidos": 1,
-  "en_juego": 17,
-  "win_rate": 92
+  "ganados": 20,
+  "perdidos": 4,
+  "en_juego": 5,
+  "win_rate": 83
  },
  "stats_banker": {
   "ganados": 68,
