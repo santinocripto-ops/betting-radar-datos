@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T12:40:25.599841+00:00",
+ "actualizado": "2026-08-30T12:48:14.884465+00:00",
  "partidos_vivo": [
   {
    "home": "Aberdeen",
@@ -235,6 +235,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "14:25",
    "tipo": "live"
@@ -291,18 +303,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:05",
    "tipo": "smart_money"
   }
  ],
@@ -382,6 +382,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Willem II",
+   "away": "Heerenveen",
+   "liga": "Eredivisie",
+   "minuto": 15,
+   "score": 9.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Bodo/Glimt",
+   "away": "Rosenborg",
+   "liga": "Eliteserien",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Liverpool U21",
    "away": "Leeds United U21",
    "liga": "Premier League 2 Division One",
@@ -420,28 +442,6 @@
    "liga": "2. Division",
    "minuto": 14,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Rodina Moskva",
-   "away": "Baltika",
-   "liga": "Premier League",
-   "minuto": 12,
-   "score": 8.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Lyngby",
-   "away": "Odense",
-   "liga": "Superliga",
-   "minuto": 13,
-   "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-30",
@@ -1040,7 +1040,7 @@
   "n": 2289,
   "ganados": 1585,
   "win_rate": 69,
-  "hoy": 27
+  "hoy": 29
  },
  "stats_dia": {
   "ganados": 37,
