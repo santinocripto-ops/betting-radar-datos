@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T04:17:55.749940+00:00",
+ "actualizado": "2026-08-30T04:25:59.131785+00:00",
  "partidos_vivo": [
   {
    "home": "Juárez W",
@@ -100,6 +100,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "06:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "06:17",
    "tipo": "live"
@@ -162,12 +168,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "04:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:58",
    "tipo": "live"
   }
  ],
@@ -292,7 +292,7 @@
   "balance_dia": 794.0,
   "ganados": 2287,
   "perdidos": 973,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 22,
   "perdidos_dia": 5,
   "win_rate": 70.2,
@@ -566,6 +566,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Santos Laguna",
+   "away": "Tigres UANL",
+   "liga": "Liga MX",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Colorado Rapids",
    "away": "Real Salt Lake",
@@ -910,7 +917,7 @@
  "stats_dia": {
   "ganados": 22,
   "perdidos": 5,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 81
  },
  "stats_banker": {
