@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-08-30T09:57:52.570140+00:00",
+ "actualizado": "2026-08-30T10:07:56.027166+00:00",
  "partidos_vivo": [
   {
-   "home": "Brumov",
-   "away": "Holešov",
-   "liga": "4. liga - Divizie E",
-   "minuto": 56,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
+   "home": "Kitakyushu",
+   "away": "Matsumoto Yamaga",
+   "liga": "J3 League",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -15,15 +15,15 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚽ Liga muy goleadora: 3.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Petržalka",
-   "away": "Liptovský Mikuláš",
-   "liga": "2. liga",
+   "home": "Enisey",
+   "away": "Shinnik Yaroslavl",
+   "liga": "First League",
    "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
@@ -34,18 +34,56 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.71 goles/partido",
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Pardubice II",
-   "away": "Čáslav",
-   "liga": "3. liga - CFL B",
-   "minuto": 60,
-   "marcador": "5-0",
-   "apuesta": "Over 5.5",
+   "home": "Vasas II",
+   "away": "III. Kerületi TUE",
+   "liga": "NB III - Southeast",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.22 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Szeged-Csanád II",
+   "away": "Gyulai Termál",
+   "liga": "NB III - Southeast",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.22 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Yangon United",
+   "away": "Sagaing United",
+   "liga": "National League",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "score": 6.7,
    "recomendar": false,
    "momentum_home": 50,
@@ -54,113 +92,37 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.12 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Slovácko II",
-   "away": "Zlín II",
-   "liga": "3. liga - MSFL",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.2,
+   "home": "Diósgyőr II",
+   "away": "Hajdúnánás",
+   "liga": "NB III - Northeast",
+   "minuto": 47,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Bohemians 1905 II",
-   "away": "Admira Praha",
-   "liga": "3. liga - CFL A",
-   "minuto": 58,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Dukla Praha II",
-   "away": "Slavia III",
-   "liga": "3. liga - CFL A",
-   "minuto": 56,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 5.7,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Slavia Praha II",
-   "away": "Opava",
-   "liga": "FNL",
-   "minuto": 61,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 5.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sparta Praha II",
-   "away": "Příbram II",
-   "liga": "3. liga - CFL A",
-   "minuto": 60,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 4.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Uničov",
-   "away": "Unie Hlubina",
-   "liga": "3. liga - MSFL",
-   "minuto": 57,
-   "marcador": "2-0",
+   "home": "Yangon Royals",
+   "away": "Shan United",
+   "liga": "National League",
+   "minuto": 48,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 4.5,
+   "score": 6.1,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -168,31 +130,42 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Havířov",
-   "away": "Zbrojovka Brno II",
-   "liga": "3. liga - MSFL",
-   "minuto": 55,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 2.1,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "12:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "12:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "12:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "12:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "12:07",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -234,36 +207,6 @@
    "texto": "──────────────────────────────",
    "hora": "11:07",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:43",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "10:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:27",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:18",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -350,7 +293,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-30",
    "es_hoy": true
   },
@@ -401,13 +344,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48495.0,
-  "balance_total": 38495.0,
-  "balance_dia": 1082.0,
-  "ganados": 2295,
+  "capital": 48678.0,
+  "balance_total": 38678.0,
+  "balance_dia": 1265.0,
+  "ganados": 2298,
   "perdidos": 975,
-  "pendientes": 5,
-  "ganados_dia": 30,
+  "pendientes": 3,
+  "ganados_dia": 33,
   "perdidos_dia": 7,
   "win_rate": 70.2,
   "roi": 11.8,
@@ -994,16 +937,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2287,
-  "ganados": 1583,
+  "n": 2288,
+  "ganados": 1584,
   "win_rate": 69,
   "hoy": 15
  },
  "stats_dia": {
-  "ganados": 30,
+  "ganados": 33,
   "perdidos": 7,
-  "en_juego": 7,
-  "win_rate": 81
+  "en_juego": 5,
+  "win_rate": 82
  },
  "stats_banker": {
   "ganados": 68,
