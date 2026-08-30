@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T17:11:52.526417+00:00",
+ "actualizado": "2026-08-30T17:12:44.028400+00:00",
  "partidos_vivo": [
   {
    "home": "Gornik Zabrze",
@@ -179,6 +179,36 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:11",
    "tipo": "live"
   },
@@ -261,10 +291,54 @@
  ],
  "gol_temprano": [
   {
-   "home": "Union St. Gilloise",
-   "away": "Anderlecht",
-   "liga": "Jupiler Pro League",
-   "minuto": 20,
+   "home": "Casa Pia",
+   "away": "Moreirense",
+   "liga": "Primeira Liga",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Barcelona W",
+   "away": "Granad. Tenerife W",
+   "liga": "Primera División Femenina",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Puskas Academy",
+   "away": "Ferencvarosi TC",
+   "liga": "NB I",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "FH hafnarfjordur",
+   "away": "Keflavik",
+   "liga": "Úrvalsdeild",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Fram Reykjavik",
+   "away": "KA Akureyri",
+   "liga": "Úrvalsdeild",
+   "minuto": 10,
    "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
@@ -272,55 +346,11 @@
    "es_hoy": true
   },
   {
-   "home": "Washington Spirit W",
-   "away": "Bay FC W",
-   "liga": "NWSL Women",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Werder Bremen W",
-   "away": "RB Leipzig W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 10,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Hazm",
-   "away": "Al Shabab",
-   "liga": "Pro League",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Newroz",
-   "away": "Duhok",
-   "liga": "Iraqi League",
-   "minuto": 13,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Majosi",
-   "away": "Érdi VSE",
-   "liga": "NB III - Southwest",
-   "minuto": 16,
-   "score": 10.0,
+   "home": "jerv",
+   "away": "Pors Grenland",
+   "liga": "2. Division - Group 1",
+   "minuto": 11,
+   "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-30",
@@ -911,7 +941,7 @@
   "n": 2319,
   "ganados": 1604,
   "win_rate": 69,
-  "hoy": 62
+  "hoy": 68
  },
  "stats_dia": {
   "ganados": 72,
