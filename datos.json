@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T19:04:37.608093+00:00",
+ "actualizado": "2026-08-30T19:14:19.005451+00:00",
  "partidos_vivo": [
   {
    "home": "Zemun",
@@ -64,6 +64,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "21:04",
    "tipo": "live"
@@ -115,24 +133,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:21",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:11",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -183,6 +183,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "ABB",
+   "away": "Always Ready",
+   "liga": "Copa de la División Profesional",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "America Mineiro",
+   "away": "Ponte Preta",
+   "liga": "Serie B",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Manisa F.K.",
    "away": "Bodrum FK",
    "liga": "1. Lig",
@@ -225,28 +247,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "Zemun",
-   "away": "FK Crvena Zvezda",
-   "liga": "Super Liga",
-   "minuto": 21,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Cambuur",
-   "away": "Twente",
-   "liga": "Eredivisie",
-   "minuto": 10,
-   "score": 9.1,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -256,7 +256,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 30,
+  "pendientes": 31,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -531,6 +531,13 @@
  },
  "reentradas": [
   {
+   "home": "Kifisia",
+   "away": "AEK Athens FC",
+   "liga": "Super League 1",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Zemun",
    "away": "FK Crvena Zvezda",
    "liga": "Super Liga",
@@ -562,13 +569,6 @@
    "home": "Puskas Academy",
    "away": "Ferencvarosi TC",
    "liga": "NB I",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "jerv",
-   "away": "Pors Grenland",
-   "liga": "2. Division - Group 1",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -851,12 +851,12 @@
   "n": 2333,
   "ganados": 1612,
   "win_rate": 69,
-  "hoy": 80
+  "hoy": 82
  },
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 30,
+  "en_juego": 31,
   "win_rate": 74
  },
  "stats_banker": {
