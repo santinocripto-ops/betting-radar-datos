@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T23:04:44.215773+00:00",
+ "actualizado": "2026-08-30T23:15:02.147782+00:00",
  "partidos_vivo": [
   {
    "home": "Vila Nova",
@@ -43,6 +43,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:14",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -108,12 +114,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:47",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:45",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -752,6 +752,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
+   "apuesta": "SI, US Open ATP: Thiago Agustin Tirante ganara",
+   "usdc": 194579,
+   "prob": 65.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "01:14"
+  },
+  {
    "titulo": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
    "apuesta": "SI, US Open ATP: Martin Landaluce ganara",
    "usdc": 94288,
@@ -813,15 +822,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "20:53"
-  },
-  {
-   "titulo": "Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5",
-   "apuesta": "SI, mas de 7.5 goles",
-   "usdc": 169399,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:56"
   }
  ],
  "stats_gt": {
