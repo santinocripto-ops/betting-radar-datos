@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T23:52:07.691197+00:00",
+ "actualizado": "2026-08-29T23:59:41.738003+00:00",
  "partidos_vivo": [
   {
    "home": "Real Cartagena",
@@ -22,6 +22,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "01:59",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -87,12 +93,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "01:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -142,6 +142,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Inter Miami",
+   "away": "CF Montreal",
+   "liga": "Major League Soccer",
+   "minuto": 19,
+   "score": 8.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-29",
+   "es_hoy": false
+  },
   {
    "home": "Junior",
    "away": "Santa Fe",
@@ -196,17 +207,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-29",
    "es_hoy": false
-  },
-  {
-   "home": "Atlas",
-   "away": "Club Queretaro",
-   "liga": "Liga MX",
-   "minuto": 13,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
   }
  ],
  "banca": {
@@ -216,7 +216,7 @@
   "balance_dia": 0.0,
   "ganados": 2260,
   "perdidos": 968,
-  "pendientes": 8,
+  "pendientes": 12,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.0,
@@ -812,7 +812,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 7,
   "win_rate": 0
  },
  "stats_banker": {
