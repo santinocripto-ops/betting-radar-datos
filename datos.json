@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T01:17:16.003708+00:00",
+ "actualizado": "2026-08-30T01:25:14.765148+00:00",
  "partidos_vivo": [
   {
    "home": "Manta FC",
@@ -406,7 +406,7 @@
   "balance_dia": 244.0,
   "ganados": 2269,
   "perdidos": 968,
-  "pendientes": 14,
+  "pendientes": 16,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -1010,7 +1010,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 14,
+  "en_juego": 16,
   "win_rate": 100
  },
  "stats_banker": {
