@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T00:49:25.216480+00:00",
+ "actualizado": "2026-08-30T00:57:14.562646+00:00",
  "partidos_vivo": [
   {
    "home": "Inter Miami",
@@ -137,6 +137,18 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "02:57",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "02:49",
@@ -188,18 +200,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:51",
    "tipo": "live"
   },
   {
@@ -798,6 +798,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will CF América win on 2026-08-29?",
+   "apuesta": "SI, CF América ganara",
+   "usdc": 48000,
+   "prob": 58.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "02:57"
+  },
+  {
    "titulo": "Spread: Vancouver Whitecaps FC (-1.5)",
    "apuesta": "SI — Spread: Vancouver Whitecaps FC (-1.5)",
    "usdc": 110000,
@@ -859,15 +868,6 @@
    "n_traders": 3,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "23:45"
-  },
-  {
-   "titulo": "Sevilla FC vs. Club Atlético de Madrid: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 75166,
-   "prob": 83.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:03"
   }
  ],
  "stats_gt": {
