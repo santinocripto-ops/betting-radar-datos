@@ -1,166 +1,128 @@
 {
- "actualizado": "2026-08-30T02:08:36.253580+00:00",
+ "actualizado": "2026-08-30T02:18:08.653097+00:00",
  "partidos_vivo": [
   {
-   "home": "Nashville SC",
-   "away": "FC Cincinnati",
-   "liga": "Major League Soccer",
-   "minuto": 49,
+   "home": "Denver Summit W",
+   "away": "Chicago Red Stars W",
+   "liga": "NWSL Women",
+   "minuto": 64,
+   "marcador": "5-1",
+   "apuesta": "Over 6.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 72,
+   "momentum_away": 28,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "🔥 6 goles — partido muy abierto",
+    "⚡ Chicago Red Stars W pierde por 4 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Club America",
+   "away": "Puebla",
+   "liga": "Liga MX",
+   "minuto": 54,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 88,
-   "momentum_away": 12,
+   "momentum_home": 64,
+   "momentum_away": 36,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — FC Cincinnati buscará el empate",
-    "🎯 12 remates totales"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚽ 1 gol — Puebla buscará el empate"
    ]
   },
   {
-   "home": "Sporting Kansas City",
-   "away": "Vancouver Whitecaps",
-   "liga": "Major League Soccer",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — Sporting Kansas City buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Minnesota United FC",
-   "away": "Orlando City SC",
-   "liga": "Major League Soccer",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 92,
-   "momentum_away": 8,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — Minnesota United FC buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Houston Dynamo",
-   "away": "San Jose Earthquakes",
-   "liga": "Major League Soccer",
-   "minuto": 49,
+   "home": "Mineros de Zacatecas",
+   "away": "CDS Tampico Madero",
+   "liga": "Liga de Expansión MX",
+   "minuto": 56,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 10.0,
+   "score": 9.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Vasco DA Gama",
-   "away": "Cruzeiro",
-   "liga": "Serie A",
-   "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Cruzeiro pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Atletico Tucuman",
-   "away": "Belgrano Cordoba",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Talleres Cordoba",
-   "away": "Central Cordoba de Santiago",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 28 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Alianza Lima",
-   "away": "Deportivo Garcilaso",
-   "liga": "Primera División",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 78,
-   "momentum_away": 22,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚽ 1 gol — Alianza Lima buscará el empate",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "FC Tulsa",
-   "away": "Rhode Island",
-   "liga": "USL Championship",
+   "home": "Tigres UANL W",
+   "away": "Pachuca W",
+   "liga": "Liga MX Femenil",
    "minuto": 52,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 2.5,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.9 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Matagalpa",
+   "away": "Rancho Santana",
+   "liga": "Primera Division",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Alianza",
+   "away": "Atletico Balboa",
+   "liga": "Primera Division",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 6.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "El Paso Locomotive",
+   "away": "Loudoun United",
+   "liga": "USL Championship",
+   "minuto": 50,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 4.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -169,11 +131,36 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Rhode Island buscará el empate"
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Comunicaciones",
+   "away": "Municipal",
+   "liga": "Liga Nacional",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 0.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Comunicaciones buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "04:18",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -226,12 +213,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "03:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:57",
    "tipo": "live"
   },
   {
@@ -368,7 +349,7 @@
   "balance_dia": 555.0,
   "ganados": 2276,
   "perdidos": 969,
-  "pendientes": 12,
+  "pendientes": 13,
   "ganados_dia": 11,
   "perdidos_dia": 1,
   "win_rate": 70.1,
@@ -667,6 +648,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "FC Eindhoven",
+    "away": "Heracles",
+    "liga": "Eerste Divisie",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 3.13,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T10:15:00+00:00",
+    "ts": "2026-08-30T02:08:36.463495+00:00"
+   },
+   {
     "home": "Mineros de Zacatecas",
     "away": "CDS Tampico Madero",
     "liga": "Liga de Expansión MX",
@@ -875,27 +871,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T01:00:00+00:00",
     "ts": "2026-08-28T19:07:51.553572+00:00"
-   },
-   {
-    "home": "Rodez",
-    "away": "PAU",
-    "liga": "Ligue 2",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 4.78,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-28T18:00:00+00:00",
-    "ts": "2026-08-28T01:06:25.062472+00:00"
    }
   ],
   "balance": {
    "ganados": 173,
    "perdidos": 76,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 69.5,
    "total": 249
   }
@@ -986,7 +967,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 1,
-  "en_juego": 12,
+  "en_juego": 13,
   "win_rate": 92
  },
  "stats_banker": {
