@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T00:33:48.616387+00:00",
+ "actualizado": "2026-08-30T00:41:00.332166+00:00",
  "partidos_vivo": [
   {
    "home": "Atlas",
@@ -233,6 +233,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "02:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "02:33",
    "tipo": "live"
@@ -296,12 +302,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:51",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:51",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -352,70 +352,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Inter Miami",
-   "away": "CF Montreal",
-   "liga": "Major League Soccer",
-   "minuto": 19,
-   "score": 8.6,
+   "home": "Vasco DA Gama",
+   "away": "Cruzeiro",
+   "liga": "Serie A",
+   "minuto": 20,
+   "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Junior",
-   "away": "Santa Fe",
-   "liga": "Primera A",
-   "minuto": 21,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Atlanta United FC",
-   "away": "Charlotte",
-   "liga": "Major League Soccer",
-   "minuto": 11,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Toronto FC",
-   "away": "New York City FC",
-   "liga": "Major League Soccer",
-   "minuto": 12,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "New York Red Bulls",
-   "away": "Philadelphia Union",
-   "liga": "Major League Soccer",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
-  },
-  {
-   "home": "Querétaro W",
-   "away": "Monterrey W",
-   "liga": "Liga MX Femenil",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-29",
-   "es_hoy": false
+   "fecha": "2026-08-30",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -1024,7 +969,7 @@
   "n": 2266,
   "ganados": 1567,
   "win_rate": 69,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
