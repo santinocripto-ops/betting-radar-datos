@@ -1,9 +1,39 @@
 {
- "actualizado": "2026-08-30T11:56:58.607862+00:00",
+ "actualizado": "2026-08-30T12:06:03.289128+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "14:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -39,12 +69,6 @@
    "texto": "──────────────────────────────",
    "hora": "13:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:19",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -96,7 +120,7 @@
    "hora": "15:00",
    "resultado": "pendiente",
    "wr_historico": 70,
-   "n_historico": 93
+   "n_historico": 94
   },
   {
    "clave": "over25",
@@ -197,13 +221,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48861.0,
-  "balance_total": 38861.0,
-  "balance_dia": 1448.0,
-  "ganados": 2301,
+  "capital": 48922.0,
+  "balance_total": 38922.0,
+  "balance_dia": 1509.0,
+  "ganados": 2302,
   "perdidos": 975,
-  "pendientes": 7,
-  "ganados_dia": 36,
+  "pendientes": 8,
+  "ganados_dia": 37,
   "perdidos_dia": 7,
   "win_rate": 70.2,
   "roi": 11.9,
@@ -477,6 +501,13 @@
  },
  "reentradas": [
   {
+   "home": "Aberdeen",
+   "away": "Rangers",
+   "liga": "Premiership",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Chornomorets",
    "away": "Kryvbas KR",
    "liga": "Premier League",
@@ -731,6 +762,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: JD Gaming vs Team WE - Game 4 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 28241,
+   "prob": 38.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "14:04"
+  },
+  {
    "titulo": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: M80 ganara",
    "usdc": 172221,
@@ -765,9 +805,9 @@
   "hoy": 20
  },
  "stats_dia": {
-  "ganados": 36,
+  "ganados": 37,
   "perdidos": 7,
-  "en_juego": 10,
+  "en_juego": 11,
   "win_rate": 84
  },
  "stats_banker": {
