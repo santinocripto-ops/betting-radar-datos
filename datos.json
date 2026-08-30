@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T05:07:55.378216+00:00",
+ "actualizado": "2026-08-30T05:16:39.972017+00:00",
  "partidos_vivo": [
   {
    "home": "Wallsend Red Devils",
@@ -501,13 +501,6 @@
    "home": "Colorado Rapids",
    "away": "Real Salt Lake",
    "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Mineros de Zacatecas",
-   "away": "CDS Tampico Madero",
-   "liga": "Liga de Expansión MX",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
