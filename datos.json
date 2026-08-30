@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:37:46.400528+00:00",
+ "actualizado": "2026-08-30T14:45:08.491635+00:00",
  "partidos_vivo": [
   {
    "home": "Paris FC",
@@ -236,6 +236,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:30",
    "tipo": "live"
   },
@@ -296,12 +302,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:12",
    "tipo": "live"
   }
@@ -373,6 +373,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Havelse",
+   "away": "Waldhof Mannheim",
+   "liga": "3. Liga",
+   "minuto": 14,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Melhus",
    "away": "Strindheim",
    "liga": "3. Division - Girone 2",
@@ -422,17 +433,6 @@
    "liga": "Premiership",
    "minuto": 12,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Randers FC",
-   "away": "Aarhus",
-   "liga": "Superliga",
-   "minuto": 12,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-30",
@@ -1077,7 +1077,7 @@
   "n": 2301,
   "ganados": 1591,
   "win_rate": 69,
-  "hoy": 46
+  "hoy": 47
  },
  "stats_dia": {
   "ganados": 52,
