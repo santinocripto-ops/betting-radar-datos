@@ -1,50 +1,50 @@
 {
- "actualizado": "2026-08-30T04:07:42.091186+00:00",
+ "actualizado": "2026-08-30T04:17:55.749940+00:00",
  "partidos_vivo": [
   {
-   "home": "San Diego",
-   "away": "Los Angeles Galaxy",
-   "liga": "Major League Soccer",
-   "minuto": 53,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 81,
-   "momentum_away": 19,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Los Angeles Galaxy pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Portland Timbers",
-   "away": "Austin",
-   "liga": "Major League Soccer",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
+   "home": "Juárez W",
+   "away": "Cruz Azul W",
+   "liga": "Liga MX Femenil",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 1 gol — Portland Timbers buscará el empate",
-    "🎯 8 remates totales"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.9 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Las Vegas Lights",
-   "away": "Charleston Battery",
-   "liga": "USL Championship",
-   "minuto": 55,
-   "marcador": "0-1",
+   "home": "Marconi S. U20",
+   "away": "NWS Spirit U20",
+   "liga": "Npl Nsw U20",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Rockdale Ilinden U20",
+   "away": "UNSW U20",
+   "liga": "Npl Nsw U20",
+   "minuto": 57,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 7.0,
    "recomendar": true,
@@ -53,18 +53,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Las Vegas Lights buscará el empate"
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "New Mexico United",
-   "away": "San Antonio",
-   "liga": "USL Championship",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Wollongong Wolves U20",
+   "away": "Manly Utd U20",
+   "liga": "Npl Nsw U20",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -72,32 +72,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Phoenix Rising",
-   "away": "Indy Eleven",
-   "liga": "USL Championship",
-   "minuto": 55,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 0.8,
-   "recomendar": false,
+   "home": "Sutherland Sharks U20",
+   "away": "SD Raiders U20",
+   "liga": "Npl Nsw U20",
+   "minuto": 59,
+   "marcador": "5-1",
+   "apuesta": "Over 6.5",
+   "score": 7.0,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "06:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -162,12 +168,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "03:58",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "03:50",
    "tipo": "live"
   }
  ],
@@ -292,7 +292,7 @@
   "balance_dia": 794.0,
   "ganados": 2287,
   "perdidos": 973,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 22,
   "perdidos_dia": 5,
   "win_rate": 70.2,
@@ -910,7 +910,7 @@
  "stats_dia": {
   "ganados": 22,
   "perdidos": 5,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 81
  },
  "stats_banker": {
