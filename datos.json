@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T06:16:02.177594+00:00",
+ "actualizado": "2026-08-30T06:23:58.429624+00:00",
  "partidos_vivo": [
   {
    "home": "Brunswick City",
@@ -292,7 +292,7 @@
   "balance_dia": 899.0,
   "ganados": 2292,
   "perdidos": 975,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 27,
   "perdidos_dia": 7,
   "win_rate": 70.2,
@@ -896,7 +896,7 @@
  "stats_dia": {
   "ganados": 27,
   "perdidos": 7,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 79
  },
  "stats_banker": {
