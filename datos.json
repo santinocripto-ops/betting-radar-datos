@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T10:57:06.225863+00:00",
+ "actualizado": "2026-08-30T11:04:57.101785+00:00",
  "partidos_vivo": [
   {
    "home": "Biwako Shiga",
@@ -81,6 +81,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "13:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:49",
    "tipo": "smart_money"
@@ -131,12 +137,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "12:08",
    "tipo": "smart_money"
   },
   {
@@ -256,7 +256,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-30",
    "es_hoy": true
   },
@@ -296,16 +296,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48678.0,
-  "balance_total": 38678.0,
-  "balance_dia": 1265.0,
-  "ganados": 2298,
+  "capital": 48861.0,
+  "balance_total": 38861.0,
+  "balance_dia": 1448.0,
+  "ganados": 2301,
   "perdidos": 975,
-  "pendientes": 6,
-  "ganados_dia": 33,
+  "pendientes": 3,
+  "ganados_dia": 36,
   "perdidos_dia": 7,
   "win_rate": 70.2,
-  "roi": 11.8,
+  "roi": 11.9,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -895,16 +895,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2288,
-  "ganados": 1584,
+  "n": 2289,
+  "ganados": 1585,
   "win_rate": 69,
   "hoy": 17
  },
  "stats_dia": {
-  "ganados": 33,
+  "ganados": 36,
   "perdidos": 7,
-  "en_juego": 9,
-  "win_rate": 82
+  "en_juego": 6,
+  "win_rate": 84
  },
  "stats_banker": {
   "ganados": 68,
