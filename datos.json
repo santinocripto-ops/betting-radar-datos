@@ -1,141 +1,235 @@
 {
- "actualizado": "2026-08-30T01:06:01.921770+00:00",
+ "actualizado": "2026-08-30T01:17:16.003708+00:00",
  "partidos_vivo": [
   {
-   "home": "Inter Miami",
-   "away": "CF Montreal",
-   "liga": "Major League Soccer",
-   "minuto": 47,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Manta FC",
+   "away": "Barcelona SC",
+   "liga": "Liga Pro",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
+   "momentum_home": 37,
+   "momentum_away": 63,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 13 remates totales"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 1 gol — Barcelona SC buscará el empate",
+    "🎯 14 remates totales"
    ]
   },
   {
-   "home": "DC United",
-   "away": "Los Angeles FC",
-   "liga": "Major League Soccer",
-   "minuto": 50,
+   "home": "Nublense",
+   "away": "Concepción",
+   "liga": "Primera División",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 9.6,
+   "recomendar": true,
+   "momentum_home": 44,
+   "momentum_away": 56,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚽ 1 gol — Nublense buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Louisville City",
+   "away": "Detroit City",
+   "liga": "USL Championship",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "New York Red Bulls",
-   "away": "Philadelphia Union",
-   "liga": "Major League Soccer",
-   "minuto": 50,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ New York Red Bulls pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Toronto FC",
-   "away": "New York City FC",
-   "liga": "Major League Soccer",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — Toronto FC buscará el empate",
-    "⏱ 40 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Atlanta United FC",
-   "away": "Charlotte",
-   "liga": "Major League Soccer",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — Atlanta United FC buscará el empate",
-    "🎯 14 remates totales"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Junior",
-   "away": "Santa Fe",
-   "liga": "Primera A",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.5,
+   "home": "Diriangén",
+   "away": "Jalapa",
+   "liga": "Primera Division",
+   "minuto": 51,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.78 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "San Martín Mendoza",
-   "away": "Fundacion Amigos",
-   "liga": "Torneo Federal A",
-   "minuto": 57,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 0.0,
+   "home": "Deportivo Ayense",
+   "away": "Huracanes Izcalli",
+   "liga": "Liga Premier Serie B",
+   "minuto": 54,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 6.5,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Huracanes Izcalli buscará el empate",
+    "⏱ 36 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Municipal Grecia",
+   "away": "AD Sarchí",
+   "liga": "Liga de Ascenso",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 5.5,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.73 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — AD Sarchí buscará el empate"
+   ]
+  },
+  {
+   "home": "Oakland Roots",
+   "away": "Orange County SC",
+   "liga": "USL Championship",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 5.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Orange County SC buscará el empate"
+   ]
+  },
+  {
+   "home": "Halcones Negros",
+   "away": "Delfines Coatzacoalcos",
+   "liga": "Liga Premier Serie A",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 5.2,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Union Omaha",
+   "away": "NY Cosmos",
+   "liga": "USL League One",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 5.1,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.15 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Orlando Pride W",
+   "away": "Utah Royals W",
+   "liga": "NWSL Women",
+   "minuto": 57,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 3.3,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Deportes Iquique",
+   "away": "San Luis",
+   "liga": "Primera B",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 1.6,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Deportes Iquique buscará el empate",
+    "⏱ 37 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "03:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "03:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -189,24 +283,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "02:33",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "02:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -257,6 +333,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mineros de Zacatecas",
+   "away": "CDS Tampico Madero",
+   "liga": "Liga de Expansión MX",
+   "minuto": 17,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Club America",
+   "away": "Puebla",
+   "liga": "Liga MX",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Alianza Lima",
    "away": "Deportivo Garcilaso",
    "liga": "Primera División",
@@ -299,28 +397,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "Nashville SC",
-   "away": "FC Cincinnati",
-   "liga": "Major League Soccer",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Vasco DA Gama",
-   "away": "Cruzeiro",
-   "liga": "Serie A",
-   "minuto": 20,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -330,7 +406,7 @@
   "balance_dia": 244.0,
   "ganados": 2269,
   "perdidos": 968,
-  "pendientes": 13,
+  "pendientes": 14,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -929,12 +1005,12 @@
   "n": 2269,
   "ganados": 1570,
   "win_rate": 69,
-  "hoy": 6
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 13,
+  "en_juego": 14,
   "win_rate": 100
  },
  "stats_banker": {
