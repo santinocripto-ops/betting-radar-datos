@@ -1,222 +1,108 @@
 {
- "actualizado": "2026-08-30T13:54:19.145990+00:00",
+ "actualizado": "2026-08-30T13:55:42.576028+00:00",
  "partidos_vivo": [
   {
-   "home": "AIK Stockholm",
-   "away": "Hammarby FF",
-   "liga": "Allsvenskan",
-   "minuto": 62,
+   "home": "Bodo/Glimt",
+   "away": "Rosenborg",
+   "liga": "Eliteserien",
+   "minuto": 65,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Rosenborg pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Feyenoord",
+   "away": "ADO Den Haag",
+   "liga": "Eredivisie",
+   "minuto": 63,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 13,
-   "momentum_away": 87,
+   "momentum_home": 77,
+   "momentum_away": 23,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 25 remates totales — partido muy intenso"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Silkeborg",
-   "away": "FC Midtjylland",
-   "liga": "Superliga",
-   "minuto": 65,
+   "home": "Willem II",
+   "away": "Heerenveen",
+   "liga": "Eredivisie",
+   "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚽ 1 gol — FC Midtjylland buscará el empate",
-    "🎯 18 remates totales"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚽ 1 gol — Heerenveen buscará el empate"
    ]
   },
   {
-   "home": "FC Sion",
-   "away": "FC Lugano",
-   "liga": "Super League",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Raków Częstochowa",
+   "away": "Jagiellonia",
+   "liga": "Ekstraklasa",
+   "minuto": 48,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 36,
+   "momentum_away": 64,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "⚽ 2 goles — partido activo",
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "🔥 3 goles — partido muy abierto",
     "🎯 17 remates totales"
    ]
   },
   {
-   "home": "Rodina Moskva",
-   "away": "Baltika",
-   "liga": "Premier League",
+   "home": "Brattvåg",
+   "away": "Sandviken",
+   "liga": "2. Division - Group 1",
    "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Rodina Moskva buscará el empate",
-    "🎯 10 remates totales",
-    "📊 Rodina Moskva: Over2.5 histórico 80%"
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Hønefoss",
-   "away": "Follo",
-   "liga": "2. Division - Group 2",
-   "minuto": 62,
+   "home": "Arka Gdynia",
+   "away": "Polonia Bytom",
+   "liga": "I Liga",
+   "minuto": 65,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Stabæk II",
-   "away": "Staal Jørpeland",
-   "liga": "3. Division - Girone 4",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Tallinna Kalev II",
-   "away": "Tulevik",
-   "liga": "Esiliiga B",
-   "minuto": 62,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.43 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Grei W",
-   "away": "Klepp W",
-   "liga": "1. Division Women",
-   "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Eintracht Frankfurt W",
-   "away": "Nürnberg W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Eintracht Frankfurt W buscará el empate"
-   ]
-  },
-  {
-   "home": "Liverpool U21",
-   "away": "Leeds United U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Liverpool U21 buscará el empate"
-   ]
-  },
-  {
-   "home": "Nõmme United II",
-   "away": "Elva",
-   "liga": "Esiliiga A",
-   "minuto": 64,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Nõmme United II buscará el empate"
-   ]
-  },
-  {
-   "home": "Hamburger SV II",
-   "away": "Eintracht Norderstedt",
-   "liga": "Regionalliga - Nord",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -224,15 +110,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 20,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "15:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -298,12 +190,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -455,7 +341,7 @@
   "balance_dia": 1643.0,
   "ganados": 2308,
   "perdidos": 977,
-  "pendientes": 22,
+  "pendientes": 23,
   "ganados_dia": 43,
   "perdidos_dia": 9,
   "win_rate": 70.3,
@@ -1082,7 +968,7 @@
  "stats_dia": {
   "ganados": 43,
   "perdidos": 9,
-  "en_juego": 25,
+  "en_juego": 26,
   "win_rate": 83
  },
  "stats_banker": {
