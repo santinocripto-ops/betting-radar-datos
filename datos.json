@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T22:13:27.750981+00:00",
+ "actualizado": "2026-08-30T22:23:50.643868+00:00",
  "partidos_vivo": [
   {
    "home": "Columbus Crew",
@@ -173,7 +173,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-30",
    "es_hoy": false
   },
@@ -213,12 +213,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49426.0,
-  "balance_total": 39426.0,
+  "capital": 49348.0,
+  "balance_total": 39348.0,
   "balance_dia": 0.0,
-  "ganados": 2374,
-  "perdidos": 1011,
-  "pendientes": 7,
+  "ganados": 2376,
+  "perdidos": 1013,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -806,7 +806,7 @@
   }
  ],
  "stats_gt": {
-  "n": 2356,
+  "n": 2357,
   "ganados": 1624,
   "win_rate": 69,
   "hoy": 0
