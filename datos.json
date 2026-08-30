@@ -1,14 +1,90 @@
 {
- "actualizado": "2026-08-30T03:42:40.603132+00:00",
+ "actualizado": "2026-08-30T03:51:23.609364+00:00",
  "partidos_vivo": [
   {
-   "home": "Monterey Bay",
-   "away": "Sacramento Republic",
-   "liga": "USL Championship",
+   "home": "San Diego",
+   "away": "Los Angeles Galaxy",
+   "liga": "Major League Soccer",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 81,
+   "momentum_away": 19,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Los Angeles Galaxy pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Portland Timbers",
+   "away": "Austin",
+   "liga": "Major League Soccer",
    "minuto": 54,
-   "marcador": "1-0",
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 1.9,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ 1 gol — Portland Timbers buscará el empate",
+    "🎯 8 remates totales"
+   ]
+  },
+  {
+   "home": "Las Vegas Lights",
+   "away": "Charleston Battery",
+   "liga": "USL Championship",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Las Vegas Lights buscará el empate"
+   ]
+  },
+  {
+   "home": "New Mexico United",
+   "away": "San Antonio",
+   "liga": "USL Championship",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Phoenix Rising",
+   "away": "Indy Eleven",
+   "liga": "USL Championship",
+   "minuto": 55,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 0.8,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -17,30 +93,17 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Sacramento Republic buscará el empate"
-   ]
-  },
-  {
-   "home": "Perez Zeledon",
-   "away": "LD Alajuelense",
-   "liga": "Primera División",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 1.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo",
-    "⏱ 34 minutos por jugar — tiempo suficiente"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "05:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -105,12 +168,6 @@
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "03:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "03:48",
    "tipo": "live"
   }
  ],
@@ -235,7 +292,7 @@
   "balance_dia": 788.0,
   "ganados": 2285,
   "perdidos": 972,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 20,
   "perdidos_dia": 4,
   "win_rate": 70.2,
@@ -853,7 +910,7 @@
  "stats_dia": {
   "ganados": 20,
   "perdidos": 4,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 83
  },
  "stats_banker": {
