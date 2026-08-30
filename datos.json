@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T13:33:35.260904+00:00",
+ "actualizado": "2026-08-30T13:40:41.460607+00:00",
  "partidos_vivo": [
   {
    "home": "AIK Stockholm",
@@ -234,6 +234,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:40",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "15:26",
@@ -297,12 +303,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
    "tipo": "smart_money"
   }
  ],
@@ -455,7 +455,7 @@
   "balance_dia": 1643.0,
   "ganados": 2308,
   "perdidos": 977,
-  "pendientes": 21,
+  "pendientes": 22,
   "ganados_dia": 43,
   "perdidos_dia": 9,
   "win_rate": 70.3,
@@ -729,6 +729,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Willem II",
+   "away": "Heerenveen",
+   "liga": "Eredivisie",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Hamburger SV II",
    "away": "Eintracht Norderstedt",
@@ -1066,7 +1073,7 @@
  "stats_dia": {
   "ganados": 43,
   "perdidos": 9,
-  "en_juego": 24,
+  "en_juego": 25,
   "win_rate": 83
  },
  "stats_banker": {
