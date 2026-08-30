@@ -1,164 +1,88 @@
 {
- "actualizado": "2026-08-30T17:56:19.724909+00:00",
+ "actualizado": "2026-08-30T17:58:34.407875+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Nordsjaelland",
-   "away": "Brondby",
-   "liga": "Superliga",
-   "minuto": 63,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Washington Spirit W",
+   "away": "Bay FC W",
+   "liga": "NWSL Women",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 55,
+   "momentum_away": 45,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Brondby pierde por 2 — atacará sin freno"
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ 1 gol — Bay FC W buscará el empate",
+    "🎯 17 remates totales"
    ]
   },
   {
-   "home": "UCV Moquegua",
-   "away": "Alianza Atletico",
-   "liga": "Primera División",
-   "minuto": 60,
+   "home": "Napoli",
+   "away": "Como",
+   "liga": "Serie A",
+   "minuto": 62,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
+   "momentum_home": 29,
+   "momentum_away": 71,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Eyüpspor",
-   "away": "Alanyaspor",
-   "liga": "Süper Lig",
-   "minuto": 63,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 58,
-   "momentum_away": 42,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Esenler Erokspor",
-   "away": "Iğdır FK",
-   "liga": "1. Lig",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 52,
-   "momentum_away": 48,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚽ 1 gol — Esenler Erokspor buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Al-Hazm",
-   "away": "Al Shabab",
-   "liga": "Pro League",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 1 gol — Al-Hazm buscará el empate",
-    "🎯 9 remates totales"
-   ]
-  },
-  {
-   "home": "Tromsdalen Uil",
-   "away": "Kjelsås",
-   "liga": "2. Division - Group 2",
-   "minuto": 59,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Harstad",
-   "away": "Fløya",
-   "liga": "3. Division - Girone 5",
-   "minuto": 60,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga por encima de la media: 2.6 goles/partido",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "UNA Strassen",
-   "away": "Atert Bissen",
-   "liga": "National Division",
+   "home": "Union St. Gilloise",
+   "away": "Anderlecht",
+   "liga": "Jupiler Pro League",
    "minuto": 64,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 68,
+   "momentum_away": 32,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "AEL",
-   "away": "Anorthosis",
-   "liga": "1. Division",
-   "minuto": 58,
-   "marcador": "2-0",
+   "home": "Aris Thessalonikis",
+   "away": "OFI",
+   "liga": "Super League 1",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ 1 gol — OFI buscará el empate",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Al Wahda FC",
+   "away": "Baniyas SC",
+   "liga": "Pro League",
+   "minuto": 64,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "score": 8.0,
    "recomendar": true,
@@ -167,72 +91,40 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.25 goles/partido",
+    "⚽ Liga muy goleadora: 3.6 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "FC Cincinnati II",
-   "away": "Philadelphia Union II",
-   "liga": "MLS Next Pro",
-   "minuto": 56,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Panevėžys",
-   "away": "FK Zalgiris Vilnius",
-   "liga": "A Lyga",
-   "minuto": 63,
+   "home": "Werder Bremen W",
+   "away": "RB Leipzig W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 65,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 7.5,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ Liga goleadora: 3.08 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Ironi Modi'in",
-   "away": "Maccabi Kiryat Gat",
-   "liga": "Liga Leumit",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.06 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Ironi Modi'in buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 30,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "19:58",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -297,12 +189,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:11",
    "tipo": "live"
   }
  ],
@@ -427,7 +313,7 @@
   "balance_dia": 2316.0,
   "ganados": 2337,
   "perdidos": 987,
-  "pendientes": 37,
+  "pendientes": 38,
   "ganados_dia": 72,
   "perdidos_dia": 19,
   "win_rate": 70.3,
@@ -1011,7 +897,7 @@
  "stats_dia": {
   "ganados": 72,
   "perdidos": 21,
-  "en_juego": 37,
+  "en_juego": 38,
   "win_rate": 77
  },
  "stats_banker": {
