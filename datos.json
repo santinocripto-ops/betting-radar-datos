@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T03:26:20.165310+00:00",
+ "actualizado": "2026-08-30T03:34:24.680859+00:00",
  "partidos_vivo": [
   {
    "home": "Monterey Bay",
@@ -41,6 +41,12 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:34",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -106,12 +112,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "03:48",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:40",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -162,6 +162,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Santos Laguna",
+   "away": "Tigres UANL",
+   "liga": "Liga MX",
+   "minuto": 17,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Portland Timbers",
    "away": "Austin",
    "liga": "Major League Soccer",
@@ -210,17 +221,6 @@
    "away": "Puebla",
    "liga": "Liga MX",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Alianza Lima",
-   "away": "Deportivo Garcilaso",
-   "liga": "Primera División",
-   "minuto": 25,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -529,13 +529,6 @@
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Junior",
-   "away": "Santa Fe",
-   "liga": "Primera A",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -855,7 +848,7 @@
   "n": 2282,
   "ganados": 1580,
   "win_rate": 69,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 20,
