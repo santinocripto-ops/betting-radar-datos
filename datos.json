@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:05:31.792801+00:00",
+ "actualizado": "2026-08-30T14:13:24.115517+00:00",
  "partidos_vivo": [
   {
    "home": "Bodo/Glimt",
@@ -120,6 +120,54 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "16:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "16:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:12",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:05",
@@ -142,54 +190,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "16:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "15:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:40",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -332,7 +332,7 @@
   "balance_dia": 1744.0,
   "ganados": 2317,
   "perdidos": 981,
-  "pendientes": 12,
+  "pendientes": 13,
   "ganados_dia": 52,
   "perdidos_dia": 13,
   "win_rate": 70.3,
@@ -607,6 +607,13 @@
  },
  "reentradas": [
   {
+   "home": "Farul Constanta",
+   "away": "FC Botosani",
+   "liga": "Liga I",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Sunderland",
    "away": "Fulham",
    "liga": "Premier League",
@@ -640,17 +647,25 @@
    "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Lyngby",
-   "away": "Odense",
-   "liga": "Superliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "FC Nordsjaelland",
+    "away": "Brondby",
+    "liga": "Superliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 1.4,
+    "pinnacle": true,
+    "delta": 3.24,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T16:00:00+00:00",
+    "ts": "2026-08-30T14:05:31.995199+00:00"
+   },
    {
     "home": "TSV Hartberg",
     "away": "Ried",
@@ -736,8 +751,8 @@
     "cuota": 1.26,
     "pinnacle": true,
     "delta": 3.77,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "perdido",
     "kickoff": "2026-08-30T11:30:00+00:00",
     "ts": "2026-08-30T07:06:23.515151+00:00"
    },
@@ -751,8 +766,8 @@
     "cuota": 1.09,
     "pinnacle": true,
     "delta": 4.56,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-30T11:30:00+00:00",
     "ts": "2026-08-30T10:09:24.782619+00:00"
    },
@@ -860,29 +875,14 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T11:00:00+00:00",
     "ts": "2026-08-29T09:05:42.090419+00:00"
-   },
-   {
-    "home": "UCSA",
-    "away": "Inhulets",
-    "liga": "Persha Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": null,
-    "pinnacle": false,
-    "delta": 3.92,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T09:00:00+00:00",
-    "ts": "2026-08-28T21:06:44.505599+00:00"
    }
   ],
   "balance": {
-   "ganados": 174,
-   "perdidos": 77,
-   "pendientes": 7,
-   "acierto": 69.3,
-   "total": 251
+   "ganados": 175,
+   "perdidos": 78,
+   "pendientes": 6,
+   "acierto": 69.2,
+   "total": 253
   }
  },
  "mejor_dia": {
@@ -959,7 +959,7 @@
  "stats_dia": {
   "ganados": 52,
   "perdidos": 14,
-  "en_juego": 14,
+  "en_juego": 15,
   "win_rate": 79
  },
  "stats_banker": {
