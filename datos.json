@@ -1,11 +1,30 @@
 {
- "actualizado": "2026-08-30T15:29:39.744556+00:00",
+ "actualizado": "2026-08-30T15:30:45.823269+00:00",
  "partidos_vivo": [
   {
-   "home": "Wiltz",
-   "away": "F91 Dudelange",
-   "liga": "National Division",
-   "minuto": 46,
+   "home": "Atletico Paranaense",
+   "away": "Fluminense",
+   "liga": "Serie A",
+   "minuto": 65,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Melhus",
+   "away": "Strindheim",
+   "liga": "3. Division - Girone 2",
+   "minuto": 49,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 8.0,
@@ -15,15 +34,40 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
+    "⚽ Liga muy goleadora: 4.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Wiltz buscará el empate"
+    "⚽ 1 gol — Melhus buscará el empate"
+   ]
+  },
+  {
+   "home": "Dordoi Bishkek",
+   "away": "Abdish-Ata",
+   "liga": "Premier League",
+   "minuto": 63,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "17:30",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -64,12 +108,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:18",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:09",
    "tipo": "smart_money"
   },
   {
@@ -237,7 +275,7 @@
   "balance_dia": 1684.0,
   "ganados": 2325,
   "perdidos": 986,
-  "pendientes": 16,
+  "pendientes": 22,
   "ganados_dia": 60,
   "perdidos_dia": 18,
   "win_rate": 70.2,
@@ -882,7 +920,7 @@
  "stats_dia": {
   "ganados": 60,
   "perdidos": 19,
-  "en_juego": 18,
+  "en_juego": 24,
   "win_rate": 76
  },
  "stats_banker": {
