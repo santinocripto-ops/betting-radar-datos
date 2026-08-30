@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T20:02:27.987919+00:00",
+ "actualizado": "2026-08-30T20:11:25.117450+00:00",
  "partidos_vivo": [
   {
    "home": "ADT",
@@ -82,6 +82,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:11",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "21:53",
@@ -140,18 +152,6 @@
    "texto": "──────────────────────────────",
    "hora": "21:04",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:53",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
