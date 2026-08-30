@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T05:48:43.914734+00:00",
+ "actualizado": "2026-08-30T05:56:46.098875+00:00",
  "partidos_vivo": [
   {
    "home": "Wallsend Red Devils",
@@ -496,13 +496,6 @@
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Colorado Rapids",
-   "away": "Real Salt Lake",
-   "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
