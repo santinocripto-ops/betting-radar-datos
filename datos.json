@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T17:37:20.067695+00:00",
+ "actualizado": "2026-08-30T17:46:38.612598+00:00",
  "partidos_vivo": [
   {
    "home": "FC Nordsjaelland",
@@ -427,7 +427,7 @@
   "balance_dia": 2316.0,
   "ganados": 2337,
   "perdidos": 987,
-  "pendientes": 36,
+  "pendientes": 37,
   "ganados_dia": 72,
   "perdidos_dia": 19,
   "win_rate": 70.3,
@@ -1002,7 +1002,7 @@
  "stats_dia": {
   "ganados": 72,
   "perdidos": 21,
-  "en_juego": 36,
+  "en_juego": 37,
   "win_rate": 77
  },
  "stats_banker": {
