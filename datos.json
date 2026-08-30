@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T01:33:13.785172+00:00",
+ "actualizado": "2026-08-30T01:41:07.631467+00:00",
  "partidos_vivo": [
   {
    "home": "Manta FC",
@@ -213,6 +213,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:40",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "03:17",
@@ -276,12 +282,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "02:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "02:33",
    "tipo": "live"
   }
  ],
@@ -929,6 +929,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Colorado Rapids SC win on 2026-08-29?",
+   "apuesta": "SI, Colorado Rapids ganara",
+   "usdc": 797535,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "beachboy4",
+   "hora": "03:40"
+  },
+  {
    "titulo": "Will CF América win on 2026-08-29?",
    "apuesta": "SI, CF América ganara",
    "usdc": 48000,
@@ -990,15 +999,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "00:23"
-  },
-  {
-   "titulo": "Will Chelsea FC win on 2026-08-30?",
-   "apuesta": "NO, Chelsea no ganara",
-   "usdc": 316379,
-   "prob": 48.5,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "23:45"
   }
  ],
  "stats_gt": {
