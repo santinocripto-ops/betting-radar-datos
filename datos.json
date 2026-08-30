@@ -1,29 +1,35 @@
 {
- "actualizado": "2026-08-30T22:23:50.643868+00:00",
+ "actualizado": "2026-08-30T22:34:10.141800+00:00",
  "partidos_vivo": [
   {
-   "home": "Columbus Crew",
-   "away": "New England Revolution",
-   "liga": "Major League Soccer",
-   "minuto": 62,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 10.0,
+   "home": "Bolívar",
+   "away": "The Strongest",
+   "liga": "Copa de la División Profesional",
+   "minuto": 58,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 27,
-   "momentum_away": 73,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 18 remates totales"
+    "⚽ Liga muy goleadora: 4.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "00:34",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:35",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "22:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -218,7 +218,7 @@
   "balance_dia": 0.0,
   "ganados": 2376,
   "perdidos": 1013,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.1,
