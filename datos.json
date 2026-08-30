@@ -1,238 +1,54 @@
 {
- "actualizado": "2026-08-30T12:48:14.884465+00:00",
+ "actualizado": "2026-08-30T12:56:23.260643+00:00",
  "partidos_vivo": [
   {
-   "home": "Aberdeen",
-   "away": "Rangers",
-   "liga": "Premiership",
+   "home": "1. FC Magdeburg",
+   "away": "Holstein Kiel",
+   "liga": "2. Bundesliga",
    "minuto": 65,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 25 remates totales — partido muy intenso"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Heming",
-   "away": "Vålerenga II",
-   "liga": "3. Division - Girone 1",
-   "minuto": 52,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.19 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Fyllingsdalen",
-   "away": "Austevoll",
-   "liga": "3. Division - Girone 3",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Mandalskameratene",
-   "away": "Varhaug",
-   "liga": "3. Division - Girone 4",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Kongsvinger II",
-   "away": "Ulfstind",
-   "liga": "3. Division - Girone 5",
+   "home": "Kalju Nomme",
+   "away": "FC Levadia Tallinn",
+   "liga": "Meistriliiga",
    "minuto": 65,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 8.0,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "score": 7.6,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 5.18 goles/partido",
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Askøy",
-   "away": "Gneist",
-   "liga": "3. Division - Girone 3",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Gneist buscará el empate"
-   ]
-  },
-  {
-   "home": "Enköping",
-   "away": "Stockholm Internazionale",
-   "liga": "Ettan - Norra",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Enköping buscará el empate"
-   ]
-  },
-  {
-   "home": "FBK Karlstad",
-   "away": "Piteå",
-   "liga": "Ettan - Norra",
-   "minuto": 60,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Angby",
-   "away": "Korsnäs",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 63,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Kungsängen",
-   "away": "Helges",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Karlslund",
-   "away": "Syrianska FC",
-   "liga": "Division 2 - Södra Svealand",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Arsenal",
-   "away": "Torpedo Zhodino",
-   "liga": "Premier League",
-   "minuto": 62,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.04 goles/partido",
-    "⚠️ Datos en vivo parciales — fiabilidad media",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 22,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "14:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -298,12 +114,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "14:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -455,7 +265,7 @@
   "balance_dia": 1509.0,
   "ganados": 2302,
   "perdidos": 975,
-  "pendientes": 16,
+  "pendientes": 19,
   "ganados_dia": 37,
   "perdidos_dia": 7,
   "win_rate": 70.2,
@@ -1045,7 +855,7 @@
  "stats_dia": {
   "ganados": 37,
   "perdidos": 7,
-  "en_juego": 19,
+  "en_juego": 22,
   "win_rate": 84
  },
  "stats_banker": {
