@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:30:45.823269+00:00",
+ "actualizado": "2026-08-30T15:39:36.624205+00:00",
  "partidos_vivo": [
   {
    "home": "Atletico Paranaense",
@@ -63,6 +63,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:39",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:39",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "17:30",
@@ -108,18 +120,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:18",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:09",
    "tipo": "smart_money"
   },
   {
@@ -839,6 +839,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Manchester United FC (-1.5)",
+   "apuesta": "SI — Spread: Manchester United FC (-1.5)",
+   "usdc": 17346,
+   "prob": 49.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:39"
+  },
+  {
+   "titulo": "Will Manchester United FC vs. Ipswich Town FC end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 207130,
+   "prob": 16.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:39"
+  },
+  {
    "titulo": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
    "apuesta": "SI, US Open ATP: Sho Shimabukuro ganara",
    "usdc": 83991,
@@ -891,24 +909,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "14:22"
-  },
-  {
-   "titulo": "LoL: JD Gaming vs Team WE - Game 4 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 28241,
-   "prob": 38.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "14:04"
-  },
-  {
-   "titulo": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
-   "apuesta": "SI, Counter-Strike: M80 ganara",
-   "usdc": 172221,
-   "prob": 24.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "13:56"
   }
  ],
  "stats_gt": {
