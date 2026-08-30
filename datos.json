@@ -1,65 +1,33 @@
 {
- "actualizado": "2026-08-30T07:06:39.030135+00:00",
+ "actualizado": "2026-08-30T07:14:57.585866+00:00",
  "partidos_vivo": [
   {
-   "home": "Sydney United",
-   "away": "St. George Saints",
-   "liga": "New South Wales NPL",
-   "minuto": 54,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 2.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sutherland Sharks",
-   "away": "SD Raiders",
-   "liga": "New South Wales NPL",
-   "minuto": 65,
+   "home": "Maitland",
+   "away": "Edgeworth Eagles",
+   "liga": "Northern NSW NPL",
+   "minuto": 52,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
-   "score": 1.8,
-   "recomendar": false,
+   "score": 7.5,
+   "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — SD Raiders buscará el empate"
-   ]
-  },
-  {
-   "home": "Marconi Stallions",
-   "away": "NWS Spirit",
-   "liga": "New South Wales NPL",
-   "minuto": 64,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 0.0,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — Edgeworth Eagles buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "09:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Antwerp vs St. Truiden · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (11 ",
@@ -118,12 +86,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:06",
    "tipo": "smart_money"
   },
   {
@@ -273,7 +235,7 @@
   "balance_dia": 960.0,
   "ganados": 2293,
   "perdidos": 975,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 28,
   "perdidos_dia": 7,
   "win_rate": 70.2,
@@ -558,6 +520,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Antwerp",
+    "away": "St. Truiden",
+    "liga": "Jupiler Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.45,
+    "pinnacle": false,
+    "delta": 3.43,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T14:00:00+00:00",
+    "ts": "2026-08-30T07:06:14.780828+00:00"
+   },
+   {
+    "home": "FC St. Pauli",
+    "away": "1. FC Kaiserslautern",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.26,
+    "pinnacle": true,
+    "delta": 3.77,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T11:30:00+00:00",
+    "ts": "2026-08-30T07:06:23.515151+00:00"
+   },
+   {
     "home": "FC Eindhoven",
     "away": "Heracles",
     "liga": "Eerste Divisie",
@@ -751,42 +743,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T01:00:00+00:00",
     "ts": "2026-08-28T19:07:45.163114+00:00"
-   },
-   {
-    "home": "Atlante FC",
-    "away": "Leon",
-    "liga": "Liga MX",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.42,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T01:00:00+00:00",
-    "ts": "2026-08-28T19:07:45.649863+00:00"
-   },
-   {
-    "home": "Gimnasia Y Tiro",
-    "away": "Chacarita Juniors",
-    "liga": "Primera Nacional",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 4.08,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T01:00:00+00:00",
-    "ts": "2026-08-28T19:07:51.553572+00:00"
    }
   ],
   "balance": {
    "ganados": 173,
    "perdidos": 77,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 69.2,
    "total": 250
   }
@@ -877,7 +839,7 @@
  "stats_dia": {
   "ganados": 28,
   "perdidos": 7,
-  "en_juego": 1,
+  "en_juego": 4,
   "win_rate": 80
  },
  "stats_banker": {
