@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T18:21:13.281592+00:00",
+ "actualizado": "2026-08-30T18:21:44.917570+00:00",
  "partidos_vivo": [
   {
    "home": "Washington Spirit W",
@@ -126,6 +126,18 @@
    "tipo": "live"
   },
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:21",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:11",
@@ -178,18 +190,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "19:58",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -240,6 +240,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Kifisia",
+   "away": "AEK Athens FC",
+   "liga": "Super League 1",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "FCSB",
+   "away": "Uta Arad",
+   "liga": "Liga I",
+   "minuto": 20,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Zemun",
+   "away": "FK Crvena Zvezda",
+   "liga": "Super Liga",
+   "minuto": 21,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Cambuur",
    "away": "Twente",
    "liga": "Eredivisie",
@@ -266,39 +299,6 @@
    "away": "Hapoel Tel Aviv",
    "liga": "Ligat Ha'al",
    "minuto": 20,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Mantova",
-   "away": "Empoli",
-   "liga": "Serie B",
-   "minuto": 25,
-   "score": 8.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Rubin",
-   "away": "Dinamo Makhachkala",
-   "liga": "Premier League",
-   "minuto": 24,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Columbus Crew II",
-   "away": "Chicago Fire II",
-   "liga": "MLS Next Pro",
-   "minuto": 23,
    "score": 8.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -899,7 +899,7 @@
   "n": 2333,
   "ganados": 1612,
   "win_rate": 69,
-  "hoy": 75
+  "hoy": 78
  },
  "stats_dia": {
   "ganados": 86,
