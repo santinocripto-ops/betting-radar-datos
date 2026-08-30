@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T18:53:31.097122+00:00",
+ "actualizado": "2026-08-30T19:03:06.793149+00:00",
  "partidos_vivo": [
   {
    "home": "Lillestrom",
@@ -101,6 +101,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:03",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:53",
@@ -152,12 +158,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:11",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:10",
    "tipo": "smart_money"
   },
   {
