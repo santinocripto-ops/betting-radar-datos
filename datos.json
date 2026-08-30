@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T06:56:30.539953+00:00",
+ "actualizado": "2026-08-30T07:06:39.030135+00:00",
  "partidos_vivo": [
   {
    "home": "Sydney United",
@@ -61,6 +61,54 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Antwerp vs St. Truiden · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (11 ",
+   "hora": "09:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ FC St. Pauli vs 1. FC Kaiserslautern · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 C",
+   "hora": "09:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "08:15",
@@ -83,58 +131,29 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "08:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "07:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "06:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "06:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Antwerp",
+   "away": "St. Truiden",
+   "liga": "Jupiler Pro League",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.4,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30"
+  },
+  {
+   "home": "FC St. Pauli",
+   "away": "1. FC Kaiserslautern",
+   "liga": "2. Bundesliga",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.21,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -162,7 +181,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1050
+   "n_historico": 1051
   },
   {
    "clave": "btts",
@@ -249,13 +268,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48312.0,
-  "balance_total": 38312.0,
-  "balance_dia": 899.0,
-  "ganados": 2292,
+  "capital": 48373.0,
+  "balance_total": 38373.0,
+  "balance_dia": 960.0,
+  "ganados": 2293,
   "perdidos": 975,
-  "pendientes": 2,
-  "ganados_dia": 27,
+  "pendientes": 1,
+  "ganados_dia": 28,
   "perdidos_dia": 7,
   "win_rate": 70.2,
   "roi": 11.7,
@@ -520,7 +539,7 @@
    }
   ],
   "balance": {
-   "ganados": 1232,
+   "ganados": 1233,
    "perdidos": 845,
    "acierto": 59.3,
    "yield": 12.7,
@@ -856,15 +875,15 @@
   "hoy": 13
  },
  "stats_dia": {
-  "ganados": 27,
+  "ganados": 28,
   "perdidos": 7,
-  "en_juego": 2,
-  "win_rate": 79
+  "en_juego": 1,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 68,
   "perdidos": 26,
-  "pendientes": 0,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
