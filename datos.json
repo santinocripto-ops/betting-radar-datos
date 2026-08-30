@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T13:47:32.422859+00:00",
+ "actualizado": "2026-08-30T13:54:19.145990+00:00",
  "partidos_vivo": [
   {
    "home": "AIK Stockholm",
@@ -234,6 +234,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:54",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:40",
@@ -296,12 +302,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:06",
    "tipo": "smart_money"
   }
@@ -1018,6 +1018,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
+   "apuesta": "SI, Counter-Strike: Vitality ganara",
+   "usdc": 178946,
+   "prob": 72.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "15:54"
+  },
   {
    "titulo": "Will Fulham FC win on 2026-08-30?",
    "apuesta": "NO, Fulham no ganara",
