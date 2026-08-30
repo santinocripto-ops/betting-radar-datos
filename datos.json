@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:14:01.298688+00:00",
+ "actualizado": "2026-08-30T14:21:05.751634+00:00",
  "partidos_vivo": [
   {
    "home": "Bodo/Glimt",
@@ -120,6 +120,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:21",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:13",
@@ -184,12 +190,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -895,6 +895,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Real Madrid CF win on 2026-08-30?",
+   "apuesta": "NO, Real Madrid no ganara",
+   "usdc": 201871,
+   "prob": 10.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "16:21"
+  },
   {
    "titulo": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
    "apuesta": "SI, Counter-Strike: Vitality ganara",
