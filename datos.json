@@ -1,86 +1,244 @@
 {
- "actualizado": "2026-08-30T20:11:25.117450+00:00",
+ "actualizado": "2026-08-30T20:17:04.624517+00:00",
  "partidos_vivo": [
   {
-   "home": "ADT",
-   "away": "Sport Huancayo",
-   "liga": "Primera División",
-   "minuto": 64,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
+   "home": "Corinthians",
+   "away": "Santos",
+   "liga": "Serie A",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 47,
+   "momentum_away": 53,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ ADT pierde por 3 — atacará sin freno"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 1 gol — Corinthians buscará el empate",
+    "🎯 12 remates totales"
    ]
   },
   {
-   "home": "Başakşehir",
-   "away": "Kasımpaşa",
-   "liga": "Süper Lig",
-   "minuto": 54,
+   "home": "Flamengo",
+   "away": "Botafogo",
+   "liga": "Serie A",
+   "minuto": 49,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
+   "momentum_home": 77,
+   "momentum_away": 23,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚽ 1 gol — Kasımpaşa buscará el empate",
-    "🎯 14 remates totales"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 1 gol — Botafogo buscará el empate",
+    "🎯 17 remates totales"
    ]
   },
   {
-   "home": "Samsunspor",
-   "away": "Fenerbahçe",
-   "liga": "Süper Lig",
-   "minuto": 51,
-   "marcador": "0-2",
+   "home": "Universidad de Concepcion",
+   "away": "Universidad de Chile",
+   "liga": "Primera División",
+   "minuto": 49,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 18,
-   "momentum_away": 82,
+   "momentum_home": 25,
+   "momentum_away": 75,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ Liga goleadora: 2.9 goles/partido",
     "⚽ 2 goles — partido activo",
-    "⚡ Samsunspor pierde por 2 — atacará sin freno"
+    "⚡ Universidad de Chile pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Manisa F.K.",
-   "away": "Bodrum FK",
-   "liga": "1. Lig",
-   "minuto": 52,
+   "home": "America Mineiro",
+   "away": "Ponte Preta",
+   "liga": "Serie B",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
+   "momentum_home": 80,
+   "momentum_away": 20,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Avai",
+   "away": "Atletico Goianiense",
+   "liga": "Serie B",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Lazio",
+   "away": "Genoa",
+   "liga": "Serie A",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 79,
+   "momentum_away": 21,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga por encima de la media: 2.6 goles/partido",
+    "⚽ 1 gol — Genoa buscará el empate"
+   ]
+  },
+  {
+   "home": "IMT Novi Beograd",
+   "away": "Mladost Lucani",
+   "liga": "Super Liga",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 92,
+   "momentum_away": 8,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Mladost Lucani buscará el empate",
+    "🎯 10 remates totales",
+    "⏱ 39 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Benevento",
+   "away": "Sudtirol",
+   "liga": "Serie B",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "ABB",
+   "away": "Always Ready",
+   "liga": "Copa de la División Profesional",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Cerro Porteno",
+   "away": "Libertad Asuncion",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 12 remates totales",
+    "🚩 8 córners"
+   ]
+  },
+  {
+   "home": "Águilas Doradas",
+   "away": "Chico",
+   "liga": "Primera A",
+   "minuto": 52,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 75,
+   "momentum_away": 25,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.1 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Águilas Doradas pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Pisa",
+   "away": "Catanzaro",
+   "liga": "Serie B",
+   "minuto": 50,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 8.2,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 20 remates totales — partido muy intenso",
+    "🎯 9 remates a puerta — peligro constante"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 31,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "22:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -145,12 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "21:04",
    "tipo": "live"
   }
  ],
@@ -275,7 +427,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 36,
+  "pendientes": 39,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -550,6 +702,20 @@
  },
  "reentradas": [
   {
+   "home": "ABB",
+   "away": "Always Ready",
+   "liga": "Copa de la División Profesional",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "America Mineiro",
+   "away": "Ponte Preta",
+   "liga": "Serie B",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Manisa F.K.",
    "away": "Bodrum FK",
    "liga": "1. Lig",
@@ -574,20 +740,6 @@
    "home": "Hapoel Haifa",
    "away": "Hapoel Tel Aviv",
    "liga": "Ligat Ha'al",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Rubin",
-   "away": "Dinamo Makhachkala",
-   "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Hinna",
-   "away": "Våg",
-   "liga": "3. Division - Girone 4",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -902,7 +1054,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 36,
+  "en_juego": 39,
   "win_rate": 74
  },
  "stats_banker": {
