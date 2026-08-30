@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T12:56:23.260643+00:00",
+ "actualizado": "2026-08-30T13:06:42.399901+00:00",
  "partidos_vivo": [
   {
    "home": "1. FC Magdeburg",
@@ -44,6 +44,42 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:05",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "14:56",
@@ -77,42 +113,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "14:13",
    "tipo": "live"
   }
  ],
@@ -158,8 +158,8 @@
    "score": 8.81,
    "hora": "15:00",
    "resultado": "pendiente",
-   "wr_historico": 70,
-   "n_historico": 94
+   "wr_historico": 71,
+   "n_historico": 95
   },
   {
    "clave": "over25",
@@ -260,15 +260,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48922.0,
-  "balance_total": 38922.0,
-  "balance_dia": 1509.0,
-  "ganados": 2302,
-  "perdidos": 975,
-  "pendientes": 19,
-  "ganados_dia": 37,
-  "perdidos_dia": 7,
-  "win_rate": 70.2,
+  "capital": 49056.0,
+  "balance_total": 39056.0,
+  "balance_dia": 1643.0,
+  "ganados": 2308,
+  "perdidos": 977,
+  "pendientes": 12,
+  "ganados_dia": 43,
+  "perdidos_dia": 9,
+  "win_rate": 70.3,
   "roi": 11.9,
   "stake": 100.0,
   "cuota_fija": 1.61
@@ -540,18 +540,25 @@
  },
  "reentradas": [
   {
+   "home": "Lyngby",
+   "away": "Odense",
+   "liga": "Superliga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Aberdeen",
    "away": "Rangers",
    "liga": "Premiership",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Chornomorets",
    "away": "Kryvbas KR",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -847,16 +854,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2289,
-  "ganados": 1585,
+  "n": 2293,
+  "ganados": 1587,
   "win_rate": 69,
   "hoy": 29
  },
  "stats_dia": {
-  "ganados": 37,
-  "perdidos": 7,
-  "en_juego": 22,
-  "win_rate": 84
+  "ganados": 43,
+  "perdidos": 9,
+  "en_juego": 15,
+  "win_rate": 83
  },
  "stats_banker": {
   "ganados": 68,
