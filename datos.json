@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:39:36.624205+00:00",
+ "actualizado": "2026-08-30T15:48:38.661873+00:00",
  "partidos_vivo": [
   {
    "home": "Atletico Paranaense",
@@ -63,6 +63,30 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:48",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:39",
@@ -109,30 +133,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:18",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -202,6 +202,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Majosi",
+   "away": "Érdi VSE",
+   "liga": "NB III - Southwest",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Augsburg",
+   "away": "FC Schalke 04",
+   "liga": "Bundesliga",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Manchester United",
+   "away": "Ipswich",
+   "liga": "Premier League",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Real Madrid",
    "away": "Malaga",
    "liga": "La Liga",
@@ -228,39 +261,6 @@
    "away": "Slovácko",
    "liga": "Czech Liga",
    "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Tromso",
-   "away": "Sarpsborg 08 FF",
-   "liga": "Eliteserien",
-   "minuto": 18,
-   "score": 9.2,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Sandefjord",
-   "away": "Brann",
-   "liga": "Eliteserien",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Telstar",
-   "away": "Ajax",
-   "liga": "Eredivisie",
-   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -839,6 +839,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Kamil Majchrzak vs Hamad Medjedovic",
+   "apuesta": "SI, US Open ATP: Kamil Majchrzak ganara",
+   "usdc": 183753,
+   "prob": 88.5,
+   "n_traders": 2,
+   "trader": "beachboy4",
+   "hora": "17:48"
+  },
+  {
    "titulo": "Spread: Manchester United FC (-1.5)",
    "apuesta": "SI — Spread: Manchester United FC (-1.5)",
    "usdc": 17346,
@@ -900,22 +909,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "15:54"
-  },
-  {
-   "titulo": "Will Fulham FC win on 2026-08-30?",
-   "apuesta": "NO, Fulham no ganara",
-   "usdc": 344890,
-   "prob": 70.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "14:22"
   }
  ],
  "stats_gt": {
   "n": 2308,
   "ganados": 1594,
   "win_rate": 69,
-  "hoy": 54
+  "hoy": 57
  },
  "stats_dia": {
   "ganados": 60,
