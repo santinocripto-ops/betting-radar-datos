@@ -1,52 +1,33 @@
 {
- "actualizado": "2026-08-30T03:07:33.292149+00:00",
+ "actualizado": "2026-08-30T03:18:01.434722+00:00",
  "partidos_vivo": [
   {
-   "home": "Colorado Rapids",
-   "away": "Real Salt Lake",
-   "liga": "Major League Soccer",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 79,
-   "momentum_away": 21,
+   "home": "Monterey Bay",
+   "away": "Sacramento Republic",
+   "liga": "USL Championship",
+   "minuto": 54,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.9,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Sacramento Republic buscará el empate"
    ]
   },
   {
-   "home": "Alianza Valledupar",
-   "away": "Atletico Nacional",
-   "liga": "Primera A",
-   "minuto": 59,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.78 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Alianza Valledupar pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "CD Motagua",
-   "away": "Olancho",
-   "liga": "Liga Nacional",
-   "minuto": 61,
+   "home": "Perez Zeledon",
+   "away": "LD Alajuelense",
+   "liga": "Primera División",
+   "minuto": 56,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "score": 6.5,
+   "score": 1.8,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -55,26 +36,7 @@
    "razones": [
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo",
-    "⏱ 29 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "San Francisco FC",
-   "away": "Plaza Amador",
-   "liga": "Liga Panameña de Fútbol",
-   "minuto": 60,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Plaza Amador pierde por 2 — atacará sin freno"
+    "⏱ 34 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
@@ -603,8 +565,8 @@
     "cuota": 1.83,
     "pinnacle": true,
     "delta": 3.09,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "perdido",
     "kickoff": "2026-08-30T01:00:00+00:00",
     "ts": "2026-08-29T21:07:12.376276+00:00"
    },
@@ -806,10 +768,10 @@
   ],
   "balance": {
    "ganados": 173,
-   "perdidos": 76,
-   "pendientes": 2,
-   "acierto": 69.5,
-   "total": 249
+   "perdidos": 77,
+   "pendientes": 1,
+   "acierto": 69.2,
+   "total": 250
   }
  },
  "mejor_dia": {
