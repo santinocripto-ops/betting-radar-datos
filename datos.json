@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T23:35:21.555999+00:00",
+ "actualizado": "2026-08-30T23:45:51.421078+00:00",
  "partidos_vivo": [
   {
    "home": "Independiente",
@@ -24,6 +24,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:45",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -83,18 +95,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "22:47",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Blooming",
+   "away": "Oriente Petrolero",
+   "liga": "Copa de la División Profesional",
+   "minuto": 15,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": false
+  },
+  {
    "home": "Mirassol",
    "away": "Palmeiras",
    "liga": "Serie A",
@@ -193,17 +204,6 @@
    "away": "Ponte Preta",
    "liga": "Serie B",
    "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Manisa F.K.",
-   "away": "Bodrum FK",
-   "liga": "1. Lig",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
