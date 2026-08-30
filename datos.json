@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-08-30T12:14:56.270513+00:00",
+ "actualizado": "2026-08-30T12:22:05.069327+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:22",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "14:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -761,6 +761,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Fulham FC win on 2026-08-30?",
+   "apuesta": "NO, Fulham no ganara",
+   "usdc": 344890,
+   "prob": 70.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "14:22"
+  },
   {
    "titulo": "LoL: JD Gaming vs Team WE - Game 4 Winner",
    "apuesta": "SI, ganara",
