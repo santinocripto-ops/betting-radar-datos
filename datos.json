@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:13:24.115517+00:00",
+ "actualizado": "2026-08-30T14:14:01.298688+00:00",
  "partidos_vivo": [
   {
    "home": "Bodo/Glimt",
@@ -133,6 +133,24 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:13",
    "tipo": "live"
@@ -171,24 +189,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:04",
    "tipo": "smart_money"
   }
  ],
@@ -259,54 +259,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Tyumen",
-   "away": "Irtysh Omsk",
-   "liga": "Second League A - Division A Silver",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Cercle Brugge II",
-   "away": "Zelzate",
-   "liga": "First Amateur Division",
-   "minuto": 12,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Farul Constanta",
-   "away": "FC Botosani",
-   "liga": "Liga I",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Sunderland",
-   "away": "Fulham",
-   "liga": "Premier League",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Trygg/Lade",
-   "away": "Skeid",
-   "liga": "2. Division - Group 2",
-   "minuto": 13,
+   "home": "Hatta SC",
+   "away": "Sharjah FC",
+   "liga": "Pro League",
+   "minuto": 17,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -314,11 +270,55 @@
    "es_hoy": true
   },
   {
-   "home": "Norrköping W",
-   "away": "Djurgården W",
-   "liga": "Damallsvenskan",
+   "home": "Wiltz",
+   "away": "F91 Dudelange",
+   "liga": "National Division",
    "minuto": 14,
-   "score": 9.8,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Mansfield Town",
+   "away": "Luton",
+   "liga": "League One",
+   "minuto": 12,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Dundee",
+   "away": "Hibernian",
+   "liga": "Premiership",
+   "minuto": 12,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Randers FC",
+   "away": "Aarhus",
+   "liga": "Superliga",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Ogre United",
+   "away": "Rīgas FS",
+   "liga": "Virsliga",
+   "minuto": 13,
+   "score": 8.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-30",
@@ -954,7 +954,7 @@
   "n": 2301,
   "ganados": 1591,
   "win_rate": 69,
-  "hoy": 35
+  "hoy": 45
  },
  "stats_dia": {
   "ganados": 52,
