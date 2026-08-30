@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T20:47:28.760155+00:00",
+ "actualizado": "2026-08-30T20:57:10.024440+00:00",
  "partidos_vivo": [
   {
    "home": "Cordoba",
@@ -313,7 +313,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 41,
+  "pendientes": 42,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -958,7 +958,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 41,
+  "en_juego": 42,
   "win_rate": 74
  },
  "stats_banker": {
