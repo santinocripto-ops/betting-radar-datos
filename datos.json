@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T09:07:40.360973+00:00",
+ "actualizado": "2026-08-30T09:08:37.840902+00:00",
  "partidos_vivo": [
   {
    "home": "Geumsan Insam",
@@ -138,6 +138,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "11:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:07",
    "tipo": "smart_money"
@@ -201,12 +207,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Antwerp vs St. Truiden · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (11 ",
-   "hora": "09:06",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
