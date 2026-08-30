@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T03:59:19.586502+00:00",
+ "actualizado": "2026-08-30T04:07:42.091186+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego",
@@ -200,7 +200,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1048
+   "n_historico": 1049
   },
   {
    "clave": "btts",
@@ -214,7 +214,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 57,
-   "n_historico": 1025
+   "n_historico": 1026
   }
  ],
  "gol_temprano": [
@@ -258,7 +258,7 @@
    "minuto": 18,
    "score": 9.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-30",
    "es_hoy": true
   },
@@ -287,14 +287,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 48201.0,
-  "balance_total": 38201.0,
-  "balance_dia": 788.0,
-  "ganados": 2285,
-  "perdidos": 972,
-  "pendientes": 7,
-  "ganados_dia": 20,
-  "perdidos_dia": 4,
+  "capital": 48207.0,
+  "balance_total": 38207.0,
+  "balance_dia": 794.0,
+  "ganados": 2287,
+  "perdidos": 973,
+  "pendientes": 4,
+  "ganados_dia": 22,
+  "perdidos_dia": 5,
   "win_rate": 70.2,
   "roi": 11.7,
   "stake": 100.0,
@@ -558,8 +558,8 @@
    }
   ],
   "balance": {
-   "ganados": 1229,
-   "perdidos": 844,
+   "ganados": 1230,
+   "perdidos": 845,
    "acierto": 59.3,
    "yield": 12.6,
    "cuota_media": 1.9
@@ -571,7 +571,7 @@
    "away": "Real Salt Lake",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Mineros de Zacatecas",
@@ -902,16 +902,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2282,
+  "n": 2283,
   "ganados": 1580,
   "win_rate": 69,
   "hoy": 12
  },
  "stats_dia": {
-  "ganados": 20,
-  "perdidos": 4,
-  "en_juego": 7,
-  "win_rate": 83
+  "ganados": 22,
+  "perdidos": 5,
+  "en_juego": 4,
+  "win_rate": 81
  },
  "stats_banker": {
   "ganados": 68,
