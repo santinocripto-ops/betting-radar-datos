@@ -1,67 +1,98 @@
 {
- "actualizado": "2026-08-30T19:41:09.557708+00:00",
+ "actualizado": "2026-08-30T19:44:05.444756+00:00",
  "partidos_vivo": [
   {
-   "home": "Zemun",
-   "away": "FK Crvena Zvezda",
-   "liga": "Super Liga",
-   "minuto": 47,
+   "home": "ADT",
+   "away": "Sport Huancayo",
+   "liga": "Primera División",
+   "minuto": 64,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ ADT pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Başakşehir",
+   "away": "Kasımpaşa",
+   "liga": "Süper Lig",
+   "minuto": 54,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 65,
+   "momentum_away": 35,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ 1 gol — Kasımpaşa buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Samsunspor",
+   "away": "Fenerbahçe",
+   "liga": "Süper Lig",
+   "minuto": 51,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 18,
+   "momentum_away": 82,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Samsunspor pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Manisa F.K.",
+   "away": "Bodrum FK",
+   "liga": "1. Lig",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 15,
-   "momentum_away": 85,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Asteras Tripolis",
-   "away": "Olympiakos Piraeus",
-   "liga": "Super League 1",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚽ 1 gol — Asteras Tripolis buscará el empate",
-    "⏱ 44 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Al Jahra",
-   "away": "Al Arabi",
-   "liga": "Premier League",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Jahra buscará el empate"
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
    ]
   }
  ],
- "partidos_vivo_total": 7,
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "21:43",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -121,18 +152,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "20:33",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -182,6 +201,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Famalicao",
+   "away": "GIL Vicente",
+   "liga": "Primeira Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
   {
    "home": "ABB",
    "away": "Always Ready",
@@ -236,17 +266,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "FCSB",
-   "away": "Uta Arad",
-   "liga": "Liga I",
-   "minuto": 20,
-   "score": 8.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -256,7 +275,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 31,
+  "pendientes": 35,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -531,6 +550,13 @@
  },
  "reentradas": [
   {
+   "home": "Manisa F.K.",
+   "away": "Bodrum FK",
+   "liga": "1. Lig",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Kifisia",
    "away": "AEK Athens FC",
    "liga": "Super League 1",
@@ -562,13 +588,6 @@
    "home": "Hinna",
    "away": "Våg",
    "liga": "3. Division - Girone 4",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Puskas Academy",
-   "away": "Ferencvarosi TC",
-   "liga": "NB I",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -869,12 +888,12 @@
   "n": 2333,
   "ganados": 1612,
   "win_rate": 69,
-  "hoy": 82
+  "hoy": 83
  },
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 31,
+  "en_juego": 35,
   "win_rate": 74
  },
  "stats_banker": {
