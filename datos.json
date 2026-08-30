@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T17:46:38.612598+00:00",
+ "actualizado": "2026-08-30T17:56:19.724909+00:00",
  "partidos_vivo": [
   {
    "home": "FC Nordsjaelland",
@@ -234,6 +234,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:56",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "19:37",
@@ -291,12 +297,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:11",
    "tipo": "live"
   },
   {
@@ -983,6 +983,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5",
+   "apuesta": "SI, mas de 7.5 goles",
+   "usdc": 169399,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "19:56"
+  },
   {
    "titulo": "Will Manchester United FC win on 2026-08-30?",
    "apuesta": "NO, Manchester United no ganara",
