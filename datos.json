@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T17:02:58.873322+00:00",
+ "actualizado": "2026-08-30T17:11:52.526417+00:00",
  "partidos_vivo": [
   {
    "home": "Gornik Zabrze",
@@ -176,6 +176,12 @@
  "partidos_vivo_total": 22,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
