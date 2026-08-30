@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T00:57:40.839279+00:00",
+ "actualizado": "2026-08-30T01:06:01.921770+00:00",
  "partidos_vivo": [
   {
    "home": "Inter Miami",
@@ -325,13 +325,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 47413.0,
-  "balance_total": 37413.0,
-  "balance_dia": 0.0,
-  "ganados": 2265,
+  "capital": 47657.0,
+  "balance_total": 37657.0,
+  "balance_dia": 244.0,
+  "ganados": 2269,
   "perdidos": 968,
-  "pendientes": 12,
-  "ganados_dia": 0,
+  "pendientes": 13,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 70.1,
   "roi": 11.6,
@@ -926,16 +926,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2266,
-  "ganados": 1567,
+  "n": 2269,
+  "ganados": 1570,
   "win_rate": 69,
   "hoy": 6
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 12,
-  "win_rate": 0
+  "en_juego": 13,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 68,
