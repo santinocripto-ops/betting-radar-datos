@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T08:11:05.540299+00:00",
+ "actualizado": "2026-08-30T08:19:13.437431+00:00",
  "partidos_vivo": [
   {
    "home": "Maitland",
@@ -22,6 +22,18 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:18",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -81,18 +93,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "08:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "08:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -162,6 +162,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Ural II",
+   "away": "Rubin Kazan 2",
+   "liga": "Second League - Group 4",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Maitland",
    "away": "Edgeworth Eagles",
    "liga": "Northern NSW NPL",
@@ -211,17 +222,6 @@
    "liga": "Major League Soccer",
    "minuto": 18,
    "score": 9.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Mineros de Zacatecas",
-   "away": "CDS Tampico Madero",
-   "liga": "Liga de Expansión MX",
-   "minuto": 17,
-   "score": 8.5,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-30",
@@ -750,6 +750,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: FC Internazionale Milano (-1.5)",
+   "apuesta": "SI — Spread: FC Internazionale Milano (-1.5)",
+   "usdc": 87317,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "10:18"
+  },
+  {
    "titulo": "Will Colorado Rapids SC win on 2026-08-29?",
    "apuesta": "SI, Colorado Rapids ganara",
    "usdc": 797535,
@@ -811,22 +820,13 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "01:22"
-  },
-  {
-   "titulo": "LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season",
-   "apuesta": "SI, LoL: Team Liquid ganara",
-   "usdc": 302327,
-   "prob": 98.2,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "00:23"
   }
  ],
  "stats_gt": {
   "n": 2286,
   "ganados": 1582,
   "win_rate": 69,
-  "hoy": 13
+  "hoy": 14
  },
  "stats_dia": {
   "ganados": 28,
