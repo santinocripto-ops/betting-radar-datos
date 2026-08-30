@@ -1,50 +1,69 @@
 {
- "actualizado": "2026-08-30T17:12:44.028400+00:00",
+ "actualizado": "2026-08-30T17:27:58.133395+00:00",
  "partidos_vivo": [
   {
-   "home": "Gornik Zabrze",
-   "away": "GKS Katowice",
-   "liga": "Ekstraklasa",
-   "minuto": 56,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "FC Nordsjaelland",
+   "away": "Brondby",
+   "liga": "Superliga",
+   "minuto": 63,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚽ 1 gol — Gornik Zabrze buscará el empate",
-    "🎯 16 remates totales"
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Brondby pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Manchester United",
-   "away": "Ipswich",
-   "liga": "Premier League",
+   "home": "UCV Moquegua",
+   "away": "Alianza Atletico",
+   "liga": "Primera División",
    "minuto": 60,
-   "marcador": "2-1",
+   "marcador": "1-2",
    "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 30,
+   "momentum_away": 70,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "FC Augsburg",
-   "away": "FC Schalke 04",
-   "liga": "Bundesliga",
-   "minuto": 61,
-   "marcador": "1-0",
+   "home": "Eyüpspor",
+   "away": "Alanyaspor",
+   "liga": "Süper Lig",
+   "minuto": 63,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 58,
+   "momentum_away": 42,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "Esenler Erokspor",
+   "away": "Iğdır FK",
+   "liga": "1. Lig",
+   "minuto": 62,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 10.0,
    "recomendar": true,
@@ -53,17 +72,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 4.0 goles/partido",
-    "⚽ 1 gol — FC Schalke 04 buscará el empate"
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ 1 gol — Esenler Erokspor buscará el empate",
+    "🎯 12 remates totales"
    ]
   },
   {
-   "home": "Solin",
-   "away": "Uljanik",
-   "liga": "Second NL",
-   "minuto": 61,
-   "marcador": "0-2",
+   "home": "Al-Hazm",
+   "away": "Al Shabab",
+   "liga": "Pro League",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 21,
+   "momentum_away": 79,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚽ 1 gol — Al-Hazm buscará el empate",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "Tromsdalen Uil",
+   "away": "Kjelsås",
+   "liga": "2. Division - Group 2",
+   "minuto": 59,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "score": 8.0,
    "recomendar": true,
@@ -72,110 +110,159 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚽ Liga muy goleadora: 3.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Balatonalmádi",
-   "away": "Tatabánya",
-   "liga": "NB III - Northwest",
-   "minuto": 63,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 7.0,
+   "home": "Harstad",
+   "away": "Fløya",
+   "liga": "3. Division - Girone 5",
+   "minuto": 60,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 5.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "BKV Előre",
-   "away": "Hódmezővásárhely",
-   "liga": "NB III - Southeast",
-   "minuto": 61,
+   "home": "UNA Strassen",
+   "away": "Atert Bissen",
+   "liga": "National Division",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "AEL",
+   "away": "Anorthosis",
+   "liga": "1. Division",
+   "minuto": 58,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "FC Cincinnati II",
+   "away": "Philadelphia Union II",
+   "liga": "MLS Next Pro",
+   "minuto": 56,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 7.0,
+   "score": 7.8,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.29 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Dabas",
-   "away": "Újpest II",
-   "liga": "NB III - Southeast",
-   "minuto": 62,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.29 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Majosi",
-   "away": "Érdi VSE",
-   "liga": "NB III - Southwest",
-   "minuto": 60,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Novi Pazar U19",
-   "away": "Sp. Subotica U19",
-   "liga": "U19 league",
+   "home": "Panevėžys",
+   "away": "FK Zalgiris Vilnius",
+   "liga": "A Lyga",
    "minuto": 63,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 7.0,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.27 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Ironi Modi'in",
+   "away": "Maccabi Kiryat Gat",
+   "liga": "Liga Leumit",
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.06 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Ironi Modi'in buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 22,
+ "partidos_vivo_total": 30,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:27",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:27",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:27",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:27",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "19:27",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -217,30 +304,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:02",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "18:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:49",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -291,6 +354,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mantova",
+   "away": "Empoli",
+   "liga": "Serie B",
+   "minuto": 25,
+   "score": 8.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Rubin",
+   "away": "Dinamo Makhachkala",
+   "liga": "Premier League",
+   "minuto": 24,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Columbus Crew II",
+   "away": "Chicago Fire II",
+   "liga": "MLS Next Pro",
+   "minuto": 23,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Hinna",
+   "away": "Våg",
+   "liga": "3. Division - Girone 4",
+   "minuto": 21,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Casa Pia",
    "away": "Moreirense",
    "liga": "Primeira Liga",
@@ -311,50 +418,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "Puskas Academy",
-   "away": "Ferencvarosi TC",
-   "liga": "NB I",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "FH hafnarfjordur",
-   "away": "Keflavik",
-   "liga": "Úrvalsdeild",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Fram Reykjavik",
-   "away": "KA Akureyri",
-   "liga": "Úrvalsdeild",
-   "minuto": 10,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "jerv",
-   "away": "Pors Grenland",
-   "liga": "2. Division - Group 1",
-   "minuto": 11,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -364,7 +427,7 @@
   "balance_dia": 2316.0,
   "ganados": 2337,
   "perdidos": 987,
-  "pendientes": 25,
+  "pendientes": 32,
   "ganados_dia": 72,
   "perdidos_dia": 19,
   "win_rate": 70.3,
@@ -672,13 +735,6 @@
    "liga": "Eliteserien",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Farul Constanta",
-   "away": "FC Botosani",
-   "liga": "Liga I",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -941,12 +997,12 @@
   "n": 2319,
   "ganados": 1604,
   "win_rate": 69,
-  "hoy": 68
+  "hoy": 72
  },
  "stats_dia": {
   "ganados": 72,
   "perdidos": 21,
-  "en_juego": 25,
+  "en_juego": 32,
   "win_rate": 77
  },
  "stats_banker": {
