@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:21:15.194993+00:00",
+ "actualizado": "2026-08-30T15:29:39.744556+00:00",
  "partidos_vivo": [
   {
    "home": "Wiltz",
@@ -24,6 +24,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:29",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -88,12 +94,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "17:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "17:08",
    "tipo": "smart_money"
   }
  ],
@@ -801,6 +801,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
+   "apuesta": "SI, US Open ATP: Sho Shimabukuro ganara",
+   "usdc": 83991,
+   "prob": 21.5,
+   "n_traders": 1,
+   "trader": "beachboy4",
+   "hora": "17:29"
+  },
+  {
    "titulo": "Will Stade Rennais FC 1901 win on 2026-08-30?",
    "apuesta": "SI, Stade Rennais FC 1901 ganara",
    "usdc": 891105,
@@ -862,15 +871,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "13:56"
-  },
-  {
-   "titulo": "Will Sunderland AFC win on 2026-08-30?",
-   "apuesta": "NO, Sunderland AFC no ganara",
-   "usdc": 94400,
-   "prob": 59.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "13:19"
   }
  ],
  "stats_gt": {
