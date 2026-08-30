@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:00:24.021119+00:00",
+ "actualizado": "2026-08-30T15:09:37.759990+00:00",
  "partidos_vivo": [
   {
    "home": "Wiltz",
@@ -24,6 +24,42 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "17:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -58,42 +94,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "16:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:21",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
    "tipo": "live"
   }
  ],
@@ -131,7 +131,7 @@
    "hora": "15:00",
    "resultado": "pendiente",
    "wr_historico": 71,
-   "n_historico": 96
+   "n_historico": 97
   },
   {
    "clave": "over25",
@@ -145,7 +145,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 61,
-   "n_historico": 1057
+   "n_historico": 1063
   },
   {
    "clave": "btts",
@@ -159,7 +159,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1035
+   "n_historico": 1039
   }
  ],
  "gol_temprano": [
@@ -232,16 +232,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49157.0,
-  "balance_total": 39157.0,
-  "balance_dia": 1744.0,
-  "ganados": 2317,
-  "perdidos": 981,
-  "pendientes": 27,
-  "ganados_dia": 52,
-  "perdidos_dia": 13,
-  "win_rate": 70.3,
-  "roi": 11.9,
+  "capital": 49097.0,
+  "balance_total": 39097.0,
+  "balance_dia": 1684.0,
+  "ganados": 2325,
+  "perdidos": 986,
+  "pendientes": 16,
+  "ganados_dia": 60,
+  "perdidos_dia": 18,
+  "win_rate": 70.2,
+  "roi": 11.8,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -315,7 +315,7 @@
     "away": "Vidar",
     "liga": "2. Division - Group 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -443,7 +443,7 @@
     "away": "Vidar",
     "liga": "2. Division - Group 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -452,7 +452,7 @@
     "away": "Follo",
     "liga": "2. Division - Group 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -497,16 +497,16 @@
     "away": "Odense",
     "liga": "Superliga",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1245,
-   "perdidos": 847,
-   "acierto": 59.5,
-   "yield": 13.1,
+   "ganados": 1253,
+   "perdidos": 849,
+   "acierto": 59.6,
+   "yield": 13.3,
    "cuota_media": 1.9
   }
  },
@@ -516,28 +516,28 @@
    "away": "FC Botosani",
    "liga": "Liga I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Sunderland",
    "away": "Fulham",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Trygg/Lade",
    "away": "Skeid",
    "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Willem II",
    "away": "Heerenveen",
    "liga": "Eredivisie",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Hamburger SV II",
@@ -874,16 +874,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2301,
-  "ganados": 1591,
+  "n": 2308,
+  "ganados": 1594,
   "win_rate": 69,
   "hoy": 49
  },
  "stats_dia": {
-  "ganados": 52,
-  "perdidos": 14,
-  "en_juego": 29,
-  "win_rate": 79
+  "ganados": 60,
+  "perdidos": 19,
+  "en_juego": 18,
+  "win_rate": 76
  },
  "stats_banker": {
   "ganados": 68,
