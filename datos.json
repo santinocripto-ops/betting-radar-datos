@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T15:58:51.863705+00:00",
+ "actualizado": "2026-08-30T16:09:21.814122+00:00",
  "partidos_vivo": [
   {
    "home": "VVV Venlo",
@@ -83,6 +83,30 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:58",
    "tipo": "live"
@@ -127,30 +151,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:48",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "17:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:29",
    "tipo": "smart_money"
   }
  ],
@@ -162,15 +162,6 @@
    "liga": "Premier League",
    "mercado": "Over 1.5 goles",
    "cuota": 1.34,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30"
-  },
-  {
-   "home": "Antwerp",
-   "away": "St. Truiden",
-   "liga": "Jupiler Pro League",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.4,
    "resultado": "pendiente",
    "fecha": "2026-08-30"
   }
@@ -201,8 +192,8 @@
    "score": 10,
    "hora": "00:30",
    "resultado": "ganado",
-   "wr_historico": 61,
-   "n_historico": 1063
+   "wr_historico": 62,
+   "n_historico": 1065
   },
   {
    "clave": "btts",
@@ -216,7 +207,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1039
+   "n_historico": 1040
   }
  ],
  "gol_temprano": [
@@ -289,16 +280,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49097.0,
-  "balance_total": 39097.0,
-  "balance_dia": 1684.0,
-  "ganados": 2325,
-  "perdidos": 986,
-  "pendientes": 26,
-  "ganados_dia": 60,
-  "perdidos_dia": 18,
-  "win_rate": 70.2,
-  "roi": 11.8,
+  "capital": 49729.0,
+  "balance_total": 39729.0,
+  "balance_dia": 2316.0,
+  "ganados": 2337,
+  "perdidos": 987,
+  "pendientes": 18,
+  "ganados_dia": 72,
+  "perdidos_dia": 19,
+  "win_rate": 70.3,
+  "roi": 12.0,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -560,14 +551,42 @@
    }
   ],
   "balance": {
-   "ganados": 1253,
+   "ganados": 1256,
    "perdidos": 849,
-   "acierto": 59.6,
-   "yield": 13.3,
+   "acierto": 59.7,
+   "yield": 13.4,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Sokol Zápy",
+   "away": "Jablonec II",
+   "liga": "3. liga - CFL B",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Plzen",
+   "away": "Slovácko",
+   "liga": "Czech Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Tromso",
+   "away": "Sarpsborg 08 FF",
+   "liga": "Eliteserien",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Sandefjord",
+   "away": "Brann",
+   "liga": "Eliteserien",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Farul Constanta",
    "away": "FC Botosani",
@@ -579,34 +598,6 @@
    "home": "Sunderland",
    "away": "Fulham",
    "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Trygg/Lade",
-   "away": "Skeid",
-   "liga": "2. Division - Group 2",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Willem II",
-   "away": "Heerenveen",
-   "liga": "Eredivisie",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Hamburger SV II",
-   "away": "Eintracht Norderstedt",
-   "liga": "Regionalliga - Nord",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Hønefoss",
-   "away": "Follo",
-   "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -931,22 +922,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2308,
-  "ganados": 1594,
+  "n": 2319,
+  "ganados": 1604,
   "win_rate": 69,
   "hoy": 58
  },
  "stats_dia": {
-  "ganados": 60,
-  "perdidos": 19,
-  "en_juego": 28,
-  "win_rate": 76
+  "ganados": 72,
+  "perdidos": 21,
+  "en_juego": 19,
+  "win_rate": 77
  },
  "stats_banker": {
   "ganados": 68,
-  "perdidos": 27,
-  "pendientes": 2,
-  "win_rate": 72
+  "perdidos": 28,
+  "pendientes": 1,
+  "win_rate": 71
  },
  "marca": {
   "nombre": "Neural Trade IA",
