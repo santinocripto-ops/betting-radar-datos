@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-29T23:59:41.738003+00:00",
+ "actualizado": "2026-08-30T00:08:22.055063+00:00",
  "partidos_vivo": [
   {
    "home": "Real Cartagena",
@@ -22,6 +22,24 @@
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "02:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -75,24 +93,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:22",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:22",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -211,16 +211,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 47108.0,
-  "balance_total": 37108.0,
+  "capital": 47413.0,
+  "balance_total": 37413.0,
   "balance_dia": 0.0,
-  "ganados": 2260,
+  "ganados": 2265,
   "perdidos": 968,
-  "pendientes": 12,
+  "pendientes": 8,
   "ganados_dia": 0,
   "perdidos_dia": 0,
-  "win_rate": 70.0,
-  "roi": 11.5,
+  "win_rate": 70.1,
+  "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -804,15 +804,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2264,
-  "ganados": 1565,
+  "n": 2266,
+  "ganados": 1567,
   "win_rate": 69,
   "hoy": 0
  },
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 0
  },
  "stats_banker": {
