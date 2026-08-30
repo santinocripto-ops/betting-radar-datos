@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T17:27:58.133395+00:00",
+ "actualizado": "2026-08-30T17:37:20.067695+00:00",
  "partidos_vivo": [
   {
    "home": "FC Nordsjaelland",
@@ -236,6 +236,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:37",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "19:27",
    "tipo": "live"
   },
@@ -298,12 +304,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:02",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -353,6 +353,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Hapoel Haifa",
+   "away": "Hapoel Tel Aviv",
+   "liga": "Ligat Ha'al",
+   "minuto": 20,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
   {
    "home": "Mantova",
    "away": "Empoli",
@@ -407,17 +418,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "Barcelona W",
-   "away": "Granad. Tenerife W",
-   "liga": "Primera División Femenina",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -427,7 +427,7 @@
   "balance_dia": 2316.0,
   "ganados": 2337,
   "perdidos": 987,
-  "pendientes": 32,
+  "pendientes": 36,
   "ganados_dia": 72,
   "perdidos_dia": 19,
   "win_rate": 70.3,
@@ -997,12 +997,12 @@
   "n": 2319,
   "ganados": 1604,
   "win_rate": 69,
-  "hoy": 72
+  "hoy": 73
  },
  "stats_dia": {
   "ganados": 72,
   "perdidos": 21,
-  "en_juego": 32,
+  "en_juego": 36,
   "win_rate": 77
  },
  "stats_banker": {
