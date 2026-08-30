@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T19:44:05.444756+00:00",
+ "actualizado": "2026-08-30T19:53:15.868087+00:00",
  "partidos_vivo": [
   {
    "home": "ADT",
@@ -82,6 +82,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:53",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:43",
@@ -146,12 +152,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:53",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -275,7 +275,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 35,
+  "pendientes": 36,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -839,6 +839,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Jaime Faria vs Jenson Brooksby",
+   "apuesta": "SI, US Open ATP: Jaime Faria ganara",
+   "usdc": 62326,
+   "prob": 66.5,
+   "n_traders": 1,
+   "trader": "beachboy4",
+   "hora": "21:53"
+  },
+  {
    "titulo": "Will Arsenal FC win on 2026-08-31?",
    "apuesta": "NO, Arsenal no ganara",
    "usdc": 130000,
@@ -893,7 +902,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 35,
+  "en_juego": 36,
   "win_rate": 74
  },
  "stats_banker": {
