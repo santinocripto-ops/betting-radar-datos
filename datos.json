@@ -1,144 +1,11 @@
 {
- "actualizado": "2026-08-30T14:52:32.199875+00:00",
+ "actualizado": "2026-08-30T15:00:24.021119+00:00",
  "partidos_vivo": [
   {
-   "home": "Paris FC",
-   "away": "Nice",
-   "liga": "Ligue 1",
-   "minuto": 62,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (Ligue 1)",
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Chelsea",
-   "away": "Brighton",
-   "liga": "Premier League",
-   "minuto": 61,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 52,
-   "momentum_away": 48,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Leeds",
-   "away": "Brentford",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 1 gol — Leeds buscará el empate"
-   ]
-  },
-  {
-   "home": "Sunderland",
-   "away": "Fulham",
-   "liga": "Premier League",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Slovan Liberec",
-   "away": "Hradec Králové",
-   "liga": "Czech Liga",
-   "minuto": 62,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 73,
-   "momentum_away": 27,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚽ 1 gol — Hradec Králové buscará el empate",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "AFC Wimbledon",
-   "away": "Wigan",
-   "liga": "League One",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 41,
-   "momentum_away": 59,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Farul Constanta",
-   "away": "FC Botosani",
-   "liga": "Liga I",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 55,
-   "momentum_away": 45,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Norrköping W",
-   "away": "Djurgården W",
-   "liga": "Damallsvenskan",
-   "minuto": 58,
+   "home": "Wiltz",
+   "away": "F91 Dudelange",
+   "liga": "National Division",
+   "minuto": 46,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "score": 8.0,
@@ -148,91 +15,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.61 goles/partido",
+    "⚽ Liga muy goleadora: 3.22 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Norrköping W buscará el empate"
-   ]
-  },
-  {
-   "home": "Levanger",
-   "away": "Lørenskog",
-   "liga": "2. Division - Group 2",
-   "minuto": 64,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Trygg/Lade",
-   "away": "Skeid",
-   "liga": "2. Division - Group 2",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Førde",
-   "away": "Stord",
-   "liga": "3. Division - Girone 3",
-   "minuto": 57,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Vard",
-   "away": "Os",
-   "liga": "3. Division - Girone 3",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.26 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Vard buscará el empate"
+    "⚽ 1 gol — Wiltz buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 54,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "16:59",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -284,24 +93,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:13",
    "tipo": "live"
   }
@@ -373,6 +164,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Telstar",
+   "away": "Ajax",
+   "liga": "Eredivisie",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "VVV Venlo",
+   "away": "Emmen",
+   "liga": "Eerste Divisie",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Havelse",
    "away": "Waldhof Mannheim",
    "liga": "3. Liga",
@@ -415,28 +228,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-30",
    "es_hoy": true
-  },
-  {
-   "home": "Mansfield Town",
-   "away": "Luton",
-   "liga": "League One",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Dundee",
-   "away": "Hibernian",
-   "liga": "Premiership",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -446,7 +237,7 @@
   "balance_dia": 1744.0,
   "ganados": 2317,
   "perdidos": 981,
-  "pendientes": 26,
+  "pendientes": 27,
   "ganados_dia": 52,
   "perdidos_dia": 13,
   "win_rate": 70.3,
@@ -1086,12 +877,12 @@
   "n": 2301,
   "ganados": 1591,
   "win_rate": 69,
-  "hoy": 47
+  "hoy": 49
  },
  "stats_dia": {
   "ganados": 52,
   "perdidos": 14,
-  "en_juego": 28,
+  "en_juego": 29,
   "win_rate": 79
  },
  "stats_banker": {
