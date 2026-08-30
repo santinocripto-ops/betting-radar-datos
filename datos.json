@@ -1,162 +1,21 @@
 {
- "actualizado": "2026-08-30T11:49:03.485245+00:00",
- "partidos_vivo": [
-  {
-   "home": "FC Eindhoven",
-   "away": "Heracles",
-   "liga": "Eerste Divisie",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 39,
-   "momentum_away": 61,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚽ 1 gol — FC Eindhoven buscará el empate",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Volda",
-   "away": "Kvik Trondheim",
-   "liga": "3. Division - Girone 2",
-   "minuto": 57,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Mokpo City",
-   "away": "Yeoju Sejong",
-   "liga": "K3 League",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Yeoju Sejong buscará el empate"
-   ]
-  },
-  {
-   "home": "Skanste",
-   "away": "Tukums II",
-   "liga": "1. Liga",
-   "minuto": 62,
-   "marcador": "6-2",
-   "apuesta": "Over 8.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 8 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Kanazawa",
-   "away": "Ehime FC",
-   "liga": "J3 League",
-   "minuto": 56,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Kanazawa buscará el empate"
-   ]
-  },
-  {
-   "home": "Renofa Yamaguchi",
-   "away": "Osaka",
-   "liga": "J3 League",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sejong SA",
-   "away": "Jungnang Chorus Mustang",
-   "liga": "K4 League",
-   "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Pobeda Nizhniy Novgorod",
-   "away": "Akron II",
-   "liga": "Second League - Group 4",
-   "minuto": 62,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.54 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Akron II buscará el empate"
-   ]
-  }
- ],
- "partidos_vivo_total": 15,
+ "actualizado": "2026-08-30T11:56:58.607862+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:56",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -270,6 +129,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Gent",
+   "away": "Club Brugge KV",
+   "liga": "Jupiler Pro League",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Aberdeen",
    "away": "Rangers",
    "liga": "Premiership",
@@ -318,17 +188,6 @@
    "away": "Zlín II",
    "liga": "3. liga - MSFL",
    "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Ural II",
-   "away": "Rubin Kazan 2",
-   "liga": "Second League - Group 4",
-   "minuto": 17,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -872,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: M80 ganara",
+   "usdc": 172221,
+   "prob": 24.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "13:56"
+  },
+  {
    "titulo": "Will Sunderland AFC win on 2026-08-30?",
    "apuesta": "NO, Sunderland AFC no ganara",
    "usdc": 94400,
@@ -894,7 +762,7 @@
   "n": 2289,
   "ganados": 1585,
   "win_rate": 69,
-  "hoy": 19
+  "hoy": 20
  },
  "stats_dia": {
   "ganados": 36,
