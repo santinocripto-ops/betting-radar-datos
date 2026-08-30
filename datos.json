@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T02:50:15.520196+00:00",
+ "actualizado": "2026-08-30T02:58:09.946120+00:00",
  "partidos_vivo": [
   {
    "home": "Colorado Rapids",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:57",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "04:50",
@@ -144,12 +150,6 @@
    "texto": "──────────────────────────────",
    "hora": "03:40",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "03:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -273,7 +273,7 @@
   "balance_dia": 555.0,
   "ganados": 2276,
   "perdidos": 969,
-  "pendientes": 15,
+  "pendientes": 17,
   "ganados_dia": 11,
   "perdidos_dia": 1,
   "win_rate": 70.1,
@@ -898,7 +898,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 1,
-  "en_juego": 15,
+  "en_juego": 17,
   "win_rate": 92
  },
  "stats_banker": {
