@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T20:26:10.740103+00:00",
+ "actualizado": "2026-08-30T20:35:54.030649+00:00",
  "partidos_vivo": [
   {
    "home": "Corinthians",
@@ -234,6 +234,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:35",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:35",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
    "hora": "22:16",
@@ -291,18 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:13",
    "tipo": "live"
   }
  ],
@@ -427,7 +427,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 39,
+  "pendientes": 40,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -702,6 +702,13 @@
  },
  "reentradas": [
   {
+   "home": "Famalicao",
+   "away": "GIL Vicente",
+   "liga": "Primeira Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "ABB",
    "away": "Always Ready",
    "liga": "Copa de la División Profesional",
@@ -733,13 +740,6 @@
    "home": "Zemun",
    "away": "FK Crvena Zvezda",
    "liga": "Super Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Hapoel Haifa",
-   "away": "Hapoel Tel Aviv",
-   "liga": "Ligat Ha'al",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -991,6 +991,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Jaume Munar vs Terence Atmane",
+   "apuesta": "SI, US Open ATP: Jaume Munar ganara",
+   "usdc": 106935,
+   "prob": 39.8,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "22:35"
+  },
+  {
    "titulo": "US Open ATP: Jaime Faria vs Jenson Brooksby",
    "apuesta": "SI, US Open ATP: Jaime Faria ganara",
    "usdc": 62326,
@@ -1054,7 +1063,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 39,
+  "en_juego": 40,
   "win_rate": 74
  },
  "stats_banker": {
