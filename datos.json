@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T14:45:08.491635+00:00",
+ "actualizado": "2026-08-30T14:52:32.199875+00:00",
  "partidos_vivo": [
   {
    "home": "Paris FC",
@@ -234,6 +234,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:52",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:45",
@@ -297,12 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:12",
    "tipo": "live"
   }
  ],
@@ -446,7 +446,7 @@
   "balance_dia": 1744.0,
   "ganados": 2317,
   "perdidos": 981,
-  "pendientes": 25,
+  "pendientes": 26,
   "ganados_dia": 52,
   "perdidos_dia": 13,
   "win_rate": 70.3,
@@ -1010,6 +1010,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will AFC Ajax win on 2026-08-30?",
+   "apuesta": "SI, AFC Ajax ganara",
+   "usdc": 135360,
+   "prob": 65.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "16:52"
+  },
+  {
    "titulo": "Will Real Madrid CF win on 2026-08-30?",
    "apuesta": "NO, Real Madrid no ganara",
    "usdc": 201871,
@@ -1082,7 +1091,7 @@
  "stats_dia": {
   "ganados": 52,
   "perdidos": 14,
-  "en_juego": 27,
+  "en_juego": 28,
   "win_rate": 79
  },
  "stats_banker": {
