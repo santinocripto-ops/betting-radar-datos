@@ -1,9 +1,180 @@
 {
- "actualizado": "2026-08-30T11:19:40.201448+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 0,
+ "actualizado": "2026-08-30T11:22:38.234392+00:00",
+ "partidos_vivo": [
+  {
+   "home": "FC Eindhoven",
+   "away": "Heracles",
+   "liga": "Eerste Divisie",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.07 goles/partido",
+    "⚽ 1 gol — FC Eindhoven buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Volda",
+   "away": "Kvik Trondheim",
+   "liga": "3. Division - Girone 2",
+   "minuto": 57,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Mokpo City",
+   "away": "Yeoju Sejong",
+   "liga": "K3 League",
+   "minuto": 60,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Yeoju Sejong buscará el empate"
+   ]
+  },
+  {
+   "home": "Skanste",
+   "away": "Tukums II",
+   "liga": "1. Liga",
+   "minuto": 62,
+   "marcador": "6-2",
+   "apuesta": "Over 8.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 8 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Kanazawa",
+   "away": "Ehime FC",
+   "liga": "J3 League",
+   "minuto": 56,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Kanazawa buscará el empate"
+   ]
+  },
+  {
+   "home": "Renofa Yamaguchi",
+   "away": "Osaka",
+   "liga": "J3 League",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Sejong SA",
+   "away": "Jungnang Chorus Mustang",
+   "liga": "K4 League",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Pobeda Nizhniy Novgorod",
+   "away": "Akron II",
+   "liga": "Second League - Group 4",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.54 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Akron II buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "13:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
