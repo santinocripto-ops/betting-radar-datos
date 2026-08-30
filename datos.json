@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T18:43:18.178821+00:00",
+ "actualizado": "2026-08-30T18:53:31.097122+00:00",
  "partidos_vivo": [
   {
    "home": "Lillestrom",
@@ -101,6 +101,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:53",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
@@ -165,12 +171,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -294,7 +294,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 26,
+  "pendientes": 28,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -858,6 +858,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will SS Lazio win on 2026-08-30?",
+   "apuesta": "NO, SS Lazio no ganara",
+   "usdc": 100000,
+   "prob": 57.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "20:53"
+  },
+  {
    "titulo": "Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5",
    "apuesta": "SI, mas de 7.5 goles",
    "usdc": 169399,
@@ -885,7 +894,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 26,
+  "en_juego": 28,
   "win_rate": 74
  },
  "stats_banker": {
