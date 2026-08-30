@@ -1,90 +1,14 @@
 {
- "actualizado": "2026-08-30T06:23:58.429624+00:00",
+ "actualizado": "2026-08-30T06:32:29.992795+00:00",
  "partidos_vivo": [
   {
-   "home": "Brunswick City",
-   "away": "Melbourne Srbija",
-   "liga": "Victoria NPL 2",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Brunswick City buscará el empate"
-   ]
-  },
-  {
-   "home": "Eltham Redbacks FC",
-   "away": "Melbourne Knights",
-   "liga": "Victoria NPL 2",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Brunswick Juventus FC",
-   "away": "Manningham United Blues",
-   "liga": "Victoria NPL 2",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Manningham United Blues buscará el empate"
-   ]
-  },
-  {
-   "home": "Sydney Olympic",
-   "away": "Sydney FC U23",
+   "home": "Sydney United",
+   "away": "St. George Saints",
    "liga": "New South Wales NPL",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 5.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Wollongong Wolves",
-   "away": "Manly United",
-   "liga": "New South Wales NPL",
-   "minuto": 47,
-   "marcador": "0-3",
+   "minuto": 54,
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
-   "score": 5.5,
+   "score": 2.8,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -94,6 +18,44 @@
     "🔒 Liga poco goleadora: 2.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Sutherland Sharks",
+   "away": "SD Raiders",
+   "liga": "New South Wales NPL",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 1.8,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — SD Raiders buscará el empate"
+   ]
+  },
+  {
+   "home": "Marconi Stallions",
+   "away": "NWS Spirit",
+   "liga": "New South Wales NPL",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 0.0,
+   "recomendar": false,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
