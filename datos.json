@@ -1,236 +1,147 @@
 {
- "actualizado": "2026-08-30T00:41:00.332166+00:00",
+ "actualizado": "2026-08-30T00:49:25.216480+00:00",
  "partidos_vivo": [
   {
-   "home": "Atlas",
-   "away": "Club Queretaro",
-   "liga": "Liga MX",
-   "minuto": 53,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Inter Miami",
+   "away": "CF Montreal",
+   "liga": "Major League Soccer",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
+   "momentum_home": 82,
+   "momentum_away": 18,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 13 remates totales"
    ]
   },
   {
-   "home": "CF Pachuca",
-   "away": "Guadalajara Chivas",
-   "liga": "Liga MX",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.6,
+   "home": "DC United",
+   "away": "Los Angeles FC",
+   "liga": "Major League Soccer",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 44,
    "momentum_away": 56,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚽ 1 gol — CF Pachuca buscará el empate"
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Querétaro W",
-   "away": "Monterrey W",
-   "liga": "Liga MX Femenil",
+   "home": "New York Red Bulls",
+   "away": "Philadelphia Union",
+   "liga": "Major League Soccer",
    "minuto": 50,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 8.3,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 44,
+   "momentum_away": 56,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ New York Red Bulls pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Connecticut FC",
-   "away": "New York RB II",
-   "liga": "MLS Next Pro",
-   "minuto": 52,
-   "marcador": "1-0",
+   "home": "Toronto FC",
+   "away": "New York City FC",
+   "liga": "Major League Soccer",
+   "minuto": 50,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "score": 8.2,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 83,
+   "momentum_away": 17,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚽ 1 gol — Toronto FC buscará el empate",
+    "⏱ 40 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Atlanta United FC",
+   "away": "Charlotte",
+   "liga": "Major League Soccer",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚽ 1 gol — Atlanta United FC buscará el empate",
+    "🎯 14 remates totales"
    ]
   },
   {
-   "home": "Chattanooga",
-   "away": "Carolina Core",
-   "liga": "MLS Next Pro",
-   "minuto": 54,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 8.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Westchester SC",
-   "away": "Spokane Velocity",
-   "liga": "USL League One",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lexington",
-   "away": "Colorado Springs",
-   "liga": "USL Championship",
-   "minuto": 51,
+   "home": "Junior",
+   "away": "Santa Fe",
+   "liga": "Primera A",
+   "minuto": 60,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 7.0,
+   "score": 8.5,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔒 Liga muy cerrada: 1.78 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
    ]
   },
   {
-   "home": "Sporting JAX W",
-   "away": "Dallas Trinity W",
-   "liga": "USL Super League",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dallas Trinity W buscará el empate"
-   ]
-  },
-  {
-   "home": "Portland Hearts of Pine",
-   "away": "Fort Wayne",
-   "liga": "USL League One",
-   "minuto": 48,
+   "home": "San Martín Mendoza",
+   "away": "Fundacion Amigos",
+   "liga": "Torneo Federal A",
+   "minuto": 57,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 6.9,
+   "score": 0.0,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
+    "🔒 Liga muy cerrada: 1.79 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Brooklyn",
-   "away": "Sporting JAX",
-   "liga": "USL Championship",
-   "minuto": 52,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "score": 6.8,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Chattanooga Red Wolves",
-   "away": "Boise",
-   "liga": "USL League One",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Chattanooga Red Wolves buscará el empate"
-   ]
-  },
-  {
-   "home": "Richmond Kickers",
-   "away": "Forward Madison",
-   "liga": "USL League One",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 6.3,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Richmond Kickers buscará el empate"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "02:49",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -296,12 +207,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:51",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:51",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -370,7 +275,7 @@
   "balance_dia": 0.0,
   "ganados": 2265,
   "perdidos": 968,
-  "pendientes": 10,
+  "pendientes": 12,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -974,7 +879,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 10,
+  "en_juego": 12,
   "win_rate": 0
  },
  "stats_banker": {
