@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T07:22:58.432669+00:00",
+ "actualizado": "2026-08-30T07:30:58.559872+00:00",
  "partidos_vivo": [
   {
    "home": "Maitland",
@@ -508,15 +508,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Santos Laguna",
-   "away": "Tigres UANL",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
