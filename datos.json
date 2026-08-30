@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T10:17:56.203694+00:00",
+ "actualizado": "2026-08-30T10:25:46.716755+00:00",
  "partidos_vivo": [
   {
    "home": "Kitakyushu",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "12:25",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:17",
@@ -164,12 +170,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "12:08",
    "tipo": "smart_money"
   },
   {
@@ -285,6 +285,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Eindhoven",
+   "away": "Heracles",
+   "liga": "Eerste Divisie",
+   "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
    "home": "Slovácko II",
    "away": "Zlín II",
    "liga": "3. liga - MSFL",
@@ -334,17 +345,6 @@
    "liga": "Major League Soccer",
    "minuto": 10,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "San Diego",
-   "away": "Los Angeles Galaxy",
-   "liga": "Major League Soccer",
-   "minuto": 10,
-   "score": 9.1,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-30",
@@ -955,7 +955,7 @@
   "n": 2288,
   "ganados": 1584,
   "win_rate": 69,
-  "hoy": 15
+  "hoy": 16
  },
  "stats_dia": {
   "ganados": 33,
