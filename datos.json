@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T13:06:42.399901+00:00",
+ "actualizado": "2026-08-30T13:15:59.810738+00:00",
  "partidos_vivo": [
   {
    "home": "1. FC Magdeburg",
@@ -44,6 +44,54 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:14",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:06",
@@ -66,54 +114,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "14:56",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:48",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "14:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:22",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -192,54 +192,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Willem II",
-   "away": "Heerenveen",
-   "liga": "Eredivisie",
-   "minuto": 15,
-   "score": 9.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Bodo/Glimt",
-   "away": "Rosenborg",
-   "liga": "Eliteserien",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Liverpool U21",
-   "away": "Leeds United U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Eintracht Frankfurt W",
-   "away": "Nürnberg W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Hamburger SV II",
-   "away": "Eintracht Norderstedt",
-   "liga": "Regionalliga - Nord",
+   "home": "Tyumen",
+   "away": "Irtysh Omsk",
+   "liga": "Second League A - Division A Silver",
    "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Cercle Brugge II",
+   "away": "Zelzate",
+   "liga": "First Amateur Division",
+   "minuto": 12,
    "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
@@ -247,11 +214,44 @@
    "es_hoy": true
   },
   {
-   "home": "Skive",
-   "away": "Naestved",
-   "liga": "2. Division",
+   "home": "Farul Constanta",
+   "away": "FC Botosani",
+   "liga": "Liga I",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Sunderland",
+   "away": "Fulham",
+   "liga": "Premier League",
    "minuto": 14,
    "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Trygg/Lade",
+   "away": "Skeid",
+   "liga": "2. Division - Group 2",
+   "minuto": 13,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Norrköping W",
+   "away": "Djurgården W",
+   "liga": "Damallsvenskan",
+   "minuto": 14,
+   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-30",
@@ -265,7 +265,7 @@
   "balance_dia": 1643.0,
   "ganados": 2308,
   "perdidos": 977,
-  "pendientes": 12,
+  "pendientes": 14,
   "ganados_dia": 43,
   "perdidos_dia": 9,
   "win_rate": 70.3,
@@ -540,6 +540,20 @@
  },
  "reentradas": [
   {
+   "home": "Hamburger SV II",
+   "away": "Eintracht Norderstedt",
+   "liga": "Regionalliga - Nord",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Hønefoss",
+   "away": "Follo",
+   "liga": "2. Division - Group 2",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Lyngby",
    "away": "Odense",
    "liga": "Superliga",
@@ -563,6 +577,21 @@
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "TSV Hartberg",
+    "away": "Ried",
+    "liga": "Bundesliga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 7.32,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T15:00:00+00:00",
+    "ts": "2026-08-30T13:06:42.597011+00:00"
+   },
    {
     "home": "Antwerp",
     "away": "St. Truiden",
@@ -663,8 +692,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 3.13,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-08-30T10:15:00+00:00",
     "ts": "2026-08-30T02:08:36.463495+00:00"
    },
@@ -772,29 +801,14 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T09:00:00+00:00",
     "ts": "2026-08-28T21:06:44.505599+00:00"
-   },
-   {
-    "home": "Metalul Buzău",
-    "away": "Chindia Targoviste",
-    "liga": "Liga II",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.86,
-    "marcador": "1-3",
-    "resultado": "perdido",
-    "kickoff": "2026-08-29T08:00:00+00:00",
-    "ts": "2026-08-29T01:04:21.412140+00:00"
    }
   ],
   "balance": {
-   "ganados": 173,
+   "ganados": 174,
    "perdidos": 77,
    "pendientes": 7,
-   "acierto": 69.2,
-   "total": 250
+   "acierto": 69.3,
+   "total": 251
   }
  },
  "mejor_dia": {
@@ -857,12 +871,12 @@
   "n": 2293,
   "ganados": 1587,
   "win_rate": 69,
-  "hoy": 29
+  "hoy": 35
  },
  "stats_dia": {
   "ganados": 43,
   "perdidos": 9,
-  "en_juego": 15,
+  "en_juego": 17,
   "win_rate": 83
  },
  "stats_banker": {
