@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-08-30T10:33:20.052635+00:00",
+ "actualizado": "2026-08-30T10:41:39.157315+00:00",
  "partidos_vivo": [
   {
-   "home": "Kitakyushu",
-   "away": "Matsumoto Yamaga",
+   "home": "Biwako Shiga",
+   "away": "Gainare Tottori",
    "liga": "J3 League",
-   "minuto": 46,
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "score": 8.0,
@@ -21,12 +21,12 @@
    ]
   },
   {
-   "home": "Enisey",
-   "away": "Shinnik Yaroslavl",
-   "liga": "First League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Rainbow",
+   "away": "Calcutta Police",
+   "liga": "Calcutta Premier Division",
+   "minuto": 48,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -34,108 +34,57 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Rainbow buscará el empate"
    ]
   },
   {
-   "home": "Vasas II",
-   "away": "III. Kerületi TUE",
-   "liga": "NB III - Southeast",
+   "home": "Peerless",
+   "away": "Police",
+   "liga": "Calcutta Premier Division",
    "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 7.0,
-   "recomendar": true,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "score": 6.0,
+   "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.22 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Police buscará el empate"
    ]
   },
   {
-   "home": "Szeged-Csanád II",
-   "away": "Gyulai Termál",
-   "liga": "NB III - Southeast",
-   "minuto": 48,
+   "home": "Calcutta Customs",
+   "away": "East Bengal",
+   "liga": "Calcutta Premier Division",
+   "minuto": 50,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.22 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Yangon United",
-   "away": "Sagaing United",
-   "liga": "National League",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 6.7,
+   "score": 5.6,
    "recomendar": false,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Diósgyőr II",
-   "away": "Hajdúnánás",
-   "liga": "NB III - Northeast",
-   "minuto": 47,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "score": 6.5,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Yangon Royals",
-   "away": "Shan United",
-   "liga": "National League",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 6.1,
-   "recomendar": false,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "12:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -176,12 +125,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "12:08",
    "tipo": "smart_money"
   },
   {
@@ -358,7 +301,7 @@
   "balance_dia": 1265.0,
   "ganados": 2298,
   "perdidos": 975,
-  "pendientes": 4,
+  "pendientes": 6,
   "ganados_dia": 33,
   "perdidos_dia": 7,
   "win_rate": 70.2,
@@ -960,7 +903,7 @@
  "stats_dia": {
   "ganados": 33,
   "perdidos": 7,
-  "en_juego": 7,
+  "en_juego": 9,
   "win_rate": 82
  },
  "stats_banker": {
