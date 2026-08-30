@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T10:41:39.157315+00:00",
+ "actualizado": "2026-08-30T10:49:31.406460+00:00",
  "partidos_vivo": [
   {
    "home": "Biwako Shiga",
@@ -80,6 +80,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:49",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "12:41",
@@ -125,12 +131,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "12:08",
    "tipo": "smart_money"
   },
   {
@@ -822,6 +822,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: JD Gaming ganara",
+   "usdc": 86969,
+   "prob": 21.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "12:49"
+  },
+  {
    "titulo": "Will Brentford FC win on 2026-08-30?",
    "apuesta": "SI, Brentford ganara",
    "usdc": 541413,
@@ -882,15 +891,6 @@
    "prob": 55.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
-   "hora": "01:51"
-  },
-  {
-   "titulo": "Will Inter Miami CF win on 2026-08-29?",
-   "apuesta": "SI, Inter Miami ganara",
-   "usdc": 606313,
-   "prob": 70.5,
-   "n_traders": 2,
-   "trader": "beachboy4",
    "hora": "01:51"
   }
  ],
