@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T10:09:41.843599+00:00",
+ "actualizado": "2026-08-30T10:17:56.203694+00:00",
  "partidos_vivo": [
   {
    "home": "Kitakyushu",
@@ -137,6 +137,12 @@
  ],
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:17",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ LNZ Cherkasy vs Veres Rivne · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.34 (9 casas)",
    "hora": "12:09",
@@ -200,12 +206,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "12:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "12:07",
    "tipo": "smart_money"
   }
  ],
@@ -665,6 +665,36 @@
     "ts": "2026-08-30T09:08:38.024405+00:00"
    },
    {
+    "home": "LNZ Cherkasy",
+    "away": "Veres Rivne",
+    "liga": "Premier League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "cuota": 1.42,
+    "pinnacle": true,
+    "delta": 4.2,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T12:30:00+00:00",
+    "ts": "2026-08-30T10:09:27.646726+00:00"
+   },
+   {
+    "home": "LNZ Cherkasy",
+    "away": "Veres Rivne",
+    "liga": "Premier League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 6,
+    "cuota": 1.42,
+    "pinnacle": false,
+    "delta": 3.98,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T12:30:00+00:00",
+    "ts": "2026-08-30T10:09:27.876020+00:00"
+   },
+   {
     "home": "FC St. Pauli",
     "away": "1. FC Kaiserslautern",
     "liga": "2. Bundesliga",
@@ -678,6 +708,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-30T11:30:00+00:00",
     "ts": "2026-08-30T07:06:23.515151+00:00"
+   },
+   {
+    "home": "Guangzhou E-Power",
+    "away": "Changchun Yatai",
+    "liga": "League One",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 11,
+    "cuota": 1.09,
+    "pinnacle": true,
+    "delta": 4.56,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-30T11:30:00+00:00",
+    "ts": "2026-08-30T10:09:24.782619+00:00"
    },
    {
     "home": "FC Eindhoven",
@@ -813,57 +858,12 @@
     "resultado": "perdido",
     "kickoff": "2026-08-29T08:00:00+00:00",
     "ts": "2026-08-29T01:04:21.412140+00:00"
-   },
-   {
-    "home": "CS Afumati",
-    "away": "Unirea Slobozia",
-    "liga": "Liga II",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 9,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 4.21,
-    "marcador": "2-1",
-    "resultado": "perdido",
-    "kickoff": "2026-08-29T08:00:00+00:00",
-    "ts": "2026-08-29T01:04:23.825495+00:00"
-   },
-   {
-    "home": "CSM Reşiţa",
-    "away": "CSA Steaua Bucureşti",
-    "liga": "Liga II",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.74,
-    "marcador": "2-1",
-    "resultado": "perdido",
-    "kickoff": "2026-08-29T08:00:00+00:00",
-    "ts": "2026-08-29T03:06:51.726337+00:00"
-   },
-   {
-    "home": "Necaxa",
-    "away": "Cruz Azul",
-    "liga": "Liga MX",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 8,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.56,
-    "marcador": "1-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T01:00:00+00:00",
-    "ts": "2026-08-28T16:09:13.667723+00:00"
    }
   ],
   "balance": {
    "ganados": 173,
    "perdidos": 77,
-   "pendientes": 4,
+   "pendientes": 7,
    "acierto": 69.2,
    "total": 250
   }
@@ -878,6 +878,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Brentford FC win on 2026-08-30?",
+   "apuesta": "SI, Brentford ganara",
+   "usdc": 541413,
+   "prob": 37.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "12:17"
+  },
   {
    "titulo": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: G2 ganara",
@@ -940,15 +949,6 @@
    "n_traders": 2,
    "trader": "beachboy4",
    "hora": "01:51"
-  },
-  {
-   "titulo": "Spread: Inter Miami CF (-1.5)",
-   "apuesta": "SI — Spread: Inter Miami CF (-1.5)",
-   "usdc": 152582,
-   "prob": 50.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "01:22"
   }
  ],
  "stats_gt": {
@@ -960,7 +960,7 @@
  "stats_dia": {
   "ganados": 33,
   "perdidos": 7,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 82
  },
  "stats_banker": {
