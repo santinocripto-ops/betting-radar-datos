@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-30T18:11:00.947505+00:00",
+ "actualizado": "2026-08-30T18:21:13.281592+00:00",
  "partidos_vivo": [
   {
    "home": "Washington Spirit W",
@@ -120,6 +120,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:21",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:11",
@@ -184,12 +190,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:58",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:56",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -313,7 +313,7 @@
   "balance_dia": 2238.0,
   "ganados": 2351,
   "perdidos": 996,
-  "pendientes": 19,
+  "pendientes": 21,
   "ganados_dia": 86,
   "perdidos_dia": 28,
   "win_rate": 70.2,
@@ -642,8 +642,8 @@
     "cuota": 1.4,
     "pinnacle": true,
     "delta": 3.24,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-30T16:00:00+00:00",
     "ts": "2026-08-30T14:05:31.995199+00:00"
    },
@@ -657,8 +657,8 @@
     "cuota": 1.44,
     "pinnacle": true,
     "delta": 7.32,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "perdido",
     "kickoff": "2026-08-30T15:00:00+00:00",
     "ts": "2026-08-30T13:06:42.597011+00:00"
    },
@@ -859,11 +859,11 @@
    }
   ],
   "balance": {
-   "ganados": 176,
-   "perdidos": 79,
-   "pendientes": 2,
-   "acierto": 69.0,
-   "total": 255
+   "ganados": 177,
+   "perdidos": 80,
+   "pendientes": 0,
+   "acierto": 68.9,
+   "total": 257
   }
  },
  "mejor_dia": {
@@ -904,7 +904,7 @@
  "stats_dia": {
   "ganados": 86,
   "perdidos": 30,
-  "en_juego": 19,
+  "en_juego": 21,
   "win_rate": 74
  },
  "stats_banker": {
