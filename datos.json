@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-08-31T23:34:59.105456+00:00",
+ "actualizado": "2026-08-31T23:44:43.651200+00:00",
  "partidos_vivo": [
   {
-   "home": "Estudiantes L.P.",
-   "away": "Newells Old Boys",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Fortaleza EC",
+   "away": "Operario-PR",
+   "liga": "Serie B",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 80,
-   "momentum_away": 20,
+   "momentum_home": 79,
+   "momentum_away": 21,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 12 remates totales"
+    "⚽ 2 goles — partido activo",
+    "🎯 12 remates totales",
+    "🚩 7 córners"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
