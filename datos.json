@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T10:59:06.317405+00:00",
+ "actualizado": "2026-08-31T11:07:55.692230+00:00",
  "partidos_vivo": [
   {
    "home": "Myanmar U20",
@@ -24,6 +24,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -88,12 +94,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
    "hora": "04:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "04:09",
    "tipo": "live"
   }
  ],
@@ -739,6 +739,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: G2 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: G2 ganara",
+   "usdc": 85989,
+   "prob": 55.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "13:07"
+  },
+  {
    "titulo": "Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A",
    "apuesta": "SI, Counter-Strike: Spirit ganara",
    "usdc": 97558,
@@ -800,15 +809,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "00:53"
-  },
-  {
-   "titulo": "Will Santos FC win on 2026-08-30?",
-   "apuesta": "SI, Santos ganara",
-   "usdc": 26019,
-   "prob": 68.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:45"
   }
  ],
  "stats_gt": {
