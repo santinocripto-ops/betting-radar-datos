@@ -1,73 +1,93 @@
 {
- "actualizado": "2026-08-31T19:06:15.572879+00:00",
+ "actualizado": "2026-08-31T19:26:40.691033+00:00",
  "partidos_vivo": [
   {
-   "home": "Maccabi Tel Aviv",
-   "away": "Maccabi Haifa",
-   "liga": "Ligat Ha'al",
-   "minuto": 55,
-   "marcador": "2-0",
+   "home": "Jong AZ",
+   "away": "Jong Utrecht",
+   "liga": "Eerste Divisie",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 61,
+   "momentum_away": 39,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.18 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 27 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Brighton U21",
+   "away": "Arsenal U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 58,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Maccabi Haifa pierde por 2 — atacará sin freno",
-    "🎯 25 remates totales — partido muy intenso"
+    "⚽ Liga muy goleadora: 4.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Rapid",
-   "away": "Universitatea Craiova",
-   "liga": "Liga I",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Newcastle United U21",
+   "away": "Fulham U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 64,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Rapid buscará el empate",
-    "🎯 17 remates totales",
-    "🎯 6 remates a puerta"
+    "⚽ Liga muy goleadora: 4.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Osasuna",
-   "away": "Getafe",
-   "liga": "La Liga",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Al Qadsia",
+   "away": "Al Kuwait",
+   "liga": "Premier League",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚽ 1 gol — Getafe buscará el empate"
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "KI Klaksvik",
-   "away": "EB / Streymur",
-   "liga": "Meistaradeildin",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Arda Kardzhali",
+   "away": "Botev Vratsa",
+   "liga": "First League",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -76,15 +96,67 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — EB / Streymur buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "FC WIL 1900",
+   "away": "FC Aarau",
+   "liga": "Challenge League",
+   "minuto": 54,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.84 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Kagera Sugar",
+   "away": "Azam",
+   "liga": "Ligi kuu Bara",
+   "minuto": 63,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:26",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:26",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -144,18 +216,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:09",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -206,6 +266,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "SC Braga",
+   "away": "Vitória SC",
+   "liga": "Primeira Liga",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
+   "home": "Breidablik",
+   "away": "Stjarnan",
+   "liga": "Úrvalsdeild",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
    "home": "Al Qadsia",
    "away": "Al Kuwait",
    "liga": "Premier League",
@@ -244,28 +326,6 @@
    "liga": "Allsvenskan",
    "minuto": 21,
    "score": 8.7,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-31",
-   "es_hoy": true
-  },
-  {
-   "home": "Omonia Nicosia",
-   "away": "Omonia Aradippou",
-   "liga": "1. Division",
-   "minuto": 11,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-31",
-   "es_hoy": true
-  },
-  {
-   "home": "Burgos",
-   "away": "Real Sociedad II",
-   "liga": "Segunda División",
-   "minuto": 13,
-   "score": 9.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-31",
@@ -595,6 +655,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Los Andes",
+    "away": "Acassuso",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 12,
+    "cuota": 2.07,
+    "pinnacle": true,
+    "delta": 4.29,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-31T22:00:00+00:00",
+    "ts": "2026-08-31T19:06:15.808880+00:00"
+   },
+   {
     "home": "Benfica",
     "away": "Estoril",
     "liga": "Primeira Liga",
@@ -803,27 +878,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T14:00:00+00:00",
     "ts": "2026-08-29T13:06:01.492999+00:00"
-   },
-   {
-    "home": "Milton Keynes Dons",
-    "away": "Leicester",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.53,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T11:30:00+00:00",
-    "ts": "2026-08-29T08:07:34.564527+00:00"
    }
   ],
   "balance": {
    "ganados": 179,
    "perdidos": 80,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 69.1,
    "total": 259
   }
@@ -897,7 +957,7 @@
   "n": 2386,
   "ganados": 1642,
   "win_rate": 69,
-  "hoy": 29
+  "hoy": 31
  },
  "stats_dia": {
   "ganados": 38,
