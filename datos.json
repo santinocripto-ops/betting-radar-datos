@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T18:13:12.505550+00:00",
+ "actualizado": "2026-08-31T18:21:36.539164+00:00",
  "partidos_vivo": [
   {
    "home": "Gais",
@@ -399,7 +399,7 @@
   "balance_dia": 795.0,
   "ganados": 2412,
   "perdidos": 1024,
-  "pendientes": 13,
+  "pendientes": 15,
   "ganados_dia": 31,
   "perdidos_dia": 10,
   "win_rate": 70.2,
@@ -407,7 +407,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3449,
+  "con_cuota_media": 3451,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -732,8 +732,8 @@
     "cuota": 1.57,
     "pinnacle": false,
     "delta": 4.53,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-31T14:30:00+00:00",
     "ts": "2026-08-30T21:10:33.360377+00:00"
    },
@@ -747,8 +747,8 @@
     "cuota": 1.53,
     "pinnacle": true,
     "delta": 4.48,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-31T14:30:00+00:00",
     "ts": "2026-08-31T13:10:20.236027+00:00"
    },
@@ -934,11 +934,11 @@
    }
   ],
   "balance": {
-   "ganados": 177,
+   "ganados": 179,
    "perdidos": 80,
-   "pendientes": 3,
-   "acierto": 68.9,
-   "total": 257
+   "pendientes": 1,
+   "acierto": 69.1,
+   "total": 259
   }
  },
  "mejor_dia": {
@@ -1015,7 +1015,7 @@
  "stats_dia": {
   "ganados": 32,
   "perdidos": 10,
-  "en_juego": 13,
+  "en_juego": 15,
   "win_rate": 76
  },
  "stats_banker": {
