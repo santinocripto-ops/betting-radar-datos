@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T13:47:08.327260+00:00",
+ "actualizado": "2026-08-31T13:56:08.784466+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -208,7 +208,7 @@
   "balance_dia": 571.0,
   "ganados": 2392,
   "perdidos": 1015,
-  "pendientes": 7,
+  "pendientes": 10,
   "ganados_dia": 11,
   "perdidos_dia": 1,
   "win_rate": 70.2,
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 1,
-  "en_juego": 8,
+  "en_juego": 11,
   "win_rate": 92
  },
  "stats_banker": {
