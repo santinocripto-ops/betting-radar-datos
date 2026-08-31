@@ -1,9 +1,33 @@
 {
- "actualizado": "2026-08-31T15:01:45.823457+00:00",
+ "actualizado": "2026-08-31T15:10:19.450325+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:10",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -50,30 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "16:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "16:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "──────────────────────────────",
-   "hora": "16:06",
    "tipo": "live"
   }
  ],
@@ -208,7 +208,7 @@
   "balance_dia": 638.0,
   "ganados": 2395,
   "perdidos": 1016,
-  "pendientes": 17,
+  "pendientes": 21,
   "ganados_dia": 14,
   "perdidos_dia": 2,
   "win_rate": 70.2,
@@ -482,6 +482,34 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Alay",
+   "away": "Asiagoal",
+   "liga": "Premier League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Southport",
+   "away": "Hereford",
+   "liga": "National League - North",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Chester",
+   "away": "Morecambe",
+   "liga": "National League - North",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Forest Green",
+   "away": "Altrincham",
+   "liga": "National League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Viking FK W",
    "away": "TIL 2020 W",
@@ -825,7 +853,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 2,
-  "en_juego": 18,
+  "en_juego": 22,
   "win_rate": 88
  },
  "stats_banker": {
