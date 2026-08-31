@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T16:45:58.496038+00:00",
+ "actualizado": "2026-08-31T16:46:06.700039+00:00",
  "partidos_vivo": [
   {
    "home": "Simba",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -120,6 +126,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "HNK Hajduk Split",
+   "away": "NK Lokomotiva Zagreb",
+   "liga": "HNL",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
    "home": "Colwyn Bay",
    "away": "Llandudno",
    "liga": "Premier League",
@@ -169,17 +186,6 @@
    "liga": "Non League Premier - Southern South",
    "minuto": 15,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-31",
-   "es_hoy": true
-  },
-  {
-   "home": "Basingstoke Town",
-   "away": "Bracknell Town",
-   "liga": "Non League Premier - Southern South",
-   "minuto": 14,
-   "score": 8.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-31",
@@ -784,7 +790,7 @@
   "n": 2362,
   "ganados": 1627,
   "win_rate": 69,
-  "hoy": 18
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 14,
