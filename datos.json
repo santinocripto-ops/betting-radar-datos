@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-08-31T22:37:37.805584+00:00",
+ "actualizado": "2026-08-31T22:46:35.409259+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "00:46",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:55",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:34",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +124,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "UCV",
+   "away": "Rayo Zuliano",
+   "liga": "Primera División",
+   "minuto": 17,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": false
+  },
   {
    "home": "Union La Calera",
    "away": "D. La Serena",
@@ -176,17 +187,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "Jong PSV U21",
-   "away": "Jong Ajax",
-   "liga": "Eerste Divisie",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": false
   }
