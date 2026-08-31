@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T12:58:34.175640+00:00",
+ "actualizado": "2026-08-31T13:07:36.913608+00:00",
  "partidos_vivo": [
   {
    "home": "Syria U20",
@@ -24,6 +24,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "13:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "13:08",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -695,6 +695,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
+   "apuesta": "NO — Will United Russia (ER) gain the most seats in the next Russ",
+   "usdc": 138593,
+   "prob": 31.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "15:07"
+  },
+  {
    "titulo": "Como: Francesco Forti vs Benjamin Hassan",
    "apuesta": "SI, Como: Francesco Forti ganara",
    "usdc": 36672,
@@ -756,15 +765,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "04:08"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 84825,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "01:56"
   }
  ],
  "stats_gt": {
