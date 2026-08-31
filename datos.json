@@ -1,65 +1,7 @@
 {
- "actualizado": "2026-08-31T14:52:58.876611+00:00",
- "partidos_vivo": [
-  {
-   "home": "Aberystwyth Town",
-   "away": "llanelli AFC",
-   "liga": "FAW Championship",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — llanelli AFC buscará el empate"
-   ]
-  },
-  {
-   "home": "Ammanford AFC",
-   "away": "Cardiff MET",
-   "liga": "Premier League",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Haverfordwest County AFC",
-   "away": "Trefelin",
-   "liga": "Premier League",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-08-31T15:01:45.823457+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
