@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T21:04:07.443168+00:00",
+ "actualizado": "2026-08-31T21:12:08.161496+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -514,27 +514,6 @@
    "home": "Al Qadsia",
    "away": "Al Kuwait",
    "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Omonia Nicosia",
-   "away": "Omonia Aradippou",
-   "liga": "1. Division",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "Hammarby Talang",
-   "away": "Karlberg",
-   "liga": "Ettan - Norra",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "Rosenborg II",
-   "away": "Byåsen",
-   "liga": "3. Division - Girone 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
