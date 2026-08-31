@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T17:13:43.979548+00:00",
+ "actualizado": "2026-08-31T17:21:15.387912+00:00",
  "partidos_vivo": [
   {
    "home": "Gnistan",
@@ -228,6 +228,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:20",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "19:13",
    "tipo": "live"
   },
@@ -283,18 +295,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:38",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:30",
    "tipo": "live"
   }
  ],
@@ -356,6 +356,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Gais",
+   "away": "IF Brommapojkarna",
+   "liga": "Allsvenskan",
+   "minuto": 21,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
    "home": "Omonia Nicosia",
    "away": "Omonia Aradippou",
    "liga": "1. Division",
@@ -409,17 +420,6 @@
    "resultado": "pendiente",
    "fecha": "2026-08-31",
    "es_hoy": true
-  },
-  {
-   "home": "Sirius",
-   "away": "Malmo FF",
-   "liga": "Allsvenskan",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-31",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -429,7 +429,7 @@
   "balance_dia": 638.0,
   "ganados": 2395,
   "perdidos": 1016,
-  "pendientes": 27,
+  "pendientes": 33,
   "ganados_dia": 14,
   "perdidos_dia": 2,
   "win_rate": 70.2,
@@ -437,7 +437,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3438,
+  "con_cuota_media": 3444,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -996,6 +996,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Sara Bejlek vs Cristina Bucsa",
+   "apuesta": "SI, US Open WTA: Sara Bejlek ganara",
+   "usdc": 82614,
+   "prob": 73.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:20"
+  },
+  {
    "titulo": "Will CA Osasuna win on 2026-08-31?",
    "apuesta": "SI, CA Osasuna ganara",
    "usdc": 1240425,
@@ -1045,12 +1054,12 @@
   "n": 2362,
   "ganados": 1627,
   "win_rate": 69,
-  "hoy": 25
+  "hoy": 26
  },
  "stats_dia": {
   "ganados": 14,
   "perdidos": 2,
-  "en_juego": 28,
+  "en_juego": 34,
   "win_rate": 88
  },
  "stats_banker": {
