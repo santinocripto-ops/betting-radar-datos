@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T21:51:41.517577+00:00",
+ "actualizado": "2026-08-31T22:01:09.411621+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "00:01",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:00",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:00",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -78,24 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:11",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:47",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "21:40",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -105,12 +105,12 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Benfica",
-   "away": "Estoril",
-   "liga": "Primeira Liga",
-   "cuota": 1.11,
-   "score": 8.41,
-   "hora": "19:15",
+   "home": "FC Zurich",
+   "away": "BSC Young Boys",
+   "liga": "Super League",
+   "cuota": 1.09,
+   "score": 8.67,
+   "hora": "18:30",
    "resultado": "pendiente",
    "wr_historico": 74,
    "n_historico": 114
@@ -119,13 +119,13 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Cienciano",
-   "away": "Cusco",
-   "liga": "Primera División",
-   "cuota": 7.0,
+   "home": "Dalian Zhixing",
+   "away": "Shanghai Shenhua",
+   "liga": "FA Cup",
+   "cuota": 5.4,
    "score": 10,
-   "hora": "00:00",
-   "resultado": "ganado",
+   "hora": "11:35",
+   "resultado": "pendiente",
    "wr_historico": 62,
    "n_historico": 1086
   },
@@ -133,13 +133,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Cienciano",
-   "away": "Cusco",
-   "liga": "Primera División",
-   "cuota": 1.65,
+   "home": "Dalian Zhixing",
+   "away": "Shanghai Shenhua",
+   "liga": "FA Cup",
+   "cuota": 1.5,
    "score": 10,
-   "hora": "00:00",
-   "resultado": "ganado",
+   "hora": "11:35",
+   "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 1069
   }
@@ -154,7 +154,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "SC Braga",
@@ -165,7 +165,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Breidablik",
@@ -176,7 +176,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Al Qadsia",
@@ -187,7 +187,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Jong PSV U21",
@@ -198,7 +198,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Maccabi Tel Aviv",
@@ -209,19 +209,19 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-08-31",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 50265.0,
   "balance_total": 40265.0,
-  "balance_dia": 712.0,
+  "balance_dia": 0.0,
   "ganados": 2421,
   "perdidos": 1030,
   "pendientes": 6,
-  "ganados_dia": 40,
-  "perdidos_dia": 16,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 70.2,
   "roi": 11.7,
   "stake": 100.0,
@@ -233,256 +233,256 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Cienciano",
-    "away": "Cusco",
-    "liga": "Primera División",
-    "hora": "02:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Toluca",
-    "away": "FC Juarez",
-    "liga": "Liga MX",
-    "hora": "02:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Real Monarchs",
-    "away": "Tacoma Defiance",
-    "liga": "MLS Next Pro",
-    "hora": "03:30",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Monterrey",
-    "away": "Atletico San Luis",
-    "liga": "Liga MX",
-    "hora": "04:10",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Cruzeiro W",
-    "away": "Corinthians W",
-    "liga": "Brasileiro Women",
-    "hora": "00:15",
+    "home": "Dalian Zhixing",
+    "away": "Shanghai Shenhua",
+    "liga": "FA Cup",
+    "hora": "13:35",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "The Town",
-    "away": "Los Angeles FC II",
+    "home": "Inter Miami II",
+    "away": "New York City II",
     "liga": "MLS Next Pro",
-    "hora": "04:30",
-    "resultado": "ganado",
+    "hora": "01:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Xelajú",
-    "away": "Mixco",
-    "liga": "Liga Nacional",
-    "hora": "03:00",
-    "resultado": "ganado",
+    "home": "Shandong Luneng",
+    "away": "SHANGHAI SIPG",
+    "liga": "FA Cup",
+    "hora": "13:35",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "AFC Bournemouth U21",
-    "away": "Middlesbrough U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Defence Force",
+    "away": "Club Sando",
+    "liga": "CONCACAF Caribbean Club Championship",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Supra du Quebec",
+    "away": "Forge",
+    "liga": "Canadian Championship",
+    "hora": "00:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Santos Laguna W",
+    "away": "Atlante W",
+    "liga": "Liga MX Femenil",
+    "hora": "03:06",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Metalist 1925 W",
+    "away": "Mitrovica W",
+    "liga": "UEFA Europa Cup - Women",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "BKMA II",
+    "away": "Bentonit Ijevan",
+    "liga": "First League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Derby County U21",
-    "away": "West Bromwich Albion U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Bristol City U21",
+    "away": "Sheffield United U21",
+    "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Manchester United U21",
-    "away": "Leicester City U21",
-    "liga": "Premier League 2 Division One",
-    "hora": "15:00",
-    "resultado": "ganado",
+    "home": "Charlton Athletic U21",
+    "away": "Wigan Athletic U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Airbus UK",
-    "away": "Holywell",
-    "liga": "Premier League",
-    "hora": "15:30",
-    "resultado": "ganado",
+    "home": "Fleetwood Town U21",
+    "away": "Millwall U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Caersws",
-    "away": "Buckley Town",
-    "liga": "FAW Championship",
-    "hora": "15:30",
-    "resultado": "perdido",
+    "home": "Huddersfield Town U21",
+    "away": "Queens Park Rangers U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Denbigh Town",
-    "away": "Rhyl",
-    "liga": "FAW Championship",
-    "hora": "15:30",
-    "resultado": "ganado",
+    "home": "Hull City U21",
+    "away": "Swansea City U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Guilsfield",
-    "away": "Penrhyncoch",
-    "liga": "FAW Championship",
-    "hora": "15:30",
-    "resultado": "perdido",
+    "home": "Korona Kielce II",
+    "away": "Radomiak Radom",
+    "liga": "Cup",
+    "hora": "14:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
   "over25": [
    {
-    "home": "Cienciano",
-    "away": "Cusco",
-    "liga": "Primera División",
-    "hora": "02:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Toluca",
-    "away": "FC Juarez",
-    "liga": "Liga MX",
-    "hora": "02:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Real Monarchs",
-    "away": "Tacoma Defiance",
-    "liga": "MLS Next Pro",
-    "hora": "03:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Monterrey",
-    "away": "Atletico San Luis",
-    "liga": "Liga MX",
-    "hora": "04:10",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Cruzeiro W",
-    "away": "Corinthians W",
-    "liga": "Brasileiro Women",
-    "hora": "00:15",
+    "home": "Dalian Zhixing",
+    "away": "Shanghai Shenhua",
+    "liga": "FA Cup",
+    "hora": "13:35",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Xelajú",
-    "away": "Mixco",
-    "liga": "Liga Nacional",
-    "hora": "03:00",
-    "resultado": "ganado",
+    "home": "Defence Force",
+    "away": "Club Sando",
+    "liga": "CONCACAF Caribbean Club Championship",
+    "hora": "01:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "The Town",
-    "away": "Los Angeles FC II",
+    "home": "Inter Miami II",
+    "away": "New York City II",
     "liga": "MLS Next Pro",
-    "hora": "04:30",
-    "resultado": "ganado",
+    "hora": "01:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Bolton Wanderers Res.",
-    "away": "Coventry City U21",
+    "home": "Damansara",
+    "away": "Johor Darul Takzim FC",
+    "liga": "FA Cup",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Vizela U23",
+    "away": "Santa Clara U23",
+    "liga": "Liga Revelação U23",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "BSS Sporting",
+    "away": "Mohun Bagan",
+    "liga": "Calcutta Premier Division",
+    "hora": "11:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Shandong Luneng",
+    "away": "SHANGHAI SIPG",
+    "liga": "FA Cup",
+    "hora": "13:35",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "BKMA II",
+    "away": "Bentonit Ijevan",
+    "liga": "First League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Bristol City U21",
+    "away": "Sheffield United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "AFC Bournemouth U21",
-    "away": "Middlesbrough U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Charlton Athletic U21",
+    "away": "Wigan Athletic U21",
+    "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Chelsea U21",
-    "away": "West Ham United U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Fleetwood Town U21",
+    "away": "Millwall U21",
+    "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Derby County U21",
-    "away": "West Bromwich Albion U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Hull City U21",
+    "away": "Swansea City U21",
+    "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Manchester United U21",
-    "away": "Leicester City U21",
-    "liga": "Premier League 2 Division One",
+    "home": "Korona Kielce II",
+    "away": "Radomiak Radom",
+    "liga": "Cup",
+    "hora": "14:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Progresul Spartac",
+    "away": "Concordia",
+    "liga": "Cupa României",
     "hora": "15:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Airbus UK",
-    "away": "Holywell",
-    "liga": "Premier League",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Bala Town",
-    "away": "Newtown AFC",
-    "liga": "FAW Championship",
-    "hora": "15:30",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    }
@@ -495,29 +495,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "HNK Gorica",
-   "away": "HNK Rijeka",
-   "liga": "HNL",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "SC Braga",
-   "away": "Vitória SC",
-   "liga": "Primeira Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Al Qadsia",
-   "away": "Al Kuwait",
-   "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -755,15 +733,27 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "00:15",
-  "cuota": 1.62,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Roman Andres Burruchaga vs Karen Khachanov",
+   "apuesta": "SI, US Open ATP: Roman Andres Burruchaga ganara",
+   "usdc": 53358,
+   "prob": 13.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "00:00"
+  },
+  {
+   "titulo": "US Open ATP: Dalibor Svrcina vs Valentin Royer",
+   "apuesta": "SI, US Open ATP: Dalibor Svrcina ganara",
+   "usdc": 95750,
+   "prob": 51.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "00:00"
+  },
   {
    "titulo": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
    "apuesta": "SI, US Open ATP: Grigor Dimitrov ganara",
@@ -817,37 +807,19 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "19:20"
-  },
-  {
-   "titulo": "Will CA Osasuna win on 2026-08-31?",
-   "apuesta": "SI, CA Osasuna ganara",
-   "usdc": 1240425,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "19:09"
-  },
-  {
-   "titulo": "US Open ATP: Otto Virtanen vs Andrey Rublev",
-   "apuesta": "SI, US Open ATP: Otto Virtanen ganara",
-   "usdc": 90910,
-   "prob": 58.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "19:01"
   }
  ],
  "stats_gt": {
   "n": 2389,
   "ganados": 1644,
   "win_rate": 69,
-  "hoy": 32
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 41,
-  "perdidos": 16,
-  "en_juego": 6,
-  "win_rate": 72
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 69,
