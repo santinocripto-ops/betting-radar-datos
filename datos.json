@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T17:44:41.757102+00:00",
+ "actualizado": "2026-08-31T17:52:03.720293+00:00",
  "partidos_vivo": [
   {
    "home": "HNK Hajduk Split",
@@ -289,7 +289,7 @@
   "balance_dia": 638.0,
   "ganados": 2395,
   "perdidos": 1016,
-  "pendientes": 34,
+  "pendientes": 35,
   "ganados_dia": 14,
   "perdidos_dia": 2,
   "win_rate": 70.2,
@@ -297,7 +297,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3445,
+  "con_cuota_media": 3446,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -919,7 +919,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 2,
-  "en_juego": 35,
+  "en_juego": 36,
   "win_rate": 88
  },
  "stats_banker": {
