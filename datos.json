@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T17:01:44.749173+00:00",
+ "actualizado": "2026-08-31T17:09:20.137288+00:00",
  "partidos_vivo": [
   {
    "home": "Simba",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "19:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -764,6 +776,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will CA Osasuna win on 2026-08-31?",
+   "apuesta": "SI, CA Osasuna ganara",
+   "usdc": 1240425,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "19:09"
+  },
   {
    "titulo": "US Open ATP: Otto Virtanen vs Andrey Rublev",
    "apuesta": "SI, US Open ATP: Otto Virtanen ganara",
