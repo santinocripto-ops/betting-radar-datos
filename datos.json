@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T22:10:08.552188+00:00",
+ "actualizado": "2026-08-31T22:19:24.853654+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:19",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:26",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:11",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -152,7 +152,7 @@
    "minuto": 12,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-31",
    "es_hoy": false
   },
@@ -163,7 +163,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-31",
    "es_hoy": false
   },
@@ -174,7 +174,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": false
   },
@@ -214,16 +214,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50265.0,
-  "balance_total": 40265.0,
+  "capital": 50071.0,
+  "balance_total": 40071.0,
   "balance_dia": 0.0,
-  "ganados": 2421,
-  "perdidos": 1030,
-  "pendientes": 6,
+  "ganados": 2423,
+  "perdidos": 1033,
+  "pendientes": 1,
   "ganados_dia": 0,
   "perdidos_dia": 0,
-  "win_rate": 70.2,
-  "roi": 11.7,
+  "win_rate": 70.1,
+  "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -737,6 +737,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Quentin Halys vs Facundo Acosta",
+   "apuesta": "SI, US Open ATP: Quentin Halys ganara",
+   "usdc": 124058,
+   "prob": 84.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "00:19"
+  },
+  {
    "titulo": "US Open ATP: Roman Andres Burruchaga vs Karen Khachanov",
    "apuesta": "SI, US Open ATP: Roman Andres Burruchaga ganara",
    "usdc": 53358,
@@ -798,20 +807,11 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "21:47"
-  },
-  {
-   "titulo": "US Open WTA: Sara Bejlek vs Cristina Bucsa",
-   "apuesta": "SI, US Open WTA: Sara Bejlek ganara",
-   "usdc": 82614,
-   "prob": 73.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "19:20"
   }
  ],
  "stats_gt": {
-  "n": 2389,
-  "ganados": 1644,
+  "n": 2392,
+  "ganados": 1645,
   "win_rate": 69,
   "hoy": 0
  },
