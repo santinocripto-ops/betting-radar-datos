@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T12:49:02.884352+00:00",
+ "actualizado": "2026-08-31T12:58:34.175640+00:00",
  "partidos_vivo": [
   {
    "home": "Syria U20",
@@ -24,6 +24,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "texto": "──────────────────────────────",
    "hora": "13:08",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -695,6 +695,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Como: Francesco Forti vs Benjamin Hassan",
+   "apuesta": "SI, Como: Francesco Forti ganara",
+   "usdc": 36672,
+   "prob": 99.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:58"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 80490,
@@ -756,15 +765,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "01:56"
-  },
-  {
-   "titulo": "US Open ATP: Mariano Navone vs Novak Djokovic",
-   "apuesta": "SI, US Open ATP: Mariano Navone ganara",
-   "usdc": 81474,
-   "prob": 11.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "01:55"
   }
  ],
  "stats_gt": {
