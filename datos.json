@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T13:10:41.287476+00:00",
+ "actualizado": "2026-08-31T13:19:49.558669+00:00",
  "partidos_vivo": [
   {
    "home": "Brentford U21",
@@ -82,6 +82,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "15:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:19",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ FC Bacau vs Slatina · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.36 (11 ca",
    "hora": "15:10",
@@ -134,24 +152,6 @@
    "texto": "──────────────────────────────",
    "hora": "15:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:21",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -212,6 +212,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Viking FK W",
+   "away": "TIL 2020 W",
+   "liga": "1. Division Women",
+   "minuto": 17,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
    "home": "Manchester United U21",
    "away": "Leicester City U21",
    "liga": "Premier League 2 Division One",
@@ -252,7 +263,7 @@
   "balance_dia": 571.0,
   "ganados": 2392,
   "perdidos": 1015,
-  "pendientes": 4,
+  "pendientes": 6,
   "ganados_dia": 11,
   "perdidos_dia": 1,
   "win_rate": 70.2,
@@ -525,9 +536,32 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Sardarapat",
+   "away": "Syunik",
+   "liga": "Premier League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Benfica",
+    "away": "Estoril",
+    "liga": "Primeira Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.1,
+    "pinnacle": true,
+    "delta": 4.38,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-31T19:15:00+00:00",
+    "ts": "2026-08-31T13:10:30.066883+00:00"
+   },
    {
     "home": "FC Bacau",
     "away": "Slatina",
@@ -542,6 +576,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-08-31T14:30:00+00:00",
     "ts": "2026-08-30T21:10:33.360377+00:00"
+   },
+   {
+    "home": "FC Bacau",
+    "away": "Slatina",
+    "liga": "Liga II",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 11,
+    "cuota": 1.53,
+    "pinnacle": true,
+    "delta": 4.48,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-08-31T14:30:00+00:00",
+    "ts": "2026-08-31T13:10:20.236027+00:00"
    },
    {
     "home": "FC Nordsjaelland",
@@ -722,42 +771,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T11:30:00+00:00",
     "ts": "2026-08-29T08:07:34.564527+00:00"
-   },
-   {
-    "home": "1. FC Heidenheim",
-    "away": "Dynamo Dresden",
-    "liga": "2. Bundesliga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": null,
-    "pinnacle": true,
-    "delta": 3.4,
-    "marcador": "5-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T11:00:00+00:00",
-    "ts": "2026-08-29T09:05:42.090419+00:00"
-   },
-   {
-    "home": "UCSA",
-    "away": "Inhulets",
-    "liga": "Persha Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": null,
-    "pinnacle": false,
-    "delta": 3.92,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T09:00:00+00:00",
-    "ts": "2026-08-28T21:06:44.505599+00:00"
    }
   ],
   "balance": {
    "ganados": 177,
    "perdidos": 80,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 68.9,
    "total": 257
   }
@@ -772,6 +791,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Plovdiv 3: Gabriele Piraino vs Dusan Obradovic",
+   "apuesta": "SI, Plovdiv 3: Gabriele Piraino ganara",
+   "usdc": 16197,
+   "prob": 77.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "15:19"
+  },
   {
    "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
    "apuesta": "NO — Will United Russia (ER) gain the most seats in the next Russ",
@@ -834,27 +862,18 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "04:50"
-  },
-  {
-   "titulo": "US Open ATP: Alexander Bublik vs J.J. Wolf",
-   "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
-   "usdc": 73416,
-   "prob": 85.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "04:08"
   }
  ],
  "stats_gt": {
   "n": 2360,
   "ganados": 1626,
   "win_rate": 69,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 11,
   "perdidos": 1,
-  "en_juego": 4,
+  "en_juego": 7,
   "win_rate": 92
  },
  "stats_banker": {
