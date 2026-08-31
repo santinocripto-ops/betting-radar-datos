@@ -1,46 +1,7 @@
 {
- "actualizado": "2026-08-31T01:29:03.671786+00:00",
- "partidos_vivo": [
-  {
-   "home": "Coquimbo Unido",
-   "away": "Huachipato",
-   "liga": "Primera División",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Cienciano",
-   "away": "Cusco",
-   "liga": "Primera División",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  }
- ],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-08-31T01:39:16.712917+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
