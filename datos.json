@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T19:55:40.238663+00:00",
+ "actualizado": "2026-08-31T20:03:36.255740+00:00",
  "partidos_vivo": [
   {
    "home": "Atalanta",
@@ -152,8 +152,8 @@
    "score": 8.41,
    "hora": "19:15",
    "resultado": "pendiente",
-   "wr_historico": 73,
-   "n_historico": 113
+   "wr_historico": 74,
+   "n_historico": 114
   },
   {
    "clave": "over25",
@@ -181,7 +181,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1068
+   "n_historico": 1069
   }
  ],
  "gol_temprano": [
@@ -225,7 +225,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-31",
    "es_hoy": true
   },
@@ -236,7 +236,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": true
   },
@@ -247,22 +247,22 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50198.0,
-  "balance_total": 40198.0,
-  "balance_dia": 645.0,
-  "ganados": 2418,
-  "perdidos": 1029,
-  "pendientes": 8,
-  "ganados_dia": 37,
-  "perdidos_dia": 15,
-  "win_rate": 70.1,
+  "capital": 50265.0,
+  "balance_total": 40265.0,
+  "balance_dia": 712.0,
+  "ganados": 2421,
+  "perdidos": 1030,
+  "pendientes": 4,
+  "ganados_dia": 40,
+  "perdidos_dia": 16,
+  "win_rate": 70.2,
   "roi": 11.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -529,9 +529,9 @@
   ],
   "balance": {
    "ganados": 1290,
-   "perdidos": 864,
+   "perdidos": 865,
    "acierto": 59.9,
-   "yield": 13.8,
+   "yield": 13.7,
    "cuota_media": 1.9
   }
  },
@@ -541,7 +541,7 @@
    "away": "Al Kuwait",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Omonia Nicosia",
@@ -892,15 +892,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2386,
-  "ganados": 1642,
+  "n": 2389,
+  "ganados": 1644,
   "win_rate": 69,
   "hoy": 32
  },
  "stats_dia": {
-  "ganados": 38,
-  "perdidos": 15,
-  "en_juego": 8,
+  "ganados": 41,
+  "perdidos": 16,
+  "en_juego": 4,
   "win_rate": 72
  },
  "stats_banker": {
