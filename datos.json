@@ -1,29 +1,35 @@
 {
- "actualizado": "2026-08-31T02:30:02.109896+00:00",
+ "actualizado": "2026-08-31T02:40:15.484024+00:00",
  "partidos_vivo": [
   {
-   "home": "UNAN Managua",
-   "away": "Managua",
-   "liga": "Primera Division",
-   "minuto": 52,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 7.0,
+   "home": "Real Monarchs",
+   "away": "Tacoma Defiance",
+   "liga": "MLS Next Pro",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 8.2,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — UNAN Managua buscará el empate"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "04:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:07",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:56",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -218,7 +218,7 @@
   "balance_dia": 183.0,
   "ganados": 2384,
   "perdidos": 1014,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 70.2,
@@ -814,7 +814,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
