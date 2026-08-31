@@ -1,29 +1,73 @@
 {
- "actualizado": "2026-08-31T00:28:08.395278+00:00",
+ "actualizado": "2026-08-31T00:38:44.815664+00:00",
  "partidos_vivo": [
   {
-   "home": "Vancouver Whitecaps II",
-   "away": "Sporting KC II",
-   "liga": "MLS Next Pro",
+   "home": "St. Louis City",
+   "away": "FC Dallas",
+   "liga": "Major League Soccer",
+   "minuto": 65,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 9.6,
+   "recomendar": true,
+   "momentum_home": 83,
+   "momentum_away": 17,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ FC Dallas pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Millonarios",
+   "away": "Internacional de Bogota",
+   "liga": "Primera A",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 100,
+   "momentum_away": 0,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.1 goles/partido",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "⏱ 25 minutos por jugar — margen justo"
+   ]
+  },
+  {
+   "home": "Blooming",
+   "away": "Oriente Petrolero",
+   "liga": "Copa de la División Profesional",
    "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "score": 8.2,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.77 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Blooming buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "02:38",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -89,12 +133,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:35",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:14",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -218,7 +256,7 @@
   "balance_dia": 0.0,
   "ganados": 2380,
   "perdidos": 1014,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -814,7 +852,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
