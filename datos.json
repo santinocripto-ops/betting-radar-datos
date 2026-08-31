@@ -1,22 +1,22 @@
 {
- "actualizado": "2026-08-31T03:42:35.096836+00:00",
+ "actualizado": "2026-08-31T03:52:55.432845+00:00",
  "partidos_vivo": [
   {
-   "home": "Monterrey",
-   "away": "Atletico San Luis",
-   "liga": "Liga MX",
-   "minuto": 49,
-   "marcador": "0-2",
+   "home": "The Town",
+   "away": "Los Angeles FC II",
+   "liga": "MLS Next Pro",
+   "minuto": 58,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
-   "score": 7.8,
+   "score": 8.2,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
@@ -24,6 +24,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "05:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -77,12 +83,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:38",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:07",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -218,7 +218,7 @@
   "balance_dia": 244.0,
   "ganados": 2385,
   "perdidos": 1014,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 70.2,
@@ -814,7 +814,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 100
  },
  "stats_banker": {
