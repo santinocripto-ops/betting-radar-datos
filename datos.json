@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T12:21:35.837852+00:00",
+ "actualizado": "2026-08-31T12:30:32.989338+00:00",
  "partidos_vivo": [
   {
    "home": "Syria U20",
@@ -174,7 +174,7 @@
   "balance_dia": 510.0,
   "ganados": 2391,
   "perdidos": 1015,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 10,
   "perdidos_dia": 1,
   "win_rate": 70.2,
@@ -776,7 +776,7 @@
  "stats_dia": {
   "ganados": 10,
   "perdidos": 1,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 91
  },
  "stats_banker": {
