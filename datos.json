@@ -1,67 +1,60 @@
 {
- "actualizado": "2026-08-31T00:58:02.844218+00:00",
+ "actualizado": "2026-08-31T01:08:50.913380+00:00",
  "partidos_vivo": [
   {
-   "home": "St. Louis City",
-   "away": "FC Dallas",
-   "liga": "Major League Soccer",
-   "minuto": 65,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "score": 9.6,
-   "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ FC Dallas pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Millonarios",
-   "away": "Internacional de Bogota",
-   "liga": "Primera A",
-   "minuto": 65,
+   "home": "Coquimbo Unido",
+   "away": "Huachipato",
+   "liga": "Primera División",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 100,
-   "momentum_away": 0,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.1 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "⏱ 25 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "Blooming",
-   "away": "Oriente Petrolero",
-   "liga": "Copa de la División Profesional",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "score": 8.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.29 goles/partido",
+    "⚽ Liga goleadora: 2.9 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Blooming buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Cienciano",
+   "away": "Cusco",
+   "liga": "Primera División",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "03:08",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -121,18 +114,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:45",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "01:35",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -149,8 +130,8 @@
    "score": 8.41,
    "hora": "19:15",
    "resultado": "pendiente",
-   "wr_historico": 73,
-   "n_historico": 104
+   "wr_historico": 72,
+   "n_historico": 105
   },
   {
    "clave": "over25",
@@ -251,16 +232,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49492.0,
-  "balance_total": 39492.0,
-  "balance_dia": 0.0,
-  "ganados": 2380,
+  "capital": 49614.0,
+  "balance_total": 39614.0,
+  "balance_dia": 61.0,
+  "ganados": 2382,
   "perdidos": 1014,
-  "pendientes": 4,
-  "ganados_dia": 0,
+  "pendientes": 3,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 70.1,
-  "roi": 11.6,
+  "roi": 11.7,
   "stake": 100.0,
   "cuota_fija": 1.61
  },
@@ -850,10 +831,10 @@
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
   "en_juego": 3,
-  "win_rate": 0
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 68,
