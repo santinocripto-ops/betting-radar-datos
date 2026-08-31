@@ -1,9 +1,35 @@
 {
- "actualizado": "2026-08-31T10:01:51.960640+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-08-31T10:12:17.582620+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Japan U20",
+   "away": "Kuwait U20",
+   "liga": "AFC U20 Asian Cup",
+   "minuto": 54,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 7.0 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚽ Pick en Vivo",
+   "texto": "──────────────────────────────",
+   "hora": "12:12",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚽ Pick en Vivo",
    "texto": "──────────────────────────────",
@@ -68,12 +94,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:08",
    "tipo": "smart_money"
   }
  ],
@@ -198,7 +218,7 @@
   "balance_dia": 427.0,
   "ganados": 2388,
   "perdidos": 1014,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 7,
   "perdidos_dia": 0,
   "win_rate": 70.2,
@@ -709,7 +729,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "00:15",
+  "cuota": 1.62,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
@@ -794,7 +820,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
