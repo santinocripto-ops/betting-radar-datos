@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T16:53:50.328221+00:00",
+ "actualizado": "2026-08-31T17:01:44.749173+00:00",
  "partidos_vivo": [
   {
    "home": "Simba",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:01",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -758,6 +764,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+   "apuesta": "SI, US Open ATP: Otto Virtanen ganara",
+   "usdc": 90910,
+   "prob": 58.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:01"
+  },
   {
    "titulo": "Spread: Arsenal FC (-1.5)",
    "apuesta": "SI — Spread: Arsenal FC (-1.5)",
