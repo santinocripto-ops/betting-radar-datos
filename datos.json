@@ -1,9 +1,27 @@
 {
- "actualizado": "2026-08-31T16:21:50.504300+00:00",
+ "actualizado": "2026-08-31T16:30:18.299674+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:30",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:29",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:29",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -75,6 +93,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Colwyn Bay",
+   "away": "Llandudno",
+   "liga": "Premier League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
+  {
    "home": "Bossekop",
    "away": "Strømsgodset II",
    "liga": "3. Division - Girone 5",
@@ -124,17 +153,6 @@
    "liga": "Non League Premier - Southern South",
    "minuto": 14,
    "score": 8.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-08-31",
-   "es_hoy": true
-  },
-  {
-   "home": "Ramsgate",
-   "away": "Whyteleafe",
-   "liga": "Non League Premier - Isthmian",
-   "minuto": 13,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-08-31",
@@ -706,12 +724,31 @@
   "mercado_pista": "Goles",
   "resultado": "pendiente"
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
+   "apuesta": "SI, Como: Juan Pablo Varillas ganara",
+   "usdc": 15877,
+   "prob": 68.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:29"
+  },
+  {
+   "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
+   "apuesta": "SI, Como: Juan Pablo Varillas ganara",
+   "usdc": 31513,
+   "prob": 68.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:29"
+  }
+ ],
  "stats_gt": {
   "n": 2362,
   "ganados": 1627,
   "win_rate": 69,
-  "hoy": 17
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 14,
