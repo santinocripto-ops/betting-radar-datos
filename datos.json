@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T18:57:51.757430+00:00",
+ "actualizado": "2026-08-31T19:06:15.572879+00:00",
  "partidos_vivo": [
   {
    "home": "Maccabi Tel Aviv",
@@ -87,6 +87,18 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:13",
    "tipo": "smart_money"
@@ -137,18 +149,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:09",
    "tipo": "live"
   },
   {
@@ -172,8 +172,8 @@
    "score": 8.41,
    "hora": "19:15",
    "resultado": "pendiente",
-   "wr_historico": 74,
-   "n_historico": 111
+   "wr_historico": 73,
+   "n_historico": 113
   },
   {
    "clave": "over25",
@@ -187,7 +187,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1080
+   "n_historico": 1086
   },
   {
    "clave": "btts",
@@ -245,7 +245,7 @@
    "minuto": 21,
    "score": 8.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": true
   },
@@ -256,7 +256,7 @@
    "minuto": 11,
    "score": 8.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-31",
    "es_hoy": true
   },
@@ -267,27 +267,27 @@
    "minuto": 13,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50348.0,
-  "balance_total": 40348.0,
-  "balance_dia": 795.0,
-  "ganados": 2412,
-  "perdidos": 1024,
-  "pendientes": 15,
-  "ganados_dia": 31,
-  "perdidos_dia": 10,
-  "win_rate": 70.2,
+  "capital": 50198.0,
+  "balance_total": 40198.0,
+  "balance_dia": 645.0,
+  "ganados": 2418,
+  "perdidos": 1029,
+  "pendientes": 5,
+  "ganados_dia": 37,
+  "perdidos_dia": 15,
+  "win_rate": 70.1,
   "roi": 11.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3451,
+  "con_cuota_media": 3452,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -506,7 +506,7 @@
     "away": "West Ham United U21",
     "liga": "Premier League 2 Division One",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -542,14 +542,14 @@
     "away": "Newtown AFC",
     "liga": "FAW Championship",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1287,
-   "perdidos": 861,
+   "ganados": 1290,
+   "perdidos": 864,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -557,25 +557,32 @@
  },
  "reentradas": [
   {
+   "home": "Al Qadsia",
+   "away": "Al Kuwait",
+   "liga": "Premier League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Omonia Nicosia",
    "away": "Omonia Aradippou",
    "liga": "1. Division",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Hammarby Talang",
    "away": "Karlberg",
    "liga": "Ettan - Norra",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Rosenborg II",
    "away": "Byåsen",
    "liga": "3. Division - Girone 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Gnistan",
@@ -887,16 +894,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2378,
-  "ganados": 1637,
+  "n": 2386,
+  "ganados": 1642,
   "win_rate": 69,
   "hoy": 29
  },
  "stats_dia": {
-  "ganados": 32,
-  "perdidos": 10,
-  "en_juego": 15,
-  "win_rate": 76
+  "ganados": 38,
+  "perdidos": 15,
+  "en_juego": 5,
+  "win_rate": 72
  },
  "stats_banker": {
   "ganados": 69,
