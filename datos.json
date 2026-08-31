@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T22:19:24.853654+00:00",
+ "actualizado": "2026-08-31T22:28:21.308451+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:28",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:34",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:26",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Union La Calera",
+   "away": "D. La Serena",
+   "liga": "Primera División",
+   "minuto": 13,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": false
+  },
+  {
    "home": "HNK Gorica",
    "away": "HNK Rijeka",
    "liga": "HNL",
@@ -193,17 +204,6 @@
    "home": "Jong PSV U21",
    "away": "Jong Ajax",
    "liga": "Eerste Divisie",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "Maccabi Tel Aviv",
-   "away": "Maccabi Haifa",
-   "liga": "Ligat Ha'al",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
