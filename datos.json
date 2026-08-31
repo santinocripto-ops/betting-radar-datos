@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T20:48:37.694430+00:00",
+ "actualizado": "2026-08-31T20:55:42.762149+00:00",
  "partidos_vivo": [
   {
    "home": "Benfica",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:55",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:34",
@@ -144,12 +150,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:13",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -846,6 +846,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: FC Barcelona (-2.5)",
+   "apuesta": "SI — Spread: FC Barcelona (-2.5)",
+   "usdc": 233748,
+   "prob": 35.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:55"
+  },
+  {
    "titulo": "US Open ATP: Luciano Darderi vs Harry Wendelken",
    "apuesta": "SI, US Open ATP: Luciano Darderi ganara",
    "usdc": 52368,
@@ -907,15 +916,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "18:37"
-  },
-  {
-   "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
-   "apuesta": "SI, Como: Juan Pablo Varillas ganara",
-   "usdc": 15877,
-   "prob": 68.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:29"
   }
  ],
  "stats_gt": {
