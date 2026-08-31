@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T02:40:15.484024+00:00",
+ "actualizado": "2026-08-31T02:50:34.329949+00:00",
  "partidos_vivo": [
   {
    "home": "Real Monarchs",
@@ -24,6 +24,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:50",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:50",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "──────────────────────────────",
@@ -83,18 +95,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "02:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚽ Pick en Vivo",
-   "texto": "──────────────────────────────",
-   "hora": "02:07",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -733,6 +733,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A",
+   "apuesta": "SI, Counter-Strike: Spirit ganara",
+   "usdc": 97558,
+   "prob": 66.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "04:50"
+  },
+  {
+   "titulo": "Will CF Monterrey win on 2026-08-30?",
+   "apuesta": "NO, CF Monterrey no ganara",
+   "usdc": 17554,
+   "prob": 86.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "04:50"
+  },
+  {
    "titulo": "US Open ATP: Alexander Bublik vs J.J. Wolf",
    "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
    "usdc": 73416,
@@ -785,24 +803,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "22:45"
-  },
-  {
-   "titulo": "US Open ATP: Jaume Munar vs Terence Atmane",
-   "apuesta": "SI, US Open ATP: Jaume Munar ganara",
-   "usdc": 106935,
-   "prob": 39.8,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "22:35"
-  },
-  {
-   "titulo": "US Open ATP: Jaime Faria vs Jenson Brooksby",
-   "apuesta": "SI, US Open ATP: Jaime Faria ganara",
-   "usdc": 62326,
-   "prob": 66.5,
-   "n_traders": 1,
-   "trader": "beachboy4",
-   "hora": "21:53"
   }
  ],
  "stats_gt": {
