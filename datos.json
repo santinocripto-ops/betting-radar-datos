@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T03:00:33.665091+00:00",
+ "actualizado": "2026-08-31T03:10:50.852265+00:00",
  "partidos_vivo": [
   {
    "home": "Real Monarchs",
@@ -213,13 +213,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49736.0,
-  "balance_total": 39736.0,
-  "balance_dia": 183.0,
-  "ganados": 2384,
+  "capital": 49797.0,
+  "balance_total": 39797.0,
+  "balance_dia": 244.0,
+  "ganados": 2385,
   "perdidos": 1014,
-  "pendientes": 3,
-  "ganados_dia": 3,
+  "pendientes": 2,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 70.2,
   "roi": 11.7,
@@ -812,9 +812,9 @@
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 3,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
