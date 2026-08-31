@@ -1,9 +1,36 @@
 {
- "actualizado": "2026-08-31T16:30:18.299674+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-08-31T16:38:24.042224+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Simba",
+   "away": "Geita Gold",
+   "liga": "Ligi kuu Bara",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Geita Gold buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:38",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -166,7 +193,7 @@
   "balance_dia": 638.0,
   "ganados": 2395,
   "perdidos": 1016,
-  "pendientes": 24,
+  "pendientes": 25,
   "ganados_dia": 14,
   "perdidos_dia": 2,
   "win_rate": 70.2,
@@ -174,7 +201,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3435,
+  "con_cuota_media": 3436,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -726,6 +753,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Arsenal FC (-1.5)",
+   "apuesta": "SI — Spread: Arsenal FC (-1.5)",
+   "usdc": 139996,
+   "prob": 37.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "18:37"
+  },
+  {
    "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
    "apuesta": "SI, Como: Juan Pablo Varillas ganara",
    "usdc": 15877,
@@ -753,7 +789,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 2,
-  "en_juego": 25,
+  "en_juego": 26,
   "win_rate": 88
  },
  "stats_banker": {
