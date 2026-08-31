@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T19:33:11.797622+00:00",
+ "actualizado": "2026-08-31T19:40:18.795034+00:00",
  "partidos_vivo": [
   {
    "home": "Jong AZ",
@@ -147,6 +147,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "21:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:26",
    "tipo": "live"
@@ -210,12 +216,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:12",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:12",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -265,6 +265,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "HNK Gorica",
+   "away": "HNK Rijeka",
+   "liga": "HNL",
+   "minuto": 12,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-08-31",
+   "es_hoy": true
+  },
   {
    "home": "SC Braga",
    "away": "Vitória SC",
@@ -317,17 +328,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-08-31",
-   "es_hoy": true
-  },
-  {
-   "home": "Gais",
-   "away": "IF Brommapojkarna",
-   "liga": "Allsvenskan",
-   "minuto": 21,
-   "score": 8.7,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": true
   }
@@ -957,7 +957,7 @@
   "n": 2386,
   "ganados": 1642,
   "win_rate": 69,
-  "hoy": 31
+  "hoy": 32
  },
  "stats_dia": {
   "ganados": 38,
