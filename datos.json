@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-08-31T20:55:42.762149+00:00",
+ "actualizado": "2026-08-31T20:56:02.694231+00:00",
  "partidos_vivo": [
   {
-   "home": "Benfica",
-   "away": "Estoril",
-   "liga": "Primeira Liga",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Barcelona",
+   "away": "Rayo Vallecano",
+   "liga": "La Liga",
+   "minuto": 61,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 90,
-   "momentum_away": 10,
+   "momentum_home": 82,
+   "momentum_away": 18,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚽ 1 gol — Estoril buscará el empate"
-   ]
-  },
-  {
-   "home": "SC Braga",
-   "away": "Vitória SC",
-   "liga": "Primeira Liga",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Breidablik",
-   "away": "Stjarnan",
-   "liga": "Úrvalsdeild",
-   "minuto": 53,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Teruel",
-   "away": "Real Madrid II",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
