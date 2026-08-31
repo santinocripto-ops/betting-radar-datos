@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T20:03:36.255740+00:00",
+ "actualizado": "2026-08-31T20:11:27.522502+00:00",
  "partidos_vivo": [
   {
    "home": "Atalanta",
@@ -68,6 +68,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "22:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "21:54",
    "tipo": "smart_money"
   },
@@ -117,12 +123,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:12",
    "tipo": "smart_money"
   },
   {
@@ -563,13 +563,6 @@
    "liga": "3. Division - Girone 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Gnistan",
-   "away": "Turku PS",
-   "liga": "Veikkausliiga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -819,6 +812,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Luciano Darderi vs Harry Wendelken",
+   "apuesta": "SI, US Open ATP: Luciano Darderi ganara",
+   "usdc": 52368,
+   "prob": 81.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:11"
+  },
+  {
    "titulo": "US Open ATP: Matteo Arnaldi vs James Duckworth",
    "apuesta": "SI, US Open ATP: Matteo Arnaldi ganara",
    "usdc": 59454,
@@ -876,15 +878,6 @@
    "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
    "apuesta": "SI, Como: Juan Pablo Varillas ganara",
    "usdc": 15877,
-   "prob": 68.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:29"
-  },
-  {
-   "titulo": "Como: Juan Pablo Varillas vs Jan Kumstat",
-   "apuesta": "SI, Como: Juan Pablo Varillas ganara",
-   "usdc": 31513,
    "prob": 68.0,
    "n_traders": 3,
    "trader": "RN1",
