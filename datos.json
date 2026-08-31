@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T17:21:15.387912+00:00",
+ "actualizado": "2026-08-31T17:28:39.156586+00:00",
  "partidos_vivo": [
   {
    "home": "Gnistan",
@@ -429,7 +429,7 @@
   "balance_dia": 638.0,
   "ganados": 2395,
   "perdidos": 1016,
-  "pendientes": 33,
+  "pendientes": 34,
   "ganados_dia": 14,
   "perdidos_dia": 2,
   "win_rate": 70.2,
@@ -437,7 +437,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3444,
+  "con_cuota_media": 3445,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1059,7 +1059,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 2,
-  "en_juego": 34,
+  "en_juego": 35,
   "win_rate": 88
  },
  "stats_banker": {
