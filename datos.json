@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-08-31T19:40:18.795034+00:00",
+ "actualizado": "2026-08-31T19:47:23.481636+00:00",
  "partidos_vivo": [
   {
    "home": "Jong AZ",
@@ -146,6 +146,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:47",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "21:40",
@@ -185,12 +191,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:12",
    "tipo": "smart_money"
   },
   {
@@ -339,7 +339,7 @@
   "balance_dia": 645.0,
   "ganados": 2418,
   "perdidos": 1029,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 37,
   "perdidos_dia": 15,
   "win_rate": 70.1,
@@ -347,7 +347,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3454,
+  "con_cuota_media": 3455,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -899,6 +899,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Arsenal FC win on 2026-08-31?",
+   "apuesta": "NO, Arsenal no ganara",
+   "usdc": 27796,
+   "prob": 42.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "21:47"
+  },
+  {
    "titulo": "US Open WTA: Sara Bejlek vs Cristina Bucsa",
    "apuesta": "SI, US Open WTA: Sara Bejlek ganara",
    "usdc": 82614,
@@ -962,7 +971,7 @@
  "stats_dia": {
   "ganados": 38,
   "perdidos": 15,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 72
  },
  "stats_banker": {
