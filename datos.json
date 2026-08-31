@@ -1,9 +1,85 @@
 {
- "actualizado": "2026-08-31T13:56:08.784466+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-08-31T14:06:10.703023+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Viking FK W",
+   "away": "TIL 2020 W",
+   "liga": "1. Division Women",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.81 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Manchester United U21",
+   "away": "Leicester City U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 46,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Tottenham Hotspur U21",
+   "away": "Birmingham City U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 50,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "──────────────────────────────",
+   "hora": "16:06",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:05",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -57,24 +133,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -116,7 +174,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1072
+   "n_historico": 1073
   },
   {
    "clave": "btts",
@@ -130,7 +188,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1053
+   "n_historico": 1054
   }
  ],
  "gol_temprano": [
@@ -196,21 +254,21 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-08-31",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50124.0,
-  "balance_total": 40124.0,
-  "balance_dia": 571.0,
-  "ganados": 2392,
-  "perdidos": 1015,
-  "pendientes": 10,
-  "ganados_dia": 11,
-  "perdidos_dia": 1,
+  "capital": 50191.0,
+  "balance_total": 40191.0,
+  "balance_dia": 638.0,
+  "ganados": 2395,
+  "perdidos": 1016,
+  "pendientes": 8,
+  "ganados_dia": 14,
+  "perdidos_dia": 2,
   "win_rate": 70.2,
   "roi": 11.8,
   "stake": 100.0,
@@ -295,7 +353,7 @@
     "away": "West Bromwich Albion U21",
     "liga": "Premier League 2 Division One",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -441,7 +499,7 @@
     "away": "West Bromwich Albion U21",
     "liga": "Premier League 2 Division One",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -474,7 +532,7 @@
    }
   ],
   "balance": {
-   "ganados": 1268,
+   "ganados": 1270,
    "perdidos": 857,
    "acierto": 59.7,
    "yield": 13.4,
@@ -483,11 +541,18 @@
  },
  "reentradas": [
   {
+   "home": "Viking FK W",
+   "away": "TIL 2020 W",
+   "liga": "1. Division Women",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Sardarapat",
    "away": "Syunik",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -810,16 +875,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2360,
-  "ganados": 1626,
+  "n": 2362,
+  "ganados": 1627,
   "win_rate": 69,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 11,
-  "perdidos": 1,
-  "en_juego": 11,
-  "win_rate": 92
+  "ganados": 14,
+  "perdidos": 2,
+  "en_juego": 9,
+  "win_rate": 88
  },
  "stats_banker": {
   "ganados": 68,
