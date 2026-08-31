@@ -1,26 +1,6 @@
 {
- "actualizado": "2026-08-31T09:33:09.466748+00:00",
- "partidos_vivo": [
-  {
-   "home": "Mladost Lucani U19",
-   "away": "Crvena Zvezda U18",
-   "liga": "U19 league",
-   "minuto": 46,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.21 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  }
- ],
+ "actualizado": "2026-08-31T09:42:52.686741+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
