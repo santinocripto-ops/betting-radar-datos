@@ -1,208 +1,88 @@
 {
- "actualizado": "2026-08-31T18:36:41.086122+00:00",
+ "actualizado": "2026-08-31T18:44:34.275111+00:00",
  "partidos_vivo": [
   {
-   "home": "Gais",
-   "away": "IF Brommapojkarna",
-   "liga": "Allsvenskan",
-   "minuto": 54,
+   "home": "Maccabi Tel Aviv",
+   "away": "Maccabi Haifa",
+   "liga": "Ligat Ha'al",
+   "minuto": 55,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
+   "momentum_home": 47,
+   "momentum_away": 53,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.7 goles/partido",
     "⚽ 2 goles — partido activo",
-    "⚡ IF Brommapojkarna pierde por 2 — atacará sin freno"
+    "⚡ Maccabi Haifa pierde por 2 — atacará sin freno",
+    "🎯 25 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Sirius",
-   "away": "Malmo FF",
-   "liga": "Allsvenskan",
-   "minuto": 54,
+   "home": "Rapid",
+   "away": "Universitatea Craiova",
+   "liga": "Liga I",
+   "minuto": 50,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 15,
-   "momentum_away": 85,
+   "momentum_home": 35,
+   "momentum_away": 65,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.7 goles/partido",
-    "⚽ 1 gol — Sirius buscará el empate",
-    "🎯 9 remates totales"
+    "⚽ 1 gol — Rapid buscará el empate",
+    "🎯 17 remates totales",
+    "🎯 6 remates a puerta"
    ]
   },
   {
-   "home": "FC Copenhagen",
-   "away": "Sonderjyske",
-   "liga": "Superliga",
-   "minuto": 47,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 88,
-   "momentum_away": 12,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "FK Partizan",
-   "away": "OFK Beograd",
-   "liga": "Super Liga",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 79,
-   "momentum_away": 21,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — OFK Beograd buscará el empate",
-    "🎯 10 remates totales",
-    "⏱ 43 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Zamalek SC",
-   "away": "Petrojet",
-   "liga": "Premier League",
+   "home": "Osasuna",
+   "away": "Getafe",
+   "liga": "La Liga",
    "minuto": 48,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 36,
-   "momentum_away": 64,
+   "momentum_home": 33,
+   "momentum_away": 67,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Petrojet buscará el empate",
-    "🎯 23 remates totales — partido muy intenso",
-    "🎯 7 remates a puerta"
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 1 gol — Getafe buscará el empate"
    ]
   },
   {
-   "home": "Djurgardens IF",
-   "away": "Mjallby AIF",
-   "liga": "Allsvenskan",
-   "minuto": 53,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "KI Klaksvik",
+   "away": "EB / Streymur",
+   "liga": "Meistaradeildin",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 9.8,
-   "recomendar": true,
-   "momentum_home": 91,
-   "momentum_away": 9,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.7 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Mjallby AIF pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Rosenborg II",
-   "away": "Byåsen",
-   "liga": "3. Division - Girone 2",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.11 goles/partido",
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Omonia Nicosia",
-   "away": "Omonia Aradippou",
-   "liga": "1. Division",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Hammarby Talang",
-   "away": "Karlberg",
-   "liga": "Ettan - Norra",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sarpsborg 08 II",
-   "away": "Råde",
-   "liga": "3. Division - Girone 6",
-   "minuto": 52,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.39 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "⚽ 1 gol — EB / Streymur buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 14,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
