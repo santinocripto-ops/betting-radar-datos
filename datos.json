@@ -1,150 +1,76 @@
 {
- "actualizado": "2026-08-31T19:47:23.481636+00:00",
+ "actualizado": "2026-08-31T19:55:40.238663+00:00",
  "partidos_vivo": [
   {
-   "home": "Jong AZ",
-   "away": "Jong Utrecht",
-   "liga": "Eerste Divisie",
-   "minuto": 65,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 61,
-   "momentum_away": 39,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.18 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 27 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Brighton U21",
-   "away": "Arsenal U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 58,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Newcastle United U21",
-   "away": "Fulham U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 64,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Al Qadsia",
-   "away": "Al Kuwait",
-   "liga": "Premier League",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Arda Kardzhali",
-   "away": "Botev Vratsa",
-   "liga": "First League",
+   "home": "Atalanta",
+   "away": "Bologna",
+   "liga": "Serie A",
    "minuto": 53,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 21,
+   "momentum_away": 79,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "FC WIL 1900",
-   "away": "FC Aarau",
-   "liga": "Challenge League",
-   "minuto": 54,
-   "marcador": "0-2",
+   "home": "Dijon",
+   "away": "Saint Etienne",
+   "liga": "Ligue 2",
+   "minuto": 50,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 2 goles — partido activo",
+    "🎯 10 remates totales",
+    "🎯 6 remates a puerta"
    ]
   },
   {
-   "home": "Kagera Sugar",
-   "away": "Azam",
-   "liga": "Ligi kuu Bara",
+   "home": "Amed",
+   "away": "Trabzonspor",
+   "liga": "Süper Lig",
    "minuto": 63,
-   "marcador": "0-2",
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 65,
+   "momentum_away": 35,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga por encima de la media: 2.6 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 13 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 12,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -191,12 +117,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "20:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "20:12",
    "tipo": "smart_money"
   },
   {
@@ -898,6 +818,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Matteo Arnaldi vs James Duckworth",
+   "apuesta": "SI, US Open ATP: Matteo Arnaldi ganara",
+   "usdc": 59454,
+   "prob": 58.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "21:54"
+  },
   {
    "titulo": "Will Arsenal FC win on 2026-08-31?",
    "apuesta": "NO, Arsenal no ganara",
