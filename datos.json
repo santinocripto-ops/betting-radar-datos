@@ -1,9 +1,33 @@
 {
- "actualizado": "2026-09-01T17:39:57.187519+00:00",
+ "actualizado": "2026-09-01T17:47:44.319178+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:47",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -50,30 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:28",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:09",
    "tipo": "smart_money"
   }
  ],
@@ -153,6 +153,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Rot-weiss Oberhausen",
+   "away": "Westfalia Rhynern",
+   "liga": "Regionalliga - West",
+   "minuto": 16,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
+  },
+  {
+   "home": "Rapperswil",
+   "away": "SC Kriens",
+   "liga": "Challenge League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
+  },
+  {
+   "home": "KR Reykjavik",
+   "away": "Vikingur Reykjavik",
+   "liga": "Úrvalsdeild",
+   "minuto": 14,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
+  },
+  {
    "home": "Hessen Kassel",
    "away": "Eintracht Trier",
    "liga": "Regionalliga - SudWest",
@@ -182,39 +215,6 @@
    "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-01",
-   "es_hoy": true
-  },
-  {
-   "home": "Boluspor",
-   "away": "Keçiörengücü",
-   "liga": "1. Lig",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-01",
-   "es_hoy": true
-  },
-  {
-   "home": "Austria Wien W",
-   "away": "Brann W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 11,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-01",
-   "es_hoy": true
-  },
-  {
-   "home": "Akron",
-   "away": "Lokomotiv",
-   "liga": "Cup",
-   "minuto": 12,
-   "score": 8.9,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-01",
    "es_hoy": true
   }
@@ -826,7 +826,7 @@
   "n": 2395,
   "ganados": 1647,
   "win_rate": 69,
-  "hoy": 6
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 2,
