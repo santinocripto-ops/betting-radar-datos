@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T19:53:13.935673+00:00",
+ "actualizado": "2026-09-01T19:59:56.663200+00:00",
  "partidos_vivo": [
   {
    "home": "FC Zurich",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:59",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:55",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "19:47",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -827,6 +827,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Bristol City FC win on 2026-09-01?",
+   "apuesta": "NO, Bristol City no ganara",
+   "usdc": 69586,
+   "prob": 73.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:59"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 107739,
@@ -888,15 +897,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "14:39"
-  },
-  {
-   "titulo": "Plovdiv 3: Eric Vanshelboim vs Calvin Hemery",
-   "apuesta": "SI, Plovdiv 3: Eric Vanshelboim ganara",
-   "usdc": 42462,
-   "prob": 64.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "12:49"
   }
  ],
  "stats_gt": {
