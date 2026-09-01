@@ -1,30 +1,15 @@
 {
- "actualizado": "2026-09-01T17:24:58.919208+00:00",
- "partidos_vivo": [
-  {
-   "home": "Kazma",
-   "away": "Al Sahel",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-09-01T17:32:43.172735+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:32",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -78,12 +63,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:28",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:09",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -523,15 +502,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Akron",
-   "away": "Lokomotiv",
-   "liga": "Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -779,6 +750,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
+   "apuesta": "SI, US Open ATP: Francisco Comesana ganara",
+   "usdc": 65153,
+   "prob": 52.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:32"
+  },
+  {
    "titulo": "US Open ATP: Dane Sweeny vs Corentin Moutet",
    "apuesta": "SI, US Open ATP: Dane Sweeny ganara",
    "usdc": 103549,
@@ -840,15 +820,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "12:31"
-  },
-  {
-   "titulo": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
-   "apuesta": "SI, Zhangjiagang: Ilya Ivashka ganara",
-   "usdc": 19359,
-   "prob": 46.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "10:30"
   }
  ],
  "stats_gt": {
