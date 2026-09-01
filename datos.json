@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-01T01:57:43.193923+00:00",
+ "actualizado": "2026-09-01T02:08:10.965706+00:00",
  "partidos_vivo": [
   {
-   "home": "Instituto Cordoba",
-   "away": "San Lorenzo",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "U. Catolica",
+   "away": "O'Higgins",
+   "liga": "Primera División",
+   "minuto": 61,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — San Lorenzo buscará el empate",
-    "🎯 16 remates totales",
-    "🚩 6 córners"
-   ]
-  },
-  {
-   "home": "Tigre",
-   "away": "Barracas Central",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 27,
-   "momentum_away": 73,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 11 remates totales"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 13 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -147,7 +127,7 @@
    "hora": "11:35",
    "resultado": "pendiente",
    "wr_historico": 62,
-   "n_historico": 1087
+   "n_historico": 1088
   },
   {
    "clave": "btts",
@@ -161,7 +141,7 @@
    "hora": "11:35",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1070
+   "n_historico": 1071
   }
  ],
  "gol_temprano": [
@@ -509,9 +489,9 @@
   ],
   "balance": {
    "ganados": 1290,
-   "perdidos": 867,
-   "acierto": 59.8,
-   "yield": 13.6,
+   "perdidos": 869,
+   "acierto": 59.7,
+   "yield": 13.5,
    "cuota_media": 1.9
   }
  },
