@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T11:20:46.048157+00:00",
+ "actualizado": "2026-09-01T11:30:34.355800+00:00",
  "partidos_vivo": [
   {
    "home": "Moreirense U23",
@@ -548,6 +548,36 @@
     "ts": "2026-09-01T07:07:55.237071+00:00"
    },
    {
+    "home": "Al-Hilal Saudi FC",
+    "away": "Al-Ahli Jeddah",
+    "liga": "Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.18,
+    "pinnacle": false,
+    "delta": 3.71,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:00:00+00:00",
+    "ts": "2026-09-01T11:09:17.913481+00:00"
+   },
+   {
+    "home": "Rapperswil",
+    "away": "SC Kriens",
+    "liga": "Challenge League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.13,
+    "pinnacle": false,
+    "delta": 4.21,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T17:30:00+00:00",
+    "ts": "2026-09-01T11:09:16.638899+00:00"
+   },
+   {
     "home": "Los Andes",
     "away": "Acassuso",
     "liga": "Primera Nacional",
@@ -711,42 +741,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-30T10:15:00+00:00",
     "ts": "2026-08-30T02:08:36.463495+00:00"
-   },
-   {
-    "home": "Mineros de Zacatecas",
-    "away": "CDS Tampico Madero",
-    "liga": "Liga de Expansión MX",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.83,
-    "pinnacle": true,
-    "delta": 3.09,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-08-30T01:00:00+00:00",
-    "ts": "2026-08-29T21:07:12.376276+00:00"
-   },
-   {
-    "home": "Torreense",
-    "away": "Vizela",
-    "liga": "Segunda Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 8,
-    "cuota": 1.74,
-    "pinnacle": true,
-    "delta": 3.85,
-    "marcador": "0-3",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T19:30:00+00:00",
-    "ts": "2026-08-29T19:05:53.710717+00:00"
    }
   ],
   "balance": {
    "ganados": 181,
    "perdidos": 80,
-   "pendientes": 2,
+   "pendientes": 4,
    "acierto": 69.3,
    "total": 261
   }
