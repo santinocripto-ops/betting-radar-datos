@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-01T16:22:15.264265+00:00",
+ "actualizado": "2026-09-01T16:30:30.787140+00:00",
  "partidos_vivo": [
   {
-   "home": "Minija",
-   "away": "Dainava",
+   "home": "Volos NFC",
+   "away": "Kalamata",
    "liga": "Cup",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Minija buscará el empate"
-   ]
-  },
-  {
-   "home": "Sepsi OSK Sfantu Gheorghe",
-   "away": "CFR 1907 Cluj",
-   "liga": "Cupa României",
-   "minuto": 48,
+   "minuto": 65,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
