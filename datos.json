@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T07:08:05.655949+00:00",
+ "actualizado": "2026-09-01T07:17:15.494437+00:00",
  "partidos_vivo": [
   {
    "home": "U. Catolica",
@@ -518,6 +518,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Sheffield Utd",
+    "away": "Bolton",
+    "liga": "Championship",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.3,
+    "pinnacle": true,
+    "delta": 4.17,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T07:07:54.358849+00:00"
+   },
+   {
+    "home": "Portsmouth",
+    "away": "Derby",
+    "liga": "Championship",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 4.57,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T07:07:55.237071+00:00"
+   },
+   {
     "home": "Los Andes",
     "away": "Acassuso",
     "liga": "Primera Nacional",
@@ -711,42 +741,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-29T19:30:00+00:00",
     "ts": "2026-08-29T19:05:53.710717+00:00"
-   },
-   {
-    "home": "Midland",
-    "away": "Nueva Chicago",
-    "liga": "Primera Nacional",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.15,
-    "pinnacle": true,
-    "delta": 3.16,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T19:30:00+00:00",
-    "ts": "2026-08-29T19:05:55.039992+00:00"
-   },
-   {
-    "home": "Norwich",
-    "away": "Burnley",
-    "liga": "Championship",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.35,
-    "pinnacle": true,
-    "delta": 3.54,
-    "marcador": "4-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-29T14:00:00+00:00",
-    "ts": "2026-08-29T13:06:01.492999+00:00"
    }
   ],
   "balance": {
    "ganados": 181,
    "perdidos": 80,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 69.3,
    "total": 261
   }
@@ -837,7 +837,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
