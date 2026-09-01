@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-01T16:53:59.070663+00:00",
+ "actualizado": "2026-09-01T17:02:16.182186+00:00",
  "partidos_vivo": [
   {
-   "home": "Volos NFC",
-   "away": "Kalamata",
-   "liga": "Cup",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Kazma",
+   "away": "Al Sahel",
+   "liga": "Premier League",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚽ Liga goleadora: 3.1 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
