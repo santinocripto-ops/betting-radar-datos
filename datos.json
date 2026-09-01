@@ -1,13 +1,33 @@
 {
- "actualizado": "2026-09-01T18:56:37.840714+00:00",
+ "actualizado": "2026-09-01T19:06:08.855483+00:00",
  "partidos_vivo": [
   {
-   "home": "Wolfsberger AC",
-   "away": "Lask Linz",
-   "liga": "Bundesliga",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Cardiff City U21",
+   "away": "Sheffield Wednesday U21",
+   "liga": "Professional Development League",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "FC Rostov",
+   "away": "CSKA Moscow",
+   "liga": "Cup",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -16,13 +36,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Lask Linz buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -155,7 +175,7 @@
    "hora": "11:35",
    "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1102
+   "n_historico": 1105
   },
   {
    "clave": "btts",
@@ -169,7 +189,7 @@
    "hora": "11:35",
    "resultado": "perdido",
    "wr_historico": 57,
-   "n_historico": 1087
+   "n_historico": 1091
   }
  ],
  "gol_temprano": [
@@ -235,27 +255,27 @@
    "minuto": 16,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-01",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50054.0,
-  "balance_total": 40054.0,
-  "balance_dia": -17.0,
-  "ganados": 2426,
-  "perdidos": 1035,
-  "pendientes": 12,
-  "ganados_dia": 3,
-  "perdidos_dia": 2,
+  "capital": 50066.0,
+  "balance_total": 40066.0,
+  "balance_dia": -5.0,
+  "ganados": 2430,
+  "perdidos": 1037,
+  "pendientes": 8,
+  "ganados_dia": 7,
+  "perdidos_dia": 4,
   "win_rate": 70.1,
   "roi": 11.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3473,
+  "con_cuota_media": 3475,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -516,8 +536,8 @@
    }
   ],
   "balance": {
-   "ganados": 1303,
-   "perdidos": 886,
+   "ganados": 1307,
+   "perdidos": 889,
    "acierto": 59.5,
    "yield": 13.1,
    "cuota_media": 1.9
@@ -543,14 +563,14 @@
    "away": "Eintracht Trier",
    "liga": "Regionalliga - SudWest",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Helsingborg",
    "away": "Orebro SK",
    "liga": "Superettan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -873,16 +893,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2396,
-  "ganados": 1648,
+  "n": 2400,
+  "ganados": 1650,
   "win_rate": 69,
   "hoy": 11
  },
  "stats_dia": {
-  "ganados": 3,
-  "perdidos": 2,
-  "en_juego": 14,
-  "win_rate": 60
+  "ganados": 7,
+  "perdidos": 4,
+  "en_juego": 10,
+  "win_rate": 64
  },
  "stats_banker": {
   "ganados": 69,
