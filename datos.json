@@ -1,250 +1,42 @@
 {
- "actualizado": "2026-09-01T20:56:52.889050+00:00",
+ "actualizado": "2026-09-01T21:06:05.711056+00:00",
  "partidos_vivo": [
   {
-   "home": "HEBC",
-   "away": "Borussia Dortmund",
-   "liga": "DFB Pokal",
-   "minuto": 64,
-   "marcador": "0-5",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.45 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Leek Town",
-   "away": "Warrington Town",
-   "liga": "Non League Premier - Northern",
-   "minuto": 64,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Birmingham",
-   "away": "Southampton",
-   "liga": "Championship",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Birmingham buscará el empate"
-   ]
-  },
-  {
-   "home": "Stoke City",
-   "away": "Norwich",
-   "liga": "Championship",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Norwich buscará el empate"
-   ]
-  },
-  {
-   "home": "West Ham",
-   "away": "Wolves",
-   "liga": "Championship",
-   "minuto": 63,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Bradford",
-   "away": "Cambridge United",
-   "liga": "League One",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Bradford buscará el empate"
-   ]
-  },
-  {
-   "home": "Bromley",
-   "away": "Leyton Orient",
-   "liga": "League One",
-   "minuto": 63,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Huddersfield",
-   "away": "Oxford United",
-   "liga": "League One",
-   "minuto": 64,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Oxford United buscará el empate"
-   ]
-  },
-  {
-   "home": "Leicester",
-   "away": "Plymouth",
-   "liga": "League One",
-   "minuto": 58,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Peterborough",
-   "away": "Stevenage",
-   "liga": "League One",
-   "minuto": 64,
+   "home": "Orsomarso W",
+   "away": "Deportivo Cali W",
+   "liga": "Liga Femenina",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
-  },
-  {
-   "home": "Torino",
-   "away": "Monza",
-   "liga": "Coppa Italia",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Torino buscará el empate"
-   ]
-  },
-  {
-   "home": "Portsmouth",
-   "away": "Derby",
-   "liga": "Championship",
-   "minuto": 63,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
   }
  ],
- "partidos_vivo_total": 32,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -304,50 +96,10 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:03",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Peterborough",
-   "away": "Stevenage",
-   "liga": "League One",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.4,
-   "resultado": "pendiente",
-   "fecha": "2026-09-01"
-  },
-  {
-   "home": "Sheffield Utd",
-   "away": "Bolton",
-   "liga": "Championship",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.24,
-   "resultado": "pendiente",
-   "fecha": "2026-09-01"
-  },
-  {
-   "home": "Portsmouth",
-   "away": "Derby",
-   "liga": "Championship",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.28,
-   "resultado": "pendiente",
-   "fecha": "2026-09-01"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -359,9 +111,9 @@
    "cuota": 1.09,
    "score": 8.67,
    "hora": "18:30",
-   "resultado": "pendiente",
-   "wr_historico": 74,
-   "n_historico": 120
+   "resultado": "ganado",
+   "wr_historico": 75,
+   "n_historico": 125
   },
   {
    "clave": "over25",
@@ -375,7 +127,7 @@
    "hora": "11:35",
    "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1107
+   "n_historico": 1108
   },
   {
    "clave": "btts",
@@ -400,7 +152,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-01",
    "es_hoy": true
   },
@@ -411,7 +163,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-01",
    "es_hoy": true
   },
@@ -462,14 +214,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50017.0,
-  "balance_total": 40017.0,
-  "balance_dia": -54.0,
-  "ganados": 2433,
-  "perdidos": 1039,
-  "pendientes": 4,
-  "ganados_dia": 10,
-  "perdidos_dia": 6,
+  "capital": 50023.0,
+  "balance_total": 40023.0,
+  "balance_dia": -48.0,
+  "ganados": 2435,
+  "perdidos": 1040,
+  "pendientes": 1,
+  "ganados_dia": 12,
+  "perdidos_dia": 7,
   "win_rate": 70.1,
   "roi": 11.5,
   "stake": 100.0,
@@ -736,7 +488,7 @@
    }
   ],
   "balance": {
-   "ganados": 1310,
+   "ganados": 1311,
    "perdidos": 889,
    "acierto": 59.6,
    "yield": 13.2,
@@ -749,7 +501,7 @@
    "away": "Barnet",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Rapperswil",
@@ -762,20 +514,6 @@
    "home": "KR Reykjavik",
    "away": "Vikingur Reykjavik",
    "liga": "Úrvalsdeild",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Hessen Kassel",
-   "away": "Eintracht Trier",
-   "liga": "Regionalliga - SudWest",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Helsingborg",
-   "away": "Orebro SK",
-   "liga": "Superettan",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -1100,21 +838,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2403,
-  "ganados": 1651,
+  "n": 2405,
+  "ganados": 1652,
   "win_rate": 69,
   "hoy": 11
  },
  "stats_dia": {
-  "ganados": 10,
-  "perdidos": 6,
-  "en_juego": 6,
-  "win_rate": 62
+  "ganados": 14,
+  "perdidos": 8,
+  "en_juego": 0,
+  "win_rate": 64
  },
  "stats_banker": {
-  "ganados": 69,
-  "perdidos": 28,
-  "pendientes": 3,
+  "ganados": 71,
+  "perdidos": 29,
+  "pendientes": 0,
   "win_rate": 71
  },
  "marca": {
