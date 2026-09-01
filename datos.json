@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T08:21:11.124158+00:00",
+ "actualizado": "2026-09-01T08:31:07.071964+00:00",
  "partidos_vivo": [
   {
    "home": "U. Catolica",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:30",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:30",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -83,18 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "07:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "03:10",
    "tipo": "smart_money"
   }
  ],
@@ -756,6 +756,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
+   "apuesta": "SI, Zhangjiagang: Ilya Ivashka ganara",
+   "usdc": 19359,
+   "prob": 46.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "10:30"
+  },
+  {
+   "titulo": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
+   "apuesta": "SI, Zhangjiagang: Ilya Ivashka ganara",
+   "usdc": 16726,
+   "prob": 53.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "10:30"
+  },
+  {
    "titulo": "Zhangjiagang: Enzo Aguiard vs Hayato Matsuoka",
    "apuesta": "SI, Zhangjiagang: Enzo Aguiard ganara",
    "usdc": 15023,
@@ -808,24 +826,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "23:42"
-  },
-  {
-   "titulo": "Spread: FC Barcelona (-2.5)",
-   "apuesta": "SI — Spread: FC Barcelona (-2.5)",
-   "usdc": 233748,
-   "prob": 35.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "22:55"
-  },
-  {
-   "titulo": "US Open ATP: Luciano Darderi vs Harry Wendelken",
-   "apuesta": "SI, US Open ATP: Luciano Darderi ganara",
-   "usdc": 52368,
-   "prob": 81.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "22:11"
   }
  ],
  "stats_gt": {
