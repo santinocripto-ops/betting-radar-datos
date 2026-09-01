@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T16:05:27.486812+00:00",
+ "actualizado": "2026-09-01T16:14:08.990067+00:00",
  "partidos_vivo": [
   {
    "home": "Minija",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "15:58",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "15:30",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -193,6 +193,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Austria Wien W",
+   "away": "Brann W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
+  },
   {
    "home": "Akron",
    "away": "Lokomotiv",
@@ -820,7 +831,7 @@
   "n": 2395,
   "ganados": 1647,
   "win_rate": 69,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 2,
