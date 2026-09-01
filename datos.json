@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T14:19:17.759319+00:00",
+ "actualizado": "2026-09-01T14:28:32.266037+00:00",
  "partidos_vivo": [
   {
    "home": "Progresul Spartac",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:28",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -84,12 +90,6 @@
    "texto": "⚽ Peterborough vs Stevenage · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (",
    "hora": "15:11",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:11",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -192,7 +192,7 @@
   "balance_dia": 122.0,
   "ganados": 2425,
   "perdidos": 1033,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -200,7 +200,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3460,
+  "con_cuota_media": 3461,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -468,7 +468,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Akron",
+   "away": "Lokomotiv",
+   "liga": "Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -797,7 +805,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 100
  },
  "stats_banker": {
