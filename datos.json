@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-01T22:17:21.566650+00:00",
+ "actualizado": "2026-09-01T22:24:55.854494+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:24",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "21:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Supra du Quebec",
+   "away": "Forge",
+   "liga": "Canadian Championship",
+   "minuto": 14,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": false
+  },
+  {
    "home": "Exeter City",
    "away": "Barnet",
    "liga": "League Two",
@@ -174,17 +185,6 @@
    "liga": "Úrvalsdeild",
    "minuto": 14,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-01",
-   "es_hoy": false
-  },
-  {
-   "home": "Hessen Kassel",
-   "away": "Eintracht Trier",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 16,
-   "score": 9.7,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-01",
