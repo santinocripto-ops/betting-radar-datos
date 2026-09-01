@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-01T15:23:46.635169+00:00",
+ "actualizado": "2026-09-01T15:32:30.680237+00:00",
  "partidos_vivo": [
   {
-   "home": "Kluczevia Stargard",
-   "away": "Pogoń Siedlce",
+   "home": "Tomášov",
+   "away": "Inter Bratislava",
    "liga": "Cup",
    "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Pogoń Siedlce buscará el empate"
-   ]
-  },
-  {
-   "home": "Wisła Płock II",
-   "away": "Puszcza Niepołomice",
-   "liga": "Cup",
-   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
