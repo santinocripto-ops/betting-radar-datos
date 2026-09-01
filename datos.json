@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T21:25:26.042884+00:00",
+ "actualizado": "2026-09-01T21:45:19.280693+00:00",
  "partidos_vivo": [
   {
    "home": "Orsomarso W",
@@ -500,20 +500,6 @@
    "home": "Exeter City",
    "away": "Barnet",
    "liga": "League Two",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Rapperswil",
-   "away": "SC Kriens",
-   "liga": "Challenge League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "KR Reykjavik",
-   "away": "Vikingur Reykjavik",
-   "liga": "Úrvalsdeild",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
