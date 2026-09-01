@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-01T14:28:32.266037+00:00",
+ "actualizado": "2026-09-01T14:37:54.104132+00:00",
  "partidos_vivo": [
   {
-   "home": "Progresul Spartac",
-   "away": "Concordia",
-   "liga": "Cupa României",
-   "minuto": 48,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
+   "home": "Akron",
+   "away": "Lokomotiv",
+   "liga": "Cup",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -16,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
