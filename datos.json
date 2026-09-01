@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T13:21:26.188538+00:00",
+ "actualizado": "2026-09-01T13:30:38.049667+00:00",
  "partidos_vivo": [
   {
    "home": "Bristol City U21",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "15:30",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:21",
@@ -129,12 +135,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "14:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:10",
    "tipo": "smart_money"
   }
  ],
@@ -214,70 +214,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "UCV",
-   "away": "Rayo Zuliano",
-   "liga": "Primera División",
-   "minuto": 17,
-   "score": 8.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "Union La Calera",
-   "away": "D. La Serena",
-   "liga": "Primera División",
-   "minuto": 13,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "HNK Gorica",
-   "away": "HNK Rijeka",
-   "liga": "HNL",
+   "home": "Akron",
+   "away": "Lokomotiv",
+   "liga": "Cup",
    "minuto": 12,
-   "score": 8.5,
+   "score": 8.9,
    "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "SC Braga",
-   "away": "Vitória SC",
-   "liga": "Primeira Liga",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "Breidablik",
-   "away": "Stjarnan",
-   "liga": "Úrvalsdeild",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-08-31",
-   "es_hoy": false
-  },
-  {
-   "home": "Al Qadsia",
-   "away": "Al Kuwait",
-   "liga": "Premier League",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-08-31",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -887,7 +832,7 @@
   "n": 2394,
   "ganados": 1647,
   "win_rate": 69,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
