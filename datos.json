@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T17:02:16.182186+00:00",
+ "actualizado": "2026-09-01T17:09:59.908653+00:00",
  "partidos_vivo": [
   {
    "home": "Kazma",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,12 +89,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "16:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:58",
    "tipo": "smart_money"
   },
   {
@@ -173,6 +173,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Boluspor",
+   "away": "Keçiörengücü",
+   "liga": "1. Lig",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01",
+   "es_hoy": true
+  },
   {
    "home": "Austria Wien W",
    "away": "Brann W",
@@ -811,7 +822,7 @@
   "n": 2395,
   "ganados": 1647,
   "win_rate": 69,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 2,
