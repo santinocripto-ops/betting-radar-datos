@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T13:10:47.354554+00:00",
+ "actualizado": "2026-09-01T13:11:34.990073+00:00",
  "partidos_vivo": [
   {
    "home": "Bristol City U21",
@@ -66,6 +66,48 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Peterborough vs Stevenage · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (",
+   "hora": "15:11",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "15:10",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "15:10",
@@ -94,52 +136,19 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Peterborough",
+   "away": "Stevenage",
+   "liga": "League One",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.4,
+   "resultado": "pendiente",
+   "fecha": "2026-09-01"
+  },
   {
    "home": "Sheffield Utd",
    "away": "Bolton",
@@ -889,7 +898,7 @@
  "stats_banker": {
   "ganados": 69,
   "perdidos": 28,
-  "pendientes": 2,
+  "pendientes": 3,
   "win_rate": 71
  },
  "marca": {
