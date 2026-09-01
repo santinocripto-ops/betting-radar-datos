@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T20:12:55.233211+00:00",
+ "actualizado": "2026-09-01T20:20:31.190414+00:00",
  "partidos_vivo": [
   {
    "home": "HEBC",
@@ -247,6 +247,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:20",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "22:12",
    "tipo": "smart_money"
@@ -303,12 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:03",
    "tipo": "live"
   },
   {
@@ -912,8 +912,8 @@
     "cuota": 1.18,
     "pinnacle": false,
     "delta": 3.71,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:00:00+00:00",
     "ts": "2026-09-01T11:09:17.913481+00:00"
    },
@@ -927,8 +927,8 @@
     "cuota": 1.13,
     "pinnacle": false,
     "delta": 4.21,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T11:09:16.638899+00:00"
    },
@@ -942,8 +942,8 @@
     "cuota": 1.17,
     "pinnacle": false,
     "delta": 5.97,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T12:10:34.269463+00:00"
    },
@@ -957,8 +957,8 @@
     "cuota": 1.12,
     "pinnacle": false,
     "delta": 3.28,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T14:09:48.130905+00:00"
    },
@@ -972,8 +972,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 3.98,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T15:05:55.837576+00:00"
    },
@@ -1009,11 +1009,11 @@
    }
   ],
   "balance": {
-   "ganados": 182,
+   "ganados": 187,
    "perdidos": 81,
-   "pendientes": 13,
-   "acierto": 69.2,
-   "total": 263
+   "pendientes": 8,
+   "acierto": 69.8,
+   "total": 268
   }
  },
  "mejor_dia": {
@@ -1026,6 +1026,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
+   "apuesta": "SI, US Open ATP: Arthur Fery ganara",
+   "usdc": 131590,
+   "prob": 22.5,
+   "n_traders": 1,
+   "trader": "beachboy4",
+   "hora": "22:20"
+  },
   {
    "titulo": "Will Bristol City FC win on 2026-09-01?",
    "apuesta": "NO, Bristol City no ganara",
@@ -1088,15 +1097,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "15:21"
-  },
-  {
-   "titulo": "Porto: Patrick Schoen vs Facundo Mena",
-   "apuesta": "SI, Porto: Patrick Schoen ganara",
-   "usdc": 20846,
-   "prob": 16.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "14:39"
   }
  ],
  "stats_gt": {
