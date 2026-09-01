@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T13:11:34.990073+00:00",
+ "actualizado": "2026-09-01T13:21:26.188538+00:00",
  "partidos_vivo": [
   {
    "home": "Bristol City U21",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:21",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Peterborough vs Stevenage · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (",
    "hora": "15:11",
@@ -128,12 +134,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:10",
    "tipo": "smart_money"
   }
@@ -567,6 +567,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Stoke City",
+    "away": "Norwich",
+    "liga": "Championship",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 7,
+    "cuota": 1.37,
+    "pinnacle": true,
+    "delta": 3.28,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T19:00:00+00:00",
+    "ts": "2026-09-01T13:11:27.187464+00:00"
+   },
+   {
     "home": "Sheffield Utd",
     "away": "Bolton",
     "liga": "Championship",
@@ -595,6 +610,66 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T07:07:55.237071+00:00"
+   },
+   {
+    "home": "Peterborough",
+    "away": "Stevenage",
+    "liga": "League One",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.45,
+    "pinnacle": true,
+    "delta": 4.39,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T13:11:19.792379+00:00"
+   },
+   {
+    "home": "West Ham",
+    "away": "Wolves",
+    "liga": "Championship",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.24,
+    "pinnacle": true,
+    "delta": 3.08,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T13:11:22.639084+00:00"
+   },
+   {
+    "home": "West Ham",
+    "away": "Wolves",
+    "liga": "Championship",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "cuota": 1.24,
+    "pinnacle": false,
+    "delta": 3.98,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T13:11:22.996166+00:00"
+   },
+   {
+    "home": "Preston",
+    "away": "Bristol City",
+    "liga": "Championship",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.44,
+    "pinnacle": false,
+    "delta": 3.6,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-01T18:45:00+00:00",
+    "ts": "2026-09-01T13:11:25.408473+00:00"
    },
    {
     "home": "Al-Hilal Saudi FC",
@@ -715,87 +790,12 @@
     "resultado": "ganado",
     "kickoff": "2026-08-30T16:00:00+00:00",
     "ts": "2026-08-30T14:05:31.995199+00:00"
-   },
-   {
-    "home": "TSV Hartberg",
-    "away": "Ried",
-    "liga": "Bundesliga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 1.44,
-    "pinnacle": true,
-    "delta": 7.32,
-    "marcador": "3-2",
-    "resultado": "perdido",
-    "kickoff": "2026-08-30T15:00:00+00:00",
-    "ts": "2026-08-30T13:06:42.597011+00:00"
-   },
-   {
-    "home": "Antwerp",
-    "away": "St. Truiden",
-    "liga": "Jupiler Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.45,
-    "pinnacle": false,
-    "delta": 3.43,
-    "marcador": "1-4",
-    "resultado": "perdido",
-    "kickoff": "2026-08-30T14:00:00+00:00",
-    "ts": "2026-08-30T07:06:14.780828+00:00"
-   },
-   {
-    "home": "Fenix",
-    "away": "Miramar",
-    "liga": "Segunda División",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.18,
-    "pinnacle": false,
-    "delta": 4.55,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-08-30T13:00:00+00:00",
-    "ts": "2026-08-30T09:08:38.024405+00:00"
-   },
-   {
-    "home": "FC St. Pauli",
-    "away": "1. FC Kaiserslautern",
-    "liga": "2. Bundesliga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 9,
-    "cuota": 1.26,
-    "pinnacle": true,
-    "delta": 3.77,
-    "marcador": "1-2",
-    "resultado": "perdido",
-    "kickoff": "2026-08-30T11:30:00+00:00",
-    "ts": "2026-08-30T07:06:23.515151+00:00"
-   },
-   {
-    "home": "Guangzhou E-Power",
-    "away": "Changchun Yatai",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 11,
-    "cuota": 1.09,
-    "pinnacle": true,
-    "delta": 4.56,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-08-30T11:30:00+00:00",
-    "ts": "2026-08-30T10:09:24.782619+00:00"
    }
   ],
   "balance": {
    "ganados": 181,
    "perdidos": 80,
-   "pendientes": 5,
+   "pendientes": 10,
    "acierto": 69.3,
    "total": 261
   }
@@ -810,6 +810,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Como: Raul Brancaccio vs Duje Ajdukovic",
+   "apuesta": "SI, Como: Raul Brancaccio ganara",
+   "usdc": 56483,
+   "prob": 57.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "15:21"
+  },
   {
    "titulo": "Porto: Patrick Schoen vs Facundo Mena",
    "apuesta": "SI, Porto: Patrick Schoen ganara",
@@ -872,15 +881,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "07:07"
-  },
-  {
-   "titulo": "US Open ATP: Quentin Halys vs Facundo Acosta",
-   "apuesta": "SI, US Open ATP: Quentin Halys ganara",
-   "usdc": 124058,
-   "prob": 84.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "00:19"
   }
  ],
  "stats_gt": {
@@ -892,7 +892,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
