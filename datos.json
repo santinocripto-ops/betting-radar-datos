@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T19:33:11.543696+00:00",
+ "actualizado": "2026-09-01T19:33:19.188653+00:00",
  "partidos_vivo": [
   {
    "home": "Cardiff City U21",
@@ -780,8 +780,8 @@
     "cuota": 1.55,
     "pinnacle": true,
     "delta": 3.41,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-01T17:00:00+00:00",
     "ts": "2026-09-01T14:09:45.933468+00:00"
    },
@@ -795,18 +795,18 @@
     "cuota": 1.45,
     "pinnacle": true,
     "delta": 7.79,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T15:40:00+00:00",
     "ts": "2026-09-01T14:09:45.003331+00:00"
    }
   ],
   "balance": {
-   "ganados": 181,
-   "perdidos": 80,
-   "pendientes": 15,
-   "acierto": 69.3,
-   "total": 261
+   "ganados": 182,
+   "perdidos": 81,
+   "pendientes": 13,
+   "acierto": 69.2,
+   "total": 263
   }
  },
  "mejor_dia": {
