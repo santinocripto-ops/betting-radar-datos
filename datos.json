@@ -1,9 +1,48 @@
 {
- "actualizado": "2026-09-01T01:00:13.989341+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-01T01:10:57.676981+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Real Tomayapo",
+   "away": "Independiente Petrolero",
+   "liga": "Copa de la División Profesional",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.18 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:10",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -57,24 +96,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:55",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -106,7 +127,7 @@
    "hora": "11:35",
    "resultado": "pendiente",
    "wr_historico": 62,
-   "n_historico": 1086
+   "n_historico": 1087
   },
   {
    "clave": "btts",
@@ -120,7 +141,7 @@
    "hora": "11:35",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1069
+   "n_historico": 1070
   }
  ],
  "gol_temprano": [
@@ -131,7 +152,7 @@
    "minuto": 17,
    "score": 8.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": false
   },
@@ -142,7 +163,7 @@
    "minuto": 13,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-08-31",
    "es_hoy": false
   },
@@ -193,13 +214,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50071.0,
-  "balance_total": 40071.0,
-  "balance_dia": 0.0,
-  "ganados": 2423,
+  "capital": 50193.0,
+  "balance_total": 40193.0,
+  "balance_dia": 122.0,
+  "ganados": 2425,
   "perdidos": 1033,
-  "pendientes": 3,
-  "ganados_dia": 0,
+  "pendientes": 1,
+  "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 70.1,
   "roi": 11.6,
@@ -468,9 +489,9 @@
   ],
   "balance": {
    "ganados": 1290,
-   "perdidos": 865,
-   "acierto": 59.9,
-   "yield": 13.7,
+   "perdidos": 867,
+   "acierto": 59.8,
+   "yield": 13.6,
    "cuota_media": 1.9
   }
  },
@@ -789,16 +810,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2392,
-  "ganados": 1645,
+  "n": 2394,
+  "ganados": 1647,
   "win_rate": 69,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 69,
