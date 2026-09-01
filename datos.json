@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T02:55:56.064871+00:00",
+ "actualizado": "2026-09-01T03:05:38.772564+00:00",
  "partidos_vivo": [
   {
    "home": "U. Catolica",
@@ -141,7 +141,7 @@
    "hora": "11:35",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1071
+   "n_historico": 1073
   }
  ],
  "gol_temprano": [
@@ -282,7 +282,7 @@
     "away": "Atlante W",
     "liga": "Liga MX Femenil",
     "hora": "03:06",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -489,9 +489,9 @@
   ],
   "balance": {
    "ganados": 1290,
-   "perdidos": 869,
+   "perdidos": 871,
    "acierto": 59.7,
-   "yield": 13.5,
+   "yield": 13.4,
    "cuota_media": 1.9
   }
  },
