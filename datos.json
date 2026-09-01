@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-01T10:03:30.469224+00:00",
- "partidos_vivo": [
-  {
-   "home": "U. Catolica",
-   "away": "O'Higgins",
-   "liga": "Primera División",
-   "minuto": 61,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 13 remates totales"
-   ]
-  }
- ],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-09-01T10:12:55.305448+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -752,7 +731,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "13:35",
+  "cuota": 1.5,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
