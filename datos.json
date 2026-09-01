@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T17:09:59.908653+00:00",
+ "actualizado": "2026-09-01T17:17:35.841823+00:00",
  "partidos_vivo": [
   {
    "home": "Kazma",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:58",
    "tipo": "smart_money"
   }
  ],
@@ -214,7 +214,7 @@
   "balance_dia": -78.0,
   "ganados": 2425,
   "perdidos": 1035,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 2,
   "perdidos_dia": 2,
   "win_rate": 70.1,
@@ -222,7 +222,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3462,
+  "con_cuota_media": 3463,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -827,7 +827,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 50
  },
  "stats_banker": {
