@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-01T19:33:19.188653+00:00",
+ "actualizado": "2026-09-01T19:40:08.945347+00:00",
  "partidos_vivo": [
   {
-   "home": "Cardiff City U21",
-   "away": "Sheffield Wednesday U21",
-   "liga": "Professional Development League",
+   "home": "FC Zurich",
+   "away": "BSC Young Boys",
+   "liga": "Super League",
    "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,33 +16,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.75 goles/partido",
+    "⚽ Liga muy goleadora: 4.04 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "FC Rostov",
-   "away": "CSKA Moscow",
+   "home": "Motor Lublin",
+   "away": "Legia Warszawa",
    "liga": "Cup",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "minuto": 51,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ Liga goleadora: 3.05 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 11,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
