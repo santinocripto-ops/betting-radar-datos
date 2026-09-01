@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-01T10:22:03.044750+00:00",
+ "actualizado": "2026-09-01T10:31:18.106800+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:31",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -63,12 +69,6 @@
    "texto": "⚽ Portsmouth vs Derby · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.28 (11 ca",
    "hora": "09:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:07",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -741,6 +741,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Gen.G vs KT Rolster - Game 3 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 67060,
+   "prob": 83.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "12:31"
+  },
+  {
    "titulo": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
    "apuesta": "SI, Zhangjiagang: Ilya Ivashka ganara",
    "usdc": 19359,
@@ -802,15 +811,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "00:00"
-  },
-  {
-   "titulo": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
-   "apuesta": "SI, US Open ATP: Grigor Dimitrov ganara",
-   "usdc": 99711,
-   "prob": 64.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "23:42"
   }
  ],
  "stats_gt": {
