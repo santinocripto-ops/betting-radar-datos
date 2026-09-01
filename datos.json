@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T14:55:40.845666+00:00",
+ "actualizado": "2026-09-01T15:04:20.092098+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -90,12 +96,6 @@
    "texto": "⚽ Peterborough vs Stevenage · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (",
    "hora": "15:11",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:11",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -724,6 +724,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+   "apuesta": "SI, US Open ATP: Dane Sweeny ganara",
+   "usdc": 103549,
+   "prob": 32.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "17:04"
+  },
+  {
    "titulo": "Manacor: Max Basing vs Joel Schwaerzler",
    "apuesta": "SI, Manacor: Max Basing ganara",
    "usdc": 16736,
@@ -783,15 +792,6 @@
    "usdc": 19359,
    "prob": 46.5,
    "n_traders": 2,
-   "trader": "RN1",
-   "hora": "10:30"
-  },
-  {
-   "titulo": "Zhangjiagang: Ilya Ivashka vs Yi Zhou",
-   "apuesta": "SI, Zhangjiagang: Ilya Ivashka ganara",
-   "usdc": 16726,
-   "prob": 53.5,
-   "n_traders": 3,
    "trader": "RN1",
    "hora": "10:30"
   }
