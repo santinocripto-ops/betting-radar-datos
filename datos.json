@@ -1,24 +1,44 @@
 {
- "actualizado": "2026-09-01T00:03:15.047111+00:00",
+ "actualizado": "2026-09-01T00:12:57.779037+00:00",
  "partidos_vivo": [
   {
-   "home": "Fortaleza EC",
-   "away": "Operario-PR",
-   "liga": "Serie B",
+   "home": "Remo",
+   "away": "Coritiba",
+   "liga": "Serie A",
    "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 79,
-   "momentum_away": 21,
+   "momentum_home": 76,
+   "momentum_away": 24,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 12 remates totales",
-    "🚩 7 córners"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚽ 1 gol — Remo buscará el empate",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Deportivo Pasto",
+   "away": "Deportivo Pereira",
+   "liga": "Primera A",
+   "minuto": 53,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 66,
+   "momentum_away": 34,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.12 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 24 remates totales — partido muy intenso"
    ]
   }
  ],
