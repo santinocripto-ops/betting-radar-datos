@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-01T22:08:58.987306+00:00",
+ "actualizado": "2026-09-01T22:17:21.566650+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:17",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -69,12 +75,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "21:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Daria Kasatkina vs Paula Badosa",
+   "apuesta": "SI, US Open WTA: Daria Kasatkina ganara",
+   "usdc": 79225,
+   "prob": 45.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:17"
+  },
+  {
    "titulo": "Detroit Tigers vs. Minnesota Twins: O/U 8.5",
    "apuesta": "SI, mas de 8.5 goles",
    "usdc": 133697,
@@ -773,15 +782,6 @@
    "titulo": "Manacor: Max Basing vs Joel Schwaerzler",
    "apuesta": "SI, Manacor: Max Basing ganara",
    "usdc": 16736,
-   "prob": 15.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:58"
-  },
-  {
-   "titulo": "Manacor: Max Basing vs Joel Schwaerzler",
-   "apuesta": "SI, Manacor: Max Basing ganara",
-   "usdc": 20320,
    "prob": 15.0,
    "n_traders": 2,
    "trader": "RN1",
