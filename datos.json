@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T21:06:05.711056+00:00",
+ "actualizado": "2026-09-01T21:25:26.042884+00:00",
  "partidos_vivo": [
   {
    "home": "Orsomarso W",
@@ -530,8 +530,8 @@
     "cuota": 1.37,
     "pinnacle": true,
     "delta": 3.28,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-01T19:00:00+00:00",
     "ts": "2026-09-01T13:11:27.187464+00:00"
    },
@@ -545,8 +545,8 @@
     "cuota": 1.3,
     "pinnacle": true,
     "delta": 4.17,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T07:07:54.358849+00:00"
    },
@@ -560,8 +560,8 @@
     "cuota": 1.35,
     "pinnacle": true,
     "delta": 4.57,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "perdido",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T07:07:55.237071+00:00"
    },
@@ -575,8 +575,8 @@
     "cuota": 1.45,
     "pinnacle": true,
     "delta": 4.39,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T13:11:19.792379+00:00"
    },
@@ -590,8 +590,8 @@
     "cuota": 1.24,
     "pinnacle": true,
     "delta": 3.08,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T13:11:22.639084+00:00"
    },
@@ -605,8 +605,8 @@
     "cuota": 1.24,
     "pinnacle": false,
     "delta": 3.98,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T13:11:22.996166+00:00"
    },
@@ -620,8 +620,8 @@
     "cuota": 1.44,
     "pinnacle": false,
     "delta": 3.6,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T13:11:25.408473+00:00"
    },
@@ -635,8 +635,8 @@
     "cuota": 1.67,
     "pinnacle": true,
     "delta": 4.22,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T14:09:51.383865+00:00"
    },
@@ -747,11 +747,11 @@
    }
   ],
   "balance": {
-   "ganados": 187,
-   "perdidos": 81,
-   "pendientes": 8,
-   "acierto": 69.8,
-   "total": 268
+   "ganados": 193,
+   "perdidos": 83,
+   "pendientes": 0,
+   "acierto": 69.9,
+   "total": 276
   }
  },
  "mejor_dia": {
