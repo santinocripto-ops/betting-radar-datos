@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T01:10:57.676981+00:00",
+ "actualizado": "2026-09-01T01:20:46.831292+00:00",
  "partidos_vivo": [
   {
    "home": "Real Tomayapo",
@@ -508,8 +508,8 @@
     "cuota": 2.07,
     "pinnacle": true,
     "delta": 4.29,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-08-31T22:00:00+00:00",
     "ts": "2026-08-31T19:06:15.808880+00:00"
    },
@@ -523,8 +523,8 @@
     "cuota": 1.1,
     "pinnacle": true,
     "delta": 4.38,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-08-31T19:15:00+00:00",
     "ts": "2026-08-31T13:10:30.066883+00:00"
    },
@@ -725,11 +725,11 @@
    }
   ],
   "balance": {
-   "ganados": 179,
+   "ganados": 181,
    "perdidos": 80,
-   "pendientes": 2,
-   "acierto": 69.1,
-   "total": 259
+   "pendientes": 0,
+   "acierto": 69.3,
+   "total": 261
   }
  },
  "mejor_dia": {
