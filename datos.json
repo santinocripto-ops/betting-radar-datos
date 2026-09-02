@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-02T00:33:56.207995+00:00",
+ "actualizado": "2026-09-02T00:41:21.046191+00:00",
  "partidos_vivo": [
   {
-   "home": "Universitario de Vinto",
-   "away": "Aurora",
-   "liga": "Copa de la División Profesional",
-   "minuto": 54,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Inter Miami II",
+   "away": "New York City II",
+   "liga": "MLS Next Pro",
+   "minuto": 47,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 8.2,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Aurora buscará el empate"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
