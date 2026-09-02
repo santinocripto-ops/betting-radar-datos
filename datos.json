@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-02T22:59:08.882938+00:00",
+ "actualizado": "2026-09-02T23:07:24.839565+00:00",
  "partidos_vivo": [
   {
-   "home": "Olimpia",
-   "away": "Club Guarani",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 48,
-   "marcador": "0-1",
+   "home": "Jalapa",
+   "away": "Rancho Santana",
+   "liga": "Primera Division",
+   "minuto": 51,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 77,
-   "momentum_away": 23,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Olimpia buscará el empate",
-    "🎯 9 remates totales",
-    "⏱ 42 minutos por jugar — margen amplio"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Rancho Santana buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -182,7 +182,7 @@
    "minuto": 10,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-02",
    "es_hoy": false
   },
@@ -233,12 +233,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49611.0,
-  "balance_total": 39611.0,
+  "capital": 49672.0,
+  "balance_total": 39672.0,
   "balance_dia": 0.0,
-  "ganados": 2471,
+  "ganados": 2472,
   "perdidos": 1064,
-  "pendientes": 3,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -829,8 +829,8 @@
   }
  ],
  "stats_gt": {
-  "n": 2449,
-  "ganados": 1675,
+  "n": 2450,
+  "ganados": 1676,
   "win_rate": 68,
   "hoy": 0
  },
