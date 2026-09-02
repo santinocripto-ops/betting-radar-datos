@@ -1,9 +1,36 @@
 {
- "actualizado": "2026-09-02T13:06:07.574436+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-02T13:14:05.483432+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Yunnan Yukun",
+   "away": "Chongqing Tongliang Long",
+   "liga": "FA Cup",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,12 +96,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Sassuolo",
+   "away": "Frosinone",
+   "liga": "Coppa Italia",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Yunnan Yukun",
    "away": "Chongqing Tongliang Long",
    "liga": "FA Cup",
@@ -174,17 +206,6 @@
    "liga": "J1 League",
    "minuto": 16,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Machida Zelvia",
-   "away": "Kawasaki Frontale",
-   "liga": "J1 League",
-   "minuto": 16,
-   "score": 9.5,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-02",
@@ -538,6 +559,21 @@
     "ts": "2026-09-02T07:04:40.056400+00:00"
    },
    {
+    "home": "FC Luzern",
+    "away": "FC Vaduz",
+    "liga": "Super League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.12,
+    "pinnacle": true,
+    "delta": 4.08,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:30:00+00:00",
+    "ts": "2026-09-02T13:06:07.807669+00:00"
+   },
+   {
     "home": "Al Ula",
     "away": "Al-Raed",
     "liga": "Division 1",
@@ -701,27 +737,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T14:09:51.383865+00:00"
-   },
-   {
-    "home": "Al-Hilal Saudi FC",
-    "away": "Al-Ahli Jeddah",
-    "liga": "Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.18,
-    "pinnacle": false,
-    "delta": 3.71,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:00:00+00:00",
-    "ts": "2026-09-01T11:09:17.913481+00:00"
    }
   ],
   "balance": {
    "ganados": 193,
    "perdidos": 83,
-   "pendientes": 6,
+   "pendientes": 7,
    "acierto": 69.9,
    "total": 276
   }
@@ -813,7 +834,7 @@
   "n": 2413,
   "ganados": 1656,
   "win_rate": 69,
-  "hoy": 8
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 5,
