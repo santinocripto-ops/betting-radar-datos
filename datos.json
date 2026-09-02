@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T20:09:20.005100+00:00",
+ "actualizado": "2026-09-02T20:17:10.215043+00:00",
  "partidos_vivo": [
   {
    "home": "VfL Osnabrück",
@@ -940,8 +940,8 @@
     "cuota": 1.14,
     "pinnacle": true,
     "delta": 3.17,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T17:40:00+00:00",
     "ts": "2026-09-02T12:06:42.610777+00:00"
    },
@@ -955,8 +955,8 @@
     "cuota": 1.73,
     "pinnacle": false,
     "delta": 3.71,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T17:30:00+00:00",
     "ts": "2026-09-02T03:04:19.953889+00:00"
    },
@@ -1007,11 +1007,11 @@
    }
   ],
   "balance": {
-   "ganados": 196,
+   "ganados": 198,
    "perdidos": 83,
-   "pendientes": 12,
-   "acierto": 70.3,
-   "total": 279
+   "pendientes": 10,
+   "acierto": 70.5,
+   "total": 281
   }
  },
  "mejor_dia": {
