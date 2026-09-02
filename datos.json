@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T10:07:44.310701+00:00",
+ "actualizado": "2026-09-02T10:11:26.560460+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -657,7 +657,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "12:00",
+  "cuota": 1.73,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
