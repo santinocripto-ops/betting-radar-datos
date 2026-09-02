@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T20:17:10.215043+00:00",
+ "actualizado": "2026-09-02T20:24:28.655117+00:00",
  "partidos_vivo": [
   {
    "home": "VfL Osnabrück",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:24",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:51",
@@ -291,12 +297,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:00",
    "tipo": "live"
   },
   {
