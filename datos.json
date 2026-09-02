@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T11:57:40.971994+00:00",
+ "actualizado": "2026-09-02T12:06:42.325221+00:00",
  "partidos_vivo": [
   {
    "home": "Cerezo Osaka",
@@ -107,6 +107,60 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "14:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "13:57",
    "tipo": "smart_money"
@@ -122,60 +176,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:41",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "12:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:48",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:40",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -205,9 +205,9 @@
    "cuota": 5.75,
    "score": 10,
    "hora": "10:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1112
+   "n_historico": 1115
   },
   {
    "clave": "btts",
@@ -219,9 +219,9 @@
    "cuota": 1.73,
    "score": 10,
    "hora": "10:00",
-   "resultado": "pendiente",
-   "wr_historico": 57,
-   "n_historico": 1096
+   "resultado": "ganado",
+   "wr_historico": 58,
+   "n_historico": 1102
   }
  ],
  "gol_temprano": [
@@ -232,7 +232,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -243,7 +243,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -254,7 +254,7 @@
    "minuto": 16,
    "score": 8.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -265,7 +265,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -276,7 +276,7 @@
    "minuto": 16,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -287,23 +287,23 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-02",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50084.0,
-  "balance_total": 40084.0,
-  "balance_dia": 61.0,
-  "ganados": 2436,
-  "perdidos": 1040,
-  "pendientes": 9,
-  "ganados_dia": 1,
-  "perdidos_dia": 0,
-  "win_rate": 70.1,
-  "roi": 11.5,
+  "capital": 49851.0,
+  "balance_total": 39851.0,
+  "balance_dia": -172.0,
+  "ganados": 2439,
+  "perdidos": 1044,
+  "pendientes": 2,
+  "ganados_dia": 4,
+  "perdidos_dia": 4,
+  "win_rate": 70.0,
+  "roi": 11.4,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -317,7 +317,7 @@
     "away": "Kawasaki Frontale",
     "liga": "J1 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -326,7 +326,7 @@
     "away": "Nagoya Grampus",
     "liga": "J1 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -335,7 +335,7 @@
     "away": "Omiya Ardija",
     "liga": "J-League Cup",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -344,7 +344,7 @@
     "away": "Imabari",
     "liga": "J-League Cup",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -371,7 +371,7 @@
     "away": "Kyoto Sanga",
     "liga": "J1 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -445,7 +445,7 @@
     "away": "Nagoya Grampus",
     "liga": "J1 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -454,7 +454,7 @@
     "away": "Kyoto Sanga",
     "liga": "J1 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -472,7 +472,7 @@
     "away": "Imabari",
     "liga": "J-League Cup",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -568,8 +568,8 @@
    }
   ],
   "balance": {
-   "ganados": 1315,
-   "perdidos": 893,
+   "ganados": 1321,
+   "perdidos": 896,
    "acierto": 59.6,
    "yield": 13.2,
    "cuota_media": 1.9
@@ -581,7 +581,7 @@
    "away": "FC Tokyo",
    "liga": "J1 League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -904,16 +904,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2406,
-  "ganados": 1653,
+  "n": 2412,
+  "ganados": 1655,
   "win_rate": 69,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 0,
-  "en_juego": 8,
-  "win_rate": 100
+  "ganados": 4,
+  "perdidos": 4,
+  "en_juego": 1,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 71,
