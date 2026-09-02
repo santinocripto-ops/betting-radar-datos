@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T23:15:19.852535+00:00",
+ "actualizado": "2026-09-02T23:23:00.237828+00:00",
  "partidos_vivo": [
   {
    "home": "Jalapa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:24",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:51",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -165,6 +165,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Westchester SC",
+   "away": "Chattanooga Red Wolves",
+   "liga": "USL League One",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": false
+  },
+  {
    "home": "Coquimbo Unido",
    "away": "Universidad de Concepcion",
    "liga": "Primera División",
@@ -213,17 +224,6 @@
    "away": "Mansfield Town",
    "liga": "League One",
    "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-02",
-   "es_hoy": false
-  },
-  {
-   "home": "Wigan",
-   "away": "Milton Keynes Dons",
-   "liga": "League One",
-   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
