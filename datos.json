@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T15:48:15.674557+00:00",
+ "actualizado": "2026-09-02T15:55:23.486599+00:00",
  "partidos_vivo": [
   {
    "home": "Agram W",
@@ -438,7 +438,7 @@
   "balance_dia": -166.0,
   "ganados": 2441,
   "perdidos": 1045,
-  "pendientes": 7,
+  "pendientes": 9,
   "ganados_dia": 6,
   "perdidos_dia": 5,
   "win_rate": 70.0,
@@ -446,7 +446,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3493,
+  "con_cuota_media": 3495,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1051,7 +1051,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 5,
-  "en_juego": 8,
+  "en_juego": 10,
   "win_rate": 55
  },
  "stats_banker": {
