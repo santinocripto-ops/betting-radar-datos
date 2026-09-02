@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T14:15:13.026072+00:00",
+ "actualizado": "2026-09-02T14:22:28.976593+00:00",
  "partidos_vivo": [
   {
    "home": "Sassuolo",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Wigan vs Milton Keynes Dons · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (10 casas)",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -185,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Dynamo Kyiv U19",
+   "away": "LNZ Cherkasy U19",
+   "liga": "U19 League",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "FC Orenburg",
    "away": "Rubin",
    "liga": "Cup",
@@ -234,17 +245,6 @@
    "liga": "J1 League",
    "minuto": 16,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Shimizu S-pulse",
-   "away": "FC Tokyo",
-   "liga": "J1 League",
-   "minuto": 16,
-   "score": 8.8,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-02",
@@ -866,7 +866,7 @@
   "n": 2414,
   "ganados": 1656,
   "win_rate": 69,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 6,
