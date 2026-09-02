@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-02T06:27:31.042601+00:00",
+ "actualizado": "2026-09-02T06:34:57.105653+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "08:34",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -62,12 +68,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "02:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "02:03",
    "tipo": "smart_money"
   },
   {
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Zhangjiagang: Mitsuki Wei Kang Leong vs Koki Matsuda",
+   "apuesta": "SI, Zhangjiagang: Mitsuki Wei Kang Leong ganara",
+   "usdc": 15443,
+   "prob": 83.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "08:34"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
    "usdc": 92155,
@@ -777,15 +786,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "19:32"
-  },
-  {
-   "titulo": "US Open ATP: Dane Sweeny vs Corentin Moutet",
-   "apuesta": "SI, US Open ATP: Dane Sweeny ganara",
-   "usdc": 103549,
-   "prob": 32.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "17:04"
   }
  ],
  "stats_gt": {
