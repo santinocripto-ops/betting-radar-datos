@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-02T22:28:10.521705+00:00",
+ "actualizado": "2026-09-02T22:36:06.441953+00:00",
  "partidos_vivo": [
   {
-   "home": "H&H Export",
-   "away": "Walter Ferretti",
-   "liga": "Primera Division",
+   "home": "Olimpia",
+   "away": "Club Guarani",
+   "liga": "Division Profesional - Clausura",
    "minuto": 48,
-   "marcador": "1-0",
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 77,
+   "momentum_away": 23,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Walter Ferretti buscará el empate"
+    "⚽ 1 gol — Olimpia buscará el empate",
+    "🎯 9 remates totales",
+    "⏱ 42 minutos por jugar — margen amplio"
    ]
   }
  ],
