@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T17:33:59.590472+00:00",
+ "actualizado": "2026-09-02T17:41:43.337348+00:00",
  "partidos_vivo": [
   {
    "home": "Udinese",
@@ -67,6 +67,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:33",
    "tipo": "live"
@@ -94,12 +100,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -205,6 +205,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "HNK Cibalia",
+   "away": "Orijent 1919",
+   "liga": "First NL",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Panserraikos",
    "away": "Atromitos",
    "liga": "Cup",
@@ -254,17 +265,6 @@
    "liga": "Bundesliga",
    "minuto": 22,
    "score": 8.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Paris Saint Germain W",
-   "away": "Eintracht Frankfurt W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 14,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-02",
@@ -914,7 +914,7 @@
   "n": 2419,
   "ganados": 1660,
   "win_rate": 69,
-  "hoy": 26
+  "hoy": 27
  },
  "stats_dia": {
   "ganados": 11,
