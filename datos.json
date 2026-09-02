@@ -1,33 +1,153 @@
 {
- "actualizado": "2026-09-02T19:09:47.319009+00:00",
+ "actualizado": "2026-09-02T19:28:19.313788+00:00",
  "partidos_vivo": [
   {
-   "home": "Sportfreunde Lotte",
-   "away": "Bergisch Gladbach",
-   "liga": "Regionalliga - West",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Bohemians 1905",
+   "away": "FK Jablonec",
+   "liga": "Czech Liga",
+   "minuto": 65,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 9.6,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚽ 1 gol — Bohemians 1905 buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Wiedenbrück",
-   "away": "Borussia M'gladbach II",
-   "liga": "Regionalliga - West",
-   "minuto": 62,
+   "home": "Groene Ster",
+   "away": "Heerjansdam",
+   "liga": "KNVB Beker",
+   "minuto": 64,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Lierop",
+   "away": "Zwaluwen",
+   "liga": "KNVB Beker",
+   "minuto": 65,
    "marcador": "0-3",
    "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Hercules",
+   "away": "EVV",
+   "liga": "KNVB Beker",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — EVV buscará el empate"
+   ]
+  },
+  {
+   "home": "Aston Villa U21",
+   "away": "Brondby U21",
+   "liga": "Premier League International Cup",
+   "minuto": 64,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "TOGB",
+   "away": "Katwijk",
+   "liga": "KNVB Beker",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.6,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Katwijk buscará el empate"
+   ]
+  },
+  {
+   "home": "Everton U21",
+   "away": "Milan II",
+   "liga": "Premier League International Cup",
+   "minuto": 65,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Flénu",
+   "away": "Onhaye",
+   "liga": "First Amateur Division",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -36,15 +156,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Onhaye buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:28",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -108,12 +234,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
    "tipo": "live"
   }
@@ -185,6 +305,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "PAOK",
+   "away": "OFI",
+   "liga": "Cup",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Reading",
    "away": "Mansfield Town",
    "liga": "League One",
@@ -238,17 +369,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-02",
    "es_hoy": true
-  },
-  {
-   "home": "Motherwell",
-   "away": "Dundee Utd",
-   "liga": "Premiership",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -258,7 +378,7 @@
   "balance_dia": -41.0,
   "ganados": 2458,
   "perdidos": 1053,
-  "pendientes": 19,
+  "pendientes": 20,
   "ganados_dia": 23,
   "perdidos_dia": 13,
   "win_rate": 70.0,
@@ -266,7 +386,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3530,
+  "con_cuota_media": 3531,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -770,8 +890,8 @@
     "cuota": 1.3,
     "pinnacle": true,
     "delta": 5.27,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T16:15:00+00:00",
     "ts": "2026-09-02T14:06:25.312508+00:00"
    },
@@ -785,8 +905,8 @@
     "cuota": 1.3,
     "pinnacle": false,
     "delta": 4.38,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T16:15:00+00:00",
     "ts": "2026-09-02T14:06:25.564824+00:00"
    },
@@ -807,11 +927,11 @@
    }
   ],
   "balance": {
-   "ganados": 194,
+   "ganados": 196,
    "perdidos": 83,
-   "pendientes": 14,
-   "acierto": 70.0,
-   "total": 277
+   "pendientes": 12,
+   "acierto": 70.3,
+   "total": 279
   }
  },
  "mejor_dia": {
@@ -901,12 +1021,12 @@
   "n": 2432,
   "ganados": 1666,
   "win_rate": 69,
-  "hoy": 41
+  "hoy": 42
  },
  "stats_dia": {
   "ganados": 24,
   "perdidos": 13,
-  "en_juego": 20,
+  "en_juego": 21,
   "win_rate": 65
  },
  "stats_banker": {
