@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T19:36:02.697198+00:00",
+ "actualizado": "2026-09-02T19:43:40.935399+00:00",
  "partidos_vivo": [
   {
    "home": "Bohemians 1905",
@@ -166,6 +166,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:43",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "21:35",
@@ -228,12 +234,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:00",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:00",
    "tipo": "live"
   }
@@ -305,6 +305,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Atletico el Vigia FC",
+   "away": "Club Atletico Barinas",
+   "liga": "Segunda División",
+   "minuto": 14,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "PAOK",
    "away": "OFI",
    "liga": "Cup",
@@ -354,17 +365,6 @@
    "liga": "League One",
    "minuto": 15,
    "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "QPR",
-   "away": "Cardiff",
-   "liga": "Championship",
-   "minuto": 15,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-02",
@@ -1021,7 +1021,7 @@
   "n": 2432,
   "ganados": 1666,
   "win_rate": 69,
-  "hoy": 42
+  "hoy": 43
  },
  "stats_dia": {
   "ganados": 24,
