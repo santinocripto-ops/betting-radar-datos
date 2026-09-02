@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T23:07:24.839565+00:00",
+ "actualizado": "2026-09-02T23:15:19.852535+00:00",
  "partidos_vivo": [
   {
    "home": "Jalapa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "01:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -84,12 +90,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:24",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:51",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -238,7 +238,7 @@
   "balance_dia": 0.0,
   "ganados": 2472,
   "perdidos": 1064,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.9,
@@ -246,7 +246,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3538,
+  "con_cuota_media": 3539,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -514,7 +514,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Coquimbo Unido",
+   "away": "Universidad de Concepcion",
+   "liga": "Primera División",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -837,7 +845,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 0
  },
  "stats_banker": {
