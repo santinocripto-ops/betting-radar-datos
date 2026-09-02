@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T16:03:59.553146+00:00",
+ "actualizado": "2026-09-02T16:12:17.053255+00:00",
  "partidos_vivo": [
   {
    "home": "Agram W",
@@ -227,6 +227,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "18:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:03",
    "tipo": "live"
@@ -278,24 +296,6 @@
    "texto": "──────────────────────────────",
    "hora": "16:58",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -365,6 +365,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Csikszereda MC W",
+   "away": "Breidablik W",
+   "liga": "UEFA Europa Cup - Women",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Zbrojovka Brno",
+   "away": "Hradec Králové",
+   "liga": "Czech Liga",
+   "minuto": 12,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Flora Tallinn",
+   "away": "Tammeka",
+   "liga": "Meistriliiga",
+   "minuto": 10,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Znicz Pruszków",
    "away": "Cracovia Krakow",
    "liga": "Cup",
@@ -394,39 +427,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Komárov",
-   "away": "Doubravka",
-   "liga": "4. liga - Divizie A",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Slovácko II",
-   "away": "Vrchovina",
-   "liga": "3. liga - MSFL",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Dynamo Kyiv U19",
-   "away": "LNZ Cherkasy U19",
-   "liga": "U19 League",
-   "minuto": 16,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-02",
    "es_hoy": true
   }
@@ -721,13 +721,6 @@
    "liga": "4. liga - Divizie A",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Yunnan Yukun",
-   "away": "Chongqing Tongliang Long",
-   "liga": "FA Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -1053,7 +1046,7 @@
   "n": 2417,
   "ganados": 1659,
   "win_rate": 69,
-  "hoy": 16
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 9,
