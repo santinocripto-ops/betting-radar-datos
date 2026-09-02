@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T17:41:43.337348+00:00",
+ "actualizado": "2026-09-02T17:49:23.580344+00:00",
  "partidos_vivo": [
   {
    "home": "Udinese",
@@ -278,7 +278,7 @@
   "balance_dia": 23.0,
   "ganados": 2446,
   "perdidos": 1046,
-  "pendientes": 18,
+  "pendientes": 19,
   "ganados_dia": 11,
   "perdidos_dia": 6,
   "win_rate": 70.0,
@@ -286,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3510,
+  "con_cuota_media": 3511,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -919,7 +919,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 6,
-  "en_juego": 19,
+  "en_juego": 20,
   "win_rate": 65
  },
  "stats_banker": {
