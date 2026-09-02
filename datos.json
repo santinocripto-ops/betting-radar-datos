@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-02T14:58:29.549285+00:00",
+ "actualizado": "2026-09-02T15:06:32.254046+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -39,18 +51,6 @@
    "texto": "⚽ Al Wehda Club vs Damac · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
    "hora": "16:06",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:06",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
