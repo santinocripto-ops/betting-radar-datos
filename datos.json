@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-02T05:42:44.014834+00:00",
+ "actualizado": "2026-09-02T05:50:13.288685+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "07:50",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -67,12 +73,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "00:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
    "hora": "00:08",
    "tipo": "smart_money"
   }
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 92155,
+   "prob": 59.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "07:50"
+  },
+  {
    "titulo": "US Open WTA: Daria Kasatkina vs Paula Badosa",
    "apuesta": "SI, US Open WTA: Daria Kasatkina ganara",
    "usdc": 79225,
@@ -777,15 +786,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "17:04"
-  },
-  {
-   "titulo": "Manacor: Max Basing vs Joel Schwaerzler",
-   "apuesta": "SI, Manacor: Max Basing ganara",
-   "usdc": 16736,
-   "prob": 15.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:58"
   }
  ],
  "stats_gt": {
