@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T19:00:55.097803+00:00",
+ "actualizado": "2026-09-02T19:09:47.319009+00:00",
  "partidos_vivo": [
   {
    "home": "Sportfreunde Lotte",
@@ -45,6 +45,24 @@
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -98,24 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:43",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -135,15 +135,6 @@
    "liga": "League One",
    "mercado": "Over 1.5 goles",
    "cuota": 1.25,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02"
-  },
-  {
-   "home": "Al Wehda Club",
-   "away": "Damac",
-   "liga": "Division 1",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.23,
    "resultado": "pendiente",
    "fecha": "2026-09-02"
   }
@@ -175,7 +166,7 @@
    "hora": "10:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1130
+   "n_historico": 1131
   },
   {
    "clave": "btts",
@@ -193,6 +184,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Reading",
+   "away": "Mansfield Town",
+   "liga": "League One",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
   {
    "home": "Wigan",
    "away": "Milton Keynes Dons",
@@ -247,35 +249,24 @@
    "resultado": "pendiente",
    "fecha": "2026-09-02",
    "es_hoy": true
-  },
-  {
-   "home": "Celtic",
-   "away": "Aberdeen",
-   "liga": "Premiership",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50180.0,
-  "balance_total": 40180.0,
-  "balance_dia": 157.0,
-  "ganados": 2452,
-  "perdidos": 1048,
-  "pendientes": 22,
-  "ganados_dia": 17,
-  "perdidos_dia": 8,
-  "win_rate": 70.1,
-  "roi": 11.5,
+  "capital": 49982.0,
+  "balance_total": 39982.0,
+  "balance_dia": -41.0,
+  "ganados": 2458,
+  "perdidos": 1053,
+  "pendientes": 19,
+  "ganados_dia": 23,
+  "perdidos_dia": 13,
+  "win_rate": 70.0,
+  "roi": 11.4,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3522,
+  "con_cuota_media": 3530,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -537,13 +528,27 @@
   ],
   "balance": {
    "ganados": 1343,
-   "perdidos": 901,
+   "perdidos": 902,
    "acierto": 59.8,
    "yield": 13.7,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Preston North End U21",
+   "away": "Wolves U21",
+   "liga": "Premier League Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Aluminij",
+   "away": "Celje",
+   "liga": "1. SNL",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Baltika",
    "away": "Krylia Sovetov",
@@ -563,26 +568,12 @@
    "away": "Atromitos",
    "liga": "Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Fatih Karagümrük",
    "away": "Kayserispor",
    "liga": "1. Lig",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Austria Vienna",
-   "away": "WSG Wattens",
-   "liga": "Bundesliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Csikszereda MC W",
-   "away": "Breidablik W",
-   "liga": "UEFA Europa Cup - Women",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -907,21 +898,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2425,
-  "ganados": 1664,
+  "n": 2432,
+  "ganados": 1666,
   "win_rate": 69,
-  "hoy": 40
+  "hoy": 41
  },
  "stats_dia": {
-  "ganados": 17,
-  "perdidos": 8,
-  "en_juego": 24,
-  "win_rate": 68
+  "ganados": 24,
+  "perdidos": 13,
+  "en_juego": 20,
+  "win_rate": 65
  },
  "stats_banker": {
-  "ganados": 71,
+  "ganados": 72,
   "perdidos": 29,
-  "pendientes": 3,
+  "pendientes": 2,
   "win_rate": 71
  },
  "marca": {
