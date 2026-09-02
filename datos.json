@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T13:58:12.218063+00:00",
+ "actualizado": "2026-09-02T14:06:45.130799+00:00",
  "partidos_vivo": [
   {
    "home": "Luzino",
@@ -26,6 +26,60 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Wigan vs Milton Keynes Dons · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (10 casas)",
+   "hora": "16:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Al Wehda Club vs Damac · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
+   "hora": "16:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:28",
@@ -42,64 +96,29 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:42",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Wigan",
+   "away": "Milton Keynes Dons",
+   "liga": "League One",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02"
+  },
+  {
+   "home": "Al Wehda Club",
+   "away": "Damac",
+   "liga": "Division 1",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.23,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -127,7 +146,7 @@
    "hora": "10:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1115
+   "n_historico": 1116
   },
   {
    "clave": "btts",
@@ -140,8 +159,8 @@
    "score": 10,
    "hora": "10:00",
    "resultado": "ganado",
-   "wr_historico": 58,
-   "n_historico": 1102
+   "wr_historico": 57,
+   "n_historico": 1103
   }
  ],
  "gol_temprano": [
@@ -174,7 +193,7 @@
    "minuto": 14,
    "score": 8.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": true
   },
@@ -214,16 +233,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49912.0,
-  "balance_total": 39912.0,
-  "balance_dia": -111.0,
-  "ganados": 2440,
-  "perdidos": 1044,
-  "pendientes": 5,
-  "ganados_dia": 5,
-  "perdidos_dia": 4,
+  "capital": 49857.0,
+  "balance_total": 39857.0,
+  "balance_dia": -166.0,
+  "ganados": 2441,
+  "perdidos": 1045,
+  "pendientes": 3,
+  "ganados_dia": 6,
+  "perdidos_dia": 5,
   "win_rate": 70.0,
-  "roi": 11.5,
+  "roi": 11.4,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -300,7 +319,7 @@
     "away": "Banants II",
     "liga": "First League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -428,7 +447,7 @@
     "away": "Banants II",
     "liga": "First League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -488,8 +507,8 @@
    }
   ],
   "balance": {
-   "ganados": 1321,
-   "perdidos": 896,
+   "ganados": 1322,
+   "perdidos": 897,
    "acierto": 59.6,
    "yield": 13.2,
    "cuota_media": 1.9
@@ -500,13 +519,6 @@
    "home": "Yunnan Yukun",
    "away": "Chongqing Tongliang Long",
    "liga": "FA Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Shimizu S-pulse",
-   "away": "FC Tokyo",
-   "liga": "J1 League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -831,21 +843,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2413,
+  "n": 2414,
   "ganados": 1656,
   "win_rate": 69,
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 5,
-  "perdidos": 4,
-  "en_juego": 4,
-  "win_rate": 56
+  "ganados": 6,
+  "perdidos": 5,
+  "en_juego": 2,
+  "win_rate": 55
  },
  "stats_banker": {
   "ganados": 71,
   "perdidos": 29,
-  "pendientes": 0,
+  "pendientes": 2,
   "win_rate": 71
  },
  "marca": {
