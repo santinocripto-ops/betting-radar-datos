@@ -1,70 +1,56 @@
 {
- "actualizado": "2026-09-02T17:49:23.580344+00:00",
+ "actualizado": "2026-09-02T17:57:49.334510+00:00",
  "partidos_vivo": [
   {
-   "home": "Udinese",
-   "away": "Venezia",
-   "liga": "Coppa Italia",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Servette Chênois W",
+   "away": "Sparta Praha W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
+   "momentum_home": 86,
+   "momentum_away": 14,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 18 remates totales"
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Sparta Praha W pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "East Riffa",
-   "away": "Sitra",
-   "liga": "Premier League",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Vålerenga W",
+   "away": "Radomlje W",
+   "liga": "UEFA Europa Cup - Women",
+   "minuto": 54,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 80,
+   "momentum_away": 20,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "P-Iirot",
-   "away": "ÅIFK",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 63,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "🔥 5 goles — partido muy abierto",
+    "⚡ Radomlje W pierde por 3 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 10,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:57",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -100,12 +86,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -838,6 +818,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Udinese Calcio vs. Venezia FC: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 21658,
+   "prob": 13.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "19:57"
+  },
+  {
    "titulo": "US Open ATP: Jan Choinski vs Botic van de Zandschulp",
    "apuesta": "SI, US Open ATP: Jan Choinski ganara",
    "usdc": 72987,
@@ -899,15 +888,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:41"
-  },
-  {
-   "titulo": "Zhangjiagang: Mitsuki Wei Kang Leong vs Koki Matsuda",
-   "apuesta": "SI, Zhangjiagang: Mitsuki Wei Kang Leong ganara",
-   "usdc": 15443,
-   "prob": 83.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "08:34"
   }
  ],
  "stats_gt": {
