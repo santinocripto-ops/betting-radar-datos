@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T00:55:36.358620+00:00",
+ "actualizado": "2026-09-02T01:03:24.297918+00:00",
  "partidos_vivo": [
   {
    "home": "Inter Miami II",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "03:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -84,18 +96,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:20",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "22:12",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -152,7 +152,7 @@
    "minuto": 14,
    "score": 9.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-01",
    "es_hoy": false
   },
@@ -214,13 +214,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50023.0,
-  "balance_total": 40023.0,
-  "balance_dia": 0.0,
-  "ganados": 2435,
+  "capital": 50084.0,
+  "balance_total": 40084.0,
+  "balance_dia": 61.0,
+  "ganados": 2436,
   "perdidos": 1040,
-  "pendientes": 2,
-  "ganados_dia": 0,
+  "pendientes": 1,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 70.1,
   "roi": 11.5,
@@ -810,16 +810,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2405,
-  "ganados": 1652,
+  "n": 2406,
+  "ganados": 1653,
   "win_rate": 69,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 71,
