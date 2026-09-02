@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T15:55:23.486599+00:00",
+ "actualizado": "2026-09-02T16:03:59.553146+00:00",
  "partidos_vivo": [
   {
    "home": "Agram W",
@@ -227,6 +227,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:03",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:48",
    "tipo": "live"
@@ -284,18 +296,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Wigan vs Milton Keynes Dons · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (10 casas)",
-   "hora": "16:06",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Al Wehda Club vs Damac · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
-   "hora": "16:06",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -426,27 +426,27 @@
    "minuto": 16,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-02",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49857.0,
-  "balance_total": 39857.0,
-  "balance_dia": -166.0,
-  "ganados": 2441,
+  "capital": 50040.0,
+  "balance_total": 40040.0,
+  "balance_dia": 17.0,
+  "ganados": 2444,
   "perdidos": 1045,
-  "pendientes": 9,
-  "ganados_dia": 6,
+  "pendientes": 7,
+  "ganados_dia": 9,
   "perdidos_dia": 5,
   "win_rate": 70.0,
-  "roi": 11.4,
+  "roi": 11.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3495,
+  "con_cuota_media": 3496,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -716,6 +716,13 @@
  },
  "reentradas": [
   {
+   "home": "Komárov",
+   "away": "Doubravka",
+   "liga": "4. liga - Divizie A",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Yunnan Yukun",
    "away": "Chongqing Tongliang Long",
    "liga": "FA Cup",
@@ -970,6 +977,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
+   "apuesta": "SI, US Open ATP: Brandon Nakashima ganara",
+   "usdc": 216896,
+   "prob": 46.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:02"
+  },
+  {
    "titulo": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
    "apuesta": "SI, US Open ATP: Daniel Merida Aguilar ganara",
    "usdc": 301800,
@@ -1031,28 +1047,19 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xf",
    "hora": "07:50"
-  },
-  {
-   "titulo": "US Open WTA: Daria Kasatkina vs Paula Badosa",
-   "apuesta": "SI, US Open WTA: Daria Kasatkina ganara",
-   "usdc": 79225,
-   "prob": 45.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:17"
   }
  ],
  "stats_gt": {
-  "n": 2414,
-  "ganados": 1656,
+  "n": 2417,
+  "ganados": 1659,
   "win_rate": 69,
   "hoy": 16
  },
  "stats_dia": {
-  "ganados": 6,
+  "ganados": 9,
   "perdidos": 5,
-  "en_juego": 10,
-  "win_rate": 55
+  "en_juego": 8,
+  "win_rate": 64
  },
  "stats_banker": {
   "ganados": 71,
