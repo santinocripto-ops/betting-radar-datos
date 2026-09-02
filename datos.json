@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-02T13:36:11.990732+00:00",
+ "actualizado": "2026-09-02T13:43:35.627886+00:00",
  "partidos_vivo": [
   {
-   "home": "Yunnan Yukun",
-   "away": "Chongqing Tongliang Long",
-   "liga": "FA Cup",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Luzino",
+   "away": "Wisla Plock",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.5,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga goleadora: 3.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
