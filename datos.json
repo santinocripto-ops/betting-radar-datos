@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-02T12:35:41.541386+00:00",
+ "actualizado": "2026-09-02T12:42:48.797936+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:42",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "13:57",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
    "tipo": "smart_money"
   }
  ],
@@ -730,6 +730,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Como: Matej Dodig vs Henry Bernet",
+   "apuesta": "SI, Como: Matej Dodig ganara",
+   "usdc": 52246,
+   "prob": 61.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "14:42"
+  },
+  {
    "titulo": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Pl",
    "apuesta": "SI, Counter-Strike: BIG ganara",
    "usdc": 95000,
@@ -791,15 +800,6 @@
    "n_traders": 1,
    "trader": "beachboy4",
    "hora": "22:20"
-  },
-  {
-   "titulo": "Will Bristol City FC win on 2026-09-01?",
-   "apuesta": "NO, Bristol City no ganara",
-   "usdc": 69586,
-   "prob": 73.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "21:59"
   }
  ],
  "stats_gt": {
