@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-02T01:03:24.297918+00:00",
- "partidos_vivo": [
-  {
-   "home": "Inter Miami II",
-   "away": "New York City II",
-   "liga": "MLS Next Pro",
-   "minuto": 47,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  }
- ],
+ "actualizado": "2026-09-02T01:11:33.564801+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
