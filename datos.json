@@ -1,29 +1,29 @@
 {
- "actualizado": "2026-09-02T15:37:16.918788+00:00",
+ "actualizado": "2026-09-02T15:48:15.674557+00:00",
  "partidos_vivo": [
   {
-   "home": "Vanspor FK",
-   "away": "Batman Petrolspor",
-   "liga": "1. Lig",
-   "minuto": 53,
+   "home": "Agram W",
+   "away": "Minsk W",
+   "liga": "UEFA Europa Cup - Women",
+   "minuto": 57,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.5,
    "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
+   "momentum_home": 17,
+   "momentum_away": 83,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Vanspor FK buscará el empate",
-    "🎯 12 remates totales",
-    "⏱ 37 minutos por jugar — tiempo suficiente"
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "⚽ 1 gol — Agram W buscará el empate",
+    "⏱ 33 minutos por jugar — tiempo suficiente"
    ]
   },
   {
-   "home": "Nestos Chrisoupolis",
-   "away": "AEK Athens FC",
+   "home": "Piešťany",
+   "away": "Beluša",
    "liga": "Cup",
    "minuto": 54,
    "marcador": "0-1",
@@ -36,55 +36,207 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Nestos Chrisoupolis buscará el empate"
+    "⚽ 1 gol — Piešťany buscará el empate"
    ]
   },
   {
-   "home": "Beskid",
-   "away": "Śląsk Wrocław II",
+   "home": "Boleráz",
+   "away": "Šoporňa",
    "liga": "Cup",
-   "minuto": 58,
-   "marcador": "1-2",
+   "minuto": 57,
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Górnik Polkowice",
-   "away": "Polonia Warszawa",
+   "home": "Brezno",
+   "away": "Lokomotíva Zvolen",
    "liga": "Cup",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Brezno buscará el empate"
+   ]
+  },
+  {
+   "home": "Fiľakovo",
+   "away": "Dukla Banská Bystrica",
+   "liga": "Cup",
+   "minuto": 55,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Kysucké Nové Mesto",
+   "away": "Čadca",
+   "liga": "Cup",
+   "minuto": 56,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Lokomotíva Košice",
+   "away": "Slávia TU Košice",
+   "liga": "Cup",
+   "minuto": 57,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Fomat Martin",
+   "away": "Skalica",
+   "liga": "Cup",
+   "minuto": 57,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Nõmme United",
+   "away": "Vaprus",
+   "liga": "Cup",
+   "minuto": 59,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Púchov",
+   "away": "Spartak Trnava",
+   "liga": "Cup",
+   "minuto": 59,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Samtredia",
+   "away": "FC Iberia 1999",
+   "liga": "David Kipiani Cup",
+   "minuto": 53,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — FC Iberia 1999 buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 10,
+ "partidos_vivo_total": 23,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:48",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -144,18 +296,6 @@
    "texto": "⚽ Al Wehda Club vs Damac · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
    "hora": "16:06",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -225,6 +365,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Znicz Pruszków",
+   "away": "Cracovia Krakow",
+   "liga": "Cup",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "ML Vitebsk",
+   "away": "Belshina",
+   "liga": "Premier League",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Górnik Łęczna",
    "away": "Stal Mielec",
    "liga": "Cup",
@@ -263,28 +425,6 @@
    "liga": "U19 League",
    "minuto": 16,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Orenburg",
-   "away": "Rubin",
-   "liga": "Cup",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Sassuolo",
-   "away": "Frosinone",
-   "liga": "Coppa Italia",
-   "minuto": 13,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-02",
@@ -906,7 +1046,7 @@
   "n": 2414,
   "ganados": 1656,
   "win_rate": 69,
-  "hoy": 14
+  "hoy": 16
  },
  "stats_dia": {
   "ganados": 6,
