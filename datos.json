@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T13:28:54.945048+00:00",
+ "actualizado": "2026-09-02T13:36:11.990732+00:00",
  "partidos_vivo": [
   {
    "home": "Yunnan Yukun",
@@ -219,7 +219,7 @@
   "balance_dia": -111.0,
   "ganados": 2440,
   "perdidos": 1044,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 5,
   "perdidos_dia": 4,
   "win_rate": 70.0,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3488,
+  "con_cuota_media": 3489,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -839,7 +839,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 4,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 56
  },
  "stats_banker": {
