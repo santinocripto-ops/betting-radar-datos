@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T06:05:26.199289+00:00",
+ "actualizado": "2026-09-02T06:12:56.968292+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -493,6 +493,21 @@
     "ts": "2026-09-02T03:04:19.953889+00:00"
    },
    {
+    "home": "Jadran LP",
+    "away": "Dubrava Zagreb",
+    "liga": "First NL",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 5.11,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T15:00:00+00:00",
+    "ts": "2026-09-02T06:05:26.339372+00:00"
+   },
+   {
     "home": "Stoke City",
     "away": "Norwich",
     "liga": "Championship",
@@ -686,27 +701,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T15:05:55.837576+00:00"
-   },
-   {
-    "home": "Sarıyer",
-    "away": "Pendikspor",
-    "liga": "1. Lig",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.55,
-    "pinnacle": true,
-    "delta": 3.41,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-01T17:00:00+00:00",
-    "ts": "2026-09-01T14:09:45.933468+00:00"
    }
   ],
   "balance": {
    "ganados": 193,
    "perdidos": 83,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 69.9,
    "total": 276
   }
