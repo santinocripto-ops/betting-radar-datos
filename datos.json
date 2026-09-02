@@ -1,250 +1,56 @@
 {
- "actualizado": "2026-09-02T20:24:28.655117+00:00",
+ "actualizado": "2026-09-02T20:32:08.429442+00:00",
  "partidos_vivo": [
   {
-   "home": "VfL Osnabrück",
-   "away": "Bayern München",
-   "liga": "DFB Pokal",
-   "minuto": 55,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.62 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Celtic",
-   "away": "Aberdeen",
-   "liga": "Premiership",
-   "minuto": 53,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.95 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Aberdeen pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Dundee",
-   "away": "ST Johnstone",
-   "liga": "Premiership",
-   "minuto": 57,
+   "home": "PAOK",
+   "away": "OFI",
+   "liga": "Cup",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.95 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Kilmarnock",
-   "away": "ST Mirren",
-   "liga": "Premiership",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.95 goles/partido",
-    "⚽ 1 gol — Kilmarnock buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Motherwell",
-   "away": "Dundee Utd",
-   "liga": "Premiership",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 84,
-   "momentum_away": 16,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.95 goles/partido",
-    "⚽ 1 gol — Dundee Utd buscará el empate",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Barnsley",
-   "away": "Blackpool",
-   "liga": "League One",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 51,
-   "momentum_away": 49,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Luton",
-   "away": "Stockport County",
-   "liga": "League One",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚽ 1 gol — Stockport County buscará el empate",
-    "🎯 8 remates totales"
-   ]
-  },
-  {
-   "home": "Wigan",
-   "away": "Milton Keynes Dons",
-   "liga": "League One",
-   "minuto": 57,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 66,
-   "momentum_away": 34,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Milton Keynes Dons pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Millwall",
-   "away": "Wrexham",
-   "liga": "Championship",
-   "minuto": 54,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
+   "score": 9.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "QPR",
-   "away": "Cardiff",
-   "liga": "Championship",
-   "minuto": 57,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "West Brom",
-   "away": "Charlton",
-   "liga": "Championship",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.92 goles/partido",
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Burton Albion",
-   "away": "AFC Wimbledon",
-   "liga": "League One",
-   "minuto": 56,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Atletico el Vigia FC",
+   "away": "Club Atletico Barinas",
+   "liga": "Segunda División",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ AFC Wimbledon pierde por 2 — atacará sin freno"
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Atletico el Vigia FC buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 12,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:31",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -297,12 +103,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:00",
    "tipo": "live"
   },
   {
@@ -458,7 +258,7 @@
   "balance_dia": -551.0,
   "ganados": 2460,
   "perdidos": 1059,
-  "pendientes": 16,
+  "pendientes": 17,
   "ganados_dia": 25,
   "perdidos_dia": 19,
   "win_rate": 69.9,
@@ -466,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3535,
+  "con_cuota_media": 3536,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -736,6 +536,13 @@
  },
  "reentradas": [
   {
+   "home": "PAOK",
+   "away": "OFI",
+   "liga": "Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Luton",
    "away": "Stockport County",
    "liga": "League One",
@@ -767,13 +574,6 @@
    "home": "Baltika",
    "away": "Krylia Sovetov",
    "liga": "Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "HNK Cibalia",
-   "away": "Orijent 1919",
-   "liga": "First NL",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
   }
@@ -1106,7 +906,7 @@
  "stats_dia": {
   "ganados": 26,
   "perdidos": 19,
-  "en_juego": 17,
+  "en_juego": 18,
   "win_rate": 58
  },
  "stats_banker": {
