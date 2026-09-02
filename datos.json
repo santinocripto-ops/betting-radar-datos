@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-02T02:56:14.944625+00:00",
+ "actualizado": "2026-09-02T03:04:19.724247+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "05:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -69,12 +75,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -106,7 +106,7 @@
    "hora": "10:00",
    "resultado": "pendiente",
    "wr_historico": 62,
-   "n_historico": 1109
+   "n_historico": 1110
   },
   {
    "clave": "btts",
@@ -120,7 +120,7 @@
    "hora": "10:00",
    "resultado": "pendiente",
    "wr_historico": 57,
-   "n_historico": 1093
+   "n_historico": 1094
   }
  ],
  "gol_temprano": [
@@ -468,9 +468,9 @@
   ],
   "balance": {
    "ganados": 1313,
-   "perdidos": 889,
+   "perdidos": 891,
    "acierto": 59.6,
-   "yield": 13.3,
+   "yield": 13.2,
    "cuota_media": 1.9
   }
  },
