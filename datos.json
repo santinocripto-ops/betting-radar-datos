@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T11:50:25.780688+00:00",
+ "actualizado": "2026-09-02T11:57:40.971994+00:00",
  "partidos_vivo": [
   {
    "home": "Cerezo Osaka",
@@ -107,6 +107,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:57",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:05",
    "tipo": "smart_money"
@@ -169,12 +175,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "11:40",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:03",
    "tipo": "smart_money"
   }
  ],
@@ -831,6 +831,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Pl",
+   "apuesta": "SI, Counter-Strike: BIG ganara",
+   "usdc": 95000,
+   "prob": 63.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "13:57"
+  },
+  {
    "titulo": "Plovdiv 3: Thomas Faurel vs Calvin Hemery",
    "apuesta": "SI, Plovdiv 3: Thomas Faurel ganara",
    "usdc": 16493,
@@ -892,15 +901,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "21:59"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the September 2026",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
-   "usdc": 107739,
-   "prob": 40.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "21:33"
   }
  ],
  "stats_gt": {
