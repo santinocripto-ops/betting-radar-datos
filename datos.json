@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T18:26:27.479644+00:00",
+ "actualizado": "2026-09-02T18:35:01.320390+00:00",
  "partidos_vivo": [
   {
    "home": "Slavia Sofia",
@@ -167,6 +167,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:34",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:34",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:34",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:16",
    "tipo": "live"
@@ -218,24 +236,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:57",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:33",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -387,7 +387,7 @@
   "balance_dia": 157.0,
   "ganados": 2452,
   "perdidos": 1048,
-  "pendientes": 16,
+  "pendientes": 17,
   "ganados_dia": 17,
   "perdidos_dia": 8,
   "win_rate": 70.1,
@@ -395,7 +395,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3516,
+  "con_cuota_media": 3517,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -665,6 +665,13 @@
  },
  "reentradas": [
   {
+   "home": "HNK Cibalia",
+   "away": "Orijent 1919",
+   "liga": "First NL",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Panserraikos",
    "away": "Atromitos",
    "liga": "Cup",
@@ -698,13 +705,6 @@
    "liga": "Czech Liga",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Znicz Pruszków",
-   "away": "Cracovia Krakow",
-   "liga": "Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
   }
  ],
  "pagina_smart": {
@@ -954,6 +954,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Marcos Giron vs Ignacio Buse",
+   "apuesta": "SI, US Open ATP: Marcos Giron ganara",
+   "usdc": 96356,
+   "prob": 43.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "20:34"
+  },
+  {
+   "titulo": "US Open ATP: Marcos Giron vs Ignacio Buse",
+   "apuesta": "SI, US Open ATP: Marcos Giron ganara",
+   "usdc": 173630,
+   "prob": 43.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "20:34"
+  },
+  {
    "titulo": "Udinese Calcio vs. Venezia FC: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 21658,
@@ -1006,24 +1024,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "14:42"
-  },
-  {
-   "titulo": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Pl",
-   "apuesta": "SI, Counter-Strike: BIG ganara",
-   "usdc": 95000,
-   "prob": 63.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "13:57"
-  },
-  {
-   "titulo": "Plovdiv 3: Thomas Faurel vs Calvin Hemery",
-   "apuesta": "SI, Plovdiv 3: Thomas Faurel ganara",
-   "usdc": 16493,
-   "prob": 91.3,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:41"
   }
  ],
  "stats_gt": {
@@ -1035,7 +1035,7 @@
  "stats_dia": {
   "ganados": 17,
   "perdidos": 8,
-  "en_juego": 18,
+  "en_juego": 19,
   "win_rate": 68
  },
  "stats_banker": {
