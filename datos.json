@@ -1,9 +1,45 @@
 {
- "actualizado": "2026-09-02T10:11:26.560460+00:00",
+ "actualizado": "2026-09-02T10:19:34.233442+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "12:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:18",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -38,42 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "08:34",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "08:05",
    "tipo": "smart_money"
   }
  ],
@@ -125,11 +125,66 @@
  ],
  "gol_temprano": [
   {
-   "home": "United Kolkata",
-   "away": "East Bengal",
-   "liga": "Calcutta Premier Division",
+   "home": "INAC Kobe Leonessa W",
+   "away": "Parceiro Nagano W",
+   "liga": "WE League",
    "minuto": 16,
-   "score": 9.0,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "V-varen Nagasaki",
+   "away": "Gamba Osaka",
+   "liga": "J1 League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Shimizu S-pulse",
+   "away": "FC Tokyo",
+   "liga": "J1 League",
+   "minuto": 16,
+   "score": 8.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Sanfrecce Hiroshima",
+   "away": "Nagoya Grampus",
+   "liga": "J1 League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Machida Zelvia",
+   "away": "Kawasaki Frontale",
+   "liga": "J1 League",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Cerezo Osaka",
+   "away": "Kashiwa Reysol",
+   "liga": "J1 League",
+   "minuto": 16,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-02",
@@ -743,7 +798,7 @@
   "n": 2406,
   "ganados": 1653,
   "win_rate": 69,
-  "hoy": 1
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 1,
