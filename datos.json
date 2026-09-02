@@ -1,48 +1,168 @@
 {
- "actualizado": "2026-09-02T18:16:23.598830+00:00",
+ "actualizado": "2026-09-02T18:26:27.479644+00:00",
  "partidos_vivo": [
   {
-   "home": "Servette Chênois W",
-   "away": "Sparta Praha W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 53,
-   "marcador": "2-0",
+   "home": "Slavia Sofia",
+   "away": "Levski Sofia",
+   "liga": "First League",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 21,
+   "momentum_away": 79,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — Levski Sofia buscará el empate",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "Hapoel Beer Sheva",
+   "away": "Hapoel Haifa",
+   "liga": "Ligat Ha'al",
+   "minuto": 64,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
+   "momentum_home": 68,
+   "momentum_away": 32,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
     "⚽ 2 goles — partido activo",
-    "⚡ Sparta Praha W pierde por 2 — atacará sin freno"
+    "🎯 14 remates totales"
    ]
   },
   {
-   "home": "Vålerenga W",
-   "away": "Radomlje W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 54,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
+   "home": "Fatih Karagümrük",
+   "away": "Kayserispor",
+   "liga": "1. Lig",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 80,
-   "momentum_away": 20,
+   "momentum_home": 28,
+   "momentum_away": 72,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "🔥 5 goles — partido muy abierto",
-    "⚡ Radomlje W pierde por 3 — atacará sin freno"
+    "⚽ 1 gol — Fatih Karagümrük buscará el empate",
+    "🎯 12 remates totales",
+    "🎯 6 remates a puerta"
+   ]
+  },
+  {
+   "home": "Sivasspor",
+   "away": "Mardin 1969",
+   "liga": "1. Lig",
+   "minuto": 65,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 37,
+   "momentum_away": 63,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales",
+    "⏱ 25 minutos por jugar — margen justo"
+   ]
+  },
+  {
+   "home": "Abu Qair Semad",
+   "away": "Al Ittihad",
+   "liga": "Premier League",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 56,
+   "momentum_away": 44,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.04 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Ceramica Cleopatra",
+   "away": "Future FC",
+   "liga": "Premier League",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 52,
+   "momentum_away": 48,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.04 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Future FC pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Larisa",
+   "away": "Olympiakos Piraeus",
+   "liga": "Cup",
+   "minuto": 63,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Resovia Rzeszów",
+   "away": "Arka Gdynia",
+   "liga": "Cup",
+   "minuto": 62,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -267,7 +387,7 @@
   "balance_dia": 157.0,
   "ganados": 2452,
   "perdidos": 1048,
-  "pendientes": 14,
+  "pendientes": 16,
   "ganados_dia": 17,
   "perdidos_dia": 8,
   "win_rate": 70.1,
@@ -275,7 +395,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3514,
+  "con_cuota_media": 3516,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -915,7 +1035,7 @@
  "stats_dia": {
   "ganados": 17,
   "perdidos": 8,
-  "en_juego": 16,
+  "en_juego": 18,
   "win_rate": 68
  },
  "stats_banker": {
