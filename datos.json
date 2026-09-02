@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T17:08:40.373222+00:00",
+ "actualizado": "2026-09-02T17:17:14.938116+00:00",
  "partidos_vivo": [
   {
    "home": "Zenit",
@@ -106,76 +106,76 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:07",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:07",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "18:51",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:16",
    "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "19:08",
+   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -245,6 +245,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Panserraikos",
+   "away": "Atromitos",
+   "liga": "Cup",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Køge W",
+   "away": "PSV/Eindhoven W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 17,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Carl Zeiss Jena",
+   "away": "Altglienicke",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Fatih Karagümrük",
+   "away": "Kayserispor",
+   "liga": "1. Lig",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": true
+  },
+  {
    "home": "Austria Vienna",
    "away": "WSG Wattens",
    "liga": "Bundesliga",
@@ -261,50 +305,6 @@
    "liga": "UEFA Champions League Women",
    "minuto": 14,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Hranice",
-   "away": "Unie Hlubina",
-   "liga": "3. liga - MSFL",
-   "minuto": 19,
-   "score": 8.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Csikszereda MC W",
-   "away": "Breidablik W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Zbrojovka Brno",
-   "away": "Hradec Králové",
-   "liga": "Czech Liga",
-   "minuto": 12,
-   "score": 8.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Flora Tallinn",
-   "away": "Tammeka",
-   "liga": "Meistriliiga",
-   "minuto": 10,
-   "score": 8.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-02",
@@ -831,8 +831,8 @@
     "cuota": 1.25,
     "pinnacle": true,
     "delta": 5.11,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T15:00:00+00:00",
     "ts": "2026-09-02T06:05:26.339372+00:00"
    },
@@ -853,11 +853,11 @@
    }
   ],
   "balance": {
-   "ganados": 193,
+   "ganados": 194,
    "perdidos": 83,
-   "pendientes": 14,
-   "acierto": 69.9,
-   "total": 276
+   "pendientes": 13,
+   "acierto": 70.0,
+   "total": 277
   }
  },
  "mejor_dia": {
@@ -947,7 +947,7 @@
   "n": 2419,
   "ganados": 1660,
   "win_rate": 69,
-  "hoy": 22
+  "hoy": 26
  },
  "stats_dia": {
   "ganados": 11,
