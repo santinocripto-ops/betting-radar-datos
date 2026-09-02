@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-02T14:51:09.095639+00:00",
+ "actualizado": "2026-09-02T14:58:29.549285+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:58",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -63,18 +75,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "16:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:28",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -749,6 +749,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+   "apuesta": "SI, US Open ATP: Daniel Merida Aguilar ganara",
+   "usdc": 301800,
+   "prob": 39.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "16:58"
+  },
+  {
+   "titulo": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
+   "apuesta": "SI, US Open ATP: Daniel Merida Aguilar ganara",
+   "usdc": 195276,
+   "prob": 39.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "16:58"
+  },
+  {
    "titulo": "Como: Matej Dodig vs Henry Bernet",
    "apuesta": "SI, Como: Matej Dodig ganara",
    "usdc": 52246,
@@ -801,24 +819,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "00:17"
-  },
-  {
-   "titulo": "Detroit Tigers vs. Minnesota Twins: O/U 8.5",
-   "apuesta": "SI, mas de 8.5 goles",
-   "usdc": 133697,
-   "prob": 52.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "00:08"
-  },
-  {
-   "titulo": "US Open ATP: Arthur Fery vs Lorenzo Musetti",
-   "apuesta": "SI, US Open ATP: Arthur Fery ganara",
-   "usdc": 131590,
-   "prob": 22.5,
-   "n_traders": 1,
-   "trader": "beachboy4",
-   "hora": "22:20"
   }
  ],
  "stats_gt": {
