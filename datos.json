@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T07:04:39.817423+00:00",
+ "actualizado": "2026-09-02T07:12:05.721869+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -478,6 +478,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "FC Luzern",
+    "away": "FC Vaduz",
+    "liga": "Super League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 2.35,
+    "pinnacle": true,
+    "delta": 2.83,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:30:00+00:00",
+    "ts": "2026-09-02T07:04:40.056400+00:00"
+   },
+   {
     "home": "HNK Cibalia",
     "away": "Orijent 1919",
     "liga": "First NL",
@@ -686,27 +701,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T14:09:48.130905+00:00"
-   },
-   {
-    "home": "Wolfsberger AC",
-    "away": "Lask Linz",
-    "liga": "Bundesliga",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.15,
-    "pinnacle": true,
-    "delta": 3.98,
-    "marcador": "1-3",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T17:30:00+00:00",
-    "ts": "2026-09-01T15:05:55.837576+00:00"
    }
   ],
   "balance": {
    "ganados": 193,
    "perdidos": 83,
-   "pendientes": 2,
+   "pendientes": 3,
    "acierto": 69.9,
    "total": 276
   }
