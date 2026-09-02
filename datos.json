@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-02T14:06:45.130799+00:00",
+ "actualizado": "2026-09-02T14:15:13.026072+00:00",
  "partidos_vivo": [
   {
-   "home": "Luzino",
-   "away": "Wisla Plock",
-   "liga": "Cup",
-   "minuto": 49,
-   "marcador": "0-2",
+   "home": "Sassuolo",
+   "away": "Frosinone",
+   "liga": "Coppa Italia",
+   "minuto": 52,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 40,
+   "momentum_away": 60,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Olimpik-Mobiuz",
+   "away": "Metalourg",
+   "liga": "Pro League A",
+   "minuto": 46,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -556,6 +576,66 @@
     "ts": "2026-09-02T11:05:46.216266+00:00"
    },
    {
+    "home": "Wigan",
+    "away": "Milton Keynes Dons",
+    "liga": "League One",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.29,
+    "pinnacle": false,
+    "delta": 4.97,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T14:06:29.435229+00:00"
+   },
+   {
+    "home": "Luton",
+    "away": "Stockport County",
+    "liga": "League One",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 11,
+    "cuota": 1.67,
+    "pinnacle": true,
+    "delta": 4.85,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T14:06:29.979519+00:00"
+   },
+   {
+    "home": "Luton",
+    "away": "Stockport County",
+    "liga": "League One",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 3.1,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T14:06:30.147039+00:00"
+   },
+   {
+    "home": "QPR",
+    "away": "Cardiff",
+    "liga": "Championship",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 3.29,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T14:06:31.711237+00:00"
+   },
+   {
     "home": "FC Luzern",
     "away": "FC Vaduz",
     "liga": "Super League",
@@ -616,6 +696,36 @@
     "ts": "2026-09-02T03:04:19.953889+00:00"
    },
    {
+    "home": "Al Wehda Club",
+    "away": "Damac",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 6,
+    "cuota": 1.3,
+    "pinnacle": true,
+    "delta": 5.27,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T16:15:00+00:00",
+    "ts": "2026-09-02T14:06:25.312508+00:00"
+   },
+   {
+    "home": "Al Wehda Club",
+    "away": "Damac",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 5,
+    "cuota": 1.3,
+    "pinnacle": false,
+    "delta": 4.38,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T16:15:00+00:00",
+    "ts": "2026-09-02T14:06:25.564824+00:00"
+   },
+   {
     "home": "Jadran LP",
     "away": "Dubrava Zagreb",
     "liga": "First NL",
@@ -659,102 +769,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-01T18:45:00+00:00",
     "ts": "2026-09-01T07:07:54.358849+00:00"
-   },
-   {
-    "home": "Portsmouth",
-    "away": "Derby",
-    "liga": "Championship",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 9,
-    "cuota": 1.35,
-    "pinnacle": true,
-    "delta": 4.57,
-    "marcador": "0-2",
-    "resultado": "perdido",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T07:07:55.237071+00:00"
-   },
-   {
-    "home": "Peterborough",
-    "away": "Stevenage",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.45,
-    "pinnacle": true,
-    "delta": 4.39,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T13:11:19.792379+00:00"
-   },
-   {
-    "home": "West Ham",
-    "away": "Wolves",
-    "liga": "Championship",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.24,
-    "pinnacle": true,
-    "delta": 3.08,
-    "marcador": "4-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T13:11:22.639084+00:00"
-   },
-   {
-    "home": "West Ham",
-    "away": "Wolves",
-    "liga": "Championship",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.24,
-    "pinnacle": false,
-    "delta": 3.98,
-    "marcador": "4-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T13:11:22.996166+00:00"
-   },
-   {
-    "home": "Preston",
-    "away": "Bristol City",
-    "liga": "Championship",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.44,
-    "pinnacle": false,
-    "delta": 3.6,
-    "marcador": "1-3",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T13:11:25.408473+00:00"
-   },
-   {
-    "home": "Doncaster",
-    "away": "Notts County",
-    "liga": "League One",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 9,
-    "cuota": 1.67,
-    "pinnacle": true,
-    "delta": 4.22,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T18:45:00+00:00",
-    "ts": "2026-09-01T14:09:51.383865+00:00"
    }
   ],
   "balance": {
    "ganados": 193,
    "perdidos": 83,
-   "pendientes": 7,
+   "pendientes": 13,
    "acierto": 69.9,
    "total": 276
   }
@@ -851,7 +871,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 5,
-  "en_juego": 2,
+  "en_juego": 4,
   "win_rate": 55
  },
  "stats_banker": {
