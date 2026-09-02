@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T22:04:58.166279+00:00",
+ "actualizado": "2026-09-02T22:12:52.517294+00:00",
  "partidos_vivo": [
   {
    "home": "H&H Export",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "00:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:12",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Mjallby AIF vs Djurgardens IF · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuot",
@@ -84,18 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:51",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:35",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -165,6 +165,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Coquimbo Unido",
+   "away": "Universidad de Concepcion",
+   "liga": "Primera División",
+   "minuto": 11,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-02",
+   "es_hoy": false
+  },
+  {
    "home": "H&H Export",
    "away": "Walter Ferretti",
    "liga": "Primera Division",
@@ -216,17 +227,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-02",
-   "es_hoy": false
-  },
-  {
-   "home": "Luton",
-   "away": "Stockport County",
-   "liga": "League One",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-02",
    "es_hoy": false
   }
@@ -518,6 +518,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Mjallby AIF",
+    "away": "Djurgardens IF",
+    "liga": "Allsvenskan",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.24,
+    "pinnacle": false,
+    "delta": 3.94,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T17:00:00+00:00",
+    "ts": "2026-09-02T22:04:45.621944+00:00"
+   },
+   {
+    "home": "NEOM",
+    "away": "Al Khaleej Saihat",
+    "liga": "Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 11,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 4.37,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T16:30:00+00:00",
+    "ts": "2026-09-02T22:04:44.364186+00:00"
+   },
+   {
     "home": "Colegiales",
     "away": "Midland",
     "liga": "Primera Nacional",
@@ -711,42 +741,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-02T16:15:00+00:00",
     "ts": "2026-09-02T14:06:25.312508+00:00"
-   },
-   {
-    "home": "Al Wehda Club",
-    "away": "Damac",
-    "liga": "Division 1",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 5,
-    "cuota": 1.3,
-    "pinnacle": false,
-    "delta": 4.38,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T16:15:00+00:00",
-    "ts": "2026-09-02T14:06:25.564824+00:00"
-   },
-   {
-    "home": "Jadran LP",
-    "away": "Dubrava Zagreb",
-    "liga": "First NL",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 5.11,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T15:00:00+00:00",
-    "ts": "2026-09-02T06:05:26.339372+00:00"
    }
   ],
   "balance": {
    "ganados": 204,
    "perdidos": 85,
-   "pendientes": 2,
+   "pendientes": 4,
    "acierto": 70.6,
    "total": 289
   }
@@ -755,6 +755,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
+   "apuesta": "SI, US Open ATP: Valentin Vacherot ganara",
+   "usdc": 63600,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "00:12"
+  },
   {
    "titulo": "US Open ATP: Alexander Bublik vs Adrian Mannarino",
    "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
@@ -817,15 +826,6 @@
    "n_traders": 1,
    "trader": "beachboy4",
    "hora": "18:43"
-  },
-  {
-   "titulo": "US Open ATP: Brandon Nakashima vs Alex Michelsen",
-   "apuesta": "SI, US Open ATP: Brandon Nakashima ganara",
-   "usdc": 216896,
-   "prob": 46.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:02"
   }
  ],
  "stats_gt": {
@@ -837,7 +837,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
