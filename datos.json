@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-02T09:03:51.136978+00:00",
+ "actualizado": "2026-09-02T09:11:11.825656+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -478,6 +478,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Colegiales",
+    "away": "Midland",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.57,
+    "pinnacle": true,
+    "delta": 4.44,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-02T23:00:00+00:00",
+    "ts": "2026-09-02T09:03:51.298352+00:00"
+   },
+   {
     "home": "FC Luzern",
     "away": "FC Vaduz",
     "liga": "Super League",
@@ -686,27 +701,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-01T17:30:00+00:00",
     "ts": "2026-09-01T12:10:34.269463+00:00"
-   },
-   {
-    "home": "Rapperswil",
-    "away": "SC Kriens",
-    "liga": "Challenge League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.12,
-    "pinnacle": false,
-    "delta": 3.28,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-01T17:30:00+00:00",
-    "ts": "2026-09-01T14:09:48.130905+00:00"
    }
   ],
   "balance": {
    "ganados": 193,
    "perdidos": 83,
-   "pendientes": 3,
+   "pendientes": 4,
    "acierto": 69.9,
    "total": 276
   }
