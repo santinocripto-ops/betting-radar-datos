@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-02T23:30:37.667179+00:00",
+ "actualizado": "2026-09-02T23:38:42.689816+00:00",
  "partidos_vivo": [
   {
-   "home": "Jalapa",
-   "away": "Rancho Santana",
-   "liga": "Primera Division",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Flamengo",
+   "away": "Mirassol",
+   "liga": "Serie A",
+   "minuto": 47,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 86,
+   "momentum_away": 14,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Rancho Santana buscará el empate"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Mirassol pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
