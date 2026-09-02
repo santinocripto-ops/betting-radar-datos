@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-02T10:57:36.081225+00:00",
+ "actualizado": "2026-09-02T11:05:45.913415+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "13:05",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -61,18 +73,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:03",
    "tipo": "smart_money"
   }
@@ -198,7 +198,7 @@
   "balance_dia": 61.0,
   "ganados": 2436,
   "perdidos": 1040,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 70.1,
@@ -206,7 +206,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3484,
+  "con_cuota_media": 3485,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -474,7 +474,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Shimizu S-pulse",
+   "away": "FC Tokyo",
+   "liga": "J1 League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -803,7 +811,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 100
  },
  "stats_banker": {
