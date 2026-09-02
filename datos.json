@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-02T10:34:16.761405+00:00",
+ "actualizado": "2026-09-02T10:41:49.669794+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -55,12 +61,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:03",
    "tipo": "smart_money"
   },
@@ -722,6 +722,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Plovdiv 3: Thomas Faurel vs Calvin Hemery",
+   "apuesta": "SI, Plovdiv 3: Thomas Faurel ganara",
+   "usdc": 16493,
+   "prob": 91.3,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:41"
+  },
+  {
    "titulo": "Zhangjiagang: Mitsuki Wei Kang Leong vs Koki Matsuda",
    "apuesta": "SI, Zhangjiagang: Mitsuki Wei Kang Leong ganara",
    "usdc": 15443,
@@ -783,15 +792,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "21:33"
-  },
-  {
-   "titulo": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
-   "apuesta": "SI, US Open ATP: Francisco Comesana ganara",
-   "usdc": 65153,
-   "prob": 52.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "19:32"
   }
  ],
  "stats_gt": {
