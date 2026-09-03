@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T14:55:10.632097+00:00",
+ "actualizado": "2026-09-03T15:03:06.650351+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "14:49",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:22",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -110,8 +110,8 @@
    "score": 8.4,
    "hora": "18:30",
    "resultado": "pendiente",
-   "wr_historico": 77,
-   "n_historico": 137
+   "wr_historico": 78,
+   "n_historico": 139
   },
   {
    "clave": "over25",
@@ -125,7 +125,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1143
+   "n_historico": 1147
   },
   {
    "clave": "btts",
@@ -139,7 +139,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1126
+   "n_historico": 1129
   }
  ],
  "gol_temprano": [
@@ -172,7 +172,7 @@
    "minuto": 10,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-03",
    "es_hoy": true
   },
@@ -183,7 +183,7 @@
    "minuto": 16,
    "score": 8.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-03",
    "es_hoy": true
   },
@@ -212,14 +212,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49329.0,
-  "balance_total": 39329.0,
-  "balance_dia": -343.0,
-  "ganados": 2477,
-  "perdidos": 1070,
-  "pendientes": 6,
-  "ganados_dia": 5,
-  "perdidos_dia": 6,
+  "capital": 49335.0,
+  "balance_total": 39335.0,
+  "balance_dia": -337.0,
+  "ganados": 2479,
+  "perdidos": 1071,
+  "pendientes": 3,
+  "ganados_dia": 7,
+  "perdidos_dia": 7,
   "win_rate": 69.8,
   "roi": 11.1,
   "stake": 100.0,
@@ -298,7 +298,7 @@
     "away": "Aktobe Jas",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -307,7 +307,7 @@
     "away": "Didube 2014",
     "liga": "Liga 3",
     "hora": "14:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -316,7 +316,7 @@
     "away": "Wieczysta Kraków",
     "liga": "Cup",
     "hora": "14:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -426,7 +426,7 @@
     "away": "Aktobe Jas",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -435,7 +435,7 @@
     "away": "Gonio",
     "liga": "Liga 3",
     "hora": "14:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -444,7 +444,7 @@
     "away": "Didube 2014",
     "liga": "Liga 3",
     "hora": "14:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -486,10 +486,10 @@
    }
   ],
   "balance": {
-   "ganados": 1356,
-   "perdidos": 913,
+   "ganados": 1361,
+   "perdidos": 915,
    "acierto": 59.8,
-   "yield": 13.5,
+   "yield": 13.6,
    "cuota_media": 1.9
   }
  },
@@ -499,7 +499,7 @@
    "away": "Merani Tbilisi",
    "liga": "Liga 3",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Arys",
@@ -829,16 +829,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2457,
-  "ganados": 1678,
+  "n": 2459,
+  "ganados": 1679,
   "win_rate": 68,
   "hoy": 9
  },
  "stats_dia": {
-  "ganados": 5,
-  "perdidos": 6,
-  "en_juego": 7,
-  "win_rate": 45
+  "ganados": 7,
+  "perdidos": 7,
+  "en_juego": 4,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 74,
