@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T04:07:11.076555+00:00",
+ "actualizado": "2026-09-03T04:14:37.701837+00:00",
  "partidos_vivo": [
   {
    "home": "Vancouver Whitecaps",
@@ -216,7 +216,7 @@
   "balance_dia": -233.0,
   "ganados": 2475,
   "perdidos": 1068,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 3,
   "perdidos_dia": 4,
   "win_rate": 69.9,
@@ -224,7 +224,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3544,
+  "con_cuota_media": 3545,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -543,8 +543,8 @@
     "cuota": 1.57,
     "pinnacle": true,
     "delta": 4.44,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-02T23:00:00+00:00",
     "ts": "2026-09-02T09:03:51.298352+00:00"
    },
@@ -558,8 +558,8 @@
     "cuota": 1.05,
     "pinnacle": true,
     "delta": 3.62,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-02T22:30:00+00:00",
     "ts": "2026-09-02T15:06:32.481552+00:00"
    },
@@ -730,11 +730,11 @@
    }
   ],
   "balance": {
-   "ganados": 204,
-   "perdidos": 85,
-   "pendientes": 4,
-   "acierto": 70.6,
-   "total": 289
+   "ganados": 205,
+   "perdidos": 86,
+   "pendientes": 2,
+   "acierto": 70.4,
+   "total": 291
   }
  },
  "mejor_dia": {
@@ -823,7 +823,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 4,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 43
  },
  "stats_banker": {
