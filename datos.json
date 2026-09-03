@@ -1,30 +1,36 @@
 {
- "actualizado": "2026-09-03T01:31:06.740461+00:00",
+ "actualizado": "2026-09-03T01:39:13.208299+00:00",
  "partidos_vivo": [
   {
-   "home": "Barcelona SC",
-   "away": "Independiente del Valle",
-   "liga": "Liga Pro",
+   "home": "Vitoria",
+   "away": "Vasco DA Gama",
+   "liga": "Copa Do Brasil",
    "minuto": 47,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.5,
    "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
+   "momentum_home": 40,
+   "momentum_away": 60,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 10 remates totales",
-    "🎯 6 remates a puerta"
+    "🔒 Liga muy cerrada: 1.79 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:38",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "00:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "23:10",
    "tipo": "smart_money"
   }
  ],
@@ -731,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Jaime Faria vs Carlos Alcaraz",
+   "apuesta": "SI, US Open ATP: Jaime Faria ganara",
+   "usdc": 92302,
+   "prob": 26.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "03:38"
+  },
+  {
    "titulo": "US Open ATP: Valentin Vacherot vs Kamil Majchrzak",
    "apuesta": "SI, US Open ATP: Valentin Vacherot ganara",
    "usdc": 63600,
@@ -792,15 +801,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:57"
-  },
-  {
-   "titulo": "US Open ATP: Jan Choinski vs Botic van de Zandschulp",
-   "apuesta": "SI, US Open ATP: Jan Choinski ganara",
-   "usdc": 72987,
-   "prob": 21.0,
-   "n_traders": 1,
-   "trader": "beachboy4",
-   "hora": "18:43"
   }
  ],
  "stats_gt": {
