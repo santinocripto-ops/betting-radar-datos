@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T16:00:23.443203+00:00",
+ "actualizado": "2026-09-03T16:07:38.705877+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -125,7 +125,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1147
+   "n_historico": 1152
   },
   {
    "clave": "btts",
@@ -139,7 +139,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1129
+   "n_historico": 1131
   }
  ],
  "gol_temprano": [
@@ -172,7 +172,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-03",
    "es_hoy": true
   },
@@ -183,7 +183,7 @@
    "minuto": 10,
    "score": 9.2,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-03",
    "es_hoy": true
   },
@@ -212,14 +212,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49335.0,
-  "balance_total": 39335.0,
-  "balance_dia": -337.0,
-  "ganados": 2479,
-  "perdidos": 1071,
-  "pendientes": 6,
-  "ganados_dia": 7,
-  "perdidos_dia": 7,
+  "capital": 49341.0,
+  "balance_total": 39341.0,
+  "balance_dia": -331.0,
+  "ganados": 2481,
+  "perdidos": 1072,
+  "pendientes": 3,
+  "ganados_dia": 9,
+  "perdidos_dia": 8,
   "win_rate": 69.8,
   "roi": 11.1,
   "stake": 100.0,
@@ -325,7 +325,7 @@
     "away": "Qatar SC",
     "liga": "Stars League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -462,7 +462,7 @@
     "away": "Qatar SC",
     "liga": "Stars League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -486,10 +486,10 @@
    }
   ],
   "balance": {
-   "ganados": 1361,
-   "perdidos": 915,
-   "acierto": 59.8,
-   "yield": 13.6,
+   "ganados": 1363,
+   "perdidos": 920,
+   "acierto": 59.7,
+   "yield": 13.4,
    "cuota_media": 1.9
   }
  },
@@ -499,7 +499,7 @@
    "away": "Kauno Žalgiris",
    "liga": "Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Margveti 2006",
@@ -836,16 +836,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2459,
-  "ganados": 1679,
+  "n": 2461,
+  "ganados": 1680,
   "win_rate": 68,
   "hoy": 11
  },
  "stats_dia": {
-  "ganados": 7,
-  "perdidos": 7,
-  "en_juego": 7,
-  "win_rate": 50
+  "ganados": 9,
+  "perdidos": 8,
+  "en_juego": 4,
+  "win_rate": 53
  },
  "stats_banker": {
   "ganados": 74,
