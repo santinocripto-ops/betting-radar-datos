@@ -1,30 +1,56 @@
 {
- "actualizado": "2026-09-03T22:34:56.728721+00:00",
+ "actualizado": "2026-09-03T22:42:18.452606+00:00",
  "partidos_vivo": [
   {
-   "home": "America de Cali",
-   "away": "Alianza Valledupar",
-   "liga": "Primera A",
-   "minuto": 52,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Leones del Norte",
+   "away": "Orense SC",
+   "liga": "Liga Pro",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 69,
+   "momentum_away": 31,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Alianza Valledupar pierde por 2 — atacará sin freno",
-    "🎯 13 remates totales"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Deportivo Recoleta",
+   "away": "Cerro Porteno",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 54,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 55,
+   "momentum_away": 45,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Deportivo Recoleta pierde por 2 — atacará sin freno",
+    "🎯 14 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Slatina vs Chindia Targoviste · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (7 casas)",
@@ -90,12 +116,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "22:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:54",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -747,6 +767,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Botic van de Zandschulp vs Alex de Minaur",
+   "apuesta": "SI, US Open ATP: Botic van de Zandschulp ganara",
+   "usdc": 102355,
+   "prob": 37.5,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "00:41"
+  },
+  {
    "titulo": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
    "apuesta": "SI, US Open ATP: Benjamin Bonzi ganara",
    "usdc": 89687,
@@ -808,15 +837,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xf",
    "hora": "15:44"
-  },
-  {
-   "titulo": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
-   "apuesta": "SI, US Open ATP: Jan-Lennard Struff ganara",
-   "usdc": 82382,
-   "prob": 40.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "15:30"
   }
  ],
  "stats_gt": {
