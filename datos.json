@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T17:04:12.916490+00:00",
+ "actualizado": "2026-09-03T17:04:45.557129+00:00",
  "partidos_vivo": [
   {
    "home": "Tychy 71",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Toulouse vs Lille · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
+   "hora": "19:04",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -84,22 +96,19 @@
    "texto": "──────────────────────────────",
    "hora": "18:42",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:21",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Toulouse",
+   "away": "Lille",
+   "liga": "Ligue 1",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03"
+  },
   {
    "home": "Mjallby AIF",
    "away": "Djurgardens IF",
@@ -871,7 +880,7 @@
  "stats_banker": {
   "ganados": 74,
   "perdidos": 29,
-  "pendientes": 2,
+  "pendientes": 3,
   "win_rate": 72
  },
  "marca": {
