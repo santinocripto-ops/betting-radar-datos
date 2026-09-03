@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T18:57:58.544097+00:00",
+ "actualizado": "2026-09-03T19:05:44.974104+00:00",
  "partidos_vivo": [
   {
    "home": "Hapoel Tel Aviv",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
    "hora": "20:57",
@@ -150,12 +156,6 @@
    "texto": "⚽ Toulouse vs Lille · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
    "hora": "19:04",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -168,24 +168,6 @@
    "cuota": 1.25,
    "resultado": "pendiente",
    "fecha": "2026-09-03"
-  },
-  {
-   "home": "Mjallby AIF",
-   "away": "Djurgardens IF",
-   "liga": "Allsvenskan",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.2,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02"
-  },
-  {
-   "home": "NEOM",
-   "away": "Al Khaleej Saihat",
-   "liga": "Pro League",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.2,
-   "resultado": "pendiente",
-   "fecha": "2026-09-02"
   }
  ],
  "mejores_dia": [
@@ -229,7 +211,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1136
+   "n_historico": 1138
   }
  ],
  "gol_temprano": [
@@ -302,20 +284,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49086.0,
-  "balance_total": 39086.0,
-  "balance_dia": -586.0,
-  "ganados": 2482,
-  "perdidos": 1075,
-  "pendientes": 10,
-  "ganados_dia": 10,
-  "perdidos_dia": 11,
+  "capital": 49153.0,
+  "balance_total": 39153.0,
+  "balance_dia": -519.0,
+  "ganados": 2485,
+  "perdidos": 1076,
+  "pendientes": 8,
+  "ganados_dia": 13,
+  "perdidos_dia": 12,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3567,
+  "con_cuota_media": 3569,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -577,9 +559,9 @@
   ],
   "balance": {
    "ganados": 1368,
-   "perdidos": 925,
-   "acierto": 59.7,
-   "yield": 13.4,
+   "perdidos": 927,
+   "acierto": 59.6,
+   "yield": 13.3,
    "cuota_media": 1.9
   }
  },
@@ -589,7 +571,7 @@
    "away": "Djurgardens IF",
    "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Tychy 71",
@@ -926,21 +908,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2463,
-  "ganados": 1680,
+  "n": 2466,
+  "ganados": 1682,
   "win_rate": 68,
   "hoy": 21
  },
  "stats_dia": {
-  "ganados": 10,
-  "perdidos": 11,
-  "en_juego": 12,
-  "win_rate": 48
+  "ganados": 15,
+  "perdidos": 12,
+  "en_juego": 8,
+  "win_rate": 56
  },
  "stats_banker": {
-  "ganados": 74,
+  "ganados": 76,
   "perdidos": 29,
-  "pendientes": 3,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
