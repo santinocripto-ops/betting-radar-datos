@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T03:23:25.329298+00:00",
+ "actualizado": "2026-09-03T03:30:38.774728+00:00",
  "partidos_vivo": [
   {
    "home": "Vancouver Whitecaps",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "05:30",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -88,12 +94,6 @@
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Mjallby AIF vs Djurgardens IF · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuot",
-   "hora": "00:04",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ NEOM vs Al Khaleej Saihat · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (",
    "hora": "00:04",
    "tipo": "banker"
   }
@@ -738,6 +738,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Manchester City win the 2026-27 UEFA Champions League Championshi",
+   "apuesta": "SI, Manchester City ganara",
+   "usdc": 150785,
+   "prob": 9.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "05:30"
+  },
+  {
    "titulo": "Will CF América win on 2026-09-02?",
    "apuesta": "NO, CF América no ganara",
    "usdc": 112115,
@@ -796,15 +805,6 @@
    "apuesta": "SI, US Open ATP: Marcos Giron ganara",
    "usdc": 96356,
    "prob": 43.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "20:34"
-  },
-  {
-   "titulo": "US Open ATP: Marcos Giron vs Ignacio Buse",
-   "apuesta": "SI, US Open ATP: Marcos Giron ganara",
-   "usdc": 173630,
-   "prob": 43.5,
    "n_traders": 3,
    "trader": "RN1",
    "hora": "20:34"
