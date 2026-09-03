@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T13:58:14.975589+00:00",
+ "actualizado": "2026-09-03T14:05:29.047139+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "16:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -69,12 +75,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:02",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -111,7 +111,7 @@
    "hora": "18:30",
    "resultado": "pendiente",
    "wr_historico": 77,
-   "n_historico": 135
+   "n_historico": 137
   },
   {
    "clave": "over25",
@@ -123,9 +123,9 @@
    "cuota": null,
    "score": 10,
    "hora": "11:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1141
+   "n_historico": 1143
   },
   {
    "clave": "btts",
@@ -137,9 +137,9 @@
    "cuota": null,
    "score": 10,
    "hora": "11:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1125
+   "n_historico": 1126
   }
  ],
  "gol_temprano": [
@@ -172,7 +172,7 @@
    "minuto": 10,
    "score": 8.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-03",
    "es_hoy": true
   },
@@ -212,14 +212,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49384.0,
-  "balance_total": 39384.0,
-  "balance_dia": -288.0,
-  "ganados": 2476,
-  "perdidos": 1069,
-  "pendientes": 6,
-  "ganados_dia": 4,
-  "perdidos_dia": 5,
+  "capital": 49329.0,
+  "balance_total": 39329.0,
+  "balance_dia": -343.0,
+  "ganados": 2477,
+  "perdidos": 1070,
+  "pendientes": 4,
+  "ganados_dia": 5,
+  "perdidos_dia": 6,
   "win_rate": 69.8,
   "roi": 11.1,
   "stake": 100.0,
@@ -235,7 +235,7 @@
     "away": "Betlemi",
     "liga": "Liga 3",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -363,7 +363,7 @@
     "away": "Betlemi",
     "liga": "Liga 3",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -486,10 +486,10 @@
    }
   ],
   "balance": {
-   "ganados": 1353,
+   "ganados": 1356,
    "perdidos": 913,
-   "acierto": 59.7,
-   "yield": 13.4,
+   "acierto": 59.8,
+   "yield": 13.5,
    "cuota_media": 1.9
   }
  },
@@ -506,7 +506,7 @@
    "away": "Ekibastuz",
    "liga": "1. Division",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -829,16 +829,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2456,
+  "n": 2457,
   "ganados": 1678,
   "win_rate": 68,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 5,
-  "en_juego": 7,
-  "win_rate": 44
+  "ganados": 5,
+  "perdidos": 6,
+  "en_juego": 5,
+  "win_rate": 45
  },
  "stats_banker": {
   "ganados": 74,
