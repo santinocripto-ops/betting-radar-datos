@@ -1,36 +1,674 @@
 {
- "actualizado": "2026-09-03T23:02:28.336275+00:00",
+ "actualizado": "2026-09-03T23:09:36.059130+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
- "bankers": [],
- "mejores_dia": [],
- "gol_temprano": [],
- "banca": {},
- "pagina2": {},
+ "bankers": [
+  {
+   "home": "Slatina",
+   "away": "Chindia Targoviste",
+   "liga": "Liga II",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03"
+  }
+ ],
+ "mejores_dia": [
+  {
+   "clave": "over15",
+   "etiqueta": "Over 1.5 Goles",
+   "confianza": "alta",
+   "home": "Aalesund",
+   "away": "Start",
+   "liga": "Eliteserien",
+   "cuota": 1.15,
+   "score": 9.05,
+   "hora": "17:00",
+   "resultado": "pendiente",
+   "wr_historico": 77,
+   "n_historico": 145
+  },
+  {
+   "clave": "over25",
+   "etiqueta": "Over 2.5 Goles",
+   "confianza": "alta",
+   "home": "Olympic",
+   "away": "Brisbane Roar",
+   "liga": "Friendlies Clubs",
+   "cuota": null,
+   "score": 10,
+   "hora": "08:30",
+   "resultado": "pendiente",
+   "wr_historico": 62,
+   "n_historico": 1158
+  },
+  {
+   "clave": "btts",
+   "etiqueta": "Ambos Marcan",
+   "confianza": "alta",
+   "home": "Olympic",
+   "away": "Brisbane Roar",
+   "liga": "Friendlies Clubs",
+   "cuota": null,
+   "score": 10,
+   "hora": "08:30",
+   "resultado": "pendiente",
+   "wr_historico": 58,
+   "n_historico": 1142
+  }
+ ],
+ "gol_temprano": [
+  {
+   "home": "Hibernian",
+   "away": "Heart Of Midlothian",
+   "liga": "Premiership",
+   "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  },
+  {
+   "home": "Toulouse",
+   "away": "Lille",
+   "liga": "Ligue 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  },
+  {
+   "home": "Gent",
+   "away": "OH Leuven",
+   "liga": "Jupiler Pro League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  },
+  {
+   "home": "Anderlecht",
+   "away": "Kortrijk",
+   "liga": "Jupiler Pro League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  },
+  {
+   "home": "FC Lugano",
+   "away": "Servette FC",
+   "liga": "Super League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  },
+  {
+   "home": "FC Basel 1893",
+   "away": "FC Sion",
+   "liga": "Super League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-03",
+   "es_hoy": false
+  }
+ ],
+ "banca": {
+  "capital_inicial": 10000.0,
+  "capital": 49187.0,
+  "balance_total": 39187.0,
+  "balance_dia": 0.0,
+  "ganados": 2491,
+  "perdidos": 1079,
+  "pendientes": 1,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
+  "win_rate": 69.8,
+  "roi": 11.0,
+  "stake": 100.0,
+  "cuota_fija": 1.61,
+  "con_cuota_real": 0,
+  "con_cuota_media": 3571,
+  "pct_cuota_real": 0.0
+ },
+ "pagina2": {
+  "btts": [
+   {
+    "home": "Olympic",
+    "away": "Brisbane Roar",
+    "liga": "Friendlies Clubs",
+    "hora": "10:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Yangon Royals",
+    "away": "Yadanarbon",
+    "liga": "National League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Sheffield Wednesday U21",
+    "away": "Wigan Athletic U21",
+    "liga": "Professional Development League",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Bayswater City",
+    "away": "Olympic Kingsway",
+    "liga": "Western Australia NPL",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Perth RedStar",
+    "away": "Perth",
+    "liga": "Western Australia NPL",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Carolina Core",
+    "away": "New England II",
+    "liga": "MLS Next Pro",
+    "hora": "00:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Inter Miami II",
+    "away": "Orlando City II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Minsk II",
+    "away": "Niva",
+    "liga": "1. Division",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Molodechno-DYuSSh 4",
+    "away": "BATE II",
+    "liga": "1. Division",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Fyllingsdalen W",
+    "away": "Odd W",
+    "liga": "1. Division Women",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Aerostar Bacau",
+    "away": "Gheorgheni",
+    "liga": "Liga III - Serie 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Progresul Pecica",
+    "away": "Poli Timisoara 2",
+    "liga": "Liga III - Serie 7",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Timişul Şag",
+    "away": "Cetate Deva",
+    "liga": "Liga III - Serie 7",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Volna",
+    "away": "Dinamo Minsk II",
+    "liga": "1. Division",
+    "hora": "16:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   }
+  ],
+  "over25": [
+   {
+    "home": "Olympic",
+    "away": "Brisbane Roar",
+    "liga": "Friendlies Clubs",
+    "hora": "10:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "GFA",
+    "away": "Yangon United",
+    "liga": "National League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Akademiya Konoplev U20",
+    "away": "Ural U20",
+    "liga": "Youth Championship",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Zenit U19",
+    "away": "Rubin Kazan U20",
+    "liga": "Youth Championship",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Bayswater City",
+    "away": "Olympic Kingsway",
+    "liga": "Western Australia NPL",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Perth RedStar",
+    "away": "Perth",
+    "liga": "Western Australia NPL",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Philadelphia Union II",
+    "away": "Columbus Crew II",
+    "liga": "MLS Next Pro",
+    "hora": "01:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "CSKA Moskva U19",
+    "away": "Nizhny Novgorod U19",
+    "liga": "Youth Championship",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Minsk II",
+    "away": "Niva",
+    "liga": "1. Division",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Al-Ittihad Kalba",
+    "away": "Al Ain",
+    "liga": "Pro League",
+    "hora": "15:45",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Rostov U19",
+    "away": "Spartak Moskva U19",
+    "liga": "Youth Championship",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Krasnodar U19",
+    "away": "Dynamo Makhachkala U19",
+    "liga": "Youth Championship",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Molodechno-DYuSSh 4",
+    "away": "BATE II",
+    "liga": "1. Division",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Fyllingsdalen W",
+    "away": "Odd W",
+    "liga": "1. Division Women",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
+  "balance": {
+   "ganados": 1371,
+   "perdidos": 929,
+   "acierto": 59.6,
+   "yield": 13.3,
+   "cuota_media": 1.9
+  }
+ },
  "reentradas": [],
- "pagina_smart": {},
- "mejor_dia": {},
+ "pagina_smart": {
+  "picks": [
+   {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.97,
+    "pinnacle": true,
+    "delta": 3.34,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-03T20:09:35.248054+00:00"
+   },
+   {
+    "home": "Slatina",
+    "away": "Chindia Targoviste",
+    "liga": "Liga II",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.39,
+    "pinnacle": false,
+    "delta": 4.73,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T14:30:00+00:00",
+    "ts": "2026-09-03T19:05:45.264257+00:00"
+   },
+   {
+    "home": "Toulouse",
+    "away": "Lille",
+    "liga": "Ligue 1",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.33,
+    "pinnacle": true,
+    "delta": 3.17,
+    "marcador": "0-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T18:45:00+00:00",
+    "ts": "2026-09-03T17:04:30.765312+00:00"
+   },
+   {
+    "home": "Anderlecht",
+    "away": "Kortrijk",
+    "liga": "Jupiler Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 1.14,
+    "pinnacle": true,
+    "delta": 3.58,
+    "marcador": "1-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T18:30:00+00:00",
+    "ts": "2026-09-03T15:03:06.834604+00:00"
+   },
+   {
+    "home": "Al Diriyah",
+    "away": "Al-Qadisiyah FC",
+    "liga": "Pro League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 8,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 4.74,
+    "marcador": "0-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T18:00:00+00:00",
+    "ts": "2026-09-03T09:05:38.481367+00:00"
+   },
+   {
+    "home": "Al Diriyah",
+    "away": "Al-Qadisiyah FC",
+    "liga": "Pro League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 7,
+    "cuota": 1.15,
+    "pinnacle": false,
+    "delta": 4.15,
+    "marcador": "0-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T18:00:00+00:00",
+    "ts": "2026-09-03T09:05:38.677411+00:00"
+   },
+   {
+    "home": "Mjallby AIF",
+    "away": "Djurgardens IF",
+    "liga": "Allsvenskan",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.24,
+    "pinnacle": false,
+    "delta": 3.94,
+    "marcador": "0-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T17:00:00+00:00",
+    "ts": "2026-09-02T22:04:45.621944+00:00"
+   },
+   {
+    "home": "Bursaspor",
+    "away": "İstanbulspor",
+    "liga": "1. Lig",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 3.98,
+    "marcador": "4-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T17:00:00+00:00",
+    "ts": "2026-09-03T13:03:21.631616+00:00"
+   },
+   {
+    "home": "NEOM",
+    "away": "Al Khaleej Saihat",
+    "liga": "Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 11,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 4.37,
+    "marcador": "3-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T16:30:00+00:00",
+    "ts": "2026-09-02T22:04:44.364186+00:00"
+   },
+   {
+    "home": "Raków Częstochowa",
+    "away": "Gornik Zabrze",
+    "liga": "Ekstraklasa",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.66,
+    "pinnacle": true,
+    "delta": 3.9,
+    "marcador": "1-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-03T16:00:00+00:00",
+    "ts": "2026-09-03T08:08:24.805199+00:00"
+   },
+   {
+    "home": "Colegiales",
+    "away": "Midland",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.57,
+    "pinnacle": true,
+    "delta": 4.44,
+    "marcador": "3-0",
+    "resultado": "perdido",
+    "kickoff": "2026-09-02T23:00:00+00:00",
+    "ts": "2026-09-02T09:03:51.298352+00:00"
+   },
+   {
+    "home": "Flamengo",
+    "away": "Mirassol",
+    "liga": "Serie A",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.05,
+    "pinnacle": true,
+    "delta": 3.62,
+    "marcador": "2-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-02T22:30:00+00:00",
+    "ts": "2026-09-02T15:06:32.481552+00:00"
+   },
+   {
+    "home": "Reading",
+    "away": "Mansfield Town",
+    "liga": "League One",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.57,
+    "marcador": "5-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-02T19:00:00+00:00",
+    "ts": "2026-09-02T18:07:32.226616+00:00"
+   },
+   {
+    "home": "Dundee",
+    "away": "ST Johnstone",
+    "liga": "Premiership",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.46,
+    "pinnacle": false,
+    "delta": 3.42,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T11:05:46.216266+00:00"
+   },
+   {
+    "home": "Wigan",
+    "away": "Milton Keynes Dons",
+    "liga": "League One",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.29,
+    "pinnacle": false,
+    "delta": 4.97,
+    "marcador": "3-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-02T18:45:00+00:00",
+    "ts": "2026-09-02T14:06:29.435229+00:00"
+   }
+  ],
+  "balance": {
+   "ganados": 213,
+   "perdidos": 86,
+   "pendientes": 2,
+   "acierto": 71.2,
+   "total": 299
+  }
+ },
+ "mejor_dia": {
+  "disponible": false
+ },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 0,
-  "ganados": 0,
-  "win_rate": 0,
+  "n": 2473,
+  "ganados": 1686,
+  "win_rate": 68,
   "hoy": 0
  },
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
-  "ganados": 0,
-  "perdidos": 0,
-  "pendientes": 0,
-  "win_rate": 0
+  "ganados": 77,
+  "perdidos": 29,
+  "pendientes": 1,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
