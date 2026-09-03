@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T20:09:34.899211+00:00",
+ "actualizado": "2026-09-03T20:16:13.652662+00:00",
  "partidos_vivo": [
   {
    "home": "Toulouse",
@@ -591,6 +591,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.97,
+    "pinnacle": true,
+    "delta": 3.34,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-03T20:09:35.248054+00:00"
+   },
+   {
     "home": "Slatina",
     "away": "Chindia Targoviste",
     "liga": "Liga II",
@@ -645,8 +660,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 4.74,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-03T18:00:00+00:00",
     "ts": "2026-09-03T09:05:38.481367+00:00"
    },
@@ -660,8 +675,8 @@
     "cuota": 1.15,
     "pinnacle": false,
     "delta": 4.15,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-03T18:00:00+00:00",
     "ts": "2026-09-03T09:05:38.677411+00:00"
    },
@@ -799,29 +814,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-02T18:45:00+00:00",
     "ts": "2026-09-02T14:06:29.435229+00:00"
-   },
-   {
-    "home": "Luton",
-    "away": "Stockport County",
-    "liga": "League One",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 11,
-    "cuota": 1.67,
-    "pinnacle": true,
-    "delta": 4.85,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-02T18:45:00+00:00",
-    "ts": "2026-09-02T14:06:29.979519+00:00"
    }
   ],
   "balance": {
-   "ganados": 209,
+   "ganados": 211,
    "perdidos": 86,
-   "pendientes": 5,
-   "acierto": 70.8,
-   "total": 295
+   "pendientes": 4,
+   "acierto": 71.0,
+   "total": 297
   }
  },
  "mejor_dia": {
