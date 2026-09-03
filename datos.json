@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T13:23:40.830089+00:00",
+ "actualizado": "2026-09-03T13:30:21.263688+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:30",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "13:41",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:05",
    "tipo": "smart_money"
   }
  ],
@@ -749,6 +749,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
+   "apuesta": "SI, US Open ATP: Jan-Lennard Struff ganara",
+   "usdc": 82382,
+   "prob": 40.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "15:30"
+  },
+  {
    "titulo": "Porto: Miguel Damas vs Dimitar Kuzmanov",
    "apuesta": "SI, Porto: Miguel Damas ganara",
    "usdc": 15432,
@@ -810,15 +819,6 @@
    "n_traders": 1,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "21:35"
-  },
-  {
-   "titulo": "Will Millwall FC win on 2026-09-02?",
-   "apuesta": "NO, Millwall no ganara",
-   "usdc": 87380,
-   "prob": 58.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "20:43"
   }
  ],
  "stats_gt": {
