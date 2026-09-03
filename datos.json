@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T09:05:38.540035+00:00",
+ "actualizado": "2026-09-03T09:12:54.973485+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -475,6 +475,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Al Diriyah",
+    "away": "Al-Qadisiyah FC",
+    "liga": "Pro League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 8,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 4.74,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T18:00:00+00:00",
+    "ts": "2026-09-03T09:05:38.481367+00:00"
+   },
+   {
+    "home": "Al Diriyah",
+    "away": "Al-Qadisiyah FC",
+    "liga": "Pro League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 7,
+    "cuota": 1.15,
+    "pinnacle": false,
+    "delta": 4.15,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T18:00:00+00:00",
+    "ts": "2026-09-03T09:05:38.677411+00:00"
+   },
+   {
     "home": "Mjallby AIF",
     "away": "Djurgardens IF",
     "liga": "Allsvenskan",
@@ -668,42 +698,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-02T18:30:00+00:00",
     "ts": "2026-09-02T13:06:07.807669+00:00"
-   },
-   {
-    "home": "Al Ula",
-    "away": "Al-Raed",
-    "liga": "Division 1",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.14,
-    "pinnacle": true,
-    "delta": 3.17,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T17:40:00+00:00",
-    "ts": "2026-09-02T12:06:42.610777+00:00"
-   },
-   {
-    "home": "HNK Cibalia",
-    "away": "Orijent 1919",
-    "liga": "First NL",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.73,
-    "pinnacle": false,
-    "delta": 3.71,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T17:30:00+00:00",
-    "ts": "2026-09-02T03:04:19.953889+00:00"
    }
   ],
   "balance": {
    "ganados": 205,
    "perdidos": 86,
-   "pendientes": 3,
+   "pendientes": 5,
    "acierto": 70.4,
    "total": 291
   }
