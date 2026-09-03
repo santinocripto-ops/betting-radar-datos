@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T03:16:09.670851+00:00",
+ "actualizado": "2026-09-03T03:23:25.329298+00:00",
  "partidos_vivo": [
   {
    "home": "Vancouver Whitecaps",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "05:23",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -90,12 +96,6 @@
    "texto": "⚽ NEOM vs Al Khaleej Saihat · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (",
    "hora": "00:04",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "00:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -738,6 +738,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will CF América win on 2026-09-02?",
+   "apuesta": "NO, CF América no ganara",
+   "usdc": 112115,
+   "prob": 57.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "05:23"
+  },
+  {
    "titulo": "US Open ATP: Jaime Faria vs Carlos Alcaraz",
    "apuesta": "SI, US Open ATP: Jaime Faria ganara",
    "usdc": 92302,
@@ -799,15 +808,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "20:34"
-  },
-  {
-   "titulo": "Udinese Calcio vs. Venezia FC: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 21658,
-   "prob": 13.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:57"
   }
  ],
  "stats_gt": {
