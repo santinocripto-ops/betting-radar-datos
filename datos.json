@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T12:16:19.093847+00:00",
+ "actualizado": "2026-09-03T12:22:54.441113+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:22",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
@@ -67,12 +73,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "10:08",
    "tipo": "smart_money"
   }
@@ -206,7 +206,7 @@
   "balance_dia": -288.0,
   "ganados": 2476,
   "perdidos": 1069,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 4,
   "perdidos_dia": 5,
   "win_rate": 69.8,
@@ -214,7 +214,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3546,
+  "con_cuota_media": 3547,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -730,6 +730,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Porto: Miguel Damas vs Dimitar Kuzmanov",
+   "apuesta": "SI, Porto: Miguel Damas ganara",
+   "usdc": 15432,
+   "prob": 61.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:22"
+  },
+  {
    "titulo": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
    "apuesta": "SI, LoL: BNK FEARX ganara",
    "usdc": 48814,
@@ -791,15 +800,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
    "hora": "20:43"
-  },
-  {
-   "titulo": "Will Millwall FC win on 2026-09-02?",
-   "apuesta": "SI, Millwall ganara",
-   "usdc": 94719,
-   "prob": 41.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "20:42"
   }
  ],
  "stats_gt": {
@@ -811,7 +811,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 5,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 44
  },
  "stats_banker": {
