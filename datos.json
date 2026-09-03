@@ -1,110 +1,96 @@
 {
- "actualizado": "2026-09-03T20:00:49.494938+00:00",
+ "actualizado": "2026-09-03T20:09:34.899211+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Basel 1893",
-   "away": "FC Sion",
-   "liga": "Super League",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 27,
-   "momentum_away": 73,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
-    "⚽ 1 gol — FC Sion buscará el empate",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "FC Lugano",
-   "away": "Servette FC",
-   "liga": "Super League",
-   "minuto": 50,
+   "home": "Toulouse",
+   "away": "Lille",
+   "liga": "Ligue 1",
+   "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
+   "momentum_home": 75,
+   "momentum_away": 25,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Anderlecht",
-   "away": "Kortrijk",
-   "liga": "Jupiler Pro League",
-   "minuto": 52,
-   "marcador": "1-0",
+   "home": "Real Sociedad",
+   "away": "Celta Vigo",
+   "liga": "La Liga",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 82,
+   "momentum_away": 18,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Cagliari",
+   "away": "Hellas Verona",
+   "liga": "Coppa Italia",
+   "minuto": 50,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚽ 1 gol — Kortrijk buscará el empate"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — Cagliari buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Lech Poznan",
-   "away": "Jagiellonia",
-   "liga": "Ekstraklasa",
-   "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Hibernian",
+   "away": "Heart Of Midlothian",
+   "liga": "Premiership",
+   "minuto": 61,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 9.3,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Slask Wroclaw",
-   "away": "Pogon Szczecin",
-   "liga": "Cup",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Pogon Szczecin buscará el empate"
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 19 remates totales"
    ]
   }
  ],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "22:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -170,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:47",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:11",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -217,7 +197,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1157
+   "n_historico": 1158
   },
   {
    "clave": "btts",
@@ -231,7 +211,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1138
+   "n_historico": 1139
   }
  ],
  "gol_temprano": [
@@ -304,13 +284,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49153.0,
-  "balance_total": 39153.0,
-  "balance_dia": -519.0,
-  "ganados": 2485,
+  "capital": 49214.0,
+  "balance_total": 39214.0,
+  "balance_dia": -458.0,
+  "ganados": 2486,
   "perdidos": 1076,
-  "pendientes": 10,
-  "ganados_dia": 13,
+  "pendientes": 9,
+  "ganados_dia": 14,
   "perdidos_dia": 12,
   "win_rate": 69.8,
   "roi": 11.0,
@@ -578,10 +558,10 @@
    }
   ],
   "balance": {
-   "ganados": 1368,
-   "perdidos": 927,
+   "ganados": 1369,
+   "perdidos": 928,
    "acierto": 59.6,
-   "yield": 13.3,
+   "yield": 13.2,
    "cuota_media": 1.9
   }
  },
@@ -928,16 +908,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2466,
-  "ganados": 1682,
+  "n": 2467,
+  "ganados": 1683,
   "win_rate": 68,
   "hoy": 21
  },
  "stats_dia": {
-  "ganados": 15,
+  "ganados": 16,
   "perdidos": 12,
-  "en_juego": 10,
-  "win_rate": 56
+  "en_juego": 9,
+  "win_rate": 57
  },
  "stats_banker": {
   "ganados": 76,
