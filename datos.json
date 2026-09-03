@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T18:51:10.259204+00:00",
+ "actualizado": "2026-09-03T18:57:58.544097+00:00",
  "partidos_vivo": [
   {
    "home": "Hapoel Tel Aviv",
@@ -87,6 +87,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:51",
    "tipo": "live"
@@ -142,18 +154,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:04",
    "tipo": "smart_money"
   }
@@ -234,6 +234,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Hibernian",
+   "away": "Heart Of Midlothian",
+   "liga": "Premiership",
+   "minuto": 10,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Toulouse",
+   "away": "Lille",
+   "liga": "Ligue 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Gent",
    "away": "OH Leuven",
    "liga": "Jupiler Pro League",
@@ -276,28 +298,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-03",
    "es_hoy": true
-  },
-  {
-   "home": "Gyori ETO FC",
-   "away": "Ferencvarosi TC",
-   "liga": "NB I",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Bursaspor",
-   "away": "İstanbulspor",
-   "liga": "1. Lig",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -307,7 +307,7 @@
   "balance_dia": -586.0,
   "ganados": 2482,
   "perdidos": 1075,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 10,
   "perdidos_dia": 11,
   "win_rate": 69.8,
@@ -315,7 +315,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3566,
+  "con_cuota_media": 3567,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -929,12 +929,12 @@
   "n": 2463,
   "ganados": 1680,
   "win_rate": 68,
-  "hoy": 19
+  "hoy": 21
  },
  "stats_dia": {
   "ganados": 10,
   "perdidos": 11,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 48
  },
  "stats_banker": {
