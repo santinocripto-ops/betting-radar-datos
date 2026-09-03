@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T12:49:25.225719+00:00",
+ "actualizado": "2026-09-03T12:55:56.966795+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -217,7 +217,7 @@
   "balance_dia": -288.0,
   "ganados": 2476,
   "perdidos": 1069,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 4,
   "perdidos_dia": 5,
   "win_rate": 69.8,
@@ -225,7 +225,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3547,
+  "con_cuota_media": 3548,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -822,7 +822,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 5,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 44
  },
  "stats_banker": {
