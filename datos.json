@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T06:57:33.416110+00:00",
+ "actualizado": "2026-09-03T07:04:46.925332+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💰 DINERO A RESULTADO EXACTO",
+   "hora": "09:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "05:30",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:23",
    "tipo": "smart_money"
   }
  ],
