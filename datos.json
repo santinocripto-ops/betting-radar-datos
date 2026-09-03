@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T21:27:32.592015+00:00",
+ "actualizado": "2026-09-03T21:51:12.712157+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:51",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -67,12 +73,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "20:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:57",
    "tipo": "live"
   }
@@ -737,6 +737,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
+   "apuesta": "SI, US Open ATP: Benjamin Bonzi ganara",
+   "usdc": 89687,
+   "prob": 70.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:51"
+  },
+  {
    "titulo": "Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5",
    "apuesta": "SI, mas de 0.5 goles",
    "usdc": 17758,
@@ -798,15 +807,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "15:30"
-  },
-  {
-   "titulo": "Porto: Miguel Damas vs Dimitar Kuzmanov",
-   "apuesta": "SI, Porto: Miguel Damas ganara",
-   "usdc": 15432,
-   "prob": 61.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:22"
   }
  ],
  "stats_gt": {
