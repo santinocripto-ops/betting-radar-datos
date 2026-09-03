@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T04:28:40.513892+00:00",
+ "actualizado": "2026-09-03T04:35:52.086069+00:00",
  "partidos_vivo": [
   {
    "home": "Vancouver Whitecaps",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:35",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -89,12 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:22",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "01:15",
    "tipo": "live"
   }
  ],
