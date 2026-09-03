@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-03T00:39:20.087543+00:00",
+ "actualizado": "2026-09-03T00:46:48.551746+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:46",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -63,18 +75,6 @@
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "23:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
-   "hora": "23:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:31",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -143,6 +143,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Santos",
+   "away": "Palmeiras",
+   "liga": "Copa Do Brasil",
+   "minuto": 12,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Deportes Limache",
+   "away": "Nublense",
+   "liga": "Primera División",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
   {
    "home": "Barcelona SC",
    "away": "Independiente del Valle",
@@ -764,7 +786,7 @@
   "n": 2450,
   "ganados": 1676,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 0,
