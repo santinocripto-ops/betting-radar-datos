@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T15:03:06.650351+00:00",
+ "actualizado": "2026-09-03T15:10:05.991343+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
@@ -512,6 +512,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Anderlecht",
+    "away": "Kortrijk",
+    "liga": "Jupiler Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 1.14,
+    "pinnacle": true,
+    "delta": 3.58,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T18:30:00+00:00",
+    "ts": "2026-09-03T15:03:06.834604+00:00"
+   },
+   {
     "home": "Al Diriyah",
     "away": "Al-Qadisiyah FC",
     "liga": "Pro League",
@@ -720,27 +735,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-02T18:45:00+00:00",
     "ts": "2026-09-02T14:06:31.711237+00:00"
-   },
-   {
-    "home": "FC Luzern",
-    "away": "FC Vaduz",
-    "liga": "Super League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 2.35,
-    "pinnacle": true,
-    "delta": 2.83,
-    "marcador": "2-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-02T18:30:00+00:00",
-    "ts": "2026-09-02T07:04:40.056400+00:00"
    }
   ],
   "balance": {
    "ganados": 205,
    "perdidos": 86,
-   "pendientes": 6,
+   "pendientes": 7,
    "acierto": 70.4,
    "total": 291
   }
