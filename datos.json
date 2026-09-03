@@ -1,90 +1,108 @@
 {
- "actualizado": "2026-09-03T18:36:57.423205+00:00",
+ "actualizado": "2026-09-03T18:44:30.138910+00:00",
  "partidos_vivo": [
   {
-   "home": "Mjallby AIF",
-   "away": "Djurgardens IF",
-   "liga": "Allsvenskan",
-   "minuto": 57,
+   "home": "Hapoel Tel Aviv",
+   "away": "Beitar Jerusalem",
+   "liga": "Ligat Ha'al",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 33,
+   "momentum_away": 67,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
+    "⚽ 1 gol — Beitar Jerusalem buscará el empate",
+    "⏱ 42 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Gyori ETO FC",
+   "away": "Ferencvarosi TC",
+   "liga": "NB I",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 11,
+   "momentum_away": 89,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚽ 1 gol — Gyori ETO FC buscará el empate",
+    "⏱ 37 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "FC Politehnica Timisoara",
+   "away": "Rapid",
+   "liga": "Cupa României",
+   "minuto": 56,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Bodrum FK",
-   "away": "Esenler Erokspor",
-   "liga": "1. Lig",
-   "minuto": 57,
+   "home": "Bahrain U20",
+   "away": "Jordan U20",
+   "liga": "AFC U20 Asian Cup",
+   "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 28,
-   "momentum_away": 72,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Bursaspor",
-   "away": "İstanbulspor",
-   "liga": "1. Lig",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — İstanbulspor buscará el empate",
-    "🎯 8 remates totales",
-    "🚩 6 córners"
-   ]
-  },
-  {
-   "home": "Al Ahly",
-   "away": "Smouha SC",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 100,
-   "momentum_away": 0,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -137,24 +155,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "19:03",
    "tipo": "smart_money"
   }
  ],
@@ -234,6 +234,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Anderlecht",
+   "away": "Kortrijk",
+   "liga": "Jupiler Pro League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Lugano",
+   "away": "Servette FC",
+   "liga": "Super League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Basel 1893",
+   "away": "FC Sion",
+   "liga": "Super League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Gyori ETO FC",
    "away": "Ferencvarosi TC",
    "liga": "NB I",
@@ -263,39 +296,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Dynamo",
-   "away": "Akhmat",
-   "liga": "Cup",
-   "minuto": 10,
-   "score": 9.2,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Tychy 71",
-   "away": "ŁKS Łódź",
-   "liga": "Cup",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Atlantis",
-   "away": "PEPO",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-03",
    "es_hoy": true
   }
@@ -929,7 +929,7 @@
   "n": 2463,
   "ganados": 1680,
   "win_rate": 68,
-  "hoy": 15
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 10,
