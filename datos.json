@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T12:09:14.209224+00:00",
+ "actualizado": "2026-09-03T12:16:19.093847+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "14:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "10:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "09:04",
    "tipo": "smart_money"
   }
  ],
@@ -143,6 +143,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Arys",
+   "away": "Ekibastuz",
+   "liga": "1. Division",
+   "minuto": 10,
+   "score": 8.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
   {
    "home": "Club America",
    "away": "Monterrey",
@@ -795,7 +806,7 @@
   "n": 2456,
   "ganados": 1678,
   "win_rate": 68,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 4,
