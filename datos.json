@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T18:16:46.727748+00:00",
+ "actualizado": "2026-09-03T18:16:58.033647+00:00",
  "partidos_vivo": [
   {
    "home": "Mjallby AIF",
@@ -730,8 +730,8 @@
     "cuota": 1.66,
     "pinnacle": true,
     "delta": 3.9,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-03T16:00:00+00:00",
     "ts": "2026-09-03T08:08:24.805199+00:00"
    },
@@ -842,11 +842,11 @@
    }
   ],
   "balance": {
-   "ganados": 205,
+   "ganados": 206,
    "perdidos": 86,
-   "pendientes": 8,
-   "acierto": 70.4,
-   "total": 291
+   "pendientes": 7,
+   "acierto": 70.5,
+   "total": 292
   }
  },
  "mejor_dia": {
