@@ -1,110 +1,15 @@
 {
- "actualizado": "2026-09-03T15:46:32.351163+00:00",
- "partidos_vivo": [
-  {
-   "home": "Al Ahli Doha",
-   "away": "Qatar SC",
-   "liga": "Stars League",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Šiauliai",
-   "away": "Kauno Žalgiris",
-   "liga": "Cup",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Iğdır FK",
-   "away": "Manisa F.K.",
-   "liga": "1. Lig",
-   "minuto": 58,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.9,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Manisa F.K. pierde por 2 — atacará sin freno",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "Abdish-Ata",
-   "away": "Ozgon",
-   "liga": "Premier League",
-   "minuto": 58,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lokomotivi Tbilisi",
-   "away": "Varketili",
-   "liga": "Liga 3",
-   "minuto": 55,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  }
- ],
- "partidos_vivo_total": 12,
+ "actualizado": "2026-09-03T15:53:42.407300+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:53",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -169,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:44",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:30",
    "tipo": "smart_money"
   }
  ],
@@ -864,6 +763,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Como: Jay Clarke vs Pedro Martinez",
+   "apuesta": "SI, Como: Jay Clarke ganara",
+   "usdc": 493902,
+   "prob": 100.0,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "17:53"
+  },
+  {
    "titulo": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
    "apuesta": "SI, US Open ATP: Felix Auger-Aliassime ganara",
    "usdc": 127529,
@@ -925,15 +833,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "05:30"
-  },
-  {
-   "titulo": "Will CF América win on 2026-09-02?",
-   "apuesta": "NO, CF América no ganara",
-   "usdc": 112115,
-   "prob": 57.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xf",
-   "hora": "05:23"
   }
  ],
  "stats_gt": {
