@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T17:47:32.687700+00:00",
+ "actualizado": "2026-09-03T17:54:08.937734+00:00",
  "partidos_vivo": [
   {
    "home": "Dynamo",
@@ -267,7 +267,7 @@
   "balance_dia": -331.0,
   "ganados": 2481,
   "perdidos": 1072,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 9,
   "perdidos_dia": 8,
   "win_rate": 69.8,
@@ -275,7 +275,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3561,
+  "con_cuota_media": 3562,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -894,7 +894,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 8,
-  "en_juego": 10,
+  "en_juego": 11,
   "win_rate": 53
  },
  "stats_banker": {
