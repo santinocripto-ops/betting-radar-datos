@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T11:34:38.590500+00:00",
+ "actualizado": "2026-09-03T11:41:36.185700+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "08:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "07:05",
    "tipo": "smart_money"
   }
  ],
@@ -719,6 +719,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+   "apuesta": "SI, LoL: BNK FEARX ganara",
+   "usdc": 48814,
+   "prob": 36.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:41"
+  },
+  {
    "titulo": "Will Manchester City win the 2026-27 UEFA Champions League Championshi",
    "apuesta": "SI, Manchester City ganara",
    "usdc": 150785,
@@ -780,15 +789,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "20:42"
-  },
-  {
-   "titulo": "US Open ATP: Marcos Giron vs Ignacio Buse",
-   "apuesta": "SI, US Open ATP: Marcos Giron ganara",
-   "usdc": 96356,
-   "prob": 43.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "20:34"
   }
  ],
  "stats_gt": {
