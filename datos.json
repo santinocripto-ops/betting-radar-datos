@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-03T03:08:48.827881+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-03T03:16:09.670851+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Vancouver Whitecaps",
+   "away": "CF Montreal",
+   "liga": "Canadian Championship",
+   "minuto": 48,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Vancouver Whitecaps buscará el empate"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
