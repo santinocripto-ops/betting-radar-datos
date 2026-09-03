@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-03T18:08:24.730713+00:00",
+ "actualizado": "2026-09-03T18:16:46.727748+00:00",
  "partidos_vivo": [
   {
-   "home": "Dynamo",
-   "away": "Akhmat",
-   "liga": "Cup",
-   "minuto": 58,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Mjallby AIF",
+   "away": "Djurgardens IF",
+   "liga": "Allsvenskan",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -16,33 +16,73 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Akhmat pierde por 2 — atacará sin freno",
-    "🎯 9 remates totales"
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
    ]
   },
   {
-   "home": "NEOM",
-   "away": "Al Khaleej Saihat",
-   "liga": "Pro League",
-   "minuto": 59,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Bodrum FK",
+   "away": "Esenler Erokspor",
+   "liga": "1. Lig",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.8,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
+   "momentum_home": 28,
+   "momentum_away": 72,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Al Khaleej Saihat pierde por 3 — atacará sin freno"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Bursaspor",
+   "away": "İstanbulspor",
+   "liga": "1. Lig",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 86,
+   "momentum_away": 14,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — İstanbulspor buscará el empate",
+    "🎯 8 remates totales",
+    "🚩 6 córners"
+   ]
+  },
+  {
+   "home": "Al Ahly",
+   "away": "Smouha SC",
+   "liga": "Premier League",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 100,
+   "momentum_away": 0,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.0 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
