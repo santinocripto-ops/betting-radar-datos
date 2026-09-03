@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T15:39:44.302420+00:00",
+ "actualizado": "2026-09-03T15:46:32.351163+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ahli Doha",
@@ -318,7 +318,7 @@
   "balance_dia": -337.0,
   "ganados": 2479,
   "perdidos": 1071,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 7,
   "perdidos_dia": 7,
   "win_rate": 69.8,
@@ -326,7 +326,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3555,
+  "con_cuota_media": 3556,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -945,7 +945,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 7,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 50
  },
  "stats_banker": {
