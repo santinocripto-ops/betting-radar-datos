@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T20:42:52.486563+00:00",
+ "actualizado": "2026-09-03T20:49:44.972031+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:49",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:47",
    "tipo": "live"
   }
  ],
@@ -754,6 +754,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Real Sociedad de Fútbol vs. RC Celta de Vigo: O/U 0.5",
+   "apuesta": "SI, mas de 0.5 goles",
+   "usdc": 17758,
+   "prob": 32.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "22:49"
+  },
+  {
    "titulo": "NEOM SC vs. Al Khaleej Saudi Club: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 17754,
@@ -815,15 +824,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "14:22"
-  },
-  {
-   "titulo": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
-   "apuesta": "SI, LoL: BNK FEARX ganara",
-   "usdc": 48814,
-   "prob": 36.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "13:41"
   }
  ],
  "stats_gt": {
