@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T18:16:58.033647+00:00",
+ "actualizado": "2026-09-03T18:23:43.612296+00:00",
  "partidos_vivo": [
   {
    "home": "Mjallby AIF",
@@ -604,13 +604,6 @@
    "liga": "Kakkonen - Lohko A",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Šiauliai",
-   "away": "Kauno Žalgiris",
-   "liga": "Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
