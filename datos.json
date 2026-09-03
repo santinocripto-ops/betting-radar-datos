@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T22:49:03.276434+00:00",
+ "actualizado": "2026-09-03T22:56:00.451120+00:00",
  "partidos_vivo": [
   {
    "home": "Leones del Norte",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:55",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "22:49",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "22:09",
    "tipo": "smart_money"
   }
  ],
