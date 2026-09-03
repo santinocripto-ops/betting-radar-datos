@@ -1,90 +1,116 @@
 {
- "actualizado": "2026-09-03T19:05:44.974104+00:00",
+ "actualizado": "2026-09-03T19:41:01.124804+00:00",
  "partidos_vivo": [
   {
-   "home": "Hapoel Tel Aviv",
-   "away": "Beitar Jerusalem",
-   "liga": "Ligat Ha'al",
-   "minuto": 48,
+   "home": "FC Basel 1893",
+   "away": "FC Sion",
+   "liga": "Super League",
+   "minuto": 53,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
+   "momentum_home": 27,
+   "momentum_away": 73,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.77 goles/partido",
-    "⚽ 1 gol — Beitar Jerusalem buscará el empate",
-    "⏱ 42 minutos por jugar — margen amplio"
+    "⚽ Liga muy goleadora: 4.04 goles/partido",
+    "⚽ 1 gol — FC Sion buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Gyori ETO FC",
-   "away": "Ferencvarosi TC",
-   "liga": "NB I",
-   "minuto": 53,
-   "marcador": "0-1",
+   "home": "FC Lugano",
+   "away": "Servette FC",
+   "liga": "Super League",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.04 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "Anderlecht",
+   "away": "Kortrijk",
+   "liga": "Jupiler Pro League",
+   "minuto": 52,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 11,
-   "momentum_away": 89,
+   "momentum_home": 64,
+   "momentum_away": 36,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚽ 1 gol — Gyori ETO FC buscará el empate",
-    "⏱ 37 minutos por jugar — tiempo suficiente"
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ 1 gol — Kortrijk buscará el empate"
    ]
   },
   {
-   "home": "FC Politehnica Timisoara",
-   "away": "Rapid",
-   "liga": "Cupa României",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Lech Poznan",
+   "away": "Jagiellonia",
+   "liga": "Ekstraklasa",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ Liga goleadora: 3.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Bahrain U20",
-   "away": "Jordan U20",
-   "liga": "AFC U20 Asian Cup",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Slask Wroclaw",
+   "away": "Pogon Szczecin",
+   "liga": "Cup",
+   "minuto": 53,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.3 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Pogon Szczecin buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -150,12 +176,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Toulouse vs Lille · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.25 (11 ",
-   "hora": "19:04",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
