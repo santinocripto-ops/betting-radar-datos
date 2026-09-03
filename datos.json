@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T13:37:22.586373+00:00",
+ "actualizado": "2026-09-03T13:44:15.252182+00:00",
  "partidos_vivo": [
   {
    "home": "Arys",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:44",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -83,18 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "14:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
-   "hora": "14:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:41",
    "tipo": "smart_money"
   }
  ],
@@ -238,7 +238,7 @@
   "balance_dia": -288.0,
   "ganados": 2476,
   "perdidos": 1069,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 4,
   "perdidos_dia": 5,
   "win_rate": 69.8,
@@ -246,7 +246,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3550,
+  "con_cuota_media": 3551,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -516,6 +516,13 @@
  },
  "reentradas": [
   {
+   "home": "Margveti 2006",
+   "away": "Merani Tbilisi",
+   "liga": "Liga 3",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Arys",
    "away": "Ekibastuz",
    "liga": "1. Division",
@@ -770,6 +777,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 95677,
+   "prob": 61.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "15:44"
+  },
+  {
    "titulo": "US Open ATP: Jan-Lennard Struff vs Francisco Cerundolo",
    "apuesta": "SI, US Open ATP: Jan-Lennard Struff ganara",
    "usdc": 82382,
@@ -831,15 +847,6 @@
    "n_traders": 1,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "00:12"
-  },
-  {
-   "titulo": "US Open ATP: Alexander Bublik vs Adrian Mannarino",
-   "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
-   "usdc": 90000,
-   "prob": 75.5,
-   "n_traders": 1,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "21:35"
   }
  ],
  "stats_gt": {
@@ -851,7 +858,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 5,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 44
  },
  "stats_banker": {
