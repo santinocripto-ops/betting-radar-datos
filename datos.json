@@ -1,110 +1,56 @@
 {
- "actualizado": "2026-09-03T17:40:14.458713+00:00",
+ "actualizado": "2026-09-03T17:47:32.687700+00:00",
  "partidos_vivo": [
   {
-   "home": "Palermo",
-   "away": "Mantova",
-   "liga": "Coppa Italia",
-   "minuto": 54,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Rīgas FS",
-   "away": "Riga",
+   "home": "Dynamo",
+   "away": "Akhmat",
    "liga": "Cup",
-   "minuto": 57,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "HIFK Helsinki",
-   "away": "HPS",
-   "liga": "Kakkonen - Lohko A",
    "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — HPS buscará el empate"
-   ]
-  },
-  {
-   "home": "Viimsi",
-   "away": "FC Tallinn",
-   "liga": "Esiliiga A",
-   "minuto": 63,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — FC Tallinn buscará el empate"
-   ]
-  },
-  {
-   "home": "Alashkert",
-   "away": "Van",
-   "liga": "Premier League",
-   "minuto": 61,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 2 goles — partido activo",
+    "⚡ Akhmat pierde por 2 — atacará sin freno",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "NEOM",
+   "away": "Al Khaleej Saihat",
+   "liga": "Pro League",
+   "minuto": 59,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 9.8,
+   "recomendar": true,
+   "momentum_home": 62,
+   "momentum_away": 38,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Al Khaleej Saihat pierde por 3 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 13,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -169,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:49",
    "tipo": "smart_money"
   }
  ],
@@ -254,6 +194,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Gyori ETO FC",
+   "away": "Ferencvarosi TC",
+   "liga": "NB I",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Bursaspor",
    "away": "İstanbulspor",
    "liga": "1. Lig",
@@ -305,17 +256,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Šiauliai",
-   "away": "Kauno Žalgiris",
-   "liga": "Cup",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-03",
    "es_hoy": true
   }
@@ -949,7 +889,7 @@
   "n": 2461,
   "ganados": 1680,
   "win_rate": 68,
-  "hoy": 14
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 9,
