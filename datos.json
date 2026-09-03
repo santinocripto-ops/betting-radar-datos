@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T15:32:36.152052+00:00",
+ "actualizado": "2026-09-03T15:39:44.302420+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ahli Doha",
@@ -108,6 +108,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:39",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:39",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:25",
    "tipo": "live"
   },
@@ -164,18 +176,6 @@
    "texto": "──────────────────────────────",
    "hora": "15:30",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -245,6 +245,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Tychy 71",
+   "away": "ŁKS Łódź",
+   "liga": "Cup",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Atlantis",
    "away": "PEPO",
    "liga": "Kakkonen - Lohko A",
@@ -294,17 +305,6 @@
    "liga": "Liga 3",
    "minuto": 16,
    "score": 8.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Arys",
-   "away": "Ekibastuz",
-   "liga": "1. Division",
-   "minuto": 10,
-   "score": 8.7,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-03",
@@ -864,6 +864,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
+   "apuesta": "SI, US Open ATP: Felix Auger-Aliassime ganara",
+   "usdc": 127529,
+   "prob": 79.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "17:39"
+  },
+  {
    "titulo": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
    "apuesta": "SI, US Open ATP: Luciano Darderi ganara",
    "usdc": 110222,
@@ -925,22 +934,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xf",
    "hora": "05:23"
-  },
-  {
-   "titulo": "US Open ATP: Jaime Faria vs Carlos Alcaraz",
-   "apuesta": "SI, US Open ATP: Jaime Faria ganara",
-   "usdc": 92302,
-   "prob": 26.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "03:38"
   }
  ],
  "stats_gt": {
   "n": 2459,
   "ganados": 1679,
   "win_rate": 68,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 7,
