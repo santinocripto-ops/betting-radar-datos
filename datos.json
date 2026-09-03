@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T16:42:27.616665+00:00",
+ "actualizado": "2026-09-03T16:49:24.308479+00:00",
  "partidos_vivo": [
   {
    "home": "Atlantis",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:49",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:03",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:26",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
