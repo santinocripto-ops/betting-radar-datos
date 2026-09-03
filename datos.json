@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T13:03:21.275565+00:00",
+ "actualizado": "2026-09-03T13:10:21.027184+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:10",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -67,12 +73,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:05",
    "tipo": "smart_money"
   }
@@ -144,6 +144,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Astana II",
+   "away": "Taraz",
+   "liga": "1. Division",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Margveti 2006",
    "away": "Merani Tbilisi",
    "liga": "Liga 3",
@@ -195,17 +206,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Barcelona SC",
-   "away": "Independiente del Valle",
-   "liga": "Liga Pro",
-   "minuto": 18,
-   "score": 9.2,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-03",
    "es_hoy": true
   }
@@ -542,6 +542,21 @@
     "ts": "2026-09-02T22:04:45.621944+00:00"
    },
    {
+    "home": "Bursaspor",
+    "away": "İstanbulspor",
+    "liga": "1. Lig",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 3.98,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-03T17:00:00+00:00",
+    "ts": "2026-09-03T13:03:21.631616+00:00"
+   },
+   {
     "home": "NEOM",
     "away": "Al Khaleej Saihat",
     "liga": "Pro League",
@@ -705,27 +720,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-02T18:30:00+00:00",
     "ts": "2026-09-02T07:04:40.056400+00:00"
-   },
-   {
-    "home": "FC Luzern",
-    "away": "FC Vaduz",
-    "liga": "Super League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.12,
-    "pinnacle": true,
-    "delta": 4.08,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T18:30:00+00:00",
-    "ts": "2026-09-02T13:06:07.807669+00:00"
    }
   ],
   "balance": {
    "ganados": 205,
    "perdidos": 86,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 70.4,
    "total": 291
   }
@@ -817,7 +817,7 @@
   "n": 2456,
   "ganados": 1678,
   "win_rate": 68,
-  "hoy": 6
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 4,
