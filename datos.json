@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T18:44:30.138910+00:00",
+ "actualizado": "2026-09-03T18:51:10.259204+00:00",
  "partidos_vivo": [
   {
    "home": "Hapoel Tel Aviv",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:44",
    "tipo": "live"
   },
@@ -136,12 +142,6 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "19:04",
    "tipo": "smart_money"
   },
@@ -234,6 +234,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Gent",
+   "away": "OH Leuven",
+   "liga": "Jupiler Pro League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Anderlecht",
    "away": "Kortrijk",
    "liga": "Jupiler Pro League",
@@ -287,17 +298,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-03",
    "es_hoy": true
-  },
-  {
-   "home": "Mjallby AIF",
-   "away": "Djurgardens IF",
-   "liga": "Allsvenskan",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-03",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -307,7 +307,7 @@
   "balance_dia": -586.0,
   "ganados": 2482,
   "perdidos": 1075,
-  "pendientes": 6,
+  "pendientes": 9,
   "ganados_dia": 10,
   "perdidos_dia": 11,
   "win_rate": 69.8,
@@ -315,7 +315,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3563,
+  "con_cuota_media": 3566,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -929,12 +929,12 @@
   "n": 2463,
   "ganados": 1680,
   "win_rate": 68,
-  "hoy": 18
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 10,
   "perdidos": 11,
-  "en_juego": 8,
+  "en_juego": 11,
   "win_rate": 48
  },
  "stats_banker": {
