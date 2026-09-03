@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-03T12:42:42.596729+00:00",
+ "actualizado": "2026-09-03T12:49:25.225719+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥 MUY ALTA",
+   "hora": "14:49",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💰 DINERO A RESULTADO EXACTO",
    "hora": "11:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:08",
    "tipo": "smart_money"
   }
  ],
@@ -143,6 +143,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Margveti 2006",
+   "away": "Merani Tbilisi",
+   "liga": "Liga 3",
+   "minuto": 16,
+   "score": 8.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
   {
    "home": "Arys",
    "away": "Ekibastuz",
@@ -806,7 +817,7 @@
   "n": 2456,
   "ganados": 1678,
   "win_rate": 68,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 4,
