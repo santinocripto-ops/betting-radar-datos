@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T14:12:42.357085+00:00",
+ "actualizado": "2026-09-03T14:12:54.808836+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
@@ -144,6 +144,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Isloch Minsk R.",
+   "away": "Bate Borisov",
+   "liga": "Premier League",
+   "minuto": 10,
+   "score": 9.2,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-03",
+   "es_hoy": true
+  },
+  {
    "home": "Astana II",
    "away": "Taraz",
    "liga": "1. Division",
@@ -193,17 +204,6 @@
    "liga": "Copa Do Brasil",
    "minuto": 12,
    "score": 9.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportes Limache",
-   "away": "Nublense",
-   "liga": "Primera División",
-   "minuto": 15,
-   "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-03",
@@ -832,7 +832,7 @@
   "n": 2457,
   "ganados": 1678,
   "win_rate": 68,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 5,
