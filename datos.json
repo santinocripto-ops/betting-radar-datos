@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-03T07:46:58.668571+00:00",
+ "actualizado": "2026-09-03T07:53:57.956086+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -471,15 +471,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Club America",
-   "away": "Monterrey",
-   "liga": "Leagues Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
