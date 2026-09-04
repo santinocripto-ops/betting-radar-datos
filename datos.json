@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T11:22:00.064937+00:00",
+ "actualizado": "2026-09-04T11:28:13.566991+00:00",
  "partidos_vivo": [
   {
    "home": "Parramatta Eagles",
@@ -506,6 +506,21 @@
     "ts": "2026-09-03T20:09:35.248054+00:00"
    },
    {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 4.61,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-04T11:05:38.981836+00:00"
+   },
+   {
     "home": "SC Kriens",
     "away": "Stade Lausanne-Ouchy",
     "liga": "Challenge League",
@@ -579,6 +594,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-04T16:00:00+00:00",
     "ts": "2026-09-04T01:07:44.902201+00:00"
+   },
+   {
+    "home": "Hobro",
+    "away": "Hvidovre",
+    "liga": "1. Division",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.52,
+    "pinnacle": true,
+    "delta": 4.69,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T16:00:00+00:00",
+    "ts": "2026-09-04T11:05:28.453124+00:00"
    },
    {
     "home": "Slatina",
@@ -684,42 +714,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-03T18:00:00+00:00",
     "ts": "2026-09-03T09:05:38.481367+00:00"
-   },
-   {
-    "home": "Al Diriyah",
-    "away": "Al-Qadisiyah FC",
-    "liga": "Pro League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 7,
-    "cuota": 1.15,
-    "pinnacle": false,
-    "delta": 4.15,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T18:00:00+00:00",
-    "ts": "2026-09-03T09:05:38.677411+00:00"
-   },
-   {
-    "home": "Mjallby AIF",
-    "away": "Djurgardens IF",
-    "liga": "Allsvenskan",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.24,
-    "pinnacle": false,
-    "delta": 3.94,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T17:00:00+00:00",
-    "ts": "2026-09-02T22:04:45.621944+00:00"
    }
   ],
   "balance": {
    "ganados": 214,
    "perdidos": 87,
-   "pendientes": 8,
+   "pendientes": 10,
    "acierto": 71.1,
    "total": 301
   }
@@ -816,7 +816,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 33
  },
  "stats_banker": {
