@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T16:26:29.545051+00:00",
+ "actualizado": "2026-09-04T16:32:50.301961+00:00",
  "partidos_vivo": [
   {
    "home": "Dekani",
@@ -208,6 +208,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:32",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:19",
    "tipo": "live"
   },
@@ -270,12 +276,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:57",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -345,6 +345,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al-Wasl FC",
+   "away": "Khorfakkan",
+   "liga": "Pro League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
    "home": "Vlašim",
    "away": "Třinec",
    "liga": "FNL",
@@ -396,17 +407,6 @@
    "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Al Shamal",
-   "away": "Al Shahaniya",
-   "liga": "Stars League",
-   "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   }
@@ -1026,7 +1026,7 @@
   "n": 2478,
   "ganados": 1690,
   "win_rate": 68,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 5,
