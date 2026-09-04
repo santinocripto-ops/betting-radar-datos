@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T14:06:02.182639+00:00",
+ "actualizado": "2026-09-04T14:13:13.528233+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -505,6 +505,21 @@
     "ts": "2026-09-04T11:05:38.981836+00:00"
    },
    {
+    "home": "Defensores De Belgrano",
+    "away": "Racing Cordoba",
+    "liga": "Primera Nacional",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.23,
+    "pinnacle": true,
+    "delta": 3.65,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-04T14:06:02.487834+00:00"
+   },
+   {
     "home": "SC Kriens",
     "away": "Stade Lausanne-Ouchy",
     "liga": "Challenge League",
@@ -683,27 +698,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-03T18:45:00+00:00",
     "ts": "2026-09-03T17:04:30.765312+00:00"
-   },
-   {
-    "home": "Anderlecht",
-    "away": "Kortrijk",
-    "liga": "Jupiler Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.14,
-    "pinnacle": true,
-    "delta": 3.58,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T18:30:00+00:00",
-    "ts": "2026-09-03T15:03:06.834604+00:00"
    }
   ],
   "balance": {
    "ganados": 214,
    "perdidos": 87,
-   "pendientes": 11,
+   "pendientes": 12,
    "acierto": 71.1,
    "total": 301
   }
