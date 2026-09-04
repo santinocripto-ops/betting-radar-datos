@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T08:09:07.275114+00:00",
+ "actualizado": "2026-09-04T08:16:29.508641+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -539,6 +539,21 @@
     "ts": "2026-09-04T07:04:35.603884+00:00"
    },
    {
+    "home": "Hannover 96",
+    "away": "Karlsruher SC",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.78,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T16:30:00+00:00",
+    "ts": "2026-09-04T08:09:07.509674+00:00"
+   },
+   {
     "home": "Pogoń Grod. Mazowiecki",
     "away": "Warta Poznań",
     "liga": "I Liga",
@@ -717,27 +732,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-03T16:30:00+00:00",
     "ts": "2026-09-02T22:04:44.364186+00:00"
-   },
-   {
-    "home": "Raków Częstochowa",
-    "away": "Gornik Zabrze",
-    "liga": "Ekstraklasa",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.66,
-    "pinnacle": true,
-    "delta": 3.9,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T16:00:00+00:00",
-    "ts": "2026-09-03T08:08:24.805199+00:00"
    }
   ],
   "balance": {
    "ganados": 214,
    "perdidos": 87,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 71.1,
    "total": 301
   }
