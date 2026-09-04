@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T13:00:33.581288+00:00",
+ "actualizado": "2026-09-04T13:07:52.120763+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "12:04",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:57",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -123,9 +123,9 @@
    "cuota": null,
    "score": 10,
    "hora": "08:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1158
+   "n_historico": 1161
   },
   {
    "clave": "btts",
@@ -137,9 +137,9 @@
    "cuota": null,
    "score": 10,
    "hora": "08:30",
-   "resultado": "pendiente",
-   "wr_historico": 57,
-   "n_historico": 1143
+   "resultado": "ganado",
+   "wr_historico": 58,
+   "n_historico": 1147
   }
  ],
  "gol_temprano": [
@@ -191,7 +191,7 @@
     "away": "Brisbane Roar",
     "liga": "Friendlies Clubs",
     "hora": "10:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -209,7 +209,7 @@
     "away": "Wigan Athletic U21",
     "liga": "Professional Development League",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -218,7 +218,7 @@
     "away": "Olympic Kingsway",
     "liga": "Western Australia NPL",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -227,7 +227,7 @@
     "away": "Perth",
     "liga": "Western Australia NPL",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -319,7 +319,7 @@
     "away": "Brisbane Roar",
     "liga": "Friendlies Clubs",
     "hora": "10:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -355,7 +355,7 @@
     "away": "Olympic Kingsway",
     "liga": "Western Australia NPL",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -364,7 +364,7 @@
     "away": "Perth",
     "liga": "Western Australia NPL",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -442,22 +442,14 @@
    }
   ],
   "balance": {
-   "ganados": 1371,
+   "ganados": 1378,
    "perdidos": 930,
-   "acierto": 59.6,
-   "yield": 13.2,
+   "acierto": 59.7,
+   "yield": 13.4,
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Lecce U20",
-   "away": "Roma U20",
-   "liga": "Campionato Primavera - 1",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -705,6 +697,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
+   "apuesta": "SI, Counter-Strike: FURIA ganara",
+   "usdc": 100000,
+   "prob": 35.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "15:06"
+  },
+  {
    "titulo": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
    "apuesta": "SI, Counter-Strike: Team Falcons ganara",
    "usdc": 160000,
@@ -765,15 +766,6 @@
    "prob": 64.0,
    "n_traders": 2,
    "trader": "RN1",
-   "hora": "09:53"
-  },
-  {
-   "titulo": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
-   "apuesta": "SI, LoL: KT Rolster ganara",
-   "usdc": 252464,
-   "prob": 37.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x4",
    "hora": "09:53"
   }
  ],
