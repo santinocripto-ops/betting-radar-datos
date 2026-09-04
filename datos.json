@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T10:04:57.864306+00:00",
+ "actualizado": "2026-09-04T10:06:30.986203+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "09:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:47",
    "tipo": "smart_money"
   }
  ],
@@ -675,7 +675,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "13:00",
+  "cuota": 1.36,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
