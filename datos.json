@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T16:39:01.340899+00:00",
+ "actualizado": "2026-09-04T16:45:20.413851+00:00",
  "partidos_vivo": [
   {
    "home": "Dekani",
@@ -206,6 +206,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:45",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:32",
@@ -270,12 +276,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -950,6 +950,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
+   "apuesta": "SI, US Open ATP: Daniil Medvedev ganara",
+   "usdc": 65569,
+   "prob": 73.5,
+   "n_traders": 1,
+   "trader": "beachboy4",
+   "hora": "18:45"
+  },
+  {
    "titulo": "US Open ATP: Alexander Bublik vs Tommy Paul",
    "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
    "usdc": 235366,
@@ -1011,15 +1020,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
    "hora": "14:21"
-  },
-  {
-   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 19956,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "13:03"
   }
  ],
  "stats_gt": {
