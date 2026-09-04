@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T21:10:38.875891+00:00",
+ "actualizado": "2026-09-04T22:10:03.909902+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:27",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:22",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -84,27 +84,27 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Aalesund",
-   "away": "Start",
-   "liga": "Eliteserien",
-   "cuota": 1.15,
-   "score": 9.05,
-   "hora": "17:00",
-   "resultado": "ganado",
+   "home": "Borussia Mönchengladbach",
+   "away": "SV Elversberg",
+   "liga": "Bundesliga",
+   "cuota": 2.2,
+   "score": 8.44,
+   "hora": "13:30",
+   "resultado": "pendiente",
    "wr_historico": 78,
    "n_historico": 155
   },
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": "alta",
-   "home": "Olympic",
-   "away": "Brisbane Roar",
-   "liga": "Friendlies Clubs",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
    "cuota": null,
-   "score": 10,
-   "hora": "08:30",
-   "resultado": "ganado",
+   "score": null,
+   "hora": "",
+   "resultado": null,
    "wr_historico": 62,
    "n_historico": 1177
   },
@@ -112,13 +112,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Olympic",
-   "away": "Brisbane Roar",
-   "liga": "Friendlies Clubs",
+   "home": "RB do Norte",
+   "away": "Manicoré",
+   "liga": "Amazonense - 2",
    "cuota": null,
    "score": 10,
-   "hora": "08:30",
-   "resultado": "ganado",
+   "hora": "01:30",
+   "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 1162
   }
@@ -133,7 +133,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "VfB Stuttgart",
@@ -144,7 +144,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Lommel United",
@@ -155,7 +155,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Genoa",
@@ -166,7 +166,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Arda Kardzhali",
@@ -177,7 +177,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Nafta",
@@ -188,19 +188,19 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-04",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 49708.0,
   "balance_total": 39708.0,
-  "balance_dia": 521.0,
+  "balance_dia": 0.0,
   "ganados": 2520,
   "perdidos": 1091,
   "pendientes": 1,
-  "ganados_dia": 29,
-  "perdidos_dia": 12,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
@@ -212,260 +212,133 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Olympic",
-    "away": "Brisbane Roar",
-    "liga": "Friendlies Clubs",
-    "hora": "10:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Yangon Royals",
-    "away": "Yadanarbon",
-    "liga": "National League",
-    "hora": "11:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Sheffield Wednesday U21",
-    "away": "Wigan Athletic U21",
-    "liga": "Professional Development League",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Bayswater City",
-    "away": "Olympic Kingsway",
-    "liga": "Western Australia NPL",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Perth RedStar",
-    "away": "Perth",
-    "liga": "Western Australia NPL",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Carolina Core",
-    "away": "New England II",
-    "liga": "MLS Next Pro",
-    "hora": "00:30",
+    "home": "RB do Norte",
+    "away": "Manicoré",
+    "liga": "Amazonense - 2",
+    "hora": "03:30",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Inter Miami II",
-    "away": "Orlando City II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
+    "home": "Atlas W",
+    "away": "Guadalajara W",
+    "liga": "Liga MX Femenil",
+    "hora": "04:06",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Minsk II",
-    "away": "Niva",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Molodechno-DYuSSh 4",
-    "away": "BATE II",
-    "liga": "1. Division",
-    "hora": "16:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Fyllingsdalen W",
-    "away": "Odd W",
-    "liga": "1. Division Women",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Aerostar Bacau",
-    "away": "Gheorgheni",
-    "liga": "Liga III - Serie 1",
-    "hora": "16:00",
+    "home": "FC Juarez",
+    "away": "CF Pachuca",
+    "liga": "Liga MX",
+    "hora": "05:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Progresul Pecica",
-    "away": "Poli Timisoara 2",
-    "liga": "Liga III - Serie 7",
-    "hora": "16:00",
+    "home": "CA La Paz",
+    "away": "Mineros de Zacatecas",
+    "liga": "Liga de Expansión MX",
+    "hora": "05:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Timişul Şag",
-    "away": "Cetate Deva",
-    "liga": "Liga III - Serie 7",
-    "hora": "16:00",
+    "home": "Pumas UNAM W",
+    "away": "América W",
+    "liga": "Liga MX Femenil",
+    "hora": "05:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Volna",
-    "away": "Dinamo Minsk II",
-    "liga": "1. Division",
-    "hora": "16:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   }
-  ],
-  "over25": [
-   {
-    "home": "Olympic",
-    "away": "Brisbane Roar",
-    "liga": "Friendlies Clubs",
-    "hora": "10:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "GFA",
-    "away": "Yangon United",
-    "liga": "National League",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Akademiya Konoplev U20",
-    "away": "Ural U20",
-    "liga": "Youth Championship",
-    "hora": "12:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Zenit U19",
-    "away": "Rubin Kazan U20",
-    "liga": "Youth Championship",
-    "hora": "12:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Bayswater City",
-    "away": "Olympic Kingsway",
-    "liga": "Western Australia NPL",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Perth RedStar",
-    "away": "Perth",
-    "liga": "Western Australia NPL",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Philadelphia Union II",
-    "away": "Columbus Crew II",
-    "liga": "MLS Next Pro",
-    "hora": "01:00",
+    "home": "South Hobart",
+    "away": "Devonport City",
+    "liga": "Tasmania NPL",
+    "hora": "05:00",
     "resultado": "pendiente",
-    "mercado": "Over 2.5",
+    "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "CSKA Moskva U19",
-    "away": "Nizhny Novgorod U19",
-    "liga": "Youth Championship",
+    "home": "Kahibah",
+    "away": "Newcastle Croatia FC",
+    "liga": "Northern NSW NPL",
+    "hora": "06:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Bærum",
+    "away": "Nordstrand",
+    "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Minsk II",
-    "away": "Niva",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
+    "home": "Byåsen",
+    "away": "Strindheim",
+    "liga": "3. Division - Girone 2",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Al-Ittihad Kalba",
-    "away": "Al Ain",
-    "liga": "Pro League",
-    "hora": "15:45",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
+    "home": "Djerv",
+    "away": "Askøy",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Rostov U19",
-    "away": "Spartak Moskva U19",
-    "liga": "Youth Championship",
-    "hora": "16:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
+    "home": "Varhaug",
+    "away": "Brodd",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Krasnodar U19",
-    "away": "Dynamo Makhachkala U19",
-    "liga": "Youth Championship",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
+    "home": "Fløya",
+    "away": "Skjetten",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Molodechno-DYuSSh 4",
-    "away": "BATE II",
-    "liga": "1. Division",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
+    "home": "Ulfstind",
+    "away": "Fauske Sprint",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Fyllingsdalen W",
-    "away": "Odd W",
-    "liga": "1. Division Women",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
+    "home": "Torns",
+    "away": "Växjö Norra",
+    "liga": "Division 2 - Södra Götaland",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
     "tanda": 2
    }
   ],
+  "over25": [],
   "balance": {
    "ganados": 1401,
    "perdidos": 938,
@@ -474,22 +347,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Vitesse",
-   "away": "FC OSS",
-   "liga": "Eerste Divisie",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "CFR 1907 Cluj",
-   "away": "Farul Constanta",
-   "liga": "Liga I",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -502,8 +360,8 @@
     "cuota": 1.97,
     "pinnacle": true,
     "delta": 3.34,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T18:30:00+00:00",
     "ts": "2026-09-03T20:09:35.248054+00:00"
    },
@@ -517,8 +375,8 @@
     "cuota": 1.35,
     "pinnacle": true,
     "delta": 4.61,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-04T18:30:00+00:00",
     "ts": "2026-09-04T11:05:38.981836+00:00"
    },
@@ -532,8 +390,8 @@
     "cuota": 1.23,
     "pinnacle": true,
     "delta": 3.65,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T18:30:00+00:00",
     "ts": "2026-09-04T14:06:02.487834+00:00"
    },
@@ -547,8 +405,8 @@
     "cuota": 1.35,
     "pinnacle": false,
     "delta": 4.28,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-04T18:30:00+00:00",
     "ts": "2026-09-04T17:09:55.668618+00:00"
    },
@@ -562,8 +420,8 @@
     "cuota": 1.16,
     "pinnacle": true,
     "delta": 4.01,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T17:30:00+00:00",
     "ts": "2026-09-04T07:04:35.603884+00:00"
    },
@@ -577,8 +435,8 @@
     "cuota": 1.4,
     "pinnacle": true,
     "delta": 4.07,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T17:30:00+00:00",
     "ts": "2026-09-04T13:09:16.435218+00:00"
    },
@@ -719,23 +577,26 @@
    }
   ],
   "balance": {
-   "ganados": 220,
-   "perdidos": 89,
-   "pendientes": 6,
-   "acierto": 71.2,
-   "total": 309
+   "ganados": 224,
+   "perdidos": 91,
+   "pendientes": 0,
+   "acierto": 71.1,
+   "total": 315
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "13:00",
-  "cuota": 1.36,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open WTA (Doubles): Williams/Williams vs Chan/Joint",
+   "apuesta": "SI, US Open WTA (Doubles): Williams/Williams ganara",
+   "usdc": 134427,
+   "prob": 31.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "00:09"
+  },
   {
    "titulo": "Will Real Madrid CF win on 2026-09-04?",
    "apuesta": "SI, Real Madrid ganara",
@@ -798,28 +659,19 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "15:30"
-  },
-  {
-   "titulo": "Como: Thiago Seyboth Wild vs Juan Pablo Varillas",
-   "apuesta": "SI, Como: Thiago Seyboth Wild ganara",
-   "usdc": 55591,
-   "prob": 40.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:22"
   }
  ],
  "stats_gt": {
   "n": 2509,
   "ganados": 1712,
   "win_rate": 68,
-  "hoy": 36
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 30,
-  "perdidos": 14,
+  "ganados": 0,
+  "perdidos": 0,
   "en_juego": 0,
-  "win_rate": 68
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 78,
