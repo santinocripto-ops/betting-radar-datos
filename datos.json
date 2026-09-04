@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T07:46:15.497583+00:00",
+ "actualizado": "2026-09-04T07:53:38.800472+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "09:53",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "09:53",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -734,6 +746,24 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
+   "apuesta": "SI, Zhangjiagang: Kasidit Samrej ganara",
+   "usdc": 20050,
+   "prob": 64.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "09:53"
+  },
+  {
+   "titulo": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Playoffs",
+   "apuesta": "SI, LoL: KT Rolster ganara",
+   "usdc": 252464,
+   "prob": 37.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "09:53"
+  },
   {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
