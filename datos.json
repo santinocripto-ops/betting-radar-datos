@@ -1,24 +1,44 @@
 {
- "actualizado": "2026-09-04T10:35:54.266738+00:00",
+ "actualizado": "2026-09-04T10:43:39.244899+00:00",
  "partidos_vivo": [
   {
-   "home": "Lecce U20",
-   "away": "Roma U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Parramatta Eagles",
+   "away": "Prospect United",
+   "liga": "New South Wales NPL 2",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 9.5,
+   "score": 7.8,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Measurers",
+   "away": "Calcutta Police",
+   "liga": "Calcutta Premier Division",
+   "minuto": 51,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
