@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T10:06:30.986203+00:00",
+ "actualizado": "2026-09-04T10:13:44.590731+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:13",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -62,12 +68,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "09:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:04",
    "tipo": "smart_money"
   },
   {
@@ -685,6 +685,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 380953,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "12:13"
+  },
+  {
    "titulo": "LoL: KT Rolster vs Dplus KIA - Game 3 Winner",
    "apuesta": "SI, ganara",
    "usdc": 25418,
@@ -746,15 +755,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "04:50"
-  },
-  {
-   "titulo": "US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina",
-   "apuesta": "SI, US Open WTA: Jessica Bouzas Maneiro ganara",
-   "usdc": 90150,
-   "prob": 8.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "04:22"
   }
  ],
  "stats_gt": {
