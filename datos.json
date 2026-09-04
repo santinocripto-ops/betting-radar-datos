@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T08:00:45.815303+00:00",
+ "actualizado": "2026-09-04T08:09:07.275114+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -84,18 +96,6 @@
    "texto": "⚽ Tepatitlán vs Dorados · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.28 (10 ",
    "hora": "02:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "02:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "02:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -746,6 +746,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: Anyone's Legend ganara",
+   "usdc": 91780,
+   "prob": 67.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "10:07"
+  },
   {
    "titulo": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
    "apuesta": "SI, Zhangjiagang: Kasidit Samrej ganara",
