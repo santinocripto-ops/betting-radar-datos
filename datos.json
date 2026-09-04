@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T10:57:32.332896+00:00",
+ "actualizado": "2026-09-04T11:04:35.342156+00:00",
  "partidos_vivo": [
   {
    "home": "Parramatta Eagles",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:46",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -170,8 +170,8 @@
    "score": 10,
    "hora": "08:30",
    "resultado": "pendiente",
-   "wr_historico": 58,
-   "n_historico": 1142
+   "wr_historico": 57,
+   "n_historico": 1143
   }
  ],
  "gol_temprano": [
@@ -182,21 +182,21 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49187.0,
-  "balance_total": 39187.0,
-  "balance_dia": 0.0,
-  "ganados": 2491,
-  "perdidos": 1079,
-  "pendientes": 3,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 49132.0,
+  "balance_total": 39132.0,
+  "balance_dia": -55.0,
+  "ganados": 2492,
+  "perdidos": 1080,
+  "pendientes": 1,
+  "ganados_dia": 1,
+  "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
@@ -221,7 +221,7 @@
     "away": "Yadanarbon",
     "liga": "National League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -464,9 +464,9 @@
   ],
   "balance": {
    "ganados": 1371,
-   "perdidos": 929,
+   "perdidos": 930,
    "acierto": 59.6,
-   "yield": 13.3,
+   "yield": 13.2,
    "cuota_media": 1.9
   }
  },
@@ -476,7 +476,7 @@
    "away": "Roma U20",
    "liga": "Campionato Primavera - 1",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -726,6 +726,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 19956,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:03"
+  },
+  {
    "titulo": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
    "apuesta": "SI, ganara",
    "usdc": 380953,
@@ -787,28 +796,19 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "06:47"
-  },
-  {
-   "titulo": "US Open ATP: Alexander Zverev vs Quentin Halys",
-   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
-   "usdc": 177533,
-   "prob": 89.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "04:50"
   }
  ],
  "stats_gt": {
-  "n": 2473,
+  "n": 2474,
   "ganados": 1686,
   "win_rate": 68,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 1,
+  "perdidos": 2,
+  "en_juego": 1,
+  "win_rate": 33
  },
  "stats_banker": {
   "ganados": 77,
