@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T12:15:02.425900+00:00",
+ "actualizado": "2026-09-04T12:21:32.814615+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:21",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -173,7 +173,7 @@
   "balance_dia": -55.0,
   "ganados": 2492,
   "perdidos": 1080,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 1,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -181,7 +181,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3573,
+  "con_cuota_media": 3574,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -705,6 +705,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Liverpool FC win on 2026-09-04?",
+   "apuesta": "SI, Liverpool ganara",
+   "usdc": 80000,
+   "prob": 64.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "14:21"
+  },
+  {
    "titulo": "LoL: KT Rolster vs Dplus KIA - Game 4 Winner",
    "apuesta": "SI, ganara",
    "usdc": 19956,
@@ -766,15 +775,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "09:46"
-  },
-  {
-   "titulo": "Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter",
-   "apuesta": "SI, Zhangjiagang: Mitsuki Wei Kang Leong ganara",
-   "usdc": 16490,
-   "prob": 39.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:47"
   }
  ],
  "stats_gt": {
@@ -786,7 +786,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 2,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 33
  },
  "stats_banker": {
