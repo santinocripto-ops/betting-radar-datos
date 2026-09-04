@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T11:04:35.342156+00:00",
+ "actualizado": "2026-09-04T11:05:47.497911+00:00",
  "partidos_vivo": [
   {
    "home": "Parramatta Eagles",
@@ -45,6 +45,24 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Las Palmas vs Leganes · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.29 (10 casas)",
+   "hora": "13:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -98,28 +116,19 @@
    "texto": "──────────────────────────────",
    "hora": "10:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "09:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "09:53",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "09:46",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Las Palmas",
+   "away": "Leganes",
+   "liga": "Segunda División",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.29,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04"
+  },
   {
    "home": "Slatina",
    "away": "Chindia Targoviste",
@@ -813,7 +822,7 @@
  "stats_banker": {
   "ganados": 77,
   "perdidos": 30,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
