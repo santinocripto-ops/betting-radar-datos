@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T15:02:18.927457+00:00",
+ "actualizado": "2026-09-04T15:11:14.240303+00:00",
  "partidos_vivo": [
   {
    "home": "Minsk II",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:00",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:21",
    "tipo": "smart_money"
   }
  ],
@@ -164,6 +164,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "NJS",
+   "away": "Musa",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 11,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
   {
    "home": "Al Shamal",
    "away": "Al Shahaniya",
@@ -827,7 +838,7 @@
   "n": 2475,
   "ganados": 1687,
   "win_rate": 68,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 2,
