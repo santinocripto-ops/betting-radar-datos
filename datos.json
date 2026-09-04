@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T03:05:26.527506+00:00",
+ "actualizado": "2026-09-04T03:13:33.620288+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -527,8 +527,8 @@
     "cuota": 1.36,
     "pinnacle": true,
     "delta": 4.49,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-4",
+    "resultado": "perdido",
     "kickoff": "2026-09-04T01:00:00+00:00",
     "ts": "2026-09-04T00:04:51.136118+00:00"
    },
@@ -542,8 +542,8 @@
     "cuota": 1.29,
     "pinnacle": true,
     "delta": 4.04,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-4",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T01:00:00+00:00",
     "ts": "2026-09-04T00:04:51.323154+00:00"
    },
@@ -699,11 +699,11 @@
    }
   ],
   "balance": {
-   "ganados": 213,
-   "perdidos": 86,
-   "pendientes": 5,
-   "acierto": 71.2,
-   "total": 299
+   "ganados": 214,
+   "perdidos": 87,
+   "pendientes": 3,
+   "acierto": 71.1,
+   "total": 301
   }
  },
  "mejor_dia": {
