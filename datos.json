@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-09-04T16:45:20.413851+00:00",
+ "actualizado": "2026-09-04T16:46:42.855602+00:00",
  "partidos_vivo": [
   {
-   "home": "Dekani",
-   "away": "Tabor Sežana",
-   "liga": "2. SNL",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Al Urooba",
-   "away": "Al Jazira Al Hamra",
-   "liga": "Division 1",
-   "minuto": 52,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "MyPa",
+   "away": "Reipas",
+   "liga": "Kakkonen - Lohko A",
+   "minuto": 58,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,18 +16,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "⚽ Liga muy goleadora: 3.96 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Al Jazira Al Hamra buscará el empate"
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "NJS",
-   "away": "Musa",
+   "home": "GrIFK",
+   "away": "EBK",
    "liga": "Kakkonen - Lohko B",
-   "minuto": 61,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -58,94 +38,34 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.41 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "FCI Levadia II",
-   "away": "Flora II",
-   "liga": "Esiliiga A",
-   "minuto": 62,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Ilirija",
-   "away": "Primorje",
-   "liga": "2. SNL",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Uljanik",
-   "away": "Dugo Selo",
-   "liga": "Second NL",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dugo Selo buscará el empate"
-   ]
-  },
-  {
-   "home": "Lucko",
-   "away": "Solin",
-   "liga": "Second NL",
-   "minuto": 62,
+   "home": "JIPPO",
+   "away": "Kooteepee",
+   "liga": "Ykkösliiga",
+   "minuto": 59,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.1,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Lucko buscará el empate"
+    "⚽ 1 gol — JIPPO buscará el empate"
    ]
   },
   {
-   "home": "Åsane W",
-   "away": "Viking FK W",
-   "liga": "1. Division Women",
-   "minuto": 57,
+   "home": "Unia Swarzędz",
+   "away": "Lech Poznań II",
+   "liga": "III Liga - Group 2",
+   "minuto": 50,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -156,55 +76,47 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.7 goles/partido",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Al Qadsia",
+   "away": "Al Nasar",
+   "liga": "Premier League",
+   "minuto": 47,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
-  },
-  {
-   "home": "Pelikan Łowicz",
-   "away": "Swit",
-   "liga": "III Liga - Group 1",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Warta Sieradz",
-   "away": "Olimpia Elbląg",
-   "liga": "III Liga - Group 1",
-   "minuto": 53,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
   }
  ],
- "partidos_vivo_total": 20,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -264,18 +176,6 @@
    "texto": "──────────────────────────────",
    "hora": "16:55",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:55",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -345,6 +245,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Tekstilshchik",
+   "away": "Torpedo Moskva",
+   "liga": "First League",
+   "minuto": 14,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Hannover 96",
+   "away": "Karlsruher SC",
+   "liga": "2. Bundesliga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
    "home": "Al-Wasl FC",
    "away": "Khorfakkan",
    "liga": "Pro League",
@@ -383,28 +305,6 @@
    "liga": "2. SNL",
    "minuto": 17,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Åsane W",
-   "away": "Viking FK W",
-   "liga": "1. Division Women",
-   "minuto": 17,
-   "score": 9.3,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "NJS",
-   "away": "Musa",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 11,
-   "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-04",
@@ -1026,7 +926,7 @@
   "n": 2478,
   "ganados": 1690,
   "win_rate": 68,
-  "hoy": 11
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 5,
