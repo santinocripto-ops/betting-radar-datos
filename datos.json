@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T12:07:08.957059+00:00",
+ "actualizado": "2026-09-04T12:15:02.425900+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "11:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:09",
    "tipo": "smart_money"
   }
  ],
@@ -143,6 +143,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "CSKA Moskva U19",
+   "away": "Nizhny Novgorod U19",
+   "liga": "Youth Championship",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
   {
    "home": "Lecce U20",
    "away": "Roma U20",
@@ -770,7 +781,7 @@
   "n": 2474,
   "ganados": 1686,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
