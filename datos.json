@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T15:19:42.773476+00:00",
+ "actualizado": "2026-09-04T15:26:17.001255+00:00",
  "partidos_vivo": [
   {
    "home": "Al Shamal",
@@ -358,7 +358,7 @@
   "balance_dia": 6.0,
   "ganados": 2493,
   "perdidos": 1080,
-  "pendientes": 5,
+  "pendientes": 7,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -366,7 +366,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3578,
+  "con_cuota_media": 3580,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -963,7 +963,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 6,
+  "en_juego": 8,
   "win_rate": 50
  },
  "stats_banker": {
