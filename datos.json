@@ -1,13 +1,33 @@
 {
- "actualizado": "2026-09-04T15:11:14.240303+00:00",
+ "actualizado": "2026-09-04T15:19:42.773476+00:00",
  "partidos_vivo": [
   {
-   "home": "Minsk II",
-   "away": "Niva",
+   "home": "Al Shamal",
+   "away": "Al Shahaniya",
+   "liga": "Stars League",
+   "minuto": 55,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "Molodechno-DYuSSh 4",
+   "away": "BATE II",
    "liga": "1. Division",
    "minuto": 61,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -18,13 +38,125 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.34 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ 1 gol — BATE II buscará el empate"
+   ]
+  },
+  {
+   "home": "Fyllingsdalen W",
+   "away": "Odd W",
+   "liga": "1. Division Women",
+   "minuto": 58,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.7 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Prishtina",
+   "away": "Vushtrria",
+   "liga": "Superliga",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Rostov U19",
+   "away": "Spartak Moskva U19",
+   "liga": "Youth Championship",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Krasnodar U19",
+   "away": "Dynamo Makhachkala U19",
+   "liga": "Youth Championship",
+   "minuto": 57,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Chertanovo U20",
+   "away": "Almaz Antey U19",
+   "liga": "Youth Championship",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:19",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +215,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:00",
    "tipo": "smart_money"
   }
  ],
@@ -165,6 +285,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Dekani",
+   "away": "Tabor Sežana",
+   "liga": "2. SNL",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Åsane W",
+   "away": "Viking FK W",
+   "liga": "1. Division Women",
+   "minuto": 17,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
    "home": "NJS",
    "away": "Musa",
    "liga": "Kakkonen - Lohko B",
@@ -207,28 +349,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-04",
    "es_hoy": true
-  },
-  {
-   "home": "CSKA Moskva U19",
-   "away": "Nizhny Novgorod U19",
-   "liga": "Youth Championship",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Lecce U20",
-   "away": "Roma U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-04",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -238,7 +358,7 @@
   "balance_dia": 6.0,
   "ganados": 2493,
   "perdidos": 1080,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.8,
@@ -246,7 +366,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3577,
+  "con_cuota_media": 3578,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -838,12 +958,12 @@
   "n": 2475,
   "ganados": 1687,
   "win_rate": 68,
-  "hoy": 6
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 50
  },
  "stats_banker": {
