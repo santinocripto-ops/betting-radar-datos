@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T21:10:33.947000+00:00",
+ "actualizado": "2026-09-04T21:10:38.875891+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -78,17 +78,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Las Palmas",
-   "away": "Leganes",
-   "liga": "Segunda División",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.29,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -102,7 +92,7 @@
    "hora": "17:00",
    "resultado": "ganado",
    "wr_historico": 78,
-   "n_historico": 149
+   "n_historico": 155
   },
   {
    "clave": "over25",
@@ -116,7 +106,7 @@
    "hora": "08:30",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1174
+   "n_historico": 1177
   },
   {
    "clave": "btts",
@@ -130,7 +120,7 @@
    "hora": "08:30",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1156
+   "n_historico": 1162
   }
  ],
  "gol_temprano": [
@@ -141,7 +131,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -152,7 +142,7 @@
    "minuto": 25,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -163,7 +153,7 @@
    "minuto": 11,
    "score": 9.6,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -174,7 +164,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -185,7 +175,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -196,21 +186,21 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49509.0,
-  "balance_total": 39509.0,
-  "balance_dia": 322.0,
-  "ganados": 2505,
-  "perdidos": 1084,
-  "pendientes": 23,
-  "ganados_dia": 14,
-  "perdidos_dia": 5,
+  "capital": 49708.0,
+  "balance_total": 39708.0,
+  "balance_dia": 521.0,
+  "ganados": 2520,
+  "perdidos": 1091,
+  "pendientes": 1,
+  "ganados_dia": 29,
+  "perdidos_dia": 12,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
@@ -477,8 +467,8 @@
    }
   ],
   "balance": {
-   "ganados": 1396,
-   "perdidos": 934,
+   "ganados": 1401,
+   "perdidos": 938,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -490,14 +480,14 @@
    "away": "FC OSS",
    "liga": "Eerste Divisie",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "CFR 1907 Cluj",
    "away": "Farul Constanta",
    "liga": "Liga I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -820,21 +810,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2489,
-  "ganados": 1698,
+  "n": 2509,
+  "ganados": 1712,
   "win_rate": 68,
   "hoy": 36
  },
  "stats_dia": {
-  "ganados": 15,
-  "perdidos": 6,
-  "en_juego": 23,
-  "win_rate": 71
+  "ganados": 30,
+  "perdidos": 14,
+  "en_juego": 0,
+  "win_rate": 68
  },
  "stats_banker": {
   "ganados": 78,
-  "perdidos": 30,
-  "pendientes": 1,
+  "perdidos": 31,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
