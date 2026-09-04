@@ -1,11 +1,39 @@
 {
- "actualizado": "2026-09-03T23:56:55.123673+00:00",
+ "actualizado": "2026-09-04T00:05:13.699762+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Tepatitlán vs Dorados · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.28 (10 ",
+   "hora": "02:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "02:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "02:04",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Tepatitlán",
+   "away": "Dorados",
+   "liga": "Liga de Expansión MX",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.28,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04"
+  },
   {
    "home": "Slatina",
    "away": "Chindia Targoviste",
@@ -667,7 +695,7 @@
  "stats_banker": {
   "ganados": 77,
   "perdidos": 29,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
