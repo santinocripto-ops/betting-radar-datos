@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T13:57:22.368739+00:00",
+ "actualizado": "2026-09-04T14:06:02.182639+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚽ Las Palmas vs Leganes · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.29 (10 casas)",
    "hora": "13:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -172,7 +172,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-04",
    "es_hoy": true
   },
@@ -190,20 +190,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49132.0,
-  "balance_total": 39132.0,
-  "balance_dia": -55.0,
-  "ganados": 2492,
+  "capital": 49193.0,
+  "balance_total": 39193.0,
+  "balance_dia": 6.0,
+  "ganados": 2493,
   "perdidos": 1080,
   "pendientes": 3,
-  "ganados_dia": 1,
+  "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3575,
+  "con_cuota_media": 3576,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -792,16 +792,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2474,
-  "ganados": 1686,
+  "n": 2475,
+  "ganados": 1687,
   "win_rate": 68,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 2,
   "en_juego": 4,
-  "win_rate": 33
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 77,
