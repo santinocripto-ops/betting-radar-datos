@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T13:09:16.197732+00:00",
+ "actualizado": "2026-09-04T13:15:54.165877+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -498,6 +498,21 @@
     "ts": "2026-09-04T07:04:35.603884+00:00"
    },
    {
+    "home": "SC Kriens",
+    "away": "Stade Lausanne-Ouchy",
+    "liga": "Challenge League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.4,
+    "pinnacle": true,
+    "delta": 4.07,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T17:30:00+00:00",
+    "ts": "2026-09-04T13:09:16.435218+00:00"
+   },
+   {
     "home": "IFK Norrkoping",
     "away": "Ljungskile SK",
     "liga": "Superettan",
@@ -661,27 +676,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-03T18:30:00+00:00",
     "ts": "2026-09-03T15:03:06.834604+00:00"
-   },
-   {
-    "home": "Al Diriyah",
-    "away": "Al-Qadisiyah FC",
-    "liga": "Pro League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 8,
-    "cuota": 1.15,
-    "pinnacle": true,
-    "delta": 4.74,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T18:00:00+00:00",
-    "ts": "2026-09-03T09:05:38.481367+00:00"
    }
   ],
   "balance": {
    "ganados": 214,
    "perdidos": 87,
-   "pendientes": 10,
+   "pendientes": 11,
    "acierto": 71.1,
    "total": 301
   }
