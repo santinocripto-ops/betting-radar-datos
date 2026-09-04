@@ -1,250 +1,114 @@
 {
- "actualizado": "2026-09-04T18:48:16.805606+00:00",
+ "actualizado": "2026-09-04T18:56:52.072042+00:00",
  "partidos_vivo": [
   {
-   "home": "Aalesund",
-   "away": "Start",
-   "liga": "Eliteserien",
+   "home": "Assyriska FF",
+   "away": "Stocksund",
+   "liga": "Ettan - Norra",
    "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 51,
-   "momentum_away": 49,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Start pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "IFK Norrkoping",
-   "away": "Ljungskile SK",
-   "liga": "Superettan",
-   "minuto": 63,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 24 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Osters IF",
-   "away": "United Nordic",
-   "liga": "Superettan",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 19,
-   "momentum_away": 81,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚽ 1 gol — Osters IF buscará el empate",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Viborg",
-   "away": "Lyngby",
-   "liga": "Superliga",
-   "minuto": 64,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Viborg pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Lyon",
-   "away": "Auxerre",
-   "liga": "Ligue 1",
-   "minuto": 61,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (Ligue 1)",
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Novi Pazar",
-   "away": "Železničar Pančevo",
-   "liga": "Super Liga",
-   "minuto": 62,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Železničar Pančevo buscará el empate",
-    "🎯 13 remates totales",
-    "⏱ 28 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "FC Ingolstadt 04",
-   "away": "Alemannia Aachen",
-   "liga": "3. Liga",
-   "minuto": 64,
-   "marcador": "0-3",
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.5,
    "recomendar": true,
-   "momentum_home": 24,
-   "momentum_away": 76,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Başakşehir",
-   "away": "Galatasaray",
-   "liga": "Süper Lig",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "FC Aarau",
+   "away": "Rapperswil",
+   "liga": "Challenge League",
+   "minuto": 61,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.81 goles/partido",
-    "⚽ 1 gol — Başakşehir buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "ÍF II",
-   "away": "Hoyvík",
-   "liga": "1. Deild",
-   "minuto": 63,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.59 goles/partido",
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Frem",
-   "away": "Ringsted",
-   "liga": "3. Division",
-   "minuto": 65,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "SV Drochtersen/Assel",
+   "away": "Eimsbütteler TV",
+   "liga": "Regionalliga - Nord",
+   "minuto": 61,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Floridsdorfer AC",
-   "away": "Schwarz-Weiß Bregenz",
-   "liga": "Cup",
+   "home": "Independiente F.b.c.",
+   "away": "Fernando De La Mora",
+   "liga": "Division Intermedia",
    "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
-  },
-  {
-   "home": "Wallern / Marienkirchen",
-   "away": "Ried",
-   "liga": "Cup",
-   "minuto": 61,
-   "marcador": "0-5",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.89 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
   }
  ],
- "partidos_vivo_total": 32,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -291,30 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
    "tipo": "live"
   }
  ],
@@ -376,6 +216,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Caernarfon Town",
+   "away": "Flint Town United",
+   "liga": "Premier League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "VfB Stuttgart",
+   "away": "1. FC Köln",
+   "liga": "Bundesliga",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Lommel United",
+   "away": "Club Brugge KV",
+   "liga": "Jupiler Pro League",
+   "minuto": 11,
+   "score": 9.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Genoa",
+   "away": "Como",
+   "liga": "Serie A",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
    "home": "Arda Kardzhali",
    "away": "Botev Plovdiv",
    "liga": "First League",
@@ -391,50 +275,6 @@
    "away": "Radomlje",
    "liga": "1. SNL",
    "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Winterthur",
-   "away": "Neuchatel Xamax FC",
-   "liga": "Challenge League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Étoile Carouge",
-   "away": "FC WIL 1900",
-   "liga": "Challenge League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Al Shabab",
-   "away": "Al-Hilal Saudi FC",
-   "liga": "Pro League",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Ahli Jeddah",
-   "away": "Al Riyadh",
-   "liga": "Pro League",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1071,7 +911,7 @@
   "n": 2483,
   "ganados": 1693,
   "win_rate": 68,
-  "hoy": 32
+  "hoy": 36
  },
  "stats_dia": {
   "ganados": 10,
