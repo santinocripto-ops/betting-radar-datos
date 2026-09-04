@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T17:21:53.516985+00:00",
+ "actualizado": "2026-09-04T17:22:21.600982+00:00",
  "partidos_vivo": [
   {
    "home": "Rustavi",
@@ -248,6 +248,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:21",
    "tipo": "live"
   },
@@ -303,12 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:32",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:19",
    "tipo": "live"
   },
   {
@@ -376,10 +376,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Tekstilshchik",
-   "away": "Torpedo Moskva",
-   "liga": "First League",
-   "minuto": 14,
+   "home": "Bayreuth",
+   "away": "Wacker Burghausen",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Villarreal II",
+   "away": "Algeciras",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 22,
    "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -387,10 +398,10 @@
    "es_hoy": true
   },
   {
-   "home": "Hannover 96",
-   "away": "Karlsruher SC",
-   "liga": "2. Bundesliga",
-   "minuto": 16,
+   "home": "Novi Pazar",
+   "away": "Železničar Pančevo",
+   "liga": "Super Liga",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -398,10 +409,10 @@
    "es_hoy": true
   },
   {
-   "home": "Al-Wasl FC",
-   "away": "Khorfakkan",
-   "liga": "Pro League",
-   "minuto": 14,
+   "home": "Fredrikstad",
+   "away": "Bodo/Glimt",
+   "liga": "Eliteserien",
+   "minuto": 22,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -409,9 +420,9 @@
    "es_hoy": true
   },
   {
-   "home": "Vlašim",
-   "away": "Třinec",
-   "liga": "FNL",
+   "home": "Aalesund",
+   "away": "Start",
+   "liga": "Eliteserien",
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
@@ -420,24 +431,13 @@
    "es_hoy": true
   },
   {
-   "home": "Rustavi",
-   "away": "Dinamo Batumi",
-   "liga": "Erovnuli Liga",
-   "minuto": 18,
-   "score": 10.0,
+   "home": "Tekstilshchik",
+   "away": "Torpedo Moskva",
+   "liga": "First League",
+   "minuto": 14,
+   "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Dekani",
-   "away": "Tabor Sežana",
-   "liga": "2. SNL",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-04",
    "es_hoy": true
   }
@@ -1064,7 +1064,7 @@
   "n": 2481,
   "ganados": 1692,
   "win_rate": 68,
-  "hoy": 13
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 8,
