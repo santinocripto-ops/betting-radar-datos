@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T02:15:23.519957+00:00",
+ "actualizado": "2026-09-04T02:22:29.449259+00:00",
  "partidos_vivo": [
   {
    "home": "Deportivo Pereira",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:22",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -726,7 +732,17 @@
  "mejor_dia": {
   "disponible": false
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina",
+   "apuesta": "SI, US Open WTA: Jessica Bouzas Maneiro ganara",
+   "usdc": 90150,
+   "prob": 8.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "04:22"
+  }
+ ],
  "stats_gt": {
   "n": 2473,
   "ganados": 1686,
