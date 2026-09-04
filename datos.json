@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-04T14:41:56.249257+00:00",
+ "actualizado": "2026-09-04T14:48:56.245122+00:00",
  "partidos_vivo": [
   {
-   "home": "Torino U20",
-   "away": "Como U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 52,
+   "home": "Minsk II",
+   "away": "Niva",
+   "liga": "1. Division",
+   "minuto": 61,
    "marcador": "2-2",
    "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 7.6,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 11,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
