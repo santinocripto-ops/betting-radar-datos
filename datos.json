@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T17:36:10.219571+00:00",
+ "actualizado": "2026-09-04T17:43:06.708801+00:00",
  "partidos_vivo": [
   {
    "home": "Rustavi",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:42",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:29",
@@ -310,12 +316,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:45",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:32",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -376,6 +376,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "CFR 1907 Cluj",
+   "away": "Farul Constanta",
+   "liga": "Liga I",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
    "home": "Bayreuth",
    "away": "Wacker Burghausen",
    "liga": "Regionalliga - Bayern",
@@ -425,17 +436,6 @@
    "liga": "Eliteserien",
    "minuto": 20,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Tekstilshchik",
-   "away": "Torpedo Moskva",
-   "liga": "First League",
-   "minuto": 14,
-   "score": 9.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-04",
@@ -1064,7 +1064,7 @@
   "n": 2481,
   "ganados": 1692,
   "win_rate": 68,
-  "hoy": 18
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 8,
