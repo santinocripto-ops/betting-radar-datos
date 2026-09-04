@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T18:05:24.954111+00:00",
+ "actualizado": "2026-09-04T18:15:41.045329+00:00",
  "partidos_vivo": [
   {
    "home": "Vasas",
@@ -168,6 +168,60 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:42",
    "tipo": "live"
   },
@@ -182,60 +236,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:45",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -296,9 +296,31 @@
  ],
  "gol_temprano": [
   {
-   "home": "CFR 1907 Cluj",
-   "away": "Farul Constanta",
-   "liga": "Liga I",
+   "home": "Al Shabab",
+   "away": "Al-Hilal Saudi FC",
+   "liga": "Pro League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Al-Ahli Jeddah",
+   "away": "Al Riyadh",
+   "liga": "Pro League",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Dender",
+   "away": "Seraing United",
+   "liga": "Challenger Pro League",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
@@ -307,10 +329,10 @@
    "es_hoy": true
   },
   {
-   "home": "Bayreuth",
-   "away": "Wacker Burghausen",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 19,
+   "home": "PAU",
+   "away": "Sochaux",
+   "liga": "Ligue 2",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -318,21 +340,10 @@
    "es_hoy": true
   },
   {
-   "home": "Villarreal II",
-   "away": "Algeciras",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 22,
-   "score": 9.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Novi Pazar",
-   "away": "Železničar Pančevo",
-   "liga": "Super Liga",
-   "minuto": 19,
+   "home": "Waalwijk",
+   "away": "NAC Breda",
+   "liga": "Eerste Divisie",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -340,22 +351,11 @@
    "es_hoy": true
   },
   {
-   "home": "Fredrikstad",
-   "away": "Bodo/Glimt",
-   "liga": "Eliteserien",
-   "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Aalesund",
-   "away": "Start",
-   "liga": "Eliteserien",
-   "minuto": 20,
-   "score": 10.0,
+   "home": "Vitesse",
+   "away": "FC OSS",
+   "liga": "Eerste Divisie",
+   "minuto": 13,
+   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-04",
@@ -823,8 +823,8 @@
     "cuota": 1.54,
     "pinnacle": true,
     "delta": 3.64,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-04T16:00:00+00:00",
     "ts": "2026-09-04T01:07:44.902201+00:00"
    },
@@ -838,8 +838,8 @@
     "cuota": 1.52,
     "pinnacle": true,
     "delta": 4.69,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "perdido",
     "kickoff": "2026-09-04T16:00:00+00:00",
     "ts": "2026-09-04T11:05:28.453124+00:00"
    },
@@ -891,10 +891,10 @@
   ],
   "balance": {
    "ganados": 216,
-   "perdidos": 87,
-   "pendientes": 12,
-   "acierto": 71.3,
-   "total": 303
+   "perdidos": 89,
+   "pendientes": 10,
+   "acierto": 70.8,
+   "total": 305
   }
  },
  "mejor_dia": {
@@ -984,7 +984,7 @@
   "n": 2483,
   "ganados": 1693,
   "win_rate": 68,
-  "hoy": 19
+  "hoy": 28
  },
  "stats_dia": {
   "ganados": 10,
