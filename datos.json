@@ -1,33 +1,73 @@
 {
- "actualizado": "2026-09-04T17:09:55.474299+00:00",
+ "actualizado": "2026-09-04T17:21:53.516985+00:00",
  "partidos_vivo": [
   {
-   "home": "MyPa",
-   "away": "Reipas",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 58,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Rustavi",
+   "away": "Dinamo Batumi",
+   "liga": "Erovnuli Liga",
+   "minuto": 56,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 37,
+   "momentum_away": 63,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ 1 gol — Rustavi buscará el empate",
+    "🎯 12 remates totales"
    ]
   },
   {
-   "home": "GrIFK",
-   "away": "EBK",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 60,
+   "home": "Septemvri Sofia",
+   "away": "Botev Vratsa",
+   "liga": "First League",
+   "minuto": 62,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 13 remates totales"
+   ]
+  },
+  {
+   "home": "Abha",
+   "away": "Al-Ettifaq",
+   "liga": "Pro League",
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 33,
+   "momentum_away": 67,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Karviná",
+   "away": "Kladno",
+   "liga": "FNL",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,75 +76,199 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Kladno buscará el empate"
+   ]
+  },
+  {
+   "home": "Vysočina Jihlava",
+   "away": "Arsenal Česká Lípa",
+   "liga": "FNL",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Arsenal Česká Lípa buscará el empate"
+   ]
+  },
+  {
+   "home": "Prostějov",
+   "away": "Táborsko",
+   "liga": "FNL",
+   "minuto": 60,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Prostějov buscará el empate"
+   ]
+  },
+  {
+   "home": "Ústí nad Labem",
+   "away": "Slavia Praha II",
+   "liga": "FNL",
+   "minuto": 58,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Vlašim",
+   "away": "Třinec",
+   "liga": "FNL",
+   "minuto": 60,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Hegelmann II",
+   "away": "FA Šiauliai II",
+   "liga": "1 Lyga",
+   "minuto": 60,
+   "marcador": "5-1",
+   "apuesta": "Over 6.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 6 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Jonava",
+   "away": "Dainava",
+   "liga": "1 Lyga",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "JIPPO",
-   "away": "Kooteepee",
-   "liga": "Ykkösliiga",
-   "minuto": 59,
-   "marcador": "0-1",
+   "home": "Triglav",
+   "away": "Bistrica",
+   "liga": "2. SNL",
+   "minuto": 58,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ Liga goleadora: 3.15 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — JIPPO buscará el empate"
+    "⚽ 1 gol — Bistrica buscará el empate"
    ]
   },
   {
-   "home": "Unia Swarzędz",
-   "away": "Lech Poznań II",
-   "liga": "III Liga - Group 2",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Stal Stalowa Wola",
+   "away": "Zawisza Bydgoszcz",
+   "liga": "II Liga - East",
+   "minuto": 59,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Al Qadsia",
-   "away": "Al Nasar",
-   "liga": "Premier League",
-   "minuto": 47,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 29,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:21",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -151,30 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "18:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:19",
    "tipo": "live"
   }
  ],
@@ -649,6 +789,21 @@
     "ts": "2026-09-04T14:06:02.487834+00:00"
    },
    {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "cuota": 1.35,
+    "pinnacle": false,
+    "delta": 4.28,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-04T17:09:55.668618+00:00"
+   },
+   {
     "home": "SC Kriens",
     "away": "Stade Lausanne-Ouchy",
     "liga": "Challenge League",
@@ -778,8 +933,8 @@
     "cuota": 1.39,
     "pinnacle": false,
     "delta": 4.73,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T14:30:00+00:00",
     "ts": "2026-09-03T19:05:45.264257+00:00"
    },
@@ -793,8 +948,8 @@
     "cuota": 1.34,
     "pinnacle": true,
     "delta": 3.54,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T14:30:00+00:00",
     "ts": "2026-09-04T07:04:29.857468+00:00"
    },
@@ -812,29 +967,14 @@
     "resultado": "perdido",
     "kickoff": "2026-09-04T01:00:00+00:00",
     "ts": "2026-09-04T00:04:51.136118+00:00"
-   },
-   {
-    "home": "Tepatitlán",
-    "away": "Dorados",
-    "liga": "Liga de Expansión MX",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.29,
-    "pinnacle": true,
-    "delta": 4.04,
-    "marcador": "1-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-04T01:00:00+00:00",
-    "ts": "2026-09-04T00:04:51.323154+00:00"
    }
   ],
   "balance": {
-   "ganados": 214,
+   "ganados": 216,
    "perdidos": 87,
-   "pendientes": 13,
-   "acierto": 71.1,
-   "total": 301
+   "pendientes": 12,
+   "acierto": 71.3,
+   "total": 303
   }
  },
  "mejor_dia": {
