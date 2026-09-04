@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T23:49:33.257673+00:00",
+ "actualizado": "2026-09-04T23:56:01.124718+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:34",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:34",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +124,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "New York City FC",
+   "away": "Nashville SC",
+   "liga": "Major League Soccer",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": false
+  },
   {
    "home": "Caernarfon Town",
    "away": "Flint Town United",
@@ -176,17 +187,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-04",
-   "es_hoy": false
-  },
-  {
-   "home": "Nafta",
-   "away": "Radomlje",
-   "liga": "1. SNL",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-04",
    "es_hoy": false
   }
