@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T17:57:51.195755+00:00",
+ "actualizado": "2026-09-04T18:05:24.954111+00:00",
  "partidos_vivo": [
   {
    "home": "Vasas",
@@ -277,7 +277,7 @@
    "hora": "08:30",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1167
+   "n_historico": 1171
   },
   {
    "clave": "btts",
@@ -364,14 +364,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49298.0,
-  "balance_total": 39298.0,
-  "balance_dia": 111.0,
-  "ganados": 2498,
-  "perdidos": 1082,
-  "pendientes": 13,
-  "ganados_dia": 7,
-  "perdidos_dia": 3,
+  "capital": 49304.0,
+  "balance_total": 39304.0,
+  "balance_dia": 117.0,
+  "ganados": 2500,
+  "perdidos": 1083,
+  "pendientes": 10,
+  "ganados_dia": 9,
+  "perdidos_dia": 4,
   "win_rate": 69.8,
   "roi": 11.0,
   "stake": 100.0,
@@ -524,7 +524,7 @@
     "away": "Yangon United",
     "liga": "National League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -533,7 +533,7 @@
     "away": "Ural U20",
     "liga": "Youth Championship",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -542,7 +542,7 @@
     "away": "Rubin Kazan U20",
     "liga": "Youth Championship",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -578,7 +578,7 @@
     "away": "Nizhny Novgorod U19",
     "liga": "Youth Championship",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -638,10 +638,10 @@
    }
   ],
   "balance": {
-   "ganados": 1389,
+   "ganados": 1393,
    "perdidos": 932,
-   "acierto": 59.8,
-   "yield": 13.7,
+   "acierto": 59.9,
+   "yield": 13.8,
    "cuota_media": 1.9
   }
  },
@@ -651,7 +651,7 @@
    "away": "Dinamo Batumi",
    "liga": "Erovnuli Liga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Dekani",
@@ -981,15 +981,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2481,
-  "ganados": 1692,
+  "n": 2483,
+  "ganados": 1693,
   "win_rate": 68,
   "hoy": 19
  },
  "stats_dia": {
-  "ganados": 8,
-  "perdidos": 4,
-  "en_juego": 13,
+  "ganados": 10,
+  "perdidos": 5,
+  "en_juego": 10,
   "win_rate": 67
  },
  "stats_banker": {
