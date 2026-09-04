@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T18:15:41.045329+00:00",
+ "actualizado": "2026-09-04T18:22:15.410174+00:00",
  "partidos_vivo": [
   {
    "home": "Vasas",
@@ -166,6 +166,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:15",
@@ -230,12 +236,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:29",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -908,6 +908,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Ipswich Town FC win on 2026-09-04?",
+   "apuesta": "SI, Ipswich Town ganara",
+   "usdc": 564670,
+   "prob": 17.5,
+   "n_traders": 2,
+   "trader": "sainttroplay",
+   "hora": "20:22"
+  },
+  {
    "titulo": "Will Olympique Lyonnais win on 2026-09-04?",
    "apuesta": "SI, Olympique Lyonnais ganara",
    "usdc": 47219,
@@ -969,15 +978,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "15:06"
-  },
-  {
-   "titulo": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
-   "apuesta": "SI, Counter-Strike: Team Falcons ganara",
-   "usdc": 160000,
-   "prob": 58.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "15:00"
   }
  ],
  "stats_gt": {
