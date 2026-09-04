@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T08:58:49.019309+00:00",
+ "actualizado": "2026-09-04T09:06:56.495255+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "11:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -90,12 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "03:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Tepatitlán vs Dorados · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.28 (10 ",
-   "hora": "02:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
