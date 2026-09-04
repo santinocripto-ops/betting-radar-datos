@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T09:50:02.134417+00:00",
+ "actualizado": "2026-09-04T09:57:29.596937+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:57",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "04:50",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:22",
    "tipo": "smart_money"
   }
  ],
@@ -670,6 +670,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 3 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 25418,
+   "prob": 44.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "11:57"
+  },
   {
    "titulo": "LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs",
    "apuesta": "SI, LoL: Anyone's Legend ganara",
