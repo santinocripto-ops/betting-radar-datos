@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T02:58:01.094368+00:00",
+ "actualizado": "2026-09-04T03:05:26.527506+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -64,15 +64,6 @@
  ],
  "picks_recientes": [],
  "bankers": [
-  {
-   "home": "Tepatitlán",
-   "away": "Dorados",
-   "liga": "Liga de Expansión MX",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.28,
-   "resultado": "pendiente",
-   "fecha": "2026-09-04"
-  },
   {
    "home": "Slatina",
    "away": "Chindia Targoviste",
@@ -746,15 +737,15 @@
  },
  "stats_dia": {
   "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 2,
+  "perdidos": 1,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
   "ganados": 77,
-  "perdidos": 29,
-  "pendientes": 2,
-  "win_rate": 73
+  "perdidos": 30,
+  "pendientes": 1,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
