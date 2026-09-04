@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T02:43:37.075522+00:00",
+ "actualizado": "2026-09-04T02:50:54.503572+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:50",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -713,6 +719,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "US Open ATP: Alexander Zverev vs Quentin Halys",
+   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
+   "usdc": 177533,
+   "prob": 89.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "04:50"
+  },
   {
    "titulo": "US Open WTA: Jessica Bouzas Maneiro vs Elena Rybakina",
    "apuesta": "SI, US Open WTA: Jessica Bouzas Maneiro ganara",
