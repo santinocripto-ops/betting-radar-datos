@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T18:34:52.155748+00:00",
+ "actualizado": "2026-09-04T18:41:32.835951+00:00",
  "partidos_vivo": [
   {
    "home": "Aalesund",
@@ -449,7 +449,7 @@
   "balance_dia": 117.0,
   "ganados": 2500,
   "perdidos": 1083,
-  "pendientes": 23,
+  "pendientes": 24,
   "ganados_dia": 9,
   "perdidos_dia": 4,
   "win_rate": 69.8,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3606,
+  "con_cuota_media": 3607,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1076,7 +1076,7 @@
  "stats_dia": {
   "ganados": 10,
   "perdidos": 5,
-  "en_juego": 23,
+  "en_juego": 24,
   "win_rate": 67
  },
  "stats_banker": {
