@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T01:07:44.701978+00:00",
+ "actualizado": "2026-09-04T01:15:01.272252+00:00",
  "partidos_vivo": [
   {
    "home": "Libertad",
@@ -485,6 +485,21 @@
     "ts": "2026-09-03T20:09:35.248054+00:00"
    },
    {
+    "home": "Pogoń Grod. Mazowiecki",
+    "away": "Warta Poznań",
+    "liga": "I Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 9,
+    "cuota": 1.54,
+    "pinnacle": true,
+    "delta": 3.64,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T16:00:00+00:00",
+    "ts": "2026-09-04T01:07:44.902201+00:00"
+   },
+   {
     "home": "Slatina",
     "away": "Chindia Targoviste",
     "liga": "Liga II",
@@ -678,27 +693,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-02T22:30:00+00:00",
     "ts": "2026-09-02T15:06:32.481552+00:00"
-   },
-   {
-    "home": "Reading",
-    "away": "Mansfield Town",
-    "liga": "League One",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.22,
-    "pinnacle": true,
-    "delta": 3.57,
-    "marcador": "5-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-02T19:00:00+00:00",
-    "ts": "2026-09-02T18:07:32.226616+00:00"
    }
   ],
   "balance": {
    "ganados": 213,
    "perdidos": 86,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 71.2,
    "total": 299
   }
