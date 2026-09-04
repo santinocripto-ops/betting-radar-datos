@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T13:37:41.184760+00:00",
+ "actualizado": "2026-09-04T13:44:12.917009+00:00",
  "partidos_vivo": [
   {
    "home": "Kaspij Aktau 2",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:44",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:30",
@@ -129,12 +135,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:03",
    "tipo": "smart_money"
   }
  ],
@@ -204,6 +204,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Minsk II",
+   "away": "Niva",
+   "liga": "1. Division",
+   "minuto": 12,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
   {
    "home": "CSKA Moskva U19",
    "away": "Nizhny Novgorod U19",
@@ -834,7 +845,7 @@
   "n": 2474,
   "ganados": 1686,
   "win_rate": 68,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 1,
