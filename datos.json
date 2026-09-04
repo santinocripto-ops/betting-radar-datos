@@ -1,24 +1,44 @@
 {
- "actualizado": "2026-09-04T02:01:35.494166+00:00",
+ "actualizado": "2026-09-04T02:08:38.407419+00:00",
  "partidos_vivo": [
   {
-   "home": "Libertad",
-   "away": "Emelec",
-   "liga": "Liga Pro",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Deportivo Pereira",
+   "away": "Independiente Medellin",
+   "liga": "Primera A",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Emelec buscará el empate",
-    "🎯 13 remates totales",
-    "⏱ 43 minutos por jugar — margen amplio"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 10 remates totales"
+   ]
+  },
+  {
+   "home": "CD Olimpia",
+   "away": "Platense FC",
+   "liga": "Liga Nacional",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
