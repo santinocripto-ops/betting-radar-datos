@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-04T10:13:44.590731+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-04T10:14:25.144567+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Lecce U20",
+   "away": "Roma U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -486,6 +507,21 @@
     "ts": "2026-09-04T09:06:56.725024+00:00"
    },
    {
+    "home": "Osters IF",
+    "away": "United Nordic",
+    "liga": "Superettan",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.53,
+    "pinnacle": true,
+    "delta": 3.48,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-04T17:00:00+00:00",
+    "ts": "2026-09-04T10:06:12.826018+00:00"
+   },
+   {
     "home": "Hannover 96",
     "away": "Karlsruher SC",
     "liga": "2. Bundesliga",
@@ -649,27 +685,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-03T17:00:00+00:00",
     "ts": "2026-09-02T22:04:45.621944+00:00"
-   },
-   {
-    "home": "Bursaspor",
-    "away": "İstanbulspor",
-    "liga": "1. Lig",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.2,
-    "pinnacle": true,
-    "delta": 3.98,
-    "marcador": "4-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-03T17:00:00+00:00",
-    "ts": "2026-09-03T13:03:21.631616+00:00"
    }
   ],
   "balance": {
    "ganados": 214,
    "perdidos": 87,
-   "pendientes": 7,
+   "pendientes": 8,
    "acierto": 71.1,
    "total": 301
   }
