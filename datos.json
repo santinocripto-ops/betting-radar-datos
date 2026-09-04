@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T07:04:29.599516+00:00",
+ "actualizado": "2026-09-04T07:04:35.510873+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
