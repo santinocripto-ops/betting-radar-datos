@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T12:53:50.681673+00:00",
+ "actualizado": "2026-09-04T13:00:33.581288+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:00",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "11:57",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -705,6 +705,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Team Falcons vs G2 (BO3) - BLAST Open Porto Playoffs",
+   "apuesta": "SI, Counter-Strike: Team Falcons ganara",
+   "usdc": 160000,
+   "prob": 58.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "15:00"
+  },
+  {
    "titulo": "Will Liverpool FC win on 2026-09-04?",
    "apuesta": "SI, Liverpool ganara",
    "usdc": 80000,
@@ -766,15 +775,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "09:53"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 87161,
-   "prob": 59.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "09:46"
   }
  ],
  "stats_gt": {
