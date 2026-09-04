@@ -1,90 +1,36 @@
 {
- "actualizado": "2026-09-04T19:05:06.660573+00:00",
+ "actualizado": "2026-09-04T20:40:19.213831+00:00",
  "partidos_vivo": [
   {
-   "home": "Assyriska FF",
-   "away": "Stocksund",
-   "liga": "Ettan - Norra",
-   "minuto": 65,
+   "home": "FC Porto",
+   "away": "Moreirense",
+   "liga": "Primeira Liga",
+   "minuto": 62,
    "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 79,
+   "momentum_away": 21,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +0.5 (Primeira Liga)",
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
     "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "FC Aarau",
-   "away": "Rapperswil",
-   "liga": "Challenge League",
-   "minuto": 61,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "SV Drochtersen/Assel",
-   "away": "Eimsbütteler TV",
-   "liga": "Regionalliga - Nord",
-   "minuto": 61,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Independiente F.b.c.",
-   "away": "Fernando De La Mora",
-   "liga": "Division Intermedia",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:39",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -150,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:22",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -579,20 +519,6 @@
    "liga": "Liga I",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Rustavi",
-   "away": "Dinamo Batumi",
-   "liga": "Erovnuli Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Dekani",
-   "away": "Tabor Sežana",
-   "liga": "2. SNL",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -697,8 +623,8 @@
     "cuota": 1.18,
     "pinnacle": true,
     "delta": 3.85,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T17:00:00+00:00",
     "ts": "2026-09-04T09:06:56.725024+00:00"
    },
@@ -712,8 +638,8 @@
     "cuota": 1.53,
     "pinnacle": true,
     "delta": 3.48,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T17:00:00+00:00",
     "ts": "2026-09-04T10:06:12.826018+00:00"
    },
@@ -727,8 +653,8 @@
     "cuota": 1.21,
     "pinnacle": true,
     "delta": 3.31,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T17:00:00+00:00",
     "ts": "2026-09-04T16:09:24.169993+00:00"
    },
@@ -742,8 +668,8 @@
     "cuota": 1.22,
     "pinnacle": true,
     "delta": 3.78,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-04T16:30:00+00:00",
     "ts": "2026-09-04T08:09:07.509674+00:00"
    },
@@ -824,11 +750,11 @@
    }
   ],
   "balance": {
-   "ganados": 216,
+   "ganados": 220,
    "perdidos": 89,
-   "pendientes": 10,
-   "acierto": 70.8,
-   "total": 305
+   "pendientes": 6,
+   "acierto": 71.2,
+   "total": 309
   }
  },
  "mejor_dia": {
@@ -841,6 +767,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Real Madrid CF win on 2026-09-04?",
+   "apuesta": "SI, Real Madrid ganara",
+   "usdc": 17664,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:39"
+  },
   {
    "titulo": "Will Ipswich Town FC win on 2026-09-04?",
    "apuesta": "SI, Ipswich Town ganara",
@@ -903,15 +838,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "15:22"
-  },
-  {
-   "titulo": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
-   "apuesta": "SI, Counter-Strike: FURIA ganara",
-   "usdc": 100000,
-   "prob": 35.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "15:06"
   }
  ],
  "stats_gt": {
