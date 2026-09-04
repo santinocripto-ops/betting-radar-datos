@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T12:00:29.079511+00:00",
+ "actualizado": "2026-09-04T12:07:08.957059+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Las Palmas vs Leganes · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.29 (10 casas)",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "10:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:07",
    "tipo": "smart_money"
   }
  ],
