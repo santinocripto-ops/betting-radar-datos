@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-04T13:15:54.165877+00:00",
+ "actualizado": "2026-09-04T13:22:40.207783+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:22",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "12:06",
    "tipo": "smart_money"
   }
  ],
@@ -697,6 +697,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Como: Thiago Seyboth Wild vs Juan Pablo Varillas",
+   "apuesta": "SI, Como: Thiago Seyboth Wild ganara",
+   "usdc": 55591,
+   "prob": 40.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "15:22"
+  },
+  {
    "titulo": "Counter-Strike: FURIA vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "apuesta": "SI, Counter-Strike: FURIA ganara",
    "usdc": 100000,
@@ -758,15 +767,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "10:07"
-  },
-  {
-   "titulo": "Zhangjiagang: Kasidit Samrej vs Enzo Aguiard",
-   "apuesta": "SI, Zhangjiagang: Kasidit Samrej ganara",
-   "usdc": 20050,
-   "prob": 64.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "09:53"
   }
  ],
  "stats_gt": {
