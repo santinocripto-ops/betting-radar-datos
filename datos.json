@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T04:39:57.587941+00:00",
+ "actualizado": "2026-09-04T04:47:15.452222+00:00",
  "partidos_vivo": [
   {
    "home": "Matagalpa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:47",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -710,6 +716,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Zhangjiagang: Mitsuki Wei Kang Leong vs James Kent Trotter",
+   "apuesta": "SI, Zhangjiagang: Mitsuki Wei Kang Leong ganara",
+   "usdc": 16490,
+   "prob": 39.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:47"
+  },
   {
    "titulo": "US Open ATP: Alexander Zverev vs Quentin Halys",
    "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
