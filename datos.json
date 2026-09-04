@@ -1,9 +1,36 @@
 {
- "actualizado": "2026-09-04T14:13:13.528233+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-04T14:22:08.096540+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Torino U20",
+   "away": "Como U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 52,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.6,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "14:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Las Palmas vs Leganes · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.29 (10 casas)",
-   "hora": "13:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -143,6 +164,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Al Shamal",
+   "away": "Al Shahaniya",
+   "liga": "Stars League",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-04",
+   "es_hoy": true
+  },
   {
    "home": "Al-Ittihad Kalba",
    "away": "Al Ain",
@@ -795,7 +827,7 @@
   "n": 2475,
   "ganados": 1687,
   "win_rate": 68,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 2,
