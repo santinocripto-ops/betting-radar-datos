@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-04T14:48:56.245122+00:00",
+ "actualizado": "2026-09-04T14:55:34.867097+00:00",
  "partidos_vivo": [
   {
    "home": "Minsk II",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:55",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:55",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "14:21",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:06",
    "tipo": "smart_money"
   }
  ],
@@ -751,6 +751,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Alexander Bublik vs Tommy Paul",
+   "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
+   "usdc": 235366,
+   "prob": 39.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "16:55"
+  },
+  {
+   "titulo": "US Open ATP: Alexander Bublik vs Tommy Paul",
+   "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
+   "usdc": 86615,
+   "prob": 39.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "16:55"
+  },
+  {
    "titulo": "Como: Andrej Nedic vs Johan Nikles",
    "apuesta": "SI, Como: Andrej Nedic ganara",
    "usdc": 17153,
@@ -803,24 +821,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "13:03"
-  },
-  {
-   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 1 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 380953,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "12:13"
-  },
-  {
-   "titulo": "LoL: KT Rolster vs Dplus KIA - Game 3 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 25418,
-   "prob": 44.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "11:57"
   }
  ],
  "stats_gt": {
