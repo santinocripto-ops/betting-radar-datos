@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T18:40:28.139607+00:00",
+ "actualizado": "2026-09-05T18:48:23.366700+00:00",
  "partidos_vivo": [
   {
    "home": "Maccabi Haifa",
@@ -87,6 +87,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:48",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:47",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:38",
    "tipo": "live"
@@ -144,18 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:43",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:26",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -206,6 +206,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Grasshoppers",
+   "away": "FC Zurich",
+   "liga": "Super League",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Motor Lublin",
    "away": "Legia Warszawa",
    "liga": "Ekstraklasa",
@@ -255,17 +266,6 @@
    "liga": "1. Lig",
    "minuto": 20,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Fenerbahçe",
-   "away": "Beşiktaş",
-   "liga": "Süper Lig",
-   "minuto": 19,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -792,6 +792,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Columbus Crew win on 2026-09-05?",
+   "apuesta": "SI, Columbus Crew ganara",
+   "usdc": 146517,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "20:47"
+  },
+  {
    "titulo": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
    "apuesta": "SI, US Open ATP: Taylor Fritz ganara",
    "usdc": 53675,
@@ -853,22 +862,13 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:37"
-  },
-  {
-   "titulo": "FC Bayern München leading at halftime?",
-   "apuesta": "SI — FC Bayern München leading at halftime",
-   "usdc": 75933,
-   "prob": 62.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:23"
   }
  ],
  "stats_gt": {
   "n": 2603,
   "ganados": 1771,
   "win_rate": 68,
-  "hoy": 102
+  "hoy": 103
  },
  "stats_dia": {
   "ganados": 81,
