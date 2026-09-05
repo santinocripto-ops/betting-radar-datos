@@ -1,248 +1,28 @@
 {
- "actualizado": "2026-09-05T20:48:52.664121+00:00",
+ "actualizado": "2026-09-05T20:56:24.275249+00:00",
  "partidos_vivo": [
   {
-   "home": "RB Bragantino",
-   "away": "Bahia",
-   "liga": "Serie A",
-   "minuto": 59,
-   "marcador": "2-3",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "🔥 5 goles — partido muy abierto",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "HNK Rijeka",
-   "away": "NK Osijek",
-   "liga": "HNL",
-   "minuto": 63,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 78,
-   "momentum_away": 22,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.08 goles/partido",
-    "🔥 5 goles — partido muy abierto",
-    "⚡ NK Osijek pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Willem II",
-   "away": "Excelsior",
-   "liga": "Eredivisie",
-   "minuto": 65,
-   "marcador": "0-2",
+   "home": "Sporting CP",
+   "away": "Nacional",
+   "liga": "Primeira Liga",
+   "minuto": 64,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
+   "momentum_home": 91,
+   "momentum_away": 9,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 4.1 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "ST Mirren",
-   "away": "Celtic",
-   "liga": "Premiership",
-   "minuto": 61,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 26 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Swansea",
-   "away": "Wrexham",
-   "liga": "Championship",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 8 remates totales"
-   ]
-  },
-  {
-   "home": "Guabirá",
-   "away": "Real Potosí",
-   "liga": "Primera División",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 79,
-   "momentum_away": 21,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Novorizontino",
-   "away": "Avai",
-   "liga": "Serie B",
-   "minuto": 56,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Avai pierde por 2 — atacará sin freno",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Eldense",
-   "away": "Mallorca",
-   "liga": "Segunda División",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 23,
-   "momentum_away": 77,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Goias",
-   "away": "Fortaleza EC",
-   "liga": "Serie B",
-   "minuto": 58,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.1,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Goias buscará el empate",
-    "🎯 13 remates totales",
-    "🟥 1 tarjeta(s) roja(s) — más espacio en el campo"
-   ]
-  },
-  {
-   "home": "Sarmiento Resistencia",
-   "away": "Tucuman Central",
-   "liga": "Torneo Federal A",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 1.97 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Bari",
-   "away": "Casarano",
-   "liga": "Serie C - Girone C",
-   "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Villarreal",
-   "away": "Deportivo La Coruna",
-   "liga": "La Liga",
-   "minuto": 63,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⭐ Bonus liga: +0.5 (Primeira Liga)",
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
     "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 21,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
