@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-09-05T11:27:55.397323+00:00",
+ "actualizado": "2026-09-05T11:35:32.832293+00:00",
  "partidos_vivo": [
   {
-   "home": "Tulevik",
-   "away": "Legion",
-   "liga": "Esiliiga B",
-   "minuto": 58,
+   "home": "Eastern",
+   "away": "Kowloon City",
+   "liga": "Premier League",
+   "minuto": 46,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -16,95 +16,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
-  },
-  {
-   "home": "West Torrens Birkalla",
-   "away": "MetroStars",
-   "liga": "South Australia NPL",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Mandurah City",
-   "away": "UWA Nedlands",
-   "liga": "Western Australia NPL",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Adelaide City",
-   "away": "Playford City Patriots",
-   "liga": "South Australia NPL",
-   "minuto": 53,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Fujieda MYFC",
-   "away": "Vanraure Hachinohe",
-   "liga": "J2 League",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:35",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -170,12 +96,6 @@
    "texto": "⚽ Nantong Zhiyun vs Guangzhou E-Power · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · ",
    "hora": "12:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Wuxi Wugou vs Yanbian Longding · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
-   "hora": "12:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -226,14 +146,14 @@
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": null,
-   "home": null,
-   "away": null,
-   "liga": "",
+   "confianza": "alta",
+   "home": "Arsenal U18",
+   "away": "Southampton U18",
+   "liga": "U18 Premier League - South",
    "cuota": null,
-   "score": null,
-   "hora": "",
-   "resultado": null,
+   "score": 10,
+   "hora": "12:00",
+   "resultado": "pendiente",
    "wr_historico": 62,
    "n_historico": 1184
   },
@@ -253,6 +173,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Ho Chi Minh",
+   "away": "Ha Noi",
+   "liga": "V.League 1",
+   "minuto": 19,
+   "score": 9.3,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "Klepp W",
    "away": "TIL 2020 W",
@@ -303,17 +234,6 @@
    "liga": "Primera División Femenina",
    "minuto": 14,
    "score": 9.2,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Zagłębie Lubin II",
-   "away": "Karkonosze Jelenia Góra",
-   "liga": "III Liga - Group 3",
-   "minuto": 11,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -582,6 +502,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "FC Botosani",
+    "away": "Sepsi OSK Sfantu Gheorghe",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.33,
+    "pinnacle": true,
+    "delta": 4.29,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-05T12:00:00+00:00",
+    "ts": "2026-09-05T11:09:28.408514+00:00"
+   },
+   {
     "home": "Nantong Zhiyun",
     "away": "Guangzhou E-Power",
     "liga": "League One",
@@ -790,27 +725,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-04T17:00:00+00:00",
     "ts": "2026-09-04T09:06:56.725024+00:00"
-   },
-   {
-    "home": "Osters IF",
-    "away": "United Nordic",
-    "liga": "Superettan",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.53,
-    "pinnacle": true,
-    "delta": 3.48,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-04T17:00:00+00:00",
-    "ts": "2026-09-04T10:06:12.826018+00:00"
    }
   ],
   "balance": {
    "ganados": 224,
    "perdidos": 91,
-   "pendientes": 7,
+   "pendientes": 8,
    "acierto": 71.1,
    "total": 315
   }
@@ -902,7 +822,7 @@
   "n": 2522,
   "ganados": 1719,
   "win_rate": 68,
-  "hoy": 20
+  "hoy": 21
  },
  "stats_dia": {
   "ganados": 10,
