@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T11:42:46.035670+00:00",
+ "actualizado": "2026-09-05T11:49:40.036767+00:00",
  "partidos_vivo": [
   {
    "home": "Eastern",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:49",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -65,12 +71,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:15",
    "tipo": "live"
   },
   {
@@ -174,6 +174,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Lincoln",
+   "away": "Southampton",
+   "liga": "Championship",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Aldershot Town",
    "away": "FC Halifax Town",
    "liga": "National League",
@@ -227,17 +238,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Sagan Tosu",
-   "away": "Tegevajaro Miyazaki",
-   "liga": "J2 League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -247,7 +247,7 @@
   "balance_dia": -238.0,
   "ganados": 2530,
   "perdidos": 1099,
-  "pendientes": 11,
+  "pendientes": 13,
   "ganados_dia": 10,
   "perdidos_dia": 8,
   "win_rate": 69.7,
@@ -255,7 +255,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3640,
+  "con_cuota_media": 3642,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -822,12 +822,12 @@
   "n": 2522,
   "ganados": 1719,
   "win_rate": 68,
-  "hoy": 23
+  "hoy": 24
  },
  "stats_dia": {
   "ganados": 10,
   "perdidos": 8,
-  "en_juego": 13,
+  "en_juego": 15,
   "win_rate": 56
  },
  "stats_banker": {
