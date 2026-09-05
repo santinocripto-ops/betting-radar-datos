@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T07:06:10.398659+00:00",
+ "actualizado": "2026-09-05T07:08:13.541430+00:00",
  "partidos_vivo": [
   {
    "home": "Adelaide Raiders",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Holstein Kiel vs 1. FC Nürnberg · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota:",
+   "hora": "09:08",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -78,28 +96,20 @@
    "texto": "──────────────────────────────",
    "hora": "04:48",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:32",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:44",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Holstein Kiel",
+   "away": "1. FC Nürnberg",
+   "liga": "2. Bundesliga",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.38,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -683,7 +693,7 @@
  "stats_banker": {
   "ganados": 78,
   "perdidos": 31,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
