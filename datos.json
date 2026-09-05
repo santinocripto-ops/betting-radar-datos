@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T14:14:27.099420+00:00",
+ "actualizado": "2026-09-05T14:14:49.812814+00:00",
  "partidos_vivo": [
   {
    "home": "Franke",
@@ -106,7 +106,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
+   "hora": "16:14",
    "tipo": "live"
   },
   {
@@ -154,7 +154,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:12",
+   "hora": "16:13",
    "tipo": "live"
   }
  ],
@@ -206,10 +206,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Baniyas SC",
-   "away": "Hatta SC",
-   "liga": "Pro League",
-   "minuto": 15,
+   "home": "Bicskei",
+   "away": "Veszprém",
+   "liga": "NB III - Northwest",
+   "minuto": 10,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "Billericay Town",
+   "away": "Dorking Wanderers",
+   "liga": "National League - South",
+   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -217,20 +228,9 @@
    "es_hoy": true
   },
   {
-   "home": "Zenit",
-   "away": "CSKA Moscow",
-   "liga": "Premier League",
-   "minuto": 20,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "SC Paderborn 07",
-   "away": "SC Freiburg",
-   "liga": "Bundesliga",
+   "home": "Wycombe",
+   "away": "Milton Keynes Dons",
+   "liga": "League One",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
@@ -239,9 +239,9 @@
    "es_hoy": true
   },
   {
-   "home": "1899 Hoffenheim",
-   "away": "Borussia Dortmund",
-   "liga": "Bundesliga",
+   "home": "Reading",
+   "away": "Blackpool",
+   "liga": "League One",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
@@ -250,9 +250,9 @@
    "es_hoy": true
   },
   {
-   "home": "FC Schaffhausen",
-   "away": "YF Juventus",
-   "liga": "1. Liga Promotion",
+   "home": "Luton",
+   "away": "Leyton Orient",
+   "liga": "League One",
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
@@ -261,10 +261,10 @@
    "es_hoy": true
   },
   {
-   "home": "Breitenrain",
-   "away": "Luzern II",
-   "liga": "1. Liga Promotion",
-   "minuto": 10,
+   "home": "Doncaster",
+   "away": "Plymouth",
+   "liga": "League One",
+   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -841,7 +841,7 @@
   "n": 2546,
   "ganados": 1735,
   "win_rate": 68,
-  "hoy": 53
+  "hoy": 75
  },
  "stats_dia": {
   "ganados": 33,
