@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T07:15:18.124352+00:00",
+ "actualizado": "2026-09-05T07:21:50.157289+00:00",
  "partidos_vivo": [
   {
    "home": "Canberra FC",
@@ -376,15 +376,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "FC Juarez",
-   "away": "CF Pachuca",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
