@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T20:56:24.275249+00:00",
+ "actualizado": "2026-09-05T21:05:00.594775+00:00",
  "partidos_vivo": [
   {
    "home": "Sporting CP",
@@ -152,7 +152,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -163,7 +163,7 @@
    "minuto": 12,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -174,7 +174,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -185,7 +185,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -196,7 +196,7 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -207,23 +207,23 @@
    "minuto": 19,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-05",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49890.0,
-  "balance_total": 39890.0,
-  "balance_dia": 182.0,
-  "ganados": 2602,
-  "perdidos": 1136,
-  "pendientes": 11,
-  "ganados_dia": 82,
-  "perdidos_dia": 45,
+  "capital": 49763.0,
+  "balance_total": 39763.0,
+  "balance_dia": 55.0,
+  "ganados": 2607,
+  "perdidos": 1140,
+  "pendientes": 2,
+  "ganados_dia": 87,
+  "perdidos_dia": 49,
   "win_rate": 69.6,
-  "roi": 10.7,
+  "roi": 10.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -447,14 +447,14 @@
    "away": "Hapoel Petah Tikva",
    "liga": "Ligat Ha'al",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Dessel Sport",
    "away": "Hoogstraten",
    "liga": "First Amateur Division",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -777,16 +777,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2607,
-  "ganados": 1774,
+  "n": 2614,
+  "ganados": 1777,
   "win_rate": 68,
   "hoy": 105
  },
  "stats_dia": {
-  "ganados": 84,
-  "perdidos": 46,
-  "en_juego": 10,
-  "win_rate": 65
+  "ganados": 89,
+  "perdidos": 50,
+  "en_juego": 1,
+  "win_rate": 64
  },
  "stats_banker": {
   "ganados": 80,
