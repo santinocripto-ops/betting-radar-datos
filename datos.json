@@ -1,13 +1,113 @@
 {
- "actualizado": "2026-09-05T14:14:49.812814+00:00",
+ "actualizado": "2026-09-05T14:33:40.735161+00:00",
  "partidos_vivo": [
   {
-   "home": "Franke",
-   "away": "Gute",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 63,
+   "home": "Slavia Praha",
+   "away": "Zbrojovka Brno",
+   "liga": "Czech Liga",
+   "minuto": 64,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.65 goles/partido",
+    "⚽ 1 gol — Zbrojovka Brno buscará el empate",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Penafiel",
+   "away": "Academica",
+   "liga": "Segunda Liga",
+   "minuto": 64,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Academica pierde por 3 — atacará sin freno",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Chippa United",
+   "away": "Milford FC",
+   "liga": "Premier Soccer League",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 58,
+   "momentum_away": 42,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 21 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Sudtirol",
+   "away": "Catanzaro",
+   "liga": "Serie B",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 42,
+   "momentum_away": 58,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.65 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Fiorentina",
+   "away": "Torino",
+   "liga": "Serie A",
+   "minuto": 60,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.3,
+   "recomendar": true,
+   "momentum_home": 61,
+   "momentum_away": 39,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ 1 gol — Torino buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Os",
+   "away": "Førde",
+   "liga": "3. Division - Girone 3",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,17 +116,97 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚽ Liga muy goleadora: 3.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Gute buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Rijnsburgse Boys",
-   "away": "AFC Amsterdam",
+   "home": "Sogndal II",
+   "away": "Fyllingsdalen",
+   "liga": "3. Division - Girone 3",
+   "minuto": 64,
+   "marcador": "5-0",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.68 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Brumunddal",
+   "away": "Elverum",
+   "liga": "3. Division - Girone 6",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.59 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Slovan Bratislava W",
+   "away": "Tatran Prešov W",
+   "liga": "I Liga - Women",
+   "minuto": 62,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.56 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Katwijk",
+   "away": "Almere City II",
    "liga": "Tweede Divisie",
-   "minuto": 60,
-   "marcador": "2-0",
+   "minuto": 59,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Kloetinge",
+   "away": "Ijsselmeervogels",
+   "liga": "Tweede Divisie",
+   "minuto": 62,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
@@ -42,14 +222,14 @@
    ]
   },
   {
-   "home": "HHC",
-   "away": "De Treffers",
+   "home": "Spakenburg",
+   "away": "Barendrecht",
    "liga": "Tweede Divisie",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "minuto": 62,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.9,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -58,37 +238,23 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — HHC buscará el empate"
-   ]
-  },
-  {
-   "home": "RKAV Volendam",
-   "away": "Hoek",
-   "liga": "Tweede Divisie",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hoek buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 16,
+ "partidos_vivo_total": 50,
  "umbral_vivo": 7.0,
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:14",
+   "hora": "16:33",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:33",
    "tipo": "live"
   },
   {
@@ -112,13 +278,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
+   "hora": "16:14",
    "tipo": "live"
   },
   {
@@ -206,6 +366,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Sochi",
+   "away": "Nizhny Novgorod",
+   "liga": "First League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "Clyde",
+   "away": "Edinburgh City",
+   "liga": "League Two",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Bicskei",
    "away": "Veszprém",
    "liga": "NB III - Northwest",
@@ -248,28 +430,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Luton",
-   "away": "Leyton Orient",
-   "liga": "League One",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Doncaster",
-   "away": "Plymouth",
-   "liga": "League One",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -279,7 +439,7 @@
   "balance_dia": 163.0,
   "ganados": 2551,
   "perdidos": 1107,
-  "pendientes": 25,
+  "pendientes": 47,
   "ganados_dia": 31,
   "perdidos_dia": 16,
   "win_rate": 69.7,
@@ -287,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3683,
+  "con_cuota_media": 3705,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -617,8 +777,8 @@
     "cuota": 1.33,
     "pinnacle": true,
     "delta": 4.29,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "5-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-05T12:00:00+00:00",
     "ts": "2026-09-05T11:09:28.408514+00:00"
    },
@@ -632,8 +792,8 @@
     "cuota": 1.33,
     "pinnacle": true,
     "delta": 7.93,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-05T11:30:00+00:00",
     "ts": "2026-09-05T10:05:27.980838+00:00"
    },
@@ -647,8 +807,8 @@
     "cuota": 1.91,
     "pinnacle": true,
     "delta": 4.41,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-05T11:30:00+00:00",
     "ts": "2026-09-05T10:05:28.507983+00:00"
    },
@@ -774,11 +934,11 @@
    }
   ],
   "balance": {
-   "ganados": 228,
+   "ganados": 231,
    "perdidos": 92,
-   "pendientes": 7,
-   "acierto": 71.2,
-   "total": 320
+   "pendientes": 4,
+   "acierto": 71.5,
+   "total": 323
   }
  },
  "mejor_dia": {
@@ -841,12 +1001,12 @@
   "n": 2546,
   "ganados": 1735,
   "win_rate": 68,
-  "hoy": 75
+  "hoy": 77
  },
  "stats_dia": {
   "ganados": 33,
   "perdidos": 17,
-  "en_juego": 24,
+  "en_juego": 46,
   "win_rate": 66
  },
  "stats_banker": {
