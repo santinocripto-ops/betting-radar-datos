@@ -1,31 +1,11 @@
 {
- "actualizado": "2026-09-05T00:31:47.416104+00:00",
+ "actualizado": "2026-09-05T00:38:22.148247+00:00",
  "partidos_vivo": [
   {
-   "home": "Inter Miami II",
-   "away": "Orlando City II",
+   "home": "Carolina Core",
+   "away": "New England II",
    "liga": "MLS Next Pro",
-   "minuto": 47,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 4.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Philadelphia Union II",
-   "away": "Columbus Crew II",
-   "liga": "MLS Next Pro",
-   "minuto": 50,
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -40,29 +20,9 @@
     "⚽ Liga muy goleadora: 4.08 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
-  },
-  {
-   "home": "Toronto II",
-   "away": "FC Cincinnati II",
-   "liga": "MLS Next Pro",
-   "minuto": 51,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.7,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 4.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
