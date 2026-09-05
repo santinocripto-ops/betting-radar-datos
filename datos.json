@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T08:55:39.570789+00:00",
+ "actualizado": "2026-09-05T09:02:54.597608+00:00",
  "partidos_vivo": [
   {
    "home": "Shaanxi Union",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:02",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "07:59",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "07:45",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -151,10 +151,21 @@
    "hora": "01:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1175
+   "n_historico": 1176
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Negeri Sembilan",
+   "away": "Imigresen",
+   "liga": "Super League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "Zvezda Perm W",
    "away": "CSKA Moskva W",
@@ -209,31 +220,20 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Adelaide Raiders",
-   "away": "Adelaide Blue Eagles",
-   "liga": "South Australia State League 1",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49575.0,
-  "balance_total": 39575.0,
-  "balance_dia": -133.0,
-  "ganados": 2523,
+  "capital": 49636.0,
+  "balance_total": 39636.0,
+  "balance_dia": -72.0,
+  "ganados": 2524,
   "perdidos": 1094,
-  "pendientes": 7,
-  "ganados_dia": 3,
+  "pendientes": 6,
+  "ganados_dia": 4,
   "perdidos_dia": 3,
   "win_rate": 69.8,
-  "roi": 10.9,
+  "roi": 11.0,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -372,7 +372,7 @@
   "over25": [],
   "balance": {
    "ganados": 1413,
-   "perdidos": 946,
+   "perdidos": 947,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -693,16 +693,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2513,
-  "ganados": 1714,
+  "n": 2514,
+  "ganados": 1715,
   "win_rate": 68,
-  "hoy": 9
+  "hoy": 10
  },
  "stats_dia": {
-  "ganados": 3,
+  "ganados": 4,
   "perdidos": 3,
-  "en_juego": 7,
-  "win_rate": 50
+  "en_juego": 6,
+  "win_rate": 57
  },
  "stats_banker": {
   "ganados": 78,
