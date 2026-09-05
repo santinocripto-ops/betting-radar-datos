@@ -1,9 +1,42 @@
 {
- "actualizado": "2026-09-05T03:07:43.538463+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-05T03:14:44.232980+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Atlas W",
+   "away": "Guadalajara W",
+   "liga": "Liga MX Femenil",
+   "minuto": 47,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -63,18 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "00:24",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:39",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +145,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Pumas UNAM W",
+   "away": "América W",
+   "liga": "Liga MX Femenil",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Juarez",
+   "away": "CF Pachuca",
+   "liga": "Liga MX",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "CRB",
    "away": "America Mineiro",
@@ -618,7 +661,7 @@
   "n": 2510,
   "ganados": 1712,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 0,
