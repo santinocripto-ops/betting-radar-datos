@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T20:26:54.750671+00:00",
+ "actualizado": "2026-09-05T20:34:27.085119+00:00",
  "partidos_vivo": [
   {
    "home": "RB Bragantino",
@@ -248,6 +248,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "22:34",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "22:23",
    "tipo": "smart_money"
   },
@@ -310,12 +316,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:30",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:30",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
