@@ -1,91 +1,11 @@
 {
- "actualizado": "2026-09-05T10:36:31.166402+00:00",
+ "actualizado": "2026-09-05T10:45:04.731281+00:00",
  "partidos_vivo": [
   {
-   "home": "Elfen Saitama W",
-   "away": "Parceiro Nagano W",
-   "liga": "WE League",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.23 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "FC Gifu",
-   "away": "Kanazawa",
-   "liga": "J3 League",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — FC Gifu buscará el empate"
-   ]
-  },
-  {
-   "home": "Matsumoto Yamaga",
-   "away": "Osaka",
-   "liga": "J3 League",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Urawa Reds W",
-   "away": "Tokyo Verdy Beleza W",
-   "liga": "WE League",
-   "minuto": 48,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.23 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Cagliari U20",
-   "away": "Sassuolo U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 49,
+   "home": "Tulevik",
+   "away": "Legion",
+   "liga": "Esiliiga B",
+   "minuto": 58,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -96,18 +16,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.26 goles/partido",
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Genoa U20",
-   "away": "Fiorentina U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "West Torrens Birkalla",
+   "away": "MetroStars",
+   "liga": "South Australia NPL",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -116,75 +36,55 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.26 goles/partido",
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Mandurah City",
+   "away": "UWA Nedlands",
+   "liga": "Western Australia NPL",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Adelaide City",
+   "away": "Playford City Patriots",
+   "liga": "South Australia NPL",
+   "minuto": 53,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Horní Heršpice W",
-   "away": "Viktoria Plzeň W",
-   "liga": "1. Liga Women",
-   "minuto": 49,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Monaro Panthers",
-   "away": "Cooma Tigers FC",
-   "liga": "Capital Territory NPL",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cooma Tigers FC buscará el empate"
-   ]
-  },
-  {
-   "home": "Kamatamare Sanuki",
-   "away": "Biwako Shiga",
-   "liga": "J3 League",
-   "minuto": 51,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.4,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Viktoria Plzeň U19",
-   "away": "Hradec Králové U19",
-   "liga": "1. Liga U19",
+   "home": "Fujieda MYFC",
+   "away": "Vanraure Hachinohe",
+   "liga": "J2 League",
    "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
@@ -196,35 +96,27 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.86 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Dukla Praha U19",
-   "away": "Zbrojovka Brno U19",
-   "liga": "1. Liga U19",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.86 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 18,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -272,18 +164,6 @@
    "texto": "⚽ Wuxi Wugou vs Yanbian Longding · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
    "hora": "12:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "12:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "12:05",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -374,6 +254,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Klepp W",
+   "away": "TIL 2020 W",
+   "liga": "1. Division Women",
+   "minuto": 13,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "Piteå W",
+   "away": "Växjö W",
+   "liga": "Damallsvenskan",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Sagan Tosu",
    "away": "Tegevajaro Miyazaki",
    "liga": "J2 League",
@@ -412,28 +314,6 @@
    "liga": "III Liga - Group 3",
    "minuto": 11,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Avispa Fukuoka",
-   "away": "Mito Hollyhock",
-   "liga": "J1 League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Dukla Praha U19",
-   "away": "Zbrojovka Brno U19",
-   "liga": "1. Liga U19",
-   "minuto": 11,
-   "score": 9.3,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -942,7 +822,7 @@
   "n": 2516,
   "ganados": 1715,
   "win_rate": 68,
-  "hoy": 18
+  "hoy": 20
  },
  "stats_dia": {
   "ganados": 5,
