@@ -1,250 +1,96 @@
 {
- "actualizado": "2026-09-05T13:49:36.914958+00:00",
+ "actualizado": "2026-09-05T13:52:37.150841+00:00",
  "partidos_vivo": [
   {
-   "home": "Djurgården W",
-   "away": "Rosengård W",
-   "liga": "Damallsvenskan",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 45,
-   "momentum_away": 55,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Kristianstad W",
-   "away": "Brommapojkarna W",
-   "liga": "Damallsvenskan",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 28,
-   "momentum_away": 72,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Shandong Luneng",
-   "away": "Sichuan Jiuniu",
-   "liga": "Super League",
-   "minuto": 51,
+   "home": "Franke",
+   "away": "Gute",
+   "liga": "Division 2 - Norra Svealand",
+   "minuto": 63,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.63 goles/partido",
-    "⚽ 1 gol — Sichuan Jiuniu buscará el empate",
-    "🎯 21 remates totales — partido muy intenso"
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Gute buscará el empate"
    ]
   },
   {
-   "home": "Metz",
-   "away": "Rodez",
-   "liga": "Ligue 2",
-   "minuto": 53,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Rijnsburgse Boys",
+   "away": "AFC Amsterdam",
+   "liga": "Tweede Divisie",
+   "minuto": 60,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Rodez pierde por 2 — atacará sin freno",
-    "🎯 27 remates totales — partido muy intenso"
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Real Sociedad II",
-   "away": "Tenerife",
-   "liga": "Segunda División",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "⏱ 36 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Chelyabinsk",
-   "away": "Spartak Kostroma",
-   "liga": "First League",
-   "minuto": 52,
+   "home": "HHC",
+   "away": "De Treffers",
+   "liga": "Tweede Divisie",
+   "minuto": 61,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.9,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Chelyabinsk buscará el empate",
-    "🎯 5 remates a puerta",
-    "⏱ 38 minutos por jugar — tiempo suficiente"
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — HHC buscará el empate"
    ]
   },
   {
-   "home": "Enisey",
-   "away": "FK Neftekhimik",
-   "liga": "First League",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 63,
-   "momentum_away": 37,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Leningradets",
-   "away": "Ska-khabarovsk",
-   "liga": "First League",
-   "minuto": 56,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 9 remates totales",
-    "🎯 5 remates a puerta"
-   ]
-  },
-  {
-   "home": "Hansa Rostock",
-   "away": "SV Wehen",
-   "liga": "3. Liga",
-   "minuto": 54,
+   "home": "RKAV Volendam",
+   "away": "Hoek",
+   "liga": "Tweede Divisie",
+   "minuto": 60,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.3,
    "recomendar": true,
-   "momentum_home": 76,
-   "momentum_away": 24,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "⚽ 1 gol — SV Wehen buscará el empate"
-   ]
-  },
-  {
-   "home": "Waldhof Mannheim",
-   "away": "Verl",
-   "liga": "3. Liga",
-   "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "⚽ 1 gol — Waldhof Mannheim buscará el empate"
-   ]
-  },
-  {
-   "home": "SV Meppen",
-   "away": "FC Saarbrücken",
-   "liga": "3. Liga",
-   "minuto": 54,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 52,
-   "momentum_away": 48,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "SSV Jahn Regensburg",
-   "away": "MSV Duisburg",
-   "liga": "3. Liga",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 73,
-   "momentum_away": 27,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Hoek buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 60,
+ "partidos_vivo_total": 16,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -292,12 +138,6 @@
    "texto": "──────────────────────────────",
    "hora": "15:33",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:25",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -376,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Zenit",
+   "away": "CSKA Moscow",
+   "liga": "Premier League",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "SC Paderborn 07",
    "away": "SC Freiburg",
    "liga": "Bundesliga",
@@ -429,17 +280,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Sudtirol",
-   "away": "Catanzaro",
-   "liga": "Serie B",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -449,7 +289,7 @@
   "balance_dia": -188.0,
   "ganados": 2536,
   "perdidos": 1102,
-  "pendientes": 31,
+  "pendientes": 37,
   "ganados_dia": 16,
   "perdidos_dia": 11,
   "win_rate": 69.7,
@@ -457,7 +297,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3669,
+  "con_cuota_media": 3675,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -672,6 +512,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Widzew Łódź",
+   "away": "Radomiak Radom",
+   "liga": "Ekstraklasa",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "SSV Jahn Regensburg",
    "away": "MSV Duisburg",
@@ -986,12 +833,12 @@
   "n": 2530,
   "ganados": 1724,
   "win_rate": 68,
-  "hoy": 51
+  "hoy": 52
  },
  "stats_dia": {
   "ganados": 17,
   "perdidos": 12,
-  "en_juego": 31,
+  "en_juego": 37,
   "win_rate": 59
  },
  "stats_banker": {
