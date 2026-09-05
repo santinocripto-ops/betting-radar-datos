@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T08:08:21.687833+00:00",
+ "actualizado": "2026-09-05T08:15:08.543221+00:00",
  "partidos_vivo": [
   {
    "home": "Peninsula Power",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "06:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "05:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -155,6 +155,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Spartak Trnava W",
+   "away": "Komárno W",
+   "liga": "I Liga - Women",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "Shaanxi Union",
    "away": "Heilongjiang Lava Spring",
@@ -685,7 +696,7 @@
   "n": 2513,
   "ganados": 1714,
   "win_rate": 68,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 3,
