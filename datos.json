@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T18:13:23.114440+00:00",
+ "actualizado": "2026-09-05T18:23:22.473166+00:00",
  "partidos_vivo": [
   {
    "home": "Utrecht",
@@ -206,6 +206,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:51",
@@ -262,12 +268,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:10",
    "tipo": "live"
   },
@@ -912,6 +912,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will OGC Nice win on 2026-09-05?",
+   "apuesta": "SI, OGC Nice ganara",
+   "usdc": 797383,
+   "prob": 56.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:22"
+  },
+  {
    "titulo": "Counter-Strike: Nemiga vs Team Nemesis (BO3) - Stake Ranked Episode 4:",
    "apuesta": "SI, Counter-Strike: Nemiga ganara",
    "usdc": 91400,
@@ -972,15 +981,6 @@
    "prob": 51.5,
    "n_traders": 2,
    "trader": "0x076daa87",
-   "hora": "17:29"
-  },
-  {
-   "titulo": "FC Internazionale Milano vs. SSC Napoli: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 551756,
-   "prob": 51.5,
-   "n_traders": 2,
-   "trader": "sainttroplay",
    "hora": "17:29"
   }
  ],
