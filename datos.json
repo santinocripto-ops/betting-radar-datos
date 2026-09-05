@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T04:35:13.793818+00:00",
+ "actualizado": "2026-09-05T04:42:07.868022+00:00",
  "partidos_vivo": [
   {
    "home": "Pumas UNAM W",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:41",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -103,18 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "02:31",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:32",
    "tipo": "smart_money"
   }
  ],
@@ -605,6 +605,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Aston Villa FC win on 2026-09-05?",
+   "apuesta": "SI, Aston Villa ganara",
+   "usdc": 101544,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "06:41"
+  },
+  {
+   "titulo": "Will Brentford FC win on 2026-09-05?",
+   "apuesta": "NO, Brentford no ganara",
+   "usdc": 134953,
+   "prob": 43.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "06:41"
+  },
+  {
    "titulo": "Will Brighton & Hove Albion FC win on 2026-09-05?",
    "apuesta": "NO, Brighton & Hove Albion no ganara",
    "usdc": 262577,
@@ -657,24 +675,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "00:09"
-  },
-  {
-   "titulo": "Will Real Madrid CF win on 2026-09-04?",
-   "apuesta": "SI, Real Madrid ganara",
-   "usdc": 17664,
-   "prob": 50.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "22:39"
-  },
-  {
-   "titulo": "Will Ipswich Town FC win on 2026-09-04?",
-   "apuesta": "SI, Ipswich Town ganara",
-   "usdc": 564670,
-   "prob": 17.5,
-   "n_traders": 2,
-   "trader": "sainttroplay",
-   "hora": "20:22"
   }
  ],
  "stats_gt": {
