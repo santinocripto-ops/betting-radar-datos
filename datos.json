@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T05:38:48.176498+00:00",
+ "actualizado": "2026-09-05T05:45:48.245012+00:00",
  "partidos_vivo": [
   {
    "home": "Cashmere Technical",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "07:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -110,12 +116,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "02:44",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "02:31",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -165,6 +165,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Adelaide Raiders",
+   "away": "Adelaide Blue Eagles",
+   "liga": "South Australia State League 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "Pumas UNAM W",
    "away": "América W",
@@ -681,7 +692,7 @@
   "n": 2512,
   "ganados": 1714,
   "win_rate": 68,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 2,
