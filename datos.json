@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T10:05:48.674694+00:00",
+ "actualizado": "2026-09-05T10:11:57.958292+00:00",
  "partidos_vivo": [
   {
    "home": "Přepeře",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "12:11",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Nantong Zhiyun vs Guangzhou E-Power · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · ",
    "hora": "12:05",
@@ -157,12 +163,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "11:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:14",
    "tipo": "live"
   },
   {
