@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T13:07:05.251968+00:00",
+ "actualizado": "2026-09-05T13:13:49.109279+00:00",
  "partidos_vivo": [
   {
    "home": "SHANGHAI SIPG",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:13",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:07",
@@ -310,12 +316,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "14:19",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
