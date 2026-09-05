@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T05:45:48.245012+00:00",
+ "actualizado": "2026-09-05T05:52:37.055862+00:00",
  "partidos_vivo": [
   {
    "home": "Cashmere Technical",
@@ -217,7 +217,7 @@
   "balance_dia": -78.0,
   "ganados": 2522,
   "perdidos": 1093,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 2,
   "perdidos_dia": 2,
   "win_rate": 69.8,
@@ -225,7 +225,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3618,
+  "con_cuota_media": 3619,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -697,7 +697,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 50
  },
  "stats_banker": {
