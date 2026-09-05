@@ -1,93 +1,193 @@
 {
- "actualizado": "2026-09-05T12:39:37.965275+00:00",
+ "actualizado": "2026-09-05T12:43:42.482152+00:00",
  "partidos_vivo": [
   {
-   "home": "IFK Varnamo",
-   "away": "Varbergs BoIS FC",
-   "liga": "Superettan",
-   "minuto": 50,
+   "home": "SHANGHAI SIPG",
+   "away": "Beijing Guoan",
+   "liga": "Super League",
+   "minuto": 48,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.63 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Newcastle",
+   "away": "Bournemouth",
+   "liga": "Premier League",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga goleadora: 3.05 goles/partido",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Preston",
+   "away": "Blackburn",
+   "liga": "Championship",
+   "minuto": 51,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 29,
+   "momentum_away": 71,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Blackburn pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Stoke City",
+   "away": "Charlton",
+   "liga": "Championship",
+   "minuto": 47,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 63,
+   "momentum_away": 37,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Charlton pierde por 4 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Peterborough",
+   "away": "Sheffield Wednesday",
+   "liga": "League One",
+   "minuto": 51,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 48,
+   "momentum_away": 52,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Wigan",
+   "away": "Stockport County",
+   "liga": "League One",
+   "minuto": 49,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 32,
+   "momentum_away": 68,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Wigan pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "KAA Gent II",
+   "away": "RSC Anderlecht II",
+   "liga": "Challenger Pro League",
+   "minuto": 51,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 9.8,
+   "recomendar": true,
+   "momentum_home": 29,
+   "momentum_away": 71,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.91 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "Lincoln",
+   "away": "Southampton",
+   "liga": "Championship",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.8,
    "recomendar": true,
    "momentum_home": 52,
    "momentum_away": 48,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
+    "⚽ 1 gol — Lincoln buscará el empate",
+    "🎯 21 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Holstein Kiel",
-   "away": "1. FC Nürnberg",
-   "liga": "2. Bundesliga",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 61,
-   "momentum_away": 39,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "1. FC Kaiserslautern",
-   "away": "SV Darmstadt 98",
-   "liga": "2. Bundesliga",
-   "minuto": 49,
+   "home": "Fleetwood Town",
+   "away": "Shrewsbury",
+   "liga": "League Two",
+   "minuto": 52,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.1,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚽ 1 gol — SV Darmstadt 98 buscará el empate"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 1 gol — Shrewsbury buscará el empate",
+    "🎯 10 remates totales"
    ]
   },
   {
-   "home": "VfL Wolfsburg",
-   "away": "Energie Cottbus",
-   "liga": "2. Bundesliga",
-   "minuto": 46,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 27,
-   "momentum_away": 73,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Follo",
-   "away": "Tromsdalen Uil",
-   "liga": "2. Division - Group 2",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Dongguan United",
+   "away": "Dalian Huayi",
+   "liga": "League One",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -96,96 +196,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
+    "⚽ Liga muy goleadora: 3.35 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tromsdalen Uil buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Ullern",
-   "away": "Asker",
-   "liga": "3. Division - Girone 1",
+   "home": "Nantong Zhiyun",
+   "away": "Guangzhou E-Power",
+   "liga": "League One",
    "minuto": 48,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Stord",
-   "away": "Fana",
-   "liga": "3. Division - Girone 3",
-   "minuto": 50,
-   "marcador": "3-4",
-   "apuesta": "Over 7.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.68 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 7 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Våg",
-   "away": "Åkra",
-   "liga": "3. Division - Girone 4",
-   "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Lillehammer",
-   "away": "Raelingen",
-   "liga": "3. Division - Girone 6",
-   "minuto": 50,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.59 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Wuxi Wugou",
-   "away": "Yanbian Longding",
-   "liga": "League One",
-   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -202,29 +222,9 @@
    ]
   },
   {
-   "home": "Changchun Yatai",
-   "away": "Ningbo Professional",
-   "liga": "League One",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.35 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sokół Kleczew",
-   "away": "Górnik Łęczna",
-   "liga": "II Liga - East",
+   "home": "Aldershot Town",
+   "away": "FC Halifax Town",
+   "liga": "National League",
    "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
@@ -236,15 +236,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 44,
+ "partidos_vivo_total": 22,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:43",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -297,12 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:15",
    "tipo": "live"
   },
   {
@@ -394,6 +394,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "GVVV Veenendaal",
+   "away": "Quick Boys",
+   "liga": "Tweede Divisie",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "SSV Jahn Regensburg",
    "away": "MSV Duisburg",
    "liga": "3. Liga",
@@ -447,17 +458,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Waldhof Mannheim",
-   "away": "Verl",
-   "liga": "3. Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -467,7 +467,7 @@
   "balance_dia": -310.0,
   "ganados": 2534,
   "perdidos": 1102,
-  "pendientes": 19,
+  "pendientes": 20,
   "ganados_dia": 14,
   "perdidos_dia": 11,
   "win_rate": 69.7,
@@ -475,7 +475,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3655,
+  "con_cuota_media": 3656,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -690,6 +690,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Aldershot Town",
+   "away": "FC Halifax Town",
+   "liga": "National League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Sagan Tosu",
    "away": "Tegevajaro Miyazaki",
@@ -965,12 +972,12 @@
   "n": 2528,
   "ganados": 1722,
   "win_rate": 68,
-  "hoy": 36
+  "hoy": 37
  },
  "stats_dia": {
   "ganados": 14,
   "perdidos": 11,
-  "en_juego": 21,
+  "en_juego": 22,
   "win_rate": 56
  },
  "stats_banker": {
