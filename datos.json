@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T17:10:43.296834+00:00",
+ "actualizado": "2026-09-05T17:19:12.620687+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Faisaly FC",
@@ -68,6 +68,24 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:18",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:10",
    "tipo": "live"
   },
@@ -118,24 +136,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:37",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:23",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "18:14",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -186,6 +186,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Pendikspor",
+   "away": "Ümraniyespor",
+   "liga": "1. Lig",
+   "minuto": 20,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "Fenerbahçe",
+   "away": "Beşiktaş",
+   "liga": "Süper Lig",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Keçiörengücü",
    "away": "Sarıyer",
    "liga": "1. Lig",
@@ -228,28 +250,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-05",
    "es_hoy": true
-  },
-  {
-   "home": "Al-Faisaly FC",
-   "away": "Al-Hazm",
-   "liga": "Pro League",
-   "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Fréjus St-Raphaël",
-   "away": "Andrézieux",
-   "liga": "National 2 - Group C",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -259,7 +259,7 @@
   "balance_dia": 586.0,
   "ganados": 2586,
   "perdidos": 1123,
-  "pendientes": 27,
+  "pendientes": 28,
   "ganados_dia": 66,
   "perdidos_dia": 32,
   "win_rate": 69.7,
@@ -267,7 +267,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3736,
+  "con_cuota_media": 3737,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -772,6 +772,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Internazionale Milano win on 2026-09-05?",
+   "apuesta": "NO, FC Internazionale Milano no ganara",
+   "usdc": 33886,
+   "prob": 79.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:18"
+  },
+  {
    "titulo": "Spread: FC Bayern München (-2.5)",
    "apuesta": "SI — Spread: FC Bayern München (-2.5)",
    "usdc": 26490,
@@ -833,27 +842,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "16:08"
-  },
-  {
-   "titulo": "Spread: Manchester City FC (-2.5)",
-   "apuesta": "SI — Spread: Manchester City FC (-2.5)",
-   "usdc": 240605,
-   "prob": 38.5,
-   "n_traders": 2,
-   "trader": "sainttroplay",
-   "hora": "15:33"
   }
  ],
  "stats_gt": {
   "n": 2586,
   "ganados": 1763,
   "win_rate": 68,
-  "hoy": 96
+  "hoy": 98
  },
  "stats_dia": {
   "ganados": 68,
   "perdidos": 33,
-  "en_juego": 26,
+  "en_juego": 27,
   "win_rate": 67
  },
  "stats_banker": {
