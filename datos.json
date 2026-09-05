@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T07:34:58.785301+00:00",
+ "actualizado": "2026-09-05T07:41:40.187756+00:00",
  "partidos_vivo": [
   {
    "home": "Canberra FC",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "09:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -103,12 +109,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "06:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "05:14",
    "tipo": "live"
   },
   {
@@ -175,6 +175,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Shaanxi Union",
+   "away": "Heilongjiang Lava Spring",
+   "liga": "League One",
+   "minuto": 11,
+   "score": 9.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "Adelaide Raiders",
    "away": "Adelaide Blue Eagles",
@@ -694,7 +705,7 @@
   "n": 2513,
   "ganados": 1714,
   "win_rate": 68,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 3,
