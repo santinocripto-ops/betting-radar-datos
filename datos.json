@@ -1,42 +1,22 @@
 {
- "actualizado": "2026-09-05T08:01:23.051015+00:00",
+ "actualizado": "2026-09-05T08:08:21.687833+00:00",
  "partidos_vivo": [
   {
-   "home": "Canberra FC",
-   "away": "Queanbeyan City",
-   "liga": "Capital Territory NPL",
-   "minuto": 55,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Queanbeyan City buscará el empate"
-   ]
-  },
-  {
-   "home": "Modbury Jets",
-   "away": "Adelaide Olympic",
-   "liga": "South Australia State League 1",
-   "minuto": 63,
-   "marcador": "3-0",
+   "home": "Peninsula Power",
+   "away": "Moreton City Excelsior",
+   "liga": "Queensland NPL",
+   "minuto": 48,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
