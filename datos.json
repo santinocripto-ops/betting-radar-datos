@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-09-05T01:59:27.022962+00:00",
+ "actualizado": "2026-09-05T02:07:14.036442+00:00",
  "partidos_vivo": [
   {
-   "home": "Concepción",
-   "away": "A. Italiano",
-   "liga": "Primera División",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "North Texas",
+   "away": "Real Monarchs",
+   "liga": "MLS Next Pro",
+   "minuto": 61,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.2,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 1 gol — Concepción buscará el empate",
-    "🎯 17 remates totales"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 4.08 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "CRB",
-   "away": "America Mineiro",
-   "liga": "Serie B",
+   "home": "Atlético Choloma",
+   "away": "Olancho",
+   "liga": "Liga Nacional",
    "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — America Mineiro buscará el empate",
-    "🎯 22 remates totales — partido muy intenso",
-    "🎯 7 remates a puerta"
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -110,12 +116,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:04",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -179,16 +179,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49708.0,
-  "balance_total": 39708.0,
-  "balance_dia": 0.0,
+  "capital": 49508.0,
+  "balance_total": 39508.0,
+  "balance_dia": -200.0,
   "ganados": 2520,
-  "perdidos": 1091,
-  "pendientes": 4,
+  "perdidos": 1093,
+  "pendientes": 2,
   "ganados_dia": 0,
-  "perdidos_dia": 0,
-  "win_rate": 69.8,
-  "roi": 11.0,
+  "perdidos_dia": 2,
+  "win_rate": 69.7,
+  "roi": 10.9,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -339,7 +339,7 @@
    "away": "Nashville SC",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -583,6 +583,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Elina Svitolina vs Anna Kalinskaya",
+   "apuesta": "SI, US Open WTA: Elina Svitolina ganara",
+   "usdc": 57046,
+   "prob": 60.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "04:06"
+  },
+  {
    "titulo": "Will Newcastle United FC win on 2026-09-05?",
    "apuesta": "SI, Newcastle United ganara",
    "usdc": 100000,
@@ -644,27 +653,18 @@
    "n_traders": 1,
    "trader": "beachboy4",
    "hora": "18:45"
-  },
-  {
-   "titulo": "US Open ATP: Alexander Bublik vs Tommy Paul",
-   "apuesta": "SI, US Open ATP: Alexander Bublik ganara",
-   "usdc": 235366,
-   "prob": 39.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "16:55"
   }
  ],
  "stats_gt": {
-  "n": 2509,
+  "n": 2510,
   "ganados": 1712,
   "win_rate": 68,
   "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
+  "perdidos": 2,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
