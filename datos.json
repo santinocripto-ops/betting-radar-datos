@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T16:46:16.386518+00:00",
+ "actualizado": "2026-09-05T16:53:52.974082+00:00",
  "partidos_vivo": [
   {
    "home": "Lens",
@@ -439,7 +439,7 @@
   "balance_dia": 586.0,
   "ganados": 2586,
   "perdidos": 1123,
-  "pendientes": 21,
+  "pendientes": 22,
   "ganados_dia": 66,
   "perdidos_dia": 32,
   "win_rate": 69.7,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3730,
+  "con_cuota_media": 3731,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1033,7 +1033,7 @@
  "stats_dia": {
   "ganados": 68,
   "perdidos": 33,
-  "en_juego": 20,
+  "en_juego": 21,
   "win_rate": 67
  },
  "stats_banker": {
