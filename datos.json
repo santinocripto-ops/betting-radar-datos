@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T14:41:34.049027+00:00",
+ "actualizado": "2026-09-05T14:41:53.563973+00:00",
  "partidos_vivo": [
   {
    "home": "Slavia Praha",
@@ -259,6 +259,12 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:41",
    "tipo": "live"
@@ -297,12 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
    "tipo": "live"
   },
   {
@@ -366,6 +366,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Benfica B",
+   "away": "Torreense",
+   "liga": "Segunda Liga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "Athletic Club",
+   "away": "Atletico Madrid",
+   "liga": "La Liga",
+   "minuto": 24,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
+   "home": "NEC Nijmegen",
+   "away": "Feyenoord",
+   "liga": "Eredivisie",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "FC Sochi",
    "away": "Nizhny Novgorod",
    "liga": "First League",
@@ -393,39 +426,6 @@
    "liga": "NB III - Northwest",
    "minuto": 10,
    "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Billericay Town",
-   "away": "Dorking Wanderers",
-   "liga": "National League - South",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Wycombe",
-   "away": "Milton Keynes Dons",
-   "liga": "League One",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Reading",
-   "away": "Blackpool",
-   "liga": "League One",
-   "minuto": 12,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -1001,7 +1001,7 @@
   "n": 2546,
   "ganados": 1735,
   "win_rate": 68,
-  "hoy": 77
+  "hoy": 80
  },
  "stats_dia": {
   "ganados": 33,
