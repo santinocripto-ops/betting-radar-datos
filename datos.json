@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-09-05T05:59:36.324433+00:00",
- "partidos_vivo": [
-  {
-   "home": "Cashmere Technical",
-   "away": "Fencibles United",
-   "liga": "Chatham Cup",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cashmere Technical buscará el empate"
-   ]
-  },
-  {
-   "home": "Kahibah",
-   "away": "Newcastle Croatia FC",
-   "liga": "Northern NSW NPL",
-   "minuto": 46,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-05T06:07:40.665294+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -147,7 +106,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 62,
-   "n_historico": 1178
+   "n_historico": 1181
   },
   {
    "clave": "btts",
@@ -161,7 +120,7 @@
    "hora": "01:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1168
+   "n_historico": 1174
   }
  ],
  "gol_temprano": [
@@ -194,7 +153,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-05",
    "es_hoy": true
   },
@@ -212,16 +171,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49630.0,
-  "balance_total": 39630.0,
-  "balance_dia": -78.0,
-  "ganados": 2522,
-  "perdidos": 1093,
-  "pendientes": 4,
-  "ganados_dia": 2,
-  "perdidos_dia": 2,
+  "capital": 49575.0,
+  "balance_total": 39575.0,
+  "balance_dia": -133.0,
+  "ganados": 2523,
+  "perdidos": 1094,
+  "pendientes": 2,
+  "ganados_dia": 3,
+  "perdidos_dia": 3,
   "win_rate": 69.8,
-  "roi": 11.0,
+  "roi": 10.9,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -253,7 +212,7 @@
     "away": "CF Pachuca",
     "liga": "Liga MX",
     "hora": "05:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -289,7 +248,7 @@
     "away": "Newcastle Croatia FC",
     "liga": "Northern NSW NPL",
     "hora": "06:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -359,8 +318,8 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1405,
-   "perdidos": 941,
+   "ganados": 1411,
+   "perdidos": 944,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -372,7 +331,7 @@
    "away": "CF Pachuca",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -689,15 +648,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2512,
+  "n": 2513,
   "ganados": 1714,
   "win_rate": 68,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 2,
-  "en_juego": 3,
+  "ganados": 3,
+  "perdidos": 3,
+  "en_juego": 1,
   "win_rate": 50
  },
  "stats_banker": {
