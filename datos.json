@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T18:31:03.958937+00:00",
+ "actualizado": "2026-09-05T18:38:39.143987+00:00",
  "partidos_vivo": [
   {
    "home": "Utrecht",
@@ -207,6 +207,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:38",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:30",
    "tipo": "live"
@@ -257,24 +275,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:26",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:18",
    "tipo": "smart_money"
   }
  ],
@@ -912,6 +912,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+   "apuesta": "SI, US Open ATP: Taylor Fritz ganara",
+   "usdc": 53675,
+   "prob": 63.1,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:38"
+  },
+  {
    "titulo": "Will Red Bull Bragantino win on 2026-09-05?",
    "apuesta": "SI, Red Bull Bragantino ganara",
    "usdc": 245000,
@@ -973,15 +982,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:23"
-  },
-  {
-   "titulo": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
-   "apuesta": "SI, Counter-Strike: MOUZ ganara",
-   "usdc": 81967,
-   "prob": 39.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xf",
-   "hora": "17:59"
   }
  ],
  "stats_gt": {
