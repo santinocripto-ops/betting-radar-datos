@@ -1,30 +1,56 @@
 {
- "actualizado": "2026-09-05T21:05:00.594775+00:00",
+ "actualizado": "2026-09-05T21:53:08.461600+00:00",
  "partidos_vivo": [
   {
-   "home": "Sporting CP",
-   "away": "Nacional",
-   "liga": "Primeira Liga",
+   "home": "Fundación Lara Deportiva",
+   "away": "Real Frontera",
+   "liga": "Segunda División",
    "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.5,
    "recomendar": true,
-   "momentum_home": 91,
-   "momentum_away": 9,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "América de Cali W",
+   "away": "Santa Fe W",
+   "liga": "Liga Femenina",
+   "minuto": 62,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "23:53",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:38",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:30",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +165,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Everton de Vina",
+   "away": "U. Catolica",
+   "liga": "Primera División",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
   {
    "home": "AS Roma",
    "away": "Atalanta",
@@ -197,17 +228,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Maccabi Haifa",
-   "away": "Hapoel Petah Tikva",
-   "liga": "Ligat Ha'al",
-   "minuto": 19,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-05",
    "es_hoy": true
   }
@@ -441,22 +461,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Maccabi Haifa",
-   "away": "Hapoel Petah Tikva",
-   "liga": "Ligat Ha'al",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Dessel Sport",
-   "away": "Hoogstraten",
-   "liga": "First Amateur Division",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -780,7 +785,7 @@
   "n": 2614,
   "ganados": 1777,
   "win_rate": 68,
-  "hoy": 105
+  "hoy": 106
  },
  "stats_dia": {
   "ganados": 89,
