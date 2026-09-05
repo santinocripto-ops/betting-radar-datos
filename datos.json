@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T11:09:28.171838+00:00",
+ "actualizado": "2026-09-05T11:27:55.397323+00:00",
  "partidos_vivo": [
   {
    "home": "Tulevik",
@@ -467,7 +467,80 @@
     "tanda": 2
    }
   ],
-  "over25": [],
+  "over25": [
+   {
+    "home": "Arsenal U18",
+    "away": "Southampton U18",
+    "liga": "U18 Premier League - South",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Birmingham City U18",
+    "away": "Ipswich Town U18",
+    "liga": "U18 Premier League - South",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Leeds United U18",
+    "away": "Burnley U18",
+    "liga": "U18 Premier League - North",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Djerv",
+    "away": "Askøy",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Varhaug",
+    "away": "Brodd",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ulfstind",
+    "away": "Fauske Sprint",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Schwabmünchen",
+    "away": "Hankofen-Hailing",
+    "liga": "Oberliga - Bayern Süd",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Schalding-Heining",
+    "away": "Pfaffenhofen",
+    "liga": "Oberliga - Bayern Süd",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
   "balance": {
    "ganados": 1413,
    "perdidos": 947,
