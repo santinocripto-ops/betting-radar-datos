@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T06:59:23.325452+00:00",
+ "actualizado": "2026-09-05T07:06:10.398659+00:00",
  "partidos_vivo": [
   {
    "home": "Adelaide Raiders",
@@ -127,7 +127,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 62,
-   "n_historico": 1181
+   "n_historico": 1184
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "01:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1174
+   "n_historico": 1175
   }
  ],
  "gol_temprano": [
@@ -339,8 +339,8 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1411,
-   "perdidos": 944,
+   "ganados": 1413,
+   "perdidos": 946,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
