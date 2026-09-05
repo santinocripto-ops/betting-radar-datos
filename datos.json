@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T03:40:47.573304+00:00",
+ "actualizado": "2026-09-05T03:47:10.985736+00:00",
  "partidos_vivo": [
   {
    "home": "Atlas W",
@@ -335,15 +335,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "New York City FC",
-   "away": "Nashville SC",
-   "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
