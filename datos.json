@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T04:22:02.697514+00:00",
+ "actualizado": "2026-09-05T04:28:40.208982+00:00",
  "partidos_vivo": [
   {
    "home": "Pumas UNAM W",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:28",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -104,12 +110,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:55",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:32",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -605,6 +605,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Brighton & Hove Albion FC win on 2026-09-05?",
+   "apuesta": "NO, Brighton & Hove Albion no ganara",
+   "usdc": 262577,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "06:28"
+  },
+  {
    "titulo": "US Open ATP: Ben Shelton vs Denis Shapovalov",
    "apuesta": "SI, US Open ATP: Ben Shelton ganara",
    "usdc": 158397,
@@ -666,15 +675,6 @@
    "n_traders": 2,
    "trader": "sainttroplay",
    "hora": "20:22"
-  },
-  {
-   "titulo": "Will Olympique Lyonnais win on 2026-09-04?",
-   "apuesta": "SI, Olympique Lyonnais ganara",
-   "usdc": 47219,
-   "prob": 67.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:29"
   }
  ],
  "stats_gt": {
