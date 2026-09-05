@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T18:23:22.473166+00:00",
+ "actualizado": "2026-09-05T18:31:03.958937+00:00",
  "partidos_vivo": [
   {
    "home": "Utrecht",
@@ -206,6 +206,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:30",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:30",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:22",
@@ -264,18 +276,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:18",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -326,6 +326,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Motor Lublin",
+   "away": "Legia Warszawa",
+   "liga": "Ekstraklasa",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05",
+   "es_hoy": true
+  },
+  {
    "home": "Dinamo Bucuresti",
    "away": "FCSB",
    "liga": "Liga I",
@@ -375,17 +386,6 @@
    "liga": "Süper Lig",
    "minuto": 19,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05",
-   "es_hoy": true
-  },
-  {
-   "home": "Keçiörengücü",
-   "away": "Sarıyer",
-   "liga": "1. Lig",
-   "minuto": 10,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -912,6 +912,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Red Bull Bragantino win on 2026-09-05?",
+   "apuesta": "SI, Red Bull Bragantino ganara",
+   "usdc": 245000,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "20:30"
+  },
+  {
    "titulo": "Will OGC Nice win on 2026-09-05?",
    "apuesta": "SI, OGC Nice ganara",
    "usdc": 797383,
@@ -973,22 +982,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xf",
    "hora": "17:59"
-  },
-  {
-   "titulo": "FC Internazionale Milano vs. SSC Napoli: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 50567,
-   "prob": 51.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "17:29"
   }
  ],
  "stats_gt": {
   "n": 2603,
   "ganados": 1771,
   "win_rate": 68,
-  "hoy": 101
+  "hoy": 102
  },
  "stats_dia": {
   "ganados": 81,
