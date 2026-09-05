@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T16:14:43.847907+00:00",
+ "actualizado": "2026-09-05T16:23:12.470942+00:00",
  "partidos_vivo": [
   {
    "home": "Dordrecht",
@@ -147,6 +147,12 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:23",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "18:14",
    "tipo": "smart_money"
@@ -198,12 +204,6 @@
    "texto": "──────────────────────────────",
    "hora": "17:59",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:50",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -852,6 +852,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "FC Bayern München leading at halftime?",
+   "apuesta": "SI — FC Bayern München leading at halftime",
+   "usdc": 75933,
+   "prob": 62.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:23"
+  },
+  {
    "titulo": "Counter-Strike: MOUZ vs Vitality (BO3) - BLAST Open Porto Playoffs",
    "apuesta": "SI, Counter-Strike: MOUZ ganara",
    "usdc": 81967,
@@ -913,15 +922,6 @@
    "n_traders": 3,
    "trader": "0x076daa87",
    "hora": "15:33"
-  },
-  {
-   "titulo": "Will ACF Fiorentina win on 2026-09-05?",
-   "apuesta": "NO, ACF Fiorentina no ganara",
-   "usdc": 148004,
-   "prob": 55.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "14:32"
   }
  ],
  "stats_gt": {
