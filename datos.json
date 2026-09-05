@@ -1,50 +1,96 @@
 {
- "actualizado": "2026-09-05T21:53:08.461600+00:00",
+ "actualizado": "2026-09-05T22:44:27.892094+00:00",
  "partidos_vivo": [
   {
-   "home": "Fundación Lara Deportiva",
-   "away": "Real Frontera",
-   "liga": "Segunda División",
-   "minuto": 64,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "América de Cali W",
-   "away": "Santa Fe W",
-   "liga": "Liga Femenina",
-   "minuto": 62,
+   "home": "Sao Paulo",
+   "away": "Atletico-MG",
+   "liga": "Serie A",
+   "minuto": 53,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 89,
+   "momentum_away": 11,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Everton de Vina",
+   "away": "U. Catolica",
+   "liga": "Primera División",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ 1 gol — Everton de Vina buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Ceara",
+   "away": "Sport Recife",
+   "liga": "Serie B",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 26,
+   "momentum_away": 74,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Club Sp. San Lorenzo",
+   "away": "2 de Mayo",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 52,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 9.1,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 11 remates totales",
+    "🚩 8 córners"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:43",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,12 +156,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:38",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:38",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,13 +165,13 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Borussia Mönchengladbach",
-   "away": "SV Elversberg",
-   "liga": "Bundesliga",
-   "cuota": 2.2,
+   "home": "Heerenveen",
+   "away": "AZ Alkmaar",
+   "liga": "Eredivisie",
+   "cuota": 2.05,
    "score": 8.44,
-   "hora": "13:30",
-   "resultado": "ganado",
+   "hora": "12:30",
+   "resultado": "pendiente",
    "wr_historico": 79,
    "n_historico": 164
   },
@@ -139,13 +179,13 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Arsenal U18",
-   "away": "Southampton U18",
-   "liga": "U18 Premier League - South",
+   "home": "La Tribu de Cd. Juarez",
+   "away": "Acatlan",
+   "liga": "Liga Premier Serie A",
    "cuota": null,
    "score": 10,
-   "hora": "12:00",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 62,
    "n_historico": 1192
   },
@@ -153,13 +193,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "RB do Norte",
-   "away": "Manicoré",
-   "liga": "Amazonense - 2",
-   "cuota": null,
+   "home": "Union Omaha",
+   "away": "Charlotte Independence",
+   "liga": "USL League One",
+   "cuota": 1.4,
    "score": 10,
-   "hora": "01:30",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 58,
    "n_historico": 1192
   }
@@ -174,7 +214,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "AS Roma",
@@ -185,7 +225,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Le Havre",
@@ -196,7 +236,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Grasshoppers",
@@ -207,7 +247,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Motor Lublin",
@@ -218,7 +258,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Dinamo Bucuresti",
@@ -229,226 +269,280 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-05",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 49763.0,
   "balance_total": 39763.0,
-  "balance_dia": 55.0,
+  "balance_dia": 0.0,
   "ganados": 2607,
   "perdidos": 1140,
-  "pendientes": 2,
-  "ganados_dia": 87,
-  "perdidos_dia": 49,
+  "pendientes": 3,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.6,
   "roi": 10.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3749,
+  "con_cuota_media": 3750,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
   "btts": [
    {
-    "home": "RB do Norte",
-    "away": "Manicoré",
-    "liga": "Amazonense - 2",
+    "home": "Union Omaha",
+    "away": "Charlotte Independence",
+    "liga": "USL League One",
+    "hora": "02:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Seattle Sounders",
+    "away": "New York Red Bulls",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "FC Dallas",
+    "away": "Sporting Kansas City",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Universitario",
+    "away": "Comerciantes Unidos",
+    "liga": "Primera División",
     "hora": "03:30",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Atlas W",
-    "away": "Guadalajara W",
-    "liga": "Liga MX Femenil",
-    "hora": "04:06",
-    "resultado": "perdido",
+    "home": "Plaza Amador",
+    "away": "Herrera",
+    "liga": "Liga Panameña de Fútbol",
+    "hora": "03:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "FC Juarez",
-    "away": "CF Pachuca",
-    "liga": "Liga MX",
-    "hora": "05:00",
-    "resultado": "perdido",
+    "home": "Monterey Bay",
+    "away": "Phoenix Rising",
+    "liga": "USL Championship",
+    "hora": "04:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "CA La Paz",
-    "away": "Mineros de Zacatecas",
-    "liga": "Liga de Expansión MX",
-    "hora": "05:00",
-    "resultado": "perdido",
+    "home": "Los Angeles FC II",
+    "away": "Ventura County",
+    "liga": "MLS Next Pro",
+    "hora": "04:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Pumas UNAM W",
-    "away": "América W",
-    "liga": "Liga MX Femenil",
-    "hora": "05:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "South Hobart",
-    "away": "Devonport City",
-    "liga": "Tasmania NPL",
-    "hora": "05:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Kahibah",
-    "away": "Newcastle Croatia FC",
-    "liga": "Northern NSW NPL",
-    "hora": "06:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Bærum",
-    "away": "Nordstrand",
-    "liga": "3. Division - Girone 1",
-    "hora": "14:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Byåsen",
-    "away": "Strindheim",
-    "liga": "3. Division - Girone 2",
-    "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Djerv",
-    "away": "Askøy",
+    "home": "Brann II",
+    "away": "Vard",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Varhaug",
-    "away": "Brodd",
-    "liga": "3. Division - Girone 4",
-    "hora": "14:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Fløya",
-    "away": "Skjetten",
+    "home": "Lillestrøm II",
+    "away": "Bossekop",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Ulfstind",
-    "away": "Fauske Sprint",
-    "liga": "3. Division - Girone 5",
+    "home": "NSÍ II",
+    "away": "EB / Streymur II",
+    "liga": "1. Deild",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Torns",
-    "away": "Växjö Norra",
-    "liga": "Division 2 - Södra Götaland",
+    "home": "Grebbestad",
+    "away": "Lidköping",
+    "liga": "Division 2 - Norra Götaland",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Tianjin Teda",
+    "away": "Hangzhou Greentown",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Servette FC",
+    "away": "FC ST. Gallen",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Niendorfer TSV",
+    "away": "Süderelbe",
+    "liga": "Oberliga - Hamburg",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
   "over25": [
    {
-    "home": "Arsenal U18",
-    "away": "Southampton U18",
-    "liga": "U18 Premier League - South",
-    "hora": "14:00",
-    "resultado": "perdido",
+    "home": "La Tribu de Cd. Juarez",
+    "away": "Acatlan",
+    "liga": "Liga Premier Serie A",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Birmingham City U18",
-    "away": "Ipswich Town U18",
-    "liga": "U18 Premier League - South",
-    "hora": "14:00",
-    "resultado": "ganado",
+    "home": "FC Dallas",
+    "away": "Sporting Kansas City",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Leeds United U18",
-    "away": "Burnley U18",
-    "liga": "U18 Premier League - North",
-    "hora": "14:00",
-    "resultado": "ganado",
+    "home": "Plaza Amador",
+    "away": "Herrera",
+    "liga": "Liga Panameña de Fútbol",
+    "hora": "03:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Djerv",
-    "away": "Askøy",
+    "home": "Los Angeles FC II",
+    "away": "Ventura County",
+    "liga": "MLS Next Pro",
+    "hora": "04:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Mendiola",
+    "away": "Davao Aguilas",
+    "liga": "PFL",
+    "hora": "09:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Yangpyeong",
+    "away": "Siheung Citizen",
+    "liga": "K3 League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Meteor Praha",
+    "away": "Ústí nad Labem II",
+    "liga": "4. liga - Divizie B",
+    "hora": "10:15",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Brann II",
+    "away": "Vard",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Varhaug",
-    "away": "Brodd",
-    "liga": "3. Division - Girone 4",
-    "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Ulfstind",
-    "away": "Fauske Sprint",
+    "home": "Lillestrøm II",
+    "away": "Bossekop",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Schwabmünchen",
-    "away": "Hankofen-Hailing",
-    "liga": "Oberliga - Bayern Süd",
+    "home": "NSÍ II",
+    "away": "EB / Streymur II",
+    "liga": "1. Deild",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Schalding-Heining",
-    "away": "Pfaffenhofen",
-    "liga": "Oberliga - Bayern Süd",
+    "home": "Grebbestad",
+    "away": "Lidköping",
+    "liga": "Division 2 - Norra Götaland",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Tianjin Teda",
+    "away": "Hangzhou Greentown",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Niendorfer TSV",
+    "away": "Süderelbe",
+    "liga": "Oberliga - Hamburg",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "SV Eichede",
+    "away": "Union Neumünster",
+    "liga": "Oberliga - Schleswig-Holstein",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    }
@@ -699,13 +793,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "14:00",
-  "cuota": 1.4,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -785,13 +873,13 @@
   "n": 2614,
   "ganados": 1777,
   "win_rate": 68,
-  "hoy": 106
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 89,
-  "perdidos": 50,
-  "en_juego": 1,
-  "win_rate": 64
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 80,
