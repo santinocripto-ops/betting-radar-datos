@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T05:52:37.055862+00:00",
+ "actualizado": "2026-09-05T05:59:36.324433+00:00",
  "partidos_vivo": [
   {
    "home": "Cashmere Technical",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "07:59",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -108,12 +114,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "02:44",
    "tipo": "live"
   }
@@ -616,6 +616,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Villarreal CF win on 2026-09-05?",
+   "apuesta": "SI, Villarreal ganara",
+   "usdc": 140873,
+   "prob": 65.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "07:59"
+  },
+  {
    "titulo": "Will Aston Villa FC win on 2026-09-05?",
    "apuesta": "SI, Aston Villa ganara",
    "usdc": 101544,
@@ -677,15 +686,6 @@
    "n_traders": 4,
    "trader": "RN1",
    "hora": "00:24"
-  },
-  {
-   "titulo": "US Open WTA (Doubles): Williams/Williams vs Chan/Joint",
-   "apuesta": "SI, US Open WTA (Doubles): Williams/Williams ganara",
-   "usdc": 134427,
-   "prob": 31.0,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "00:09"
   }
  ],
  "stats_gt": {
