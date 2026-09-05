@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T11:07:03.212984+00:00",
+ "actualizado": "2026-09-05T11:09:28.171838+00:00",
  "partidos_vivo": [
   {
    "home": "Tulevik",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:09",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:07",
@@ -170,12 +176,6 @@
    "texto": "⚽ Wuxi Wugou vs Yanbian Longding · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
    "hora": "12:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "12:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
