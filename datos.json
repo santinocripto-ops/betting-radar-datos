@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-09-05T09:34:48.014963+00:00",
+ "actualizado": "2026-09-05T09:42:50.140378+00:00",
  "partidos_vivo": [
   {
-   "home": "Spartak Trnava W",
-   "away": "Komárno W",
-   "liga": "I Liga - Women",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Geumsan Insam",
-   "away": "Pyeongtaek Citizen",
-   "liga": "K4 League",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Přepeře",
+   "away": "Letohrad",
+   "liga": "4. liga - Divizie C",
+   "minuto": 49,
+   "marcador": "6-0",
+   "apuesta": "Over 6.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,16 +16,16 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ Liga muy goleadora: 3.82 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 6 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Wofoo Tai Po",
-   "away": "BC Rangers",
-   "liga": "Premier League",
-   "minuto": 52,
+   "home": "Vratimov",
+   "away": "Frýdlant",
+   "liga": "4. liga - Divizie F",
+   "minuto": 64,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -56,18 +36,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Univ. Craiova W",
-   "away": "SSU Poli Timişoara W",
-   "liga": "Liga 1 Feminin",
-   "minuto": 52,
-   "marcador": "0-6",
-   "apuesta": "Over 6.5",
+   "home": "Persik Kediri",
+   "away": "Dewa United",
+   "liga": "Liga 1",
+   "minuto": 53,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -76,16 +56,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 9.88 goles/partido",
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
+    "⚽ 1 gol — Persik Kediri buscará el empate"
    ]
   },
   {
-   "home": "Baník Ostrava U19",
-   "away": "Opava U19",
-   "liga": "1. Liga U19",
-   "minuto": 51,
+   "home": "Komárov",
+   "away": "Nyrsko",
+   "liga": "4. liga - Divizie A",
+   "minuto": 46,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Sparta Brno",
+   "away": "Humpolec",
+   "liga": "4. liga - Divizie D",
+   "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -96,13 +96,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.86 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
   {
