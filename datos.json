@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T10:16:05.037986+00:00",
+ "actualizado": "2026-09-05T10:22:38.859765+00:00",
  "partidos_vivo": [
   {
    "home": "Elfen Saitama W",
@@ -447,7 +447,7 @@
   "balance_dia": -227.0,
   "ganados": 2525,
   "perdidos": 1096,
-  "pendientes": 10,
+  "pendientes": 15,
   "ganados_dia": 5,
   "perdidos_dia": 5,
   "win_rate": 69.7,
@@ -455,7 +455,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3631,
+  "con_cuota_media": 3636,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -947,7 +947,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 5,
-  "en_juego": 12,
+  "en_juego": 17,
   "win_rate": 50
  },
  "stats_banker": {
