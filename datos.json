@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T12:16:33.548430+00:00",
+ "actualizado": "2026-09-05T12:19:01.131661+00:00",
  "partidos_vivo": [
   {
    "home": "IFK Varnamo",
@@ -246,10 +246,16 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:16",
-   "tipo": "live"
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:19",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:19",
+   "tipo": "smart_money"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -272,7 +278,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:15",
+   "hora": "14:16",
    "tipo": "live"
   },
   {
@@ -302,7 +308,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
+   "hora": "14:15",
    "tipo": "live"
   },
   {
