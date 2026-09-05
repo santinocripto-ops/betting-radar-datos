@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T08:42:18.927563+00:00",
+ "actualizado": "2026-09-05T08:49:07.128067+00:00",
  "partidos_vivo": [
   {
    "home": "Shaanxi Union",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:48",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "07:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:41",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -229,7 +229,7 @@
   "balance_dia": -133.0,
   "ganados": 2523,
   "perdidos": 1094,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 3,
   "perdidos_dia": 3,
   "win_rate": 69.8,
@@ -237,7 +237,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3623,
+  "con_cuota_media": 3624,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -620,6 +620,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Manchester City FC win on 2026-09-05?",
+   "apuesta": "NO, Manchester City no ganara",
+   "usdc": 102650,
+   "prob": 15.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "10:48"
+  },
+  {
    "titulo": "Nottingham Forest FC vs. Tottenham Hotspur FC: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 112783,
@@ -681,15 +690,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "04:06"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-09-05?",
-   "apuesta": "SI, Newcastle United ganara",
-   "usdc": 100000,
-   "prob": 45.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "02:31"
   }
  ],
  "stats_gt": {
@@ -701,7 +701,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 3,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 50
  },
  "stats_banker": {
