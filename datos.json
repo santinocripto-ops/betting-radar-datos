@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-05T02:41:49.595184+00:00",
+ "actualizado": "2026-09-05T02:48:25.301910+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:48",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:39",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:04",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -542,6 +542,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Ben Shelton vs Denis Shapovalov",
+   "apuesta": "SI, US Open ATP: Ben Shelton ganara",
+   "usdc": 158397,
+   "prob": 79.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "04:48"
+  },
+  {
    "titulo": "US Open WTA: Elina Svitolina vs Anna Kalinskaya",
    "apuesta": "SI, US Open WTA: Elina Svitolina ganara",
    "usdc": 57046,
@@ -603,15 +612,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:29"
-  },
-  {
-   "titulo": "US Open ATP: Daniil Medvedev vs Arthur Rinderknech",
-   "apuesta": "SI, US Open ATP: Daniil Medvedev ganara",
-   "usdc": 65569,
-   "prob": 73.5,
-   "n_traders": 1,
-   "trader": "beachboy4",
-   "hora": "18:45"
   }
  ],
  "stats_gt": {
