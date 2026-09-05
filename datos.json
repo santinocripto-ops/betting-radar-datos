@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T12:43:42.482152+00:00",
+ "actualizado": "2026-09-05T12:50:20.910266+00:00",
  "partidos_vivo": [
   {
    "home": "SHANGHAI SIPG",
@@ -467,7 +467,7 @@
   "balance_dia": -310.0,
   "ganados": 2534,
   "perdidos": 1102,
-  "pendientes": 20,
+  "pendientes": 21,
   "ganados_dia": 14,
   "perdidos_dia": 11,
   "win_rate": 69.7,
@@ -475,7 +475,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3656,
+  "con_cuota_media": 3657,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -977,7 +977,7 @@
  "stats_dia": {
   "ganados": 14,
   "perdidos": 11,
-  "en_juego": 22,
+  "en_juego": 23,
   "win_rate": 56
  },
  "stats_banker": {
