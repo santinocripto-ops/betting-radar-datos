@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T08:28:39.032468+00:00",
+ "actualizado": "2026-09-05T08:35:14.092691+00:00",
  "partidos_vivo": [
   {
    "home": "Peninsula Power",
@@ -229,7 +229,7 @@
   "balance_dia": -133.0,
   "ganados": 2523,
   "perdidos": 1094,
-  "pendientes": 4,
+  "pendientes": 6,
   "ganados_dia": 3,
   "perdidos_dia": 3,
   "win_rate": 69.8,
@@ -237,7 +237,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3621,
+  "con_cuota_media": 3623,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -701,7 +701,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 3,
-  "en_juego": 4,
+  "en_juego": 6,
   "win_rate": 50
  },
  "stats_banker": {
