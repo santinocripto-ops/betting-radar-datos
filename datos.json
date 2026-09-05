@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-09-05T01:32:41.651044+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-05T01:39:56.938110+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Concepción",
+   "away": "A. Italiano",
+   "liga": "Primera División",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚽ 1 gol — Concepción buscará el empate",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "CRB",
+   "away": "America Mineiro",
+   "liga": "Serie B",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — America Mineiro buscará el empate",
+    "🎯 22 remates totales — partido muy intenso",
+    "🎯 7 remates a puerta"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
