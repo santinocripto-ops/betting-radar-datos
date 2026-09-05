@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T16:11:51.196585+00:00",
+ "actualizado": "2026-09-05T16:14:43.847907+00:00",
  "partidos_vivo": [
   {
    "home": "Dordrecht",
@@ -146,6 +146,42 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "18:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:11",
@@ -179,42 +215,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:38",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:29",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:29",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:29",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
    "tipo": "live"
   }
  ],
@@ -266,10 +266,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "MTK Budapest",
-   "away": "Kisvarda FC",
-   "liga": "NB I",
-   "minuto": 18,
+   "home": "Al Taawon",
+   "away": "Al-Fateh",
+   "liga": "Pro League",
+   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -277,10 +277,10 @@
    "es_hoy": true
   },
   {
-   "home": "Korona Kielce",
-   "away": "Wisla Krakow",
-   "liga": "Ekstraklasa",
-   "minuto": 20,
+   "home": "Al-Faisaly FC",
+   "away": "Al-Hazm",
+   "liga": "Pro League",
+   "minuto": 22,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -288,10 +288,10 @@
    "es_hoy": true
   },
   {
-   "home": "Vasteras SK FK",
-   "away": "Sirius",
-   "liga": "Allsvenskan",
-   "minuto": 19,
+   "home": "Fréjus St-Raphaël",
+   "away": "Andrézieux",
+   "liga": "National 2 - Group C",
+   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -299,10 +299,10 @@
    "es_hoy": true
   },
   {
-   "home": "Inter Turku",
-   "away": "HJK Helsinki",
-   "liga": "Suomen Cup",
-   "minuto": 18,
+   "home": "Volos NFC",
+   "away": "Olympiakos Piraeus",
+   "liga": "Super League 1",
+   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -310,10 +310,10 @@
    "es_hoy": true
   },
   {
-   "home": "Helsingborg",
-   "away": "Sandviken",
-   "liga": "Superettan",
-   "minuto": 18,
+   "home": "BSC Young Boys",
+   "away": "FC Luzern",
+   "liga": "Super League",
+   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -321,11 +321,11 @@
    "es_hoy": true
   },
   {
-   "home": "Rot-Weiß Essen",
-   "away": "FC Viktoria Köln",
-   "liga": "3. Liga",
-   "minuto": 19,
-   "score": 9.5,
+   "home": "Spartak Varna",
+   "away": "CSKA Sofia",
+   "liga": "First League",
+   "minuto": 11,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-05",
@@ -928,7 +928,7 @@
   "n": 2586,
   "ganados": 1763,
   "win_rate": 68,
-  "hoy": 86
+  "hoy": 93
  },
  "stats_dia": {
   "ganados": 68,
