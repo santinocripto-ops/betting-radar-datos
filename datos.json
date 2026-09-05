@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T14:08:26.460450+00:00",
+ "actualizado": "2026-09-05T14:11:28.621718+00:00",
  "partidos_vivo": [
   {
    "home": "Franke",
@@ -86,6 +86,54 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:11",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "16:08",
@@ -108,68 +156,10 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:52",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:49",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:33",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:33",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Nantong Zhiyun",
-   "away": "Guangzhou E-Power",
-   "liga": "League One",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.26,
-   "resultado": "pendiente",
-   "fecha": "2026-09-05"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -183,7 +173,7 @@
    "hora": "13:30",
    "resultado": "pendiente",
    "wr_historico": 78,
-   "n_historico": 156
+   "n_historico": 157
   },
   {
    "clave": "over25",
@@ -195,9 +185,9 @@
    "cuota": null,
    "score": 10,
    "hora": "12:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1184
+   "n_historico": 1189
   },
   {
    "clave": "btts",
@@ -211,7 +201,7 @@
    "hora": "01:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1176
+   "n_historico": 1186
   }
  ],
  "gol_temprano": [
@@ -284,20 +274,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49520.0,
-  "balance_total": 39520.0,
-  "balance_dia": -188.0,
-  "ganados": 2536,
-  "perdidos": 1102,
-  "pendientes": 38,
-  "ganados_dia": 16,
-  "perdidos_dia": 11,
+  "capital": 49871.0,
+  "balance_total": 39871.0,
+  "balance_dia": 163.0,
+  "ganados": 2551,
+  "perdidos": 1107,
+  "pendientes": 25,
+  "ganados_dia": 31,
+  "perdidos_dia": 16,
   "win_rate": 69.7,
   "roi": 10.9,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3676,
+  "con_cuota_media": 3683,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -370,7 +360,7 @@
     "away": "Nordstrand",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -379,7 +369,7 @@
     "away": "Strindheim",
     "liga": "3. Division - Girone 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -388,7 +378,7 @@
     "away": "Askøy",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -397,7 +387,7 @@
     "away": "Brodd",
     "liga": "3. Division - Girone 4",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -406,7 +396,7 @@
     "away": "Skjetten",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -424,7 +414,7 @@
     "away": "Växjö Norra",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -435,7 +425,7 @@
     "away": "Southampton U18",
     "liga": "U18 Premier League - South",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -444,7 +434,7 @@
     "away": "Ipswich Town U18",
     "liga": "U18 Premier League - South",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -453,7 +443,7 @@
     "away": "Burnley U18",
     "liga": "U18 Premier League - North",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -462,7 +452,7 @@
     "away": "Askøy",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -471,7 +461,7 @@
     "away": "Brodd",
     "liga": "3. Division - Girone 4",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -504,8 +494,8 @@
    }
   ],
   "balance": {
-   "ganados": 1413,
-   "perdidos": 947,
+   "ganados": 1423,
+   "perdidos": 952,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -513,46 +503,46 @@
  },
  "reentradas": [
   {
-   "home": "Widzew Łódź",
-   "away": "Radomiak Radom",
-   "liga": "Ekstraklasa",
+   "home": "Sudtirol",
+   "away": "Catanzaro",
+   "liga": "Serie B",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "SSV Jahn Regensburg",
-   "away": "MSV Duisburg",
-   "liga": "3. Liga",
+   "home": "Slovácko",
+   "away": "Pardubice",
+   "liga": "Czech Liga",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "Kristianstad W",
-   "away": "Brommapojkarna W",
+   "home": "Ekranas",
+   "away": "Garliava",
+   "liga": "1 Lyga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Hammarby W",
+   "away": "Norrköping W",
    "liga": "Damallsvenskan",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "Djurgården W",
-   "away": "Rosengård W",
-   "liga": "Damallsvenskan",
+   "home": "Gais",
+   "away": "BK Hacken",
+   "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "Aldershot Town",
-   "away": "FC Halifax Town",
-   "liga": "National League",
+   "home": "Degerfors IF",
+   "away": "Halmstad",
+   "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Sagan Tosu",
-   "away": "Tegevajaro Miyazaki",
-   "liga": "J2 League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -848,21 +838,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2530,
-  "ganados": 1724,
+  "n": 2546,
+  "ganados": 1735,
   "win_rate": 68,
   "hoy": 53
  },
  "stats_dia": {
-  "ganados": 17,
-  "perdidos": 12,
-  "en_juego": 38,
-  "win_rate": 59
+  "ganados": 33,
+  "perdidos": 17,
+  "en_juego": 24,
+  "win_rate": 66
  },
  "stats_banker": {
-  "ganados": 79,
+  "ganados": 80,
   "perdidos": 32,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 71
  },
  "marca": {
