@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T19:10:06.630386+00:00",
+ "actualizado": "2026-09-05T20:23:06.935565+00:00",
  "partidos_vivo": [
   {
    "home": "Macva",
@@ -126,6 +126,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:23",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:22",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:09",
@@ -178,24 +196,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:30",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:22",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:51",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -832,6 +832,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Karen Khachanov vs Benjamin Bonzi",
+   "apuesta": "SI, US Open ATP: Karen Khachanov ganara",
+   "usdc": 71587,
+   "prob": 85.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:22"
+  },
+  {
    "titulo": "Will Columbus Crew win on 2026-09-05?",
    "apuesta": "SI, Columbus Crew ganara",
    "usdc": 146517,
@@ -893,15 +902,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "19:18"
-  },
-  {
-   "titulo": "Spread: FC Bayern München (-2.5)",
-   "apuesta": "SI — Spread: FC Bayern München (-2.5)",
-   "usdc": 26490,
-   "prob": 40.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:37"
   }
  ],
  "stats_gt": {
