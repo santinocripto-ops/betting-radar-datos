@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T13:42:09.406860+00:00",
+ "actualizado": "2026-09-05T13:49:36.914958+00:00",
  "partidos_vivo": [
   {
    "home": "Djurgården W",
@@ -247,6 +247,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:49",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:42",
    "tipo": "live"
@@ -286,12 +292,6 @@
    "texto": "──────────────────────────────",
    "hora": "15:33",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:25",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
