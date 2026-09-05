@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T17:51:55.410163+00:00",
+ "actualizado": "2026-09-05T17:59:08.806620+00:00",
  "partidos_vivo": [
   {
    "home": "Hull City",
@@ -339,7 +339,7 @@
   "balance_dia": 586.0,
   "ganados": 2586,
   "perdidos": 1123,
-  "pendientes": 32,
+  "pendientes": 34,
   "ganados_dia": 66,
   "perdidos_dia": 32,
   "win_rate": 69.7,
@@ -347,7 +347,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3741,
+  "con_cuota_media": 3743,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -933,7 +933,7 @@
  "stats_dia": {
   "ganados": 68,
   "perdidos": 33,
-  "en_juego": 31,
+  "en_juego": 33,
   "win_rate": 67
  },
  "stats_banker": {
