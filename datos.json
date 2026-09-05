@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-05T10:03:16.826245+00:00",
+ "actualizado": "2026-09-05T10:05:48.674694+00:00",
  "partidos_vivo": [
   {
    "home": "Přepeře",
@@ -106,6 +106,48 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Nantong Zhiyun vs Guangzhou E-Power · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · ",
+   "hora": "12:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Wuxi Wugou vs Yanbian Longding · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuo",
+   "hora": "12:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:05",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:02",
@@ -134,52 +176,28 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "11:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:02",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "10:48",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:28",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:28",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Nantong Zhiyun",
+   "away": "Guangzhou E-Power",
+   "liga": "League One",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.26,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05"
+  },
+  {
+   "home": "Wuxi Wugou",
+   "away": "Yanbian Longding",
+   "liga": "League One",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-09-05"
+  },
   {
    "home": "Holstein Kiel",
    "away": "1. FC Nürnberg",
@@ -711,7 +729,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.4,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
@@ -802,7 +826,7 @@
  "stats_banker": {
   "ganados": 78,
   "perdidos": 31,
-  "pendientes": 1,
+  "pendientes": 3,
   "win_rate": 72
  },
  "marca": {
