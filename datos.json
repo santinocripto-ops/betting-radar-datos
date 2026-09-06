@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T09:47:54.745561+00:00",
+ "actualizado": "2026-09-06T09:55:32.470282+00:00",
  "partidos_vivo": [
   {
    "home": "Meteor Praha",
@@ -65,6 +65,12 @@
  "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:55",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -714,6 +720,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Arsenal FC vs. Chelsea FC: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 100000,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "11:55"
+  },
   {
    "titulo": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
    "apuesta": "SI, LoL: Ninjas in Pyjamas ganara",
