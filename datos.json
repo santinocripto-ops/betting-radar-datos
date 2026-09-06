@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T15:36:43.962788+00:00",
+ "actualizado": "2026-09-06T15:44:31.206316+00:00",
  "partidos_vivo": [
   {
    "home": "Baranovichi",
@@ -247,6 +247,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:29",
    "tipo": "live"
@@ -291,24 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
    "tipo": "live"
   },
   {
@@ -376,6 +376,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "GBK",
+   "away": "JBK",
+   "liga": "Kakkonen - Lohko C",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Dynamo",
+   "away": "Spartak Moscow",
+   "liga": "Premier League",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "D. La Serena",
+   "away": "Nublense",
+   "liga": "Primera División",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Auda",
    "away": "Grobiņa",
    "liga": "Virsliga",
@@ -402,39 +435,6 @@
    "away": "Valerenga",
    "liga": "Eliteserien",
    "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Molde",
-   "away": "KFUM Oslo",
-   "liga": "Eliteserien",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Basel 1893",
-   "away": "FC Lugano",
-   "liga": "Super League",
-   "minuto": 21,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "SG Sonnenhof Grossaspach",
-   "away": "Hoffenheim II",
-   "liga": "3. Liga",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1092,7 +1092,7 @@
   "n": 2634,
   "ganados": 1790,
   "win_rate": 68,
-  "hoy": 35
+  "hoy": 38
  },
  "stats_dia": {
   "ganados": 17,
