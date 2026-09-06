@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T09:04:15.179567+00:00",
+ "actualizado": "2026-09-06T09:15:32.180361+00:00",
  "partidos_vivo": [
   {
    "home": "Haman",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:14",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -52,14 +70,607 @@
  ],
  "picks_recientes": [],
  "bankers": [],
- "mejores_dia": [],
- "gol_temprano": [],
- "banca": {},
- "pagina2": {},
+ "mejores_dia": [
+  {
+   "clave": "over15",
+   "etiqueta": "Over 1.5 Goles",
+   "confianza": "alta",
+   "home": "Heerenveen",
+   "away": "AZ Alkmaar",
+   "liga": "Eredivisie",
+   "cuota": 2.05,
+   "score": 8.44,
+   "hora": "12:30",
+   "resultado": "pendiente",
+   "wr_historico": 79,
+   "n_historico": 164
+  },
+  {
+   "clave": "over25",
+   "etiqueta": "Over 2.5 Goles",
+   "confianza": "alta",
+   "home": "La Tribu de Cd. Juarez",
+   "away": "Acatlan",
+   "liga": "Liga Premier Serie A",
+   "cuota": null,
+   "score": 10,
+   "hora": "00:00",
+   "resultado": "pendiente",
+   "wr_historico": 62,
+   "n_historico": 1192
+  },
+  {
+   "clave": "btts",
+   "etiqueta": "Ambos Marcan",
+   "confianza": "alta",
+   "home": "Union Omaha",
+   "away": "Charlotte Independence",
+   "liga": "USL League One",
+   "cuota": 1.4,
+   "score": 10,
+   "hora": "00:00",
+   "resultado": "pendiente",
+   "wr_historico": 58,
+   "n_historico": 1192
+  }
+ ],
+ "gol_temprano": [
+  {
+   "home": "Milan U20",
+   "away": "Juventus U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Teplice II",
+   "away": "Pardubice II",
+   "liga": "3. liga - CFL B",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  }
+ ],
+ "banca": {
+  "capital_inicial": 10000.0,
+  "capital": 49763.0,
+  "balance_total": 39763.0,
+  "balance_dia": 0.0,
+  "ganados": 2607,
+  "perdidos": 1140,
+  "pendientes": 3,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
+  "win_rate": 69.6,
+  "roi": 10.6,
+  "stake": 100.0,
+  "cuota_fija": 1.61,
+  "con_cuota_real": 0,
+  "con_cuota_media": 3750,
+  "pct_cuota_real": 0.0
+ },
+ "pagina2": {
+  "btts": [
+   {
+    "home": "Union Omaha",
+    "away": "Charlotte Independence",
+    "liga": "USL League One",
+    "hora": "02:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Seattle Sounders",
+    "away": "New York Red Bulls",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "FC Dallas",
+    "away": "Sporting Kansas City",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Universitario",
+    "away": "Comerciantes Unidos",
+    "liga": "Primera División",
+    "hora": "03:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Plaza Amador",
+    "away": "Herrera",
+    "liga": "Liga Panameña de Fútbol",
+    "hora": "03:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Monterey Bay",
+    "away": "Phoenix Rising",
+    "liga": "USL Championship",
+    "hora": "04:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Los Angeles FC II",
+    "away": "Ventura County",
+    "liga": "MLS Next Pro",
+    "hora": "04:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Brann II",
+    "away": "Vard",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Lillestrøm II",
+    "away": "Bossekop",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "NSÍ II",
+    "away": "EB / Streymur II",
+    "liga": "1. Deild",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Grebbestad",
+    "away": "Lidköping",
+    "liga": "Division 2 - Norra Götaland",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Tianjin Teda",
+    "away": "Hangzhou Greentown",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Servette FC",
+    "away": "FC ST. Gallen",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Niendorfer TSV",
+    "away": "Süderelbe",
+    "liga": "Oberliga - Hamburg",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   }
+  ],
+  "over25": [
+   {
+    "home": "La Tribu de Cd. Juarez",
+    "away": "Acatlan",
+    "liga": "Liga Premier Serie A",
+    "hora": "02:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "FC Dallas",
+    "away": "Sporting Kansas City",
+    "liga": "Major League Soccer",
+    "hora": "02:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Plaza Amador",
+    "away": "Herrera",
+    "liga": "Liga Panameña de Fútbol",
+    "hora": "03:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Los Angeles FC II",
+    "away": "Ventura County",
+    "liga": "MLS Next Pro",
+    "hora": "04:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Mendiola",
+    "away": "Davao Aguilas",
+    "liga": "PFL",
+    "hora": "09:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Yangpyeong",
+    "away": "Siheung Citizen",
+    "liga": "K3 League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Meteor Praha",
+    "away": "Ústí nad Labem II",
+    "liga": "4. liga - Divizie B",
+    "hora": "10:15",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Brann II",
+    "away": "Vard",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Lillestrøm II",
+    "away": "Bossekop",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "NSÍ II",
+    "away": "EB / Streymur II",
+    "liga": "1. Deild",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Grebbestad",
+    "away": "Lidköping",
+    "liga": "Division 2 - Norra Götaland",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Tianjin Teda",
+    "away": "Hangzhou Greentown",
+    "liga": "Super League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Niendorfer TSV",
+    "away": "Süderelbe",
+    "liga": "Oberliga - Hamburg",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "SV Eichede",
+    "away": "Union Neumünster",
+    "liga": "Oberliga - Schleswig-Holstein",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
+  "balance": {
+   "ganados": 1429,
+   "perdidos": 955,
+   "acierto": 59.9,
+   "yield": 13.9,
+   "cuota_media": 1.9
+  }
+ },
  "reentradas": [],
- "pagina_smart": {},
- "mejor_dia": {},
+ "pagina_smart": {
+  "picks": [
+   {
+    "home": "Pendikspor",
+    "away": "Ümraniyespor",
+    "liga": "1. Lig",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.29,
+    "pinnacle": true,
+    "delta": 3.7,
+    "marcador": "1-0",
+    "resultado": "perdido",
+    "kickoff": "2026-09-05T17:00:00+00:00",
+    "ts": "2026-09-05T16:14:44.092592+00:00"
+   },
+   {
+    "home": "Luton",
+    "away": "Leyton Orient",
+    "liga": "League One",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.18,
+    "pinnacle": true,
+    "delta": 4.09,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T14:00:00+00:00",
+    "ts": "2026-09-05T13:07:05.400436+00:00"
+   },
+   {
+    "home": "Borussia Mönchengladbach",
+    "away": "SV Elversberg",
+    "liga": "Bundesliga",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.14,
+    "pinnacle": true,
+    "delta": 3.68,
+    "marcador": "3-4",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T13:30:00+00:00",
+    "ts": "2026-09-05T12:19:01.069208+00:00"
+   },
+   {
+    "home": "Borussia Mönchengladbach",
+    "away": "SV Elversberg",
+    "liga": "Bundesliga",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 4,
+    "cuota": 1.14,
+    "pinnacle": false,
+    "delta": 3.47,
+    "marcador": "3-4",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T13:30:00+00:00",
+    "ts": "2026-09-05T12:19:01.354457+00:00"
+   },
+   {
+    "home": "Bayer Leverkusen",
+    "away": "Union Berlin",
+    "liga": "Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.11,
+    "pinnacle": true,
+    "delta": 3.72,
+    "marcador": "4-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T13:30:00+00:00",
+    "ts": "2026-09-05T13:07:00.346135+00:00"
+   },
+   {
+    "home": "FC Botosani",
+    "away": "Sepsi OSK Sfantu Gheorghe",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.33,
+    "pinnacle": true,
+    "delta": 4.29,
+    "marcador": "5-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T12:00:00+00:00",
+    "ts": "2026-09-05T11:09:28.408514+00:00"
+   },
+   {
+    "home": "Nantong Zhiyun",
+    "away": "Guangzhou E-Power",
+    "liga": "League One",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.33,
+    "pinnacle": true,
+    "delta": 7.93,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:30:00+00:00",
+    "ts": "2026-09-05T10:05:27.980838+00:00"
+   },
+   {
+    "home": "Dongguan United",
+    "away": "Dalian Huayi",
+    "liga": "League One",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 4.41,
+    "marcador": "0-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:30:00+00:00",
+    "ts": "2026-09-05T10:05:28.507983+00:00"
+   },
+   {
+    "home": "Holstein Kiel",
+    "away": "1. FC Nürnberg",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 3.51,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:00:00+00:00",
+    "ts": "2026-09-05T07:08:03.271729+00:00"
+   },
+   {
+    "home": "Wuhan Three Towns",
+    "away": "Qingdao Youth Island",
+    "liga": "Super League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 3.56,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:00:00+00:00",
+    "ts": "2026-09-05T07:08:04.776300+00:00"
+   },
+   {
+    "home": "Wuxi Wugou",
+    "away": "Yanbian Longding",
+    "liga": "League One",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.5,
+    "pinnacle": true,
+    "delta": 10.76,
+    "marcador": "2-0",
+    "resultado": "perdido",
+    "kickoff": "2026-09-05T11:00:00+00:00",
+    "ts": "2026-09-05T10:05:23.101185+00:00"
+   },
+   {
+    "home": "Wuhan Three Towns",
+    "away": "Qingdao Youth Island",
+    "liga": "Super League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 7.46,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:00:00+00:00",
+    "ts": "2026-09-05T10:05:23.697507+00:00"
+   },
+   {
+    "home": "Wuhan Three Towns",
+    "away": "Qingdao Youth Island",
+    "liga": "Super League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 4,
+    "cuota": 1.25,
+    "pinnacle": false,
+    "delta": 7.11,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-05T11:00:00+00:00",
+    "ts": "2026-09-05T10:05:23.949015+00:00"
+   },
+   {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.97,
+    "pinnacle": true,
+    "delta": 3.34,
+    "marcador": "0-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-03T20:09:35.248054+00:00"
+   },
+   {
+    "home": "Las Palmas",
+    "away": "Leganes",
+    "liga": "Segunda División",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 4.61,
+    "marcador": "0-0",
+    "resultado": "perdido",
+    "kickoff": "2026-09-04T18:30:00+00:00",
+    "ts": "2026-09-04T11:05:38.981836+00:00"
+   }
+  ],
+  "balance": {
+   "ganados": 235,
+   "perdidos": 93,
+   "pendientes": 0,
+   "acierto": 71.6,
+   "total": 328
+  }
+ },
+ "mejor_dia": {
+  "disponible": false
+ },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: fnatic vs NIP (BO3) - Stake Ranked Episode 4: Closed Q",
+   "apuesta": "SI, Counter-Strike: fnatic ganara",
+   "usdc": 86657,
+   "prob": 44.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "11:14"
+  },
   {
    "titulo": "Will Arsenal FC win on 2026-09-06?",
    "apuesta": "NO, Arsenal no ganara",
@@ -98,10 +709,10 @@
   }
  ],
  "stats_gt": {
-  "n": 0,
-  "ganados": 0,
-  "win_rate": 0,
-  "hoy": 0
+  "n": 2614,
+  "ganados": 1777,
+  "win_rate": 68,
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 0,
@@ -110,10 +721,10 @@
   "win_rate": 0
  },
  "stats_banker": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 80,
+  "perdidos": 32,
   "pendientes": 0,
-  "win_rate": 0
+  "win_rate": 71
  },
  "marca": {
   "nombre": "Neural Trade IA",
