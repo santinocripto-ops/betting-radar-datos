@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T11:26:12.693691+00:00",
+ "actualizado": "2026-09-06T11:34:10.505329+00:00",
  "partidos_vivo": [
   {
    "home": "Naftan",
@@ -166,6 +166,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:34",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:55",
@@ -230,12 +236,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:14",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -872,6 +872,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
+   "apuesta": "SI, Map Handicap: TS (-1.5) ganara",
+   "usdc": 80000,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "13:34"
+  },
+  {
    "titulo": "LoL: T1 vs Dplus KIA - Game 3 Winner",
    "apuesta": "SI, ganara",
    "usdc": 204998,
@@ -933,15 +942,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "11:14"
-  },
-  {
-   "titulo": "Will Arsenal FC win on 2026-09-06?",
-   "apuesta": "NO, Arsenal no ganara",
-   "usdc": 109608,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "11:03"
   }
  ],
  "stats_gt": {
