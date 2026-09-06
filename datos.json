@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T13:21:10.798415+00:00",
+ "actualizado": "2026-09-06T13:23:17.593944+00:00",
  "partidos_vivo": [
   {
    "home": "Belshina",
@@ -376,10 +376,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Telstar",
-   "away": "Cambuur",
-   "liga": "Eredivisie",
-   "minuto": 11,
+   "home": "Juve Stabia",
+   "away": "Pisa",
+   "liga": "Serie B",
+   "minuto": 18,
+   "score": 9.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Cesena",
+   "away": "Mantova",
+   "liga": "Serie B",
+   "minuto": 18,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -387,10 +398,10 @@
    "es_hoy": true
   },
   {
-   "home": "VfL Wolfsburg W",
-   "away": "Werder Bremen W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 13,
+   "home": "Inter Milano W",
+   "away": "Lazio W",
+   "liga": "Serie A Cup Women",
+   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -398,21 +409,10 @@
    "es_hoy": true
   },
   {
-   "home": "Belshina",
-   "away": "Neman",
-   "liga": "Premier League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Yunnan Yukun",
-   "away": "Shenyang Urban",
-   "liga": "Super League",
-   "minuto": 24,
+   "home": "Merelbeke",
+   "away": "Cercle Brugge II",
+   "liga": "First Amateur Division",
+   "minuto": 17,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -420,10 +420,10 @@
    "es_hoy": true
   },
   {
-   "home": "Henan Jianye",
-   "away": "Chengdu Better City",
-   "liga": "Super League",
-   "minuto": 17,
+   "home": "Everton",
+   "away": "Manchester United",
+   "liga": "Premier League",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -431,10 +431,10 @@
    "es_hoy": true
   },
   {
-   "home": "VfL Osnabrück",
-   "away": "Eintracht Braunschweig",
-   "liga": "2. Bundesliga",
-   "minuto": 14,
+   "home": "Frosinone",
+   "away": "Venezia",
+   "liga": "Serie A",
+   "minuto": 17,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1078,7 +1078,7 @@
   "n": 2620,
   "ganados": 1781,
   "win_rate": 68,
-  "hoy": 12
+  "hoy": 20
  },
  "stats_dia": {
   "ganados": 4,
