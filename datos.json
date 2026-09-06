@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T20:29:44.966958+00:00",
+ "actualizado": "2026-09-06T20:37:00.378506+00:00",
  "partidos_vivo": [
   {
    "home": "Remo",
@@ -299,7 +299,7 @@
   "balance_dia": -118.0,
   "ganados": 2654,
   "perdidos": 1167,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 46,
   "perdidos_dia": 27,
   "win_rate": 69.5,
@@ -307,7 +307,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3827,
+  "con_cuota_media": 3828,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -947,7 +947,7 @@
  "stats_dia": {
   "ganados": 48,
   "perdidos": 27,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 64
  },
  "stats_banker": {
