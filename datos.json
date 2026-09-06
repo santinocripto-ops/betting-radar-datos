@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T14:02:23.020048+00:00",
+ "actualizado": "2026-09-06T14:10:30.154953+00:00",
  "partidos_vivo": [
   {
    "home": "Heerenveen",
@@ -67,6 +67,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:37",
    "tipo": "live"
@@ -118,24 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:56",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -196,6 +196,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Nasr",
+   "away": "Ajman",
+   "liga": "Pro League",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "ESMTK",
+   "away": "Vasas II",
+   "liga": "NB III - Southeast",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Tirana",
+   "away": "Vora",
+   "liga": "Superliga",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Juve Stabia",
    "away": "Pisa",
    "liga": "Serie B",
@@ -222,39 +255,6 @@
    "away": "Lazio W",
    "liga": "Serie A Cup Women",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Merelbeke",
-   "away": "Cercle Brugge II",
-   "liga": "First Amateur Division",
-   "minuto": 17,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Everton",
-   "away": "Manchester United",
-   "liga": "Premier League",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Frosinone",
-   "away": "Venezia",
-   "liga": "Serie A",
-   "minuto": 17,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -905,7 +905,7 @@
   "n": 2620,
   "ganados": 1781,
   "win_rate": 68,
-  "hoy": 20
+  "hoy": 23
  },
  "stats_dia": {
   "ganados": 4,
