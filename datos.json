@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T20:05:22.738782+00:00",
+ "actualizado": "2026-09-06T20:13:40.128779+00:00",
  "partidos_vivo": [
   {
    "home": "Juventus",
@@ -128,6 +128,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:05",
    "tipo": "live"
   },
@@ -190,12 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:09",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:48",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -319,7 +319,7 @@
   "balance_dia": -118.0,
   "ganados": 2654,
   "perdidos": 1167,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 46,
   "perdidos_dia": 27,
   "win_rate": 69.5,
@@ -327,7 +327,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3826,
+  "con_cuota_media": 3827,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -597,6 +597,13 @@
  },
  "reentradas": [
   {
+   "home": "Espanyol",
+   "away": "Sevilla",
+   "liga": "La Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "NK Slaven Belupo",
    "away": "NK Lokomotiva Zagreb",
    "liga": "HNL",
@@ -630,13 +637,6 @@
    "liga": "Segunda División",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Malaga",
-   "away": "Levante",
-   "liga": "La Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -967,7 +967,7 @@
  "stats_dia": {
   "ganados": 48,
   "perdidos": 27,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 64
  },
  "stats_banker": {
