@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-06T21:37:37.367073+00:00",
+ "actualizado": "2026-09-06T21:45:16.966347+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:45",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:55",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:40",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -751,6 +751,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
+   "apuesta": "SI, US Open ATP: Ben Shelton ganara",
+   "usdc": 117984,
+   "prob": 72.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "23:45"
+  },
+  {
    "titulo": "Will Sevilla FC win on 2026-09-06?",
    "apuesta": "NO, Sevilla no ganara",
    "usdc": 36073,
@@ -812,15 +821,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:48"
-  },
-  {
-   "titulo": "Málaga CF vs. Levante UD: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 33782,
-   "prob": 50.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "18:24"
   }
  ],
  "stats_gt": {
