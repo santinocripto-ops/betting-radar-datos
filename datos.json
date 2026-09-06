@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T18:18:58.906946+00:00",
+ "actualizado": "2026-09-06T18:26:13.388198+00:00",
  "partidos_vivo": [
   {
    "home": "ML Vitebsk",
@@ -147,6 +147,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:18",
    "tipo": "live"
@@ -210,12 +216,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:09",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:09",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -266,6 +266,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Gyori ETO FC",
+   "away": "Budapest Honved",
+   "liga": "NB I",
+   "minuto": 24,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Baltika",
    "away": "Lokomotiv",
    "liga": "Premier League",
@@ -315,17 +326,6 @@
    "liga": "3. Division - Girone 2",
    "minuto": 10,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Castellón",
-   "away": "Albacete",
-   "liga": "Segunda División",
-   "minuto": 23,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-06",
@@ -982,7 +982,7 @@
   "n": 2657,
   "ganados": 1804,
   "win_rate": 68,
-  "hoy": 53
+  "hoy": 54
  },
  "stats_dia": {
   "ganados": 38,
