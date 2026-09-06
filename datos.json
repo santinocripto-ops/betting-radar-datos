@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T18:26:13.388198+00:00",
+ "actualizado": "2026-09-06T18:33:15.687987+00:00",
  "partidos_vivo": [
   {
    "home": "ML Vitebsk",
@@ -339,7 +339,7 @@
   "balance_dia": 136.0,
   "ganados": 2644,
   "perdidos": 1159,
-  "pendientes": 17,
+  "pendientes": 18,
   "ganados_dia": 36,
   "perdidos_dia": 19,
   "win_rate": 69.5,
@@ -347,7 +347,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3820,
+  "con_cuota_media": 3821,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -987,7 +987,7 @@
  "stats_dia": {
   "ganados": 38,
   "perdidos": 19,
-  "en_juego": 15,
+  "en_juego": 16,
   "win_rate": 67
  },
  "stats_banker": {
