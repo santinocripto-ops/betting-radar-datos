@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T14:19:36.630403+00:00",
+ "actualizado": "2026-09-06T14:26:57.465243+00:00",
  "partidos_vivo": [
   {
    "home": "Heerenveen",
@@ -66,6 +66,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:26",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:26",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:18",
@@ -123,18 +135,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:20",
    "tipo": "live"
   }
  ],
@@ -829,6 +829,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: FC Barcelona (-1.5)",
+   "apuesta": "SI — Spread: FC Barcelona (-1.5)",
+   "usdc": 81467,
+   "prob": 72.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "16:26"
+  },
+  {
+   "titulo": "Tulln: Lucio Ratti vs Lukas Pokorny",
+   "apuesta": "SI, Tulln: Lucio Ratti ganara",
+   "usdc": 119648,
+   "prob": 56.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "16:26"
+  },
+  {
    "titulo": "Will Everton FC win on 2026-09-06?",
    "apuesta": "SI, Everton ganara",
    "usdc": 208630,
@@ -881,24 +899,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:23"
-  },
-  {
-   "titulo": "Arsenal FC vs. Chelsea FC: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 100000,
-   "prob": 52.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "11:55"
-  },
-  {
-   "titulo": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
-   "apuesta": "SI, LoL: Ninjas in Pyjamas ganara",
-   "usdc": 103228,
-   "prob": 63.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "11:30"
   }
  ],
  "stats_gt": {
