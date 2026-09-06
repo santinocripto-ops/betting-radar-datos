@@ -1,73 +1,33 @@
 {
- "actualizado": "2026-09-06T16:54:25.996535+00:00",
+ "actualizado": "2026-09-06T17:02:48.536802+00:00",
  "partidos_vivo": [
   {
-   "home": "Angers",
-   "away": "Rennes",
-   "liga": "Ligue 1",
-   "minuto": 50,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Ferencvarosi TC",
+   "away": "Ujpest",
+   "liga": "NB I",
+   "minuto": 57,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.0 (Ligue 1)",
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 13 remates totales"
    ]
   },
   {
-   "home": "Hellas Verona",
-   "away": "Arezzo",
-   "liga": "Serie B",
-   "minuto": 47,
+   "home": "Al Salmiyah",
+   "away": "Al Sahel",
+   "liga": "Premier League",
+   "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 9 remates totales"
-   ]
-  },
-  {
-   "home": "Khimik Dzerzhinsk",
-   "away": "KDV",
-   "liga": "Second League - Group 4",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "OH Leuven W",
-   "away": "Gent W",
-   "liga": "Super League Women",
-   "minuto": 58,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -78,34 +38,14 @@
    "razones": [
     "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Sokol Hostouň",
-   "away": "Brandýs nad Labem",
-   "liga": "4. liga - Divizie B",
-   "minuto": 65,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Kun Khalifat FC",
-   "away": "Barau FC",
-   "liga": "NPFL",
-   "minuto": 59,
+   "home": "FK Zalgiris Vilnius",
+   "away": "Šiauliai",
+   "liga": "A Lyga",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -116,13 +56,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚽ Liga por encima de la media: 2.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 43,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -329,7 +269,7 @@
   "balance_dia": 112.0,
   "ganados": 2624,
   "perdidos": 1148,
-  "pendientes": 37,
+  "pendientes": 38,
   "ganados_dia": 16,
   "perdidos_dia": 8,
   "win_rate": 69.6,
@@ -337,7 +277,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3809,
+  "con_cuota_media": 3810,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -977,7 +917,7 @@
  "stats_dia": {
   "ganados": 17,
   "perdidos": 8,
-  "en_juego": 36,
+  "en_juego": 37,
   "win_rate": 68
  },
  "stats_banker": {
