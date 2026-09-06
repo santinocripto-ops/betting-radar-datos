@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T16:17:40.169107+00:00",
+ "actualizado": "2026-09-06T16:24:33.672065+00:00",
  "partidos_vivo": [
   {
    "home": "IF Brommapojkarna",
@@ -186,6 +186,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:24",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:16",
@@ -250,12 +256,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:29",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Arsenal vs Chelsea · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.24 (5 casas)",
-   "hora": "17:22",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -956,6 +956,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Málaga CF vs. Levante UD: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 33782,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:24"
+  },
+  {
    "titulo": "Como: Matej Dodig vs Juan Pablo Varillas",
    "apuesta": "SI, Como: Matej Dodig ganara",
    "usdc": 16317,
@@ -1017,15 +1026,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "13:43"
-  },
-  {
-   "titulo": "Map Handicap: TS (-1.5) vs MOUZ (+1.5)",
-   "apuesta": "SI, Map Handicap: TS (-1.5) ganara",
-   "usdc": 80000,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "13:34"
   }
  ],
  "stats_gt": {
