@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-06T22:00:06.749443+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-06T22:08:28.539454+00:00",
+ "partidos_vivo": [
+  {
+   "home": "H&H Export",
+   "away": "UNAN Managua",
+   "liga": "Primera Division",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — H&H Export buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
