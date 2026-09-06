@@ -1,168 +1,28 @@
 {
- "actualizado": "2026-09-06T11:34:10.505329+00:00",
+ "actualizado": "2026-09-06T11:35:20.170477+00:00",
  "partidos_vivo": [
   {
-   "home": "Naftan",
-   "away": "FC Minsk",
-   "liga": "Premier League",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Groningen",
+   "away": "Twente",
+   "liga": "Eredivisie",
+   "minuto": 60,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
+   "momentum_home": 60,
+   "momentum_away": 40,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Naftan buscará el empate",
-    "🎯 9 remates totales",
-    "🎯 5 remates a puerta"
-   ]
-  },
-  {
-   "home": "FC Anyang",
-   "away": "Gangwon FC",
-   "liga": "K League 1",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.8,
-   "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚽ 1 gol — FC Anyang buscará el empate",
-    "📊 FC Anyang: Over2.5 histórico 70%"
-   ]
-  },
-  {
-   "home": "Qviding FIF",
-   "away": "Jonsered",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Tukums II",
-   "away": "Leevon / PPK",
-   "liga": "1. Liga",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.28 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Śląsk Wrocław II",
-   "away": "Olimpia Grudziądz",
-   "liga": "II Liga - East",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Maharlika",
-   "away": "Tuloy",
-   "liga": "PFL",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tuloy buscará el empate"
-   ]
-  },
-  {
-   "home": "Umeå W",
-   "away": "Elfsborg W",
-   "liga": "Elitettan",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Mokpo City",
-   "away": "Chuncheon",
-   "liga": "K3 League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 18,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
