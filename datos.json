@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T23:32:33.173112+00:00",
+ "actualizado": "2026-09-06T23:39:41.990957+00:00",
  "partidos_vivo": [
   {
    "home": "The Strongest",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:39",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:44",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "22:29",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
