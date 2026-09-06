@@ -1,70 +1,156 @@
 {
- "actualizado": "2026-09-06T14:26:57.465243+00:00",
+ "actualizado": "2026-09-06T14:36:42.896413+00:00",
  "partidos_vivo": [
   {
-   "home": "Heerenveen",
-   "away": "AZ Alkmaar",
-   "liga": "Eredivisie",
-   "minuto": 65,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Frosinone",
+   "away": "Venezia",
+   "liga": "Serie A",
+   "minuto": 64,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 41,
-   "momentum_away": 59,
+   "momentum_home": 37,
+   "momentum_away": 63,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "🔥 3 goles — partido muy abierto"
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga por encima de la media: 2.71 goles/partido",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Telstar",
-   "away": "Cambuur",
-   "liga": "Eredivisie",
+   "home": "Estac Troyes",
+   "away": "Strasbourg",
+   "liga": "Ligue 1",
+   "minuto": 65,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Zlin",
+   "away": "Teplice",
+   "liga": "Czech Liga",
    "minuto": 63,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 4.38 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Zlin pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Cracovia Krakow",
-   "away": "Gornik Zabrze",
-   "liga": "Ekstraklasa",
+   "home": "Dinamo Makhachkala",
+   "away": "Rodina Moskva",
+   "liga": "Premier League",
    "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 27,
-   "momentum_away": 73,
+   "momentum_home": 80,
+   "momentum_away": 20,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
+  },
+  {
+   "home": "Modena",
+   "away": "Avellino",
+   "liga": "Serie B",
+   "minuto": 60,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.3,
+   "recomendar": true,
+   "momentum_home": 82,
+   "momentum_away": 18,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Modena buscará el empate",
+    "🎯 29 remates totales — partido muy intenso",
+    "🎯 8 remates a puerta — peligro constante"
+   ]
+  },
+  {
+   "home": "Zelzate",
+   "away": "Roeselare Daisel",
+   "liga": "First Amateur Division",
+   "minuto": 65,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.13 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Zelzate buscará el empate"
+   ]
+  },
+  {
+   "home": "Pennarossa",
+   "away": "Murata",
+   "liga": "Campionato",
+   "minuto": 64,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
   }
  ],
- "partidos_vivo_total": 12,
+ "partidos_vivo_total": 54,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:36",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -130,12 +216,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:21",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -196,6 +276,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Oviedo",
+   "away": "Burgos",
+   "liga": "Segunda División",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "K. Lierse S.K.",
    "away": "Liège",
    "liga": "Challenger Pro League",
@@ -249,17 +340,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-06",
    "es_hoy": true
-  },
-  {
-   "home": "Al Nasr",
-   "away": "Ajman",
-   "liga": "Pro League",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -269,7 +349,7 @@
   "balance_dia": 28.0,
   "ganados": 2612,
   "perdidos": 1142,
-  "pendientes": 24,
+  "pendientes": 29,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.6,
@@ -277,7 +357,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3778,
+  "con_cuota_media": 3783,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -905,12 +985,12 @@
   "n": 2620,
   "ganados": 1781,
   "win_rate": 68,
-  "hoy": 28
+  "hoy": 29
  },
  "stats_dia": {
   "ganados": 4,
   "perdidos": 2,
-  "en_juego": 23,
+  "en_juego": 28,
   "win_rate": 67
  },
  "stats_banker": {
