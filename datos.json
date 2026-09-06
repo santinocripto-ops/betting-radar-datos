@@ -1,30 +1,156 @@
 {
- "actualizado": "2026-09-06T17:55:55.203364+00:00",
+ "actualizado": "2026-09-06T18:09:54.975239+00:00",
  "partidos_vivo": [
   {
-   "home": "Al-Dhafra",
-   "away": "Al Wahda FC",
-   "liga": "Pro League",
-   "minuto": 59,
+   "home": "ML Vitebsk",
+   "away": "Dinamo Minsk",
+   "liga": "Premier League",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 82,
+   "momentum_away": 18,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Trabzonspor",
+   "away": "Gençlerbirliği S.K.",
+   "liga": "Süper Lig",
+   "minuto": 46,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Gençlerbirliği S.K. pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Levadiakos",
+   "away": "Panetolikos",
+   "liga": "Super League 1",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Batman Petrolspor",
+   "away": "Fatih Karagümrük",
+   "liga": "1. Lig",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 9.1,
+   "recomendar": true,
+   "momentum_home": 47,
+   "momentum_away": 53,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 13 remates totales"
+   ]
+  },
+  {
+   "home": "Volda",
+   "away": "Rosenborg II",
+   "liga": "3. Division - Girone 2",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 4.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Rosenborg II buscará el empate"
+   ]
+  },
+  {
+   "home": "La Almunia",
+   "away": "Huesca II",
+   "liga": "Tercera División RFEF - Group 17",
+   "minuto": 65,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "CSF Bălți",
+   "away": "Milsami Orhei",
+   "liga": "Super Liga",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 16,
+ "partidos_vivo_total": 22,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,26 +216,10 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:46",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:46",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Arsenal",
-   "away": "Chelsea",
-   "liga": "Premier League",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.24,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -122,8 +232,8 @@
    "score": 8.44,
    "hora": "12:30",
    "resultado": "ganado",
-   "wr_historico": 80,
-   "n_historico": 170
+   "wr_historico": 81,
+   "n_historico": 175
   },
   {
    "clave": "over25",
@@ -137,7 +247,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1207
+   "n_historico": 1213
   },
   {
    "clave": "btts",
@@ -151,10 +261,21 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1212
+   "n_historico": 1214
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Baltika",
+   "away": "Lokomotiv",
+   "liga": "Premier League",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
   {
    "home": "SK Beveren",
    "away": "OH Leuven",
@@ -209,31 +330,20 @@
    "resultado": "pendiente",
    "fecha": "2026-09-06",
    "es_hoy": true
-  },
-  {
-   "home": "OFI",
-   "away": "Kifisia",
-   "liga": "Super League 1",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49936.0,
-  "balance_total": 39936.0,
-  "balance_dia": 112.0,
-  "ganados": 2624,
-  "perdidos": 1148,
-  "pendientes": 46,
-  "ganados_dia": 16,
-  "perdidos_dia": 8,
-  "win_rate": 69.6,
-  "roi": 10.6,
+  "capital": 49960.0,
+  "balance_total": 39960.0,
+  "balance_dia": 136.0,
+  "ganados": 2644,
+  "perdidos": 1159,
+  "pendientes": 15,
+  "ganados_dia": 36,
+  "perdidos_dia": 19,
+  "win_rate": 69.5,
+  "roi": 10.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -492,15 +602,15 @@
     "away": "Union Neumünster",
     "liga": "Oberliga - Schleswig-Holstein",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1453,
-   "perdidos": 966,
-   "acierto": 60.1,
+   "ganados": 1457,
+   "perdidos": 970,
+   "acierto": 60.0,
    "yield": 14.1,
    "cuota_media": 1.9
   }
@@ -532,21 +642,21 @@
    "away": "Maccabi Kabilio Jaffa",
    "liga": "Liga Leumit",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Lech Poznan",
    "away": "Raków Częstochowa",
    "liga": "Ekstraklasa",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Auda",
    "away": "Grobiņa",
    "liga": "Virsliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -869,21 +979,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2634,
-  "ganados": 1790,
+  "n": 2657,
+  "ganados": 1804,
   "win_rate": 68,
-  "hoy": 52
+  "hoy": 53
  },
  "stats_dia": {
-  "ganados": 17,
-  "perdidos": 8,
-  "en_juego": 45,
-  "win_rate": 68
+  "ganados": 38,
+  "perdidos": 19,
+  "en_juego": 13,
+  "win_rate": 67
  },
  "stats_banker": {
-  "ganados": 81,
+  "ganados": 82,
   "perdidos": 32,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
