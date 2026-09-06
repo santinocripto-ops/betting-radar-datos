@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T23:47:41.369927+00:00",
+ "actualizado": "2026-09-06T23:54:50.443362+00:00",
  "partidos_vivo": [
   {
    "home": "Palestino",
@@ -219,7 +219,7 @@
   "balance_dia": 0.0,
   "ganados": 2656,
   "perdidos": 1169,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.4,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3834,
+  "con_cuota_media": 3835,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -826,7 +826,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 0
  },
  "stats_banker": {
