@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T15:19:41.325522+00:00",
+ "actualizado": "2026-09-06T15:22:06.320623+00:00",
  "partidos_vivo": [
   {
    "home": "Baranovichi",
@@ -246,6 +246,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Arsenal vs Chelsea · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.24 (5 casas)",
+   "hora": "17:22",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:21",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:21",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:19",
@@ -298,28 +316,20 @@
    "texto": "──────────────────────────────",
    "hora": "16:58",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:36",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Arsenal",
+   "away": "Chelsea",
+   "liga": "Premier League",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.24,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -366,6 +376,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Auda",
+   "away": "Grobiņa",
+   "liga": "Virsliga",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Lyn",
+   "away": "Egersund",
+   "liga": "1. Division",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Sarpsborg 08 FF",
+   "away": "Valerenga",
+   "liga": "Eliteserien",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Molde",
+   "away": "KFUM Oslo",
+   "liga": "Eliteserien",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "FC Basel 1893",
    "away": "FC Lugano",
    "liga": "Super League",
@@ -381,50 +435,6 @@
    "away": "Hoffenheim II",
    "liga": "3. Liga",
    "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Oviedo",
-   "away": "Burgos",
-   "liga": "Segunda División",
-   "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "K. Lierse S.K.",
-   "away": "Liège",
-   "liga": "Challenger Pro League",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Kortrijk",
-   "away": "Zulte Waregem",
-   "liga": "Jupiler Pro League",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Rubin Kazan W",
-   "away": "Zenit W",
-   "liga": "Supreme Division Women",
-   "minuto": 18,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1082,7 +1092,7 @@
   "n": 2634,
   "ganados": 1790,
   "win_rate": 68,
-  "hoy": 31
+  "hoy": 35
  },
  "stats_dia": {
   "ganados": 17,
@@ -1093,7 +1103,7 @@
  "stats_banker": {
   "ganados": 81,
   "perdidos": 32,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
