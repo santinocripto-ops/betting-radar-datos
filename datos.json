@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T19:57:00.426734+00:00",
+ "actualizado": "2026-09-06T20:05:22.738782+00:00",
  "partidos_vivo": [
   {
    "home": "Juventus",
@@ -126,6 +126,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:05",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "21:40",
@@ -190,12 +196,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:48",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -274,7 +274,7 @@
    "minuto": 24,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-06",
    "es_hoy": true
   },
@@ -285,7 +285,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-06",
    "es_hoy": true
   },
@@ -296,7 +296,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-06",
    "es_hoy": true
   },
@@ -314,20 +314,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49871.0,
-  "balance_total": 39871.0,
-  "balance_dia": 47.0,
-  "ganados": 2651,
-  "perdidos": 1164,
-  "pendientes": 10,
-  "ganados_dia": 43,
-  "perdidos_dia": 24,
+  "capital": 49706.0,
+  "balance_total": 39706.0,
+  "balance_dia": -118.0,
+  "ganados": 2654,
+  "perdidos": 1167,
+  "pendientes": 5,
+  "ganados_dia": 46,
+  "perdidos_dia": 27,
   "win_rate": 69.5,
-  "roi": 10.5,
+  "roi": 10.4,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3825,
+  "con_cuota_media": 3826,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -597,25 +597,32 @@
  },
  "reentradas": [
   {
+   "home": "NK Slaven Belupo",
+   "away": "NK Lokomotiva Zagreb",
+   "liga": "HNL",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Gyori ETO FC",
    "away": "Budapest Honved",
    "liga": "NB I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Baltika",
    "away": "Lokomotiv",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "SK Beveren",
    "away": "OH Leuven",
    "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Castellón",
@@ -628,13 +635,6 @@
    "home": "Malaga",
    "away": "Levante",
    "liga": "La Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "Anderlecht",
-   "away": "Genk",
-   "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
   }
@@ -959,16 +959,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2666,
+  "n": 2669,
   "ganados": 1810,
   "win_rate": 68,
   "hoy": 56
  },
  "stats_dia": {
-  "ganados": 45,
-  "perdidos": 24,
-  "en_juego": 8,
-  "win_rate": 65
+  "ganados": 48,
+  "perdidos": 27,
+  "en_juego": 3,
+  "win_rate": 64
  },
  "stats_banker": {
   "ganados": 82,
