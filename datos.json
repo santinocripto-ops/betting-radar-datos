@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T20:37:00.378506+00:00",
+ "actualizado": "2026-09-06T20:44:42.105165+00:00",
  "partidos_vivo": [
   {
    "home": "Remo",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:44",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:29",
@@ -170,12 +176,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:18",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:18",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -610,13 +610,6 @@
    "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Castellón",
-   "away": "Albacete",
-   "liga": "Segunda División",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -866,6 +859,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Daniil Medvedev vs Frances Tiafoe",
+   "apuesta": "SI, US Open ATP: Daniil Medvedev ganara",
+   "usdc": 146503,
+   "prob": 69.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "22:44"
+  },
+  {
    "titulo": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
    "apuesta": "SI, US Open ATP: Alex Michelsen ganara",
    "usdc": 90102,
@@ -927,15 +929,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "18:08"
-  },
-  {
-   "titulo": "Will Stade Rennais FC 1901 win on 2026-09-06?",
-   "apuesta": "SI, Stade Rennais FC 1901 ganara",
-   "usdc": 769320,
-   "prob": 56.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "16:58"
   }
  ],
  "stats_gt": {
