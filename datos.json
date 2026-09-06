@@ -1,248 +1,68 @@
 {
- "actualizado": "2026-09-06T13:45:19.448136+00:00",
+ "actualizado": "2026-09-06T13:54:56.144546+00:00",
  "partidos_vivo": [
   {
-   "home": "Belshina",
-   "away": "Neman",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 23,
-   "momentum_away": 77,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Belshina buscará el empate",
-    "🎯 8 remates totales",
-    "⏱ 33 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Sonderjyske",
-   "away": "AC Horsens",
-   "liga": "Superliga",
-   "minuto": 53,
-   "marcador": "1-2",
+   "home": "Heerenveen",
+   "away": "AZ Alkmaar",
+   "liga": "Eredivisie",
+   "minuto": 65,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
+   "momentum_home": 41,
+   "momentum_away": 59,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Servette FC",
-   "away": "FC ST. Gallen",
-   "liga": "Super League",
-   "minuto": 52,
+   "home": "Telstar",
+   "away": "Cambuur",
+   "liga": "Eredivisie",
+   "minuto": 63,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Servette FC pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Ural",
-   "away": "KAMAZ",
-   "liga": "First League",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 58,
-   "momentum_away": 42,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
-    "⚽ 1 gol — KAMAZ buscará el empate",
-    "🚩 9 córners"
-   ]
-  },
-  {
-   "home": "VfL Wolfsburg W",
-   "away": "Werder Bremen W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.94 goles/partido",
-    "⚽ 1 gol — VfL Wolfsburg W buscará el empate",
-    "🎯 17 remates totales"
-   ]
-  },
-  {
-   "home": "Tianjin Teda",
-   "away": "Hangzhou Greentown",
-   "liga": "Super League",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.8,
    "recomendar": true,
    "momentum_home": 47,
    "momentum_away": 53,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 13 remates totales"
-   ]
-  },
-  {
-   "home": "Eibar",
-   "away": "Granada CF",
-   "liga": "Segunda División",
-   "minuto": 52,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Granada CF pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Petrolul Ploiesti",
-   "away": "Corvinul Hunedoara",
-   "liga": "Liga I",
-   "minuto": 54,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.4,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Corvinul Hunedoara buscará el empate",
-    "🎯 17 remates totales",
-    "🎯 7 remates a puerta"
-   ]
-  },
-  {
-   "home": "Brann II",
-   "away": "Vard",
-   "liga": "3. Division - Girone 3",
-   "minuto": 54,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lillestrøm II",
-   "away": "Bossekop",
-   "liga": "3. Division - Girone 5",
-   "minuto": 55,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "NSÍ II",
-   "away": "EB / Streymur II",
-   "liga": "1. Deild",
-   "minuto": 54,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.55 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Bollstanäs",
-   "away": "Angby",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 55,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
+   "home": "Cracovia Krakow",
+   "away": "Gornik Zabrze",
+   "liga": "Ekstraklasa",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 27,
+   "momentum_away": 73,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 42,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
