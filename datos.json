@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T18:56:02.628687+00:00",
+ "actualizado": "2026-09-06T19:04:14.421255+00:00",
  "partidos_vivo": [
   {
    "home": "Kristiansund BK",
@@ -265,7 +265,7 @@
    "minuto": 12,
    "score": 9.9,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-06",
    "es_hoy": true
   },
@@ -276,7 +276,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-06",
    "es_hoy": true
   },
@@ -287,21 +287,21 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-06",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49960.0,
-  "balance_total": 39960.0,
-  "balance_dia": 136.0,
-  "ganados": 2644,
-  "perdidos": 1159,
-  "pendientes": 19,
-  "ganados_dia": 36,
-  "perdidos_dia": 19,
+  "capital": 49871.0,
+  "balance_total": 39871.0,
+  "balance_dia": 47.0,
+  "ganados": 2651,
+  "perdidos": 1164,
+  "pendientes": 7,
+  "ganados_dia": 43,
+  "perdidos_dia": 24,
   "win_rate": 69.5,
   "roi": 10.5,
   "stake": 100.0,
@@ -595,21 +595,21 @@
    "away": "Albacete",
    "liga": "Segunda División",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Malaga",
    "away": "Levante",
    "liga": "La Liga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Anderlecht",
    "away": "Genk",
    "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Hapoel Afula",
@@ -939,16 +939,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2657,
-  "ganados": 1804,
+  "n": 2666,
+  "ganados": 1810,
   "win_rate": 68,
   "hoy": 54
  },
  "stats_dia": {
-  "ganados": 38,
-  "perdidos": 19,
-  "en_juego": 17,
-  "win_rate": 67
+  "ganados": 45,
+  "perdidos": 24,
+  "en_juego": 5,
+  "win_rate": 65
  },
  "stats_banker": {
   "ganados": 82,
