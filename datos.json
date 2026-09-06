@@ -1,58 +1,78 @@
 {
- "actualizado": "2026-09-06T19:47:53.860757+00:00",
+ "actualizado": "2026-09-06T19:57:00.426734+00:00",
  "partidos_vivo": [
   {
-   "home": "Denver Summit W",
-   "away": "NJ/NY Gotham FC W",
-   "liga": "NWSL Women",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 1 gol — NJ/NY Gotham FC W buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Gyori ETO FC",
-   "away": "Budapest Honved",
-   "liga": "NB I",
-   "minuto": 60,
+   "home": "Juventus",
+   "away": "AC Milan",
+   "liga": "Serie A",
+   "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
+   "momentum_home": 86,
+   "momentum_away": 14,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Guillermo Brown",
-   "away": "San Martín Mendoza",
+   "home": "Marseille",
+   "away": "Paris FC",
+   "liga": "Ligue 1",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 44,
+   "momentum_away": 56,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.0 (Ligue 1)",
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Panathinaikos",
+   "away": "PAOK",
+   "liga": "Super League 1",
+   "minuto": 64,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 88,
+   "momentum_away": 12,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.8 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ PAOK pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Bartolomé Mitre",
+   "away": "Gimnasia Chivilcoy",
    "liga": "Torneo Federal A",
-   "minuto": 58,
+   "minuto": 64,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 9.0,
    "recomendar": true,
-   "momentum_home": 85,
-   "momentum_away": 15,
+   "momentum_home": 14,
+   "momentum_away": 86,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
@@ -60,9 +80,49 @@
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
+  },
+  {
+   "home": "Huracan Las Heras",
+   "away": "Argentino Monte Maíz",
+   "liga": "Torneo Federal A",
+   "minuto": 60,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 52,
+   "momentum_away": 48,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 1.97 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Huracan Las Heras pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Real Madrid W",
+   "away": "Eibar W",
+   "liga": "Primera División Femenina",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
   }
  ],
- "partidos_vivo_total": 27,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
