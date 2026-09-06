@@ -1,70 +1,56 @@
 {
- "actualizado": "2026-09-06T23:01:42.269837+00:00",
+ "actualizado": "2026-09-06T23:09:56.694535+00:00",
  "partidos_vivo": [
   {
-   "home": "Botafogo",
-   "away": "Palmeiras",
-   "liga": "Serie A",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Ponte Preta",
-   "away": "São Bernardo",
-   "liga": "Serie B",
+   "home": "The Strongest",
+   "away": "Real Tomayapo",
+   "liga": "Primera División",
    "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Ponte Preta buscará el empate",
-    "🎯 8 remates totales",
-    "🚩 6 córners"
-   ]
-  },
-  {
-   "home": "Sportivo Luqueno",
-   "away": "Sportivo Ameliano",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 52,
-   "marcador": "0-2",
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 94,
+   "momentum_away": 6,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Real Tomayapo pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Querétaro W",
+   "away": "Cruz Azul W",
+   "liga": "Liga MX Femenil",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Sportivo Luqueno pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -129,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:05",
    "tipo": "live"
   }
  ],
@@ -777,6 +757,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Washington State vs. Washington: O/U 51.5",
+   "apuesta": "SI, mas de 51.5 goles",
+   "usdc": 80643,
+   "prob": 2.6,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "01:08"
+  },
+  {
    "titulo": "US Open ATP: Ben Shelton vs Stefanos Tsitsipas",
    "apuesta": "SI, US Open ATP: Ben Shelton ganara",
    "usdc": 117984,
@@ -838,15 +827,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "20:18"
-  },
-  {
-   "titulo": "Will US Sassuolo Calcio win on 2026-09-06?",
-   "apuesta": "SI, US Sassuolo Calcio ganara",
-   "usdc": 20133,
-   "prob": 76.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:48"
   }
  ],
  "stats_gt": {
