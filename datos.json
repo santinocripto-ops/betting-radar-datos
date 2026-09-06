@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T11:43:40.394958+00:00",
+ "actualizado": "2026-09-06T11:51:30.564250+00:00",
  "partidos_vivo": [
   {
    "home": "Groningen",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:55",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Henan Jianye",
+   "away": "Chengdu Better City",
+   "liga": "Super League",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
   {
    "home": "VfL Osnabrück",
    "away": "Eintracht Braunschweig",
@@ -199,17 +210,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-06",
    "es_hoy": true
-  },
-  {
-   "home": "Milan U20",
-   "away": "Juventus U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-06",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -219,7 +219,7 @@
   "balance_dia": 122.0,
   "ganados": 2610,
   "perdidos": 1140,
-  "pendientes": 6,
+  "pendientes": 8,
   "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.6,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3756,
+  "con_cuota_media": 3758,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -827,12 +827,12 @@
   "n": 2617,
   "ganados": 1780,
   "win_rate": 68,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 6,
   "win_rate": 100
  },
  "stats_banker": {
