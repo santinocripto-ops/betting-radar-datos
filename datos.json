@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T21:09:44.100689+00:00",
+ "actualizado": "2026-09-06T21:23:59.764460+00:00",
  "partidos_vivo": [
   {
    "home": "Central Cordoba de Santiago",
@@ -581,13 +581,6 @@
    "home": "Baltika",
    "away": "Lokomotiv",
    "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "SK Beveren",
-   "away": "OH Leuven",
-   "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
