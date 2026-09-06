@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T16:08:44.093700+00:00",
+ "actualizado": "2026-09-06T16:17:40.169107+00:00",
  "partidos_vivo": [
   {
    "home": "IF Brommapojkarna",
@@ -187,6 +187,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:15",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:08",
    "tipo": "live"
@@ -238,24 +256,6 @@
    "texto": "⚽ Arsenal vs Chelsea · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.24 (5 casas)",
    "hora": "17:22",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:21",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:21",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -316,6 +316,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Nea Salamis",
+   "away": "AEK Larnaca",
+   "liga": "1. Division",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Hapoel Afula",
+   "away": "Maccabi Kabilio Jaffa",
+   "liga": "Liga Leumit",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Ferencvarosi TC",
    "away": "Ujpest",
    "liga": "NB I",
@@ -354,28 +376,6 @@
    "liga": "Premier League",
    "minuto": 10,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "D. La Serena",
-   "away": "Nublense",
-   "liga": "Primera División",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Auda",
-   "away": "Grobiņa",
-   "liga": "Virsliga",
-   "minuto": 19,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-06",
@@ -956,6 +956,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Como: Matej Dodig vs Juan Pablo Varillas",
+   "apuesta": "SI, Como: Matej Dodig ganara",
+   "usdc": 16317,
+   "prob": 79.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:15"
+  },
+  {
    "titulo": "Counter-Strike: Spirit vs MOUZ - Map 3 Winner",
    "apuesta": "SI, ganara",
    "usdc": 140314,
@@ -1017,22 +1026,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "13:34"
-  },
-  {
-   "titulo": "LoL: T1 vs Dplus KIA - Game 3 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 204998,
-   "prob": 89.0,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "12:55"
   }
  ],
  "stats_gt": {
   "n": 2634,
   "ganados": 1790,
   "win_rate": 68,
-  "hoy": 40
+  "hoy": 42
  },
  "stats_dia": {
   "ganados": 17,
