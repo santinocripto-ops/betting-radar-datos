@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T10:40:02.714887+00:00",
+ "actualizado": "2026-09-06T10:47:52.774016+00:00",
  "partidos_vivo": [
   {
    "home": "Levadia U19",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:47",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:23",
@@ -117,12 +123,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "11:14",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:03",
    "tipo": "smart_money"
   },
   {
@@ -761,6 +761,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Barcelona win on 2026-09-06?",
+   "apuesta": "NO, FC Barcelona no ganara",
+   "usdc": 99954,
+   "prob": 23.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "12:47"
+  },
+  {
    "titulo": "Porto: Facundo Mena vs Hugo Dellien",
    "apuesta": "SI, Porto: Facundo Mena ganara",
    "usdc": 17127,
@@ -821,15 +830,6 @@
    "prob": 63.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
-   "hora": "11:03"
-  },
-  {
-   "titulo": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
-   "apuesta": "SI, US Open ATP: Tommy Paul ganara",
-   "usdc": 225548,
-   "prob": 18.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
    "hora": "11:03"
   }
  ],
