@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T12:48:56.104063+00:00",
+ "actualizado": "2026-09-06T12:56:34.137312+00:00",
  "partidos_vivo": [
   {
    "home": "Yunnan Yukun",
@@ -186,6 +186,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:56",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "14:48",
@@ -248,12 +254,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:43",
    "tipo": "live"
   }
@@ -935,6 +935,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Everton FC win on 2026-09-06?",
+   "apuesta": "SI, Everton ganara",
+   "usdc": 208630,
+   "prob": 25.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "14:56"
+  },
+  {
    "titulo": "Istanbul 3: Radu David Turcanu vs Egor Agafonov",
    "apuesta": "SI, Istanbul 3: Radu David Turcanu ganara",
    "usdc": 136081,
@@ -996,15 +1005,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "11:30"
-  },
-  {
-   "titulo": "Will Manchester United FC win on 2026-09-06?",
-   "apuesta": "SI, Manchester United ganara",
-   "usdc": 521201,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "11:23"
   }
  ],
  "stats_gt": {
