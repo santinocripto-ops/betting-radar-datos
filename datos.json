@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T14:44:05.059611+00:00",
+ "actualizado": "2026-09-06T14:51:34.287750+00:00",
  "partidos_vivo": [
   {
    "home": "Frosinone",
@@ -148,6 +148,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:43",
    "tipo": "live"
   },
@@ -210,12 +216,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:09",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -276,6 +276,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Basel 1893",
+   "away": "FC Lugano",
+   "liga": "Super League",
+   "minuto": 21,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "SG Sonnenhof Grossaspach",
    "away": "Hoffenheim II",
    "liga": "3. Liga",
@@ -329,17 +340,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-06",
    "es_hoy": true
-  },
-  {
-   "home": "Skara",
-   "away": "Vänersborgs IF",
-   "liga": "Division 2 - Norra Götaland",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -349,7 +349,7 @@
   "balance_dia": 28.0,
   "ganados": 2612,
   "perdidos": 1142,
-  "pendientes": 30,
+  "pendientes": 31,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.6,
@@ -357,7 +357,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3784,
+  "con_cuota_media": 3785,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -978,12 +978,12 @@
   "n": 2620,
   "ganados": 1781,
   "win_rate": 68,
-  "hoy": 30
+  "hoy": 31
  },
  "stats_dia": {
   "ganados": 4,
   "perdidos": 2,
-  "en_juego": 29,
+  "en_juego": 30,
   "win_rate": 67
  },
  "stats_banker": {
