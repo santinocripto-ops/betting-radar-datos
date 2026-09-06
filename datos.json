@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T09:23:28.995658+00:00",
+ "actualizado": "2026-09-06T09:31:01.977283+00:00",
  "partidos_vivo": [
   {
    "home": "Haman",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:31",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -668,6 +674,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: Ninjas in Pyjamas ganara",
+   "usdc": 103228,
+   "prob": 63.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "11:30"
+  },
   {
    "titulo": "Will Manchester United FC win on 2026-09-06?",
    "apuesta": "SI, Manchester United ganara",
