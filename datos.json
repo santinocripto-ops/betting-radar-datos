@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T19:33:24.616368+00:00",
+ "actualizado": "2026-09-06T19:40:44.262778+00:00",
  "partidos_vivo": [
   {
    "home": "Denver Summit W",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:40",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:26",
@@ -124,12 +130,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:48",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:41",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -826,6 +826,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Alex Michelsen vs Tomas Etcheverry",
+   "apuesta": "SI, US Open ATP: Alex Michelsen ganara",
+   "usdc": 90102,
+   "prob": 83.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "21:40"
+  },
+  {
    "titulo": "Will Olympique de Marseille win on 2026-09-06?",
    "apuesta": "SI, Olympique de Marseille ganara",
    "usdc": 222920,
@@ -887,15 +896,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "16:58"
-  },
-  {
-   "titulo": "Spread: FC Barcelona (-1.5)",
-   "apuesta": "SI — Spread: FC Barcelona (-1.5)",
-   "usdc": 81467,
-   "prob": 72.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "16:26"
   }
  ],
  "stats_gt": {
