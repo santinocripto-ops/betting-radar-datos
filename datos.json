@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T16:39:43.548230+00:00",
+ "actualizado": "2026-09-06T16:47:09.445082+00:00",
  "partidos_vivo": [
   {
    "home": "Angers",
@@ -127,6 +127,30 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:39",
    "tipo": "live"
@@ -172,30 +196,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:01",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -256,6 +256,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "OFI",
+   "away": "Kifisia",
+   "liga": "Super League 1",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Nürnberg W",
+   "away": "Stuttgart W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 14,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Malaga",
+   "away": "Levante",
+   "liga": "La Liga",
+   "minuto": 16,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
+   "home": "Anderlecht",
+   "away": "Genk",
+   "liga": "Jupiler Pro League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Al Rayyan SC B",
    "away": "Al-Markhiya",
    "liga": "Second Division",
@@ -270,50 +314,6 @@
    "home": "Nea Salamis",
    "away": "AEK Larnaca",
    "liga": "1. Division",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Hapoel Afula",
-   "away": "Maccabi Kabilio Jaffa",
-   "liga": "Liga Leumit",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Ferencvarosi TC",
-   "away": "Ujpest",
-   "liga": "NB I",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Lech Poznan",
-   "away": "Raków Częstochowa",
-   "liga": "Ekstraklasa",
-   "minuto": 24,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "GBK",
-   "away": "JBK",
-   "liga": "Kakkonen - Lohko C",
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
@@ -972,7 +972,7 @@
   "n": 2634,
   "ganados": 1790,
   "win_rate": 68,
-  "hoy": 43
+  "hoy": 47
  },
  "stats_dia": {
   "ganados": 17,
