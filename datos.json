@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T16:32:47.365489+00:00",
+ "actualizado": "2026-09-06T16:32:53.693814+00:00",
  "partidos_vivo": [
   {
    "home": "Angers",
@@ -256,6 +256,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Rayyan SC B",
+   "away": "Al-Markhiya",
+   "liga": "Second Division",
+   "minuto": 17,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
+  {
    "home": "Nea Salamis",
    "away": "AEK Larnaca",
    "liga": "1. Division",
@@ -305,17 +316,6 @@
    "liga": "Kakkonen - Lohko C",
    "minuto": 14,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": true
-  },
-  {
-   "home": "Dynamo",
-   "away": "Spartak Moscow",
-   "liga": "Premier League",
-   "minuto": 10,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-06",
@@ -972,7 +972,7 @@
   "n": 2634,
   "ganados": 1790,
   "win_rate": 68,
-  "hoy": 42
+  "hoy": 43
  },
  "stats_dia": {
   "ganados": 17,
