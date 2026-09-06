@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T19:04:14.421255+00:00",
+ "actualizado": "2026-09-06T19:21:33.948881+00:00",
  "partidos_vivo": [
   {
    "home": "Kristiansund BK",
@@ -108,6 +108,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:55",
    "tipo": "live"
   },
@@ -169,12 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:24",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:17",
    "tipo": "live"
   }
  ],
