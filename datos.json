@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T12:13:35.288282+00:00",
+ "actualizado": "2026-09-06T12:15:27.426426+00:00",
  "partidos_vivo": [
   {
    "home": "Chongqing Tongliang Long",
@@ -246,6 +246,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Arka Gdynia vs ŁKS Łódź · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.32 (5",
+   "hora": "14:15",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:15",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:13",
@@ -304,22 +316,20 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:55",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:55",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:47",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Arka Gdynia",
+   "away": "ŁKS Łódź",
+   "liga": "I Liga",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -1058,7 +1068,7 @@
  "stats_banker": {
   "ganados": 80,
   "perdidos": 32,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 71
  },
  "marca": {
