@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T10:07:10.543809+00:00",
+ "actualizado": "2026-09-06T10:15:45.494736+00:00",
  "partidos_vivo": [
   {
    "home": "Gyori ETO II",
@@ -85,6 +85,12 @@
  "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -193,6 +199,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Naftan",
+   "away": "FC Minsk",
+   "liga": "Premier League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-06",
+   "es_hoy": true
+  },
   {
    "home": "Milan U20",
    "away": "Juventus U20",
@@ -823,7 +840,7 @@
   "n": 2615,
   "ganados": 1778,
   "win_rate": 68,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 0,
