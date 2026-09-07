@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T23:08:35.296981+00:00",
+ "actualizado": "2026-09-07T23:16:45.735777+00:00",
  "partidos_vivo": [
   {
    "home": "Cerro Porteno",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:26",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:26",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Deportes Limache",
+   "away": "Cobresal",
+   "liga": "Primera División",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": false
+  },
+  {
    "home": "Udinese",
    "away": "Lazio",
    "liga": "Serie A",
@@ -195,17 +206,6 @@
    "liga": "Liga I",
    "minuto": 23,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Bnei Sakhnin",
-   "away": "Beitar Jerusalem",
-   "liga": "Ligat Ha'al",
-   "minuto": 17,
-   "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-07",
