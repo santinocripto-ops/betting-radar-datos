@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-07T22:21:24.056099+00:00",
+ "actualizado": "2026-09-07T22:29:30.622139+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:29",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:29",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -62,18 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:08",
    "tipo": "live"
   }
  ],
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will EC Vitória win on 2026-09-07?",
+   "apuesta": "SI, EC Vitória ganara",
+   "usdc": 102418,
+   "prob": 45.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "00:29"
+  },
+  {
    "titulo": "US Open ATP: Karen Khachanov vs Learner Tien",
    "apuesta": "SI, US Open ATP: Karen Khachanov ganara",
    "usdc": 99194,
@@ -776,15 +785,6 @@
    "prob": 65.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
-   "hora": "18:41"
-  },
-  {
-   "titulo": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
-   "apuesta": "SI, US Open WTA: Iga Swiatek ganara",
-   "usdc": 59678,
-   "prob": 72.5,
-   "n_traders": 3,
-   "trader": "RN1",
    "hora": "18:41"
   }
  ],
