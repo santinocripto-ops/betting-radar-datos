@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T01:08:40.311382+00:00",
+ "actualizado": "2026-09-07T01:16:28.651447+00:00",
  "partidos_vivo": [
   {
    "home": "Nacional Potosí",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:16",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "23:52",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "23:45",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -690,6 +690,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Anna Kalinskaya vs Emma Navarro",
+   "apuesta": "SI, US Open WTA: Anna Kalinskaya ganara",
+   "usdc": 106619,
+   "prob": 51.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "03:16"
+  },
+  {
    "titulo": "Washington State vs. Washington: O/U 51.5",
    "apuesta": "SI, mas de 51.5 goles",
    "usdc": 80643,
@@ -751,15 +760,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "20:40"
-  },
-  {
-   "titulo": "Will Cruzeiro EC win on 2026-09-06?",
-   "apuesta": "SI, Cruzeiro EC ganara",
-   "usdc": 131660,
-   "prob": 55.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "20:18"
   }
  ],
  "stats_gt": {
