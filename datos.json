@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T10:44:17.832542+00:00",
+ "actualizado": "2026-09-07T10:51:40.035386+00:00",
  "partidos_vivo": [
   {
    "home": "I.S.P.E",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:51",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "📊 INFORME SEMANAL — PRONÓSTICOS EN VIVO",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "01:17",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -699,6 +699,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: Invictus Gaming ganara",
+   "usdc": 105000,
+   "prob": 63.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "12:51"
+  },
+  {
    "titulo": "Will Udinese Calcio win on 2026-09-07?",
    "apuesta": "SI, Udinese Calcio ganara",
    "usdc": 81343,
@@ -758,15 +767,6 @@
    "usdc": 36073,
    "prob": 13.7,
    "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:59"
-  },
-  {
-   "titulo": "Will RCD Espanyol de Barcelona win on 2026-09-06?",
-   "apuesta": "SI, RCD Espanyol de Barcelona ganara",
-   "usdc": 87230,
-   "prob": 31.5,
-   "n_traders": 3,
    "trader": "RN1",
    "hora": "22:59"
   }
