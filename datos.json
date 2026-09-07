@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T15:06:32.077508+00:00",
+ "actualizado": "2026-09-07T15:13:37.113274+00:00",
  "partidos_vivo": [
   {
    "home": "Al Wahda U23",
@@ -565,6 +565,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Nueva Chicago",
+    "away": "Quilmes",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 12,
+    "cuota": 1.5,
+    "pinnacle": true,
+    "delta": 5.2,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T20:00:00+00:00",
+    "ts": "2026-09-07T15:06:32.340433+00:00"
+   },
+   {
     "home": "Palermo",
     "away": "Sampdoria",
     "liga": "Serie B",
@@ -773,27 +788,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-05T13:30:00+00:00",
     "ts": "2026-09-05T13:07:00.346135+00:00"
-   },
-   {
-    "home": "FC Botosani",
-    "away": "Sepsi OSK Sfantu Gheorghe",
-    "liga": "Liga I",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.33,
-    "pinnacle": true,
-    "delta": 4.29,
-    "marcador": "5-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T12:00:00+00:00",
-    "ts": "2026-09-05T11:09:28.408514+00:00"
    }
   ],
   "balance": {
    "ganados": 238,
    "perdidos": 94,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 71.7,
    "total": 332
   }
