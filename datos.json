@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-06T23:54:50.443362+00:00",
+ "actualizado": "2026-09-07T00:02:14.112658+00:00",
  "partidos_vivo": [
   {
    "home": "Palestino",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "02:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,12 +89,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "23:45",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:59",
    "tipo": "smart_money"
   },
   {
