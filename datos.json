@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T22:04:16.543711+00:00",
+ "actualizado": "2026-09-07T22:12:47.708586+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -487,8 +487,8 @@
     "cuota": 1.5,
     "pinnacle": true,
     "delta": 5.2,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-07T20:00:00+00:00",
     "ts": "2026-09-07T15:06:32.340433+00:00"
    },
@@ -705,10 +705,10 @@
   ],
   "balance": {
    "ganados": 242,
-   "perdidos": 95,
-   "pendientes": 1,
-   "acierto": 71.8,
-   "total": 337
+   "perdidos": 96,
+   "pendientes": 0,
+   "acierto": 71.6,
+   "total": 338
   }
  },
  "mejor_dia": {
