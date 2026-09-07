@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-07T14:05:38.260862+00:00",
+ "actualizado": "2026-09-07T14:13:15.435943+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Palermo vs Sampdoria · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.26 (10 casas)",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "12:51",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "📊 INFORME SEMANAL — PRONÓSTICOS EN VIVO",
-   "hora": "09:08",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -462,6 +462,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Palermo",
+    "away": "Sampdoria",
+    "liga": "Serie B",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.17,
+    "pinnacle": true,
+    "delta": 3.61,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T18:30:00+00:00",
+    "ts": "2026-09-07T14:05:25.512876+00:00"
+   },
+   {
+    "home": "Palermo",
+    "away": "Sampdoria",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.3,
+    "pinnacle": true,
+    "delta": 3.44,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T18:30:00+00:00",
+    "ts": "2026-09-07T14:05:25.860860+00:00"
+   },
+   {
     "home": "Jong Utrecht",
     "away": "FC Eindhoven",
     "liga": "Eerste Divisie",
@@ -655,42 +685,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-05T12:00:00+00:00",
     "ts": "2026-09-05T11:09:28.408514+00:00"
-   },
-   {
-    "home": "Nantong Zhiyun",
-    "away": "Guangzhou E-Power",
-    "liga": "League One",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 1.33,
-    "pinnacle": true,
-    "delta": 7.93,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T11:30:00+00:00",
-    "ts": "2026-09-05T10:05:27.980838+00:00"
-   },
-   {
-    "home": "Dongguan United",
-    "away": "Dalian Huayi",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.91,
-    "pinnacle": true,
-    "delta": 4.41,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T11:30:00+00:00",
-    "ts": "2026-09-05T10:05:28.507983+00:00"
    }
   ],
   "balance": {
    "ganados": 238,
    "perdidos": 94,
-   "pendientes": 3,
+   "pendientes": 5,
    "acierto": 71.7,
    "total": 332
   }
@@ -787,7 +787,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 1,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 88
  },
  "stats_banker": {
