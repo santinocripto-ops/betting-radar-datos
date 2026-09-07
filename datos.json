@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T17:17:00.842040+00:00",
+ "actualizado": "2026-09-07T17:17:34.377503+00:00",
  "partidos_vivo": [
   {
    "home": "Wieczysta Kraków",
@@ -254,6 +254,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:05",
    "tipo": "live"
   },
@@ -304,18 +316,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:57",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -394,6 +394,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Manisa F.K.",
+   "away": "Bursaspor",
+   "liga": "1. Lig",
+   "minuto": 17,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Midtjylland",
+   "away": "FC Nordsjaelland",
+   "liga": "Superliga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
+   "home": "Kalmar FF",
+   "away": "Djurgardens IF",
+   "liga": "Allsvenskan",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
    "home": "Ørn Horten",
    "away": "Sarpsborg 08 II",
    "liga": "3. Division - Girone 6",
@@ -423,39 +456,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-07",
-   "es_hoy": true
-  },
-  {
-   "home": "Al Khaleej Saihat",
-   "away": "Al Riyadh",
-   "liga": "Pro League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07",
-   "es_hoy": true
-  },
-  {
-   "home": "UMM Salal",
-   "away": "Al-Khor",
-   "liga": "Second Division",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-07",
-   "es_hoy": true
-  },
-  {
-   "home": "İstanbulspor",
-   "away": "Iğdır FK",
-   "liga": "1. Lig",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-07",
    "es_hoy": true
   }
@@ -1075,7 +1075,7 @@
   "n": 2682,
   "ganados": 1820,
   "win_rate": 68,
-  "hoy": 8
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 9,
