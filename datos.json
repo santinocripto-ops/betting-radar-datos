@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-07T14:13:15.435943+00:00",
+ "actualizado": "2026-09-07T14:13:31.404835+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:51",
    "tipo": "smart_money"
   }
  ],
@@ -152,6 +152,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "UMM Salal",
+   "away": "Al-Khor",
+   "liga": "Second Division",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
+   "home": "İstanbulspor",
+   "away": "Iğdır FK",
+   "liga": "1. Lig",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
   {
    "home": "Seattle Reign FC W",
    "away": "San Diego Wave W",
@@ -782,7 +804,7 @@
   "n": 2680,
   "ganados": 1818,
   "win_rate": 68,
-  "hoy": 2
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 7,
