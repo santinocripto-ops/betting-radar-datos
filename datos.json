@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T20:57:37.166315+00:00",
+ "actualizado": "2026-09-07T21:05:30.068945+00:00",
  "partidos_vivo": [
   {
    "home": "HFX Wanderers FC",
@@ -119,17 +119,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Palermo",
-   "away": "Sampdoria",
-   "liga": "Serie B",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.26,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -182,7 +172,7 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-07",
    "es_hoy": true
   },
@@ -193,7 +183,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-07",
    "es_hoy": true
   },
@@ -244,16 +234,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49320.0,
-  "balance_total": 39320.0,
-  "balance_dia": -398.0,
-  "ganados": 2676,
-  "perdidos": 1183,
-  "pendientes": 5,
-  "ganados_dia": 18,
-  "perdidos_dia": 14,
+  "capital": 49165.0,
+  "balance_total": 39165.0,
+  "balance_dia": -553.0,
+  "ganados": 2677,
+  "perdidos": 1185,
+  "pendientes": 2,
+  "ganados_dia": 19,
+  "perdidos_dia": 16,
   "win_rate": 69.3,
-  "roi": 10.2,
+  "roi": 10.1,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -531,7 +521,7 @@
    "away": "Wisla Plock",
    "liga": "Ekstraklasa",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Jong Utrecht",
@@ -889,21 +879,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2696,
+  "n": 2698,
   "ganados": 1824,
   "win_rate": 68,
   "hoy": 20
  },
  "stats_dia": {
-  "ganados": 19,
-  "perdidos": 15,
-  "en_juego": 4,
-  "win_rate": 56
+  "ganados": 21,
+  "perdidos": 17,
+  "en_juego": 0,
+  "win_rate": 55
  },
  "stats_banker": {
-  "ganados": 83,
+  "ganados": 84,
   "perdidos": 33,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
