@@ -1,248 +1,68 @@
 {
- "actualizado": "2026-09-07T18:40:59.771069+00:00",
+ "actualizado": "2026-09-07T18:49:03.602589+00:00",
  "partidos_vivo": [
   {
-   "home": "Kalmar FF",
-   "away": "Djurgardens IF",
-   "liga": "Allsvenskan",
-   "minuto": 59,
+   "home": "Dunav Ruse",
+   "away": "Slavia Sofia",
+   "liga": "First League",
+   "minuto": 57,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 38,
+   "momentum_away": 62,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Malmo FF",
-   "away": "AIK Stockholm",
-   "liga": "Allsvenskan",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Orebro SK",
-   "away": "Ostersunds FK",
-   "liga": "Superettan",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Orebro SK buscará el empate",
-    "🎯 10 remates totales",
-    "⏱ 35 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "FC Midtjylland",
-   "away": "FC Nordsjaelland",
-   "liga": "Superliga",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Hapoel Tel Aviv",
-   "away": "Hapoel Ramat Gan",
+   "home": "Hapoel Beer Sheva",
+   "away": "Maccabi Tel Aviv",
    "liga": "Ligat Ha'al",
    "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga goleadora: 3.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
    ]
   },
   {
-   "home": "Göztepe",
-   "away": "Gaziantep FK",
-   "liga": "Süper Lig",
-   "minuto": 57,
-   "marcador": "1-4",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "🔥 5 goles — partido muy abierto",
-    "⚡ Göztepe pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Rizespor",
-   "away": "Alanyaspor",
-   "liga": "Süper Lig",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Mjallby AIF",
-   "away": "IFK Goteborg",
-   "liga": "Allsvenskan",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.6,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Mjallby AIF buscará el empate",
-    "🎯 20 remates totales — partido muy intenso",
-    "🎯 5 remates a puerta"
-   ]
-  },
-  {
-   "home": "Lusitânia Lourosa",
-   "away": "AVS",
-   "liga": "Segunda Liga",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.2,
-   "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 24 remates totales — partido muy intenso",
-    "🎯 9 remates a puerta — peligro constante"
-   ]
-  },
-  {
-   "home": "Getafe",
-   "away": "Celta Vigo",
-   "liga": "La Liga",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚽ 1 gol — Celta Vigo buscará el empate"
-   ]
-  },
-  {
-   "home": "Mardin 1969",
-   "away": "Bodrum FK",
-   "liga": "1. Lig",
-   "minuto": 54,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 91,
-   "momentum_away": 9,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚽ 1 gol — Bodrum FK buscará el empate",
-    "🎯 8 remates totales"
-   ]
-  },
-  {
-   "home": "KFUM II",
-   "away": "Lokomotiv Oslo",
-   "liga": "3. Division - Girone 1",
+   "home": "Universitatea Craiova",
+   "away": "Universitatea Cluj",
+   "liga": "Liga I",
    "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 94,
+   "momentum_away": 6,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 5.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Universitatea Cluj pierde por 3 — atacará sin freno",
+    "🎯 14 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 25,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -467,7 +287,7 @@
   "balance_dia": 433.0,
   "ganados": 2667,
   "perdidos": 1170,
-  "pendientes": 23,
+  "pendientes": 24,
   "ganados_dia": 9,
   "perdidos_dia": 1,
   "win_rate": 69.5,
@@ -475,7 +295,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3860,
+  "con_cuota_media": 3861,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1115,7 +935,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 1,
-  "en_juego": 24,
+  "en_juego": 25,
   "win_rate": 90
  },
  "stats_banker": {
