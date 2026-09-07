@@ -1,248 +1,68 @@
 {
- "actualizado": "2026-09-07T17:39:10.232562+00:00",
+ "actualizado": "2026-09-07T17:47:05.546565+00:00",
  "partidos_vivo": [
   {
-   "home": "Wieczysta Kraków",
-   "away": "Zaglebie Lubin",
-   "liga": "Ekstraklasa",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Cagliari",
+   "away": "Lecce",
+   "liga": "Serie A",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.3,
    "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "⚽ 1 gol — Lecce buscará el empate"
+   ]
+  },
+  {
+   "home": "Dinamo Brest",
+   "away": "Bate Borisov",
+   "liga": "Premier League",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 82,
+   "momentum_away": 18,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Union Berlin W",
-   "away": "Eintracht Frankfurt W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.3 goles/partido",
-    "⚽ 1 gol — Union Berlin W buscará el empate",
-    "🎯 20 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Molde II",
-   "away": "Aalesund II",
-   "liga": "3. Division - Girone 2",
-   "minuto": 52,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.39 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Drøbak / Frogn",
-   "away": "Lyn II",
-   "liga": "3. Division - Girone 6",
-   "minuto": 60,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Pafos",
-   "away": "Olympiakos",
-   "liga": "1. Division",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Ilves II",
-   "away": "P-Iirot",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 58,
-   "marcador": "2-0",
+   "home": "Rubin",
+   "away": "Akhmat",
+   "liga": "Premier League",
+   "minuto": 56,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.8,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 41,
+   "momentum_away": 59,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.45 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Hiska Nacional",
-   "away": "Chaco",
-   "liga": "Nacional B",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Maccabi Kiryat Gat",
-   "away": "Maccabi Herzliya",
-   "liga": "Liga Leumit",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Kafr Qasim",
-   "away": "Ironi Modi'in",
-   "liga": "Liga Leumit",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Molinos El Pirata",
-   "away": "Carlos A. Mannucci",
-   "liga": "Segunda División",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Riga",
-   "away": "BFC Daugavpils",
-   "liga": "Virsliga",
-   "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Riga buscará el empate"
-   ]
-  },
-  {
-   "home": "Rīgas FS",
-   "away": "FK Liepaja",
-   "liga": "Virsliga",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 21 remates totales — partido muy intenso"
    ]
   }
  ],
- "partidos_vivo_total": 21,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
