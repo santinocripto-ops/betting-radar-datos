@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-07T22:37:09.179138+00:00",
+ "actualizado": "2026-09-07T22:45:03.517983+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:44",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:26",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Barranquilla: Katrina Scott vs Varvara Lepchenko",
+   "apuesta": "SI, Barranquilla: Katrina Scott ganara",
+   "usdc": 21127,
+   "prob": 57.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:44"
+  },
+  {
    "titulo": "Will EC Vitória win on 2026-09-07?",
    "apuesta": "SI, EC Vitória ganara",
    "usdc": 102418,
@@ -777,15 +786,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xf",
    "hora": "19:53"
-  },
-  {
-   "titulo": "Will Getafe CF win on 2026-09-07?",
-   "apuesta": "NO, Getafe no ganara",
-   "usdc": 294025,
-   "prob": 65.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "18:41"
   }
  ],
  "stats_gt": {
