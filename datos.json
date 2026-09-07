@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-07T12:39:00.418828+00:00",
+ "actualizado": "2026-09-07T12:46:41.412776+00:00",
  "partidos_vivo": [
   {
-   "home": "Orenburg II",
-   "away": "Izhevsk",
-   "liga": "Second League - Group 4",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "East Bengal",
+   "away": "Mohun Bagan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚽ Liga muy goleadora: 3.66 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — East Bengal buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
