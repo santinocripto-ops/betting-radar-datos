@@ -1,30 +1,36 @@
 {
- "actualizado": "2026-09-07T11:59:13.764057+00:00",
+ "actualizado": "2026-09-07T12:08:35.282629+00:00",
  "partidos_vivo": [
   {
-   "home": "I.S.P.E",
-   "away": "Sagaing United",
-   "liga": "National League",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Orenburg II",
+   "away": "Izhevsk",
+   "liga": "Second League - Group 4",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.2,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Jong Utrecht vs FC Eindhoven · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "03:16",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:24",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,7 +146,7 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1219
+   "n_historico": 1220
   },
   {
    "clave": "btts",
@@ -160,7 +160,7 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1219
+   "n_historico": 1220
   }
  ],
  "gol_temprano": [
@@ -239,7 +239,7 @@
     "away": "Sagaing United",
     "liga": "National League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -367,7 +367,7 @@
     "away": "Sagaing United",
     "liga": "National League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -463,7 +463,7 @@
    }
   ],
   "balance": {
-   "ganados": 1460,
+   "ganados": 1462,
    "perdidos": 978,
    "acierto": 59.9,
    "yield": 13.8,
