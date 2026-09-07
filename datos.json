@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T17:32:01.832929+00:00",
+ "actualizado": "2026-09-07T17:32:06.266037+00:00",
  "partidos_vivo": [
   {
    "home": "Wieczysta Kraków",
@@ -394,6 +394,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Bnei Sakhnin",
+   "away": "Beitar Jerusalem",
+   "liga": "Ligat Ha'al",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
    "home": "Rizespor",
    "away": "Alanyaspor",
    "liga": "Süper Lig",
@@ -441,17 +452,6 @@
    "home": "FC Midtjylland",
    "away": "FC Nordsjaelland",
    "liga": "Superliga",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07",
-   "es_hoy": true
-  },
-  {
-   "home": "Kalmar FF",
-   "away": "Djurgardens IF",
-   "liga": "Allsvenskan",
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
@@ -1075,7 +1075,7 @@
   "n": 2682,
   "ganados": 1820,
   "win_rate": 68,
-  "hoy": 14
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 9,
