@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T11:06:28.321307+00:00",
+ "actualizado": "2026-09-07T11:07:17.345825+00:00",
  "partidos_vivo": [
   {
    "home": "I.S.P.E",
@@ -25,6 +25,30 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Jong Utrecht vs FC Eindhoven · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.",
+   "hora": "13:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Al Jabalain vs Al Wehda Club · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
+   "hora": "13:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -72,34 +96,29 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:24",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "02:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "01:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Jong Utrecht",
+   "away": "FC Eindhoven",
+   "liga": "Eerste Divisie",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.39,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07"
+  },
+  {
+   "home": "Al Jabalain",
+   "away": "Al Wehda Club",
+   "liga": "Division 1",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.23,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -786,7 +805,7 @@
  "stats_banker": {
   "ganados": 82,
   "perdidos": 32,
-  "pendientes": 0,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
