@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T11:16:51.172322+00:00",
+ "actualizado": "2026-09-07T11:24:06.941549+00:00",
  "partidos_vivo": [
   {
    "home": "I.S.P.E",
@@ -474,6 +474,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Jong Utrecht",
+    "away": "FC Eindhoven",
+    "liga": "Eerste Divisie",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 3.37,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T18:00:00+00:00",
+    "ts": "2026-09-07T11:07:02.359617+00:00"
+   },
+   {
+    "home": "Al Jabalain",
+    "away": "Al Wehda Club",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 3.44,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T16:05:00+00:00",
+    "ts": "2026-09-07T11:06:55.180629+00:00"
+   },
+   {
     "home": "Arsenal",
     "away": "Chelsea",
     "liga": "Premier League",
@@ -667,42 +697,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-05T11:00:00+00:00",
     "ts": "2026-09-05T07:08:03.271729+00:00"
-   },
-   {
-    "home": "Wuhan Three Towns",
-    "away": "Qingdao Youth Island",
-    "liga": "Super League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.91,
-    "pinnacle": true,
-    "delta": 3.56,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T11:00:00+00:00",
-    "ts": "2026-09-05T07:08:04.776300+00:00"
-   },
-   {
-    "home": "Wuxi Wugou",
-    "away": "Yanbian Longding",
-    "liga": "League One",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 1.5,
-    "pinnacle": true,
-    "delta": 10.76,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-05T11:00:00+00:00",
-    "ts": "2026-09-05T10:05:23.101185+00:00"
    }
   ],
   "balance": {
    "ganados": 238,
    "perdidos": 94,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 71.7,
    "total": 332
   }
@@ -799,7 +799,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 1,
-  "en_juego": 0,
+  "en_juego": 2,
   "win_rate": 88
  },
  "stats_banker": {
