@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T16:13:23.723348+00:00",
+ "actualizado": "2026-09-07T16:20:41.301497+00:00",
  "partidos_vivo": [
   {
    "home": "Asteras Tripolis",
@@ -267,7 +267,7 @@
   "balance_dia": 372.0,
   "ganados": 2666,
   "perdidos": 1170,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 8,
   "perdidos_dia": 1,
   "win_rate": 69.5,
@@ -275,7 +275,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3840,
+  "con_cuota_media": 3841,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -872,7 +872,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 1,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 89
  },
  "stats_banker": {
