@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-07T07:00:30.219992+00:00",
+ "actualizado": "2026-09-07T07:08:03.401050+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "📊 INFORME SEMANAL — PRONÓSTICOS EN VIVO",
+   "hora": "09:08",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:47",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
