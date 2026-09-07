@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T02:57:19.623982+00:00",
+ "actualizado": "2026-09-07T03:04:33.860759+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -106,7 +106,7 @@
    "hora": "01:15",
    "resultado": "pendiente",
    "wr_historico": 62,
-   "n_historico": 1215
+   "n_historico": 1217
   },
   {
    "clave": "btts",
@@ -120,7 +120,7 @@
    "hora": "01:15",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1216
+   "n_historico": 1217
   }
  ],
  "gol_temprano": [
@@ -217,7 +217,7 @@
     "away": "Santos Laguna W",
     "liga": "Liga MX Femenil",
     "hora": "02:06",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -336,7 +336,7 @@
     "away": "Santos Laguna W",
     "liga": "Liga MX Femenil",
     "hora": "02:06",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -423,8 +423,8 @@
    }
   ],
   "balance": {
-   "ganados": 1457,
-   "perdidos": 974,
+   "ganados": 1459,
+   "perdidos": 975,
    "acierto": 59.9,
    "yield": 13.9,
    "cuota_media": 1.9
