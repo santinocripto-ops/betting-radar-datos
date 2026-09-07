@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T01:59:56.960461+00:00",
+ "actualizado": "2026-09-07T02:07:13.271610+00:00",
  "partidos_vivo": [
   {
    "home": "Orlando Pride W",
@@ -183,20 +183,20 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-07",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49846.0,
-  "balance_total": 39846.0,
-  "balance_dia": 128.0,
-  "ganados": 2662,
+  "capital": 49968.0,
+  "balance_total": 39968.0,
+  "balance_dia": 250.0,
+  "ganados": 2664,
   "perdidos": 1170,
-  "pendientes": 5,
-  "ganados_dia": 4,
+  "pendientes": 3,
+  "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.5,
   "roi": 10.4,
@@ -794,16 +794,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2677,
-  "ganados": 1815,
+  "n": 2679,
+  "ganados": 1817,
   "win_rate": 68,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 4,
+  "ganados": 6,
   "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 80
+  "en_juego": 1,
+  "win_rate": 86
  },
  "stats_banker": {
   "ganados": 82,
