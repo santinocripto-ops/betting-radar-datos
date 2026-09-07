@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T17:47:05.546565+00:00",
+ "actualizado": "2026-09-07T17:54:18.718495+00:00",
  "partidos_vivo": [
   {
    "home": "Cagliari",
@@ -68,6 +68,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:54",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:54",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:32",
    "tipo": "live"
   },
@@ -124,18 +136,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:41",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:41",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -214,6 +214,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Universitatea Craiova",
+   "away": "Universitatea Cluj",
+   "liga": "Liga I",
+   "minuto": 23,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
+  {
    "home": "Bnei Sakhnin",
    "away": "Beitar Jerusalem",
    "liga": "Ligat Ha'al",
@@ -263,17 +274,6 @@
    "liga": "1. Lig",
    "minuto": 17,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Midtjylland",
-   "away": "FC Nordsjaelland",
-   "liga": "Superliga",
-   "minuto": 16,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-07",
@@ -819,6 +819,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Alexander Zverev vs Luciano Darderi",
+   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
+   "usdc": 145455,
+   "prob": 89.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "19:53"
+  },
+  {
    "titulo": "Will Getafe CF win on 2026-09-07?",
    "apuesta": "NO, Getafe no ganara",
    "usdc": 294025,
@@ -880,22 +889,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "12:51"
-  },
-  {
-   "titulo": "Will Udinese Calcio win on 2026-09-07?",
-   "apuesta": "SI, Udinese Calcio ganara",
-   "usdc": 81343,
-   "prob": 34.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x4",
-   "hora": "07:02"
   }
  ],
  "stats_gt": {
   "n": 2682,
   "ganados": 1820,
   "win_rate": 68,
-  "hoy": 15
+  "hoy": 16
  },
  "stats_dia": {
   "ganados": 9,
