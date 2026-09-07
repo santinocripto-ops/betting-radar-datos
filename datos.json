@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T02:15:13.174862+00:00",
+ "actualizado": "2026-09-07T02:22:19.485405+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -430,15 +430,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Leon",
-   "away": "Club America",
-   "liga": "Leagues Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
