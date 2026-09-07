@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T20:07:04.964722+00:00",
+ "actualizado": "2026-09-07T20:14:44.107952+00:00",
  "partidos_vivo": [
   {
    "home": "Udinese",
@@ -666,8 +666,8 @@
     "cuota": 1.44,
     "pinnacle": true,
     "delta": 3.37,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-07T18:00:00+00:00",
     "ts": "2026-09-07T11:07:02.359617+00:00"
    },
@@ -838,11 +838,11 @@
    }
   ],
   "balance": {
-   "ganados": 239,
+   "ganados": 240,
    "perdidos": 95,
-   "pendientes": 4,
+   "pendientes": 3,
    "acierto": 71.6,
-   "total": 334
+   "total": 335
   }
  },
  "mejor_dia": {
