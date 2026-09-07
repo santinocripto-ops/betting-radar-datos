@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T15:56:27.122021+00:00",
+ "actualizado": "2026-09-07T16:04:10.286636+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -120,7 +120,7 @@
    "hora": "14:30",
    "resultado": "pendiente",
    "wr_historico": 80,
-   "n_historico": 176
+   "n_historico": 178
   },
   {
    "clave": "over25",
@@ -134,7 +134,7 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1223
+   "n_historico": 1225
   },
   {
    "clave": "btts",
@@ -148,7 +148,7 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1222
+   "n_historico": 1223
   }
  ],
  "gol_temprano": [
@@ -170,7 +170,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-07",
    "es_hoy": true
   },
@@ -210,16 +210,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50029.0,
-  "balance_total": 40029.0,
-  "balance_dia": 311.0,
-  "ganados": 2665,
+  "capital": 50090.0,
+  "balance_total": 40090.0,
+  "balance_dia": 372.0,
+  "ganados": 2666,
   "perdidos": 1170,
-  "pendientes": 5,
-  "ganados_dia": 7,
+  "pendientes": 4,
+  "ganados_dia": 8,
   "perdidos_dia": 1,
   "win_rate": 69.5,
-  "roi": 10.4,
+  "roi": 10.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -296,7 +296,7 @@
     "away": "Iğdır FK",
     "liga": "1. Lig",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -314,7 +314,7 @@
     "away": "Víkingur II",
     "liga": "1. Deild",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -433,7 +433,7 @@
     "away": "Víkingur II",
     "liga": "1. Deild",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -484,8 +484,8 @@
    }
   ],
   "balance": {
-   "ganados": 1465,
-   "perdidos": 980,
+   "ganados": 1466,
+   "perdidos": 982,
    "acierto": 59.9,
    "yield": 13.8,
    "cuota_media": 1.9
@@ -812,16 +812,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2680,
-  "ganados": 1818,
+  "n": 2681,
+  "ganados": 1819,
   "win_rate": 68,
   "hoy": 5
  },
  "stats_dia": {
-  "ganados": 7,
+  "ganados": 8,
   "perdidos": 1,
-  "en_juego": 6,
-  "win_rate": 88
+  "en_juego": 5,
+  "win_rate": 89
  },
  "stats_banker": {
   "ganados": 82,
