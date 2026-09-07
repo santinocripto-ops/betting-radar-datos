@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-07T00:17:10.403848+00:00",
+ "actualizado": "2026-09-07T00:24:26.292778+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:24",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "23:45",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:59",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,70 +125,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "FBC Melgar",
-   "away": "ADT",
+   "home": "Nacional Potosí",
+   "away": "Blooming",
    "liga": "Primera División",
-   "minuto": 16,
+   "minuto": 22,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
-  },
-  {
-   "home": "Palestino",
-   "away": "Universidad de Concepcion",
-   "liga": "Primera División",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
-  },
-  {
-   "home": "River Plate",
-   "away": "Independ. Rivadavia",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 16,
-   "score": 9.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
-  },
-  {
-   "home": "Leon",
-   "away": "Club America",
-   "liga": "Leagues Cup",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
-  },
-  {
-   "home": "The Strongest",
-   "away": "Real Tomayapo",
-   "liga": "Primera División",
-   "minuto": 16,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
-  },
-  {
-   "home": "Ponte Preta",
-   "away": "São Bernardo",
-   "liga": "Serie B",
-   "minuto": 20,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-06",
-   "es_hoy": false
+   "fecha": "2026-09-07",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -800,7 +745,7 @@
   "n": 2671,
   "ganados": 1810,
   "win_rate": 68,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
