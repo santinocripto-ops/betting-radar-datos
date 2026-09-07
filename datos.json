@@ -1,9 +1,96 @@
 {
- "actualizado": "2026-09-07T14:57:51.549274+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-07T15:06:32.077508+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Al Wahda U23",
+   "away": "Al Dhafra U23",
+   "liga": "Pro League U23",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.08 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Al Dhafra U23 buscará el empate"
+   ]
+  },
+  {
+   "home": "Ajman U23",
+   "away": "Al Nasr U23",
+   "liga": "Pro League U23",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.08 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "FC Isloch Minsk R.",
+   "away": "Arsenal",
+   "liga": "Premier League",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 100,
+   "momentum_away": 0,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "⚽ 1 gol — Arsenal buscará el empate",
+    "⏱ 43 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Struga",
+   "away": "Sileks",
+   "liga": "First League",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +156,6 @@
    "texto": "⚽ Al Jabalain vs Al Wehda Club · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.23 (8 casas)",
    "hora": "13:07",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -258,7 +339,7 @@
     "away": "Murom",
     "liga": "Second League - Group 2",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "BTTS",
     "tanda": 1
    },
