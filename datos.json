@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T12:24:01.302938+00:00",
+ "actualizado": "2026-09-07T12:31:34.393217+00:00",
  "partidos_vivo": [
   {
    "home": "Orenburg II",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:31",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "03:23",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:16",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -718,6 +718,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 94517,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "14:31"
+  },
+  {
    "titulo": "LoL: Invictus Gaming vs LGD Gaming (BO5) - LPL Playoffs",
    "apuesta": "SI, LoL: Invictus Gaming ganara",
    "usdc": 105000,
@@ -779,15 +788,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "23:45"
-  },
-  {
-   "titulo": "Will Sevilla FC win on 2026-09-06?",
-   "apuesta": "NO, Sevilla no ganara",
-   "usdc": 36073,
-   "prob": 13.7,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:59"
   }
  ],
  "stats_gt": {
