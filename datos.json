@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T23:24:43.409870+00:00",
+ "actualizado": "2026-09-07T23:32:34.643619+00:00",
  "partidos_vivo": [
   {
    "home": "Carabobo FC",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:32",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:32",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:40",
    "tipo": "live"
   }
  ],
@@ -219,7 +219,7 @@
   "balance_dia": 0.0,
   "ganados": 2677,
   "perdidos": 1185,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.3,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3865,
+  "con_cuota_media": 3866,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -737,6 +737,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Iva Jovic vs Coco Gauff",
+   "apuesta": "SI, US Open WTA: Iva Jovic ganara",
+   "usdc": 68686,
+   "prob": 30.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "01:32"
+  },
+  {
+   "titulo": "US Open WTA: Iva Jovic vs Coco Gauff",
+   "apuesta": "SI, US Open WTA: Iva Jovic ganara",
+   "usdc": 84875,
+   "prob": 30.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "01:32"
+  },
+  {
    "titulo": "Barranquilla: Katrina Scott vs Varvara Lepchenko",
    "apuesta": "SI, Barranquilla: Katrina Scott ganara",
    "usdc": 21127,
@@ -789,24 +807,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "20:26"
-  },
-  {
-   "titulo": "US Open WTA: Naomi Osaka vs Elena Rybakina",
-   "apuesta": "SI, US Open WTA: Naomi Osaka ganara",
-   "usdc": 316476,
-   "prob": 42.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "20:01"
-  },
-  {
-   "titulo": "US Open ATP: Alexander Zverev vs Luciano Darderi",
-   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
-   "usdc": 145455,
-   "prob": 89.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xf",
-   "hora": "19:53"
   }
  ],
  "stats_gt": {
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
