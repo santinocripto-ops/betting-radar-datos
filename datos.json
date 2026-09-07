@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T19:05:25.707377+00:00",
+ "actualizado": "2026-09-07T19:05:36.945835+00:00",
  "partidos_vivo": [
   {
    "home": "Dunav Ruse",
@@ -67,6 +67,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:05",
    "tipo": "live"
@@ -130,12 +136,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:08",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:01",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -157,15 +157,6 @@
    "cuota": 1.39,
    "resultado": "pendiente",
    "fecha": "2026-09-07"
-  },
-  {
-   "home": "Al Jabalain",
-   "away": "Al Wehda Club",
-   "liga": "Division 1",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.23,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07"
   }
  ],
  "mejores_dia": [
@@ -181,7 +172,7 @@
    "hora": "14:30",
    "resultado": "pendiente",
    "wr_historico": 80,
-   "n_historico": 178
+   "n_historico": 181
   },
   {
    "clave": "over25",
@@ -195,7 +186,7 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 62,
-   "n_historico": 1227
+   "n_historico": 1234
   },
   {
    "clave": "btts",
@@ -209,10 +200,21 @@
    "hora": "01:15",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1224
+   "n_historico": 1234
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Udinese",
+   "away": "Lazio",
+   "liga": "Serie A",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-07",
+   "es_hoy": true
+  },
   {
    "home": "Pogon Szczecin",
    "away": "Wisla Plock",
@@ -267,35 +269,24 @@
    "resultado": "pendiente",
    "fecha": "2026-09-07",
    "es_hoy": true
-  },
-  {
-   "home": "Rizespor",
-   "away": "Alanyaspor",
-   "liga": "Süper Lig",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-07",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50151.0,
-  "balance_total": 40151.0,
-  "balance_dia": 433.0,
-  "ganados": 2667,
-  "perdidos": 1170,
-  "pendientes": 24,
-  "ganados_dia": 9,
-  "perdidos_dia": 1,
-  "win_rate": 69.5,
-  "roi": 10.5,
+  "capital": 49775.0,
+  "balance_total": 39775.0,
+  "balance_dia": 57.0,
+  "ganados": 2675,
+  "perdidos": 1178,
+  "pendientes": 9,
+  "ganados_dia": 17,
+  "perdidos_dia": 9,
+  "win_rate": 69.4,
+  "roi": 10.3,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3861,
+  "con_cuota_media": 3862,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -404,7 +395,7 @@
     "away": "Aalesund II",
     "liga": "3. Division - Girone 2",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -413,7 +404,7 @@
     "away": "Lyn II",
     "liga": "3. Division - Girone 6",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -422,7 +413,7 @@
     "away": "KäPa",
     "liga": "Ykkösliiga",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -523,7 +514,7 @@
     "away": "Aalesund II",
     "liga": "3. Division - Girone 2",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -532,7 +523,7 @@
     "away": "Lyn II",
     "liga": "3. Division - Girone 6",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -541,7 +532,7 @@
     "away": "Eintracht Frankfurt W",
     "liga": "Frauen Bundesliga",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -550,20 +541,27 @@
     "away": "Muaither SC",
     "liga": "Second Division",
     "hora": "18:15",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1467,
-   "perdidos": 984,
-   "acierto": 59.9,
+   "ganados": 1477,
+   "perdidos": 991,
+   "acierto": 59.8,
    "yield": 13.7,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Jong Utrecht",
+   "away": "FC Eindhoven",
+   "liga": "Eerste Divisie",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Bnei Sakhnin",
    "away": "Beitar Jerusalem",
@@ -576,35 +574,28 @@
    "away": "IFK Goteborg",
    "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Malmo FF",
    "away": "AIK Stockholm",
    "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "FC Midtjylland",
    "away": "FC Nordsjaelland",
    "liga": "Superliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Kalmar FF",
    "away": "Djurgardens IF",
    "liga": "Allsvenskan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Rizespor",
-   "away": "Alanyaspor",
-   "liga": "Süper Lig",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -927,22 +918,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2682,
-  "ganados": 1820,
+  "n": 2692,
+  "ganados": 1824,
   "win_rate": 68,
-  "hoy": 19
+  "hoy": 20
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 1,
-  "en_juego": 25,
-  "win_rate": 90
+  "ganados": 17,
+  "perdidos": 10,
+  "en_juego": 9,
+  "win_rate": 63
  },
  "stats_banker": {
   "ganados": 82,
-  "perdidos": 32,
-  "pendientes": 3,
-  "win_rate": 72
+  "perdidos": 33,
+  "pendientes": 2,
+  "win_rate": 71
  },
  "marca": {
   "nombre": "Neural Trade IA",
