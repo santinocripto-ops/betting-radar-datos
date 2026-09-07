@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T12:08:35.282629+00:00",
+ "actualizado": "2026-09-07T12:16:28.926013+00:00",
  "partidos_vivo": [
   {
    "home": "Orenburg II",
@@ -504,6 +504,21 @@
     "ts": "2026-09-07T11:06:55.180629+00:00"
    },
    {
+    "home": "FC Voluntari",
+    "away": "Arges Pitesti",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.46,
+    "pinnacle": true,
+    "delta": 4.38,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-07T14:30:00+00:00",
+    "ts": "2026-09-07T12:08:35.540123+00:00"
+   },
+   {
     "home": "Arsenal",
     "away": "Chelsea",
     "liga": "Premier League",
@@ -682,27 +697,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-05T11:30:00+00:00",
     "ts": "2026-09-05T10:05:28.507983+00:00"
-   },
-   {
-    "home": "Holstein Kiel",
-    "away": "1. FC Nürnberg",
-    "liga": "2. Bundesliga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.44,
-    "pinnacle": true,
-    "delta": 3.51,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T11:00:00+00:00",
-    "ts": "2026-09-05T07:08:03.271729+00:00"
    }
   ],
   "balance": {
    "ganados": 238,
    "perdidos": 94,
-   "pendientes": 2,
+   "pendientes": 3,
    "acierto": 71.7,
    "total": 332
   }
