@@ -1,44 +1,24 @@
 {
- "actualizado": "2026-09-07T21:05:30.068945+00:00",
+ "actualizado": "2026-09-07T21:22:42.519855+00:00",
  "partidos_vivo": [
   {
-   "home": "HFX Wanderers FC",
-   "away": "Cavalry FC",
-   "liga": "Canadian Premier League",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 1 gol — HFX Wanderers FC buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Estoril",
-   "away": "Arouca",
-   "liga": "Primeira Liga",
-   "minuto": 53,
+   "home": "Portland Timbers II",
+   "away": "Vancouver Whitecaps II",
+   "liga": "MLS Next Pro",
+   "minuto": 62,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.2,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
@@ -536,27 +516,6 @@
    "liga": "Ligat Ha'al",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Mjallby AIF",
-   "away": "IFK Goteborg",
-   "liga": "Allsvenskan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Malmo FF",
-   "away": "AIK Stockholm",
-   "liga": "Allsvenskan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "FC Midtjylland",
-   "away": "FC Nordsjaelland",
-   "liga": "Superliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -586,8 +545,8 @@
     "cuota": 1.17,
     "pinnacle": true,
     "delta": 3.61,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-07T18:30:00+00:00",
     "ts": "2026-09-07T14:05:25.512876+00:00"
    },
@@ -601,8 +560,8 @@
     "cuota": 1.3,
     "pinnacle": true,
     "delta": 3.44,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-07T18:30:00+00:00",
     "ts": "2026-09-07T14:05:25.860860+00:00"
    },
@@ -788,11 +747,11 @@
    }
   ],
   "balance": {
-   "ganados": 240,
+   "ganados": 242,
    "perdidos": 95,
-   "pendientes": 3,
-   "acierto": 71.6,
-   "total": 335
+   "pendientes": 1,
+   "acierto": 71.8,
+   "total": 337
   }
  },
  "mejor_dia": {
