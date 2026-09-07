@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-07T21:22:42.519855+00:00",
+ "actualizado": "2026-09-07T21:40:06.523825+00:00",
  "partidos_vivo": [
   {
    "home": "Portland Timbers II",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:39",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -83,12 +89,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:08",
    "tipo": "live"
   },
   {
@@ -509,13 +509,6 @@
    "liga": "Eerste Divisie",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Bnei Sakhnin",
-   "away": "Beitar Jerusalem",
-   "liga": "Ligat Ha'al",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -765,6 +758,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Karen Khachanov vs Learner Tien",
+   "apuesta": "SI, US Open ATP: Karen Khachanov ganara",
+   "usdc": 99194,
+   "prob": 37.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:39"
+  },
+  {
    "titulo": "Minnesota Twins vs. Detroit Tigers: O/U 7.5",
    "apuesta": "SI, mas de 7.5 goles",
    "usdc": 105217,
@@ -826,15 +828,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "18:41"
-  },
-  {
-   "titulo": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
-   "apuesta": "SI, US Open WTA: Mirra Andreeva ganara",
-   "usdc": 57178,
-   "prob": 71.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "17:56"
   }
  ],
  "stats_gt": {
