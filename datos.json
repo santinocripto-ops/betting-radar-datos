@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T17:15:44.917133+00:00",
+ "actualizado": "2026-09-08T17:22:52.216474+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Hazm",
@@ -126,6 +126,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:05",
@@ -190,12 +196,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:02",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -868,6 +868,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Real Madrid CF win on 2026-09-08?",
+   "apuesta": "NO, Real Madrid no ganara",
+   "usdc": 102706,
+   "prob": 38.5,
+   "n_traders": 2,
+   "trader": "BreakTheBank",
+   "hora": "19:22"
+  },
+  {
    "titulo": "Will AEK win on 2026-09-08?",
    "apuesta": "SI, AEK ganara",
    "usdc": 93046,
@@ -929,15 +938,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "18:02"
-  },
-  {
-   "titulo": "US Open WTA: Aryna Sabalenka vs Linda Noskova",
-   "apuesta": "SI, US Open WTA: Aryna Sabalenka ganara",
-   "usdc": 51312,
-   "prob": 77.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "17:47"
   }
  ],
  "stats_gt": {
