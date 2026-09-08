@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T16:48:52.435329+00:00",
+ "actualizado": "2026-09-08T16:56:51.217472+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Ettifaq",
@@ -68,6 +68,24 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "18:56",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:56",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:56",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "18:48",
    "tipo": "smart_money"
   },
@@ -118,24 +136,6 @@
    "texto": "──────────────────────────────",
    "hora": "17:47",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:24",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -808,6 +808,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will AEK win on 2026-09-08?",
+   "apuesta": "SI, AEK ganara",
+   "usdc": 93046,
+   "prob": 56.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "18:56"
+  },
+  {
+   "titulo": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+   "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
+   "usdc": 295654,
+   "prob": 58.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:56"
+  },
+  {
+   "titulo": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+   "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
+   "usdc": 497466,
+   "prob": 59.5,
+   "n_traders": 2,
+   "trader": "BreakTheBank",
+   "hora": "18:56"
+  },
+  {
    "titulo": "Antalya 4: Yasmine Kabbaj vs Cagla Buyukakcay",
    "apuesta": "SI, Antalya 4: Yasmine Kabbaj ganara",
    "usdc": 16397,
@@ -851,33 +878,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "17:47"
-  },
-  {
-   "titulo": "Counter-Strike: G2 vs Astralis - Map 1 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 240860,
-   "prob": 62.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "15:57"
-  },
-  {
-   "titulo": "Antalya 4: Ipek Oz vs Rositsa Dencheva",
-   "apuesta": "SI, Antalya 4: Ipek Oz ganara",
-   "usdc": 16235,
-   "prob": 59.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:04"
-  },
-  {
-   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
-   "apuesta": "SI, Counter-Strike: G2 ganara",
-   "usdc": 24151,
-   "prob": 70.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "13:35"
   }
  ],
  "stats_gt": {
