@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-08T02:30:15.924154+00:00",
+ "actualizado": "2026-09-08T02:37:17.328408+00:00",
  "partidos_vivo": [
   {
-   "home": "AD Cofutpa",
-   "away": "Municipal Grecia",
-   "liga": "Liga de Ascenso",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Atletico Nacional",
+   "away": "Deportivo Cali",
+   "liga": "Copa Colombia",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -16,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚽ Liga por encima de la media: 2.74 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
