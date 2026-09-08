@@ -1,9 +1,27 @@
 {
- "actualizado": "2026-09-08T06:56:03.898876+00:00",
+ "actualizado": "2026-09-08T07:03:53.349484+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Al Anwar vs Al Taee · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (7 casas)",
+   "hora": "09:03",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -57,28 +75,20 @@
    "texto": "──────────────────────────────",
    "hora": "01:32",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:24",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:44",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Al Anwar",
+   "away": "Al Taee",
+   "liga": "Division 1",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.22,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -803,7 +813,7 @@
  "stats_banker": {
   "ganados": 84,
   "perdidos": 33,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
