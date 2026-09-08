@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T13:43:25.126199+00:00",
+ "actualizado": "2026-09-08T13:50:50.723245+00:00",
  "partidos_vivo": [
   {
    "home": "Coimbra U20",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:50",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -84,12 +90,6 @@
    "texto": "⚽ Al Anwar vs Al Taee · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (7 casas)",
    "hora": "09:03",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:03",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
