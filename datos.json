@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-08T11:20:20.016610+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-08T11:28:07.354948+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Estoril U23",
+   "away": "Famalicão U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 59,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Estoril U23 buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -512,6 +533,21 @@
     "ts": "2026-09-08T07:03:42.843141+00:00"
    },
    {
+    "home": "Al Anwar",
+    "away": "Al Taee",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 4.84,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T17:30:00+00:00",
+    "ts": "2026-09-08T11:07:11.250888+00:00"
+   },
+   {
     "home": "AEK Athens FC",
     "away": "Lask Linz",
     "liga": "UEFA Champions League",
@@ -705,27 +741,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-06T15:15:00+00:00",
     "ts": "2026-09-06T13:05:31.535542+00:00"
-   },
-   {
-    "home": "Arka Gdynia",
-    "away": "ŁKS Łódź",
-    "liga": "I Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.4,
-    "pinnacle": true,
-    "delta": 4.11,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-06T12:30:00+00:00",
-    "ts": "2026-09-06T12:15:06.270529+00:00"
    }
   ],
   "balance": {
    "ganados": 242,
    "perdidos": 96,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 71.6,
    "total": 338
   }
