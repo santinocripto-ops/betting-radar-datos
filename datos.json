@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T03:05:57.016456+00:00",
+ "actualizado": "2026-09-08T03:13:35.594422+00:00",
  "partidos_vivo": [
   {
    "home": "Atletico Nacional",
@@ -495,15 +495,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Vitoria",
-   "away": "Gremio",
-   "liga": "Serie A",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
