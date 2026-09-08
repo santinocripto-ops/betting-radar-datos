@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-08T02:00:51.085465+00:00",
+ "actualizado": "2026-09-08T02:08:39.035394+00:00",
  "partidos_vivo": [
   {
-   "home": "Emelec",
-   "away": "Manta FC",
-   "liga": "Liga Pro",
-   "minuto": 51,
+   "home": "AD Cofutpa",
+   "away": "Municipal Grecia",
+   "liga": "Liga de Ascenso",
+   "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 40,
-   "momentum_away": 60,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "⏱ 39 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Orense SC",
-   "away": "Guayaquil City FC",
-   "liga": "Liga Pro",
-   "minuto": 51,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "🎯 16 remates totales",
-    "⏱ 39 minutos por jugar — tiempo suficiente"
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -133,7 +113,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 80,
-   "n_historico": 183
+   "n_historico": 184
   },
   {
    "clave": "over25",
@@ -147,7 +127,7 @@
    "hora": "01:06",
    "resultado": "pendiente",
    "wr_historico": 62,
-   "n_historico": 1235
+   "n_historico": 1236
   },
   {
    "clave": "btts",
@@ -161,7 +141,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1236
+   "n_historico": 1238
   }
  ],
  "gol_temprano": [
@@ -311,7 +291,7 @@
     "away": "Manta FC",
     "liga": "Liga Pro",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -508,9 +488,9 @@
    }
   ],
   "balance": {
-   "ganados": 1479,
-   "perdidos": 992,
-   "acierto": 59.9,
+   "ganados": 1480,
+   "perdidos": 994,
+   "acierto": 59.8,
    "yield": 13.7,
    "cuota_media": 1.9
   }
