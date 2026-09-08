@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T15:09:17.127114+00:00",
+ "actualizado": "2026-09-08T15:17:32.700982+00:00",
  "partidos_vivo": [
   {
    "home": "Ryazan",
@@ -88,6 +88,24 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:44",
    "tipo": "live"
   },
@@ -138,24 +156,6 @@
    "texto": "⚽ Ulsan Hyundai FC vs FC Seoul · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "11:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -215,6 +215,39 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Lahti",
+   "away": "Mariehamn",
+   "liga": "Veikkausliiga",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
+  },
+  {
+   "home": "Ilves",
+   "away": "FF Jaro",
+   "liga": "Veikkausliiga",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
+  },
+  {
+   "home": "Kalju Nomme",
+   "away": "Nõmme United",
+   "liga": "Meistriliiga",
+   "minuto": 16,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
+  },
   {
    "home": "Trans Narva",
    "away": "Flora Tallinn",
@@ -834,7 +867,7 @@
   "n": 2701,
   "ganados": 1826,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 2,
