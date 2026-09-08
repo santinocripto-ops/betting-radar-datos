@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T06:34:58.642243+00:00",
+ "actualizado": "2026-09-08T06:42:07.024638+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "08:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "00:44",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:29",
    "tipo": "smart_money"
   }
  ],
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 95216,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "08:41"
+  },
+  {
    "titulo": "Club Brugge KV vs. Aston Villa FC: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 106898,
@@ -777,15 +786,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "00:44"
-  },
-  {
-   "titulo": "Will EC Vitória win on 2026-09-07?",
-   "apuesta": "SI, EC Vitória ganara",
-   "usdc": 102418,
-   "prob": 45.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "00:29"
   }
  ],
  "stats_gt": {
