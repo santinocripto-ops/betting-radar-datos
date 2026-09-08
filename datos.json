@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-08T12:04:14.023350+00:00",
+ "actualizado": "2026-09-08T12:12:17.427941+00:00",
  "partidos_vivo": [
   {
-   "home": "Estoril U23",
-   "away": "Famalicão U23",
-   "liga": "Liga Revelação U23",
-   "minuto": 59,
+   "home": "Olympic Kingsway",
+   "away": "Perth",
+   "liga": "Western Australia NPL",
+   "minuto": 53,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Estoril U23 buscará el empate"
+    "⚽ 1 gol — Olympic Kingsway buscará el empate"
    ]
   }
  ],
@@ -518,6 +518,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Al-Ittihad FC",
+    "away": "Al-Fayha",
+    "liga": "Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.11,
+    "pinnacle": false,
+    "delta": 3.57,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T18:00:00+00:00",
+    "ts": "2026-09-08T12:04:14.322271+00:00"
+   },
+   {
     "home": "Al Anwar",
     "away": "Al Taee",
     "liga": "Division 1",
@@ -726,27 +741,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-06T15:30:00+00:00",
     "ts": "2026-09-06T15:21:43.732194+00:00"
-   },
-   {
-    "home": "Hellas Verona",
-    "away": "Arezzo",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 1.91,
-    "pinnacle": true,
-    "delta": 3.43,
-    "marcador": "5-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-06T15:15:00+00:00",
-    "ts": "2026-09-06T13:05:31.535542+00:00"
    }
   ],
   "balance": {
    "ganados": 242,
    "perdidos": 96,
-   "pendientes": 6,
+   "pendientes": 7,
    "acierto": 71.6,
    "total": 338
   }
