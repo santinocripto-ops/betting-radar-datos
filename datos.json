@@ -1,48 +1,248 @@
 {
- "actualizado": "2026-09-08T19:51:35.670792+00:00",
+ "actualizado": "2026-09-08T20:07:49.052096+00:00",
  "partidos_vivo": [
   {
-   "home": "Al-Qadisiyah FC",
-   "away": "Al-Ahli Jeddah",
-   "liga": "Pro League",
-   "minuto": 65,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Cardiff",
+   "away": "Stoke City",
+   "liga": "Championship",
+   "minuto": 57,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
+   "momentum_home": 56,
+   "momentum_away": 44,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Al-Ahli Jeddah pierde por 2 — atacará sin freno"
+    "⚽ 1 gol — Cardiff buscará el empate",
+    "🎯 22 remates totales — partido muy intenso",
+    "🎯 5 remates a puerta"
    ]
   },
   {
-   "home": "Atlanta United II",
-   "away": "Connecticut FC",
-   "liga": "MLS Next Pro",
-   "minuto": 63,
+   "home": "Watford",
+   "away": "Preston",
+   "liga": "Championship",
+   "minuto": 58,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 41,
+   "momentum_away": 59,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Watford buscará el empate",
+    "🎯 23 remates totales — partido muy intenso",
+    "🎯 7 remates a puerta"
+   ]
+  },
+  {
+   "home": "Wrexham",
+   "away": "Burnley",
+   "liga": "Championship",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 43,
+   "momentum_away": 57,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Wrexham buscará el empate",
+    "🎯 17 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Bournemouth",
+   "away": "Lincoln",
+   "liga": "League Cup",
+   "minuto": 57,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 93,
+   "momentum_away": 7,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ 1 gol — Lincoln buscará el empate",
+    "🎯 23 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Middlesbrough",
+   "liga": "League Cup",
+   "minuto": 56,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 38,
+   "momentum_away": 62,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Middlesbrough pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Leyton Orient",
+   "away": "Bradford",
+   "liga": "League Cup",
+   "minuto": 55,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Sunderland",
+   "away": "Hull City",
+   "liga": "League Cup",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 73,
+   "momentum_away": 27,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "Blackburn",
+   "away": "Sheffield Utd",
+   "liga": "Championship",
+   "minuto": 56,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.9,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Southampton",
+   "away": "Swansea",
+   "liga": "Championship",
+   "minuto": 56,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 18 remates totales",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Airdrie United",
+   "away": "St. Mirren U21",
+   "liga": "Challenge Cup",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.91 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Annan Athletic",
+   "away": "Motherwell U21",
+   "liga": "Challenge Cup",
+   "minuto": 56,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.91 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Banks O' Dee",
+   "away": "Forfar Athletic",
+   "liga": "Challenge Cup",
+   "minuto": 58,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.91 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Forfar Athletic buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 7,
+ "partidos_vivo_total": 57,
  "umbral_vivo": 7.0,
  "alertas": [
   {
