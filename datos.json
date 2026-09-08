@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T01:39:28.875668+00:00",
+ "actualizado": "2026-09-08T01:46:42.138714+00:00",
  "partidos_vivo": [
   {
    "home": "Emelec",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:46",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "21:28",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:05",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
