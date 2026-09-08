@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T10:59:28.215149+00:00",
+ "actualizado": "2026-09-08T11:07:10.976705+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "07:11",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:57",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,7 +125,7 @@
    "hora": "01:06",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1238
+   "n_historico": 1239
   },
   {
    "clave": "btts",
@@ -372,7 +372,7 @@
     "away": "Paro",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -486,7 +486,7 @@
    }
   ],
   "balance": {
-   "ganados": 1483,
+   "ganados": 1484,
    "perdidos": 996,
    "acierto": 59.8,
    "yield": 13.7,
