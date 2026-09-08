@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T16:56:51.217472+00:00",
+ "actualizado": "2026-09-08T17:05:09.378403+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Ettifaq",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:05",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "18:56",
@@ -130,12 +136,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:47",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -177,7 +177,7 @@
    "hora": "01:06",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1243
+   "n_historico": 1247
   },
   {
    "clave": "btts",
@@ -191,10 +191,21 @@
    "hora": "11:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1245
+   "n_historico": 1247
   }
  ],
  "gol_temprano": [
+  {
+   "home": "AEK Athens FC",
+   "away": "Lask Linz",
+   "liga": "UEFA Champions League",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
+  },
   {
    "home": "Kiffen",
    "away": "Atlantis",
@@ -224,7 +235,7 @@
    "minuto": 24,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -235,7 +246,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -246,32 +257,21 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-08",
-   "es_hoy": true
-  },
-  {
-   "home": "Kalju Nomme",
-   "away": "Nõmme United",
-   "liga": "Meistriliiga",
-   "minuto": 16,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-08",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49232.0,
-  "balance_total": 39232.0,
-  "balance_dia": 6.0,
-  "ganados": 2680,
-  "perdidos": 1186,
-  "pendientes": 10,
-  "ganados_dia": 2,
-  "perdidos_dia": 1,
+  "capital": 49160.0,
+  "balance_total": 39160.0,
+  "balance_dia": -66.0,
+  "ganados": 2684,
+  "perdidos": 1189,
+  "pendientes": 3,
+  "ganados_dia": 6,
+  "perdidos_dia": 4,
   "win_rate": 69.3,
   "roi": 10.1,
   "stake": 100.0,
@@ -359,7 +359,7 @@
     "away": "Flora Tallinn",
     "liga": "Meistriliiga",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -368,7 +368,7 @@
     "away": "Nõmme United",
     "liga": "Meistriliiga",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -433,7 +433,7 @@
     "away": "Famalicão U23",
     "liga": "Liga Revelação U23",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -496,7 +496,7 @@
     "away": "Flora Tallinn",
     "liga": "Meistriliiga",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -505,7 +505,7 @@
     "away": "Nõmme United",
     "liga": "Meistriliiga",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -538,10 +538,10 @@
    }
   ],
   "balance": {
-   "ganados": 1489,
+   "ganados": 1495,
    "perdidos": 999,
-   "acierto": 59.8,
-   "yield": 13.7,
+   "acierto": 59.9,
+   "yield": 13.9,
    "cuota_media": 1.9
   }
  },
@@ -551,14 +551,14 @@
    "away": "SJK",
    "liga": "Veikkausliiga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Ilves",
    "away": "FF Jaro",
    "liga": "Veikkausliiga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -881,16 +881,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2701,
-  "ganados": 1826,
+  "n": 2706,
+  "ganados": 1829,
   "win_rate": 68,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 2,
-  "en_juego": 10,
-  "win_rate": 50
+  "ganados": 6,
+  "perdidos": 5,
+  "en_juego": 3,
+  "win_rate": 55
  },
  "stats_banker": {
   "ganados": 84,
