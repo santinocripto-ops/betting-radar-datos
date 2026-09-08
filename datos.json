@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T16:11:49.714206+00:00",
+ "actualizado": "2026-09-08T16:19:02.699073+00:00",
  "partidos_vivo": [
   {
    "home": "Ilves",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:18",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:11",
@@ -169,12 +175,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:50",
    "tipo": "smart_money"
   }
  ],
@@ -309,7 +309,7 @@
   "balance_dia": 6.0,
   "ganados": 2680,
   "perdidos": 1186,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.3,
@@ -317,7 +317,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3874,
+  "con_cuota_media": 3875,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -848,6 +848,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Aston Villa FC win on 2026-09-08?",
+   "apuesta": "SI, Aston Villa ganara",
+   "usdc": 200000,
+   "prob": 34.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "18:18"
+  },
+  {
    "titulo": "Will Club Brugge KV win on 2026-09-08?",
    "apuesta": "NO, Club Brugge KV no ganara",
    "usdc": 177158,
@@ -909,15 +918,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "08:41"
-  },
-  {
-   "titulo": "Club Brugge KV vs. Aston Villa FC: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 106898,
-   "prob": 56.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "07:25"
   }
  ],
  "stats_gt": {
@@ -929,7 +929,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 50
  },
  "stats_banker": {
