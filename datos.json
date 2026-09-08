@@ -1,7 +1,88 @@
 {
- "actualizado": "2026-09-08T15:00:03.340537+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-08T15:09:17.127114+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Ryazan",
+   "away": "Spartak Kostroma",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 47,
+   "momentum_away": 53,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "⚡ Ryazan pierde por 2 — atacará sin freno",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Novohrad Lučenec",
+   "away": "Komárno",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.93 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Drenica Skënderaj",
+   "away": "Prishtina",
+   "liga": "Superliga",
+   "minuto": 48,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Marítimo U23",
+   "away": "Gil Vicente U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Marítimo U23 buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -102,7 +183,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 80,
-   "n_historico": 184
+   "n_historico": 185
   },
   {
    "clave": "over25",
@@ -116,7 +197,7 @@
    "hora": "01:06",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1241
+   "n_historico": 1242
   },
   {
    "clave": "btts",
@@ -371,7 +452,7 @@
     "away": "Damansara",
     "liga": "FA Cup",
     "hora": "14:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -422,7 +503,7 @@
    }
   ],
   "balance": {
-   "ganados": 1486,
+   "ganados": 1487,
    "perdidos": 999,
    "acierto": 59.8,
    "yield": 13.6,
