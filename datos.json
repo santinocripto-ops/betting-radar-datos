@@ -1,128 +1,28 @@
 {
- "actualizado": "2026-09-08T17:37:25.406861+00:00",
+ "actualizado": "2026-09-08T17:44:58.209350+00:00",
  "partidos_vivo": [
   {
-   "home": "Al-Hazm",
-   "away": "Al Taawon",
-   "liga": "Pro League",
-   "minuto": 56,
+   "home": "Tekstilshchik",
+   "away": "Arsenal Tula",
+   "liga": "Cup",
+   "minuto": 54,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 17,
-   "momentum_away": 83,
+   "momentum_home": 83,
+   "momentum_away": 17,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 1 gol — Al Taawon buscará el empate",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "Gnistan",
-   "away": "KuPS",
-   "liga": "Veikkausliiga",
-   "minuto": 54,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 52,
-   "momentum_away": 48,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 16 remates totales",
-    "🚩 7 córners"
-   ]
-  },
-  {
-   "home": "HPS",
-   "away": "PPJ",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 54,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Kiffen",
-   "away": "Atlantis",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 51,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Djerv",
-   "away": "Haugesund",
-   "liga": "NM Cupen",
-   "minuto": 53,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Tromsdalen Uil",
-   "away": "Strommen",
-   "liga": "NM Cupen",
-   "minuto": 57,
-   "marcador": "6-0",
-   "apuesta": "Over 6.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
+    "⚽ 1 gol — Arsenal Tula buscará el empate",
+    "🎯 8 remates totales",
+    "⏱ 36 minutos por jugar — tiempo suficiente"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
