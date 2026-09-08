@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T09:05:18.845502+00:00",
+ "actualizado": "2026-09-08T09:12:21.728596+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -512,6 +512,36 @@
     "ts": "2026-09-08T07:03:42.843141+00:00"
    },
    {
+    "home": "AEK Athens FC",
+    "away": "Lask Linz",
+    "liga": "UEFA Champions League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 9,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.73,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T16:45:00+00:00",
+    "ts": "2026-09-08T09:05:02.444703+00:00"
+   },
+   {
+    "home": "AEK Athens FC",
+    "away": "Lask Linz",
+    "liga": "UEFA Champions League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 6,
+    "cuota": 1.22,
+    "pinnacle": false,
+    "delta": 3.47,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T16:45:00+00:00",
+    "ts": "2026-09-08T09:05:02.688823+00:00"
+   },
+   {
     "home": "Damac",
     "away": "Al Ula",
     "liga": "Division 1",
@@ -525,6 +555,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-08T15:50:00+00:00",
     "ts": "2026-09-08T07:03:41.259253+00:00"
+   },
+   {
+    "home": "Ulsan Hyundai FC",
+    "away": "FC Seoul",
+    "liga": "K League 1",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.31,
+    "pinnacle": true,
+    "delta": 3.75,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T10:30:00+00:00",
+    "ts": "2026-09-08T09:05:05.018741+00:00"
    },
    {
     "home": "Nueva Chicago",
@@ -675,57 +720,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-06T12:30:00+00:00",
     "ts": "2026-09-06T12:15:06.270529+00:00"
-   },
-   {
-    "home": "Pendikspor",
-    "away": "Ümraniyespor",
-    "liga": "1. Lig",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.29,
-    "pinnacle": true,
-    "delta": 3.7,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-05T17:00:00+00:00",
-    "ts": "2026-09-05T16:14:44.092592+00:00"
-   },
-   {
-    "home": "Luton",
-    "away": "Leyton Orient",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.18,
-    "pinnacle": true,
-    "delta": 4.09,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T14:00:00+00:00",
-    "ts": "2026-09-05T13:07:05.400436+00:00"
-   },
-   {
-    "home": "Borussia Mönchengladbach",
-    "away": "SV Elversberg",
-    "liga": "Bundesliga",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.14,
-    "pinnacle": true,
-    "delta": 3.68,
-    "marcador": "3-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T13:30:00+00:00",
-    "ts": "2026-09-05T12:19:01.069208+00:00"
    }
   ],
   "balance": {
    "ganados": 242,
    "perdidos": 96,
-   "pendientes": 2,
+   "pendientes": 5,
    "acierto": 71.6,
    "total": 338
   }
@@ -816,7 +816,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 1,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 67
  },
  "stats_banker": {
