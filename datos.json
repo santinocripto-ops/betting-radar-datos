@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T21:07:39.965601+00:00",
+ "actualizado": "2026-09-08T21:26:29.959187+00:00",
  "partidos_vivo": [
   {
    "home": "Cardiff",
@@ -246,70 +246,70 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:55",
-   "tipo": "live"
-  },
-  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
-   "hora": "20:47",
+   "hora": "23:26",
    "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:04",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:04",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:04",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -743,8 +743,8 @@
     "cuota": 1.11,
     "pinnacle": false,
     "delta": 3.57,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-08T18:00:00+00:00",
     "ts": "2026-09-08T12:04:14.322271+00:00"
    },
@@ -758,8 +758,8 @@
     "cuota": 1.28,
     "pinnacle": true,
     "delta": 3.8,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-08T17:30:00+00:00",
     "ts": "2026-09-08T07:03:42.843141+00:00"
    },
@@ -773,8 +773,8 @@
     "cuota": 1.28,
     "pinnacle": true,
     "delta": 4.84,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-08T17:30:00+00:00",
     "ts": "2026-09-08T11:07:11.250888+00:00"
    },
@@ -960,11 +960,11 @@
    }
   ],
   "balance": {
-   "ganados": 242,
+   "ganados": 245,
    "perdidos": 100,
-   "pendientes": 3,
-   "acierto": 70.8,
-   "total": 342
+   "pendientes": 0,
+   "acierto": 71.0,
+   "total": 345
   }
  },
  "mejor_dia": {
@@ -977,6 +977,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Sporting CP win on 2026-09-09?",
+   "apuesta": "SI, Sporting CP ganara",
+   "usdc": 182075,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "23:26"
+  },
   {
    "titulo": "Real Madrid CF vs. FC Internazionale Milano: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
@@ -1038,15 +1047,6 @@
    "prob": 58.5,
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
-   "hora": "18:56"
-  },
-  {
-   "titulo": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
-   "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
-   "usdc": 497466,
-   "prob": 59.5,
-   "n_traders": 2,
-   "trader": "BreakTheBank",
    "hora": "18:56"
   }
  ],
