@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T14:37:14.260347+00:00",
+ "actualizado": "2026-09-08T14:44:48.295673+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "11:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Al Anwar vs Al Taee · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (7 casas)",
-   "hora": "09:03",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -135,70 +135,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Vitoria",
-   "away": "Gremio",
-   "liga": "Serie A",
-   "minuto": 23,
+   "home": "Trans Narva",
+   "away": "Flora Tallinn",
+   "liga": "Meistriliiga",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Deportes Limache",
-   "away": "Cobresal",
-   "liga": "Primera División",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Udinese",
-   "away": "Lazio",
-   "liga": "Serie A",
-   "minuto": 20,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Pogon Szczecin",
-   "away": "Wisla Plock",
-   "liga": "Ekstraklasa",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Jong Utrecht",
-   "away": "FC Eindhoven",
-   "liga": "Eerste Divisie",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
-  },
-  {
-   "home": "Jong PSV U21",
-   "away": "Den Bosch",
-   "liga": "Eerste Divisie",
-   "minuto": 20,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-07",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -808,7 +753,7 @@
   "n": 2701,
   "ganados": 1826,
   "win_rate": 68,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
