@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T22:24:52.509524+00:00",
+ "actualizado": "2026-09-08T22:32:43.215343+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:32",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:55",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:47",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -716,6 +716,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+   "apuesta": "SI, US Open ATP: Ben Shelton ganara",
+   "usdc": 106675,
+   "prob": 22.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "00:32"
+  },
+  {
    "titulo": "Will Sporting CP win on 2026-09-09?",
    "apuesta": "SI, Sporting CP ganara",
    "usdc": 182075,
@@ -776,15 +785,6 @@
    "prob": 56.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x8",
-   "hora": "18:56"
-  },
-  {
-   "titulo": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
-   "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
-   "usdc": 295654,
-   "prob": 58.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
    "hora": "18:56"
   }
  ],
