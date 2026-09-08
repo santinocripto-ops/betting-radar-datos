@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T02:08:39.035394+00:00",
+ "actualizado": "2026-09-08T02:16:06.560693+00:00",
  "partidos_vivo": [
   {
    "home": "AD Cofutpa",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:15",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:36",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:28",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -745,6 +745,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Barranquilla: Julieta Pareja vs Lucrezia Stefanini",
+   "apuesta": "SI, Barranquilla: Julieta Pareja ganara",
+   "usdc": 174373,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "04:15"
+  },
+  {
    "titulo": "US Open WTA: Iva Jovic vs Coco Gauff",
    "apuesta": "SI, US Open WTA: Iva Jovic ganara",
    "usdc": 68686,
@@ -806,15 +815,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "21:03"
-  },
-  {
-   "titulo": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
-   "apuesta": "SI, US Open ATP: Ben Shelton ganara",
-   "usdc": 104221,
-   "prob": 23.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "20:26"
   }
  ],
  "stats_gt": {
