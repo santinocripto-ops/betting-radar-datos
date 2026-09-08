@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T15:24:46.565227+00:00",
+ "actualizado": "2026-09-08T15:24:51.321072+00:00",
  "partidos_vivo": [
   {
    "home": "Ryazan",
@@ -215,6 +215,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Turku PS",
+   "away": "SJK",
+   "liga": "Veikkausliiga",
+   "minuto": 24,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08",
+   "es_hoy": true
+  },
   {
    "home": "Lahti",
    "away": "Mariehamn",
@@ -867,7 +878,7 @@
   "n": 2701,
   "ganados": 1826,
   "win_rate": 68,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 2,
