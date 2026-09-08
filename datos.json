@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T11:28:07.354948+00:00",
+ "actualizado": "2026-09-08T11:35:20.967307+00:00",
  "partidos_vivo": [
   {
    "home": "Estoril U23",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:35",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "07:25",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "07:11",
    "tipo": "smart_money"
   }
  ],
@@ -762,6 +762,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: G2 vs Astralis (BO3) - FISSURE PLAYGROUND Group A",
+   "apuesta": "SI, Counter-Strike: G2 ganara",
+   "usdc": 24151,
+   "prob": 70.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:35"
+  },
+  {
    "titulo": "LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 387020,
@@ -819,15 +828,6 @@
    "titulo": "US Open WTA: Iva Jovic vs Coco Gauff",
    "apuesta": "SI, US Open WTA: Iva Jovic ganara",
    "usdc": 68686,
-   "prob": 30.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "01:32"
-  },
-  {
-   "titulo": "US Open WTA: Iva Jovic vs Coco Gauff",
-   "apuesta": "SI, US Open WTA: Iva Jovic ganara",
-   "usdc": 84875,
    "prob": 30.5,
    "n_traders": 3,
    "trader": "RN1",
