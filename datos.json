@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T01:00:58.424625+00:00",
+ "actualizado": "2026-09-08T01:08:47.985763+00:00",
  "partidos_vivo": [
   {
    "home": "Vitoria",
@@ -192,7 +192,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-07",
    "es_hoy": false
   },
@@ -203,7 +203,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-07",
    "es_hoy": false
   },
@@ -254,14 +254,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49165.0,
-  "balance_total": 39165.0,
-  "balance_dia": 0.0,
-  "ganados": 2677,
-  "perdidos": 1185,
-  "pendientes": 5,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 49171.0,
+  "balance_total": 39171.0,
+  "balance_dia": 6.0,
+  "ganados": 2679,
+  "perdidos": 1186,
+  "pendientes": 2,
+  "ganados_dia": 2,
+  "perdidos_dia": 1,
   "win_rate": 69.3,
   "roi": 10.1,
   "stake": 100.0,
@@ -541,7 +541,7 @@
    "away": "Gremio",
    "liga": "Serie A",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -858,16 +858,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2698,
-  "ganados": 1824,
+  "n": 2700,
+  "ganados": 1825,
   "win_rate": 68,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 2,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 84,
