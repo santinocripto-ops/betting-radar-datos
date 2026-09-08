@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T13:50:50.723245+00:00",
+ "actualizado": "2026-09-08T13:58:13.089171+00:00",
  "partidos_vivo": [
   {
    "home": "Coimbra U20",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "⚽ Al Anwar vs Al Taee · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (7 casas)",
    "hora": "09:03",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -753,6 +753,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: G2 vs Astralis - Map 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 240860,
+   "prob": 62.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "15:57"
+  },
+  {
    "titulo": "Antalya 4: Ipek Oz vs Rositsa Dencheva",
    "apuesta": "SI, Antalya 4: Ipek Oz ganara",
    "usdc": 16235,
@@ -814,15 +823,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "06:57"
-  },
-  {
-   "titulo": "Barranquilla: Julieta Pareja vs Lucrezia Stefanini",
-   "apuesta": "SI, Barranquilla: Julieta Pareja ganara",
-   "usdc": 174373,
-   "prob": 50.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "04:15"
   }
  ],
  "stats_gt": {
