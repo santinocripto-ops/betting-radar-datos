@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T18:07:04.219759+00:00",
+ "actualizado": "2026-09-08T18:08:21.963558+00:00",
  "partidos_vivo": [
   {
    "home": "Tekstilshchik",
@@ -137,7 +137,7 @@
    "hora": "01:06",
    "resultado": "ganado",
    "wr_historico": 62,
-   "n_historico": 1247
+   "n_historico": 1251
   },
   {
    "clave": "btts",
@@ -151,7 +151,7 @@
    "hora": "11:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1247
+   "n_historico": 1252
   }
  ],
  "gol_temprano": [
@@ -173,7 +173,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -184,7 +184,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -224,13 +224,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49160.0,
-  "balance_total": 39160.0,
-  "balance_dia": -66.0,
-  "ganados": 2684,
+  "capital": 49282.0,
+  "balance_total": 39282.0,
+  "balance_dia": 56.0,
+  "ganados": 2686,
   "perdidos": 1189,
-  "pendientes": 4,
-  "ganados_dia": 6,
+  "pendientes": 2,
+  "ganados_dia": 8,
   "perdidos_dia": 4,
   "win_rate": 69.3,
   "roi": 10.1,
@@ -346,7 +346,7 @@
     "away": "HIFK Helsinki",
     "liga": "Kakkonen - Lohko A",
     "hora": "17:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -355,7 +355,7 @@
     "away": "PPJ",
     "liga": "Kakkonen - Lohko A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -364,7 +364,7 @@
     "away": "Atlantis",
     "liga": "Kakkonen - Lohko A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -483,7 +483,7 @@
     "away": "PPJ",
     "liga": "Kakkonen - Lohko A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -492,16 +492,16 @@
     "away": "Atlantis",
     "liga": "Kakkonen - Lohko A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1495,
-   "perdidos": 999,
-   "acierto": 59.9,
-   "yield": 13.9,
+   "ganados": 1503,
+   "perdidos": 1000,
+   "acierto": 60.0,
+   "yield": 14.1,
    "cuota_media": 1.9
   }
  },
@@ -841,16 +841,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2706,
-  "ganados": 1829,
+  "n": 2708,
+  "ganados": 1831,
   "win_rate": 68,
   "hoy": 8
  },
  "stats_dia": {
-  "ganados": 6,
+  "ganados": 8,
   "perdidos": 5,
-  "en_juego": 4,
-  "win_rate": 55
+  "en_juego": 2,
+  "win_rate": 62
  },
  "stats_banker": {
   "ganados": 84,
