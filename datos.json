@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T11:56:23.425789+00:00",
+ "actualizado": "2026-09-08T12:04:14.023350+00:00",
  "partidos_vivo": [
   {
    "home": "Estoril U23",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "08:41",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "07:25",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -159,8 +159,8 @@
    "score": 10,
    "hora": "11:00",
    "resultado": "pendiente",
-   "wr_historico": 58,
-   "n_historico": 1241
+   "wr_historico": 57,
+   "n_historico": 1242
   }
  ],
  "gol_temprano": [
@@ -301,7 +301,7 @@
     "away": "Kryvbas KR",
     "liga": "Cup",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -508,9 +508,9 @@
   ],
   "balance": {
    "ganados": 1484,
-   "perdidos": 996,
+   "perdidos": 997,
    "acierto": 59.8,
-   "yield": 13.7,
+   "yield": 13.6,
    "cuota_media": 1.9
   }
  },
