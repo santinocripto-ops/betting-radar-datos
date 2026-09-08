@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T07:03:53.349484+00:00",
+ "actualizado": "2026-09-08T07:10:51.914161+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -488,6 +488,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Al Anwar",
+    "away": "Al Taee",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 3.8,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T17:30:00+00:00",
+    "ts": "2026-09-08T07:03:42.843141+00:00"
+   },
+   {
+    "home": "Damac",
+    "away": "Al Ula",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 10,
+    "cuota": 2.25,
+    "pinnacle": true,
+    "delta": 4.86,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-08T15:50:00+00:00",
+    "ts": "2026-09-08T07:03:41.259253+00:00"
+   },
+   {
     "home": "Nueva Chicago",
     "away": "Quilmes",
     "liga": "Primera Nacional",
@@ -681,42 +711,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-05T13:30:00+00:00",
     "ts": "2026-09-05T12:19:01.069208+00:00"
-   },
-   {
-    "home": "Borussia Mönchengladbach",
-    "away": "SV Elversberg",
-    "liga": "Bundesliga",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 4,
-    "cuota": 1.14,
-    "pinnacle": false,
-    "delta": 3.47,
-    "marcador": "3-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T13:30:00+00:00",
-    "ts": "2026-09-05T12:19:01.354457+00:00"
-   },
-   {
-    "home": "Bayer Leverkusen",
-    "away": "Union Berlin",
-    "liga": "Bundesliga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.11,
-    "pinnacle": true,
-    "delta": 3.72,
-    "marcador": "4-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-05T13:30:00+00:00",
-    "ts": "2026-09-05T13:07:00.346135+00:00"
    }
   ],
   "balance": {
    "ganados": 242,
    "perdidos": 96,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 71.6,
    "total": 338
   }
@@ -807,7 +807,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 1,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 67
  },
  "stats_banker": {
