@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T20:58:23.443575+00:00",
+ "actualizado": "2026-09-08T21:07:39.965601+00:00",
  "partidos_vivo": [
   {
    "home": "Cardiff",
@@ -319,17 +319,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Al Anwar",
-   "away": "Al Taee",
-   "liga": "Division 1",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.22,
-   "resultado": "pendiente",
-   "fecha": "2026-09-08"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -341,9 +331,9 @@
    "cuota": 1.15,
    "score": 9.01,
    "hora": "19:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 80,
-   "n_historico": 186
+   "n_historico": 192
   },
   {
    "clave": "over25",
@@ -357,7 +347,7 @@
    "hora": "01:06",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1254
+   "n_historico": 1257
   },
   {
    "clave": "btts",
@@ -371,7 +361,7 @@
    "hora": "11:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1254
+   "n_historico": 1261
   }
  ],
  "gol_temprano": [
@@ -382,7 +372,7 @@
    "minuto": 14,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -393,7 +383,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -404,7 +394,7 @@
    "minuto": 18,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -415,7 +405,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -426,7 +416,7 @@
    "minuto": 10,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-08",
    "es_hoy": true
   },
@@ -437,21 +427,21 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-08",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49343.0,
-  "balance_total": 39343.0,
-  "balance_dia": 117.0,
-  "ganados": 2687,
-  "perdidos": 1189,
-  "pendientes": 13,
-  "ganados_dia": 9,
-  "perdidos_dia": 4,
+  "capital": 49560.0,
+  "balance_total": 39560.0,
+  "balance_dia": 334.0,
+  "ganados": 2696,
+  "perdidos": 1192,
+  "pendientes": 1,
+  "ganados_dia": 18,
+  "perdidos_dia": 7,
   "win_rate": 69.3,
   "roi": 10.2,
   "stake": 100.0,
@@ -476,7 +466,7 @@
     "away": "Columbus Crew II",
     "liga": "MLS Next Pro",
     "hora": "01:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -640,7 +630,7 @@
     "away": "Columbus Crew II",
     "liga": "MLS Next Pro",
     "hora": "01:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -718,10 +708,10 @@
    }
   ],
   "balance": {
-   "ganados": 1508,
-   "perdidos": 1000,
-   "acierto": 60.1,
-   "yield": 14.2,
+   "ganados": 1515,
+   "perdidos": 1003,
+   "acierto": 60.2,
+   "yield": 14.3,
    "cuota_media": 1.9
   }
  },
@@ -731,14 +721,14 @@
    "away": "Cosmos",
    "liga": "Coppa Titano",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Sunderland",
    "away": "Hull City",
    "liga": "League Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -1061,21 +1051,21 @@
   }
  ],
  "stats_gt": {
-  "n": 2709,
-  "ganados": 1832,
+  "n": 2719,
+  "ganados": 1839,
   "win_rate": 68,
   "hoy": 18
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 5,
-  "en_juego": 13,
-  "win_rate": 64
+  "ganados": 19,
+  "perdidos": 8,
+  "en_juego": 0,
+  "win_rate": 70
  },
  "stats_banker": {
-  "ganados": 84,
+  "ganados": 85,
   "perdidos": 34,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 71
  },
  "marca": {
