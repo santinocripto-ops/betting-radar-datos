@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-08T16:19:10.496527+00:00",
+ "actualizado": "2026-09-08T16:26:19.511478+00:00",
  "partidos_vivo": [
   {
    "home": "Ilves",
@@ -309,7 +309,7 @@
   "balance_dia": 6.0,
   "ganados": 2680,
   "perdidos": 1186,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.3,
@@ -317,7 +317,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3875,
+  "con_cuota_media": 3876,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -929,7 +929,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 50
  },
  "stats_banker": {
