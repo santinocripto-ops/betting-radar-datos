@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-09-08T13:58:13.089171+00:00",
+ "actualizado": "2026-09-08T14:06:54.733149+00:00",
  "partidos_vivo": [
   {
-   "home": "Coimbra U20",
-   "away": "Boston City U20",
-   "liga": "Mineiro U20",
-   "minuto": 52,
+   "home": "3 de Noviembre",
+   "away": "SOL DE America",
+   "liga": "Division Intermedia",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -16,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -224,12 +224,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49171.0,
-  "balance_total": 39171.0,
+  "capital": 49232.0,
+  "balance_total": 39232.0,
   "balance_dia": 6.0,
-  "ganados": 2679,
+  "ganados": 2680,
   "perdidos": 1186,
-  "pendientes": 2,
+  "pendientes": 1,
   "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.3,
@@ -826,8 +826,8 @@
   }
  ],
  "stats_gt": {
-  "n": 2700,
-  "ganados": 1825,
+  "n": 2701,
+  "ganados": 1826,
   "win_rate": 68,
   "hoy": 0
  },
