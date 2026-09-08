@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T09:05:04.879115+00:00",
+ "actualizado": "2026-09-08T09:05:18.845502+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Ulsan Hyundai FC vs FC Seoul · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
+   "hora": "11:05",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,16 +75,19 @@
    "texto": "──────────────────────────────",
    "hora": "04:15",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:46",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Ulsan Hyundai FC",
+   "away": "FC Seoul",
+   "liga": "K League 1",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.27,
+   "resultado": "pendiente",
+   "fecha": "2026-09-08"
+  },
   {
    "home": "Al Anwar",
    "away": "Al Taee",
@@ -813,7 +822,7 @@
  "stats_banker": {
   "ganados": 84,
   "perdidos": 33,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
