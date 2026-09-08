@@ -1,70 +1,21 @@
 {
- "actualizado": "2026-09-08T18:40:16.743632+00:00",
- "partidos_vivo": [
-  {
-   "home": "Zamalek SC",
-   "away": "Abu Qair Semad",
-   "liga": "Premier League",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Abu Qair Semad buscará el empate",
-    "🎯 10 remates totales",
-    "⏱ 37 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "KoldingQ W",
-   "away": "Brøndby W",
-   "liga": "Kvindeliga",
-   "minuto": 59,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Asker",
-   "away": "Stromsgodset",
-   "liga": "NM Cupen",
-   "minuto": 64,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  }
- ],
- "partidos_vivo_total": 10,
+ "actualizado": "2026-09-08T18:47:52.900639+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:47",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:47",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -124,18 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "18:48",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:40",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -808,6 +747,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Real Madrid CF vs. FC Internazionale Milano: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 91731,
+   "prob": 46.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "20:47"
+  },
+  {
+   "titulo": "Real Madrid CF vs. FC Internazionale Milano: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 93805,
+   "prob": 46.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "20:47"
+  },
+  {
    "titulo": "Will Lille OSC win on 2026-09-08?",
    "apuesta": "SI, Lille OSC ganara",
    "usdc": 355555,
@@ -860,24 +817,6 @@
    "n_traders": 2,
    "trader": "BreakTheBank",
    "hora": "18:56"
-  },
-  {
-   "titulo": "Antalya 4: Yasmine Kabbaj vs Cagla Buyukakcay",
-   "apuesta": "SI, Antalya 4: Yasmine Kabbaj ganara",
-   "usdc": 16397,
-   "prob": 12.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:48"
-  },
-  {
-   "titulo": "AEK vs. LASK Linz: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 157689,
-   "prob": 40.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "18:40"
   }
  ],
  "stats_gt": {
