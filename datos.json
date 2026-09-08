@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-08T10:30:39.645356+00:00",
+ "actualizado": "2026-09-08T10:37:56.860576+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:37",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Ulsan Hyundai FC vs FC Seoul · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "06:57",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:15",
    "tipo": "smart_money"
   }
  ],
@@ -741,6 +741,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Invictus Gaming vs LGD Gaming - Game 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 387020,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "12:37"
+  },
+  {
    "titulo": "BV Borussia 09 Dortmund vs. Villarreal CF: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 95216,
@@ -802,15 +811,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "01:32"
-  },
-  {
-   "titulo": "Barranquilla: Katrina Scott vs Varvara Lepchenko",
-   "apuesta": "SI, Barranquilla: Katrina Scott ganara",
-   "usdc": 21127,
-   "prob": 57.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:44"
   }
  ],
  "stats_gt": {
