@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T12:47:52.713935+00:00",
+ "actualizado": "2026-09-09T12:54:44.583632+00:00",
  "partidos_vivo": [
   {
    "home": "Viktoriya Mykolaivka",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
