@@ -1,248 +1,48 @@
 {
- "actualizado": "2026-09-09T18:42:32.806747+00:00",
+ "actualizado": "2026-09-09T18:50:24.328773+00:00",
  "partidos_vivo": [
   {
    "home": "Ljungskile SK",
    "away": "Norrby IF",
    "liga": "Superettan",
-   "minuto": 60,
+   "minuto": 64,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 70,
+   "momentum_away": 30,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ 2 goles — partido activo",
-    "🎯 13 remates totales",
-    "🚩 8 córners"
-   ]
-  },
-  {
-   "home": "United Nordic",
-   "away": "IFK Varnamo",
-   "liga": "Superettan",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 9,
-   "momentum_away": 91,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ United Nordic pierde por 2 — atacará sin freno",
+    "🎯 14 remates totales",
     "🚩 9 córners"
    ]
   },
   {
-   "home": "Sandviken",
-   "away": "Oddevold",
-   "liga": "Superettan",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Sandviken buscará el empate",
-    "🎯 11 remates totales",
-    "🎯 6 remates a puerta"
-   ]
-  },
-  {
-   "home": "Dinamo Batumi",
-   "away": "FC Iberia 1999",
-   "liga": "Erovnuli Liga",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 55,
-   "momentum_away": 45,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Hradec Králové",
-   "away": "Plzen",
-   "liga": "Czech Liga",
+   "home": "Mamelodi Sundowns",
+   "away": "Siwelele",
+   "liga": "Premier Soccer League",
    "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "El Mokawloon",
-   "away": "Al Ahly",
-   "liga": "Premier League",
-   "minuto": 51,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
+   "momentum_home": 95,
+   "momentum_away": 5,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Al Ahly buscará el empate",
-    "🎯 9 remates totales",
-    "🚩 7 córners"
-   ]
-  },
-  {
-   "home": "Landskrona BoIS",
-   "away": "Helsingborg",
-   "liga": "Superettan",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 10 remates totales",
-    "⏱ 34 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Zürich W",
-   "away": "Young Boys W",
-   "liga": "AXA Women’s Super League",
-   "minuto": 59,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Young Boys W buscará el empate"
-   ]
-  },
-  {
-   "home": "Kolding IF",
-   "away": "Odense",
-   "liga": "DBU Pokalen",
-   "minuto": 62,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Viktoria Žižkov",
-   "away": "Sparta Praha",
-   "liga": "Cup",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Njardvik",
-   "away": "Throttur Reykjavik",
-   "liga": "1. Deild",
-   "minuto": 62,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Njardvik buscará el empate"
-   ]
-  },
-  {
-   "home": "Gjilani",
-   "away": "Ballkani",
-   "liga": "Superliga",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Siwelele buscará el empate",
+    "🎯 12 remates totales",
+    "🚩 8 córners"
    ]
   }
  ],
- "partidos_vivo_total": 20,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
