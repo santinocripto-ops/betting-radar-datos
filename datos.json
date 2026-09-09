@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T19:51:57.049689+00:00",
+ "actualizado": "2026-09-09T19:58:21.562031+00:00",
  "partidos_vivo": [
   {
    "home": "Rangers",
@@ -87,6 +87,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:58",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:50",
    "tipo": "live"
@@ -150,12 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:27",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
