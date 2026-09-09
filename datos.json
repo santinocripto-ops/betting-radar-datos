@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-09T14:36:25.591655+00:00",
+ "actualizado": "2026-09-09T14:43:26.670437+00:00",
  "partidos_vivo": [
   {
-   "home": "Znamya Noginsk",
-   "away": "Ska-khabarovsk",
-   "liga": "Cup",
+   "home": "Olmaliq",
+   "away": "Pakhtakor",
+   "liga": "Super League",
    "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 12,
-   "momentum_away": 88,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Znamya Noginsk buscará el empate",
-    "🚩 6 córners",
-    "⏱ 40 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Yarud Mariupol'",
-   "away": "Zorya Luhansk",
-   "liga": "Cup",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Italy U20 W",
-   "away": "New Zealand U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Sporting CP U19",
-   "away": "Galatasaray U19",
-   "liga": "UEFA Youth League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 11,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
