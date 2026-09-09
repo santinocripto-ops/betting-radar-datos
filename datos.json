@@ -1,35 +1,15 @@
 {
- "actualizado": "2026-09-09T12:33:55.973821+00:00",
+ "actualizado": "2026-09-09T12:41:04.785650+00:00",
  "partidos_vivo": [
   {
-   "home": "Volna Nizhegorodskaya",
-   "away": "Rotor Volgograd",
+   "home": "Viktoriya Mykolaivka",
+   "away": "Metal Kharkiv",
    "liga": "Cup",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Rotor Volgograd buscará el empate",
-    "🚩 10 córners — presión extrema en el área",
-    "⏱ 44 minutos por jugar — margen amplio"
-   ]
-  },
-  {
-   "home": "Novyi Rozdil",
-   "away": "Tyshkivka",
-   "liga": "Cup",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.8,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -38,11 +18,11 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Novyi Rozdil buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
