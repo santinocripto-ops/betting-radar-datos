@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T15:22:07.256587+00:00",
+ "actualizado": "2026-09-09T15:29:27.445504+00:00",
  "partidos_vivo": [
   {
    "home": "Pyramids FC",
@@ -246,6 +246,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:29",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:29",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:22",
@@ -298,18 +310,6 @@
    "texto": "⚽ Sandviken vs Oddevold · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (11 casas)",
    "hora": "16:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -449,7 +449,7 @@
   "balance_dia": 183.0,
   "ganados": 2699,
   "perdidos": 1192,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 69.4,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3899,
+  "con_cuota_media": 3900,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -981,6 +981,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+   "apuesta": "SI, Antalya 4: Irene Burillo Escorihuela ganara",
+   "usdc": 116846,
+   "prob": 86.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:29"
+  },
+  {
+   "titulo": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
+   "apuesta": "SI, Antalya 4: Irene Burillo Escorihuela ganara",
+   "usdc": 122017,
+   "prob": 83.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:29"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
    "usdc": 98000,
@@ -1008,7 +1026,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 0,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 100
  },
  "stats_banker": {
