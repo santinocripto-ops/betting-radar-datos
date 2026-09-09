@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T18:09:06.599320+00:00",
+ "actualizado": "2026-09-09T18:16:19.809741+00:00",
  "partidos_vivo": [
   {
    "home": "Druzhba",
@@ -66,6 +66,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:16",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Botafogo SP vs Novorizontino · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "20:09",
@@ -100,18 +112,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:38",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -831,6 +831,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Mirra Andreeva vs Coco Gauff",
+   "apuesta": "SI, US Open WTA: Mirra Andreeva ganara",
+   "usdc": 197743,
+   "prob": 31.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:16"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
    "usdc": 124994,
@@ -892,15 +901,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "13:57"
-  },
-  {
-   "titulo": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qu",
-   "apuesta": "SI, ganara",
-   "usdc": 113598,
-   "prob": 45.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "13:29"
   }
  ],
  "stats_gt": {
