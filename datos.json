@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T12:05:44.400883+00:00",
+ "actualizado": "2026-09-09T12:13:14.965246+00:00",
  "partidos_vivo": [
   {
    "home": "Volna Nizhegorodskaya",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -117,6 +123,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Ahrobiznes Volochysk",
+   "away": "Livyi Bereh",
+   "liga": "Cup",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
   {
    "home": "Oriente Petrolero",
    "away": "Guabirá",
@@ -682,7 +699,7 @@
   "n": 2720,
   "ganados": 1840,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
