@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T19:25:08.951979+00:00",
+ "actualizado": "2026-09-09T19:31:31.355245+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Nassr",
@@ -389,7 +389,7 @@
   "balance_dia": 312.0,
   "ganados": 2712,
   "perdidos": 1198,
-  "pendientes": 7,
+  "pendientes": 10,
   "ganados_dia": 16,
   "perdidos_dia": 6,
   "win_rate": 69.4,
@@ -397,7 +397,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3917,
+  "con_cuota_media": 3920,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1030,7 +1030,7 @@
  "stats_dia": {
   "ganados": 16,
   "perdidos": 7,
-  "en_juego": 7,
+  "en_juego": 10,
   "win_rate": 70
  },
  "stats_banker": {
