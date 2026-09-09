@@ -1,50 +1,208 @@
 {
- "actualizado": "2026-09-09T19:05:50.485786+00:00",
+ "actualizado": "2026-09-09T19:25:08.951979+00:00",
  "partidos_vivo": [
   {
-   "home": "Ljungskile SK",
-   "away": "Norrby IF",
-   "liga": "Superettan",
-   "minuto": 64,
-   "marcador": "1-1",
+   "home": "Al-Nassr",
+   "away": "Abha",
+   "liga": "Pro League",
+   "minuto": 62,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 83,
+   "momentum_away": 17,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
     "⚽ 2 goles — partido activo",
-    "🎯 14 remates totales",
-    "🚩 9 córners"
+    "⚡ Abha pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Mamelodi Sundowns",
-   "away": "Siwelele",
-   "liga": "Premier Soccer League",
+   "home": "Blackburn Rovers U21",
+   "away": "Queens Park Rangers U21",
+   "liga": "Premier League Cup",
    "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.8,
    "recomendar": true,
-   "momentum_home": 95,
-   "momentum_away": 5,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Siwelele buscará el empate",
-    "🎯 12 remates totales",
-    "🚩 8 córners"
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Al-Fateh",
+   "away": "Al Diriyah",
+   "liga": "Pro League",
+   "minuto": 57,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.1,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "América RN U20",
+   "away": "QFC U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 61,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Botafogo U20",
+   "away": "Estrela De Marco U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 60,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Ceará U20",
+   "away": "Atlético Piauiense U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 60,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Criciuma U20",
+   "away": "Cascavel U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 61,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Nautico U20",
+   "away": "America PE U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 58,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Tuna Luso PA U20",
+   "away": "Batalhão FC U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 48,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 6.8 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 27,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:24",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:24",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -98,24 +256,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:16",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Botafogo SP vs Novorizontino · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
-   "hora": "20:09",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "20:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:08",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -176,6 +316,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Napoli",
+   "away": "Arsenal",
+   "liga": "UEFA Champions League",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Charlton",
+   "away": "QPR",
+   "liga": "Championship",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "ST Johnstone",
+   "away": "Celtic",
+   "liga": "Premiership",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Norwich",
    "away": "Birmingham",
    "liga": "Championship",
@@ -205,39 +378,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Kolding IF",
-   "away": "Odense",
-   "liga": "DBU Pokalen",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "El Mokawloon",
-   "away": "Al Ahly",
-   "liga": "Premier League",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Barockstadt Fulda-Lehn.",
-   "away": "Eintracht Frankfurt II",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
@@ -565,6 +705,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Vancouver Whitecaps",
+    "away": "Los Angeles Galaxy",
+    "liga": "Major League Soccer",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.11,
+    "pinnacle": true,
+    "delta": 3.46,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-10T02:30:00+00:00",
+    "ts": "2026-09-09T19:05:50.591839+00:00"
+   },
+   {
+    "home": "New York City FC",
+    "away": "New England Revolution",
+    "liga": "Major League Soccer",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 11,
+    "cuota": 1.57,
+    "pinnacle": true,
+    "delta": 4.11,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-10T00:00:00+00:00",
+    "ts": "2026-09-09T19:05:47.568868+00:00"
+   },
+   {
     "home": "Botafogo SP",
     "away": "Novorizontino",
     "liga": "Serie B",
@@ -604,8 +774,8 @@
     "cuota": 1.25,
     "pinnacle": true,
     "delta": 4.82,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-09T17:00:00+00:00",
     "ts": "2026-09-09T14:08:23.626767+00:00"
    },
@@ -619,8 +789,8 @@
     "cuota": 1.25,
     "pinnacle": false,
     "delta": 3.84,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-09T17:00:00+00:00",
     "ts": "2026-09-09T14:08:23.790942+00:00"
    },
@@ -758,44 +928,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-07T18:30:00+00:00",
     "ts": "2026-09-07T14:05:25.512876+00:00"
-   },
-   {
-    "home": "Palermo",
-    "away": "Sampdoria",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 4,
-    "cuota": 1.3,
-    "pinnacle": true,
-    "delta": 3.44,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-07T18:30:00+00:00",
-    "ts": "2026-09-07T14:05:25.860860+00:00"
-   },
-   {
-    "home": "Jong Utrecht",
-    "away": "FC Eindhoven",
-    "liga": "Eerste Divisie",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.44,
-    "pinnacle": true,
-    "delta": 3.37,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-07T18:00:00+00:00",
-    "ts": "2026-09-07T11:07:02.359617+00:00"
    }
   ],
   "balance": {
    "ganados": 245,
-   "perdidos": 100,
+   "perdidos": 102,
    "pendientes": 4,
-   "acierto": 71.0,
-   "total": 345
+   "acierto": 70.6,
+   "total": 347
   }
  },
  "mejor_dia": {
@@ -885,7 +1025,7 @@
   "n": 2736,
   "ganados": 1851,
   "win_rate": 68,
-  "hoy": 22
+  "hoy": 25
  },
  "stats_dia": {
   "ganados": 16,
