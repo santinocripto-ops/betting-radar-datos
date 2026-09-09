@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-09T22:55:12.657723+00:00",
+ "actualizado": "2026-09-09T23:02:05.299540+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:24",
    "tipo": "live"
   }
  ],
@@ -735,6 +735,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Atlanta United FC win on 2026-09-09?",
+   "apuesta": "SI, Atlanta United ganara",
+   "usdc": 193399,
+   "prob": 45.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "01:02"
+  },
+  {
    "titulo": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
    "apuesta": "SI, Barranquilla: Leolia Jeanjean ganara",
    "usdc": 15057,
@@ -796,15 +805,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "17:52"
-  },
-  {
-   "titulo": "Will Arsenal FC win on 2026-09-09?",
-   "apuesta": "SI, Arsenal ganara",
-   "usdc": 397622,
-   "prob": 61.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "17:51"
   }
  ],
  "stats_gt": {
