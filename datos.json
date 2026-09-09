@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T16:06:44.675521+00:00",
+ "actualizado": "2026-09-09T16:13:55.789987+00:00",
  "partidos_vivo": [
   {
    "home": "Baník Prievidza",
@@ -188,6 +188,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "18:13",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "17:52",
    "tipo": "smart_money"
   },
@@ -249,12 +255,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:22",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:15",
    "tipo": "live"
   }
  ],
@@ -920,6 +920,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will VfB Stuttgart win on 2026-09-09?",
+   "apuesta": "SI, VfB Stuttgart ganara",
+   "usdc": 912798,
+   "prob": 78.5,
+   "n_traders": 4,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "18:13"
+  },
   {
    "titulo": "Will FC Barcelona win on 2026-09-09?",
    "apuesta": "NO, FC Barcelona no ganara",
