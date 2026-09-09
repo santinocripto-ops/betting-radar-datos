@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T19:37:50.239328+00:00",
+ "actualizado": "2026-09-09T19:43:57.613406+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Nassr",
@@ -188,6 +188,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:25",
    "tipo": "live"
   },
@@ -250,12 +256,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:16",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -316,6 +316,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Club Atletico Barinas",
+   "away": "Atletico el Vigia FC",
+   "liga": "Copa Venezuela",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Napoli",
    "away": "Arsenal",
    "liga": "UEFA Champions League",
@@ -364,17 +375,6 @@
    "away": "ST Mirren",
    "liga": "Premiership",
    "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Nassr",
-   "away": "Abha",
-   "liga": "Pro League",
-   "minuto": 20,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1025,7 +1025,7 @@
   "n": 2736,
   "ganados": 1851,
   "win_rate": 68,
-  "hoy": 25
+  "hoy": 26
  },
  "stats_dia": {
   "ganados": 16,
