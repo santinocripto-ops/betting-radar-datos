@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-09T00:33:41.457828+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-09T00:42:18.557663+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Cuiaba",
+   "away": "Athletic Club",
+   "liga": "Serie B",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Athletic Club buscará el empate",
+    "🎯 12 remates totales",
+    "⏱ 40 minutos por jugar — margen amplio"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
