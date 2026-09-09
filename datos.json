@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-09T11:22:53.039261+00:00",
+ "actualizado": "2026-09-09T11:30:02.972805+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:29",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:29",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -599,7 +611,17 @@
   "mercado_pista": "Goles",
   "resultado": "pendiente"
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qu",
+   "apuesta": "SI, ganara",
+   "usdc": 113598,
+   "prob": 45.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "13:29"
+  }
+ ],
  "stats_gt": {
   "n": 2720,
   "ganados": 1840,
