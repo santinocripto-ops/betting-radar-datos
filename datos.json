@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T16:53:49.420980+00:00",
+ "actualizado": "2026-09-09T17:00:24.346597+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Stavropol",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:00",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:00",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -71,18 +83,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:22",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:14",
    "tipo": "live"
   },
   {
@@ -156,6 +156,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Druzhba",
+   "away": "Enisey",
+   "liga": "Cup",
+   "minuto": 25,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Twente",
+   "away": "Telstar",
+   "liga": "Eredivisie",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Chertanovo Moscow",
    "away": "FK Neftekhimik",
    "liga": "Cup",
@@ -194,28 +216,6 @@
    "liga": "Czech Liga",
    "minuto": 14,
    "score": 9.6,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Spaeri",
-   "away": "Rustavi",
-   "liga": "Erovnuli Liga",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Samgurali",
-   "away": "Dila",
-   "liga": "Erovnuli Liga",
-   "minuto": 13,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-09",
@@ -835,7 +835,7 @@
   "n": 2723,
   "ganados": 1842,
   "win_rate": 68,
-  "hoy": 11
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 4,
