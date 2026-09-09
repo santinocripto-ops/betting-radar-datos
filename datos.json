@@ -1,24 +1,44 @@
 {
- "actualizado": "2026-09-09T01:07:04.819272+00:00",
+ "actualizado": "2026-09-09T01:16:27.900843+00:00",
  "partidos_vivo": [
   {
-   "home": "Cuiaba",
-   "away": "Athletic Club",
+   "home": "Criciuma",
+   "away": "Juventude",
    "liga": "Serie B",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
+   "momentum_home": 74,
+   "momentum_away": 26,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Athletic Club buscará el empate",
-    "🎯 12 remates totales",
-    "⏱ 40 minutos por jugar — margen amplio"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "RB do Norte",
+   "away": "Fast Clube-Am",
+   "liga": "Amazonense - 2",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.65 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
