@@ -1,15 +1,35 @@
 {
- "actualizado": "2026-09-09T13:01:36.784818+00:00",
+ "actualizado": "2026-09-09T13:09:18.702962+00:00",
  "partidos_vivo": [
   {
-   "home": "Viktoriya Mykolaivka",
-   "away": "Metal Kharkiv",
-   "liga": "Cup",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "WIT Georgia",
+   "away": "Lokomotivi Tbilisi",
+   "liga": "Liga 3",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.5,
+   "recomendar": true,
+   "momentum_home": 58,
+   "momentum_away": 42,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
+    "⚽ 1 gol — Lokomotivi Tbilisi buscará el empate"
+   ]
+  },
+  {
+   "home": "Ahrobiznes Volochysk",
+   "away": "Livyi Bereh",
+   "liga": "Cup",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -18,11 +38,71 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Livyi Bereh buscará el empate"
+   ]
+  },
+  {
+   "home": "Bhutan U19",
+   "away": "Transport United",
+   "liga": "Premier League",
+   "minuto": 50,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "SK Metalurh U19",
+   "away": "Karpaty Lviv U19",
+   "liga": "U19 League",
+   "minuto": 47,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.42 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Napoli U19",
+   "away": "Arsenal U19",
+   "liga": "UEFA Youth League",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
