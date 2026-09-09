@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-09-09T23:38:20.180094+00:00",
+ "actualizado": "2026-09-09T23:45:58.411777+00:00",
  "partidos_vivo": [
   {
-   "home": "Palmeiras",
-   "away": "LDU de Quito",
-   "liga": "CONMEBOL Libertadores",
-   "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Fortaleza EC",
+   "away": "Avai",
+   "liga": "Serie B",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.9,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 81,
-   "momentum_away": 19,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 1.93 goles/partido",
-    "⚽ 1 gol — LDU de Quito buscará el empate",
-    "🎯 18 remates totales"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 13 remates totales"
    ]
   },
   {
-   "home": "Santos",
-   "away": "Atletico-MG",
-   "liga": "CONMEBOL Sudamericana",
-   "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Universitario de Vinto",
+   "away": "The Strongest",
+   "liga": "Copa de la División Profesional",
+   "minuto": 56,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.1,
    "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Atletico-MG buscará el empate",
-    "🎯 11 remates totales",
-    "⏱ 32 minutos por jugar — tiempo suficiente"
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:58",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:50",
    "tipo": "live"
   }
  ],
@@ -185,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Operario-PR",
+   "away": "CRB",
+   "liga": "Serie B",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": false
+  },
+  {
    "home": "Moreirense",
    "away": "Benfica",
    "liga": "Primeira Liga",
@@ -236,17 +247,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-09",
-   "es_hoy": false
-  },
-  {
-   "home": "Norwich",
-   "away": "Birmingham",
-   "liga": "Championship",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": false
   }
