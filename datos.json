@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T15:44:55.502860+00:00",
+ "actualizado": "2026-09-09T15:52:16.535611+00:00",
  "partidos_vivo": [
   {
    "home": "Baník Prievidza",
@@ -188,6 +188,18 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "17:52",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:51",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "17:29",
    "tipo": "smart_money"
   },
@@ -244,18 +256,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Sandviken vs Oddevold · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (11 casas)",
-   "hora": "16:08",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -920,6 +920,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will FC Barcelona win on 2026-09-09?",
+   "apuesta": "NO, FC Barcelona no ganara",
+   "usdc": 158000,
+   "prob": 8.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "17:52"
+  },
+  {
+   "titulo": "Will Arsenal FC win on 2026-09-09?",
+   "apuesta": "SI, Arsenal ganara",
+   "usdc": 397622,
+   "prob": 61.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "17:51"
+  },
   {
    "titulo": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
    "apuesta": "SI, Antalya 4: Irene Burillo Escorihuela ganara",
