@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T15:14:55.339404+00:00",
+ "actualizado": "2026-09-09T15:15:01.229259+00:00",
  "partidos_vivo": [
   {
    "home": "Pyramids FC",
@@ -376,6 +376,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Polessya",
+   "away": "Kudrivka",
+   "liga": "Cup",
+   "minuto": 13,
+   "score": 9.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "FK Jablonec",
+   "away": "Baník Ostrava",
+   "liga": "Czech Liga",
+   "minuto": 14,
+   "score": 9.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Spaeri",
+   "away": "Rustavi",
+   "liga": "Erovnuli Liga",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Samgurali",
+   "away": "Dila",
+   "liga": "Erovnuli Liga",
+   "minuto": 13,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Novaci",
    "away": "Ohrid",
    "liga": "Cup",
@@ -394,39 +438,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Selangor",
-   "away": "Sabah FA",
-   "liga": "FA Cup",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Ahrobiznes Volochysk",
-   "away": "Livyi Bereh",
-   "liga": "Cup",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Oriente Petrolero",
-   "away": "Guabirá",
-   "liga": "Copa de la División Profesional",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
@@ -992,7 +1003,7 @@
   "n": 2722,
   "ganados": 1842,
   "win_rate": 68,
-  "hoy": 5
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 3,
