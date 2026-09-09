@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T17:00:24.346597+00:00",
+ "actualizado": "2026-09-09T17:07:41.310404+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Stavropol",
@@ -137,7 +137,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1262
+   "n_historico": 1265
   },
   {
    "clave": "btts",
@@ -151,7 +151,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1265
+   "n_historico": 1268
   }
  ],
  "gol_temprano": [
@@ -195,7 +195,7 @@
    "minuto": 22,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   },
@@ -217,27 +217,27 @@
    "minuto": 14,
    "score": 9.6,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49688.0,
-  "balance_total": 39688.0,
-  "balance_dia": 128.0,
-  "ganados": 2700,
+  "capital": 49993.0,
+  "balance_total": 39993.0,
+  "balance_dia": 433.0,
+  "ganados": 2705,
   "perdidos": 1193,
-  "pendientes": 9,
-  "ganados_dia": 4,
+  "pendientes": 6,
+  "ganados_dia": 9,
   "perdidos_dia": 1,
   "win_rate": 69.4,
-  "roi": 10.2,
+  "roi": 10.3,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3902,
+  "con_cuota_media": 3904,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -319,7 +319,7 @@
     "away": "Baník Lehota p.Vtáčnikom",
     "liga": "Cup",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -328,7 +328,7 @@
     "away": "NK Varazdin",
     "liga": "Cup",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -337,7 +337,7 @@
     "away": "Víkingur II",
     "liga": "1. Deild",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -483,7 +483,7 @@
     "away": "Baník Lehota p.Vtáčnikom",
     "liga": "Cup",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -492,16 +492,16 @@
     "away": "NK Varazdin",
     "liga": "Cup",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1520,
-   "perdidos": 1007,
+   "ganados": 1525,
+   "perdidos": 1008,
    "acierto": 60.2,
-   "yield": 14.3,
+   "yield": 14.4,
    "cuota_media": 1.9
   }
  },
@@ -832,16 +832,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2723,
-  "ganados": 1842,
+  "n": 2728,
+  "ganados": 1847,
   "win_rate": 68,
   "hoy": 13
  },
  "stats_dia": {
-  "ganados": 4,
+  "ganados": 9,
   "perdidos": 1,
-  "en_juego": 9,
-  "win_rate": 80
+  "en_juego": 6,
+  "win_rate": 90
  },
  "stats_banker": {
   "ganados": 85,
