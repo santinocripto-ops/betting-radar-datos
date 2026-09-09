@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T17:18:37.012343+00:00",
+ "actualizado": "2026-09-09T17:18:46.493355+00:00",
  "partidos_vivo": [
   {
    "home": "Chertanovo Moscow",
@@ -336,20 +336,20 @@
  ],
  "gol_temprano": [
   {
-   "home": "Druzhba",
-   "away": "Enisey",
-   "liga": "Cup",
-   "minuto": 25,
-   "score": 9.5,
+   "home": "Kolding IF",
+   "away": "Odense",
+   "liga": "DBU Pokalen",
+   "minuto": 18,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-09",
    "es_hoy": true
   },
   {
-   "home": "Twente",
-   "away": "Telstar",
-   "liga": "Eredivisie",
+   "home": "El Mokawloon",
+   "away": "Al Ahly",
+   "liga": "Premier League",
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
@@ -358,9 +358,9 @@
    "es_hoy": true
   },
   {
-   "home": "Chertanovo Moscow",
-   "away": "FK Neftekhimik",
-   "liga": "Cup",
+   "home": "Barockstadt Fulda-Lehn.",
+   "away": "Eintracht Frankfurt II",
+   "liga": "Regionalliga - SudWest",
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
@@ -369,35 +369,35 @@
    "es_hoy": true
   },
   {
-   "home": "HJK Helsinki",
-   "away": "Inter Turku",
-   "liga": "Veikkausliiga",
-   "minuto": 22,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Polessya",
-   "away": "Kudrivka",
-   "liga": "Cup",
-   "minuto": 13,
-   "score": 9.9,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "FK Jablonec",
-   "away": "Baník Ostrava",
+   "home": "Hradec Králové",
+   "away": "Plzen",
    "liga": "Czech Liga",
-   "minuto": 14,
-   "score": 9.6,
+   "minuto": 17,
+   "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Dinamo Batumi",
+   "away": "FC Iberia 1999",
+   "liga": "Erovnuli Liga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
+   "home": "Sandviken",
+   "away": "Oddevold",
+   "liga": "Superettan",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
@@ -1015,7 +1015,7 @@
   "n": 2728,
   "ganados": 1847,
   "win_rate": 68,
-  "hoy": 13
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 9,
