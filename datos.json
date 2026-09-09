@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T17:18:46.493355+00:00",
+ "actualizado": "2026-09-09T17:25:36.870591+00:00",
  "partidos_vivo": [
   {
    "home": "Chertanovo Moscow",
@@ -409,7 +409,7 @@
   "balance_dia": 433.0,
   "ganados": 2705,
   "perdidos": 1193,
-  "pendientes": 6,
+  "pendientes": 12,
   "ganados_dia": 9,
   "perdidos_dia": 1,
   "win_rate": 69.4,
@@ -417,7 +417,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3904,
+  "con_cuota_media": 3910,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1020,7 +1020,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 1,
-  "en_juego": 6,
+  "en_juego": 12,
   "win_rate": 90
  },
  "stats_banker": {
