@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T14:08:39.442533+00:00",
+ "actualizado": "2026-09-09T14:08:41.914884+00:00",
  "partidos_vivo": [
   {
    "home": "Znamya Noginsk",
@@ -153,7 +153,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Sandviken",
+   "away": "Oddevold",
+   "liga": "Superettan",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.22,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -797,7 +807,7 @@
  "stats_banker": {
   "ganados": 85,
   "perdidos": 34,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 71
  },
  "marca": {
