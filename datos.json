@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T11:51:00.449506+00:00",
+ "actualizado": "2026-09-09T11:58:10.481755+00:00",
  "partidos_vivo": [
   {
    "home": "Daejeon Citizen",
@@ -105,6 +105,12 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -713,6 +719,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 98000,
+   "prob": 54.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "13:57"
+  },
   {
    "titulo": "Counter-Strike: HOTU vs Nemiga (BO3) - 1win Private Club #1: Closed Qu",
    "apuesta": "SI, ganara",
