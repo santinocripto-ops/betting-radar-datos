@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T10:59:00.192076+00:00",
+ "actualizado": "2026-09-09T11:06:12.577039+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -38,9 +38,9 @@
    "cuota": 4.8,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1258
+   "n_historico": 1259
   },
   {
    "clave": "btts",
@@ -52,9 +52,9 @@
    "cuota": 1.48,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1261
+   "n_historico": 1262
   }
  ],
  "gol_temprano": [
@@ -65,20 +65,20 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49560.0,
-  "balance_total": 39560.0,
-  "balance_dia": 0.0,
-  "ganados": 2696,
+  "capital": 49621.0,
+  "balance_total": 39621.0,
+  "balance_dia": 61.0,
+  "ganados": 2697,
   "perdidos": 1192,
-  "pendientes": 2,
-  "ganados_dia": 0,
+  "pendientes": 1,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.3,
   "roi": 10.2,
@@ -95,7 +95,7 @@
     "away": "Guabirá",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -223,7 +223,7 @@
     "away": "Guabirá",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -347,8 +347,8 @@
   ],
   "balance": {
    "ganados": 1516,
-   "perdidos": 1003,
-   "acierto": 60.2,
+   "perdidos": 1005,
+   "acierto": 60.1,
    "yield": 14.3,
    "cuota_media": 1.9
   }
@@ -601,16 +601,16 @@
  },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 2719,
-  "ganados": 1839,
+  "n": 2720,
+  "ganados": 1840,
   "win_rate": 68,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 85,
