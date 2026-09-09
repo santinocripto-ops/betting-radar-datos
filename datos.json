@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T14:08:41.914884+00:00",
+ "actualizado": "2026-09-09T14:15:48.771568+00:00",
  "partidos_vivo": [
   {
    "home": "Znamya Noginsk",
@@ -85,6 +85,12 @@
  "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Sandviken vs Oddevold · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.22 (11 casas)",
@@ -209,6 +215,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Kaluga",
+   "away": "FC UFA",
+   "liga": "Cup",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
   {
    "home": "Selangor",
    "away": "Sabah FA",
@@ -530,6 +547,51 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Defensores De Belgrano",
+    "away": "Los Andes",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 11,
+    "cuota": 1.95,
+    "pinnacle": true,
+    "delta": 3.8,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-09T18:30:00+00:00",
+    "ts": "2026-09-09T14:08:26.278531+00:00"
+   },
+   {
+    "home": "Sandviken",
+    "away": "Oddevold",
+    "liga": "Superettan",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 9,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 4.82,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-09T17:00:00+00:00",
+    "ts": "2026-09-09T14:08:23.626767+00:00"
+   },
+   {
+    "home": "Sandviken",
+    "away": "Oddevold",
+    "liga": "Superettan",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 8,
+    "cuota": 1.25,
+    "pinnacle": false,
+    "delta": 3.84,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-09T17:00:00+00:00",
+    "ts": "2026-09-09T14:08:23.790942+00:00"
+   },
+   {
     "home": "Al-Ittihad FC",
     "away": "Al-Fayha",
     "liga": "Pro League",
@@ -708,57 +770,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-07T16:05:00+00:00",
     "ts": "2026-09-07T11:06:55.180629+00:00"
-   },
-   {
-    "home": "FC Voluntari",
-    "away": "Arges Pitesti",
-    "liga": "Liga I",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 9,
-    "cuota": 1.46,
-    "pinnacle": true,
-    "delta": 4.38,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-07T14:30:00+00:00",
-    "ts": "2026-09-07T12:08:35.540123+00:00"
-   },
-   {
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "liga": "Premier League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 3.87,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-06T15:30:00+00:00",
-    "ts": "2026-09-06T15:21:43.504092+00:00"
-   },
-   {
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "liga": "Premier League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.28,
-    "pinnacle": false,
-    "delta": 3.3,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-06T15:30:00+00:00",
-    "ts": "2026-09-06T15:21:43.732194+00:00"
    }
   ],
   "balance": {
    "ganados": 245,
    "perdidos": 100,
-   "pendientes": 0,
+   "pendientes": 3,
    "acierto": 71.0,
    "total": 345
   }
@@ -796,12 +813,12 @@
   "n": 2721,
   "ganados": 1841,
   "win_rate": 68,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
