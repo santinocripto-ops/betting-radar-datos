@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T19:58:21.562031+00:00",
+ "actualizado": "2026-09-09T19:58:26.201767+00:00",
  "partidos_vivo": [
   {
    "home": "Rangers",
@@ -216,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Moreirense",
+   "away": "Benfica",
+   "liga": "Primeira Liga",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Club Atletico Barinas",
    "away": "Atletico el Vigia FC",
    "liga": "Copa Venezuela",
@@ -264,17 +275,6 @@
    "away": "Birmingham",
    "liga": "Championship",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-09",
-   "es_hoy": true
-  },
-  {
-   "home": "Rangers",
-   "away": "ST Mirren",
-   "liga": "Premiership",
-   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -932,7 +932,7 @@
   "n": 2736,
   "ganados": 1851,
   "win_rate": 68,
-  "hoy": 26
+  "hoy": 27
  },
  "stats_dia": {
   "ganados": 16,
