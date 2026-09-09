@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T15:59:34.873130+00:00",
+ "actualizado": "2026-09-09T16:06:44.675521+00:00",
  "partidos_vivo": [
   {
    "home": "Baník Prievidza",
@@ -282,8 +282,8 @@
    "score": 9.07,
    "hora": "16:45",
    "resultado": "pendiente",
-   "wr_historico": 80,
-   "n_historico": 194
+   "wr_historico": 81,
+   "n_historico": 195
   },
   {
    "clave": "over25",
@@ -297,7 +297,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1261
+   "n_historico": 1262
   },
   {
    "clave": "btts",
@@ -377,21 +377,21 @@
    "minuto": 16,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-09",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49743.0,
-  "balance_total": 39743.0,
-  "balance_dia": 183.0,
-  "ganados": 2699,
-  "perdidos": 1192,
-  "pendientes": 9,
-  "ganados_dia": 3,
-  "perdidos_dia": 0,
+  "capital": 49688.0,
+  "balance_total": 39688.0,
+  "balance_dia": 128.0,
+  "ganados": 2700,
+  "perdidos": 1193,
+  "pendientes": 7,
+  "ganados_dia": 4,
+  "perdidos_dia": 1,
   "win_rate": 69.4,
   "roi": 10.2,
   "stake": 100.0,
@@ -616,7 +616,7 @@
     "away": "Bashkimi Kumanovo",
     "liga": "Cup",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -658,9 +658,9 @@
    }
   ],
   "balance": {
-   "ganados": 1519,
+   "ganados": 1520,
    "perdidos": 1007,
-   "acierto": 60.1,
+   "acierto": 60.2,
    "yield": 14.3,
    "cuota_media": 1.9
   }
@@ -671,7 +671,7 @@
    "away": "Ohrid",
    "liga": "Cup",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -976,16 +976,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2722,
+  "n": 2723,
   "ganados": 1842,
   "win_rate": 68,
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 3,
-  "perdidos": 0,
-  "en_juego": 9,
-  "win_rate": 100
+  "ganados": 4,
+  "perdidos": 1,
+  "en_juego": 7,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 85,
