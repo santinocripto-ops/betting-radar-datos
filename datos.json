@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T10:01:14.180950+00:00",
+ "actualizado": "2026-09-09T10:08:24.761128+00:00",
  "partidos_vivo": [
   {
    "home": "Penang",
@@ -605,7 +605,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "02:30",
+  "cuota": 1.48,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [],
  "stats_gt": {
