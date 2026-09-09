@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T14:57:07.189706+00:00",
+ "actualizado": "2026-09-09T15:04:21.474438+00:00",
  "partidos_vivo": [
   {
    "home": "Olmaliq",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:04",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,12 +89,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "13:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:29",
    "tipo": "smart_money"
   },
   {
@@ -184,7 +184,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-09",
    "es_hoy": true
   },
@@ -213,20 +213,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49682.0,
-  "balance_total": 39682.0,
-  "balance_dia": 122.0,
-  "ganados": 2698,
+  "capital": 49743.0,
+  "balance_total": 39743.0,
+  "balance_dia": 183.0,
+  "ganados": 2699,
   "perdidos": 1192,
   "pendientes": 4,
-  "ganados_dia": 2,
+  "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 69.4,
   "roi": 10.2,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3894,
+  "con_cuota_media": 3895,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -494,7 +494,15 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Novaci",
+   "away": "Ohrid",
+   "liga": "Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -761,13 +769,13 @@
   }
  ],
  "stats_gt": {
-  "n": 2721,
-  "ganados": 1841,
+  "n": 2722,
+  "ganados": 1842,
   "win_rate": 68,
   "hoy": 5
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 3,
   "perdidos": 0,
   "en_juego": 4,
   "win_rate": 100
