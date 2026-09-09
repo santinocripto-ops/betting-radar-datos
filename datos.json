@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T13:16:27.565236+00:00",
+ "actualizado": "2026-09-09T13:23:18.939398+00:00",
  "partidos_vivo": [
   {
    "home": "WIT Georgia",
@@ -236,7 +236,7 @@
   "balance_dia": 61.0,
   "ganados": 2697,
   "perdidos": 1192,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.3,
@@ -244,7 +244,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3891,
+  "con_cuota_media": 3892,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -787,7 +787,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
