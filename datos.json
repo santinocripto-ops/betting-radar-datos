@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-09T21:47:50.217191+00:00",
+ "actualizado": "2026-09-09T21:54:57.896894+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -63,12 +69,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:24",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:05",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -768,6 +768,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
+   "apuesta": "SI, Barranquilla: Leolia Jeanjean ganara",
+   "usdc": 15057,
+   "prob": 56.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:54"
+  },
+  {
    "titulo": "Will SSC Napoli win on 2026-09-09?",
    "apuesta": "SI, SSC Napoli ganara",
    "usdc": 264771,
@@ -829,15 +838,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "17:51"
-  },
-  {
-   "titulo": "Antalya 4: Irene Burillo Escorihuela vs Miriam Bulgaru",
-   "apuesta": "SI, Antalya 4: Irene Burillo Escorihuela ganara",
-   "usdc": 116846,
-   "prob": 86.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "17:29"
   }
  ],
  "stats_gt": {
