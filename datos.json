@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T13:09:18.702962+00:00",
+ "actualizado": "2026-09-09T13:16:27.565236+00:00",
  "partidos_vivo": [
   {
    "home": "WIT Georgia",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:16",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "14:54",
@@ -189,6 +195,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Selangor",
+   "away": "Sabah FA",
+   "liga": "FA Cup",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
   {
    "home": "Ahrobiznes Volochysk",
    "away": "Livyi Bereh",
@@ -765,7 +782,7 @@
   "n": 2720,
   "ganados": 1840,
   "win_rate": 68,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 1,
