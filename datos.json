@@ -1,68 +1,7 @@
 {
- "actualizado": "2026-09-09T21:40:29.081728+00:00",
- "partidos_vivo": [
-  {
-   "home": "Anzoátegui FC",
-   "away": "Petare FC",
-   "liga": "Copa Venezuela",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.55 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Urena SC",
-   "away": "Rayo Zuliano",
-   "liga": "Copa Venezuela",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.55 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Santa Fe W",
-   "away": "Deportivo Cali W",
-   "liga": "Liga Femenina",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 7,
+ "actualizado": "2026-09-09T21:47:50.217191+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
