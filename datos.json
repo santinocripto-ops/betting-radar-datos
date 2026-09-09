@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T14:15:48.771568+00:00",
+ "actualizado": "2026-09-09T14:22:52.592824+00:00",
  "partidos_vivo": [
   {
    "home": "Znamya Noginsk",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:15",
    "tipo": "live"
   },
@@ -150,12 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "13:29",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:58",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -216,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Novaci",
+   "away": "Ohrid",
+   "liga": "Cup",
+   "minuto": 16,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": true
+  },
+  {
    "home": "Kaluga",
    "away": "FC UFA",
    "liga": "Cup",
@@ -267,7 +278,7 @@
   "balance_dia": 122.0,
   "ganados": 2698,
   "perdidos": 1192,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.4,
@@ -275,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3892,
+  "con_cuota_media": 3893,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -813,12 +824,12 @@
   "n": 2721,
   "ganados": 1841,
   "win_rate": 68,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
