@@ -1,9 +1,16 @@
 {
- "actualizado": "2026-09-09T10:51:53.965438+00:00",
+ "actualizado": "2026-09-09T10:59:00.192076+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:58",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
