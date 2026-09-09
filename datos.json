@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T21:20:33.464832+00:00",
+ "actualizado": "2026-09-09T21:33:17.785410+00:00",
  "partidos_vivo": [
   {
    "home": "Anzoátegui FC",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:33",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:12",
@@ -129,12 +135,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "21:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "21:03",
    "tipo": "smart_money"
   }
  ],
