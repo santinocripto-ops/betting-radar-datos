@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-09T22:26:27.092263+00:00",
+ "actualizado": "2026-09-09T22:33:42.420096+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:33",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Botafogo SP vs Novorizontino · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
@@ -62,12 +68,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:24",
    "tipo": "live"
   },
   {
