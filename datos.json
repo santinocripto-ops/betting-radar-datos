@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T23:24:34.415427+00:00",
+ "actualizado": "2026-09-09T23:31:36.466152+00:00",
  "partidos_vivo": [
   {
    "home": "Palmeiras",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:31",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:43",
    "tipo": "live"
   }
  ],
@@ -776,6 +776,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
+   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
+   "usdc": 249070,
+   "prob": 87.5,
+   "n_traders": 4,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "01:31"
+  },
+  {
    "titulo": "Will Atlanta United FC win on 2026-09-09?",
    "apuesta": "SI, Atlanta United ganara",
    "usdc": 193399,
@@ -837,15 +846,6 @@
    "n_traders": 4,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "18:13"
-  },
-  {
-   "titulo": "Will FC Barcelona win on 2026-09-09?",
-   "apuesta": "NO, FC Barcelona no ganara",
-   "usdc": 158000,
-   "prob": 8.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "17:52"
   }
  ],
  "stats_gt": {
