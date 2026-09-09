@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-09T23:45:58.411777+00:00",
+ "actualizado": "2026-09-09T23:53:08.026142+00:00",
  "partidos_vivo": [
   {
    "home": "Fortaleza EC",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:53",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -103,18 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "22:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:58",
    "tipo": "live"
   }
  ],
@@ -185,6 +185,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "CF Montreal",
+   "away": "Charlotte",
+   "liga": "Major League Soccer",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": false
+  },
+  {
+   "home": "DC United",
+   "away": "Columbus Crew",
+   "liga": "Major League Soccer",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-09",
+   "es_hoy": false
+  },
+  {
    "home": "Operario-PR",
    "away": "CRB",
    "liga": "Serie B",
@@ -227,28 +249,6 @@
    "resultado": "perdido",
    "fecha": "2026-09-09",
    "es_hoy": false
-  },
-  {
-   "home": "Charlton",
-   "away": "QPR",
-   "liga": "Championship",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-09",
-   "es_hoy": false
-  },
-  {
-   "home": "ST Johnstone",
-   "away": "Celtic",
-   "liga": "Premiership",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-09",
-   "es_hoy": false
   }
  ],
  "banca": {
@@ -258,7 +258,7 @@
   "balance_dia": 0.0,
   "ganados": 2721,
   "perdidos": 1204,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.3,
@@ -266,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3926,
+  "con_cuota_media": 3927,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -857,7 +857,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
