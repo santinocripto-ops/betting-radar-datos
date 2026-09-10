@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T19:03:13.338136+00:00",
+ "actualizado": "2026-09-10T19:30:59.761984+00:00",
  "partidos_vivo": [
   {
    "home": "Enköping",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:30",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -78,12 +84,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:40",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
