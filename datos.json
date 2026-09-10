@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T00:44:57.308548+00:00",
+ "actualizado": "2026-09-10T00:52:02.164417+00:00",
  "partidos_vivo": [
   {
    "home": "Toronto FC",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:51",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:51",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -104,18 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "01:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:33",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Botafogo SP vs Novorizontino · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
-   "hora": "00:04",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -184,6 +184,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Houston Dynamo",
+   "away": "Real Salt Lake",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
+  {
+   "home": "Minnesota United FC",
+   "away": "FC Dallas",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
   {
    "home": "New York City FC",
    "away": "New England Revolution",
@@ -797,7 +819,7 @@
   "n": 2746,
   "ganados": 1856,
   "win_rate": 68,
-  "hoy": 1
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 0,
