@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T04:58:40.317045+00:00",
+ "actualizado": "2026-09-10T05:05:14.189056+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -113,7 +113,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 81,
-   "n_historico": 204
+   "n_historico": 205
   },
   {
    "clave": "over25",
@@ -127,7 +127,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1289
+   "n_historico": 1291
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1289
+   "n_historico": 1291
   }
  ],
  "gol_temprano": [
@@ -152,7 +152,7 @@
    "minuto": 13,
    "score": 9.6,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -192,16 +192,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49891.0,
-  "balance_total": 39891.0,
-  "balance_dia": 134.0,
-  "ganados": 2727,
+  "capital": 49952.0,
+  "balance_total": 39952.0,
+  "balance_dia": 195.0,
+  "ganados": 2728,
   "perdidos": 1206,
-  "pendientes": 2,
-  "ganados_dia": 6,
+  "pendientes": 1,
+  "ganados_dia": 7,
   "perdidos_dia": 2,
   "win_rate": 69.3,
-  "roi": 10.1,
+  "roi": 10.2,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -233,7 +233,7 @@
     "away": "St. Louis City",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -242,7 +242,7 @@
     "away": "New York Red Bulls",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -370,7 +370,7 @@
     "away": "St. Louis City",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -397,7 +397,7 @@
     "away": "Los Angeles Galaxy",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -466,8 +466,8 @@
    }
   ],
   "balance": {
-   "ganados": 1555,
-   "perdidos": 1023,
+   "ganados": 1558,
+   "perdidos": 1024,
    "acierto": 60.3,
    "yield": 14.6,
    "cuota_media": 1.9
@@ -788,16 +788,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2752,
-  "ganados": 1860,
+  "n": 2753,
+  "ganados": 1861,
   "win_rate": 68,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 7,
+  "ganados": 8,
   "perdidos": 2,
-  "en_juego": 1,
-  "win_rate": 78
+  "en_juego": 0,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 87,
