@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T20:37:59.779279+00:00",
+ "actualizado": "2026-09-10T20:44:17.067462+00:00",
  "partidos_vivo": [
   {
    "home": "Estrela",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:44",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:40",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
