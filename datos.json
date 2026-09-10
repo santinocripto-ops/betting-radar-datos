@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T06:47:24.208109+00:00",
+ "actualizado": "2026-09-10T06:53:32.462523+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "08:53",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:30",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:23",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
