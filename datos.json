@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T10:48:16.719175+00:00",
+ "actualizado": "2026-09-10T10:54:24.950697+00:00",
  "partidos_vivo": [
   {
    "home": "Coal India",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "06:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:59",
    "tipo": "smart_money"
   }
  ],
@@ -731,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Antalya 4: Francesca Jones vs Rositsa Dencheva",
+   "apuesta": "SI, Antalya 4: Francesca Jones ganara",
+   "usdc": 19805,
+   "prob": 37.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:54"
+  },
+  {
    "titulo": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
    "apuesta": "SI, Counter-Strike: Legacy ganara",
    "usdc": 19063,
@@ -792,15 +801,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "04:59"
-  },
-  {
-   "titulo": "Will Minnesota United FC win on 2026-09-09?",
-   "apuesta": "SI, Minnesota United ganara",
-   "usdc": 104644,
-   "prob": 55.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "02:00"
   }
  ],
  "stats_gt": {
