@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T18:05:25.151918+00:00",
+ "actualizado": "2026-09-10T18:12:23.015272+00:00",
  "partidos_vivo": [
   {
    "home": "Fenerbahçe",
@@ -578,13 +578,6 @@
    "home": "Super Nova",
    "away": "Tukums",
    "liga": "Virsliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Alay",
-   "away": "Muras United",
-   "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
