@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-10T13:51:59.085954+00:00",
- "partidos_vivo": [
-  {
-   "home": "Viettel",
-   "away": "Công An Nhân Dân",
-   "liga": "V.League 1",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
+ "actualizado": "2026-09-10T13:58:34.030294+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
