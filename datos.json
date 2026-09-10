@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T03:59:45.564919+00:00",
+ "actualizado": "2026-09-10T04:05:50.676511+00:00",
  "partidos_vivo": [
   {
    "home": "Los Angeles FC",
@@ -187,7 +187,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1288
+   "n_historico": 1289
   },
   {
    "clave": "btts",
@@ -526,7 +526,7 @@
    }
   ],
   "balance": {
-   "ganados": 1554,
+   "ganados": 1555,
    "perdidos": 1023,
    "acierto": 60.3,
    "yield": 14.6,
