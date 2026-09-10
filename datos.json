@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-10T14:12:21.544192+00:00",
+ "actualizado": "2026-09-10T14:19:01.012346+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:18",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:54",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:36",
    "tipo": "smart_money"
   }
  ],
@@ -208,7 +208,7 @@
   "balance_dia": 140.0,
   "ganados": 2729,
   "perdidos": 1207,
-  "pendientes": 1,
+  "pendientes": 2,
   "ganados_dia": 8,
   "perdidos_dia": 3,
   "win_rate": 69.3,
@@ -216,7 +216,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3937,
+  "con_cuota_media": 3938,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -740,6 +740,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "AGS Astéras Trípolis vs. AS Áris Thessaloníkis: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 21954,
+   "prob": 51.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "16:18"
+  },
+  {
    "titulo": "Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 15215,
@@ -801,15 +810,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:23"
-  },
-  {
-   "titulo": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group ",
-   "apuesta": "SI, Counter-Strike: MIBR ganara",
-   "usdc": 100000,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "12:17"
   }
  ],
  "stats_gt": {
@@ -821,7 +821,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 3,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 75
  },
  "stats_banker": {
