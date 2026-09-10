@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-10T02:46:25.016502+00:00",
+ "actualizado": "2026-09-10T02:52:53.396697+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "04:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:31",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +124,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Los Angeles FC",
+   "away": "New York Red Bulls",
+   "liga": "Major League Soccer",
+   "minuto": 13,
+   "score": 9.6,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
   {
    "home": "Houston Dynamo",
    "away": "Real Salt Lake",
@@ -774,7 +785,7 @@
   "n": 2749,
   "ganados": 1859,
   "win_rate": 68,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 4,
