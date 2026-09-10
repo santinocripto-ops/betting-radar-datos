@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T15:55:31.832759+00:00",
+ "actualizado": "2026-09-10T16:02:13.117510+00:00",
  "partidos_vivo": [
   {
    "home": "Legion",
@@ -143,7 +143,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 81,
-   "n_historico": 205
+   "n_historico": 206
   },
   {
    "clave": "over25",
@@ -157,7 +157,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1297
+   "n_historico": 1299
   },
   {
    "clave": "btts",
@@ -171,7 +171,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1295
+   "n_historico": 1297
   }
  ],
  "gol_temprano": [
@@ -182,7 +182,7 @@
    "minuto": 10,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -244,14 +244,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49897.0,
-  "balance_total": 39897.0,
-  "balance_dia": 140.0,
-  "ganados": 2729,
-  "perdidos": 1207,
-  "pendientes": 3,
-  "ganados_dia": 8,
-  "perdidos_dia": 3,
+  "capital": 49842.0,
+  "balance_total": 39842.0,
+  "balance_dia": 85.0,
+  "ganados": 2730,
+  "perdidos": 1208,
+  "pendientes": 1,
+  "ganados_dia": 9,
+  "perdidos_dia": 4,
   "win_rate": 69.3,
   "roi": 10.1,
   "stake": 100.0,
@@ -357,7 +357,7 @@
     "away": "Al Nasr",
     "liga": "Pro League",
     "hora": "15:40",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -375,7 +375,7 @@
     "away": "Al Wakrah",
     "liga": "Stars League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -503,7 +503,7 @@
     "away": "Al Wakrah",
     "liga": "Stars League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -518,10 +518,10 @@
    }
   ],
   "balance": {
-   "ganados": 1565,
-   "perdidos": 1027,
+   "ganados": 1568,
+   "perdidos": 1028,
    "acierto": 60.4,
-   "yield": 14.7,
+   "yield": 14.8,
    "cuota_media": 1.9
   }
  },
@@ -531,7 +531,7 @@
    "away": "Muras United",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -854,16 +854,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2754,
+  "n": 2755,
   "ganados": 1861,
   "win_rate": 68,
   "hoy": 6
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 3,
-  "en_juego": 3,
-  "win_rate": 75
+  "ganados": 10,
+  "perdidos": 4,
+  "en_juego": 1,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 87,
