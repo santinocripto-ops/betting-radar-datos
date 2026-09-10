@@ -1,44 +1,64 @@
 {
- "actualizado": "2026-09-10T01:06:07.676562+00:00",
+ "actualizado": "2026-09-10T01:13:49.434687+00:00",
  "partidos_vivo": [
   {
-   "home": "Toronto FC",
-   "away": "Nashville SC",
+   "home": "Philadelphia Union",
+   "away": "FC Cincinnati",
    "liga": "Major League Soccer",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "minuto": 53,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 88,
+   "momentum_away": 12,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 1 gol — Toronto FC buscará el empate",
-    "🎯 13 remates totales"
+    "🔥 3 goles — partido muy abierto",
+    "⚡ FC Cincinnati pierde por 3 — atacará sin freno"
    ]
   },
   {
-   "home": "America Mineiro",
-   "away": "Nautico Recife",
-   "liga": "Serie B",
-   "minuto": 54,
-   "marcador": "2-0",
+   "home": "Huntsville City",
+   "away": "Chattanooga",
+   "liga": "MLS Next Pro",
+   "minuto": 51,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.2,
    "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Nautico Recife pierde por 2 — atacará sin freno",
-    "🎯 21 remates totales — partido muy intenso"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Comunicaciones",
+   "away": "Marquense",
+   "liga": "Liga Nacional",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Comunicaciones buscará el empate"
    ]
   }
  ],
@@ -525,8 +545,8 @@
     "cuota": 1.36,
     "pinnacle": true,
     "delta": 3.31,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-09T22:30:00+00:00",
     "ts": "2026-09-09T18:08:52.446182+00:00"
    },
@@ -712,11 +732,11 @@
    }
   ],
   "balance": {
-   "ganados": 246,
+   "ganados": 247,
    "perdidos": 102,
-   "pendientes": 3,
-   "acierto": 70.7,
-   "total": 348
+   "pendientes": 2,
+   "acierto": 70.8,
+   "total": 349
   }
  },
  "mejor_dia": {
