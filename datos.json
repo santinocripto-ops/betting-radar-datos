@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T11:00:21.420268+00:00",
+ "actualizado": "2026-09-10T11:06:45.928969+00:00",
  "partidos_vivo": [
   {
    "home": "Coal India",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "06:47",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "06:46",
    "tipo": "smart_money"
   }
  ],
@@ -731,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: MIBR vs BetBoom Team - Map 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 192495,
+   "prob": 42.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "13:06"
+  },
+  {
    "titulo": "Antalya 4: Francesca Jones vs Rositsa Dencheva",
    "apuesta": "SI, Antalya 4: Francesca Jones ganara",
    "usdc": 19805,
@@ -792,15 +801,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "05:59"
-  },
-  {
-   "titulo": "Map Handicap: G2 (-1.5) vs 9z (+1.5)",
-   "apuesta": "SI, Map Handicap: G2 (-1.5) ganara",
-   "usdc": 116848,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "04:59"
   }
  ],
  "stats_gt": {
