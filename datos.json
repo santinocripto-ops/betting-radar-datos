@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T10:12:01.590941+00:00",
+ "actualizado": "2026-09-10T10:18:07.392307+00:00",
  "partidos_vivo": [
   {
    "home": "RTC",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:17",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Slavia Praha vs Lens · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.2 (10 casas)",
@@ -89,12 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "04:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "03:47",
    "tipo": "live"
   }
  ],
@@ -731,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: MIBR vs BetBoom Team (BO3) - FISSURE PLAYGROUND Group ",
+   "apuesta": "SI, Counter-Strike: MIBR ganara",
+   "usdc": 100000,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "12:17"
+  },
+  {
    "titulo": "Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A",
    "apuesta": "SI, Counter-Strike: 9z ganara",
    "usdc": 47788,
@@ -792,15 +801,6 @@
    "n_traders": 4,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "01:31"
-  },
-  {
-   "titulo": "Will Atlanta United FC win on 2026-09-09?",
-   "apuesta": "SI, Atlanta United ganara",
-   "usdc": 193399,
-   "prob": 45.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "01:02"
   }
  ],
  "stats_gt": {
