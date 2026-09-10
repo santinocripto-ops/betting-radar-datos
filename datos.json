@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T21:03:17.047942+00:00",
+ "actualizado": "2026-09-10T21:24:31.522301+00:00",
  "partidos_vivo": [
   {
    "home": "Estrela",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:24",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:40",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -502,27 +502,6 @@
    "liga": "Super League 1",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Radnik Surdulica",
-   "away": "FK Crvena Zvezda",
-   "liga": "Super Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  },
-  {
-   "home": "Varbergs BoIS FC",
-   "away": "IFK Norrkoping",
-   "liga": "Superettan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Falkenbergs FF",
-   "away": "Osters IF",
-   "liga": "Superettan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -582,8 +561,8 @@
     "cuota": 1.25,
     "pinnacle": true,
     "delta": 3.75,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-10T19:00:00+00:00",
     "ts": "2026-09-10T07:05:44.998709+00:00"
    },
@@ -597,8 +576,8 @@
     "cuota": 1.18,
     "pinnacle": true,
     "delta": 3.24,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-10T19:00:00+00:00",
     "ts": "2026-09-10T07:05:45.829271+00:00"
    },
@@ -612,8 +591,8 @@
     "cuota": 1.03,
     "pinnacle": false,
     "delta": 3.71,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "5-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-10T19:00:00+00:00",
     "ts": "2026-09-10T07:05:46.335654+00:00"
    },
@@ -754,11 +733,11 @@
    }
   ],
   "balance": {
-   "ganados": 250,
+   "ganados": 253,
    "perdidos": 102,
-   "pendientes": 6,
-   "acierto": 71.0,
-   "total": 352
+   "pendientes": 3,
+   "acierto": 71.3,
+   "total": 355
   }
  },
  "mejor_dia": {
