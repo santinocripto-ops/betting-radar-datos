@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T18:31:40.075054+00:00",
+ "actualizado": "2026-09-10T18:37:24.568594+00:00",
  "partidos_vivo": [
   {
    "home": "Falkenbergs FF",
@@ -349,7 +349,7 @@
   "balance_dia": -170.0,
   "ganados": 2731,
   "perdidos": 1211,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 10,
   "perdidos_dia": 7,
   "win_rate": 69.3,
@@ -357,7 +357,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3951,
+  "con_cuota_media": 3952,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -990,7 +990,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 7,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 61
  },
  "stats_banker": {
