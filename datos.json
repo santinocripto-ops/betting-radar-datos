@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T05:05:14.189056+00:00",
+ "actualizado": "2026-09-10T05:11:55.795999+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -486,8 +486,8 @@
     "cuota": 1.11,
     "pinnacle": true,
     "delta": 3.46,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-10T02:30:00+00:00",
     "ts": "2026-09-09T19:05:50.591839+00:00"
    },
@@ -703,11 +703,11 @@
    }
   ],
   "balance": {
-   "ganados": 248,
+   "ganados": 249,
    "perdidos": 102,
-   "pendientes": 1,
+   "pendientes": 0,
    "acierto": 70.9,
-   "total": 350
+   "total": 351
   }
  },
  "mejor_dia": {
