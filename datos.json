@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-09-10T01:33:49.235854+00:00",
+ "actualizado": "2026-09-10T01:40:56.829629+00:00",
  "partidos_vivo": [
   {
-   "home": "Philadelphia Union",
-   "away": "FC Cincinnati",
-   "liga": "Major League Soccer",
+   "home": "Blooming",
+   "away": "Gualberto Villarroel SJ",
+   "liga": "Copa de la División Profesional",
    "minuto": 53,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 88,
-   "momentum_away": 12,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ FC Cincinnati pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Huntsville City",
-   "away": "Chattanooga",
-   "liga": "MLS Next Pro",
-   "minuto": 51,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.2,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Comunicaciones",
-   "away": "Marquense",
-   "liga": "Liga Nacional",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚽ Liga muy goleadora: 3.35 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Comunicaciones buscará el empate"
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
