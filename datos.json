@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T13:58:34.030294+00:00",
+ "actualizado": "2026-09-10T14:05:30.842416+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -116,7 +116,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1294
+   "n_historico": 1297
   },
   {
    "clave": "btts",
@@ -130,7 +130,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1293
+   "n_historico": 1295
   }
  ],
  "gol_temprano": [
@@ -141,7 +141,7 @@
    "minuto": 18,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -192,16 +192,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49997.0,
-  "balance_total": 39997.0,
-  "balance_dia": 240.0,
+  "capital": 49897.0,
+  "balance_total": 39897.0,
+  "balance_dia": 140.0,
   "ganados": 2729,
-  "perdidos": 1206,
-  "pendientes": 2,
+  "perdidos": 1207,
+  "pendientes": 1,
   "ganados_dia": 8,
-  "perdidos_dia": 2,
-  "win_rate": 69.4,
-  "roi": 10.2,
+  "perdidos_dia": 3,
+  "win_rate": 69.3,
+  "roi": 10.1,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -278,7 +278,7 @@
     "away": "Kolkheti Khobi",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -296,7 +296,7 @@
     "away": "Turan Turkistan",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -406,7 +406,7 @@
     "away": "Margveti 2006",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -424,7 +424,7 @@
     "away": "Kolkheti Khobi",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -433,7 +433,7 @@
     "away": "Turan Turkistan",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -466,10 +466,10 @@
    }
   ],
   "balance": {
-   "ganados": 1560,
+   "ganados": 1565,
    "perdidos": 1027,
-   "acierto": 60.3,
-   "yield": 14.6,
+   "acierto": 60.4,
+   "yield": 14.7,
    "cuota_media": 1.9
   }
  },
@@ -802,16 +802,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2753,
+  "n": 2754,
   "ganados": 1861,
   "win_rate": 68,
   "hoy": 5
  },
  "stats_dia": {
   "ganados": 9,
-  "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 82
+  "perdidos": 3,
+  "en_juego": 1,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 87,
