@@ -1,28 +1,88 @@
 {
- "actualizado": "2026-09-10T03:47:18.203010+00:00",
+ "actualizado": "2026-09-10T03:53:41.080633+00:00",
  "partidos_vivo": [
   {
-   "home": "Suchitepéquez",
-   "away": "Guastatoya",
-   "liga": "Liga Nacional",
-   "minuto": 50,
-   "marcador": "0-1",
+   "home": "Los Angeles FC",
+   "away": "New York Red Bulls",
+   "liga": "Major League Soccer",
+   "minuto": 51,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 56,
+   "momentum_away": 44,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Suchitepéquez buscará el empate"
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "⚽ 1 gol — New York Red Bulls buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Vancouver Whitecaps",
+   "away": "Los Angeles Galaxy",
+   "liga": "Major League Soccer",
+   "minuto": 54,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 75,
+   "momentum_away": 25,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "⚽ 1 gol — Los Angeles Galaxy buscará el empate",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "San Diego",
+   "away": "San Jose Earthquakes",
+   "liga": "Major League Soccer",
+   "minuto": 47,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 20,
+   "momentum_away": 80,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ San Diego pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Portland Timbers",
+   "away": "St. Louis City",
+   "liga": "Major League Soccer",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 70,
+   "momentum_away": 30,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 14 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
