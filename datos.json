@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-10T08:35:43.328887+00:00",
+ "actualizado": "2026-09-10T08:41:59.936296+00:00",
  "partidos_vivo": [
   {
-   "home": "CD Motagua",
-   "away": "Alianza",
-   "liga": "CONCACAF Central American Cup",
-   "minuto": 59,
-   "marcador": "2-0",
+   "home": "Barcelona U19",
+   "away": "Feyenoord U19",
+   "liga": "UEFA Youth League",
+   "minuto": 51,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.0,
@@ -16,9 +16,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 3.91 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
