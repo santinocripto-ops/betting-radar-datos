@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T14:58:05.972382+00:00",
+ "actualizado": "2026-09-10T15:04:31.891049+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Jazira",
@@ -525,15 +525,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Sport Academy Kairat",
-   "away": "Astana II",
-   "liga": "1. Division",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
