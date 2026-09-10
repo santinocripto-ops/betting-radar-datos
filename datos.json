@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-10T14:05:30.842416+00:00",
+ "actualizado": "2026-09-10T14:12:21.544192+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:12",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -62,18 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:36",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:24",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:17",
    "tipo": "smart_money"
   }
  ],
@@ -134,6 +134,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Alay",
+   "away": "Muras United",
+   "liga": "Premier League",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
   {
    "home": "Sport Academy Kairat",
    "away": "Astana II",
@@ -729,6 +740,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Dota 2: GamerLegion vs Klim Sani4 - Game 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 15215,
+   "prob": 72.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "16:12"
+  },
+  {
    "titulo": "Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qua",
    "apuesta": "SI, ganara",
    "usdc": 100000,
@@ -790,22 +810,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "12:17"
-  },
-  {
-   "titulo": "Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A",
-   "apuesta": "SI, Counter-Strike: 9z ganara",
-   "usdc": 47788,
-   "prob": 52.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:47"
   }
  ],
  "stats_gt": {
   "n": 2754,
   "ganados": 1861,
   "win_rate": 68,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 9,
