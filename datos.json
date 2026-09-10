@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-10T10:30:06.772962+00:00",
+ "actualizado": "2026-09-10T10:36:21.358643+00:00",
  "partidos_vivo": [
   {
-   "home": "RTC",
-   "away": "Thimphu City",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Coal India",
+   "away": "Mohun Bagan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 46,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,15 +16,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.97 goles/partido",
+    "⚽ Liga muy goleadora: 3.61 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — RTC buscará el empate"
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:36",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -89,12 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "05:59",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "04:59",
    "tipo": "smart_money"
   }
  ],
@@ -731,6 +731,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Legacy vs FURIA (BO3) - FISSURE PLAYGROUND Group B",
+   "apuesta": "SI, Counter-Strike: Legacy ganara",
+   "usdc": 19063,
+   "prob": 76.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "12:35"
+  },
+  {
    "titulo": "Counter-Strike: Legacy vs FURIA - Map 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 23081,
@@ -792,15 +801,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "02:00"
-  },
-  {
-   "titulo": "Will Houston Dynamo win on 2026-09-09?",
-   "apuesta": "SI, Houston Dynamo ganara",
-   "usdc": 127803,
-   "prob": 54.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "01:59"
   }
  ],
  "stats_gt": {
