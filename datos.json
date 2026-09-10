@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-10T20:26:04.470615+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-10T20:32:08.029328+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Estrela",
+   "away": "SC Braga",
+   "liga": "Primeira Liga",
+   "minuto": 57,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 41,
+   "momentum_away": 59,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.5 (Primeira Liga)",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 10 remates totales"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
