@@ -1,47 +1,6 @@
 {
- "actualizado": "2026-09-10T22:57:22.018744+00:00",
- "partidos_vivo": [
-  {
-   "home": "Aurora",
-   "away": "Municipal",
-   "liga": "Liga Nacional",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Aurora buscará el empate"
-   ]
-  },
-  {
-   "home": "H&H Export",
-   "away": "Diriangén",
-   "liga": "Primera Division",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — H&H Export buscará el empate"
-   ]
-  }
- ],
+ "actualizado": "2026-09-10T23:04:07.079011+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
