@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-10T04:17:51.012623+00:00",
+ "actualizado": "2026-09-10T04:23:50.532466+00:00",
  "partidos_vivo": [
   {
-   "home": "Los Angeles FC",
-   "away": "New York Red Bulls",
-   "liga": "Major League Soccer",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 1 gol — New York Red Bulls buscará el empate",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Vancouver Whitecaps",
-   "away": "Los Angeles Galaxy",
-   "liga": "Major League Soccer",
-   "minuto": 54,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 1 gol — Los Angeles Galaxy buscará el empate",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "San Diego",
-   "away": "San Jose Earthquakes",
-   "liga": "Major League Soccer",
-   "minuto": 47,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ San Diego pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Portland Timbers",
-   "away": "St. Louis City",
-   "liga": "Major League Soccer",
-   "minuto": 49,
-   "marcador": "1-1",
+   "home": "CD Motagua",
+   "away": "Alianza",
+   "liga": "CONCACAF Central American Cup",
+   "minuto": 59,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 14 remates totales"
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
