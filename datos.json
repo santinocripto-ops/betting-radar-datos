@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T15:36:31.259428+00:00",
+ "actualizado": "2026-09-10T15:42:44.321662+00:00",
  "partidos_vivo": [
   {
    "home": "Al Shamal",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:42",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:11",
@@ -150,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:18",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -821,6 +821,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will AS Roma win on 2026-09-10?",
+   "apuesta": "SI, AS Roma ganara",
+   "usdc": 129841,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "17:42"
+  },
+  {
    "titulo": "AGS Astéras Trípolis vs. AS Áris Thessaloníkis: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 21954,
@@ -882,15 +891,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "12:35"
-  },
-  {
-   "titulo": "Counter-Strike: Legacy vs FURIA - Map 2 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 23081,
-   "prob": 44.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:23"
   }
  ],
  "stats_gt": {
