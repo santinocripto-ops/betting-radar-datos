@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T21:51:55.087140+00:00",
+ "actualizado": "2026-09-10T21:58:17.142363+00:00",
  "partidos_vivo": [
   {
    "home": "São Paulo U20",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "23:58",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -83,12 +89,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:31",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:05",
    "tipo": "live"
   },
   {
