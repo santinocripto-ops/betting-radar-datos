@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-10T14:50:27.313483+00:00",
+ "actualizado": "2026-09-10T14:58:05.972382+00:00",
  "partidos_vivo": [
   {
-   "home": "Korea DPR U20 W",
-   "away": "Costa Rica U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 63,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Al-Jazira",
+   "away": "Al Nasr",
+   "liga": "Pro League",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.7 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "⚽ 1 gol — Al Nasr buscará el empate",
+    "🎯 10 remates totales"
+   ]
+  },
+  {
+   "home": "Dubai United",
+   "away": "Shabab Al Ahli Dubai",
+   "liga": "Pro League",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 36,
+   "momentum_away": 64,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
