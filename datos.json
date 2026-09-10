@@ -1,248 +1,68 @@
 {
- "actualizado": "2026-09-10T17:46:24.216244+00:00",
+ "actualizado": "2026-09-10T17:52:43.150661+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Riffa",
-   "away": "Khalidiya",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Luunja",
-   "away": "Tulevik",
-   "liga": "Esiliiga B",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "FCI Levadia II",
-   "away": "Tartu Welco",
-   "liga": "Esiliiga A",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.19 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Viimsi",
-   "away": "Elva",
-   "liga": "Esiliiga A",
-   "minuto": 65,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.19 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Hapoel Kfar Saba",
-   "away": "Maccabi Kiryat Gat",
-   "liga": "Liga Leumit",
-   "minuto": 62,
-   "marcador": "2-0",
+   "home": "Fenerbahçe",
+   "away": "AS Roma",
+   "liga": "UEFA Champions League",
+   "minuto": 50,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 56,
+   "momentum_away": 44,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Hapoel Kfar Shalem",
-   "away": "Maccabi Ahi Nazareth",
-   "liga": "Liga Leumit",
-   "minuto": 60,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "PSV Eindhoven",
+   "away": "Shakhtar Donetsk",
+   "liga": "UEFA Champions League",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 60,
+   "momentum_away": 40,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⭐ Bonus liga: +2.0 (UEFA Champions League)",
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚽ 1 gol — PSV Eindhoven buscará el empate"
    ]
   },
   {
-   "home": "Ironi Modi'in",
-   "away": "Bnei Yehuda",
-   "liga": "Liga Leumit",
+   "home": "Shinnik Yaroslavl",
+   "away": "Torpedo Moskva",
+   "liga": "Cup",
    "minuto": 61,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Super Nova",
-   "away": "Tukums",
-   "liga": "Virsliga",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Muharraq",
-   "away": "Manama",
-   "liga": "Premier League",
-   "minuto": 58,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.8,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 33,
+   "momentum_away": 67,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Manama buscará el empate"
-   ]
-  },
-  {
-   "home": "Sundby",
-   "away": "FC Midtjylland",
-   "liga": "DBU Pokalen",
-   "minuto": 62,
-   "marcador": "0-5",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "China PR U20 W",
-   "away": "Nigeria U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.7 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Colombia U20 W",
-   "away": "Portugal U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.7 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 1 gol — Torpedo Moskva buscará el empate",
+    "⏱ 29 minutos por jugar — margen justo",
+    "🔮 Patrón histórico: en 67% de 18 partidos similares entraron más goles"
    ]
   }
  ],
- "partidos_vivo_total": 17,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
