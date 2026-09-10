@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T00:23:23.122664+00:00",
+ "actualizado": "2026-09-10T00:30:29.268522+00:00",
  "partidos_vivo": [
   {
    "home": "Amazonas U20",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "02:30",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚽ Botafogo SP vs Novorizontino · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "00:04",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "23:54",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -183,7 +183,7 @@
   "balance_dia": 0.0,
   "ganados": 2721,
   "perdidos": 1204,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.3,
@@ -191,7 +191,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3929,
+  "con_cuota_media": 3930,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -782,7 +782,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 0
  },
  "stats_banker": {
