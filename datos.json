@@ -1,9 +1,39 @@
 {
- "actualizado": "2026-09-10T17:06:35.481830+00:00",
+ "actualizado": "2026-09-10T17:13:40.574601+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "19:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "19:13",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -44,36 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:42",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:18",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:12",
    "tipo": "live"
   }
  ],
@@ -135,6 +135,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Radnik Surdulica",
+   "away": "FK Crvena Zvezda",
+   "liga": "Super Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
+  {
+   "home": "Varbergs BoIS FC",
+   "away": "IFK Norrkoping",
+   "liga": "Superettan",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
+  {
+   "home": "Falkenbergs FF",
+   "away": "Osters IF",
+   "liga": "Superettan",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": true
+  },
+  {
    "home": "Al Ain",
    "away": "Al-Wasl FC",
    "liga": "Pro League",
@@ -166,39 +199,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-10",
    "es_hoy": true
-  },
-  {
-   "home": "Super Nova",
-   "away": "Tukums",
-   "liga": "Virsliga",
-   "minuto": 13,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-10",
-   "es_hoy": true
-  },
-  {
-   "home": "Alay",
-   "away": "Muras United",
-   "liga": "Premier League",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": true
-  },
-  {
-   "home": "Sport Academy Kairat",
-   "away": "Astana II",
-   "liga": "1. Division",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -208,7 +208,7 @@
   "balance_dia": 85.0,
   "ganados": 2730,
   "perdidos": 1208,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 9,
   "perdidos_dia": 4,
   "win_rate": 69.3,
@@ -216,7 +216,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3944,
+  "con_cuota_media": 3945,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -485,6 +485,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Al Riffa",
+   "away": "Khalidiya",
+   "liga": "Premier League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Super Nova",
    "away": "Tukums",
@@ -823,12 +830,12 @@
   "n": 2755,
   "ganados": 1861,
   "win_rate": 68,
-  "hoy": 10
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 10,
   "perdidos": 4,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 71
  },
  "stats_banker": {
