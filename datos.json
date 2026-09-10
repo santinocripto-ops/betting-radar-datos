@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T06:05:30.469272+00:00",
+ "actualizado": "2026-09-10T06:11:36.635557+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -477,6 +477,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Ostersunds FK",
+    "away": "IK brage",
+    "liga": "Superettan",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 2.1,
+    "pinnacle": true,
+    "delta": 2.96,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-10T17:00:00+00:00",
+    "ts": "2026-09-10T06:05:30.747588+00:00"
+   },
+   {
     "home": "Vancouver Whitecaps",
     "away": "Los Angeles Galaxy",
     "liga": "Major League Soccer",
@@ -685,27 +700,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-07T20:00:00+00:00",
     "ts": "2026-09-07T15:06:32.340433+00:00"
-   },
-   {
-    "home": "Palermo",
-    "away": "Sampdoria",
-    "liga": "Serie B",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.17,
-    "pinnacle": true,
-    "delta": 3.61,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-07T18:30:00+00:00",
-    "ts": "2026-09-07T14:05:25.512876+00:00"
    }
   ],
   "balance": {
    "ganados": 249,
    "perdidos": 102,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 70.9,
    "total": 351
   }
