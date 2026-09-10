@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T04:41:08.381859+00:00",
+ "actualizado": "2026-09-10T04:47:09.913687+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:47",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:46",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -84,18 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:00",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:59",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:53",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -730,6 +730,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A",
+   "apuesta": "SI, Counter-Strike: 9z ganara",
+   "usdc": 47788,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:47"
+  },
+  {
+   "titulo": "Counter-Strike: 9z vs G2 (BO3) - FISSURE PLAYGROUND Group A",
+   "apuesta": "SI, Counter-Strike: 9z ganara",
+   "usdc": 137486,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:46"
+  },
+  {
    "titulo": "Counter-Strike: Alliance vs TYLOO - Map 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 15375,
@@ -782,24 +800,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "01:02"
-  },
-  {
-   "titulo": "Barranquilla: Leolia Jeanjean vs Julieta Pareja",
-   "apuesta": "SI, Barranquilla: Leolia Jeanjean ganara",
-   "usdc": 15057,
-   "prob": 56.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "23:54"
-  },
-  {
-   "titulo": "Will SSC Napoli win on 2026-09-09?",
-   "apuesta": "SI, SSC Napoli ganara",
-   "usdc": 264771,
-   "prob": 17.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "21:03"
   }
  ],
  "stats_gt": {
