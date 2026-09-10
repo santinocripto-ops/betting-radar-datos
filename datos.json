@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T16:40:28.150386+00:00",
+ "actualizado": "2026-09-10T16:46:40.190107+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Tbilisi",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:46",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -103,12 +109,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "16:12",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:31",
    "tipo": "smart_money"
   },
   {
@@ -781,6 +781,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Manchester United FC win on 2026-09-10?",
+   "apuesta": "NO, Manchester United no ganara",
+   "usdc": 84779,
+   "prob": 10.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "18:46"
+  },
+  {
    "titulo": "Fenerbahçe SK vs. AS Roma: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 84934,
@@ -842,15 +851,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "13:06"
-  },
-  {
-   "titulo": "Antalya 4: Francesca Jones vs Rositsa Dencheva",
-   "apuesta": "SI, Antalya 4: Francesca Jones ganara",
-   "usdc": 19805,
-   "prob": 37.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:54"
   }
  ],
  "stats_gt": {
