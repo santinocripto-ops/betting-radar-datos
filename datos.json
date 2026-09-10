@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T18:55:29.207049+00:00",
+ "actualizado": "2026-09-10T19:03:13.338136+00:00",
  "partidos_vivo": [
   {
    "home": "Enköping",
@@ -25,6 +25,30 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:01",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "21:01",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -72,30 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:52",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -123,7 +123,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 81,
-   "n_historico": 207
+   "n_historico": 208
   },
   {
    "clave": "over25",
@@ -137,7 +137,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1301
+   "n_historico": 1302
   },
   {
    "clave": "btts",
@@ -173,7 +173,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -184,7 +184,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -195,7 +195,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -206,7 +206,7 @@
    "minuto": 13,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -217,22 +217,22 @@
    "minuto": 11,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-10",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49587.0,
-  "balance_total": 39587.0,
-  "balance_dia": -170.0,
-  "ganados": 2731,
-  "perdidos": 1211,
-  "pendientes": 10,
-  "ganados_dia": 10,
-  "perdidos_dia": 7,
-  "win_rate": 69.3,
+  "capital": 49399.0,
+  "balance_total": 39399.0,
+  "balance_dia": -358.0,
+  "ganados": 2735,
+  "perdidos": 1215,
+  "pendientes": 2,
+  "ganados_dia": 14,
+  "perdidos_dia": 11,
+  "win_rate": 69.2,
   "roi": 10.0,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -499,9 +499,9 @@
   ],
   "balance": {
    "ganados": 1572,
-   "perdidos": 1028,
-   "acierto": 60.5,
-   "yield": 14.9,
+   "perdidos": 1029,
+   "acierto": 60.4,
+   "yield": 14.8,
    "cuota_media": 1.9
   }
  },
@@ -511,21 +511,21 @@
    "away": "FK Crvena Zvezda",
    "liga": "Super Liga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Varbergs BoIS FC",
    "away": "IFK Norrkoping",
    "liga": "Superettan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Falkenbergs FF",
    "away": "Osters IF",
    "liga": "Superettan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Al Riffa",
@@ -862,16 +862,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2757,
-  "ganados": 1861,
-  "win_rate": 68,
+  "n": 2762,
+  "ganados": 1863,
+  "win_rate": 67,
   "hoy": 14
  },
  "stats_dia": {
-  "ganados": 11,
-  "perdidos": 7,
-  "en_juego": 10,
-  "win_rate": 61
+  "ganados": 15,
+  "perdidos": 11,
+  "en_juego": 2,
+  "win_rate": 58
  },
  "stats_banker": {
   "ganados": 87,
