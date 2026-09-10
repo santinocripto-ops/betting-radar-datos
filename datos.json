@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T03:53:41.080633+00:00",
+ "actualizado": "2026-09-10T03:59:45.564919+00:00",
  "partidos_vivo": [
   {
    "home": "Los Angeles FC",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "05:59",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "04:59",
    "tipo": "smart_money"
   },
@@ -149,12 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:52",
    "tipo": "live"
   }
  ],
@@ -790,6 +790,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Alliance vs TYLOO - Map 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 15375,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "05:59"
+  },
+  {
    "titulo": "Map Handicap: G2 (-1.5) vs 9z (+1.5)",
    "apuesta": "SI, Map Handicap: G2 (-1.5) ganara",
    "usdc": 116848,
@@ -851,15 +860,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "21:03"
-  },
-  {
-   "titulo": "US Open ATP: Karen Khachanov vs Alexander Blockx",
-   "apuesta": "SI, US Open ATP: Karen Khachanov ganara",
-   "usdc": 112927,
-   "prob": 62.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "20:27"
   }
  ],
  "stats_gt": {
