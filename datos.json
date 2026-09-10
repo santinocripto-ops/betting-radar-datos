@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-10T12:20:34.043697+00:00",
+ "actualizado": "2026-09-10T12:27:10.653443+00:00",
  "partidos_vivo": [
   {
-   "home": "Sport Academy Kairat",
-   "away": "Astana II",
-   "liga": "1. Division",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Fenerbahce U19",
+   "away": "Roma U19",
+   "liga": "UEFA Youth League",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 9.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.91 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
