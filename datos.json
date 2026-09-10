@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T02:59:18.980609+00:00",
+ "actualizado": "2026-09-10T03:06:32.998506+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -92,7 +92,7 @@
    "hora": "19:00",
    "resultado": "pendiente",
    "wr_historico": 81,
-   "n_historico": 203
+   "n_historico": 204
   },
   {
    "clave": "over25",
@@ -104,9 +104,9 @@
    "cuota": 3.6,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1284
+   "n_historico": 1288
   },
   {
    "clave": "btts",
@@ -118,9 +118,9 @@
    "cuota": 1.29,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1284
+   "n_historico": 1289
   }
  ],
  "gol_temprano": [
@@ -142,7 +142,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -153,7 +153,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -164,23 +164,23 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-10",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49940.0,
-  "balance_total": 39940.0,
-  "balance_dia": 183.0,
-  "ganados": 2724,
-  "perdidos": 1204,
-  "pendientes": 7,
-  "ganados_dia": 3,
-  "perdidos_dia": 0,
+  "capital": 49891.0,
+  "balance_total": 39891.0,
+  "balance_dia": 134.0,
+  "ganados": 2727,
+  "perdidos": 1206,
+  "pendientes": 2,
+  "ganados_dia": 6,
+  "perdidos_dia": 2,
   "win_rate": 69.3,
-  "roi": 10.2,
+  "roi": 10.1,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -194,7 +194,7 @@
     "away": "Inter Miami",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -203,7 +203,7 @@
     "away": "FC Dallas",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -230,7 +230,7 @@
     "away": "Houston Dynamo FC II",
     "liga": "MLS Next Pro",
     "hora": "02:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -322,7 +322,7 @@
     "away": "Inter Miami",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -331,7 +331,7 @@
     "away": "FC Dallas",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -445,10 +445,10 @@
    }
   ],
   "balance": {
-   "ganados": 1548,
-   "perdidos": 1020,
+   "ganados": 1554,
+   "perdidos": 1023,
    "acierto": 60.3,
-   "yield": 14.5,
+   "yield": 14.6,
    "cuota_media": 1.9
   }
  },
@@ -458,14 +458,14 @@
    "away": "Real Salt Lake",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Minnesota United FC",
    "away": "FC Dallas",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -782,16 +782,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2749,
-  "ganados": 1859,
+  "n": 2752,
+  "ganados": 1860,
   "win_rate": 68,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 0,
-  "en_juego": 6,
-  "win_rate": 100
+  "ganados": 7,
+  "perdidos": 2,
+  "en_juego": 1,
+  "win_rate": 78
  },
  "stats_banker": {
   "ganados": 87,
