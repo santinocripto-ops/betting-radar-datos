@@ -1,30 +1,36 @@
 {
- "actualizado": "2026-09-10T21:24:31.522301+00:00",
+ "actualizado": "2026-09-10T21:45:38.354272+00:00",
  "partidos_vivo": [
   {
-   "home": "Estrela",
-   "away": "SC Braga",
-   "liga": "Primeira Liga",
-   "minuto": 57,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "São Paulo U20",
+   "away": "Gremio Santo Antonio U20",
+   "liga": "Copa do Brasil U20",
+   "minuto": 55,
+   "marcador": "9-1",
+   "apuesta": "Over 10.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 41,
-   "momentum_away": 59,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 10 remates totales"
+    "⚽ Liga muy goleadora: 4.26 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:44",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -77,12 +83,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:31",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:05",
    "tipo": "live"
   },
   {
@@ -751,6 +751,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Barranquilla: Kaitlin Quevedo vs Claire Liu",
+   "apuesta": "SI, Barranquilla: Kaitlin Quevedo ganara",
+   "usdc": 97719,
+   "prob": 9.2,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:44"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
    "usdc": 111499,
@@ -812,15 +821,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "16:12"
-  },
-  {
-   "titulo": "Counter-Strike: 1WIN vs B8 (BO3) - PGL Masters Bucharest: European Qua",
-   "apuesta": "SI, ganara",
-   "usdc": 100000,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "15:04"
   }
  ],
  "stats_gt": {
