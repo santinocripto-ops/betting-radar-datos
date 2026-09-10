@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-10T09:59:30.321117+00:00",
+ "actualizado": "2026-09-10T10:06:07.323192+00:00",
  "partidos_vivo": [
   {
-   "home": "Barcelona U19",
-   "away": "Feyenoord U19",
-   "liga": "UEFA Youth League",
-   "minuto": 51,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "RTC",
+   "away": "Thimphu City",
+   "liga": "Premier League",
+   "minuto": 50,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.91 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — RTC buscará el empate"
    ]
   }
  ],
@@ -721,7 +721,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "15:40",
+  "cuota": 1.62,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
