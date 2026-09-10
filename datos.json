@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T20:56:18.387245+00:00",
+ "actualizado": "2026-09-10T21:03:17.047942+00:00",
  "partidos_vivo": [
   {
    "home": "Estrela",
@@ -99,17 +99,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Slavia Praha",
-   "away": "Lens",
-   "liga": "UEFA Champions League",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.2,
-   "resultado": "pendiente",
-   "fecha": "2026-09-10"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -121,9 +111,9 @@
    "cuota": null,
    "score": 8.38,
    "hora": "19:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 81,
-   "n_historico": 209
+   "n_historico": 211
   },
   {
    "clave": "over25",
@@ -162,7 +152,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-10",
    "es_hoy": true
   },
@@ -224,14 +214,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49399.0,
-  "balance_total": 39399.0,
-  "balance_dia": -358.0,
-  "ganados": 2735,
-  "perdidos": 1215,
-  "pendientes": 3,
-  "ganados_dia": 14,
-  "perdidos_dia": 11,
+  "capital": 49344.0,
+  "balance_total": 39344.0,
+  "balance_dia": -413.0,
+  "ganados": 2736,
+  "perdidos": 1216,
+  "pendientes": 1,
+  "ganados_dia": 15,
+  "perdidos_dia": 12,
   "win_rate": 69.2,
   "roi": 10.0,
   "stake": 100.0,
@@ -511,7 +501,7 @@
    "away": "Kifisia",
    "liga": "Super League 1",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Radnik Surdulica",
@@ -855,22 +845,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2762,
+  "n": 2763,
   "ganados": 1863,
   "win_rate": 67,
   "hoy": 14
  },
  "stats_dia": {
-  "ganados": 15,
-  "perdidos": 11,
-  "en_juego": 3,
-  "win_rate": 58
+  "ganados": 17,
+  "perdidos": 12,
+  "en_juego": 0,
+  "win_rate": 59
  },
  "stats_banker": {
-  "ganados": 87,
+  "ganados": 88,
   "perdidos": 35,
-  "pendientes": 1,
-  "win_rate": 71
+  "pendientes": 0,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
