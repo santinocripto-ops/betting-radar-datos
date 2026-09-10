@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T22:44:36.813774+00:00",
+ "actualizado": "2026-09-10T22:51:02.447601+00:00",
  "partidos_vivo": [
   {
    "home": "Aurora",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:50",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:31",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:05",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Vila Nova",
+   "away": "Goias",
+   "liga": "Serie B",
+   "minuto": 21,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-10",
+   "es_hoy": false
+  },
+  {
    "home": "Panathinaikos",
    "away": "Kifisia",
    "liga": "Super League 1",
@@ -215,17 +226,6 @@
    "liga": "Pro League",
    "minuto": 13,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Al-Sailiya",
-   "away": "Al Sadd",
-   "liga": "Stars League",
-   "minuto": 11,
-   "score": 9.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-10",
