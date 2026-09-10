@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-09-10T13:24:57.544454+00:00",
+ "actualizado": "2026-09-10T13:32:06.356178+00:00",
  "partidos_vivo": [
   {
-   "home": "Aktobe Jas",
-   "away": "Turan Turkistan",
-   "liga": "1. Division",
-   "minuto": 46,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "PSV U19",
-   "away": "Shakhtar Donetsk U19",
-   "liga": "UEFA Youth League",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Viettel",
+   "away": "Công An Nhân Dân",
+   "liga": "V.League 1",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -36,15 +16,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.91 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.73 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:31",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:31",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:31",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -97,24 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "12:17",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Slavia Praha vs Lens · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.2 (10 casas)",
-   "hora": "09:05",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:05",
    "tipo": "smart_money"
   }
  ],
