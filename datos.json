@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T20:02:18.815083+00:00",
+ "actualizado": "2026-09-10T20:08:18.719409+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -519,13 +519,6 @@
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Super Nova",
-   "away": "Tukums",
-   "liga": "Virsliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -559,6 +552,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-11T17:00:00+00:00",
     "ts": "2026-09-10T19:03:13.493361+00:00"
+   },
+   {
+    "home": "Polonia Warszawa",
+    "away": "Polonia Bytom",
+    "liga": "I Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 3.7,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T16:00:00+00:00",
+    "ts": "2026-09-10T20:02:19.054891+00:00"
    },
    {
     "home": "Slavia Praha",
@@ -739,27 +747,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-08T17:30:00+00:00",
     "ts": "2026-09-08T07:03:42.843141+00:00"
-   },
-   {
-    "home": "Al Anwar",
-    "away": "Al Taee",
-    "liga": "Division 1",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 4.84,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-08T17:30:00+00:00",
-    "ts": "2026-09-08T11:07:11.250888+00:00"
    }
   ],
   "balance": {
    "ganados": 250,
    "perdidos": 102,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 71.0,
    "total": 352
   }
