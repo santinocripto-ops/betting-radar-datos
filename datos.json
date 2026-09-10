@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-10T04:47:09.913687+00:00",
+ "actualizado": "2026-09-10T04:52:55.783093+00:00",
  "partidos_vivo": [
   {
    "home": "CD Motagua",
@@ -473,22 +473,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Houston Dynamo",
-   "away": "Real Salt Lake",
-   "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Minnesota United FC",
-   "away": "FC Dallas",
-   "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
