@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-10T02:52:53.396697+00:00",
+ "actualizado": "2026-09-10T02:59:18.980609+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "04:59",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:45",
    "tipo": "live"
   }
  ],
@@ -176,7 +176,7 @@
   "balance_dia": 183.0,
   "ganados": 2724,
   "perdidos": 1204,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 69.3,
@@ -184,7 +184,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3934,
+  "con_cuota_media": 3935,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -709,6 +709,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Map Handicap: G2 (-1.5) vs 9z (+1.5)",
+   "apuesta": "SI, Map Handicap: G2 (-1.5) ganara",
+   "usdc": 116848,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "04:59"
+  },
+  {
    "titulo": "Will Minnesota United FC win on 2026-09-09?",
    "apuesta": "SI, Minnesota United ganara",
    "usdc": 104644,
@@ -770,15 +779,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "20:27"
-  },
-  {
-   "titulo": "US Open WTA: Mirra Andreeva vs Coco Gauff",
-   "apuesta": "SI, US Open WTA: Mirra Andreeva ganara",
-   "usdc": 197743,
-   "prob": 31.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "20:16"
   }
  ],
  "stats_gt": {
@@ -790,7 +790,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 100
  },
  "stats_banker": {
