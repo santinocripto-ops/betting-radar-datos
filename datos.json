@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T08:06:44.431578+00:00",
+ "actualizado": "2026-09-11T08:07:49.325781+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Empoli vs Arezzo · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.31 (5 casas)",
+   "hora": "10:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -104,22 +116,19 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "03:40",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "03:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "03:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Empoli",
+   "away": "Arezzo",
+   "liga": "Serie B",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.31,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11"
+  },
   {
    "home": "SV Darmstadt 98",
    "away": "Arminia Bielefeld",
@@ -799,7 +808,7 @@
  "stats_banker": {
   "ganados": 88,
   "perdidos": 35,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
