@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T06:55:47.158276+00:00",
+ "actualizado": "2026-09-11T07:03:49.648635+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -47,6 +47,30 @@
  "alertas": [
   {
    "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "09:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "09:02",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "07:44",
    "tipo": "smart_money"
@@ -91,30 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "02:22",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "01:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:11",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
-   "hora": "23:58",
    "tipo": "smart_money"
   }
  ],
@@ -702,6 +702,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Stade Rennais FC 1901 win on 2026-09-11?",
+   "apuesta": "SI, Stade Rennais FC 1901 ganara",
+   "usdc": 163564,
+   "prob": 47.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "09:02"
+  },
+  {
    "titulo": "Will Brighton & Hove Albion FC win on 2026-09-13?",
    "apuesta": "NO, Brighton & Hove Albion no ganara",
    "usdc": 107685,
@@ -763,15 +772,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "18:52"
-  },
-  {
-   "titulo": "Will Manchester United FC win on 2026-09-10?",
-   "apuesta": "NO, Manchester United no ganara",
-   "usdc": 84779,
-   "prob": 10.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "18:46"
   }
  ],
  "stats_gt": {
