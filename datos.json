@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T04:34:15.527686+00:00",
+ "actualizado": "2026-09-11T04:41:20.715199+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "06:41",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "23:44",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "23:24",
    "tipo": "smart_money"
   }
  ],
@@ -460,15 +460,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Bolívar",
-   "away": "Independiente Petrolero",
-   "liga": "Copa de la División Profesional",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -710,6 +702,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Brighton & Hove Albion FC win on 2026-09-13?",
+   "apuesta": "NO, Brighton & Hove Albion no ganara",
+   "usdc": 107685,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "06:41"
+  },
+  {
    "titulo": "Phan Thiet 3: Philip Sekulic vs Koki Matsuda",
    "apuesta": "SI, Phan Thiet 3: Philip Sekulic ganara",
    "usdc": 129559,
@@ -771,15 +772,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "18:46"
-  },
-  {
-   "titulo": "Fenerbahçe SK vs. AS Roma: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 84934,
-   "prob": 38.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xb",
-   "hora": "18:40"
   }
  ],
  "stats_gt": {
