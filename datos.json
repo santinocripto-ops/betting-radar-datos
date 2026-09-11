@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T11:53:13.716978+00:00",
+ "actualizado": "2026-09-11T12:00:43.066412+00:00",
  "partidos_vivo": [
   {
    "home": "Kyoto Sanga",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "14:00",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "13:31",
    "tipo": "smart_money"
   },
@@ -150,12 +156,6 @@
    "texto": "⚽ SV Darmstadt 98 vs Arminia Bielefeld · 🎯 Apuesta: Doble oport. X2 (empate o visitante) ·",
    "hora": "09:03",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -787,6 +787,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle",
+   "apuesta": "SI, Antalya 4: Rositsa Dencheva ganara",
+   "usdc": 17832,
+   "prob": 66.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:00"
+  },
+  {
    "titulo": "Tulln: Mika Brunold vs Gustavo Heide",
    "apuesta": "SI, Tulln: Mika Brunold ganara",
    "usdc": 155574,
@@ -848,15 +857,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "06:41"
-  },
-  {
-   "titulo": "Phan Thiet 3: Philip Sekulic vs Koki Matsuda",
-   "apuesta": "SI, Phan Thiet 3: Philip Sekulic ganara",
-   "usdc": 129559,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "05:01"
   }
  ],
  "stats_gt": {
