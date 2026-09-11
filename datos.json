@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-11T00:54:04.578341+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-11T01:00:28.377778+00:00",
+ "partidos_vivo": [
+  {
+   "home": "São Bernardo",
+   "away": "Londrina",
+   "liga": "Serie B",
+   "minuto": 51,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 36,
+   "momentum_away": 64,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 18 remates totales"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
