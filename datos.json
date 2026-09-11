@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T07:03:49.648635+00:00",
+ "actualizado": "2026-09-11T07:03:57.766943+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ SV Darmstadt 98 vs Arminia Bielefeld · 🎯 Apuesta: Doble oport. X2 (empate o visitante) ·",
+   "hora": "09:03",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -110,16 +116,20 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "02:22",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "SV Darmstadt 98",
+   "away": "Arminia Bielefeld",
+   "liga": "2. Bundesliga",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.39,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -789,7 +799,7 @@
  "stats_banker": {
   "ganados": 88,
   "perdidos": 35,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
