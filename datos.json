@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T17:57:58.367681+00:00",
+ "actualizado": "2026-09-11T18:05:34.743156+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Rayyan SC",
@@ -87,6 +87,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:42",
    "tipo": "live"
@@ -143,12 +149,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:26",
    "tipo": "live"
   },
   {
