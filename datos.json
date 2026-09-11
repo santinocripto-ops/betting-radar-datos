@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T07:03:57.766943+00:00",
+ "actualizado": "2026-09-11T07:10:53.165213+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -474,6 +474,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Jong Ajax",
+    "away": "Waalwijk",
+    "liga": "Eerste Divisie",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.12,
+    "pinnacle": true,
+    "delta": 4.27,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T18:00:00+00:00",
+    "ts": "2026-09-11T07:03:49.274060+00:00"
+   },
+   {
+    "home": "Heracles",
+    "away": "Jong AZ",
+    "liga": "Eerste Divisie",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.1,
+    "pinnacle": true,
+    "delta": 3.48,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T18:00:00+00:00",
+    "ts": "2026-09-11T07:03:49.793457+00:00"
+   },
+   {
     "home": "Beşiktaş",
     "away": "Erzurumspor FK",
     "liga": "Süper Lig",
@@ -517,6 +547,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-11T17:00:00+00:00",
     "ts": "2026-09-11T01:08:03.935502+00:00"
+   },
+   {
+    "home": "SV Darmstadt 98",
+    "away": "Arminia Bielefeld",
+    "liga": "2. Bundesliga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 3.79,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T16:30:00+00:00",
+    "ts": "2026-09-11T07:03:40.480855+00:00"
    },
    {
     "home": "Polonia Warszawa",
@@ -652,57 +697,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-09T18:30:00+00:00",
     "ts": "2026-09-09T14:08:26.278531+00:00"
-   },
-   {
-    "home": "Sandviken",
-    "away": "Oddevold",
-    "liga": "Superettan",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 9,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 4.82,
-    "marcador": "0-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-09T17:00:00+00:00",
-    "ts": "2026-09-09T14:08:23.626767+00:00"
-   },
-   {
-    "home": "Sandviken",
-    "away": "Oddevold",
-    "liga": "Superettan",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 8,
-    "cuota": 1.25,
-    "pinnacle": false,
-    "delta": 3.84,
-    "marcador": "0-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-09T17:00:00+00:00",
-    "ts": "2026-09-09T14:08:23.790942+00:00"
-   },
-   {
-    "home": "Al-Ittihad FC",
-    "away": "Al-Fayha",
-    "liga": "Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.11,
-    "pinnacle": false,
-    "delta": 3.57,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-08T18:00:00+00:00",
-    "ts": "2026-09-08T12:04:14.322271+00:00"
    }
   ],
   "balance": {
    "ganados": 253,
    "perdidos": 102,
-   "pendientes": 4,
+   "pendientes": 7,
    "acierto": 71.3,
    "total": 355
   }
@@ -793,7 +793,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 50
  },
  "stats_banker": {
