@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T07:45:27.052771+00:00",
+ "actualizado": "2026-09-11T07:52:31.657367+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "09:52",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ SV Darmstadt 98 vs Arminia Bielefeld · 🎯 Apuesta: Doble oport. X2 (empate o visitante) ·",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "03:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -712,6 +712,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
+   "apuesta": "SI, Counter-Strike: FURIA ganara",
+   "usdc": 352999,
+   "prob": 57.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "09:52"
+  },
+  {
    "titulo": "Will Stade Rennais FC 1901 win on 2026-09-11?",
    "apuesta": "SI, Stade Rennais FC 1901 ganara",
    "usdc": 163564,
@@ -773,15 +782,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "19:40"
-  },
-  {
-   "titulo": "Counter-Strike: Sinners vs Nemiga (BO3) - PGL Masters Bucharest: Europ",
-   "apuesta": "SI, Counter-Strike: Sinners ganara",
-   "usdc": 130000,
-   "prob": 45.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "18:52"
   }
  ],
  "stats_gt": {
