@@ -1,33 +1,53 @@
 {
- "actualizado": "2026-09-11T16:57:04.800564+00:00",
+ "actualizado": "2026-09-11T17:08:38.810320+00:00",
  "partidos_vivo": [
   {
-   "home": "Al-Qadisiyah FC",
-   "away": "Al-Ettifaq",
-   "liga": "Pro League",
-   "minuto": 46,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Raków Częstochowa",
+   "away": "Motor Lublin",
+   "liga": "Ekstraklasa",
+   "minuto": 48,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 47,
+   "momentum_away": 53,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 11 remates totales",
-    "⏱ 44 minutos por jugar — margen amplio"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 11 remates totales"
    ]
   },
   {
-   "home": "Narva U21",
-   "away": "Levadia U19",
+   "home": "Al-Faisaly FC",
+   "away": "Al-Ittihad FC",
+   "liga": "Pro League",
+   "minuto": 58,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 35,
+   "momentum_away": 65,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "⚡ Al-Faisaly FC pierde por 2 — atacará sin freno",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Tallinna Kalev II",
+   "away": "JK Tabasalu",
    "liga": "Esiliiga B",
-   "minuto": 62,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -38,31 +58,171 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Levadia U19 buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Al Taraji W",
-   "away": "Al Ahli SC W",
-   "liga": "Premier League Women",
-   "minuto": 48,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
+   "home": "Dinamo Moskva U19",
+   "away": "CSKA Moskva U19",
+   "liga": "Youth Championship",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.3 goles/partido",
+    "⚽ Liga muy goleadora: 3.76 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Hobro",
+   "away": "Vejle",
+   "liga": "1. Division",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Dukla Praha",
+   "away": "Vlašim",
+   "liga": "FNL",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Táborsko",
+   "away": "Kladno",
+   "liga": "FNL",
+   "minuto": 48,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Ústí nad Labem",
+   "away": "Vysočina Jihlava",
+   "liga": "FNL",
+   "minuto": 47,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
+  },
+  {
+   "home": "Réal Bamako",
+   "away": "Vitesse",
+   "liga": "CAF Confederation Cup",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Argentina U20 W",
+   "away": "Mexico U20 W",
+   "liga": "World Cup - U20 - Women",
+   "minuto": 49,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Benin U20 W",
+   "away": "Poland U20 W",
+   "liga": "World Cup - U20 - Women",
+   "minuto": 49,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 17,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -195,7 +355,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1311
+   "n_historico": 1317
   },
   {
    "clave": "btts",
@@ -209,7 +369,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1307
+   "n_historico": 1313
   }
  ],
  "gol_temprano": [
@@ -282,14 +442,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49295.0,
-  "balance_total": 39295.0,
-  "balance_dia": -49.0,
-  "ganados": 2739,
-  "perdidos": 1218,
-  "pendientes": 12,
-  "ganados_dia": 3,
-  "perdidos_dia": 2,
+  "capital": 49217.0,
+  "balance_total": 39217.0,
+  "balance_dia": -127.0,
+  "ganados": 2741,
+  "perdidos": 1220,
+  "pendientes": 8,
+  "ganados_dia": 5,
+  "perdidos_dia": 4,
   "win_rate": 69.2,
   "roi": 9.9,
   "stake": 100.0,
@@ -368,7 +528,7 @@
     "away": "Orsha",
     "liga": "1. Division",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -377,7 +537,7 @@
     "away": "Grom Nowy Staw",
     "liga": "III Liga - Group 2",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -386,7 +546,7 @@
     "away": "Baniyas SC",
     "liga": "Pro League",
     "hora": "15:40",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -395,7 +555,7 @@
     "away": "FK Liepaja",
     "liga": "Virsliga",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -532,7 +692,7 @@
     "away": "Orsha",
     "liga": "1. Division",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -541,7 +701,7 @@
     "away": "Grom Nowy Staw",
     "liga": "III Liga - Group 2",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -550,14 +710,14 @@
     "away": "Baniyas SC",
     "liga": "Pro League",
     "hora": "15:40",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1583,
-   "perdidos": 1035,
+   "ganados": 1590,
+   "perdidos": 1040,
    "acierto": 60.5,
    "yield": 14.9,
    "cuota_media": 1.9
@@ -569,7 +729,7 @@
    "away": "Baniyas SC",
    "liga": "Pro League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -892,16 +1052,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2766,
-  "ganados": 1864,
+  "n": 2769,
+  "ganados": 1866,
   "win_rate": 67,
   "hoy": 12
  },
  "stats_dia": {
-  "ganados": 3,
-  "perdidos": 2,
-  "en_juego": 14,
-  "win_rate": 60
+  "ganados": 5,
+  "perdidos": 4,
+  "en_juego": 10,
+  "win_rate": 56
  },
  "stats_banker": {
   "ganados": 88,
