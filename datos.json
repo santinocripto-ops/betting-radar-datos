@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T21:10:46.796353+00:00",
+ "actualizado": "2026-09-11T22:07:51.644281+00:00",
  "partidos_vivo": [
   {
    "home": "Academica",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:50",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -772,6 +772,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Barranquilla: Leolia Jeanjean vs Claire Liu",
+   "apuesta": "SI, Barranquilla: Leolia Jeanjean ganara",
+   "usdc": 113625,
+   "prob": 28.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:07"
+  },
+  {
    "titulo": "Will Stade Rennais FC 1901 vs. Olympique de Marseille end in a draw?",
    "apuesta": "NO acabará en empate",
    "usdc": 27986,
@@ -832,15 +841,6 @@
    "prob": 100.0,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
-   "hora": "20:18"
-  },
-  {
-   "titulo": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 18552,
-   "prob": 31.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
    "hora": "20:18"
   }
  ],
