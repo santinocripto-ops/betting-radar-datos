@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T18:18:27.680293+00:00",
+ "actualizado": "2026-09-11T18:19:34.086640+00:00",
  "partidos_vivo": [
   {
    "home": "FC Copenhagen",
@@ -246,6 +246,42 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:18",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:18",
@@ -280,42 +316,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:42",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "19:18",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -394,65 +394,65 @@
  ],
  "gol_temprano": [
   {
+   "home": "AZ Alkmaar",
+   "away": "Willem II",
+   "liga": "Eredivisie",
+   "minuto": 18,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "VVV Venlo",
+   "away": "FC OSS",
+   "liga": "Eerste Divisie",
+   "minuto": 16,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "NAC Breda",
+   "away": "Jong Utrecht",
+   "liga": "Eerste Divisie",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "MVV",
+   "away": "Almere City FC",
+   "liga": "Eerste Divisie",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Jong Ajax",
+   "away": "Waalwijk",
+   "liga": "Eerste Divisie",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Helmond Sport",
    "away": "Jong PSV U21",
    "liga": "Eerste Divisie",
    "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Stellenbosch",
-   "away": "Sekhukhune United",
-   "liga": "Premier Soccer League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Rot-weiss Oberhausen",
-   "away": "Schalke 04 II",
-   "liga": "Regionalliga - West",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Ried",
-   "away": "Red Bull Salzburg",
-   "liga": "Bundesliga",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Stade Lausanne-Ouchy",
-   "away": "FC WIL 1900",
-   "liga": "Challenge League",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Buchbach",
-   "away": "Bayern München II",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -467,7 +467,7 @@
   "balance_dia": 117.0,
   "ganados": 2745,
   "perdidos": 1220,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 9,
   "perdidos_dia": 4,
   "win_rate": 69.2,
@@ -475,7 +475,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3976,
+  "con_cuota_media": 3977,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -944,8 +944,8 @@
     "cuota": 1.91,
     "pinnacle": true,
     "delta": 3.7,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-11T16:00:00+00:00",
     "ts": "2026-09-10T20:02:19.054891+00:00"
    },
@@ -959,8 +959,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 3.5,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-11T15:45:00+00:00",
     "ts": "2026-09-11T13:05:42.079761+00:00"
    },
@@ -981,11 +981,11 @@
    }
   ],
   "balance": {
-   "ganados": 253,
+   "ganados": 255,
    "perdidos": 102,
-   "pendientes": 14,
-   "acierto": 71.3,
-   "total": 355
+   "pendientes": 12,
+   "acierto": 71.4,
+   "total": 357
   }
  },
  "mejor_dia": {
@@ -998,6 +998,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "T20 Asia Cup, Women: Sri Lanka vs Pakistan",
+   "apuesta": "SI, T20 Asia Cup, Women: Sri Lanka ganara",
+   "usdc": 122688,
+   "prob": 100.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "20:18"
+  },
   {
    "titulo": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
    "apuesta": "SI, ganara",
@@ -1060,27 +1069,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "15:13"
-  },
-  {
-   "titulo": "Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle",
-   "apuesta": "SI, Antalya 4: Rositsa Dencheva ganara",
-   "usdc": 17832,
-   "prob": 66.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:00"
   }
  ],
  "stats_gt": {
   "n": 2773,
   "ganados": 1870,
   "win_rate": 67,
-  "hoy": 19
+  "hoy": 24
  },
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 13,
+  "en_juego": 14,
   "win_rate": 69
  },
  "stats_banker": {
