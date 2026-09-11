@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T15:07:53.717389+00:00",
+ "actualizado": "2026-09-11T15:15:59.907076+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Minsk II",
@@ -106,6 +106,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:15",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:15",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:07",
@@ -157,24 +175,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "15:13",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:00",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:31",
    "tipo": "smart_money"
   }
  ],
@@ -253,6 +253,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Riga",
+   "away": "Auda",
+   "liga": "Virsliga",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
   {
    "home": "Neptūną Klaipėda",
    "away": "Jonava",
@@ -724,6 +735,36 @@
     "ts": "2026-09-11T09:03:58.944707+00:00"
    },
    {
+    "home": "1. FC Nürnberg",
+    "away": "Hannover 96",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.53,
+    "pinnacle": true,
+    "delta": 3.79,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T16:30:00+00:00",
+    "ts": "2026-09-11T15:07:52.993122+00:00"
+   },
+   {
+    "home": "Rapid Wien II",
+    "away": "First Vienna",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 2.1,
+    "pinnacle": true,
+    "delta": 3.49,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T16:30:00+00:00",
+    "ts": "2026-09-11T15:07:53.845303+00:00"
+   },
+   {
     "home": "Polonia Warszawa",
     "away": "Polonia Bytom",
     "liga": "I Liga",
@@ -797,42 +838,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-10T19:00:00+00:00",
     "ts": "2026-09-10T07:05:46.335654+00:00"
-   },
-   {
-    "home": "Ostersunds FK",
-    "away": "IK brage",
-    "liga": "Superettan",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 2.1,
-    "pinnacle": true,
-    "delta": 2.96,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-10T17:00:00+00:00",
-    "ts": "2026-09-10T06:05:30.747588+00:00"
-   },
-   {
-    "home": "Vancouver Whitecaps",
-    "away": "Los Angeles Galaxy",
-    "liga": "Major League Soccer",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.11,
-    "pinnacle": true,
-    "delta": 3.46,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-10T02:30:00+00:00",
-    "ts": "2026-09-09T19:05:50.591839+00:00"
    }
   ],
   "balance": {
    "ganados": 253,
    "perdidos": 102,
-   "pendientes": 10,
+   "pendientes": 12,
    "acierto": 71.3,
    "total": 355
   }
@@ -847,6 +858,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Tulln: Zdenek Kolar vs Alex Barrena",
+   "apuesta": "SI, Tulln: Zdenek Kolar ganara",
+   "usdc": 21992,
+   "prob": 27.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:15"
+  },
+  {
+   "titulo": "Tulln: Zdenek Kolar vs Alex Barrena",
+   "apuesta": "SI, Tulln: Zdenek Kolar ganara",
+   "usdc": 124158,
+   "prob": 62.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "17:15"
+  },
   {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
@@ -900,31 +929,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "11:39"
-  },
-  {
-   "titulo": "LoL: KT Rolster Challengers vs DN SOOPers Challengers - Game 2 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 165776,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "11:32"
-  },
-  {
-   "titulo": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
-   "apuesta": "SI, Counter-Strike: FURIA ganara",
-   "usdc": 352999,
-   "prob": 57.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "09:52"
   }
  ],
  "stats_gt": {
   "n": 2766,
   "ganados": 1864,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 3,
