@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T13:04:33.780297+00:00",
+ "actualizado": "2026-09-11T13:05:41.863786+00:00",
  "partidos_vivo": [
   {
    "home": "Ezra",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -110,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "09:52",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ SV Darmstadt 98 vs Arminia Bielefeld · 🎯 Apuesta: Doble oport. X2 (empate o visitante) ·",
-   "hora": "09:03",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
