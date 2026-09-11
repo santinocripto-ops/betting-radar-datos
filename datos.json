@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T16:03:08.240688+00:00",
+ "actualizado": "2026-09-11T16:10:49.176560+00:00",
  "partidos_vivo": [
   {
    "home": "Baťov",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:03",
    "tipo": "live"
   },
@@ -150,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:54",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:54",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -234,6 +234,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Ústí nad Labem",
+   "away": "Vysočina Jihlava",
+   "liga": "FNL",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Al-Faisaly FC",
    "away": "Al-Ittihad FC",
    "liga": "Pro League",
@@ -287,17 +298,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-11",
    "es_hoy": true
-  },
-  {
-   "home": "Slovan Liberec II",
-   "away": "Pardubice II",
-   "liga": "3. liga - CFL B",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-11",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -307,7 +307,7 @@
   "balance_dia": -49.0,
   "ganados": 2739,
   "perdidos": 1218,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.2,
@@ -315,7 +315,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3963,
+  "con_cuota_media": 3964,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -915,12 +915,12 @@
   "n": 2766,
   "ganados": 1864,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 3,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 60
  },
  "stats_banker": {
