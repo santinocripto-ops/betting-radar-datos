@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T08:55:54.347863+00:00",
+ "actualizado": "2026-09-11T09:04:15.471019+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Rapid Wien II vs First Vienna · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuot",
+   "hora": "11:04",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "11:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Empoli vs Arezzo · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.31 (5 casas)",
@@ -104,22 +116,19 @@
    "texto": "──────────────────────────────",
    "hora": "06:41",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "05:01",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "03:40",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Rapid Wien II",
+   "away": "First Vienna",
+   "liga": "2. Liga",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.22,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11"
+  },
   {
    "home": "Empoli",
    "away": "Arezzo",
@@ -808,7 +817,7 @@
  "stats_banker": {
   "ganados": 88,
   "perdidos": 35,
-  "pendientes": 2,
+  "pendientes": 3,
   "win_rate": 72
  },
  "marca": {
