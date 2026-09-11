@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T18:19:34.086640+00:00",
+ "actualizado": "2026-09-11T18:26:55.997593+00:00",
  "partidos_vivo": [
   {
    "home": "FC Copenhagen",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:26",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:19",
@@ -297,12 +303,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:42",
    "tipo": "live"
   },
   {
@@ -467,7 +467,7 @@
   "balance_dia": 117.0,
   "ganados": 2745,
   "perdidos": 1220,
-  "pendientes": 12,
+  "pendientes": 17,
   "ganados_dia": 9,
   "perdidos_dia": 4,
   "win_rate": 69.2,
@@ -475,7 +475,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3977,
+  "con_cuota_media": 3982,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -999,6 +999,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Sevilla FC win on 2026-09-11?",
+   "apuesta": "SI, Sevilla ganara",
+   "usdc": 884960,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:26"
+  },
+  {
    "titulo": "T20 Asia Cup, Women: Sri Lanka vs Pakistan",
    "apuesta": "SI, T20 Asia Cup, Women: Sri Lanka ganara",
    "usdc": 122688,
@@ -1060,15 +1069,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x1",
    "hora": "15:54"
-  },
-  {
-   "titulo": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European",
-   "apuesta": "SI, ganara",
-   "usdc": 166698,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "15:13"
   }
  ],
  "stats_gt": {
@@ -1080,7 +1080,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 14,
+  "en_juego": 19,
   "win_rate": 69
  },
  "stats_banker": {
