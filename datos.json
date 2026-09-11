@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T08:07:49.325781+00:00",
+ "actualizado": "2026-09-11T08:14:47.025940+00:00",
  "partidos_vivo": [
   {
    "home": "U.N.A.M. - Pumas",
@@ -558,6 +558,21 @@
     "ts": "2026-09-11T01:08:03.935502+00:00"
    },
    {
+    "home": "Empoli",
+    "away": "Arezzo",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 3.29,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T17:00:00+00:00",
+    "ts": "2026-09-11T08:07:33.654016+00:00"
+   },
+   {
     "home": "SV Darmstadt 98",
     "away": "Arminia Bielefeld",
     "liga": "2. Bundesliga",
@@ -691,27 +706,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-09T22:30:00+00:00",
     "ts": "2026-09-09T18:08:52.446182+00:00"
-   },
-   {
-    "home": "Defensores De Belgrano",
-    "away": "Los Andes",
-    "liga": "Primera Nacional",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 11,
-    "cuota": 1.95,
-    "pinnacle": true,
-    "delta": 3.8,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-09T18:30:00+00:00",
-    "ts": "2026-09-09T14:08:26.278531+00:00"
    }
   ],
   "balance": {
    "ganados": 253,
    "perdidos": 102,
-   "pendientes": 7,
+   "pendientes": 8,
    "acierto": 71.3,
    "total": 355
   }
@@ -802,7 +802,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 50
  },
  "stats_banker": {
