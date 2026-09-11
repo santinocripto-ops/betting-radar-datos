@@ -1,13 +1,93 @@
 {
- "actualizado": "2026-09-11T19:08:32.874483+00:00",
+ "actualizado": "2026-09-11T19:14:06.498962+00:00",
  "partidos_vivo": [
   {
-   "home": "Stellenbosch",
-   "away": "Sekhukhune United",
-   "liga": "Premier Soccer League",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Cherno More Varna",
+   "away": "Lokomotiv Sofia",
+   "liga": "First League",
+   "minuto": 48,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 54,
+   "momentum_away": 46,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Lokomotiv Sofia pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "FC Eindhoven",
+   "away": "Dordrecht",
+   "liga": "Eerste Divisie",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 27,
+   "momentum_away": 73,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "📊 Dordrecht: Over2.5 histórico 70%"
+   ]
+  },
+  {
+   "home": "Emmen",
+   "away": "De Graafschap",
+   "liga": "Eerste Divisie",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 72,
+   "momentum_away": 28,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Helmond Sport",
+   "away": "Jong PSV U21",
+   "liga": "Eerste Divisie",
+   "minuto": 54,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 63,
+   "momentum_away": 37,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Heracles",
+   "away": "Jong AZ",
+   "liga": "Eerste Divisie",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -16,95 +96,161 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 24 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Jong Ajax",
+   "away": "Waalwijk",
+   "liga": "Eerste Divisie",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 43,
+   "momentum_away": 57,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "MVV",
+   "away": "Almere City FC",
+   "liga": "Eerste Divisie",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "NAC Breda",
+   "away": "Jong Utrecht",
+   "liga": "Eerste Divisie",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "VVV Venlo",
+   "away": "FC OSS",
+   "liga": "Eerste Divisie",
+   "minuto": 46,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.23 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "AZ Alkmaar",
+   "away": "Willem II",
+   "liga": "Eredivisie",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.34 goles/partido",
+    "⚽ 1 gol — Willem II buscará el empate"
+   ]
+  },
+  {
+   "home": "Clermont Foot",
+   "away": "Boulogne",
+   "liga": "Ligue 2",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 18,
+   "momentum_away": 82,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Böljan",
-   "away": "Hestrafor",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 49,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Dalstorps",
-   "away": "Västra Frölunda",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Västra Frölunda buscará el empate"
-   ]
-  },
-  {
-   "home": "Rapperswil",
-   "away": "Yverdon Sport",
-   "liga": "Challenge League",
+   "home": "Dijon",
+   "away": "Laval",
+   "liga": "Ligue 2",
    "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 38,
+   "momentum_away": 62,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Stade Nyonnais",
-   "away": "Neuchatel Xamax FC",
-   "liga": "Challenge League",
-   "minuto": 47,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 7,
+ "partidos_vivo_total": 33,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -170,44 +316,10 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:42",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:42",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Rapid Wien II",
-   "away": "First Vienna",
-   "liga": "2. Liga",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.22,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11"
-  },
-  {
-   "home": "Empoli",
-   "away": "Arezzo",
-   "liga": "Serie B",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.31,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11"
-  },
-  {
-   "home": "SV Darmstadt 98",
-   "away": "Arminia Bielefeld",
-   "liga": "2. Bundesliga",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.39,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -219,9 +331,9 @@
    "cuota": 1.15,
    "score": 8.81,
    "hora": "16:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 81,
-   "n_historico": 211
+   "n_historico": 214
   },
   {
    "clave": "over25",
@@ -235,7 +347,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1321
+   "n_historico": 1324
   },
   {
    "clave": "btts",
@@ -249,10 +361,21 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1314
+   "n_historico": 1315
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Paris Saint Germain W",
+   "away": "Strasbourg W",
+   "liga": "Feminine Division 1",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
   {
    "home": "KV Mechelen",
    "away": "Anderlecht",
@@ -307,35 +430,24 @@
    "resultado": "pendiente",
    "fecha": "2026-09-11",
    "es_hoy": true
-  },
-  {
-   "home": "Wisla Krakow",
-   "away": "Jagiellonia",
-   "liga": "Ekstraklasa",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49461.0,
-  "balance_total": 39461.0,
-  "balance_dia": 117.0,
-  "ganados": 2745,
-  "perdidos": 1220,
+  "capital": 49183.0,
+  "balance_total": 39183.0,
+  "balance_dia": -161.0,
+  "ganados": 2747,
+  "perdidos": 1224,
   "pendientes": 22,
-  "ganados_dia": 9,
-  "perdidos_dia": 4,
+  "ganados_dia": 11,
+  "perdidos_dia": 8,
   "win_rate": 69.2,
-  "roi": 10.0,
+  "roi": 9.9,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3987,
+  "con_cuota_media": 3993,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -554,7 +666,7 @@
     "away": "Ural U20",
     "liga": "Youth Championship",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -563,7 +675,7 @@
     "away": "Negeri Sembilan",
     "liga": "Super League",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -596,14 +708,28 @@
    }
   ],
   "balance": {
-   "ganados": 1593,
+   "ganados": 1597,
    "perdidos": 1042,
    "acierto": 60.5,
-   "yield": 14.9,
+   "yield": 15.0,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "MVV",
+   "away": "Almere City FC",
+   "liga": "Eerste Divisie",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Jong Ajax",
+   "away": "Waalwijk",
+   "liga": "Eerste Divisie",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Ried",
    "away": "Red Bull Salzburg",
@@ -623,7 +749,7 @@
    "away": "Motala",
    "liga": "Division 2 - Norra Götaland",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -946,22 +1072,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2773,
-  "ganados": 1870,
+  "n": 2778,
+  "ganados": 1872,
   "win_rate": 67,
-  "hoy": 31
+  "hoy": 32
  },
  "stats_dia": {
-  "ganados": 9,
-  "perdidos": 4,
-  "en_juego": 24,
-  "win_rate": 69
+  "ganados": 12,
+  "perdidos": 10,
+  "en_juego": 21,
+  "win_rate": 55
  },
  "stats_banker": {
-  "ganados": 88,
-  "perdidos": 35,
-  "pendientes": 3,
-  "win_rate": 72
+  "ganados": 89,
+  "perdidos": 37,
+  "pendientes": 0,
+  "win_rate": 71
  },
  "marca": {
   "nombre": "Neural Trade IA",
