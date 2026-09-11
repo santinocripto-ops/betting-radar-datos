@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T14:58:16.477985+00:00",
+ "actualizado": "2026-09-11T15:05:40.265347+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Minsk II",
@@ -235,7 +235,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1310
+   "n_historico": 1311
   },
   {
    "clave": "btts",
@@ -249,7 +249,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1306
+   "n_historico": 1307
   }
  ],
  "gol_temprano": [
@@ -388,7 +388,7 @@
     "away": "Balestier Khalsa",
     "liga": "Premier League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -586,9 +586,9 @@
   ],
   "balance": {
    "ganados": 1583,
-   "perdidos": 1033,
+   "perdidos": 1035,
    "acierto": 60.5,
-   "yield": 15.0,
+   "yield": 14.9,
    "cuota_media": 1.9
   }
  },
