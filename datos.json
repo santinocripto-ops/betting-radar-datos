@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T22:07:51.644281+00:00",
+ "actualizado": "2026-09-11T22:10:39.458381+00:00",
  "partidos_vivo": [
   {
    "home": "Academica",
@@ -105,27 +105,27 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "1. FC Nürnberg",
-   "away": "Hannover 96",
-   "liga": "2. Bundesliga",
-   "cuota": 1.15,
-   "score": 8.81,
-   "hora": "16:30",
-   "resultado": "ganado",
+   "home": "1899 Hoffenheim",
+   "away": "VfB Stuttgart",
+   "liga": "Bundesliga",
+   "cuota": 1.95,
+   "score": 8.73,
+   "hora": "13:30",
+   "resultado": "pendiente",
    "wr_historico": 81,
-   "n_historico": 214
+   "n_historico": 219
   },
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": "alta",
-   "home": "Sport Recife",
-   "away": "Ponte Preta",
-   "liga": "Serie B",
-   "cuota": 4.6,
-   "score": 10,
-   "hora": "00:30",
-   "resultado": "perdido",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
+   "cuota": null,
+   "score": null,
+   "hora": "",
+   "resultado": null,
    "wr_historico": 63,
    "n_historico": 1324
   },
@@ -133,15 +133,15 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Sport Recife",
-   "away": "Ponte Preta",
-   "liga": "Serie B",
-   "cuota": 2.23,
+   "home": "Coritiba",
+   "away": "Atletico Paranaense",
+   "liga": "Serie A",
+   "cuota": 1.91,
    "score": 10,
-   "hora": "00:30",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1315
+   "n_historico": 1317
   }
  ],
  "gol_temprano": [
@@ -152,9 +152,9 @@
    "minuto": 14,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "KV Mechelen",
@@ -163,9 +163,9 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Rennes",
@@ -174,9 +174,9 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Waterford",
@@ -185,9 +185,9 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Drogheda United",
@@ -196,9 +196,9 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Wacker Innsbruck",
@@ -207,21 +207,21 @@
    "minuto": 11,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-11",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49183.0,
-  "balance_total": 39183.0,
-  "balance_dia": -161.0,
-  "ganados": 2747,
-  "perdidos": 1224,
-  "pendientes": 23,
-  "ganados_dia": 11,
-  "perdidos_dia": 8,
+  "capital": 49656.0,
+  "balance_total": 39656.0,
+  "balance_dia": 0.0,
+  "ganados": 2764,
+  "perdidos": 1229,
+  "pendientes": 1,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.2,
   "roi": 9.9,
   "stake": 100.0,
@@ -233,298 +233,142 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Sport Recife",
-    "away": "Ponte Preta",
-    "liga": "Serie B",
-    "hora": "02:30",
-    "resultado": "perdido",
+    "home": "Coritiba",
+    "away": "Atletico Paranaense",
+    "liga": "Serie A",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Bolívar",
-    "away": "Independiente Petrolero",
-    "liga": "Copa de la División Profesional",
-    "hora": "02:30",
-    "resultado": "ganado",
+    "home": "Cusco",
+    "away": "FBC Melgar",
+    "liga": "Primera División",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Slovan Liberec II",
-    "away": "Pardubice II",
-    "liga": "3. liga - CFL B",
-    "hora": "11:00",
-    "resultado": "ganado",
+    "home": "Correcaminos Uat",
+    "away": "Cancún",
+    "liga": "Liga de Expansión MX",
+    "hora": "03:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Essendon Royals SC",
-    "away": "Keilor Park",
-    "liga": "Victoria Premier League 2",
-    "hora": "11:30",
-    "resultado": "ganado",
+    "home": "Cruz Azul W",
+    "away": "Pumas UNAM W",
+    "liga": "Liga MX Femenil",
+    "hora": "03:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Sokół Kleczew",
-    "away": "Olimpia Grudziądz",
-    "liga": "II Liga - East",
-    "hora": "12:00",
-    "resultado": "ganado",
+    "home": "Armadale",
+    "away": "Joondalup City",
+    "liga": "Western Australia NPL",
+    "hora": "09:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Ekibastuz",
-    "away": "Tobol 2",
-    "liga": "1. Division",
-    "hora": "13:00",
-    "resultado": "ganado",
+    "home": "Maharlika",
+    "away": "Dynamic Herb Cebu",
+    "liga": "PFL",
+    "hora": "09:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Tampines Rovers",
-    "away": "Balestier Khalsa",
-    "liga": "Premier League",
-    "hora": "13:30",
-    "resultado": "perdido",
+    "home": "Seoul E-Land FC",
+    "away": "Suwon Bluewings",
+    "liga": "K League 2",
+    "hora": "09:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Dinamo Minsk II",
-    "away": "Orsha",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Luzino",
-    "away": "Grom Nowy Staw",
-    "liga": "III Liga - Group 2",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Khorfakkan",
-    "away": "Baniyas SC",
-    "liga": "Pro League",
-    "hora": "15:40",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Ogre United",
-    "away": "FK Liepaja",
-    "liga": "Virsliga",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "FC Oţelul II",
-    "away": "Axiopolis",
-    "liga": "Liga III - Serie 4",
-    "hora": "16:00",
+    "home": "Eik-Tønsberg",
+    "away": "Pors Grenland",
+    "liga": "2. Division - Group 1",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Filiaşi",
-    "away": "Vulturii Fărcăşeşti",
-    "liga": "Liga III - Serie 6",
-    "hora": "16:00",
+    "home": "Sotra",
+    "away": "Sandviken",
+    "liga": "2. Division - Group 1",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Cetate Deva",
-    "away": "Progresul Pecica",
-    "liga": "Liga III - Serie 7",
-    "hora": "16:00",
+    "home": "Hønefoss",
+    "away": "Grorud",
+    "liga": "2. Division - Group 2",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Askøy",
+    "away": "Stord",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Fana",
+    "away": "Os",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Brodd",
+    "away": "Staal Jørpeland",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Oppsal",
+    "away": "Fram",
+    "liga": "3. Division - Girone 6",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
-  "over25": [
-   {
-    "home": "Sport Recife",
-    "away": "Ponte Preta",
-    "liga": "Serie B",
-    "hora": "02:30",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Bolívar",
-    "away": "Independiente Petrolero",
-    "liga": "Copa de la División Profesional",
-    "hora": "02:30",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Slovan Liberec II",
-    "away": "Pardubice II",
-    "liga": "3. liga - CFL B",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Essendon Royals SC",
-    "away": "Keilor Park",
-    "liga": "Victoria Premier League 2",
-    "hora": "11:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Almaz Antey U19",
-    "away": "Rodina Moscow U19",
-    "liga": "Youth Championship",
-    "hora": "12:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Ekibastuz",
-    "away": "Tobol 2",
-    "liga": "1. Division",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Widzew II",
-    "away": "Mazovia Minsk Mazowiecki",
-    "liga": "III Liga - Group 1",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Lokomotiv Moskva U19",
-    "away": "Rostov U19",
-    "liga": "Youth Championship",
-    "hora": "14:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Nizhny Novgorod U19",
-    "away": "Chertanovo U20",
-    "liga": "Youth Championship",
-    "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Rubin Kazan U20",
-    "away": "Ural U20",
-    "liga": "Youth Championship",
-    "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Johor Darul Takzim FC",
-    "away": "Negeri Sembilan",
-    "liga": "Super League",
-    "hora": "15:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Dinamo Minsk II",
-    "away": "Orsha",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Luzino",
-    "away": "Grom Nowy Staw",
-    "liga": "III Liga - Group 2",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Khorfakkan",
-    "away": "Baniyas SC",
-    "liga": "Pro League",
-    "hora": "15:40",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   }
-  ],
+  "over25": [],
   "balance": {
-   "ganados": 1597,
-   "perdidos": 1042,
+   "ganados": 1598,
+   "perdidos": 1043,
    "acierto": 60.5,
    "yield": 15.0,
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "MVV",
-   "away": "Almere City FC",
-   "liga": "Eerste Divisie",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Jong Ajax",
-   "away": "Waalwijk",
-   "liga": "Eerste Divisie",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Ried",
-   "away": "Red Bull Salzburg",
-   "liga": "Bundesliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Stellenbosch",
-   "away": "Sekhukhune United",
-   "liga": "Premier Soccer League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -762,13 +606,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "11:00",
-  "cuota": 1.36,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -845,16 +683,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2778,
-  "ganados": 1872,
+  "n": 2796,
+  "ganados": 1885,
   "win_rate": 67,
-  "hoy": 32
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 12,
-  "perdidos": 10,
-  "en_juego": 22,
-  "win_rate": 55
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 89,
