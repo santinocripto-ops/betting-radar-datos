@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T02:40:59.396515+00:00",
+ "actualizado": "2026-09-11T02:48:00.109709+00:00",
  "partidos_vivo": [
   {
    "home": "Millonarios",
@@ -447,13 +447,6 @@
    "liga": "Copa de la División Profesional",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Vila Nova",
-   "away": "Goias",
-   "liga": "Serie B",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
