@@ -1,228 +1,88 @@
 {
- "actualizado": "2026-09-11T17:26:24.763368+00:00",
+ "actualizado": "2026-09-11T17:34:37.094162+00:00",
  "partidos_vivo": [
   {
-   "home": "Raków Częstochowa",
-   "away": "Motor Lublin",
-   "liga": "Ekstraklasa",
-   "minuto": 48,
-   "marcador": "1-1",
+   "home": "Al-Rayyan SC",
+   "away": "Al Ahli Doha",
+   "liga": "Stars League",
+   "minuto": 59,
+   "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 83,
+   "momentum_away": 17,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ Liga muy goleadora: 3.85 goles/partido",
     "⚽ 2 goles — partido activo",
-    "🎯 11 remates totales"
+    "⚡ Al Ahli Doha pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Al-Faisaly FC",
-   "away": "Al-Ittihad FC",
+   "home": "Ajman",
+   "away": "Al-Ittihad Kalba",
    "liga": "Pro League",
-   "minuto": 58,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "minuto": 57,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
+   "momentum_home": 42,
+   "momentum_away": 58,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Al-Faisaly FC pierde por 2 — atacará sin freno",
-    "🎯 17 remates totales"
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 10 remates totales"
    ]
   },
   {
-   "home": "Tallinna Kalev II",
-   "away": "JK Tabasalu",
-   "liga": "Esiliiga B",
-   "minuto": 48,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Al Wahda FC",
+   "away": "Sharjah FC",
+   "liga": "Pro League",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 21,
+   "momentum_away": 79,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚽ 1 gol — Sharjah FC buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Admira Wacker",
+   "away": "SV Kapfenberg",
+   "liga": "2. Liga",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
+    "⚽ Liga goleadora: 3.04 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Dinamo Moskva U19",
-   "away": "CSKA Moskva U19",
-   "liga": "Youth Championship",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.76 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Hobro",
-   "away": "Vejle",
-   "liga": "1. Division",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Dukla Praha",
-   "away": "Vlašim",
-   "liga": "FNL",
-   "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Táborsko",
-   "away": "Kladno",
-   "liga": "FNL",
-   "minuto": 48,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Ústí nad Labem",
-   "away": "Vysočina Jihlava",
-   "liga": "FNL",
-   "minuto": 47,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Réal Bamako",
-   "away": "Vitesse",
-   "liga": "CAF Confederation Cup",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Argentina U20 W",
-   "away": "Mexico U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 49,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Benin U20 W",
-   "away": "Poland U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 49,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 1 gol — SV Kapfenberg buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 17,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
