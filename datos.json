@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-11T23:01:56.973737+00:00",
+ "actualizado": "2026-09-11T23:09:51.980812+00:00",
  "partidos_vivo": [
   {
-   "home": "2 de Mayo",
-   "away": "Libertad Asuncion",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "San Antonio Bulo Bulo",
+   "away": "Aurora",
+   "liga": "Primera División",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.1,
    "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 1 gol — 2 de Mayo buscará el empate",
-    "🎯 9 remates totales"
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
