@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T16:41:55.942627+00:00",
+ "actualizado": "2026-09-11T16:49:31.489260+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Qadisiyah FC",
@@ -287,7 +287,7 @@
   "balance_dia": -49.0,
   "ganados": 2739,
   "perdidos": 1218,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.2,
@@ -295,7 +295,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3968,
+  "con_cuota_media": 3969,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -900,7 +900,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 2,
-  "en_juego": 13,
+  "en_juego": 14,
   "win_rate": 60
  },
  "stats_banker": {
