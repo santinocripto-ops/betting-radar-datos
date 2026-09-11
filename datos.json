@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T00:41:21.446207+00:00",
+ "actualizado": "2026-09-11T00:41:28.100465+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -125,70 +125,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Vila Nova",
-   "away": "Goias",
-   "liga": "Serie B",
-   "minuto": 21,
+   "home": "Bolívar",
+   "away": "Independiente Petrolero",
+   "liga": "Copa de la División Profesional",
+   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Panathinaikos",
-   "away": "Kifisia",
-   "liga": "Super League 1",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Radnik Surdulica",
-   "away": "FK Crvena Zvezda",
-   "liga": "Super Liga",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Varbergs BoIS FC",
-   "away": "IFK Norrkoping",
-   "liga": "Superettan",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Falkenbergs FF",
-   "away": "Osters IF",
-   "liga": "Superettan",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-10",
-   "es_hoy": false
-  },
-  {
-   "home": "Al Ain",
-   "away": "Al-Wasl FC",
-   "liga": "Pro League",
-   "minuto": 13,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-10",
-   "es_hoy": false
+   "fecha": "2026-09-11",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -800,7 +745,7 @@
   "n": 2763,
   "ganados": 1863,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
