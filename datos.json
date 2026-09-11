@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-11T14:41:39.466339+00:00",
+ "actualizado": "2026-09-11T14:50:59.459472+00:00",
  "partidos_vivo": [
   {
-   "home": "Johor Darul Takzim FC",
-   "away": "Negeri Sembilan",
-   "liga": "Super League",
-   "minuto": 59,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Dinamo Minsk II",
+   "away": "Orsha",
+   "liga": "1. Division",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,18 +16,58 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "England U20 W",
-   "away": "Brazil U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Al Nasr U23",
+   "away": "Al Jazira U23",
+   "liga": "Pro League U23",
+   "minuto": 48,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.15 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Al Wasl U23",
+   "away": "Al Ain U23",
+   "liga": "Pro League U23",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.15 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Sardor Tursunzoda",
+   "away": "Khatlon",
+   "liga": "Vysshaya Liga",
+   "minuto": 58,
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -36,17 +76,17 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Tanzania U20 W",
-   "away": "Canada U20 W",
-   "liga": "World Cup - U20 - Women",
-   "minuto": 57,
-   "marcador": "0-3",
+   "home": "Luzino",
+   "away": "Grom Nowy Staw",
+   "liga": "III Liga - Group 2",
+   "minuto": 59,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
@@ -56,13 +96,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 13,
  "umbral_vivo": 7.0,
  "alertas": [
   {
