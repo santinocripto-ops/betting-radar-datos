@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-10T23:56:17.018765+00:00",
- "partidos_vivo": [
-  {
-   "home": "Real Tomayapo",
-   "away": "Always Ready",
-   "liga": "Copa de la División Profesional",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
+ "actualizado": "2026-09-11T00:02:58.666442+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
