@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T21:02:29.541163+00:00",
+ "actualizado": "2026-09-11T21:10:46.796353+00:00",
  "partidos_vivo": [
   {
    "home": "Academica",
@@ -523,13 +523,6 @@
    "liga": "Premier Soccer League",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Kumla",
-   "away": "Motala",
-   "liga": "Division 2 - Norra Götaland",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
