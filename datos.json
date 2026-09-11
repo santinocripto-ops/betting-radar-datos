@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T18:51:00.604679+00:00",
+ "actualizado": "2026-09-11T18:59:30.583663+00:00",
  "partidos_vivo": [
   {
    "home": "Stellenbosch",
@@ -106,6 +106,30 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:59",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:59",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:58",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:58",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "20:50",
@@ -151,30 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:26",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:19",
    "tipo": "live"
   }
  ],
@@ -254,6 +254,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "KV Mechelen",
+   "away": "Anderlecht",
+   "liga": "Jupiler Pro League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Rennes",
+   "away": "Marseille",
+   "liga": "Ligue 1",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Waterford",
+   "away": "Dundalk",
+   "liga": "Premier Division",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Drogheda United",
+   "away": "Sligo Rovers",
+   "liga": "Premier Division",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Wacker Innsbruck",
    "away": "Voitsberg",
    "liga": "2. Liga",
@@ -269,50 +313,6 @@
    "away": "Jagiellonia",
    "liga": "Ekstraklasa",
    "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Brighton U21",
-   "away": "Leicester City U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 16,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "AZ Alkmaar",
-   "away": "Willem II",
-   "liga": "Eredivisie",
-   "minuto": 18,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "VVV Venlo",
-   "away": "FC OSS",
-   "liga": "Eerste Divisie",
-   "minuto": 16,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "NAC Breda",
-   "away": "Jong Utrecht",
-   "liga": "Eerste Divisie",
-   "minuto": 18,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -949,7 +949,7 @@
   "n": 2773,
   "ganados": 1870,
   "win_rate": 67,
-  "hoy": 27
+  "hoy": 31
  },
  "stats_dia": {
   "ganados": 9,
