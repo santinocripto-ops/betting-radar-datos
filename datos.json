@@ -1,30 +1,36 @@
 {
- "actualizado": "2026-09-11T23:39:27.389515+00:00",
+ "actualizado": "2026-09-11T23:47:15.491184+00:00",
  "partidos_vivo": [
   {
-   "home": "San Antonio Bulo Bulo",
-   "away": "Aurora",
-   "liga": "Primera División",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Racing Louisville W",
+   "away": "NJ/NY Gotham FC W",
+   "liga": "NWSL Women",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.1,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "01:46",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -83,12 +89,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:59",
    "tipo": "live"
   },
   {
@@ -620,6 +620,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5)",
+   "apuesta": "SI, Set Handicap: Shelton (-1.5) ganara",
+   "usdc": 173462,
+   "prob": 53.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "01:46"
+  },
+  {
    "titulo": "US Open ATP: Frances Tiafoe vs Ben Shelton",
    "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
    "usdc": 164221,
@@ -681,15 +690,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "20:42"
-  },
-  {
-   "titulo": "Will Sevilla FC win on 2026-09-11?",
-   "apuesta": "SI, Sevilla ganara",
-   "usdc": 884960,
-   "prob": 52.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "20:26"
   }
  ],
  "stats_gt": {
