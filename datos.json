@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T16:34:19.253122+00:00",
+ "actualizado": "2026-09-11T16:41:55.942627+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Qadisiyah FC",
@@ -68,6 +68,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:26",
    "tipo": "live"
   },
@@ -130,12 +136,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:58",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -214,6 +214,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Werder Bremen W",
+   "away": "Hamburger SV W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Ajman",
    "away": "Al-Ittihad Kalba",
    "liga": "Pro League",
@@ -262,17 +273,6 @@
    "away": "Al-Ittihad FC",
    "liga": "Pro League",
    "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Riga",
-   "away": "Auda",
-   "liga": "Virsliga",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -895,7 +895,7 @@
   "n": 2766,
   "ganados": 1864,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 3,
