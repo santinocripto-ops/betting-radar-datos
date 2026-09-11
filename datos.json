@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T17:18:10.846868+00:00",
+ "actualizado": "2026-09-11T17:18:48.713538+00:00",
  "partidos_vivo": [
   {
    "home": "Raków Częstochowa",
@@ -226,6 +226,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:18",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "19:18",
@@ -283,18 +295,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "17:32",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "17:15",
    "tipo": "smart_money"
   }
  ],
@@ -374,6 +374,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Buchbach",
+   "away": "Bayern München II",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Kumla",
+   "away": "Motala",
+   "liga": "Division 2 - Norra Götaland",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Werder Bremen W",
    "away": "Hamburger SV W",
    "liga": "Frauen Bundesliga",
@@ -411,28 +433,6 @@
    "away": "Motor Lublin",
    "liga": "Ekstraklasa",
    "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Ústí nad Labem",
-   "away": "Vysočina Jihlava",
-   "liga": "FNL",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Faisaly FC",
-   "away": "Al-Ittihad FC",
-   "liga": "Pro League",
-   "minuto": 18,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -765,6 +765,36 @@
     "ts": "2026-09-11T07:03:49.793457+00:00"
    },
    {
+    "home": "Cruz Azul Hidalgo",
+    "away": "Piratas",
+    "liga": "Liga de Expansión MX",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.62,
+    "pinnacle": true,
+    "delta": 3.01,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T18:00:00+00:00",
+    "ts": "2026-09-11T17:10:25.531991+00:00"
+   },
+   {
+    "home": "Emmen",
+    "away": "De Graafschap",
+    "liga": "Eerste Divisie",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.28,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-11T18:00:00+00:00",
+    "ts": "2026-09-11T17:10:30.537542+00:00"
+   },
+   {
     "home": "Beşiktaş",
     "away": "Erzurumspor FK",
     "liga": "Süper Lig",
@@ -928,42 +958,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-10T19:00:00+00:00",
     "ts": "2026-09-10T07:05:44.998709+00:00"
-   },
-   {
-    "home": "Como",
-    "away": "RB Leipzig",
-    "liga": "UEFA Champions League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.18,
-    "pinnacle": true,
-    "delta": 3.24,
-    "marcador": "4-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-10T19:00:00+00:00",
-    "ts": "2026-09-10T07:05:45.829271+00:00"
-   },
-   {
-    "home": "Bayern München",
-    "away": "Bodo/Glimt",
-    "liga": "UEFA Champions League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.03,
-    "pinnacle": false,
-    "delta": 3.71,
-    "marcador": "5-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-10T19:00:00+00:00",
-    "ts": "2026-09-10T07:05:46.335654+00:00"
    }
   ],
   "balance": {
    "ganados": 253,
    "perdidos": 102,
-   "pendientes": 12,
+   "pendientes": 14,
    "acierto": 71.3,
    "total": 355
   }
@@ -1055,7 +1055,7 @@
   "n": 2769,
   "ganados": 1866,
   "win_rate": 67,
-  "hoy": 12
+  "hoy": 14
  },
  "stats_dia": {
   "ganados": 5,
