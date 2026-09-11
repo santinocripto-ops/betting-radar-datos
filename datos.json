@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T14:19:19.471471+00:00",
+ "actualizado": "2026-09-11T14:26:49.180805+00:00",
  "partidos_vivo": [
   {
    "home": "Johor Darul Takzim FC",
@@ -276,7 +276,7 @@
   "balance_dia": -49.0,
   "ganados": 2739,
   "perdidos": 1218,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.2,
@@ -284,7 +284,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 3960,
+  "con_cuota_media": 3961,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -881,7 +881,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 2,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 60
  },
  "stats_banker": {
