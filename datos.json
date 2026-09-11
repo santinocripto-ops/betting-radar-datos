@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T02:55:03.329246+00:00",
+ "actualizado": "2026-09-11T03:02:52.732233+00:00",
  "partidos_vivo": [
   {
    "home": "Millonarios",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "05:01",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "23:24",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:44",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,9 +125,9 @@
    "cuota": 4.6,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 63,
-   "n_historico": 1305
+   "n_historico": 1307
   },
   {
    "clave": "btts",
@@ -139,9 +139,9 @@
    "cuota": 2.23,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1299
+   "n_historico": 1302
   }
  ],
  "gol_temprano": [
@@ -152,21 +152,21 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-11",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49289.0,
-  "balance_total": 39289.0,
-  "balance_dia": -55.0,
-  "ganados": 2737,
-  "perdidos": 1217,
-  "pendientes": 3,
-  "ganados_dia": 1,
-  "perdidos_dia": 1,
+  "capital": 49234.0,
+  "balance_total": 39234.0,
+  "balance_dia": -110.0,
+  "ganados": 2738,
+  "perdidos": 1218,
+  "pendientes": 1,
+  "ganados_dia": 2,
+  "perdidos_dia": 2,
   "win_rate": 69.2,
   "roi": 9.9,
   "stake": 100.0,
@@ -182,7 +182,7 @@
     "away": "Ponte Preta",
     "liga": "Serie B",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -191,7 +191,7 @@
     "away": "Independiente Petrolero",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -310,7 +310,7 @@
     "away": "Ponte Preta",
     "liga": "Serie B",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -319,7 +319,7 @@
     "away": "Independiente Petrolero",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -433,10 +433,10 @@
    }
   ],
   "balance": {
-   "ganados": 1575,
-   "perdidos": 1029,
-   "acierto": 60.5,
-   "yield": 14.9,
+   "ganados": 1576,
+   "perdidos": 1033,
+   "acierto": 60.4,
+   "yield": 14.8,
    "cuota_media": 1.9
   }
  },
@@ -446,7 +446,7 @@
    "away": "Independiente Petrolero",
    "liga": "Copa de la División Profesional",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -690,6 +690,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Phan Thiet 3: Philip Sekulic vs Koki Matsuda",
+   "apuesta": "SI, Phan Thiet 3: Philip Sekulic ganara",
+   "usdc": 129559,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "05:01"
+  },
+  {
    "titulo": "US Open WTA: Coco Gauff vs Elena Rybakina",
    "apuesta": "SI, US Open WTA: Coco Gauff ganara",
    "usdc": 177397,
@@ -751,27 +760,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xb",
    "hora": "18:40"
-  },
-  {
-   "titulo": "Will AS Roma win on 2026-09-10?",
-   "apuesta": "SI, AS Roma ganara",
-   "usdc": 129841,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "17:42"
   }
  ],
  "stats_gt": {
-  "n": 2764,
+  "n": 2765,
   "ganados": 1863,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 1,
-  "en_juego": 2,
+  "ganados": 2,
+  "perdidos": 2,
+  "en_juego": 0,
   "win_rate": 50
  },
  "stats_banker": {
