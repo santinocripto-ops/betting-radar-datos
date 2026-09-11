@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T17:42:12.821190+00:00",
+ "actualizado": "2026-09-11T17:42:40.120511+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Rayyan SC",
@@ -94,6 +94,24 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:18",
    "tipo": "live"
   },
@@ -137,24 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:26",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:03",
    "tipo": "live"
   }
  ],
@@ -234,6 +234,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Stellenbosch",
+   "away": "Sekhukhune United",
+   "liga": "Premier Soccer League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Rot-weiss Oberhausen",
+   "away": "Schalke 04 II",
+   "liga": "Regionalliga - West",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Ried",
+   "away": "Red Bull Salzburg",
+   "liga": "Bundesliga",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
+   "home": "Stade Lausanne-Ouchy",
+   "away": "FC WIL 1900",
+   "liga": "Challenge League",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
+  {
    "home": "Buchbach",
    "away": "Bayern München II",
    "liga": "Regionalliga - Bayern",
@@ -249,50 +293,6 @@
    "away": "Motala",
    "liga": "Division 2 - Norra Götaland",
    "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Werder Bremen W",
-   "away": "Hamburger SV W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Ajman",
-   "away": "Al-Ittihad Kalba",
-   "liga": "Pro League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Rayyan SC",
-   "away": "Al Ahli Doha",
-   "liga": "Stars League",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-11",
-   "es_hoy": true
-  },
-  {
-   "home": "Raków Częstochowa",
-   "away": "Motor Lublin",
-   "liga": "Ekstraklasa",
-   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -915,7 +915,7 @@
   "n": 2769,
   "ganados": 1866,
   "win_rate": 67,
-  "hoy": 14
+  "hoy": 18
  },
  "stats_dia": {
   "ganados": 5,
