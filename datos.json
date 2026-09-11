@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T18:09:03.212394+00:00",
+ "actualizado": "2026-09-11T18:18:27.680293+00:00",
  "partidos_vivo": [
   {
    "home": "FC Copenhagen",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:18",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:08",
@@ -310,12 +316,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -999,6 +999,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: GIANTX vs Natus Vincere - Game 4 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 18552,
+   "prob": 31.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:18"
+  },
+  {
    "titulo": "Counter-Strike: paiN vs ShindeN (BO3) - PGL Masters Bucharest: South A",
    "apuesta": "SI, Counter-Strike: paiN ganara",
    "usdc": 105000,
@@ -1060,15 +1069,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "14:00"
-  },
-  {
-   "titulo": "Tulln: Mika Brunold vs Gustavo Heide",
-   "apuesta": "SI, Tulln: Mika Brunold ganara",
-   "usdc": 155574,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "13:31"
   }
  ],
  "stats_gt": {
