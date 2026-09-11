@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T01:00:28.377778+00:00",
+ "actualizado": "2026-09-11T01:08:03.705732+00:00",
  "partidos_vivo": [
   {
    "home": "São Bernardo",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "03:08",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "03:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "22:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:03",
    "tipo": "smart_money"
   }
  ],
@@ -159,16 +159,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49344.0,
-  "balance_total": 39344.0,
-  "balance_dia": 0.0,
-  "ganados": 2736,
-  "perdidos": 1216,
-  "pendientes": 4,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 49289.0,
+  "balance_total": 39289.0,
+  "balance_dia": -55.0,
+  "ganados": 2737,
+  "perdidos": 1217,
+  "pendientes": 2,
+  "ganados_dia": 1,
+  "perdidos_dia": 1,
   "win_rate": 69.2,
-  "roi": 10.0,
+  "roi": 9.9,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -446,7 +446,7 @@
    "away": "Goias",
    "liga": "Serie B",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -690,6 +690,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open WTA: Coco Gauff vs Elena Rybakina",
+   "apuesta": "SI, US Open WTA: Coco Gauff ganara",
+   "usdc": 177397,
+   "prob": 50.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "03:06"
+  },
+  {
    "titulo": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
    "apuesta": "SI, US Open WTA: Aryna Sabalenka ganara",
    "usdc": 142389,
@@ -751,28 +760,19 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xe",
    "hora": "17:42"
-  },
-  {
-   "titulo": "AGS Astéras Trípolis vs. AS Áris Thessaloníkis: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 21954,
-   "prob": 51.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "16:18"
   }
  ],
  "stats_gt": {
-  "n": 2763,
+  "n": 2764,
   "ganados": 1863,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 1,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 88,
