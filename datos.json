@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T11:24:50.774367+00:00",
+ "actualizado": "2026-09-11T11:32:02.570167+00:00",
  "partidos_vivo": [
   {
    "home": "Kyoto Sanga",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "13:31",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "13:08",
    "tipo": "smart_money"
   },
@@ -144,12 +150,6 @@
    "texto": "⚽ SV Darmstadt 98 vs Arminia Bielefeld · 🎯 Apuesta: Doble oport. X2 (empate o visitante) ·",
    "hora": "09:03",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "09:03",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -787,6 +787,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Tulln: Mika Brunold vs Gustavo Heide",
+   "apuesta": "SI, Tulln: Mika Brunold ganara",
+   "usdc": 155574,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "13:31"
+  },
+  {
    "titulo": "Counter-Strike: FURIA vs G2 - Map 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 16365,
@@ -848,15 +857,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "05:01"
-  },
-  {
-   "titulo": "US Open WTA: Coco Gauff vs Elena Rybakina",
-   "apuesta": "SI, US Open WTA: Coco Gauff ganara",
-   "usdc": 177397,
-   "prob": 50.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "03:06"
   }
  ],
  "stats_gt": {
