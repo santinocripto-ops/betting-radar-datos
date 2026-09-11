@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-11T13:05:41.863786+00:00",
+ "actualizado": "2026-09-11T13:13:28.001932+00:00",
  "partidos_vivo": [
   {
    "home": "Ezra",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:13",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "10:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "09:52",
    "tipo": "smart_money"
   }
  ],
@@ -747,6 +747,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European",
+   "apuesta": "SI, ganara",
+   "usdc": 166698,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "15:13"
+  },
+  {
    "titulo": "Antalya 4: Rositsa Dencheva vs Maria Lourdes Carle",
    "apuesta": "SI, Antalya 4: Rositsa Dencheva ganara",
    "usdc": 17832,
@@ -808,15 +817,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "09:02"
-  },
-  {
-   "titulo": "Will Brighton & Hove Albion FC win on 2026-09-13?",
-   "apuesta": "NO, Brighton & Hove Albion no ganara",
-   "usdc": 107685,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "06:41"
   }
  ],
  "stats_gt": {
