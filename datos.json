@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-11T00:35:09.062773+00:00",
+ "actualizado": "2026-09-11T00:41:21.446207+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -63,12 +69,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:30",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:03",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
