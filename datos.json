@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-11T13:46:38.345820+00:00",
+ "actualizado": "2026-09-11T13:54:41.927240+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:54",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:54",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -62,18 +74,6 @@
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Rapid Wien II vs First Vienna · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuot",
    "hora": "11:04",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "11:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Empoli vs Arezzo · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.31 (5 casas)",
-   "hora": "10:07",
    "tipo": "banker"
   }
  ],
@@ -152,6 +152,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Khorfakkan",
+   "away": "Baniyas SC",
+   "liga": "Pro League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-11",
+   "es_hoy": true
+  },
   {
    "home": "Slovan Liberec II",
    "away": "Pardubice II",
@@ -706,6 +717,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 96797,
+   "prob": 19.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "15:54"
+  },
+  {
    "titulo": "Counter-Strike: 1WIN vs Nemiga (BO3) - PGL Masters Bucharest: European",
    "apuesta": "SI, ganara",
    "usdc": 166698,
@@ -767,22 +787,13 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "09:52"
-  },
-  {
-   "titulo": "Will Stade Rennais FC 1901 win on 2026-09-11?",
-   "apuesta": "SI, Stade Rennais FC 1901 ganara",
-   "usdc": 163564,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x6",
-   "hora": "09:02"
   }
  ],
  "stats_gt": {
   "n": 2766,
   "ganados": 1864,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 3,
