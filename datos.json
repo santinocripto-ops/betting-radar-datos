@@ -1,193 +1,113 @@
 {
- "actualizado": "2026-09-12T14:39:55.685322+00:00",
+ "actualizado": "2026-09-12T14:52:40.246835+00:00",
  "partidos_vivo": [
   {
-   "home": "Rosengård W",
-   "away": "Uppsala W",
-   "liga": "Damallsvenskan",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Borussia Dortmund",
+   "away": "SC Paderborn 07",
+   "liga": "Bundesliga",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "⚽ 1 gol — SC Paderborn 07 buscará el empate"
    ]
   },
   {
-   "home": "Zbrojovka Brno",
-   "away": "Artis",
-   "liga": "Czech Liga",
-   "minuto": 47,
+   "home": "1899 Hoffenheim",
+   "away": "VfB Stuttgart",
+   "liga": "Bundesliga",
+   "minuto": 55,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "SC Freiburg",
+   "away": "Borussia Mönchengladbach",
+   "liga": "Bundesliga",
+   "minuto": 58,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 81,
-   "momentum_away": 19,
+   "momentum_home": 74,
+   "momentum_away": 26,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Artis pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Slovan Liberec",
-   "away": "Mlada Boleslav",
-   "liga": "Czech Liga",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "FC Augsburg",
+   "away": "Bayer Leverkusen",
+   "liga": "Bundesliga",
+   "minuto": 57,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 72,
-   "momentum_away": 28,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 1 gol — Mlada Boleslav buscará el empate",
-    "🎯 14 remates totales"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Vicenza Virtus",
-   "away": "Juve Stabia",
-   "liga": "Serie B",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "FSV Mainz 05",
+   "away": "Eintracht Frankfurt",
+   "liga": "Bundesliga",
+   "minuto": 57,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⭐ Bonus liga: +1.5 (Bundesliga)",
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Padova",
-   "away": "Ascoli",
-   "liga": "Serie B",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Felgueiras 1932",
-   "away": "Penafiel",
-   "liga": "Segunda Liga",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.8,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Felgueiras 1932 buscará el empate",
-    "🎯 9 remates totales",
-    "🚩 8 córners"
-   ]
-  },
-  {
-   "home": "Bohemians 1905",
-   "away": "Slovácko",
-   "liga": "Czech Liga",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚽ 1 gol — Slovácko buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Polokwane City",
-   "away": "Kaizer Chiefs",
-   "liga": "Premier Soccer League",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 48,
-   "momentum_away": 52,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — Polokwane City buscará el empate",
-    "🎯 19 remates totales",
-    "🎯 8 remates a puerta — peligro constante"
-   ]
-  },
-  {
-   "home": "Arsenal",
-   "away": "Baranovichi",
-   "liga": "Premier League",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.07 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Strindheim",
-   "away": "Kvik Trondheim",
+   "home": "Herd",
+   "away": "Orkla",
    "liga": "3. Division - Girone 2",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -198,14 +118,74 @@
    "razones": [
     "⚽ Liga muy goleadora: 4.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "AFC Amsterdam",
+   "away": "HHC",
+   "liga": "Tweede Divisie",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Quick Boys",
+   "away": "ROHDA Raalte",
+   "liga": "Tweede Divisie",
+   "minuto": 65,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Caersws",
+   "away": "Brickfield Rangers",
+   "liga": "FAW Championship",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Fyllingsdalen",
-   "away": "Gneist",
-   "liga": "3. Division - Girone 3",
-   "minuto": 47,
+   "home": "Guilsfield",
+   "away": "Gresford Athletic",
+   "liga": "FAW Championship",
+   "minuto": 55,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
@@ -216,16 +196,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Fyllingsdalen buscará el empate"
+    "⚽ 1 gol — Guilsfield buscará el empate"
    ]
   },
   {
-   "home": "Hinna",
-   "away": "Madla",
-   "liga": "3. Division - Girone 4",
-   "minuto": 48,
+   "home": "Mold Alexandra",
+   "away": "Llanuwchllyn",
+   "liga": "FAW Championship",
+   "minuto": 58,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Penrhyncoch",
+   "away": "Bangor City 1876 FC",
+   "liga": "FAW Championship",
+   "minuto": 57,
    "marcador": "1-4",
    "apuesta": "Over 5.5",
    "cuota": null,
@@ -236,15 +236,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.78 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 60,
+ "partidos_vivo_total": 34,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -303,12 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
    "tipo": "live"
   },
   {
@@ -376,6 +376,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Kom",
+   "away": "Berane",
+   "liga": "Second League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Twente",
    "away": "ADO Den Haag",
    "liga": "Eredivisie",
@@ -429,17 +440,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
-  },
-  {
-   "home": "Hitchin Town",
-   "away": "Stourbridge",
-   "liga": "Non League Premier - Southern Central",
-   "minuto": 12,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -449,7 +449,7 @@
   "balance_dia": 118.0,
   "ganados": 2782,
   "perdidos": 1238,
-  "pendientes": 45,
+  "pendientes": 46,
   "ganados_dia": 18,
   "perdidos_dia": 9,
   "win_rate": 69.2,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4065,
+  "con_cuota_media": 4066,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1031,12 +1031,12 @@
   "n": 2817,
   "ganados": 1898,
   "win_rate": 67,
-  "hoy": 64
+  "hoy": 65
  },
  "stats_dia": {
   "ganados": 19,
   "perdidos": 9,
-  "en_juego": 45,
+  "en_juego": 46,
   "win_rate": 68
  },
  "stats_banker": {
