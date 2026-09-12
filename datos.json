@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T19:07:39.072925+00:00",
+ "actualizado": "2026-09-12T19:09:42.774393+00:00",
  "partidos_vivo": [
   {
    "home": "Independ. Rivadavia",
@@ -86,6 +86,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Chapecoense-sc vs Internacional · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
+   "hora": "21:09",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:09",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:07",
@@ -144,22 +156,20 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:24",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:23",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Chapecoense-sc",
+   "away": "Internacional",
+   "liga": "Serie A",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.26,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -879,7 +889,7 @@
  "stats_banker": {
   "ganados": 91,
   "perdidos": 37,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 71
  },
  "marca": {
