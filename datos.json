@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T11:32:08.957103+00:00",
+ "actualizado": "2026-09-12T11:39:25.522308+00:00",
  "partidos_vivo": [
   {
    "home": "Sanfrecce Hiroshima",
@@ -107,6 +107,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:39",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:30",
    "tipo": "live"
@@ -170,12 +176,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -226,6 +226,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Derby",
+   "away": "Birmingham",
+   "liga": "Championship",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Bayswater City",
    "away": "Perth",
    "liga": "Western Australia NPL",
@@ -275,17 +286,6 @@
    "liga": "Segunda Liga",
    "minuto": 20,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "V-varen Nagasaki",
-   "away": "Nagoya Grampus",
-   "liga": "J1 League",
-   "minuto": 16,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
@@ -860,7 +860,7 @@
   "n": 2799,
   "ganados": 1886,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 4,
