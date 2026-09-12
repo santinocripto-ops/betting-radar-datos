@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T10:09:00.502371+00:00",
+ "actualizado": "2026-09-12T10:15:38.745671+00:00",
  "partidos_vivo": [
   {
    "home": "Ústí nad Labem II",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "12:15",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "12:08",
@@ -150,12 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "05:40",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
