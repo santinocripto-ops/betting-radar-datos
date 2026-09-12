@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T11:46:49.854351+00:00",
+ "actualizado": "2026-09-12T11:53:44.543135+00:00",
  "partidos_vivo": [
   {
    "home": "Sanfrecce Hiroshima",
@@ -108,6 +108,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:53",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:46",
    "tipo": "live"
   },
@@ -145,12 +151,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:20",
    "tipo": "live"
   },
   {
@@ -226,6 +226,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Notts County",
+   "away": "Bradford",
+   "liga": "League One",
+   "minuto": 24,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Lyon W",
    "away": "Paris FC W",
    "liga": "Feminine Division 1",
@@ -279,17 +290,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
-  },
-  {
-   "home": "Bayswater City",
-   "away": "Perth",
-   "liga": "Western Australia NPL",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -299,7 +299,7 @@
   "balance_dia": -49.0,
   "ganados": 2767,
   "perdidos": 1231,
-  "pendientes": 9,
+  "pendientes": 13,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.2,
@@ -307,7 +307,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4007,
+  "con_cuota_media": 4011,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -860,12 +860,12 @@
   "n": 2799,
   "ganados": 1886,
   "win_rate": 67,
-  "hoy": 14
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 4,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 12,
   "win_rate": 67
  },
  "stats_banker": {
