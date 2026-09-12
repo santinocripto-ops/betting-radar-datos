@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T23:50:29.395018+00:00",
+ "actualizado": "2026-09-12T23:50:37.179894+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego Wave W",
@@ -146,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Columbus Crew",
+   "away": "New York Red Bulls",
+   "liga": "Major League Soccer",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": false
+  },
+  {
    "home": "Forge",
    "away": "Atlético Ottawa",
    "liga": "Canadian Premier League",
@@ -194,17 +205,6 @@
    "away": "Toulouse",
    "liga": "Ligue 1",
    "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "OH Leuven",
-   "away": "Cercle Brugge",
-   "liga": "Jupiler Pro League",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
