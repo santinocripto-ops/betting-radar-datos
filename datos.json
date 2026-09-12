@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T13:24:43.763775+00:00",
+ "actualizado": "2026-09-12T13:32:35.037407+00:00",
  "partidos_vivo": [
   {
    "home": "Sochaux",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "15:32",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:24",
@@ -303,12 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:04",
    "tipo": "live"
   },
   {
@@ -449,7 +449,7 @@
   "balance_dia": 40.0,
   "ganados": 2772,
   "perdidos": 1233,
-  "pendientes": 24,
+  "pendientes": 26,
   "ganados_dia": 8,
   "perdidos_dia": 4,
   "win_rate": 69.2,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4029,
+  "con_cuota_media": 4031,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -948,6 +948,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will SC Freiburg win on 2026-09-12?",
+   "apuesta": "NO, SC Freiburg no ganara",
+   "usdc": 91000,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "15:32"
+  },
+  {
    "titulo": "Will Liverpool FC win on 2026-09-12?",
    "apuesta": "SI, Liverpool ganara",
    "usdc": 252911,
@@ -1009,15 +1018,6 @@
    "n_traders": 2,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "07:47"
-  },
-  {
-   "titulo": "Will AC Milan win on 2026-09-12?",
-   "apuesta": "SI, AC Milan ganara",
-   "usdc": 141964,
-   "prob": 43.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x4",
-   "hora": "07:32"
   }
  ],
  "stats_gt": {
@@ -1029,7 +1029,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 24,
+  "en_juego": 26,
   "win_rate": 69
  },
  "stats_banker": {
