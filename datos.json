@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T23:43:53.006302+00:00",
+ "actualizado": "2026-09-12T23:50:29.395018+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego Wave W",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:50",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚽ Chapecoense-sc vs Internacional · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
    "hora": "21:09",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:09",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
