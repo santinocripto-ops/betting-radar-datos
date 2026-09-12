@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T22:39:20.529747+00:00",
+ "actualizado": "2026-09-12T22:45:34.401741+00:00",
  "partidos_vivo": [
   {
    "home": "Deportivo Recoleta",
@@ -264,12 +264,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49114.0,
-  "balance_total": 39114.0,
+  "capital": 49175.0,
+  "balance_total": 39175.0,
   "balance_dia": 0.0,
-  "ganados": 2838,
+  "ganados": 2839,
   "perdidos": 1277,
-  "pendientes": 3,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -860,8 +860,8 @@
   }
  ],
  "stats_gt": {
-  "n": 2892,
-  "ganados": 1943,
+  "n": 2893,
+  "ganados": 1944,
   "win_rate": 67,
   "hoy": 0
  },
