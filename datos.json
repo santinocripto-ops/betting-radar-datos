@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T20:56:01.325021+00:00",
+ "actualizado": "2026-09-12T21:04:38.400299+00:00",
  "partidos_vivo": [
   {
    "home": "Academico Viseu",
@@ -202,7 +202,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
@@ -213,7 +213,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
@@ -224,7 +224,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
@@ -235,7 +235,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
@@ -246,7 +246,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
@@ -257,23 +257,23 @@
    "minuto": 12,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-12",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49364.0,
-  "balance_total": 39364.0,
-  "balance_dia": -292.0,
-  "ganados": 2832,
-  "perdidos": 1271,
-  "pendientes": 15,
-  "ganados_dia": 68,
-  "perdidos_dia": 42,
+  "capital": 49114.0,
+  "balance_total": 39114.0,
+  "balance_dia": -542.0,
+  "ganados": 2838,
+  "perdidos": 1277,
+  "pendientes": 3,
+  "ganados_dia": 74,
+  "perdidos_dia": 48,
   "win_rate": 69.0,
-  "roi": 9.6,
+  "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -497,14 +497,14 @@
    "away": "Al-Fayha",
    "liga": "Pro League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "NK Lokomotiva Zagreb",
    "away": "HNK Rijeka",
    "liga": "HNL",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -827,16 +827,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2882,
-  "ganados": 1938,
+  "n": 2892,
+  "ganados": 1943,
   "win_rate": 67,
   "hoy": 98
  },
  "stats_dia": {
-  "ganados": 70,
-  "perdidos": 42,
-  "en_juego": 15,
-  "win_rate": 62
+  "ganados": 76,
+  "perdidos": 48,
+  "en_juego": 3,
+  "win_rate": 61
  },
  "stats_banker": {
   "ganados": 91,
