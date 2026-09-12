@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-09-12T22:59:22.535904+00:00",
+ "actualizado": "2026-09-12T23:06:48.592671+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Recoleta",
-   "away": "Sportivo Trinidense",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Guayaquil City FC",
+   "away": "Mushuc Runa SC",
+   "liga": "Liga Pro",
+   "minuto": 64,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
+   "momentum_home": 38,
+   "momentum_away": 62,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Palmeiras",
-   "away": "Sao Paulo",
-   "liga": "Serie A",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚽ 1 gol — Sao Paulo buscará el empate",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "The Strongest",
-   "away": "Real Oruro",
-   "liga": "Primera División",
-   "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto",
+    "🎯 18 remates totales",
+    "🎯 8 remates a puerta — peligro constante"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -139,17 +99,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Chapecoense-sc",
-   "away": "Internacional",
-   "liga": "Serie A",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.26,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -872,9 +822,9 @@
   "win_rate": 0
  },
  "stats_banker": {
-  "ganados": 91,
+  "ganados": 92,
   "perdidos": 37,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 71
  },
  "marca": {
