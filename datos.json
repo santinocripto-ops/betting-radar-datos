@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-12T05:24:29.904936+00:00",
+ "actualizado": "2026-09-12T05:32:12.762696+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "07:32",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "00:12",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "00:07",
    "tipo": "smart_money"
   }
  ],
@@ -545,6 +545,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will AC Milan win on 2026-09-12?",
+   "apuesta": "SI, AC Milan ganara",
+   "usdc": 141964,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "07:32"
+  },
+  {
    "titulo": "Will Newcastle United FC win on 2026-09-14?",
    "apuesta": "NO, Newcastle United no ganara",
    "usdc": 115075,
@@ -606,15 +615,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "22:53"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 128597,
-   "prob": 18.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "20:50"
   }
  ],
  "stats_gt": {
