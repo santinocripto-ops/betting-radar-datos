@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T11:03:27.846799+00:00",
+ "actualizado": "2026-09-12T11:24:07.818489+00:00",
  "partidos_vivo": [
   {
    "home": "Shimizu S-pulse",
@@ -379,7 +379,80 @@
     "tanda": 2
    }
   ],
-  "over25": [],
+  "over25": [
+   {
+    "home": "Sotra",
+    "away": "Sandviken",
+    "liga": "2. Division - Group 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Askøy",
+    "away": "Stord",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Fana",
+    "away": "Os",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Brodd",
+    "away": "Staal Jørpeland",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Harstad",
+    "away": "Ulfstind",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Bjørkelangen",
+    "away": "Brumunddal",
+    "liga": "3. Division - Girone 6",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Oppsal",
+    "away": "Fram",
+    "liga": "3. Division - Girone 6",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Sarpsborg 08 II",
+    "away": "Lillehammer",
+    "liga": "3. Division - Girone 6",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
   "balance": {
    "ganados": 1610,
    "perdidos": 1048,
