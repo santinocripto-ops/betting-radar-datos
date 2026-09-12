@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T09:58:08.141194+00:00",
+ "actualizado": "2026-09-12T10:06:02.625790+00:00",
  "partidos_vivo": [
   {
    "home": "Ústí nad Labem II",
@@ -172,8 +172,8 @@
    "score": 8.73,
    "hora": "13:30",
    "resultado": "pendiente",
-   "wr_historico": 81,
-   "n_historico": 221
+   "wr_historico": 82,
+   "n_historico": 222
   },
   {
    "clave": "over25",
@@ -187,7 +187,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 63,
-   "n_historico": 1325
+   "n_historico": 1327
   },
   {
    "clave": "btts",
@@ -201,7 +201,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1324
+   "n_historico": 1328
   }
  ],
  "gol_temprano": [
@@ -318,7 +318,7 @@
     "away": "Suwon Bluewings",
     "liga": "K League 2",
     "hora": "09:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -388,10 +388,10 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1602,
-   "perdidos": 1047,
+   "ganados": 1607,
+   "perdidos": 1048,
    "acierto": 60.5,
-   "yield": 14.9,
+   "yield": 15.0,
    "cuota_media": 1.9
   }
  },
