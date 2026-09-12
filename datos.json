@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T03:33:14.289224+00:00",
+ "actualizado": "2026-09-12T03:40:51.046007+00:00",
  "partidos_vivo": [
   {
    "home": "Angel City W",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "05:40",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "00:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "22:53",
    "tipo": "smart_money"
   }
  ],
@@ -604,6 +604,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Newcastle United FC win on 2026-09-14?",
+   "apuesta": "NO, Newcastle United no ganara",
+   "usdc": 115075,
+   "prob": 67.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "05:40"
+  },
+  {
    "titulo": "Counter-Strike: Legacy vs MIBR (BO3) - FISSURE PLAYGROUND Playoffs",
    "apuesta": "SI, Counter-Strike: Legacy ganara",
    "usdc": 80000,
@@ -664,15 +673,6 @@
    "prob": 18.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
-   "hora": "20:50"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 333624,
-   "prob": 81.5,
-   "n_traders": 2,
-   "trader": "ImJustKen",
    "hora": "20:50"
   }
  ],
