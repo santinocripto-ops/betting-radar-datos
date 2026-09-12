@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T18:16:36.641609+00:00",
+ "actualizado": "2026-09-12T18:16:52.097910+00:00",
  "partidos_vivo": [
   {
    "home": "GO Ahead Eagles",
@@ -186,6 +186,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Al Khaleej Saihat",
+   "away": "Al-Nassr",
+   "liga": "Pro League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Fortuna Sittard",
+   "away": "Ajax",
+   "liga": "Eredivisie",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "NK Lokomotiva Zagreb",
+   "away": "HNK Rijeka",
+   "liga": "HNL",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Cesena",
    "away": "Cremonese",
    "liga": "Serie B",
@@ -213,39 +246,6 @@
    "liga": "Primeira Liga",
    "minuto": 15,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "GO Ahead Eagles",
-   "away": "Groningen",
-   "liga": "Eredivisie",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Bristol City W",
-   "away": "Newcastle United W",
-   "liga": "Women's Championship",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Duhail SC",
-   "away": "Al Shahaniya",
-   "liga": "Stars League",
-   "minuto": 15,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
@@ -848,7 +848,7 @@
   "n": 2861,
   "ganados": 1925,
   "win_rate": 67,
-  "hoy": 88
+  "hoy": 91
  },
  "stats_dia": {
   "ganados": 52,
