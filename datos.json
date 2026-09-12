@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T19:09:42.774393+00:00",
+ "actualizado": "2026-09-12T20:16:48.936532+00:00",
  "partidos_vivo": [
   {
    "home": "Independ. Rivadavia",
@@ -86,6 +86,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:16",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:16",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "22:16",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Chapecoense-sc vs Internacional · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
    "hora": "21:09",
@@ -137,24 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:30",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:24",
    "tipo": "live"
   }
  ],
@@ -802,6 +802,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs",
+   "apuesta": "SI, LoL: Cloud9 ganara",
+   "usdc": 134082,
+   "prob": 85.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "22:16"
+  },
+  {
    "titulo": "Spread: Arsenal FC (-1.5)",
    "apuesta": "SI — Spread: Arsenal FC (-1.5)",
    "usdc": 94966,
@@ -863,15 +872,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "16:39"
-  },
-  {
-   "titulo": "Will Aston Villa FC win on 2026-09-12?",
-   "apuesta": "NO, Aston Villa no ganara",
-   "usdc": 216102,
-   "prob": 57.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "15:57"
   }
  ],
  "stats_gt": {
