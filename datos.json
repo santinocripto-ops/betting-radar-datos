@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T08:56:34.278351+00:00",
+ "actualizado": "2026-09-12T09:04:08.775193+00:00",
  "partidos_vivo": [
   {
    "home": "Ulsan Hyundai FC",
@@ -161,7 +161,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1322
+   "n_historico": 1324
   }
  ],
  "gol_temprano": [
@@ -249,7 +249,7 @@
     "away": "Joondalup City",
     "liga": "Western Australia NPL",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -258,7 +258,7 @@
     "away": "Dynamic Herb Cebu",
     "liga": "PFL",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -337,8 +337,8 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1601,
-   "perdidos": 1046,
+   "ganados": 1602,
+   "perdidos": 1047,
    "acierto": 60.5,
    "yield": 14.9,
    "cuota_media": 1.9
