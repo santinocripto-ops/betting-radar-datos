@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T13:57:48.399577+00:00",
+ "actualizado": "2026-09-12T13:58:13.666588+00:00",
  "partidos_vivo": [
   {
    "home": "FC Slutsk",
@@ -154,6 +154,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "15:57",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "15:50",
    "tipo": "smart_money"
   },
@@ -210,12 +216,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:15",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -848,6 +848,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Aston Villa FC win on 2026-09-12?",
+   "apuesta": "NO, Aston Villa no ganara",
+   "usdc": 216102,
+   "prob": 57.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "15:57"
+  },
+  {
    "titulo": "Will Chelsea FC win on 2026-09-12?",
    "apuesta": "NO, Chelsea no ganara",
    "usdc": 252917,
@@ -909,15 +918,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "11:22"
-  },
-  {
-   "titulo": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
-   "apuesta": "SI, LoL: Anyone's Legend ganara",
-   "usdc": 199236,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "10:56"
   }
  ],
  "stats_gt": {
