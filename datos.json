@@ -1,53 +1,173 @@
 {
- "actualizado": "2026-09-12T20:16:48.936532+00:00",
+ "actualizado": "2026-09-12T20:20:32.174790+00:00",
  "partidos_vivo": [
   {
-   "home": "Independ. Rivadavia",
-   "away": "Aldosivi",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 50,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Atletico-MG",
+   "away": "Fluminense",
+   "liga": "Serie A",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
+   "momentum_home": 71,
+   "momentum_away": 29,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.14 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Aldosivi pierde por 2 — atacará sin freno"
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Cesena",
-   "away": "Cremonese",
-   "liga": "Serie B",
-   "minuto": 65,
+   "home": "Manta FC",
+   "away": "Aucas",
+   "liga": "Liga Pro",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 83,
+   "momentum_away": 17,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "Cambuur",
+   "away": "NEC Nijmegen",
+   "liga": "Eredivisie",
+   "minuto": 59,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.8,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 39,
-   "momentum_away": 61,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Cremonese pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.28 goles/partido",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Gent W",
-   "away": "Anderlecht W",
-   "liga": "Super League Women",
-   "minuto": 64,
-   "marcador": "0-2",
+   "home": "Sunderland",
+   "away": "Arsenal",
+   "liga": "Premier League",
+   "minuto": 60,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 56,
+   "momentum_away": 44,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — Sunderland buscará el empate"
+   ]
+  },
+  {
+   "home": "Cordoba",
+   "away": "Almeria",
+   "liga": "Segunda División",
+   "minuto": 57,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 89,
+   "momentum_away": 11,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Cordoba buscará el empate",
+    "🎯 12 remates totales",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Real Madrid",
+   "away": "Rayo Vallecano",
+   "liga": "La Liga",
+   "minuto": 54,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Club Guarani",
+   "away": "Cerro Porteno",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 60,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 61,
+   "momentum_away": 39,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 20 remates totales — partido muy intenso",
+    "🎯 6 remates a puerta"
+   ]
+  },
+  {
+   "home": "Gremio",
+   "away": "Vasco DA Gama",
+   "liga": "Serie A",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.2,
+   "recomendar": true,
+   "momentum_home": 41,
+   "momentum_away": 59,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ 1 gol — Vasco DA Gama buscará el empate",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "Gualberto Villarroel SJ",
+   "away": "Nacional Potosí",
+   "liga": "Primera División",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -56,18 +176,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga goleadora: 3.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — Gualberto Villarroel SJ buscará el empate"
    ]
   },
   {
-   "home": "Barco",
-   "away": "Silva",
-   "liga": "Tercera División RFEF - Group 1",
-   "minuto": 63,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Salamanca UDS",
+   "away": "Getafe II",
+   "liga": "Segunda División RFEF - Group 5",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -76,13 +196,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚽ Liga por encima de la media: 2.78 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 21,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -289,7 +409,7 @@
   "balance_dia": -292.0,
   "ganados": 2832,
   "perdidos": 1271,
-  "pendientes": 14,
+  "pendientes": 15,
   "ganados_dia": 68,
   "perdidos_dia": 42,
   "win_rate": 69.0,
@@ -297,7 +417,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4117,
+  "con_cuota_media": 4118,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -532,31 +652,25 @@
    "liga": "Stars League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "AC Oulu",
-   "away": "Gnistan",
-   "liga": "Veikkausliiga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Olympiakos Piraeus",
-   "away": "OFI",
-   "liga": "Super League 1",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Dynamo",
-   "away": "FC Orenburg",
-   "liga": "Premier League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Chapecoense-sc",
+    "away": "Internacional",
+    "liga": "Serie A",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.29,
+    "pinnacle": true,
+    "delta": 4.54,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-12T20:00:00+00:00",
+    "ts": "2026-09-12T19:09:22.899188+00:00"
+   },
    {
     "home": "Schwarz-Weiß Bregenz",
     "away": "Floridsdorfer AC",
@@ -766,27 +880,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-11T17:00:00+00:00",
     "ts": "2026-09-11T08:07:33.654016+00:00"
-   },
-   {
-    "home": "SV Darmstadt 98",
-    "away": "Arminia Bielefeld",
-    "liga": "2. Bundesliga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.44,
-    "pinnacle": true,
-    "delta": 3.79,
-    "marcador": "2-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-11T16:30:00+00:00",
-    "ts": "2026-09-11T07:03:40.480855+00:00"
    }
   ],
   "balance": {
    "ganados": 267,
    "perdidos": 108,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 71.2,
    "total": 375
   }
@@ -883,7 +982,7 @@
  "stats_dia": {
   "ganados": 70,
   "perdidos": 42,
-  "en_juego": 13,
+  "en_juego": 15,
   "win_rate": 62
  },
  "stats_banker": {
