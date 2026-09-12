@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T14:21:50.699410+00:00",
+ "actualizado": "2026-09-12T14:23:07.562479+00:00",
  "partidos_vivo": [
   {
    "home": "Rosengård W",
@@ -248,7 +248,31 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
+   "hora": "16:23",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:22",
    "tipo": "live"
   },
   {
@@ -266,7 +290,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
+   "hora": "16:21",
    "tipo": "live"
   },
   {
@@ -291,30 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:19",
    "tipo": "live"
   }
  ],
@@ -376,20 +376,9 @@
  ],
  "gol_temprano": [
   {
-   "home": "Güzide Gebzespor",
-   "away": "Arnavutköy Belediyespor",
-   "liga": "2. Lig",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Augsburg",
-   "away": "Bayer Leverkusen",
-   "liga": "Bundesliga",
+   "home": "P-Iirot",
+   "away": "EPS",
+   "liga": "Kakkonen - Lohko B",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
@@ -398,9 +387,20 @@
    "es_hoy": true
   },
   {
-   "home": "SC Freiburg",
-   "away": "Borussia Mönchengladbach",
-   "liga": "Bundesliga",
+   "home": "Al-Arabi SC",
+   "away": "Qatar SC",
+   "liga": "Stars League",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Gosport Borough",
+   "away": "Taunton Town",
+   "liga": "Non League Premier - Southern South",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
@@ -409,10 +409,10 @@
    "es_hoy": true
   },
   {
-   "home": "Imigresen",
-   "away": "Terengganu",
-   "liga": "Super League",
-   "minuto": 20,
+   "home": "Racing Club Warwick",
+   "away": "Anstey Nomads",
+   "liga": "Non League Premier - Southern Central",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -420,20 +420,20 @@
    "es_hoy": true
   },
   {
-   "home": "Sparta Rotterdam II",
-   "away": "Katwijk",
-   "liga": "Tweede Divisie",
-   "minuto": 21,
-   "score": 10.0,
+   "home": "Hitchin Town",
+   "away": "Stourbridge",
+   "liga": "Non League Premier - Southern Central",
+   "minuto": 12,
+   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
   {
-   "home": "Reipas",
-   "away": "PuiU Helsinki",
-   "liga": "Kakkonen - Lohko A",
+   "home": "Enfield Town",
+   "away": "Cray Wanderers",
+   "liga": "Non League Premier - Isthmian",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
@@ -1038,7 +1038,7 @@
   "n": 2817,
   "ganados": 1898,
   "win_rate": 67,
-  "hoy": 34
+  "hoy": 63
  },
  "stats_dia": {
   "ganados": 19,
