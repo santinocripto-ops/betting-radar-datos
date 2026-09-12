@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T15:49:13.450436+00:00",
+ "actualizado": "2026-09-12T15:49:33.093024+00:00",
  "partidos_vivo": [
   {
    "home": "Lillestrom",
@@ -254,6 +254,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:49",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:42",
    "tipo": "live"
   },
@@ -303,12 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
    "tipo": "live"
   },
   {
@@ -376,6 +376,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Brescia U19",
+   "away": "Udinese U19",
+   "liga": "Campionato Primavera - 2",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Dynamo",
+   "away": "FC Orenburg",
+   "liga": "Premier League",
+   "minuto": 18,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Mezokovesd-zsory",
    "away": "MTK Budapest",
    "liga": "Magyar Kupa",
@@ -413,28 +435,6 @@
    "away": "Krka",
    "liga": "2. SNL",
    "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Kom",
-   "away": "Berane",
-   "liga": "Second League",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Twente",
-   "away": "ADO Den Haag",
-   "liga": "Eredivisie",
-   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1038,7 +1038,7 @@
   "n": 2825,
   "ganados": 1903,
   "win_rate": 67,
-  "hoy": 69
+  "hoy": 71
  },
  "stats_dia": {
   "ganados": 24,
