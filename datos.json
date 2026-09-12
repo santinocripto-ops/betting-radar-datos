@@ -1,53 +1,13 @@
 {
- "actualizado": "2026-09-12T21:06:17.190139+00:00",
+ "actualizado": "2026-09-12T21:51:28.447868+00:00",
  "partidos_vivo": [
   {
-   "home": "Academico Viseu",
-   "away": "Vitória SC",
-   "liga": "Primeira Liga",
-   "minuto": 59,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Primeira Liga)",
-    "⚽ 1 gol — Vitória SC buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Universitario Beni",
-   "away": "Virginia",
-   "liga": "Nacional B",
-   "minuto": 55,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.6,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Unión Tarija",
-   "away": "Primero Mayo",
-   "liga": "Nacional B",
-   "minuto": 62,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Deportivo Cali W",
+   "away": "América de Cali W",
+   "liga": "Liga Femenina",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -56,15 +16,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "23:50",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -123,12 +89,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:58",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:57",
    "tipo": "live"
   },
   {
@@ -510,6 +470,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Venados FC",
+    "away": "Tepatitlán",
+    "liga": "Liga de Expansión MX",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 3.7,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-12T23:00:00+00:00",
+    "ts": "2026-09-12T21:06:17.469577+00:00"
+   },
+   {
     "home": "Chapecoense-sc",
     "away": "Internacional",
     "liga": "Serie A",
@@ -718,27 +693,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-11T17:00:00+00:00",
     "ts": "2026-09-11T01:08:03.935502+00:00"
-   },
-   {
-    "home": "Empoli",
-    "away": "Arezzo",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.35,
-    "pinnacle": true,
-    "delta": 3.29,
-    "marcador": "0-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-11T17:00:00+00:00",
-    "ts": "2026-09-11T08:07:33.654016+00:00"
    }
   ],
   "balance": {
    "ganados": 267,
    "perdidos": 108,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 71.2,
    "total": 375
   }
@@ -753,6 +713,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 80000,
+   "prob": 20.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "23:50"
+  },
   {
    "titulo": "LoL: Cloud9 vs Shopify Rebellion (BO5) - LCS Playoffs",
    "apuesta": "SI, LoL: Cloud9 ganara",
@@ -815,15 +784,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "17:41"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the September 2026",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
-   "usdc": 117404,
-   "prob": 20.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "16:39"
   }
  ],
  "stats_gt": {
