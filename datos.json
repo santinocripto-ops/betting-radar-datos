@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T16:19:15.062481+00:00",
+ "actualizado": "2026-09-12T16:20:44.220405+00:00",
  "partidos_vivo": [
   {
    "home": "Roda",
@@ -68,6 +68,42 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:19",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:19",
    "tipo": "live"
   },
@@ -99,42 +135,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:03",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:49",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:49",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:42",
    "tipo": "live"
   }
  ],
@@ -186,21 +186,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Brescia U19",
-   "away": "Udinese U19",
-   "liga": "Campionato Primavera - 2",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Dynamo",
-   "away": "FC Orenburg",
-   "liga": "Premier League",
-   "minuto": 18,
+   "home": "AC Oulu",
+   "away": "Gnistan",
+   "liga": "Veikkausliiga",
+   "minuto": 17,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -208,10 +197,10 @@
    "es_hoy": true
   },
   {
-   "home": "Mezokovesd-zsory",
-   "away": "MTK Budapest",
-   "liga": "Magyar Kupa",
-   "minuto": 14,
+   "home": "FF Jaro",
+   "away": "SJK",
+   "liga": "Veikkausliiga",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -219,10 +208,32 @@
    "es_hoy": true
   },
   {
-   "home": "Catanzaro",
-   "away": "Carrarese",
-   "liga": "Serie B",
-   "minuto": 25,
+   "home": "Karmiotissa",
+   "away": "Omonia Aradippou",
+   "liga": "1. Division",
+   "minuto": 15,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Anorthosis",
+   "away": "Apoel Nicosia",
+   "liga": "1. Division",
+   "minuto": 15,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Olympiakos Piraeus",
+   "away": "OFI",
+   "liga": "Super League 1",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -230,21 +241,10 @@
    "es_hoy": true
   },
   {
-   "home": "Gornik Zabrze",
-   "away": "Lech Poznan",
-   "liga": "Ekstraklasa",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Krško",
-   "away": "Krka",
-   "liga": "2. SNL",
-   "minuto": 25,
+   "home": "Adana Demirspor",
+   "away": "Elazığspor",
+   "liga": "2. Lig",
+   "minuto": 17,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -848,7 +848,7 @@
   "n": 2858,
   "ganados": 1925,
   "win_rate": 67,
-  "hoy": 71
+  "hoy": 82
  },
  "stats_dia": {
   "ganados": 50,
