@@ -1,33 +1,33 @@
 {
- "actualizado": "2026-09-12T03:09:42.450424+00:00",
+ "actualizado": "2026-09-12T03:17:57.588104+00:00",
  "partidos_vivo": [
   {
-   "home": "Santa Fe",
-   "away": "Deportes Tolima",
-   "liga": "Primera A",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Angel City W",
+   "away": "Denver Summit W",
+   "liga": "NWSL Women",
+   "minuto": 54,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.27 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "New Mexico United",
-   "away": "Indy Eleven",
+   "home": "Colorado Springs",
+   "away": "San Antonio",
    "liga": "USL Championship",
-   "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "minuto": 54,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -38,11 +38,11 @@
    "razones": [
     "⚽ Liga goleadora: 3.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
