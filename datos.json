@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T17:46:14.728737+00:00",
+ "actualizado": "2026-09-12T17:52:58.062255+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Duhail SC",
@@ -279,7 +279,7 @@
   "balance_dia": -510.0,
   "ganados": 2814,
   "perdidos": 1263,
-  "pendientes": 28,
+  "pendientes": 29,
   "ganados_dia": 50,
   "perdidos_dia": 34,
   "win_rate": 69.0,
@@ -287,7 +287,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4105,
+  "con_cuota_media": 4106,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -873,7 +873,7 @@
  "stats_dia": {
   "ganados": 52,
   "perdidos": 34,
-  "en_juego": 27,
+  "en_juego": 28,
   "win_rate": 60
  },
  "stats_banker": {
