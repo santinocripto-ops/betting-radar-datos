@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T08:48:56.895377+00:00",
+ "actualizado": "2026-09-12T08:56:34.278351+00:00",
  "partidos_vivo": [
   {
    "home": "Ulsan Hyundai FC",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "10:56",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "01:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:01",
    "tipo": "smart_money"
   }
  ],
@@ -586,6 +586,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: Anyone's Legend ganara",
+   "usdc": 199236,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "10:56"
+  },
+  {
    "titulo": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
    "apuesta": "SI, Counter-Strike: BetBoom Team ganara",
    "usdc": 138447,
@@ -647,15 +656,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "01:46"
-  },
-  {
-   "titulo": "US Open ATP: Frances Tiafoe vs Ben Shelton",
-   "apuesta": "SI, US Open ATP: Frances Tiafoe ganara",
-   "usdc": 164221,
-   "prob": 27.5,
-   "n_traders": 1,
-   "trader": "BreakTheBank",
-   "hora": "01:01"
   }
  ],
  "stats_gt": {
