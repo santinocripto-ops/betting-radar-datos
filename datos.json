@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T20:20:32.174790+00:00",
+ "actualizado": "2026-09-12T20:27:44.324060+00:00",
  "partidos_vivo": [
   {
    "home": "Atletico-MG",
@@ -645,13 +645,6 @@
    "liga": "HNL",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Al-Duhail SC",
-   "away": "Al Shahaniya",
-   "liga": "Stars League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
