@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T12:32:17.747478+00:00",
+ "actualizado": "2026-09-12T12:39:36.177127+00:00",
  "partidos_vivo": [
   {
    "home": "Eintracht Braunschweig",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:39",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -83,12 +89,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:46",
    "tipo": "live"
   },
   {
@@ -704,6 +704,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Liverpool FC win on 2026-09-12?",
+   "apuesta": "SI, Liverpool ganara",
+   "usdc": 252911,
+   "prob": 64.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "14:39"
+  },
+  {
    "titulo": "Antalya 4: Rositsa Dencheva vs Irene Burillo Escorihuela",
    "apuesta": "SI, Antalya 4: Rositsa Dencheva ganara",
    "usdc": 15798,
@@ -765,15 +774,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "07:32"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-09-14?",
-   "apuesta": "NO, Newcastle United no ganara",
-   "usdc": 115075,
-   "prob": 67.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "05:40"
   }
  ],
  "stats_gt": {
