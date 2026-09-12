@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T13:15:30.749886+00:00",
+ "actualizado": "2026-09-12T13:24:43.763775+00:00",
  "partidos_vivo": [
   {
    "home": "Sochaux",
@@ -246,6 +246,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:24",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:23",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Schwarz-Weiß Bregenz vs Floridsdorfer AC · 🎯 Apuesta: Doble oport. 1X (local o empate) ·",
    "hora": "15:15",
@@ -303,18 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:55",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "14:39",
    "tipo": "live"
   }
  ],
@@ -376,6 +376,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Imigresen",
+   "away": "Terengganu",
+   "liga": "Super League",
+   "minuto": 20,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Sparta Rotterdam II",
+   "away": "Katwijk",
+   "liga": "Tweede Divisie",
+   "minuto": 21,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Reipas",
    "away": "PuiU Helsinki",
    "liga": "Kakkonen - Lohko A",
@@ -418,28 +440,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
-  },
-  {
-   "home": "Malmö FF W",
-   "away": "Eskilstuna United W",
-   "liga": "Damallsvenskan",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "AIK Stockholm",
-   "away": "Vasteras SK FK",
-   "liga": "Allsvenskan",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -449,7 +449,7 @@
   "balance_dia": 40.0,
   "ganados": 2772,
   "perdidos": 1233,
-  "pendientes": 18,
+  "pendientes": 24,
   "ganados_dia": 8,
   "perdidos_dia": 4,
   "win_rate": 69.2,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4023,
+  "con_cuota_media": 4029,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -699,17 +699,25 @@
    "liga": "Western Australia NPL",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Mito Hollyhock",
-   "away": "Kawasaki Frontale",
-   "liga": "J1 League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
   "picks": [
+   {
+    "home": "Schwarz-Weiß Bregenz",
+    "away": "Floridsdorfer AC",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.5,
+    "pinnacle": true,
+    "delta": 4.79,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-12T13:30:00+00:00",
+    "ts": "2026-09-12T13:15:08.625858+00:00"
+   },
    {
     "home": "Guangzhou E-Power",
     "away": "Dalian Huayi",
@@ -735,8 +743,8 @@
     "cuota": 1.53,
     "pinnacle": false,
     "delta": 3.38,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-12T11:00:00+00:00",
     "ts": "2026-09-12T10:08:39.015511+00:00"
    },
@@ -750,8 +758,8 @@
     "cuota": 2.15,
     "pinnacle": true,
     "delta": 3.33,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-12T11:00:00+00:00",
     "ts": "2026-09-12T10:08:40.210854+00:00"
    },
@@ -919,29 +927,14 @@
     "resultado": "perdido",
     "kickoff": "2026-09-11T16:30:00+00:00",
     "ts": "2026-09-11T07:03:40.480855+00:00"
-   },
-   {
-    "home": "Rapid Wien II",
-    "away": "First Vienna",
-    "liga": "2. Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 5.43,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-11T16:30:00+00:00",
-    "ts": "2026-09-11T09:03:58.944707+00:00"
    }
   ],
   "balance": {
    "ganados": 265,
-   "perdidos": 106,
-   "pendientes": 3,
-   "acierto": 71.4,
-   "total": 371
+   "perdidos": 108,
+   "pendientes": 2,
+   "acierto": 71.0,
+   "total": 373
   }
  },
  "mejor_dia": {
@@ -1031,12 +1024,12 @@
   "n": 2805,
   "ganados": 1890,
   "win_rate": 67,
-  "hoy": 29
+  "hoy": 31
  },
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 17,
+  "en_juego": 24,
   "win_rate": 69
  },
  "stats_banker": {
