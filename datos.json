@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T09:15:40.283685+00:00",
+ "actualizado": "2026-09-12T09:22:43.934509+00:00",
  "partidos_vivo": [
   {
    "home": "Jungnang Chorus Mustang",
@@ -126,6 +126,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "11:22",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "10:56",
@@ -184,18 +196,6 @@
    "texto": "──────────────────────────────",
    "hora": "02:26",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "01:46",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -245,6 +245,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Mito Hollyhock",
+   "away": "Kawasaki Frontale",
+   "liga": "J1 League",
+   "minuto": 18,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
   {
    "home": "Cruz Azul W",
    "away": "Pumas UNAM W",
@@ -666,6 +677,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Map Handicap: G2 (-1.5) vs BetBoom Team (+1.5)",
+   "apuesta": "SI, Map Handicap: G2 (-1.5) ganara",
+   "usdc": 89826,
+   "prob": 36.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "11:22"
+  },
+  {
    "titulo": "LoL: Anyone's Legend vs Invictus Gaming (BO5) - LPL Playoffs",
    "apuesta": "SI, LoL: Anyone's Legend ganara",
    "usdc": 199236,
@@ -727,22 +747,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "02:34"
-  },
-  {
-   "titulo": "Set Handicap: Shelton (-1.5) vs Tiafoe (+1.5)",
-   "apuesta": "SI, Set Handicap: Shelton (-1.5) ganara",
-   "usdc": 173462,
-   "prob": 53.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "01:46"
   }
  ],
  "stats_gt": {
   "n": 2798,
   "ganados": 1886,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 3,
