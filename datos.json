@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T17:39:30.330459+00:00",
+ "actualizado": "2026-09-12T17:46:14.728737+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Duhail SC",
@@ -87,6 +87,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:24",
    "tipo": "live"
@@ -150,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:29",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -206,6 +206,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Cesena",
+   "away": "Cremonese",
+   "liga": "Serie B",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Alanyaspor",
    "away": "Göztepe",
    "liga": "Süper Lig",
@@ -254,17 +265,6 @@
    "away": "Al Shahaniya",
    "liga": "Stars League",
    "minuto": 15,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "AC Oulu",
-   "away": "Gnistan",
-   "liga": "Veikkausliiga",
-   "minuto": 17,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -868,7 +868,7 @@
   "n": 2861,
   "ganados": 1925,
   "win_rate": 67,
-  "hoy": 87
+  "hoy": 88
  },
  "stats_dia": {
   "ganados": 52,
