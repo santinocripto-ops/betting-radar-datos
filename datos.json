@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T13:50:32.319476+00:00",
+ "actualizado": "2026-09-12T13:57:48.399577+00:00",
  "partidos_vivo": [
   {
    "home": "FC Slutsk",
@@ -148,6 +148,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "15:57",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "15:50",
    "tipo": "smart_money"
   },
@@ -209,12 +215,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:12",
    "tipo": "live"
   }
  ],
@@ -848,6 +848,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Chelsea FC win on 2026-09-12?",
+   "apuesta": "NO, Chelsea no ganara",
+   "usdc": 252917,
+   "prob": 20.5,
+   "n_traders": 2,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "15:57"
+  },
+  {
    "titulo": "Will VfB Stuttgart win on 2026-09-12?",
    "apuesta": "NO, VfB Stuttgart no ganara",
    "usdc": 24339,
@@ -909,15 +918,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x8",
    "hora": "10:56"
-  },
-  {
-   "titulo": "Counter-Strike: BetBoom Team vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
-   "apuesta": "SI, Counter-Strike: BetBoom Team ganara",
-   "usdc": 138447,
-   "prob": 36.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "10:48"
   }
  ],
  "stats_gt": {
