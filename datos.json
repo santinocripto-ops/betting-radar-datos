@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T23:50:37.179894+00:00",
+ "actualizado": "2026-09-12T23:57:09.100363+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego Wave W",
@@ -219,7 +219,7 @@
   "balance_dia": 0.0,
   "ganados": 2839,
   "perdidos": 1277,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4122,
+  "con_cuota_media": 4123,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 0
  },
  "stats_banker": {
