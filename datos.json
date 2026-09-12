@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T17:07:10.868653+00:00",
+ "actualizado": "2026-09-12T17:17:14.795209+00:00",
  "partidos_vivo": [
   {
    "home": "Al Taawon",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -84,18 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Alanyaspor",
+   "away": "Göztepe",
+   "liga": "Süper Lig",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Casa Pia",
+   "away": "FC Porto",
+   "liga": "Primeira Liga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "GO Ahead Eagles",
    "away": "Groningen",
    "liga": "Eredivisie",
@@ -184,28 +206,6 @@
    "liga": "Veikkausliiga",
    "minuto": 17,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "FF Jaro",
-   "away": "SJK",
-   "liga": "Veikkausliiga",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Karmiotissa",
-   "away": "Omonia Aradippou",
-   "liga": "1. Division",
-   "minuto": 15,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
@@ -808,7 +808,7 @@
   "n": 2861,
   "ganados": 1925,
   "win_rate": 67,
-  "hoy": 85
+  "hoy": 87
  },
  "stats_dia": {
   "ganados": 52,
