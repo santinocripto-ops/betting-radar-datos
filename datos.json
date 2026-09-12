@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T13:12:41.512663+00:00",
+ "actualizado": "2026-09-12T13:15:30.749886+00:00",
  "partidos_vivo": [
   {
    "home": "Sochaux",
@@ -246,6 +246,24 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Schwarz-Weiß Bregenz vs Floridsdorfer AC · 🎯 Apuesta: Doble oport. 1X (local o empate) ·",
+   "hora": "15:15",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:15",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:13",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
@@ -298,28 +316,20 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "14:39",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:39",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "14:31",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Schwarz-Weiß Bregenz",
+   "away": "Floridsdorfer AC",
+   "liga": "2. Liga",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.39,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -366,21 +376,54 @@
  ],
  "gol_temprano": [
   {
-   "home": "Slask Wroclaw",
-   "away": "Korona Kielce",
-   "liga": "Ekstraklasa",
-   "minuto": 10,
-   "score": 9.8,
+   "home": "Reipas",
+   "away": "PuiU Helsinki",
+   "liga": "Kakkonen - Lohko A",
+   "minuto": 12,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
   },
   {
-   "home": "Memmingen",
-   "away": "Vilzing",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 13,
+   "home": "Cailungo",
+   "away": "Tre Penne",
+   "liga": "Campionato",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Ijsselmeervogels",
+   "away": "GVVV Veenendaal",
+   "liga": "Tweede Divisie",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Arsenal",
+   "away": "Baranovichi",
+   "liga": "Premier League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Malmö FF W",
+   "away": "Eskilstuna United W",
+   "liga": "Damallsvenskan",
+   "minuto": 12,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -388,43 +431,10 @@
    "es_hoy": true
   },
   {
-   "home": "Verl",
-   "away": "SV Meppen",
-   "liga": "3. Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Saarbrücken",
-   "away": "FC Ingolstadt 04",
-   "liga": "3. Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Rot-Weiß Essen",
-   "away": "Würzburger Kickers",
-   "liga": "3. Liga",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Racing Santander",
-   "away": "Alaves",
-   "liga": "La Liga",
-   "minuto": 16,
+   "home": "AIK Stockholm",
+   "away": "Vasteras SK FK",
+   "liga": "Allsvenskan",
+   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1021,7 +1031,7 @@
   "n": 2805,
   "ganados": 1890,
   "win_rate": 67,
-  "hoy": 23
+  "hoy": 29
  },
  "stats_dia": {
   "ganados": 9,
@@ -1032,7 +1042,7 @@
  "stats_banker": {
   "ganados": 90,
   "perdidos": 37,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 71
  },
  "marca": {
