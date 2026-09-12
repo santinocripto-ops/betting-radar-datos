@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T15:34:42.940769+00:00",
+ "actualizado": "2026-09-12T15:42:32.057857+00:00",
  "partidos_vivo": [
   {
    "home": "Lillestrom",
@@ -247,6 +247,36 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:41",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:34",
    "tipo": "live"
@@ -285,36 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:39",
    "tipo": "live"
   }
  ],
@@ -376,6 +376,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mezokovesd-zsory",
+   "away": "MTK Budapest",
+   "liga": "Magyar Kupa",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Catanzaro",
+   "away": "Carrarese",
+   "liga": "Serie B",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Gornik Zabrze",
+   "away": "Lech Poznan",
+   "liga": "Ekstraklasa",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Krško",
    "away": "Krka",
    "liga": "2. SNL",
@@ -407,39 +440,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-12",
    "es_hoy": true
-  },
-  {
-   "home": "P-Iirot",
-   "away": "EPS",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Arabi SC",
-   "away": "Qatar SC",
-   "liga": "Stars League",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Gosport Borough",
-   "away": "Taunton Town",
-   "liga": "Non League Premier - Southern South",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -449,7 +449,7 @@
   "balance_dia": -77.0,
   "ganados": 2787,
   "perdidos": 1243,
-  "pendientes": 47,
+  "pendientes": 48,
   "ganados_dia": 23,
   "perdidos_dia": 14,
   "win_rate": 69.2,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4077,
+  "con_cuota_media": 4078,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -673,6 +673,13 @@
  },
  "reentradas": [
   {
+   "home": "Kom",
+   "away": "Berane",
+   "liga": "Second League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Twente",
    "away": "ADO Den Haag",
    "liga": "Eredivisie",
@@ -703,13 +710,6 @@
   {
    "home": "Sheffield Wednesday",
    "away": "Wigan",
-   "liga": "League One",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Oxford United",
-   "away": "Burton Albion",
    "liga": "League One",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
@@ -962,6 +962,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Tottenham Hotspur FC win on 2026-09-12?",
+   "apuesta": "NO, Tottenham Hotspur no ganara",
+   "usdc": 200000,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "17:41"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 117404,
@@ -1023,27 +1032,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "14:39"
-  },
-  {
-   "titulo": "Antalya 4: Rositsa Dencheva vs Irene Burillo Escorihuela",
-   "apuesta": "SI, Antalya 4: Rositsa Dencheva ganara",
-   "usdc": 15798,
-   "prob": 84.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:31"
   }
  ],
  "stats_gt": {
   "n": 2825,
   "ganados": 1903,
   "win_rate": 67,
-  "hoy": 66
+  "hoy": 69
  },
  "stats_dia": {
   "ganados": 24,
   "perdidos": 14,
-  "en_juego": 47,
+  "en_juego": 48,
   "win_rate": 63
  },
  "stats_banker": {
