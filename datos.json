@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T12:15:31.844806+00:00",
+ "actualizado": "2026-09-12T12:16:42.857113+00:00",
  "partidos_vivo": [
   {
    "home": "Ostrovets FC",
@@ -48,6 +48,42 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:15",
    "tipo": "live"
   },
@@ -79,42 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:39",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "13:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:20",
    "tipo": "live"
   }
  ],
@@ -166,10 +166,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Notts County",
-   "away": "Bradford",
-   "liga": "League One",
-   "minuto": 24,
+   "home": "Memmingen",
+   "away": "Vilzing",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 13,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Verl",
+   "away": "SV Meppen",
+   "liga": "3. Liga",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -177,9 +188,31 @@
    "es_hoy": true
   },
   {
-   "home": "Lyon W",
-   "away": "Paris FC W",
-   "liga": "Feminine Division 1",
+   "home": "FC Saarbrücken",
+   "away": "FC Ingolstadt 04",
+   "liga": "3. Liga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Rot-Weiß Essen",
+   "away": "Würzburger Kickers",
+   "liga": "3. Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Racing Santander",
+   "away": "Alaves",
+   "liga": "La Liga",
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
@@ -188,43 +221,10 @@
    "es_hoy": true
   },
   {
-   "home": "Grimsby",
-   "away": "Bristol Rovers",
-   "liga": "League Two",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "West Brom",
-   "away": "QPR",
-   "liga": "Championship",
+   "home": "Sochaux",
+   "away": "Nantes",
+   "liga": "Ligue 2",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Bolton",
-   "away": "Cardiff",
-   "liga": "Championship",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Derby",
-   "away": "Birmingham",
-   "liga": "Championship",
-   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -800,7 +800,7 @@
   "n": 2799,
   "ganados": 1886,
   "win_rate": 67,
-  "hoy": 15
+  "hoy": 22
  },
  "stats_dia": {
   "ganados": 4,
