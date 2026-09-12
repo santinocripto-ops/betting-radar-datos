@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-12T23:36:56.334796+00:00",
+ "actualizado": "2026-09-12T23:43:53.006302+00:00",
  "partidos_vivo": [
   {
-   "home": "Guayaquil City FC",
-   "away": "Mushuc Runa SC",
-   "liga": "Liga Pro",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "San Diego Wave W",
+   "away": "North Carolina Courage W",
+   "liga": "NWSL Women",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 38,
-   "momentum_away": 62,
+   "momentum_home": 31,
+   "momentum_away": 69,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 18 remates totales",
-    "🎯 8 remates a puerta — peligro constante"
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚽ 1 gol — North Carolina Courage W buscará el empate",
+    "🎯 14 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
