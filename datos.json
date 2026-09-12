@@ -1,174 +1,34 @@
 {
- "actualizado": "2026-09-12T13:32:35.037407+00:00",
+ "actualizado": "2026-09-12T13:42:32.315142+00:00",
  "partidos_vivo": [
   {
-   "home": "Sochaux",
-   "away": "Nantes",
-   "liga": "Ligue 2",
-   "minuto": 48,
+   "home": "FC Slutsk",
+   "away": "Volna",
+   "liga": "1. Division",
+   "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "FC Andorra",
-   "away": "Real Sociedad II",
-   "liga": "Segunda División",
-   "minuto": 46,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 76,
-   "momentum_away": 24,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "⚡ FC Andorra pierde por 3 — atacará sin freno",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Racing Santander",
-   "away": "Alaves",
-   "liga": "La Liga",
-   "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "FC Koln W",
-   "away": "Union Berlin W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.09 goles/partido",
-    "⚽ 1 gol — Union Berlin W buscará el empate",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Havelse",
-   "away": "SG Sonnenhof Grossaspach",
-   "liga": "3. Liga",
-   "minuto": 46,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 9.8,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.16 goles/partido",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Verl",
-   "away": "SV Meppen",
-   "liga": "3. Liga",
-   "minuto": 46,
+   "home": "Kuching FA",
+   "away": "Melaka",
+   "liga": "Super League",
+   "minuto": 58,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 9.8,
-   "recomendar": true,
-   "momentum_home": 36,
-   "momentum_away": 64,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.16 goles/partido",
-    "⚽ 1 gol — Verl buscará el empate"
-   ]
-  },
-  {
-   "home": "Brommapojkarna W",
-   "away": "Norrköping W",
-   "liga": "Damallsvenskan",
-   "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Norrköping W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Memmingen",
-   "away": "Vilzing",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.54 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Hønefoss",
-   "away": "Grorud",
-   "liga": "2. Division - Group 2",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -176,37 +36,17 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚽ Liga muy goleadora: 3.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Grorud buscará el empate"
+    "⚽ 1 gol — Kuching FA buscará el empate"
    ]
   },
   {
-   "home": "Askøy",
-   "away": "Stord",
-   "liga": "3. Division - Girone 3",
-   "minuto": 46,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Fana",
-   "away": "Os",
-   "liga": "3. Division - Girone 3",
-   "minuto": 47,
-   "marcador": "1-1",
+   "home": "Tuloy",
+   "away": "Kaya",
+   "liga": "PFL",
+   "minuto": 50,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
@@ -216,35 +56,113 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
+    "⚽ Liga muy goleadora: 3.73 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Brodd",
-   "away": "Staal Jørpeland",
-   "liga": "3. Division - Girone 4",
-   "minuto": 47,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Pobeda",
+   "away": "Astrakhan",
+   "liga": "Second League - Group 1",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.78 goles/partido",
+    "⚽ Liga por encima de la media: 2.64 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Astrakhan buscará el empate"
+   ]
+  },
+  {
+   "home": "Tokat Bld Plevnespor",
+   "away": "Orduspor 1967",
+   "liga": "3. Lig - Group 1",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.78 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Adana Adaletgucu",
+   "away": "Adanaspor",
+   "liga": "3. Lig - Group 3",
+   "minuto": 48,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
+  },
+  {
+   "home": "Karaman FK",
+   "away": "Bitlis Özgüzelderespor",
+   "liga": "3. Lig - Group 3",
+   "minuto": 47,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
   }
  ],
- "partidos_vivo_total": 42,
+ "partidos_vivo_total": 13,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:42",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -297,24 +215,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:04",
    "tipo": "live"
   }
  ],
@@ -376,6 +276,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Güzide Gebzespor",
+   "away": "Arnavutköy Belediyespor",
+   "liga": "2. Lig",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Augsburg",
+   "away": "Bayer Leverkusen",
+   "liga": "Bundesliga",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "SC Freiburg",
+   "away": "Borussia Mönchengladbach",
+   "liga": "Bundesliga",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "Imigresen",
    "away": "Terengganu",
    "liga": "Super League",
@@ -402,39 +335,6 @@
    "away": "PuiU Helsinki",
    "liga": "Kakkonen - Lohko A",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Cailungo",
-   "away": "Tre Penne",
-   "liga": "Campionato",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Ijsselmeervogels",
-   "away": "GVVV Veenendaal",
-   "liga": "Tweede Divisie",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Arsenal",
-   "away": "Baranovichi",
-   "liga": "Premier League",
-   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1024,7 +924,7 @@
   "n": 2805,
   "ganados": 1890,
   "win_rate": 67,
-  "hoy": 31
+  "hoy": 34
  },
  "stats_dia": {
   "ganados": 9,
