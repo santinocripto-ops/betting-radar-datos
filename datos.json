@@ -1,9 +1,108 @@
 {
- "actualizado": "2026-09-12T18:49:47.715833+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-09-12T18:58:10.373011+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Independ. Rivadavia",
+   "away": "Aldosivi",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 50,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 42,
+   "momentum_away": 58,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.14 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Aldosivi pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Cesena",
+   "away": "Cremonese",
+   "liga": "Serie B",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 39,
+   "momentum_away": 61,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.74 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Cremonese pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Gent W",
+   "away": "Anderlecht W",
+   "liga": "Super League Women",
+   "minuto": 64,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Barco",
+   "away": "Silva",
+   "liga": "Tercera División RFEF - Group 1",
+   "minuto": 63,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:58",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -57,24 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:24",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +206,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "OH Leuven",
+   "away": "Cercle Brugge",
+   "liga": "Jupiler Pro League",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Le Havre",
+   "away": "Angers",
+   "liga": "Ligue 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
+   "home": "Auxerre",
+   "away": "Nice",
+   "liga": "Ligue 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-12",
+   "es_hoy": true
+  },
+  {
    "home": "FC St. Pauli",
    "away": "VfL Wolfsburg",
    "liga": "2. Bundesliga",
@@ -152,39 +266,6 @@
    "liga": "Pro League",
    "minuto": 24,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Al Khaleej Saihat",
-   "away": "Al-Nassr",
-   "liga": "Pro League",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "Fortuna Sittard",
-   "away": "Ajax",
-   "liga": "Eredivisie",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": true
-  },
-  {
-   "home": "NK Lokomotiva Zagreb",
-   "away": "HNK Rijeka",
-   "liga": "HNL",
-   "minuto": 14,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-12",
@@ -787,7 +868,7 @@
   "n": 2861,
   "ganados": 1925,
   "win_rate": 67,
-  "hoy": 94
+  "hoy": 97
  },
  "stats_dia": {
   "ganados": 52,
