@@ -1,13 +1,33 @@
 {
- "actualizado": "2026-09-13T10:07:30.080483+00:00",
+ "actualizado": "2026-09-13T10:15:10.472251+00:00",
  "partidos_vivo": [
   {
-   "home": "Znojmo",
-   "away": "Žďár nad Sázavou",
-   "liga": "4. liga - Divizie D",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Tokyo Verdy",
+   "away": "JEF United Chiba",
+   "liga": "J1 League",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 83,
+   "momentum_away": 17,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Matsumoto Yamaga",
+   "away": "Sagamihara",
+   "liga": "J3 League",
+   "minuto": 53,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -16,78 +36,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Žďár nad Sázavou buscará el empate"
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "FC Liefering",
-   "away": "SKN ST. Polten",
-   "liga": "2. Liga",
+   "home": "SFC Minerva",
+   "away": "Cartagena LU II",
+   "liga": "Tercera División RFEF - Group 13",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Văn Hiến",
+   "away": "Binh Duong",
+   "liga": "V.League 2",
    "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — FC Liefering buscará el empate"
-   ]
-  },
-  {
-   "home": "Malženice",
-   "away": "Tatran Prešov",
-   "liga": "2. liga",
-   "minuto": 61,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Slovan Bratislava II",
-   "away": "MFK Bytča",
-   "liga": "2. liga",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sumsel United",
-   "away": "PSMS Medan",
-   "liga": "Liga 2",
-   "minuto": 55,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -98,7 +78,7 @@
    "razones": [
     "⚽ Liga por encima de la media: 2.8 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
@@ -513,8 +493,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 3.7,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "5-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-12T23:00:00+00:00",
     "ts": "2026-09-12T21:06:17.469577+00:00"
    },
@@ -730,11 +710,11 @@
    }
   ],
   "balance": {
-   "ganados": 268,
+   "ganados": 269,
    "perdidos": 108,
-   "pendientes": 1,
-   "acierto": 71.3,
-   "total": 376
+   "pendientes": 0,
+   "acierto": 71.4,
+   "total": 377
   }
  },
  "mejor_dia": {
