@@ -1,130 +1,56 @@
 {
- "actualizado": "2026-09-13T16:51:30.951358+00:00",
+ "actualizado": "2026-09-13T16:59:07.922327+00:00",
  "partidos_vivo": [
   {
-   "home": "Le Mans",
-   "away": "Lens",
-   "liga": "Ligue 1",
+   "home": "Junkeren",
+   "away": "Skeid",
+   "liga": "2. Division - Group 2",
    "minuto": 56,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (Ligue 1)",
-    "🔥 4 goles — partido muy abierto",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "FK Partizan",
-   "away": "Vojvodina",
-   "liga": "Super Liga",
-   "minuto": 63,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 63,
-   "momentum_away": 37,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ FK Partizan pierde por 2 — atacará sin freno",
-    "🎯 19 remates totales"
-   ]
-  },
-  {
-   "home": "Avellino",
-   "away": "Palermo",
-   "liga": "Serie B",
-   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "Mantova",
-   "away": "Sampdoria",
-   "liga": "Serie B",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Gela",
-   "away": "CastrumFavara",
-   "liga": "Serie D - Girone I",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.4,
+   "score": 9.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚽ Liga muy goleadora: 3.9 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Gela buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Binéfar",
-   "away": "CDJ Tamarite",
-   "liga": "Tercera División RFEF - Group 17",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Suduva Marijampole",
+   "away": "FK Zalgiris Vilnius",
+   "liga": "A Lyga",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.1,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ Liga goleadora: 2.92 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 14,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "18:57",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -190,12 +116,6 @@
    "texto": "──────────────────────────────",
    "hora": "17:57",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:44",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -896,6 +816,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Manchester United FC win on 2026-09-13?",
+   "apuesta": "NO, Manchester United no ganara",
+   "usdc": 15548,
+   "prob": 82.5,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "18:57"
+  },
+  {
    "titulo": "Will SSC Napoli win on 2026-09-13?",
    "apuesta": "SI, SSC Napoli ganara",
    "usdc": 1026982,
@@ -956,15 +885,6 @@
    "prob": 44.5,
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
-   "hora": "14:04"
-  },
-  {
-   "titulo": "Will RC Celta de Vigo win on 2026-09-13?",
-   "apuesta": "SI, RC Celta de Vigo ganara",
-   "usdc": 1950450,
-   "prob": 56.5,
-   "n_traders": 3,
-   "trader": "🐋 Ballena anonima (0x6",
    "hora": "14:04"
   }
  ],
