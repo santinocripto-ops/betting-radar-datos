@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-13T18:51:35.641207+00:00",
+ "actualizado": "2026-09-13T18:59:06.179600+00:00",
  "partidos_vivo": [
   {
-   "home": "Washington Spirit W",
-   "away": "Boston Legacy W",
-   "liga": "NWSL Women",
-   "minuto": 58,
+   "home": "Tigre",
+   "away": "Rosario Central",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "RAAL La Louvière",
-   "away": "Kortrijk",
-   "liga": "Jupiler Pro League",
-   "minuto": 55,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.7,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Patro Eisden",
-   "away": "AS Eupen",
-   "liga": "Challenger Pro League",
-   "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.4,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚽ 1 gol — Patro Eisden buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Dinamo Minsk",
-   "away": "Dinamo Brest",
-   "liga": "Premier League",
-   "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.1 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 14 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 11,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
