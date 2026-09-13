@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T10:15:10.472251+00:00",
+ "actualizado": "2026-09-13T10:16:00.940354+00:00",
  "partidos_vivo": [
   {
    "home": "Tokyo Verdy",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:15",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "11:46",
@@ -163,6 +169,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Akron II",
+   "away": "Krylya Sovetov II",
+   "liga": "Second League - Group 4",
+   "minuto": 15,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
   {
    "home": "Charlotte Independence",
    "away": "Westchester SC",
@@ -768,7 +785,7 @@
   "n": 2901,
   "ganados": 1950,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 6,
