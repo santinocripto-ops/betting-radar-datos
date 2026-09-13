@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T11:36:58.716669+00:00",
+ "actualizado": "2026-09-13T11:43:42.772953+00:00",
  "partidos_vivo": [
   {
    "home": "Excelsior",
@@ -25,6 +25,36 @@
  "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "13:42",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Hebei Kungfu vs Shenzhen Juniors · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 C",
@@ -65,24 +95,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "11:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:45",
    "tipo": "smart_money"
   }
  ],
@@ -144,6 +156,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "VfL Osnabrück",
+   "away": "Hertha BSC",
+   "liga": "2. Bundesliga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Karlsruher SC",
+   "away": "Energie Cottbus",
+   "liga": "2. Bundesliga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "1. FC Heidenheim",
+   "away": "Holstein Kiel",
+   "liga": "2. Bundesliga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Meizhou Kejia",
+   "away": "Nanjing City",
+   "liga": "League One",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Excelsior",
    "away": "Utrecht",
    "liga": "Eredivisie",
@@ -162,39 +218,6 @@
    "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Charlotte Independence",
-   "away": "Westchester SC",
-   "liga": "USL League One",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Santos",
-   "away": "Cruzeiro",
-   "liga": "Serie A",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Orlando City SC",
-   "away": "Toronto FC",
-   "liga": "Major League Soccer",
-   "minuto": 24,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-13",
    "es_hoy": true
   }
@@ -730,6 +753,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Karlsruher SC win on 2026-09-13?",
+   "apuesta": "SI, Karlsruher ganara",
+   "usdc": 28391,
+   "prob": 47.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "13:42"
+  },
+  {
    "titulo": "Will SBV Excelsior win on 2026-09-13?",
    "apuesta": "NO, SBV Excelsior no ganara",
    "usdc": 38249,
@@ -779,7 +811,7 @@
   "n": 2901,
   "ganados": 1950,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 6,
