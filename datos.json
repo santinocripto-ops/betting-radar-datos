@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-13T12:39:30.958510+00:00",
+ "actualizado": "2026-09-13T12:45:35.006790+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -57,12 +63,6 @@
    "texto": "──────────────────────────────",
    "hora": "14:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:43",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -135,6 +135,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Austria Vienna",
+   "away": "Austria Lustenau",
+   "liga": "Bundesliga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "KuPS",
    "away": "HJK Helsinki",
    "liga": "Veikkausliiga",
@@ -182,17 +193,6 @@
    "home": "IF Elfsborg",
    "away": "Kalmar FF",
    "liga": "Allsvenskan",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "VfL Osnabrück",
-   "away": "Hertha BSC",
-   "liga": "2. Bundesliga",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
@@ -816,7 +816,7 @@
   "n": 2901,
   "ganados": 1950,
   "win_rate": 67,
-  "hoy": 14
+  "hoy": 15
  },
  "stats_dia": {
   "ganados": 6,
