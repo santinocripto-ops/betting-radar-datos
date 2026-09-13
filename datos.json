@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T19:45:33.836757+00:00",
+ "actualizado": "2026-09-13T19:52:19.559463+00:00",
  "partidos_vivo": [
   {
    "home": "Kimberley Mar del Plata",
@@ -527,13 +527,6 @@
    "home": "FC Iberia 1999",
    "away": "Spaeri",
    "liga": "Erovnuli Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Junkeren",
-   "away": "Skeid",
-   "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
