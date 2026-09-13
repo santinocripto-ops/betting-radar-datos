@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T18:15:25.537373+00:00",
+ "actualizado": "2026-09-13T18:22:26.029812+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -239,7 +239,7 @@
   "balance_dia": 369.0,
   "ganados": 2884,
   "perdidos": 1299,
-  "pendientes": 14,
+  "pendientes": 18,
   "ganados_dia": 45,
   "perdidos_dia": 22,
   "win_rate": 68.9,
@@ -247,7 +247,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4197,
+  "con_cuota_media": 4201,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -873,7 +873,7 @@
  "stats_dia": {
   "ganados": 47,
   "perdidos": 22,
-  "en_juego": 12,
+  "en_juego": 16,
   "win_rate": 68
  },
  "stats_banker": {
