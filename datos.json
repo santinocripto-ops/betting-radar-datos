@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T10:57:14.009125+00:00",
+ "actualizado": "2026-09-13T11:05:50.222494+00:00",
  "partidos_vivo": [
   {
    "home": "FC Tallinn",
@@ -106,6 +106,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Hebei Kungfu vs Shenzhen Juniors · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 C",
+   "hora": "13:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:35",
@@ -155,7 +167,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Hebei Kungfu",
+   "away": "Shenzhen Juniors",
+   "liga": "League One",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -169,7 +191,7 @@
    "hora": "14:45",
    "resultado": "pendiente",
    "wr_historico": 82,
-   "n_historico": 229
+   "n_historico": 230
   },
   {
    "clave": "over25",
@@ -848,7 +870,7 @@
  "stats_banker": {
   "ganados": 92,
   "perdidos": 37,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 71
  },
  "marca": {
