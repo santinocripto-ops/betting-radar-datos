@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T17:58:50.363450+00:00",
+ "actualizado": "2026-09-13T18:06:49.889835+00:00",
  "partidos_vivo": [
   {
    "home": "FC Krasnodar",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "20:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +115,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "18:57",
    "tipo": "smart_money"
   }
  ],
@@ -234,14 +234,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49471.0,
-  "balance_total": 39471.0,
-  "balance_dia": 296.0,
-  "ganados": 2879,
-  "perdidos": 1297,
-  "pendientes": 21,
-  "ganados_dia": 40,
-  "perdidos_dia": 20,
+  "capital": 49544.0,
+  "balance_total": 39544.0,
+  "balance_dia": 369.0,
+  "ganados": 2884,
+  "perdidos": 1299,
+  "pendientes": 14,
+  "ganados_dia": 45,
+  "perdidos_dia": 22,
   "win_rate": 68.9,
   "roi": 9.5,
   "stake": 100.0,
@@ -535,14 +535,14 @@
    "away": "Skeid",
    "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Avellino",
    "away": "Palermo",
    "liga": "Serie B",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Iğdır FK",
@@ -806,6 +806,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "US Open ATP: Alexander Zverev vs Ben Shelton",
+   "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
+   "usdc": 215000,
+   "prob": 58.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "20:05"
+  },
+  {
    "titulo": "Will Manchester United FC win on 2026-09-13?",
    "apuesta": "NO, Manchester United no ganara",
    "usdc": 15548,
@@ -867,27 +876,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xb",
    "hora": "14:04"
-  },
-  {
-   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
-   "apuesta": "SI, LoL: Bilibili Gaming ganara",
-   "usdc": 24375,
-   "prob": 44.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "14:04"
   }
  ],
  "stats_gt": {
-  "n": 2940,
-  "ganados": 1975,
+  "n": 2945,
+  "ganados": 1978,
   "win_rate": 67,
   "hoy": 57
  },
  "stats_dia": {
-  "ganados": 42,
-  "perdidos": 20,
-  "en_juego": 19,
+  "ganados": 47,
+  "perdidos": 22,
+  "en_juego": 12,
   "win_rate": 68
  },
  "stats_banker": {
