@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:21:44.003506+00:00",
+ "actualizado": "2026-09-13T14:27:53.377119+00:00",
  "partidos_vivo": [
   {
    "home": "Viking",
@@ -106,10 +106,10 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "16:27",
+   "tipo": "smart_money"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -120,7 +120,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:14",
+   "hora": "16:21",
    "tipo": "live"
   },
   {
@@ -144,7 +144,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
+   "hora": "16:14",
    "tipo": "live"
   },
   {
@@ -173,7 +173,7 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:13",
    "tipo": "live"
   }
@@ -876,6 +876,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Manchester City FC win on 2026-09-13?",
+   "apuesta": "SI, Manchester City ganara",
+   "usdc": 100000,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "16:27"
+  },
+  {
    "titulo": "Guangzhou: Maxim Zhukov vs Thijmen Loof",
    "apuesta": "SI, Guangzhou: Maxim Zhukov ganara",
    "usdc": 19447,
@@ -937,15 +946,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:34"
-  },
-  {
-   "titulo": "Game Handicap: BLG (-2.5) vs Anyone's Legend (+2.5)",
-   "apuesta": "SI, Game Handicap: BLG (-2.5) ganara",
-   "usdc": 90000,
-   "prob": 34.0,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "11:46"
   }
  ],
  "stats_gt": {
