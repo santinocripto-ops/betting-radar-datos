@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:15:03.961637+00:00",
+ "actualizado": "2026-09-13T14:21:44.003506+00:00",
  "partidos_vivo": [
   {
    "home": "Viking",
@@ -108,6 +108,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:14",
    "tipo": "live"
   },
@@ -163,18 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:05",
    "tipo": "live"
   }
  ],
@@ -236,6 +236,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Iğdır FK",
+   "away": "Mardin 1969",
+   "liga": "1. Lig",
+   "minuto": 21,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Spartak Moscow",
+   "away": "FC Rostov",
+   "liga": "Premier League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Valur Reykjavik",
    "away": "Thor Akureyri",
    "liga": "Úrvalsdeild",
@@ -278,28 +300,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-13",
    "es_hoy": true
-  },
-  {
-   "home": "Liège",
-   "away": "Club Brugge II",
-   "liga": "Challenger Pro League",
-   "minuto": 13,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Randers FC",
-   "away": "Odense",
-   "liga": "Superliga",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -309,7 +309,7 @@
   "balance_dia": -49.0,
   "ganados": 2854,
   "perdidos": 1286,
-  "pendientes": 20,
+  "pendientes": 29,
   "ganados_dia": 15,
   "perdidos_dia": 9,
   "win_rate": 68.9,
@@ -317,7 +317,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4160,
+  "con_cuota_media": 4169,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -952,12 +952,12 @@
   "n": 2912,
   "ganados": 1955,
   "win_rate": 67,
-  "hoy": 36
+  "hoy": 38
  },
  "stats_dia": {
   "ganados": 16,
   "perdidos": 9,
-  "en_juego": 19,
+  "en_juego": 28,
   "win_rate": 64
  },
  "stats_banker": {
