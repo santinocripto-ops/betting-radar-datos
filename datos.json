@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:37:19.387666+00:00",
+ "actualizado": "2026-09-13T14:43:20.860798+00:00",
  "partidos_vivo": [
   {
    "home": "Lecce",
@@ -168,6 +168,12 @@
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
+   "hora": "16:43",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
    "hora": "16:27",
    "tipo": "smart_money"
   },
@@ -205,12 +211,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
    "tipo": "live"
   },
   {
@@ -936,6 +936,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 81000,
+   "prob": 79.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "16:43"
+  },
+  {
    "titulo": "Will Manchester City FC win on 2026-09-13?",
    "apuesta": "SI, Manchester City ganara",
    "usdc": 100000,
@@ -997,15 +1006,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "13:42"
-  },
-  {
-   "titulo": "Will SBV Excelsior win on 2026-09-13?",
-   "apuesta": "NO, SBV Excelsior no ganara",
-   "usdc": 38249,
-   "prob": 61.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:34"
   }
  ],
  "stats_gt": {
