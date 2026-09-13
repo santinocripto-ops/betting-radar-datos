@@ -1,9 +1,27 @@
 {
- "actualizado": "2026-09-13T11:58:19.831960+00:00",
+ "actualizado": "2026-09-13T12:05:28.619968+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -57,24 +75,6 @@
    "texto": "──────────────────────────────",
    "hora": "12:34",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:46",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "11:46",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -102,7 +102,7 @@
    "hora": "14:45",
    "resultado": "pendiente",
    "wr_historico": 82,
-   "n_historico": 230
+   "n_historico": 231
   },
   {
    "clave": "over25",
@@ -732,6 +732,33 @@
  },
  "apuestas_top": [
   {
+   "titulo": "FC Zurich vs. FC Vaduz: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 85464,
+   "prob": 50.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xb",
+   "hora": "14:04"
+  },
+  {
+   "titulo": "LoL: Bilibili Gaming vs Anyone's Legend (BO5) - LPL Playoffs",
+   "apuesta": "SI, LoL: Bilibili Gaming ganara",
+   "usdc": 24375,
+   "prob": 44.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "14:04"
+  },
+  {
+   "titulo": "Will RC Celta de Vigo win on 2026-09-13?",
+   "apuesta": "SI, RC Celta de Vigo ganara",
+   "usdc": 1950450,
+   "prob": 56.5,
+   "n_traders": 3,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "14:04"
+  },
+  {
    "titulo": "Will Karlsruher SC win on 2026-09-13?",
    "apuesta": "SI, Karlsruher ganara",
    "usdc": 28391,
@@ -775,15 +802,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "11:46"
-  },
-  {
-   "titulo": "Will Brighton & Hove Albion FC win on 2026-09-13?",
-   "apuesta": "NO, Brighton & Hove Albion no ganara",
-   "usdc": 464081,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "11:45"
   }
  ],
  "stats_gt": {
