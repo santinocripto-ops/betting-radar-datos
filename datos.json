@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-09-13T21:21:41.625436+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-13T21:34:44.307742+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Atletico Grau",
+   "away": "Alianza Atletico",
+   "liga": "Primera División",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 9.3,
+   "recomendar": true,
+   "momentum_home": 36,
+   "momentum_away": 64,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🟥 1 tarjeta(s) roja(s) — más espacio en el campo"
+   ]
+  },
+  {
+   "home": "Deportiva Agropecuaria",
+   "away": "Union Comercio",
+   "liga": "Segunda División",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
