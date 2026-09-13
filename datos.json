@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T22:13:18.605759+00:00",
+ "actualizado": "2026-09-13T22:20:25.647200+00:00",
  "partidos_vivo": [
   {
    "home": "Juventude",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "00:20",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "23:55",
@@ -150,12 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:45",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -797,6 +797,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 100749,
+   "prob": 77.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "00:20"
+  },
+  {
    "titulo": "US Open ATP: Alexander Zverev vs Ben Shelton",
    "apuesta": "SI, US Open ATP: Alexander Zverev ganara",
    "usdc": 215000,
@@ -858,15 +867,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x9",
    "hora": "14:58"
-  },
-  {
-   "titulo": "FC Zurich vs. FC Vaduz: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 85464,
-   "prob": 50.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xb",
-   "hora": "14:04"
   }
  ],
  "stats_gt": {
