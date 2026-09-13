@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:43:20.860798+00:00",
+ "actualizado": "2026-09-13T14:43:45.746231+00:00",
  "partidos_vivo": [
   {
    "home": "Lecce",
@@ -166,6 +166,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:43",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "16:43",
@@ -211,12 +217,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
    "tipo": "live"
   },
   {
@@ -296,6 +296,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "SV Wehen",
+   "away": "Waldhof Mannheim",
+   "liga": "3. Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Iğdır FK",
    "away": "Mardin 1969",
    "liga": "1. Lig",
@@ -345,17 +356,6 @@
    "liga": "Campeonato de Portugal Prio - Group C",
    "minuto": 11,
    "score": 9.9,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Arsenal Tula",
-   "away": "Ska-khabarovsk",
-   "liga": "First League",
-   "minuto": 14,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-13",
@@ -1012,7 +1012,7 @@
   "n": 2912,
   "ganados": 1955,
   "win_rate": 67,
-  "hoy": 38
+  "hoy": 39
  },
  "stats_dia": {
   "ganados": 16,
