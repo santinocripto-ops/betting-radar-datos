@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T19:07:02.713961+00:00",
+ "actualizado": "2026-09-13T19:24:11.328919+00:00",
  "partidos_vivo": [
   {
    "home": "Tigre",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:23",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:23",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -84,18 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "19:22",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Real Sociedad",
+   "away": "Atletico Madrid",
+   "liga": "La Liga",
+   "minuto": 21,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "York United",
+   "away": "Vancouver FC",
+   "liga": "Canadian Premier League",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Kifisia",
    "away": "Levadiakos",
    "liga": "Super League 1",
@@ -183,28 +205,6 @@
    "away": "Deportivo Garcilaso",
    "liga": "Primera División",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Hoffenheim II",
-   "away": "Fortuna Köln",
-   "liga": "3. Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Fredrikstad",
-   "away": "Sarpsborg 08 FF",
-   "liga": "Eliteserien",
-   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -848,7 +848,7 @@
   "n": 2953,
   "ganados": 1984,
   "win_rate": 67,
-  "hoy": 61
+  "hoy": 63
  },
  "stats_dia": {
   "ganados": 55,
