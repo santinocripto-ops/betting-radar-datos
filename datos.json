@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T15:58:44.283970+00:00",
+ "actualizado": "2026-09-13T15:58:54.533129+00:00",
  "partidos_vivo": [
   {
    "home": "Botev Vratsa",
@@ -216,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Junkeren",
+   "away": "Skeid",
+   "liga": "2. Division - Group 2",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Legia Warszawa",
    "away": "Widzew Łódź",
    "liga": "Ekstraklasa",
@@ -264,17 +275,6 @@
    "away": "Brann",
    "liga": "Eliteserien",
    "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "PEC Zwolle",
-   "away": "Feyenoord",
-   "liga": "Eredivisie",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -932,7 +932,7 @@
   "n": 2922,
   "ganados": 1960,
   "win_rate": 67,
-  "hoy": 45
+  "hoy": 46
  },
  "stats_dia": {
   "ganados": 24,
