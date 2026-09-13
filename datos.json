@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T15:07:16.353098+00:00",
+ "actualizado": "2026-09-13T15:16:16.314188+00:00",
  "partidos_vivo": [
   {
    "home": "Arsenal W",
@@ -127,6 +127,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:07",
    "tipo": "live"
@@ -177,18 +189,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:14",
    "tipo": "live"
   },
   {
@@ -256,6 +256,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Sturm Graz",
+   "away": "Lask Linz",
+   "liga": "Bundesliga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Start",
+   "away": "Brann",
+   "liga": "Eliteserien",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "PEC Zwolle",
    "away": "Feyenoord",
    "liga": "Eredivisie",
@@ -293,28 +315,6 @@
    "away": "FC Rostov",
    "liga": "Premier League",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Valur Reykjavik",
-   "away": "Thor Akureyri",
-   "liga": "Úrvalsdeild",
-   "minuto": 11,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "FH hafnarfjordur",
-   "away": "KA Akureyri",
-   "liga": "Úrvalsdeild",
-   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -972,7 +972,7 @@
   "n": 2922,
   "ganados": 1960,
   "win_rate": 67,
-  "hoy": 40
+  "hoy": 42
  },
  "stats_dia": {
   "ganados": 24,
