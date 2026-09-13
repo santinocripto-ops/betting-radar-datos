@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T10:28:53.706856+00:00",
+ "actualizado": "2026-09-13T10:35:09.297136+00:00",
  "partidos_vivo": [
   {
    "home": "Tokyo Verdy",
@@ -88,6 +88,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:35",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:34",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "12:15",
    "tipo": "live"
   },
@@ -169,6 +181,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Excelsior",
+   "away": "Utrecht",
+   "liga": "Eredivisie",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
   {
    "home": "Akron II",
    "away": "Krylya Sovetov II",
@@ -745,6 +768,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will SBV Excelsior win on 2026-09-13?",
+   "apuesta": "NO, SBV Excelsior no ganara",
+   "usdc": 38249,
+   "prob": 61.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:34"
+  },
+  {
    "titulo": "Game Handicap: BLG (-2.5) vs Anyone's Legend (+2.5)",
    "apuesta": "SI, Game Handicap: BLG (-2.5) ganara",
    "usdc": 90000,
@@ -785,7 +817,7 @@
   "n": 2901,
   "ganados": 1950,
   "win_rate": 67,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 6,
