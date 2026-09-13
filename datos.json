@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T13:57:30.328393+00:00",
+ "actualizado": "2026-09-13T14:05:56.806474+00:00",
  "partidos_vivo": [
   {
    "home": "Viking",
@@ -107,6 +107,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:05",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:57",
    "tipo": "live"
@@ -158,24 +176,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -186,15 +186,6 @@
    "liga": "Segunda Liga",
    "mercado": "Doble oport. X2 (empate o visitante)",
    "cuota": 1.3,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13"
-  },
-  {
-   "home": "Hebei Kungfu",
-   "away": "Shenzhen Juniors",
-   "liga": "League One",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.25,
    "resultado": "pendiente",
    "fecha": "2026-09-13"
   }
@@ -212,7 +203,7 @@
    "hora": "14:45",
    "resultado": "pendiente",
    "wr_historico": 82,
-   "n_historico": 231
+   "n_historico": 234
   },
   {
    "clave": "over25",
@@ -226,7 +217,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1340
+   "n_historico": 1343
   },
   {
    "clave": "btts",
@@ -240,7 +231,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1354
+   "n_historico": 1362
   }
  ],
  "gol_temprano": [
@@ -313,20 +304,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49463.0,
-  "balance_total": 39463.0,
-  "balance_dia": 288.0,
-  "ganados": 2847,
-  "perdidos": 1279,
-  "pendientes": 29,
-  "ganados_dia": 8,
-  "perdidos_dia": 2,
-  "win_rate": 69.0,
-  "roi": 9.6,
+  "capital": 49126.0,
+  "balance_total": 39126.0,
+  "balance_dia": -49.0,
+  "ganados": 2854,
+  "perdidos": 1286,
+  "pendientes": 19,
+  "ganados_dia": 15,
+  "perdidos_dia": 9,
+  "win_rate": 68.9,
+  "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4155,
+  "con_cuota_media": 4159,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -399,7 +390,7 @@
     "away": "Minsk II",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -408,7 +399,7 @@
     "away": "Viborg",
     "liga": "Superliga",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -417,7 +408,7 @@
     "away": "FC Vaduz",
     "liga": "Super League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -444,7 +435,7 @@
     "away": "Sturm Graz W",
     "liga": "Frauenliga",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -545,7 +536,7 @@
     "away": "Minsk II",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -554,7 +545,7 @@
     "away": "FC Vaduz",
     "liga": "Super League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -587,14 +578,35 @@
    }
   ],
   "balance": {
-   "ganados": 1639,
-   "perdidos": 1055,
+   "ganados": 1645,
+   "perdidos": 1060,
    "acierto": 60.8,
-   "yield": 15.6,
+   "yield": 15.5,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "IFK Norrkoping",
+   "away": "Oddevold",
+   "liga": "Superettan",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "San Marino Academy",
+   "away": "Faetano",
+   "liga": "Campionato",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Lidköping",
+   "away": "Herrestads",
+   "liga": "Division 2 - Norra Götaland",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Austria Vienna",
    "away": "Austria Lustenau",
@@ -607,35 +619,14 @@
    "away": "FC Botosani",
    "liga": "Liga I",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "KuPS",
    "away": "HJK Helsinki",
    "liga": "Veikkausliiga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Piteå W",
-   "away": "AIK W",
-   "liga": "Damallsvenskan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "IF Elfsborg",
-   "away": "Kalmar FF",
-   "liga": "Allsvenskan",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "1. FC Heidenheim",
-   "away": "Holstein Kiel",
-   "liga": "2. Bundesliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -958,22 +949,22 @@
   }
  ],
  "stats_gt": {
-  "n": 2903,
-  "ganados": 1952,
+  "n": 2912,
+  "ganados": 1955,
   "win_rate": 67,
   "hoy": 27
  },
  "stats_dia": {
-  "ganados": 8,
-  "perdidos": 2,
-  "en_juego": 29,
-  "win_rate": 80
+  "ganados": 16,
+  "perdidos": 9,
+  "en_juego": 18,
+  "win_rate": 64
  },
  "stats_banker": {
-  "ganados": 92,
+  "ganados": 93,
   "perdidos": 37,
-  "pendientes": 2,
-  "win_rate": 71
+  "pendientes": 1,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
