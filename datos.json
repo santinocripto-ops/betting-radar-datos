@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T20:40:21.071728+00:00",
+ "actualizado": "2026-09-13T20:47:39.954101+00:00",
  "partidos_vivo": [
   {
    "home": "York United",
@@ -542,13 +542,6 @@
    "liga": "La Liga",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Getafe",
-   "away": "Deportivo La Coruna",
-   "liga": "La Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
