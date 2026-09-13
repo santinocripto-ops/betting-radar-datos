@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-13T11:49:49.077665+00:00",
- "partidos_vivo": [
-  {
-   "home": "Excelsior",
-   "away": "Utrecht",
-   "liga": "Eredivisie",
-   "minuto": 56,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 45,
-   "momentum_away": 55,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 4.17 goles/partido",
-    "⚽ 1 gol — Excelsior buscará el empate"
-   ]
-  }
- ],
- "partidos_vivo_total": 7,
+ "actualizado": "2026-09-13T11:58:19.831960+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
