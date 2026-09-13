@@ -1,10 +1,40 @@
 {
- "actualizado": "2026-09-13T12:05:28.619968+00:00",
+ "actualizado": "2026-09-13T12:14:41.885400+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:13",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "14:04",
@@ -45,36 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "13:42",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Hebei Kungfu vs Shenzhen Juniors · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 C",
-   "hora": "13:05",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "12:34",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -135,66 +135,66 @@
  ],
  "gol_temprano": [
   {
+   "home": "KuPS",
+   "away": "HJK Helsinki",
+   "liga": "Veikkausliiga",
+   "minuto": 12,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Celta Vigo",
+   "away": "Malaga",
+   "liga": "La Liga",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Arges Pitesti",
+   "away": "FC Botosani",
+   "liga": "Liga I",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Piteå W",
+   "away": "AIK W",
+   "liga": "Damallsvenskan",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "IF Elfsborg",
+   "away": "Kalmar FF",
+   "liga": "Allsvenskan",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "VfL Osnabrück",
    "away": "Hertha BSC",
    "liga": "2. Bundesliga",
    "minuto": 13,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Karlsruher SC",
-   "away": "Energie Cottbus",
-   "liga": "2. Bundesliga",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "1. FC Heidenheim",
-   "away": "Holstein Kiel",
-   "liga": "2. Bundesliga",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Meizhou Kejia",
-   "away": "Nanjing City",
-   "liga": "League One",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Excelsior",
-   "away": "Utrecht",
-   "liga": "Eredivisie",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Akron II",
-   "away": "Krylya Sovetov II",
-   "liga": "Second League - Group 4",
-   "minuto": 15,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-13",
@@ -808,7 +808,7 @@
   "n": 2901,
   "ganados": 1950,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 14
  },
  "stats_dia": {
   "ganados": 6,
