@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T21:48:59.083028+00:00",
+ "actualizado": "2026-09-13T21:55:57.495487+00:00",
  "partidos_vivo": [
   {
    "home": "Atletico Grau",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "23:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:45",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Chicago Fire",
+   "away": "New England Revolution",
+   "liga": "Major League Soccer",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Flamengo",
    "away": "Corinthians",
    "liga": "Serie A",
@@ -215,17 +226,6 @@
    "liga": "Liga de Expansión MX",
    "minuto": 11,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "PSV Eindhoven",
-   "away": "Sparta Rotterdam",
-   "liga": "Eredivisie",
-   "minuto": 14,
-   "score": 9.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-13",
@@ -847,7 +847,7 @@
   "n": 2959,
   "ganados": 1988,
   "win_rate": 67,
-  "hoy": 64
+  "hoy": 65
  },
  "stats_dia": {
   "ganados": 59,
