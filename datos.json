@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T13:21:25.304153+00:00",
+ "actualizado": "2026-09-13T13:22:15.275224+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -144,6 +144,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "IFK Norrkoping",
+   "away": "Oddevold",
+   "liga": "Superettan",
+   "minuto": 22,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Ilves II",
    "away": "Honka",
    "liga": "Kakkonen - Lohko B",
@@ -192,17 +203,6 @@
    "away": "Sigma Olomouc",
    "liga": "Czech Liga",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Coventry",
-   "away": "Brighton",
-   "liga": "Premier League",
-   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -853,7 +853,7 @@
   "n": 2903,
   "ganados": 1952,
   "win_rate": 67,
-  "hoy": 23
+  "hoy": 24
  },
  "stats_dia": {
   "ganados": 8,
