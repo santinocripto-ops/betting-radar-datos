@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T13:42:54.224475+00:00",
+ "actualizado": "2026-09-13T13:49:06.204462+00:00",
  "partidos_vivo": [
   {
    "home": "Slavia Sofia",
@@ -278,7 +278,7 @@
   "balance_dia": 288.0,
   "ganados": 2847,
   "perdidos": 1279,
-  "pendientes": 27,
+  "pendientes": 29,
   "ganados_dia": 8,
   "perdidos_dia": 2,
   "win_rate": 69.0,
@@ -286,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4153,
+  "con_cuota_media": 4155,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -926,7 +926,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 2,
-  "en_juego": 27,
+  "en_juego": 29,
   "win_rate": 80
  },
  "stats_banker": {
