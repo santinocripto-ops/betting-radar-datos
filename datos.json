@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T15:38:36.894125+00:00",
+ "actualizado": "2026-09-13T15:45:10.832069+00:00",
  "partidos_vivo": [
   {
    "home": "Spartak Moscow",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:32",
    "tipo": "live"
   },
@@ -150,12 +156,6 @@
    "texto": "──────────────────────────────",
    "hora": "16:27",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -216,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Legia Warszawa",
+   "away": "Widzew Łódź",
+   "liga": "Ekstraklasa",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Avellino",
    "away": "Palermo",
    "liga": "Serie B",
@@ -264,17 +275,6 @@
    "away": "Feyenoord",
    "liga": "Eredivisie",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "SV Wehen",
-   "away": "Waldhof Mannheim",
-   "liga": "3. Liga",
-   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -932,7 +932,7 @@
   "n": 2922,
   "ganados": 1960,
   "win_rate": 67,
-  "hoy": 44
+  "hoy": 45
  },
  "stats_dia": {
   "ganados": 24,
