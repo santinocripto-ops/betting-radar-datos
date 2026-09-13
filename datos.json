@@ -1,90 +1,102 @@
 {
- "actualizado": "2026-09-13T15:51:39.730087+00:00",
+ "actualizado": "2026-09-13T15:58:44.283970+00:00",
  "partidos_vivo": [
   {
-   "home": "Spartak Moscow",
-   "away": "FC Rostov",
-   "liga": "Premier League",
-   "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 55,
-   "momentum_away": 45,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ FC Rostov pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Levante",
-   "away": "Barcelona",
-   "liga": "La Liga",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (La Liga)",
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Rotor Volgograd",
-   "away": "Enisey",
+   "home": "Botev Vratsa",
+   "away": "Levski Sofia",
    "liga": "First League",
-   "minuto": 65,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.3,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
+   "momentum_home": 33,
+   "momentum_away": 67,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Enisey pierde por 3 — atacará sin freno"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Real",
-   "away": "Lajense",
-   "liga": "Campeonato de Portugal Prio - Group D",
-   "minuto": 64,
-   "marcador": "4-4",
-   "apuesta": "Over 8.5",
+   "home": "FC Volendam",
+   "away": "Den Bosch",
+   "liga": "Eerste Divisie",
+   "minuto": 55,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 8 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚽ 1 gol — Den Bosch buscará el empate",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "PEC Zwolle",
+   "away": "Feyenoord",
+   "liga": "Eredivisie",
+   "minuto": 54,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 18,
+   "momentum_away": 82,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.17 goles/partido",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Amarante",
+   "away": "União de Leiria",
+   "liga": "Segunda Liga",
+   "minuto": 65,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 9.1,
+   "recomendar": true,
+   "momentum_home": 27,
+   "momentum_away": 73,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 16 remates totales",
+    "🎯 6 remates a puerta"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:58",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "17:57",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -144,18 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:43",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "16:27",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -856,6 +856,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will SSC Napoli win on 2026-09-13?",
+   "apuesta": "SI, SSC Napoli ganara",
+   "usdc": 1026982,
+   "prob": 53.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "17:57"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "NO — Will there be no change in Fed interest rates after the Sept",
    "usdc": 81000,
@@ -917,15 +926,6 @@
    "n_traders": 3,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "14:04"
-  },
-  {
-   "titulo": "Will Karlsruher SC win on 2026-09-13?",
-   "apuesta": "SI, Karlsruher ganara",
-   "usdc": 28391,
-   "prob": 47.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "13:42"
   }
  ],
  "stats_gt": {
