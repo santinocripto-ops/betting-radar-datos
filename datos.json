@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T16:15:58.122161+00:00",
+ "actualizado": "2026-09-13T16:22:42.526436+00:00",
  "partidos_vivo": [
   {
    "home": "Botev Vratsa",
@@ -289,7 +289,7 @@
   "balance_dia": 52.0,
   "ganados": 2875,
   "perdidos": 1297,
-  "pendientes": 10,
+  "pendientes": 13,
   "ganados_dia": 36,
   "perdidos_dia": 20,
   "win_rate": 68.9,
@@ -297,7 +297,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4182,
+  "con_cuota_media": 4185,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -937,7 +937,7 @@
  "stats_dia": {
   "ganados": 37,
   "perdidos": 20,
-  "en_juego": 9,
+  "en_juego": 12,
   "win_rate": 65
  },
  "stats_banker": {
