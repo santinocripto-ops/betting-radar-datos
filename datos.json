@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:13:16.169104+00:00",
+ "actualizado": "2026-09-13T14:15:03.961637+00:00",
  "partidos_vivo": [
   {
    "home": "Viking",
@@ -108,6 +108,54 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:13",
    "tipo": "live"
   },
@@ -127,54 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "15:42",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:14",
    "tipo": "live"
   }
  ],
@@ -236,32 +236,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Arsenal W",
-   "away": "Crystal Palace W",
-   "liga": "FA WSL",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Aliağa FAŞ",
-   "away": "Isparta 32 Spor",
-   "liga": "2. Lig",
-   "minuto": 12,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Torpedo Moskva",
-   "away": "Nizhny Novgorod",
-   "liga": "First League",
+   "home": "Valur Reykjavik",
+   "away": "Thor Akureyri",
+   "liga": "Úrvalsdeild",
    "minuto": 11,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "FH hafnarfjordur",
+   "away": "KA Akureyri",
+   "liga": "Úrvalsdeild",
+   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -269,21 +258,32 @@
    "es_hoy": true
   },
   {
-   "home": "IFK Norrkoping",
-   "away": "Oddevold",
-   "liga": "Superettan",
-   "minuto": 22,
-   "score": 9.8,
+   "home": "Fátima",
+   "away": "Oliveira Hospital",
+   "liga": "Campeonato de Portugal Prio - Group C",
+   "minuto": 11,
+   "score": 9.9,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-13",
    "es_hoy": true
   },
   {
-   "home": "Ilves II",
-   "away": "Honka",
-   "liga": "Kakkonen - Lohko B",
-   "minuto": 12,
+   "home": "Arsenal Tula",
+   "away": "Ska-khabarovsk",
+   "liga": "First League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
+   "home": "Liège",
+   "away": "Club Brugge II",
+   "liga": "Challenger Pro League",
+   "minuto": 13,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
@@ -291,10 +291,10 @@
    "es_hoy": true
   },
   {
-   "home": "Rubin Kazan 2",
-   "away": "Nosta",
-   "liga": "Second League - Group 4",
-   "minuto": 13,
+   "home": "Randers FC",
+   "away": "Odense",
+   "liga": "Superliga",
+   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -952,7 +952,7 @@
   "n": 2912,
   "ganados": 1955,
   "win_rate": 67,
-  "hoy": 27
+  "hoy": 36
  },
  "stats_dia": {
   "ganados": 16,
