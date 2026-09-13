@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T10:06:07.711923+00:00",
+ "actualizado": "2026-09-13T10:07:30.080483+00:00",
  "partidos_vivo": [
   {
    "home": "Znojmo",
@@ -738,7 +738,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.5,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
