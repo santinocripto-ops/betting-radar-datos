@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T16:31:52.403871+00:00",
+ "actualizado": "2026-09-13T16:31:59.134889+00:00",
  "partidos_vivo": [
   {
    "home": "Le Mans",
@@ -256,6 +256,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "NEOM",
+   "away": "Al-Fateh",
+   "liga": "Pro League",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": true
+  },
+  {
    "home": "Caudal",
    "away": "Ceares",
    "liga": "Tercera División RFEF - Group 2",
@@ -305,17 +316,6 @@
    "liga": "Ekstraklasa",
    "minuto": 15,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-13",
-   "es_hoy": true
-  },
-  {
-   "home": "Avellino",
-   "away": "Palermo",
-   "liga": "Serie B",
-   "minuto": 13,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-13",
@@ -972,7 +972,7 @@
   "n": 2936,
   "ganados": 1971,
   "win_rate": 67,
-  "hoy": 49
+  "hoy": 50
  },
  "stats_dia": {
   "ganados": 37,
