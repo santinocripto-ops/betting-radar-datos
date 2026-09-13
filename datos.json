@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T14:58:30.834677+00:00",
+ "actualizado": "2026-09-13T15:07:16.353098+00:00",
  "partidos_vivo": [
   {
    "home": "Arsenal W",
@@ -127,6 +127,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:58",
    "tipo": "live"
@@ -184,18 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -237,7 +237,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1343
+   "n_historico": 1352
   },
   {
    "clave": "btts",
@@ -251,7 +251,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1362
+   "n_historico": 1366
   }
  ],
  "gol_temprano": [
@@ -324,20 +324,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49126.0,
-  "balance_total": 39126.0,
-  "balance_dia": -49.0,
-  "ganados": 2854,
-  "perdidos": 1286,
-  "pendientes": 33,
-  "ganados_dia": 15,
-  "perdidos_dia": 9,
+  "capital": 48866.0,
+  "balance_total": 38866.0,
+  "balance_dia": -309.0,
+  "ganados": 2862,
+  "perdidos": 1293,
+  "pendientes": 21,
+  "ganados_dia": 23,
+  "perdidos_dia": 16,
   "win_rate": 68.9,
-  "roi": 9.5,
+  "roi": 9.4,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4173,
+  "con_cuota_media": 4176,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -446,7 +446,7 @@
     "away": "Cham",
     "liga": "Oberliga - Bayern Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -464,7 +464,7 @@
     "away": "Anker Wismar",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -511,7 +511,7 @@
     "away": "Orenburg II",
     "liga": "Second League - Group 4",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -520,7 +520,7 @@
     "away": "Štětí",
     "liga": "4. liga - Divizie B",
     "hora": "10:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -529,7 +529,7 @@
     "away": "Admira Praha",
     "liga": "3. liga - CFL A",
     "hora": "10:15",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -538,7 +538,7 @@
     "away": "Trelleborg W",
     "liga": "Elitettan",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -547,7 +547,7 @@
     "away": "Torns",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -583,7 +583,7 @@
     "away": "Cham",
     "liga": "Oberliga - Bayern Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -598,14 +598,28 @@
    }
   ],
   "balance": {
-   "ganados": 1645,
-   "perdidos": 1060,
-   "acierto": 60.8,
-   "yield": 15.5,
+   "ganados": 1651,
+   "perdidos": 1067,
+   "acierto": 60.7,
+   "yield": 15.4,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Iğdır FK",
+   "away": "Mardin 1969",
+   "liga": "1. Lig",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Fátima",
+   "away": "Oliveira Hospital",
+   "liga": "Campeonato de Portugal Prio - Group C",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Arsenal W",
    "away": "Crystal Palace W",
@@ -618,35 +632,21 @@
    "away": "Kırklarelispor",
    "liga": "2. Lig",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "IFK Norrkoping",
    "away": "Oddevold",
    "liga": "Superettan",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "San Marino Academy",
    "away": "Faetano",
    "liga": "Campionato",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Lidköping",
-   "away": "Herrestads",
-   "liga": "Division 2 - Norra Götaland",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Austria Vienna",
-   "away": "Austria Lustenau",
-   "liga": "Bundesliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -969,16 +969,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2912,
-  "ganados": 1955,
+  "n": 2922,
+  "ganados": 1960,
   "win_rate": 67,
   "hoy": 40
  },
  "stats_dia": {
-  "ganados": 16,
-  "perdidos": 9,
-  "en_juego": 32,
-  "win_rate": 64
+  "ganados": 24,
+  "perdidos": 16,
+  "en_juego": 20,
+  "win_rate": 60
  },
  "stats_banker": {
   "ganados": 93,
