@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T23:57:09.100363+00:00",
+ "actualizado": "2026-09-13T00:04:01.771020+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego Wave W",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:03",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "22:16",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Chapecoense-sc vs Internacional · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
-   "hora": "21:09",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -146,70 +146,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Columbus Crew",
-   "away": "New York Red Bulls",
+   "home": "Orlando City SC",
+   "away": "Toronto FC",
    "liga": "Major League Soccer",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "Forge",
-   "away": "Atlético Ottawa",
-   "liga": "Canadian Premier League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "Venados FC",
-   "away": "Tepatitlán",
-   "liga": "Liga de Expansión MX",
-   "minuto": 14,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "Toluca",
-   "away": "Atlas",
-   "liga": "Liga MX",
-   "minuto": 10,
+   "minuto": 24,
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "San Diego Wave W",
-   "away": "North Carolina Courage W",
-   "liga": "NWSL Women",
-   "minuto": 20,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-12",
-   "es_hoy": false
-  },
-  {
-   "home": "Lorient",
-   "away": "Toulouse",
-   "liga": "Ligue 1",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-12",
-   "es_hoy": false
+   "fecha": "2026-09-13",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -813,7 +758,7 @@
   "n": 2893,
   "ganados": 1944,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
