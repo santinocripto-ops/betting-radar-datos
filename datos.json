@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-13T22:57:59.051377+00:00",
+ "actualizado": "2026-09-13T23:05:46.463217+00:00",
  "partidos_vivo": [
   {
    "home": "Rubio NU",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:05",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
    "hora": "00:20",
@@ -130,12 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "──────────────────────────────",
-   "hora": "20:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -186,6 +186,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Vancouver Whitecaps",
+   "away": "Austin",
+   "liga": "Major League Soccer",
+   "minuto": 25,
+   "score": 9.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-13",
+   "es_hoy": false
+  },
+  {
    "home": "Chicago Fire",
    "away": "New England Revolution",
    "liga": "Major League Soccer",
@@ -203,7 +214,7 @@
    "minuto": 25,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-13",
    "es_hoy": false
   },
@@ -239,27 +250,16 @@
    "resultado": "perdido",
    "fecha": "2026-09-13",
    "es_hoy": false
-  },
-  {
-   "home": "Leones Negros UDG",
-   "away": "CA La Paz",
-   "liga": "Liga de Expansión MX",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49850.0,
-  "balance_total": 39850.0,
+  "capital": 49750.0,
+  "balance_total": 39750.0,
   "balance_dia": 0.0,
   "ganados": 2898,
-  "perdidos": 1304,
-  "pendientes": 4,
+  "perdidos": 1305,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -850,7 +850,7 @@
   }
  ],
  "stats_gt": {
-  "n": 2961,
+  "n": 2962,
   "ganados": 1989,
   "win_rate": 67,
   "hoy": 0
