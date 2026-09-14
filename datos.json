@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T20:30:30.391987+00:00",
+ "actualizado": "2026-09-14T20:37:24.243140+00:00",
  "partidos_vivo": [
   {
    "home": "Leeds",
@@ -811,6 +811,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Leeds United FC win on 2026-09-14?",
+   "apuesta": "SI, Leeds United ganara",
+   "usdc": 116275,
+   "prob": 99.9,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "22:37"
+  },
+  {
    "titulo": "Villarreal CF vs. Real Betis Balompié: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 17073,
@@ -871,15 +880,6 @@
    "prob": 15.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xd",
-   "hora": "16:50"
-  },
-  {
-   "titulo": "Will AS Roma win on 2026-09-14?",
-   "apuesta": "NO, AS Roma no ganara",
-   "usdc": 214516,
-   "prob": 35.5,
-   "n_traders": 3,
-   "trader": "RN1",
    "hora": "16:50"
   }
  ],
