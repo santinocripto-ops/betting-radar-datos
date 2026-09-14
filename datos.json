@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T09:54:24.503273+00:00",
+ "actualizado": "2026-09-14T10:01:42.310484+00:00",
  "partidos_vivo": [
   {
    "home": "The Town",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "──────────────────────────────",
+   "hora": "12:01",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔴 RESUMEN SEMANAL — PRONÓSTICOS EN VIVO",
@@ -90,12 +96,6 @@
    "texto": "──────────────────────────────",
    "hora": "00:20",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "23:55",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -693,6 +693,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Newcastle United FC win on 2026-09-14?",
+   "apuesta": "NO, Newcastle United no ganara",
+   "usdc": 125439,
+   "prob": 70.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "12:01"
+  },
+  {
    "titulo": "Will Philadelphia Union win on 2026-09-13?",
    "apuesta": "SI, Philadelphia Union ganara",
    "usdc": 118608,
@@ -754,15 +763,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "16:27"
-  },
-  {
-   "titulo": "Guangzhou: Maxim Zhukov vs Thijmen Loof",
-   "apuesta": "SI, Guangzhou: Maxim Zhukov ganara",
-   "usdc": 19447,
-   "prob": 25.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:42"
   }
  ],
  "stats_gt": {
