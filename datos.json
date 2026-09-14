@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-09-14T11:18:29.885394+00:00",
- "partidos_vivo": [
-  {
-   "home": "United",
-   "away": "Mohun Bagan",
-   "liga": "Calcutta Premier Division",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "East Bengal",
-   "away": "Mohammedan",
-   "liga": "Calcutta Premier Division",
-   "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-14T11:26:08.344888+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -455,6 +414,96 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Al Wehda Club",
+    "away": "Al Okhdood",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "cuota": 1.31,
+    "pinnacle": true,
+    "delta": 4.29,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.011695+00:00"
+   },
+   {
+    "home": "Al Wehda Club",
+    "away": "Al Okhdood",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 4,
+    "cuota": 1.31,
+    "pinnacle": false,
+    "delta": 3.84,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.229911+00:00"
+   },
+   {
+    "home": "Al Ula",
+    "away": "Jeddah Club",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.03,
+    "pinnacle": true,
+    "delta": 4.24,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.791656+00:00"
+   },
+   {
+    "home": "Al Ula",
+    "away": "Jeddah Club",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.19,
+    "pinnacle": true,
+    "delta": 3.87,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:24.041372+00:00"
+   },
+   {
+    "home": "Al Bukayriyah",
+    "away": "Damac",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.7,
+    "pinnacle": true,
+    "delta": 4.77,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T15:50:00+00:00",
+    "ts": "2026-09-14T11:05:19.119985+00:00"
+   },
+   {
+    "home": "Dynamo Kyiv",
+    "away": "Epitsentr Dunayivtsi",
+    "liga": "Premier League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 2.52,
+    "pinnacle": true,
+    "delta": 3.83,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T12:30:00+00:00",
+    "ts": "2026-09-14T11:05:16.824945+00:00"
+   },
+   {
     "home": "Corvinul Hunedoara",
     "away": "Universitatea Craiova",
     "liga": "Liga I",
@@ -588,102 +637,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-12T11:00:00+00:00",
     "ts": "2026-09-12T10:08:40.210854+00:00"
-   },
-   {
-    "home": "FC Politehnica Timisoara",
-    "away": "Ştefăneşti",
-    "liga": "Liga II",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.03,
-    "pinnacle": true,
-    "delta": 4.06,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T08:00:00+00:00",
-    "ts": "2026-09-11T22:13:00.831947+00:00"
-   },
-   {
-    "home": "Correcaminos Uat",
-    "away": "Cancún",
-    "liga": "Liga de Expansión MX",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.36,
-    "pinnacle": true,
-    "delta": 3.93,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T01:00:00+00:00",
-    "ts": "2026-09-11T22:12:57.717551+00:00"
-   },
-   {
-    "home": "Jong Ajax",
-    "away": "Waalwijk",
-    "liga": "Eerste Divisie",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.12,
-    "pinnacle": true,
-    "delta": 4.27,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-11T18:00:00+00:00",
-    "ts": "2026-09-11T07:03:49.274060+00:00"
-   },
-   {
-    "home": "Heracles",
-    "away": "Jong AZ",
-    "liga": "Eerste Divisie",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.1,
-    "pinnacle": true,
-    "delta": 3.48,
-    "marcador": "3-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-11T18:00:00+00:00",
-    "ts": "2026-09-11T07:03:49.793457+00:00"
-   },
-   {
-    "home": "Cruz Azul Hidalgo",
-    "away": "Piratas",
-    "liga": "Liga de Expansión MX",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.62,
-    "pinnacle": true,
-    "delta": 3.01,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-11T18:00:00+00:00",
-    "ts": "2026-09-11T17:10:25.531991+00:00"
-   },
-   {
-    "home": "Emmen",
-    "away": "De Graafschap",
-    "liga": "Eerste Divisie",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.22,
-    "pinnacle": true,
-    "delta": 3.28,
-    "marcador": "1-2",
-    "resultado": "perdido",
-    "kickoff": "2026-09-11T18:00:00+00:00",
-    "ts": "2026-09-11T17:10:30.537542+00:00"
    }
   ],
   "balance": {
    "ganados": 272,
    "perdidos": 108,
-   "pendientes": 0,
+   "pendientes": 6,
    "acierto": 71.6,
    "total": 380
   }
@@ -698,6 +657,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Chall",
+   "apuesta": "SI, LoL: Dplus KIA Challengers ganara",
+   "usdc": 17480,
+   "prob": 18.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:25"
+  },
   {
    "titulo": "Broncos vs. Chiefs: O/U 43.5",
    "apuesta": "SI, mas de 43.5 goles",
@@ -726,7 +694,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 80
  },
  "stats_banker": {
