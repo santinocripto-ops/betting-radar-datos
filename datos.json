@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T12:08:56.723701+00:00",
+ "actualizado": "2026-09-14T12:16:32.196297+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -674,6 +674,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Guangzhou: Thijmen Loof vs Jesse Delaney",
+   "apuesta": "SI, Guangzhou: Thijmen Loof ganara",
+   "usdc": 16329,
+   "prob": 23.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:16"
+  },
   {
    "titulo": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Chall",
    "apuesta": "SI, LoL: Dplus KIA Challengers ganara",
