@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-14T14:58:01.526832+00:00",
+ "actualizado": "2026-09-14T15:06:15.898241+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -39,12 +45,6 @@
    "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
    "hora": "13:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -125,7 +125,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1367
+   "n_historico": 1369
   },
   {
    "clave": "btts",
@@ -139,7 +139,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1377
+   "n_historico": 1379
   }
  ],
  "gol_temprano": [
@@ -150,7 +150,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   },
@@ -190,13 +190,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50000.0,
-  "balance_total": 40000.0,
-  "balance_dia": 189.0,
-  "ganados": 2904,
+  "capital": 50061.0,
+  "balance_total": 40061.0,
+  "balance_dia": 250.0,
+  "ganados": 2905,
   "perdidos": 1306,
-  "pendientes": 3,
-  "ganados_dia": 5,
+  "pendientes": 2,
+  "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -258,7 +258,7 @@
     "away": "Ezra",
     "liga": "ASEAN Club Championship",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -276,7 +276,7 @@
     "away": "Cardiff City U21",
     "liga": "Professional Development League",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -359,7 +359,7 @@
     "away": "Ezra",
     "liga": "ASEAN Club Championship",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -413,7 +413,7 @@
     "away": "Cardiff City U21",
     "liga": "Professional Development League",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -464,10 +464,10 @@
    }
   ],
   "balance": {
-   "ganados": 1667,
-   "perdidos": 1077,
-   "acierto": 60.8,
-   "yield": 15.4,
+   "ganados": 1668,
+   "perdidos": 1080,
+   "acierto": 60.7,
+   "yield": 15.3,
    "cuota_media": 1.9
   }
  },
@@ -783,16 +783,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2968,
-  "ganados": 1994,
+  "n": 2969,
+  "ganados": 1995,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 5,
+  "ganados": 6,
   "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 83
+  "en_juego": 2,
+  "win_rate": 86
  },
  "stats_banker": {
   "ganados": 94,
