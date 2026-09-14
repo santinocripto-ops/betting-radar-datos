@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T10:01:42.310484+00:00",
+ "actualizado": "2026-09-14T10:08:40.895410+00:00",
  "partidos_vivo": [
   {
    "home": "The Town",
@@ -689,7 +689,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "13:30",
+  "cuota": 1.55,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
