@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-14T14:05:03.620071+00:00",
+ "actualizado": "2026-09-14T14:14:10.891430+00:00",
  "partidos_vivo": [
   {
-   "home": "Nyva Ternopil II",
-   "away": "Ruh Lviv",
-   "liga": "Druha Liga",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Roma U20",
+   "away": "Como U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Roma U20 buscará el empate"
+   ]
+  },
+  {
+   "home": "Sheffield United U21",
+   "away": "Cardiff City U21",
+   "liga": "Professional Development League",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.84 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -586,6 +606,21 @@
     "ts": "2026-09-14T13:04:45.290717+00:00"
    },
    {
+    "home": "Universitatea Cluj",
+    "away": "Oţelul",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.16,
+    "pinnacle": true,
+    "delta": 6.09,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T15:00:00+00:00",
+    "ts": "2026-09-14T14:05:03.894102+00:00"
+   },
+   {
     "home": "Dynamo Kyiv",
     "away": "Epitsentr Dunayivtsi",
     "liga": "Premier League",
@@ -704,27 +739,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-12T11:30:00+00:00",
     "ts": "2026-09-12T10:08:43.067302+00:00"
-   },
-   {
-    "home": "Hillerød",
-    "away": "AB Copenhagen",
-    "liga": "1. Division",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.53,
-    "pinnacle": false,
-    "delta": 3.38,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-12T11:00:00+00:00",
-    "ts": "2026-09-12T10:08:39.015511+00:00"
    }
   ],
   "balance": {
    "ganados": 272,
    "perdidos": 108,
-   "pendientes": 7,
+   "pendientes": 8,
    "acierto": 71.6,
    "total": 380
   }
