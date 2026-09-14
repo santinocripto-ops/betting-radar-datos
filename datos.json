@@ -1,68 +1,148 @@
 {
- "actualizado": "2026-09-14T19:46:23.480145+00:00",
+ "actualizado": "2026-09-14T19:54:44.131318+00:00",
  "partidos_vivo": [
   {
-   "home": "FCSB",
-   "away": "Petrolul Ploiesti",
-   "liga": "Liga I",
-   "minuto": 59,
-   "marcador": "2-1",
+   "home": "Waterford",
+   "away": "Derry City",
+   "liga": "Premier Division",
+   "minuto": 53,
+   "marcador": "1-2",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
+   "momentum_home": 40,
+   "momentum_away": 60,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "🔥 3 goles — partido muy abierto",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Sligo Rovers",
+   "away": "Galway United",
+   "liga": "Premier Division",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Inter",
+   "away": "Udinese",
+   "liga": "Serie A",
+   "minuto": 49,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 80,
+   "momentum_away": 20,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "RED Star FC 93",
+   "away": "Metz",
+   "liga": "Ligue 2",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 62,
+   "momentum_away": 38,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Celta de Vigo II",
+   "away": "Eibar",
+   "liga": "Segunda División",
+   "minuto": 61,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 54,
+   "momentum_away": 46,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Celta de Vigo II pierde por 4 — atacará sin freno",
     "🎯 25 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Haninge",
-   "away": "Syrianska FC",
-   "liga": "Division 2 - Södra Svealand",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Shelbourne",
+   "away": "Drogheda United",
+   "liga": "Premier Division",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 8.7,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 63,
+   "momentum_away": 37,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Haninge buscará el empate"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 14 remates totales"
    ]
   },
   {
-   "home": "Blackburn Rovers U21",
-   "away": "Reading U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 61,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "home": "Dundalk",
+   "away": "St Patrick's Athl.",
+   "liga": "Premier Division",
+   "minuto": 54,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 8.6,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 35,
+   "momentum_away": 65,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.58 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Dundalk pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
