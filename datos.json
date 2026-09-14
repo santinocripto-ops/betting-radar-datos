@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-14T15:59:51.241773+00:00",
+ "actualizado": "2026-09-14T16:07:36.868388+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:07",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:05",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -110,8 +110,8 @@
    "score": 8.47,
    "hora": "17:00",
    "resultado": "pendiente",
-   "wr_historico": 82,
-   "n_historico": 240
+   "wr_historico": 83,
+   "n_historico": 242
   },
   {
    "clave": "over25",
@@ -125,7 +125,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1369
+   "n_historico": 1371
   },
   {
    "clave": "btts",
@@ -139,7 +139,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1379
+   "n_historico": 1380
   }
  ],
  "gol_temprano": [
@@ -206,7 +206,7 @@
   "balance_dia": 250.0,
   "ganados": 2905,
   "perdidos": 1306,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.0,
@@ -214,7 +214,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4214,
+  "con_cuota_media": 4215,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -296,7 +296,7 @@
     "away": "Skanste",
     "liga": "1. Liga",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -415,7 +415,7 @@
     "away": "Bentonit Ijevan",
     "liga": "First League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -433,7 +433,7 @@
     "away": "Skanste",
     "liga": "1. Liga",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -475,14 +475,22 @@
    }
   ],
   "balance": {
-   "ganados": 1668,
+   "ganados": 1671,
    "perdidos": 1080,
    "acierto": 60.7,
-   "yield": 15.3,
+   "yield": 15.4,
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Inter Turku",
+   "away": "VPS",
+   "liga": "Veikkausliiga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -802,7 +810,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 1,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 86
  },
  "stats_banker": {
