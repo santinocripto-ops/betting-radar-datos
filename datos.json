@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T18:07:31.381481+00:00",
+ "actualizado": "2026-09-14T18:14:10.081261+00:00",
  "partidos_vivo": [
   {
    "home": "Como",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "20:07",
@@ -170,12 +176,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -225,6 +225,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Jong PSV U21",
+   "away": "Jong AZ",
+   "liga": "Eerste Divisie",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
   {
    "home": "Ludogorets",
    "away": "Septemvri Sofia",
@@ -277,17 +288,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "HNK Gorica",
-   "away": "NK Varazdin",
-   "liga": "HNL",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
@@ -601,6 +601,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "CSM Reşiţa",
+    "away": "FC Bacau",
+    "liga": "Liga II",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.83,
+    "pinnacle": false,
+    "delta": 4.37,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-15T14:00:00+00:00",
+    "ts": "2026-09-14T18:07:31.585578+00:00"
+   },
+   {
     "home": "SC Braga",
     "away": "Estoril",
     "liga": "Primeira Liga",
@@ -625,8 +640,8 @@
     "cuota": 1.31,
     "pinnacle": true,
     "delta": 4.29,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T16:05:00+00:00",
     "ts": "2026-09-14T11:05:20.011695+00:00"
    },
@@ -640,8 +655,8 @@
     "cuota": 1.31,
     "pinnacle": false,
     "delta": 3.84,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T16:05:00+00:00",
     "ts": "2026-09-14T11:05:20.229911+00:00"
    },
@@ -655,8 +670,8 @@
     "cuota": 1.03,
     "pinnacle": true,
     "delta": 4.24,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T16:05:00+00:00",
     "ts": "2026-09-14T11:05:20.791656+00:00"
    },
@@ -670,8 +685,8 @@
     "cuota": 1.19,
     "pinnacle": true,
     "delta": 3.87,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T16:05:00+00:00",
     "ts": "2026-09-14T11:05:24.041372+00:00"
    },
@@ -685,8 +700,8 @@
     "cuota": 1.7,
     "pinnacle": true,
     "delta": 4.77,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "perdido",
     "kickoff": "2026-09-14T15:50:00+00:00",
     "ts": "2026-09-14T11:05:19.119985+00:00"
    },
@@ -700,8 +715,8 @@
     "cuota": 1.25,
     "pinnacle": true,
     "delta": 7.47,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T15:00:00+00:00",
     "ts": "2026-09-14T13:04:45.290717+00:00"
    },
@@ -715,8 +730,8 @@
     "cuota": 1.16,
     "pinnacle": true,
     "delta": 6.09,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-14T15:00:00+00:00",
     "ts": "2026-09-14T14:05:03.894102+00:00"
    },
@@ -809,29 +824,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-12T20:00:00+00:00",
     "ts": "2026-09-12T19:09:22.899188+00:00"
-   },
-   {
-    "home": "Schwarz-Weiß Bregenz",
-    "away": "Floridsdorfer AC",
-    "liga": "2. Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.5,
-    "pinnacle": true,
-    "delta": 4.79,
-    "marcador": "4-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T13:30:00+00:00",
-    "ts": "2026-09-12T13:15:08.625858+00:00"
    }
   ],
   "balance": {
-   "ganados": 272,
-   "perdidos": 109,
-   "pendientes": 8,
-   "acierto": 71.4,
-   "total": 381
+   "ganados": 278,
+   "perdidos": 110,
+   "pendientes": 2,
+   "acierto": 71.6,
+   "total": 388
   }
  },
  "mejor_dia": {
@@ -912,7 +912,7 @@
   "n": 2971,
   "ganados": 1995,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 10,
