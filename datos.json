@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T02:58:42.723736+00:00",
+ "actualizado": "2026-09-14T03:05:52.545056+00:00",
  "partidos_vivo": [
   {
    "home": "San Diego",
@@ -147,7 +147,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1362
+   "n_historico": 1363
   },
   {
    "clave": "btts",
@@ -161,7 +161,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1370
+   "n_historico": 1371
   }
  ],
  "gol_temprano": [
@@ -183,21 +183,21 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49933.0,
-  "balance_total": 39933.0,
-  "balance_dia": 122.0,
-  "ganados": 2901,
-  "perdidos": 1305,
-  "pendientes": 5,
-  "ganados_dia": 2,
-  "perdidos_dia": 0,
+  "capital": 49878.0,
+  "balance_total": 39878.0,
+  "balance_dia": 67.0,
+  "ganados": 2902,
+  "perdidos": 1306,
+  "pendientes": 3,
+  "ganados_dia": 3,
+  "perdidos_dia": 1,
   "win_rate": 69.0,
   "roi": 9.5,
   "stake": 100.0,
@@ -222,7 +222,7 @@
     "away": "Houston Dynamo FC II",
     "liga": "MLS Next Pro",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -395,7 +395,7 @@
     "away": "Houston Dynamo FC II",
     "liga": "MLS Next Pro",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -465,9 +465,9 @@
   ],
   "balance": {
    "ganados": 1663,
-   "perdidos": 1069,
-   "acierto": 60.9,
-   "yield": 15.7,
+   "perdidos": 1071,
+   "acierto": 60.8,
+   "yield": 15.6,
    "cuota_media": 1.9
   }
  },
@@ -477,7 +477,7 @@
    "away": "FC Juarez",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -794,16 +794,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2965,
+  "n": 2966,
   "ganados": 1992,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 100
+  "ganados": 3,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 94,
