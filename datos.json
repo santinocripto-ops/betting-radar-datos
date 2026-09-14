@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T01:14:08.431497+00:00",
+ "actualizado": "2026-09-14T01:20:18.704634+00:00",
  "partidos_vivo": [
   {
    "home": "Columbus Crew II",
@@ -204,7 +204,7 @@
   "balance_dia": 122.0,
   "ganados": 2901,
   "perdidos": 1305,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -212,7 +212,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4208,
+  "con_cuota_media": 4209,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -803,7 +803,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
