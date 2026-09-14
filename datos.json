@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-14T11:40:07.871912+00:00",
+ "actualizado": "2026-09-14T11:47:34.382975+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
@@ -104,6 +110,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Geylang International",
+   "away": "Tanjong Pagar",
+   "liga": "Premier League",
+   "minuto": 17,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
   {
    "home": "San Diego",
    "away": "Philadelphia Union",
@@ -689,7 +706,7 @@
   "n": 2967,
   "ganados": 1993,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 4,
