@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-14T12:31:50.551169+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-14T12:39:43.739456+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Shan United",
+   "away": "Ezra",
+   "liga": "ASEAN Club Championship",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.33 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
