@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-09-14T13:05:09.029939+00:00",
+ "actualizado": "2026-09-14T13:13:57.498186+00:00",
  "partidos_vivo": [
   {
-   "home": "Shan United",
-   "away": "Ezra",
-   "liga": "ASEAN Club Championship",
-   "minuto": 51,
+   "home": "Swansea City U21",
+   "away": "Huddersfield Town U21",
+   "liga": "Professional Development League",
+   "minuto": 55,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -16,15 +16,81 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 5.33 goles/partido",
+    "⚽ Liga muy goleadora: 3.84 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
+  },
+  {
+   "home": "Drukpa",
+   "away": "RTC",
+   "liga": "Premier League",
+   "minuto": 54,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Meshakhte",
+   "away": "Rustavi",
+   "liga": "Erovnuli Liga",
+   "minuto": 51,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 44,
+   "momentum_away": 56,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ 1 gol — Meshakhte buscará el empate",
+    "⏱ 39 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Oleksandria",
+   "away": "Viktoriya Mykolaivka",
+   "liga": "Persha Liga",
+   "minuto": 53,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Viktoriya Mykolaivka buscará el empate"
+   ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ KAMAZ vs Chelyabinsk · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.24 (3 ca",
@@ -152,6 +218,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Sheffield United U21",
+   "away": "Cardiff City U21",
+   "liga": "Professional Development League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
   {
    "home": "Geylang International",
    "away": "Tanjong Pagar",
@@ -548,6 +625,21 @@
     "ts": "2026-09-14T11:05:19.119985+00:00"
    },
    {
+    "home": "KAMAZ",
+    "away": "Chelyabinsk",
+    "liga": "First League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 7.47,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T15:00:00+00:00",
+    "ts": "2026-09-14T13:04:45.290717+00:00"
+   },
+   {
     "home": "Dynamo Kyiv",
     "away": "Epitsentr Dunayivtsi",
     "liga": "Premier League",
@@ -681,27 +773,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-12T11:00:00+00:00",
     "ts": "2026-09-12T10:08:39.015511+00:00"
-   },
-   {
-    "home": "Changchun Yatai",
-    "away": "Heilongjiang Lava Spring",
-    "liga": "League One",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 7,
-    "cuota": 2.15,
-    "pinnacle": true,
-    "delta": 3.33,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-12T11:00:00+00:00",
-    "ts": "2026-09-12T10:08:40.210854+00:00"
    }
   ],
   "balance": {
    "ganados": 272,
    "perdidos": 108,
-   "pendientes": 6,
+   "pendientes": 7,
    "acierto": 71.6,
    "total": 380
   }
@@ -766,12 +843,12 @@
   "n": 2967,
   "ganados": 1993,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 80
  },
  "stats_banker": {
