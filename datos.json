@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T13:56:51.904253+00:00",
+ "actualizado": "2026-09-14T14:05:03.620071+00:00",
  "partidos_vivo": [
   {
    "home": "Nyva Ternopil II",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -140,7 +146,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1366
+   "n_historico": 1367
   },
   {
    "clave": "btts",
@@ -154,7 +160,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1376
+   "n_historico": 1377
   }
  ],
  "gol_temprano": [
@@ -176,7 +182,7 @@
    "minuto": 17,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   },
@@ -205,13 +211,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49939.0,
-  "balance_total": 39939.0,
-  "balance_dia": 128.0,
-  "ganados": 2903,
+  "capital": 50000.0,
+  "balance_total": 40000.0,
+  "balance_dia": 189.0,
+  "ganados": 2904,
   "perdidos": 1306,
-  "pendientes": 4,
-  "ganados_dia": 4,
+  "pendientes": 3,
+  "ganados_dia": 5,
   "perdidos_dia": 1,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -282,7 +288,7 @@
     "away": "Tanjong Pagar",
     "liga": "Premier League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -383,7 +389,7 @@
     "away": "Tanjong Pagar",
     "liga": "Premier League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -480,9 +486,9 @@
   ],
   "balance": {
    "ganados": 1667,
-   "perdidos": 1075,
+   "perdidos": 1077,
    "acierto": 60.8,
-   "yield": 15.5,
+   "yield": 15.4,
    "cuota_media": 1.9
   }
  },
@@ -780,16 +786,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2967,
-  "ganados": 1993,
+  "n": 2968,
+  "ganados": 1994,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 4,
+  "ganados": 5,
   "perdidos": 1,
-  "en_juego": 4,
-  "win_rate": 80
+  "en_juego": 3,
+  "win_rate": 83
  },
  "stats_banker": {
   "ganados": 94,
