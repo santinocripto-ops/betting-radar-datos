@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T16:38:19.946953+00:00",
+ "actualizado": "2026-09-14T16:45:45.108360+00:00",
  "partidos_vivo": [
   {
    "home": "KAMAZ",
@@ -128,6 +128,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:15",
    "tipo": "live"
   },
@@ -184,12 +190,6 @@
    "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
    "hora": "13:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -265,6 +265,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Hapoel Ramat Gan",
+   "away": "Maccabi Netanya",
+   "liga": "Ligat Ha'al",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
    "home": "HNK Gorica",
    "away": "NK Varazdin",
    "liga": "HNL",
@@ -316,17 +327,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "Santos Laguna",
-   "away": "FC Juarez",
-   "liga": "Liga MX",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
@@ -937,7 +937,7 @@
   "n": 2969,
   "ganados": 1995,
   "win_rate": 67,
-  "hoy": 6
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 6,
