@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T00:00:19.020056+00:00",
+ "actualizado": "2026-09-14T00:06:53.566968+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -153,7 +153,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-13",
    "es_hoy": false
   },
@@ -193,12 +193,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49750.0,
-  "balance_total": 39750.0,
+  "capital": 49811.0,
+  "balance_total": 39811.0,
   "balance_dia": 0.0,
-  "ganados": 2898,
+  "ganados": 2899,
   "perdidos": 1305,
-  "pendientes": 5,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -789,8 +789,8 @@
   }
  ],
  "stats_gt": {
-  "n": 2962,
-  "ganados": 1989,
+  "n": 2963,
+  "ganados": 1990,
   "win_rate": 67,
   "hoy": 0
  },
