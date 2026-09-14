@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-14T17:17:36.191468+00:00",
+ "actualizado": "2026-09-14T17:25:47.947666+00:00",
  "partidos_vivo": [
   {
-   "home": "Shinnik Yaroslavl",
-   "away": "Ural",
-   "liga": "First League",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Bayer Leverkusen W",
+   "away": "Bayern Munich W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.15 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Ingenieros",
+   "away": "Hiska Nacional",
+   "liga": "Nacional B",
+   "minuto": 58,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
