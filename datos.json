@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T15:06:15.898241+00:00",
+ "actualizado": "2026-09-14T15:13:30.940209+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -475,6 +475,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "SC Braga",
+    "away": "Estoril",
+    "liga": "Primeira Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.09,
+    "pinnacle": true,
+    "delta": 3.16,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-14T19:45:00+00:00",
+    "ts": "2026-09-14T15:06:16.181541+00:00"
+   },
+   {
     "home": "Al Wehda Club",
     "away": "Al Okhdood",
     "liga": "Division 1",
@@ -589,8 +604,8 @@
     "cuota": 2.52,
     "pinnacle": true,
     "delta": 3.83,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-14T12:30:00+00:00",
     "ts": "2026-09-14T11:05:16.824945+00:00"
    },
@@ -683,29 +698,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-12T13:30:00+00:00",
     "ts": "2026-09-12T13:15:08.625858+00:00"
-   },
-   {
-    "home": "Guangzhou E-Power",
-    "away": "Dalian Huayi",
-    "liga": "League One",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.1,
-    "pinnacle": false,
-    "delta": 3.51,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T11:30:00+00:00",
-    "ts": "2026-09-12T10:08:43.067302+00:00"
    }
   ],
   "balance": {
    "ganados": 272,
-   "perdidos": 108,
+   "perdidos": 109,
    "pendientes": 8,
-   "acierto": 71.6,
-   "total": 380
+   "acierto": 71.4,
+   "total": 381
   }
  },
  "mejor_dia": {
