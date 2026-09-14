@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-14T10:36:48.477856+00:00",
+ "actualizado": "2026-09-14T10:44:23.167274+00:00",
  "partidos_vivo": [
   {
-   "home": "The Town",
-   "away": "Real Monarchs",
-   "liga": "MLS Next Pro",
-   "minuto": 49,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "United",
+   "away": "Mohun Bagan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.2,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.58 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "East Bengal",
+   "away": "Mohammedan",
+   "liga": "Calcutta Premier Division",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
