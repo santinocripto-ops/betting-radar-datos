@@ -1,248 +1,48 @@
 {
- "actualizado": "2026-09-14T18:42:20.516631+00:00",
+ "actualizado": "2026-09-14T18:49:31.866214+00:00",
  "partidos_vivo": [
   {
-   "home": "Bodo/Glimt",
-   "away": "Sandefjord",
-   "liga": "Eliteserien",
-   "minuto": 63,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Ludogorets",
+   "away": "Septemvri Sofia",
+   "liga": "First League",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 89,
-   "momentum_away": 11,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Sandefjord pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Norrby IF",
-   "away": "Varbergs BoIS FC",
-   "liga": "Superettan",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 72,
-   "momentum_away": 28,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "🎯 20 remates totales — partido muy intenso",
+    "⚽ 1 gol — Septemvri Sofia buscará el empate",
+    "🎯 14 remates totales",
     "🎯 8 remates a puerta — peligro constante"
    ]
   },
   {
-   "home": "Orebro SK",
-   "away": "United Nordic",
-   "liga": "Superettan",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 22 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Ostersunds FK",
-   "away": "Helsingborg",
-   "liga": "Superettan",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🚩 9 córners"
-   ]
-  },
-  {
-   "home": "Dinamo Tbilisi",
-   "away": "Gagra",
-   "liga": "Erovnuli Liga",
-   "minuto": 59,
-   "marcador": "3-0",
+   "home": "Maccabi Tel Aviv",
+   "away": "Hapoel Tel Aviv",
+   "liga": "Ligat Ha'al",
+   "minuto": 53,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.1,
    "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Gagra pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "FC Midtjylland",
-   "away": "Brondby",
-   "liga": "Superliga",
-   "minuto": 60,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Brondby pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Radomiak Radom",
-   "away": "Piast Gliwice",
-   "liga": "Ekstraklasa",
-   "minuto": 59,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚽ 1 gol — Radomiak Radom buscará el empate",
-    "🎯 26 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Ironi Kiryat Shmona",
-   "away": "Maccabi Haifa",
-   "liga": "Ligat Ha'al",
-   "minuto": 62,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
+   "momentum_home": 57,
+   "momentum_away": 43,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga goleadora: 2.95 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Ironi Kiryat Shmona pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Ceramica Cleopatra",
-   "away": "National Bank of Egypt",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.1,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — National Bank of Egypt buscará el empate",
-    "🎯 12 remates totales",
-    "⏱ 33 minutos por jugar — tiempo suficiente"
-   ]
-  },
-  {
-   "home": "Kayserispor",
-   "away": "İstanbulspor",
-   "liga": "1. Lig",
-   "minuto": 62,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.8,
-   "recomendar": true,
-   "momentum_home": 89,
-   "momentum_away": 11,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "⚡ İstanbulspor pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Viking II",
-   "away": "Varhaug",
-   "liga": "3. Division - Girone 4",
-   "minuto": 63,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Skedsmo",
-   "away": "Lillestrøm II",
-   "liga": "3. Division - Girone 5",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🎯 12 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 21,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -985,6 +785,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Rennes: Ugo Blanchet vs Billy Harris",
+   "apuesta": "SI, Rennes: Ugo Blanchet ganara",
+   "usdc": 53477,
+   "prob": 65.0,
+   "n_traders": 1,
+   "trader": "RN1",
+   "hora": "20:48"
+  },
+  {
    "titulo": "Will Como 1907 win on 2026-09-14?",
    "apuesta": "NO, Como 1907 no ganara",
    "usdc": 115029,
@@ -1045,15 +854,6 @@
    "prob": 47.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
-   "hora": "12:57"
-  },
-  {
-   "titulo": "Broncos vs. Chiefs: O/U 43.5",
-   "apuesta": "SI, mas de 43.5 goles",
-   "usdc": 183576,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
    "hora": "12:57"
   }
  ],
