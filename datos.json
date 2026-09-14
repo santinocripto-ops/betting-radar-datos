@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T05:08:13.821902+00:00",
+ "actualizado": "2026-09-14T05:15:23.439412+00:00",
  "partidos_vivo": [
   {
    "home": "The Town",
@@ -451,15 +451,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Santos Laguna",
-   "away": "FC Juarez",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
