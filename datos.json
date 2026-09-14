@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T12:55:27.815739+00:00",
+ "actualizado": "2026-09-14T13:05:09.029939+00:00",
  "partidos_vivo": [
   {
    "home": "Shan United",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ KAMAZ vs Chelyabinsk · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.24 (3 ca",
+   "hora": "15:05",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -77,6 +89,15 @@
  "picks_recientes": [],
  "bankers": [
   {
+   "home": "KAMAZ",
+   "away": "Chelyabinsk",
+   "liga": "First League",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.24,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14"
+  },
+  {
    "home": "Al Wehda Club",
    "away": "Al Okhdood",
    "liga": "Division 1",
@@ -113,7 +134,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1365
+   "n_historico": 1366
   },
   {
    "clave": "btts",
@@ -127,7 +148,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1375
+   "n_historico": 1376
   }
  ],
  "gol_temprano": [
@@ -226,7 +247,7 @@
     "away": "Luki-Energiya",
     "liga": "Second League - Group 2",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -363,7 +384,7 @@
     "away": "Luki-Energiya",
     "liga": "Second League - Group 2",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -442,9 +463,9 @@
   ],
   "balance": {
    "ganados": 1667,
-   "perdidos": 1073,
+   "perdidos": 1075,
    "acierto": 60.8,
-   "yield": 15.6,
+   "yield": 15.5,
    "cuota_media": 1.9
   }
  },
@@ -756,7 +777,7 @@
  "stats_banker": {
   "ganados": 94,
   "perdidos": 37,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
