@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T19:25:12.263803+00:00",
+ "actualizado": "2026-09-14T19:25:17.219894+00:00",
  "partidos_vivo": [
   {
    "home": "FCSB",
@@ -186,6 +186,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Villarreal",
+   "away": "Real Betis",
+   "liga": "La Liga",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
    "home": "Dundalk",
    "away": "St Patrick's Athl.",
    "liga": "Premier Division",
@@ -237,17 +248,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "Como",
-   "away": "Parma",
-   "liga": "Serie A",
-   "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
@@ -874,7 +874,7 @@
   "n": 2975,
   "ganados": 1998,
   "win_rate": 67,
-  "hoy": 13
+  "hoy": 14
  },
  "stats_dia": {
   "ganados": 13,
