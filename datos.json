@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T18:23:28.060661+00:00",
+ "actualizado": "2026-09-14T18:29:40.053708+00:00",
  "partidos_vivo": [
   {
    "home": "Bodo/Glimt",
@@ -984,6 +984,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Como 1907 win on 2026-09-14?",
+   "apuesta": "NO, Como 1907 no ganara",
+   "usdc": 115029,
+   "prob": 11.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "20:29"
+  },
   {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
