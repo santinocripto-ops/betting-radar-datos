@@ -1,9 +1,76 @@
 {
- "actualizado": "2026-09-14T01:06:31.629159+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-14T01:14:08.431497+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Columbus Crew II",
+   "away": "New England II",
+   "liga": "MLS Next Pro",
+   "minuto": 64,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.2,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Sporting KC II",
+   "away": "Los Angeles FC II",
+   "liga": "MLS Next Pro",
+   "minuto": 50,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.2,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Real Tomayapo",
+   "away": "Bolívar",
+   "liga": "Primera División",
+   "minuto": 55,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Real Tomayapo buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "──────────────────────────────",
@@ -69,12 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,70 +186,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Portland Thorns W",
-   "away": "Chicago Red Stars W",
-   "liga": "NWSL Women",
-   "minuto": 13,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": false
-  },
-  {
-   "home": "Vancouver Whitecaps",
-   "away": "Austin",
-   "liga": "Major League Soccer",
-   "minuto": 25,
-   "score": 9.9,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": false
-  },
-  {
-   "home": "Chicago Fire",
-   "away": "New England Revolution",
-   "liga": "Major League Soccer",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": false
-  },
-  {
-   "home": "Flamengo",
-   "away": "Corinthians",
-   "liga": "Serie A",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-13",
-   "es_hoy": false
-  },
-  {
-   "home": "Real Sociedad",
-   "away": "Atletico Madrid",
-   "liga": "La Liga",
-   "minuto": 21,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-13",
-   "es_hoy": false
-  },
-  {
-   "home": "York United",
-   "away": "Vancouver FC",
-   "liga": "Canadian Premier League",
+   "home": "Santos Laguna",
+   "away": "FC Juarez",
+   "liga": "Liga MX",
    "minuto": 11,
-   "score": 9.5,
+   "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-13",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -792,7 +798,7 @@
   "n": 2965,
   "ganados": 1992,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
