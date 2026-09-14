@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T11:05:20.867168+00:00",
+ "actualizado": "2026-09-14T11:05:44.168525+00:00",
  "partidos_vivo": [
   {
    "home": "United",
@@ -46,6 +46,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
+   "hora": "13:05",
+   "tipo": "banker"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:05",
@@ -83,7 +89,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Al Wehda Club",
+   "away": "Al Okhdood",
+   "liga": "Division 1",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -716,7 +732,7 @@
  "stats_banker": {
   "ganados": 94,
   "perdidos": 37,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
