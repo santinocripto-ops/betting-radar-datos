@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T01:20:18.704634+00:00",
+ "actualizado": "2026-09-14T01:26:41.601591+00:00",
  "partidos_vivo": [
   {
    "home": "Columbus Crew II",
@@ -68,6 +68,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:26",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "03:14",
    "tipo": "live"
   },
@@ -130,12 +136,6 @@
    "texto": "──────────────────────────────",
    "hora": "20:37",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -185,6 +185,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "San Diego",
+   "away": "Philadelphia Union",
+   "liga": "Major League Soccer",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
   {
    "home": "Santos Laguna",
    "away": "FC Juarez",
@@ -798,7 +809,7 @@
   "n": 2965,
   "ganados": 1992,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 2,
