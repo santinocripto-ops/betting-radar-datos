@@ -1,13 +1,33 @@
 {
- "actualizado": "2026-09-14T17:45:45.023421+00:00",
+ "actualizado": "2026-09-14T17:52:43.569255+00:00",
  "partidos_vivo": [
   {
-   "home": "Bayer Leverkusen W",
-   "away": "Bayern Munich W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 65,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Como",
+   "away": "Parma",
+   "liga": "Serie A",
+   "minuto": 61,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ 1 gol — Parma buscará el empate"
+   ]
+  },
+  {
+   "home": "Torino",
+   "away": "AS Roma",
+   "liga": "Serie A",
+   "minuto": 61,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -16,29 +36,69 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.15 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 15 remates totales"
+    "⭐ Bonus liga: +1.5 (Serie A)",
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ 1 gol — Torino buscará el empate"
    ]
   },
   {
-   "home": "Ingenieros",
-   "away": "Hiska Nacional",
-   "liga": "Nacional B",
-   "minuto": 58,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Hapoel Haifa",
+   "away": "Bnei Sakhnin",
+   "liga": "Ligat Ha'al",
+   "minuto": 62,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 48,
+   "momentum_away": 52,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 2.95 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Bnei Sakhnin pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Hapoel Ramat Gan",
+   "away": "Maccabi Netanya",
+   "liga": "Ligat Ha'al",
+   "minuto": 61,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.95 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Maccabi Netanya pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Veles",
+   "away": "FC Sochi",
+   "liga": "First League",
+   "minuto": 65,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 31,
+   "momentum_away": 69,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚽ 1 gol — FC Sochi buscará el empate",
+    "🎯 8 remates totales"
    ]
   }
  ],
@@ -258,7 +318,7 @@
   "balance_dia": 250.0,
   "ganados": 2905,
   "perdidos": 1306,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.0,
@@ -266,7 +326,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4221,
+  "con_cuota_media": 4222,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -869,7 +929,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 1,
-  "en_juego": 10,
+  "en_juego": 11,
   "win_rate": 86
  },
  "stats_banker": {
