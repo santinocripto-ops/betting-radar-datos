@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T20:01:40.097369+00:00",
+ "actualizado": "2026-09-14T20:09:01.626707+00:00",
  "partidos_vivo": [
   {
    "home": "Waterford",
@@ -878,6 +878,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Guadalajara Open Akron: Carole Monnet vs Sloane Stephens",
+   "apuesta": "SI, Guadalajara Open Akron: Carole Monnet ganara",
+   "usdc": 147584,
+   "prob": 26.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "22:08"
+  },
+  {
    "titulo": "Will FC Internazionale Milano win on 2026-09-14?",
    "apuesta": "SI, FC Internazionale Milano ganara",
    "usdc": 34134,
@@ -939,15 +948,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "14:16"
-  },
-  {
-   "titulo": "LoL: Dplus KIA Challengers vs KT Rolster Challengers (BO5) - LCK Chall",
-   "apuesta": "SI, LoL: Dplus KIA Challengers ganara",
-   "usdc": 17480,
-   "prob": 18.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "13:25"
   }
  ],
  "stats_gt": {
