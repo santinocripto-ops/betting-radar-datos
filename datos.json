@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-14T02:32:13.944036+00:00",
+ "actualizado": "2026-09-14T02:39:13.056565+00:00",
  "partidos_vivo": [
   {
-   "home": "Santos Laguna",
-   "away": "FC Juarez",
-   "liga": "Liga MX",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "San Diego",
+   "away": "Philadelphia Union",
+   "liga": "Major League Soccer",
+   "minuto": 62,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 66,
-   "momentum_away": 34,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ San Diego pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Cucuta",
+   "away": "Millonarios",
+   "liga": "Primera A",
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 46,
+   "momentum_away": 54,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.19 goles/partido",
+    "⚽ 1 gol — Cucuta buscará el empate",
+    "🎯 18 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
