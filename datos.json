@@ -1,9 +1,9 @@
 {
- "actualizado": "2026-09-14T16:45:45.108360+00:00",
+ "actualizado": "2026-09-14T16:54:40.176566+00:00",
  "partidos_vivo": [
   {
-   "home": "KAMAZ",
-   "away": "Chelyabinsk",
+   "home": "Shinnik Yaroslavl",
+   "away": "Ural",
    "liga": "First League",
    "minuto": 64,
    "marcador": "0-0",
@@ -11,8 +11,8 @@
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
@@ -20,111 +20,17 @@
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
-  },
-  {
-   "home": "Spartak Kostroma",
-   "away": "FK Neftekhimik",
-   "liga": "First League",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚽ 1 gol — FK Neftekhimik buscará el empate",
-    "⏱ 25 minutos por jugar — margen justo"
-   ]
-  },
-  {
-   "home": "Inter Turku",
-   "away": "VPS",
-   "liga": "Veikkausliiga",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 10 remates totales"
-   ]
-  },
-  {
-   "home": "Universitatea Cluj",
-   "away": "Oţelul",
-   "liga": "Liga I",
-   "minuto": 62,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 1 gol — Oţelul buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Fauske Sprint",
-   "away": "Strømsgodset II",
-   "liga": "3. Division - Girone 5",
-   "minuto": 49,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Johvi Phoenix",
-   "away": "Tallinna Kalev II",
-   "liga": "Esiliiga B",
-   "minuto": 65,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:54",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -190,12 +96,6 @@
    "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
    "hora": "13:05",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -265,6 +165,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Como",
+   "away": "Parma",
+   "liga": "Serie A",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
    "home": "Hapoel Ramat Gan",
    "away": "Maccabi Netanya",
    "liga": "Ligat Ha'al",
@@ -318,17 +229,6 @@
    "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
-  },
-  {
-   "home": "San Diego",
-   "away": "Philadelphia Union",
-   "liga": "Major League Soccer",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-14",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -338,7 +238,7 @@
   "balance_dia": 250.0,
   "ganados": 2905,
   "perdidos": 1306,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.0,
@@ -346,7 +246,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4216,
+  "con_cuota_media": 4217,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -937,12 +837,12 @@
   "n": 2969,
   "ganados": 1995,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 6,
   "perdidos": 1,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 86
  },
  "stats_banker": {
