@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T18:55:55.071649+00:00",
+ "actualizado": "2026-09-14T19:03:28.094613+00:00",
  "partidos_vivo": [
   {
    "home": "Ludogorets",
@@ -131,9 +131,9 @@
    "cuota": 1.75,
    "score": 8.47,
    "hora": "17:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 246
+   "n_historico": 248
   },
   {
    "clave": "over25",
@@ -147,7 +147,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1379
+   "n_historico": 1383
   },
   {
    "clave": "btts",
@@ -205,7 +205,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   },
@@ -216,7 +216,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-14",
    "es_hoy": true
   },
@@ -227,27 +227,27 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49951.0,
-  "balance_total": 39951.0,
-  "balance_dia": 140.0,
-  "ganados": 2907,
-  "perdidos": 1308,
-  "pendientes": 9,
-  "ganados_dia": 8,
-  "perdidos_dia": 3,
+  "capital": 49934.0,
+  "balance_total": 39934.0,
+  "balance_dia": 123.0,
+  "ganados": 2910,
+  "perdidos": 1310,
+  "pendientes": 5,
+  "ganados_dia": 11,
+  "perdidos_dia": 5,
   "win_rate": 69.0,
   "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4224,
+  "con_cuota_media": 4225,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -508,10 +508,10 @@
    }
   ],
   "balance": {
-   "ganados": 1686,
+   "ganados": 1690,
    "perdidos": 1083,
    "acierto": 60.9,
-   "yield": 15.7,
+   "yield": 15.8,
    "cuota_media": 1.9
   }
  },
@@ -521,7 +521,7 @@
    "away": "Fenerbahçe",
    "liga": "Süper Lig",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "HNK Gorica",
@@ -785,6 +785,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Internazionale Milano win on 2026-09-14?",
+   "apuesta": "SI, FC Internazionale Milano ganara",
+   "usdc": 34134,
+   "prob": 62.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:02"
+  },
+  {
    "titulo": "Rennes: Ugo Blanchet vs Billy Harris",
    "apuesta": "SI, Rennes: Ugo Blanchet ganara",
    "usdc": 53477,
@@ -846,28 +855,19 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "13:25"
-  },
-  {
-   "titulo": "Broncos vs. Chiefs: O/U 43.5",
-   "apuesta": "SI, mas de 43.5 goles",
-   "usdc": 118729,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "12:57"
   }
  ],
  "stats_gt": {
-  "n": 2971,
-  "ganados": 1995,
+  "n": 2975,
+  "ganados": 1998,
   "win_rate": 67,
   "hoy": 13
  },
  "stats_dia": {
-  "ganados": 10,
-  "perdidos": 3,
-  "en_juego": 7,
-  "win_rate": 77
+  "ganados": 13,
+  "perdidos": 5,
+  "en_juego": 3,
+  "win_rate": 72
  },
  "stats_banker": {
   "ganados": 96,
