@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-14T03:05:52.545056+00:00",
+ "actualizado": "2026-09-14T03:13:44.524067+00:00",
  "partidos_vivo": [
   {
-   "home": "San Diego",
-   "away": "Philadelphia Union",
-   "liga": "Major League Soccer",
-   "minuto": 62,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Ventura County",
+   "away": "Tacoma Defiance",
+   "liga": "MLS Next Pro",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.2,
    "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ San Diego pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Cucuta",
-   "away": "Millonarios",
-   "liga": "Primera A",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.8,
-   "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.19 goles/partido",
-    "⚽ 1 gol — Cucuta buscará el empate",
-    "🎯 18 remates totales"
+    "⭐ Bonus liga: +0.2 (MLS)",
+    "⚽ Liga muy goleadora: 3.58 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
