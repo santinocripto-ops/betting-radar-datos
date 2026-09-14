@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T18:49:31.866214+00:00",
+ "actualizado": "2026-09-14T18:55:55.071649+00:00",
  "partidos_vivo": [
   {
    "home": "Ludogorets",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:55",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,12 +116,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:07",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:22",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Dundalk",
+   "away": "St Patrick's Athl.",
+   "liga": "Premier Division",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
    "home": "Jong PSV U21",
    "away": "Jong AZ",
    "liga": "Eerste Divisie",
@@ -214,17 +225,6 @@
    "away": "Parma",
    "liga": "Serie A",
    "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "Hapoel Ramat Gan",
-   "away": "Maccabi Netanya",
-   "liga": "Ligat Ha'al",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -861,7 +861,7 @@
   "n": 2971,
   "ganados": 1995,
   "win_rate": 67,
-  "hoy": 12
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 10,
