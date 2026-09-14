@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T00:59:50.789149+00:00",
+ "actualizado": "2026-09-14T01:06:31.629159+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -92,7 +92,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 82,
-   "n_historico": 239
+   "n_historico": 240
   },
   {
    "clave": "over25",
@@ -106,7 +106,7 @@
    "hora": "00:00",
    "resultado": "pendiente",
    "wr_historico": 63,
-   "n_historico": 1359
+   "n_historico": 1360
   },
   {
    "clave": "btts",
@@ -131,7 +131,7 @@
    "minuto": 13,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-13",
    "es_hoy": false
   },
@@ -142,7 +142,7 @@
    "minuto": 25,
    "score": 9.9,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-13",
    "es_hoy": false
   },
@@ -193,13 +193,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 49811.0,
-  "balance_total": 39811.0,
-  "balance_dia": 0.0,
-  "ganados": 2899,
+  "capital": 49933.0,
+  "balance_total": 39933.0,
+  "balance_dia": 122.0,
+  "ganados": 2901,
   "perdidos": 1305,
-  "pendientes": 4,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -467,9 +467,9 @@
    }
   ],
   "balance": {
-   "ganados": 1659,
+   "ganados": 1660,
    "perdidos": 1068,
-   "acierto": 60.8,
+   "acierto": 60.9,
    "yield": 15.6,
    "cuota_media": 1.9
   }
@@ -789,16 +789,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2963,
-  "ganados": 1990,
+  "n": 2965,
+  "ganados": 1992,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 2,
   "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 94,
