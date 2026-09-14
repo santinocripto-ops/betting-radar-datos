@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-14T17:02:27.108867+00:00",
+ "actualizado": "2026-09-14T17:10:10.074119+00:00",
  "partidos_vivo": [
   {
    "home": "Shinnik Yaroslavl",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,18 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Al Wehda Club vs Al Okhdood · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (6 casas)",
-   "hora": "13:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -165,6 +165,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Kayserispor",
+   "away": "İstanbulspor",
+   "liga": "1. Lig",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
+   "home": "Gaziantep FK",
+   "away": "Fenerbahçe",
+   "liga": "Süper Lig",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-14",
+   "es_hoy": true
+  },
+  {
    "home": "Como",
    "away": "Parma",
    "liga": "Serie A",
@@ -205,28 +227,6 @@
    "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "Sheffield United U21",
-   "away": "Cardiff City U21",
-   "liga": "Professional Development League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-14",
-   "es_hoy": true
-  },
-  {
-   "home": "Geylang International",
-   "away": "Tanjong Pagar",
-   "liga": "Premier League",
-   "minuto": 17,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-14",
    "es_hoy": true
   }
@@ -837,7 +837,7 @@
   "n": 2969,
   "ganados": 1995,
   "win_rate": 67,
-  "hoy": 8
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 6,
