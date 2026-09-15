@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T10:50:56.327293+00:00",
+ "actualizado": "2026-09-15T10:59:38.889777+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -600,6 +600,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca",
+   "apuesta": "SI, Valencia: Alicia Herrero Linana ganara",
+   "usdc": 16392,
+   "prob": 44.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:59"
+  },
   {
    "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
    "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
