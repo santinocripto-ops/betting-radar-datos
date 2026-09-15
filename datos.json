@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-15T16:27:30.429317+00:00",
+ "actualizado": "2026-09-15T16:36:15.289393+00:00",
  "partidos_vivo": [
   {
-   "home": "Vlašim",
-   "away": "Slovan Liberec",
-   "liga": "Cup",
-   "minuto": 53,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Levadia U19",
+   "away": "Tulevik",
+   "liga": "Esiliiga B",
+   "minuto": 48,
+   "marcador": "2-4",
+   "apuesta": "Over 6.5",
    "cuota": null,
-   "score": 7.4,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 6 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Lokomotiv G. Oryahovitsa",
+   "away": "Nesebar",
+   "liga": "Second League",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
