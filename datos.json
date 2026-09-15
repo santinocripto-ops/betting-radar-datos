@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T09:22:14.714034+00:00",
+ "actualizado": "2026-09-15T09:31:54.089075+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 0,
  "umbral_vivo": 7.0,
@@ -13,31 +13,604 @@
  ],
  "picks_recientes": [],
  "bankers": [],
- "mejores_dia": [],
- "gol_temprano": [],
- "banca": {},
- "pagina2": {},
+ "mejores_dia": [
+  {
+   "clave": "over15",
+   "etiqueta": "Over 1.5 Goles",
+   "confianza": "alta",
+   "home": "Ajax",
+   "away": "Willem II",
+   "liga": "Eredivisie",
+   "cuota": 1.73,
+   "score": 9.05,
+   "hora": "18:00",
+   "resultado": "pendiente",
+   "wr_historico": 83,
+   "n_historico": 250
+  },
+  {
+   "clave": "over25",
+   "etiqueta": "Over 2.5 Goles",
+   "confianza": "alta",
+   "home": "Toluca W",
+   "away": "Tijuana W",
+   "liga": "Liga MX Femenil",
+   "cuota": 4.33,
+   "score": 10,
+   "hora": "00:00",
+   "resultado": "pendiente",
+   "wr_historico": 63,
+   "n_historico": 1384
+  },
+  {
+   "clave": "btts",
+   "etiqueta": "Ambos Marcan",
+   "confianza": "alta",
+   "home": "Toluca W",
+   "away": "Tijuana W",
+   "liga": "Liga MX Femenil",
+   "cuota": 1.57,
+   "score": 10,
+   "hora": "00:00",
+   "resultado": "pendiente",
+   "wr_historico": 58,
+   "n_historico": 1394
+  }
+ ],
+ "gol_temprano": [
+  {
+   "home": "Tensung",
+   "away": "Bhutan U19",
+   "liga": "Premier League",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  }
+ ],
+ "banca": {
+  "capital_inicial": 10000.0,
+  "capital": 50178.0,
+  "balance_total": 40178.0,
+  "balance_dia": 0.0,
+  "ganados": 2914,
+  "perdidos": 1310,
+  "pendientes": 4,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
+  "win_rate": 69.0,
+  "roi": 9.5,
+  "stake": 100.0,
+  "cuota_fija": 1.61,
+  "con_cuota_real": 0,
+  "con_cuota_media": 4228,
+  "pct_cuota_real": 0.0
+ },
+ "pagina2": {
+  "btts": [
+   {
+    "home": "Toluca W",
+    "away": "Tijuana W",
+    "liga": "Liga MX Femenil",
+    "hora": "02:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Pachuca W",
+    "away": "León W",
+    "liga": "Liga MX Femenil",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "SSU Poli Timişoara W",
+    "away": "Olimpia Cluj W",
+    "liga": "Liga 1 Feminin",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Kashima",
+    "away": "Newcastle Jets",
+    "liga": "AFC Champions League Elite",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Chiangmai United",
+    "away": "Khon Kaen United",
+    "liga": "Thai League 2",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Police Tero",
+    "away": "Songkhla",
+    "liga": "Thai League 2",
+    "hora": "13:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Tensung",
+    "away": "Bhutan U19",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Mika",
+    "away": "Banants II",
+    "liga": "First League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Coventry City U21",
+    "away": "Barnsley U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Peterborough United U21",
+    "away": "Bristol City U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Wigan Athletic U21",
+    "away": "Colchester United U21",
+    "liga": "Professional Development League",
+    "hora": "15:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Narva U21",
+    "away": "Luunja",
+    "liga": "Esiliiga B",
+    "hora": "16:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Levadia U19",
+    "away": "Tulevik",
+    "liga": "Esiliiga B",
+    "hora": "18:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Grasshoppers",
+    "away": "FC Sion",
+    "liga": "Super League",
+    "hora": "19:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   }
+  ],
+  "over25": [
+   {
+    "home": "Toluca W",
+    "away": "Tijuana W",
+    "liga": "Liga MX Femenil",
+    "hora": "02:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Pachuca W",
+    "away": "León W",
+    "liga": "Liga MX Femenil",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Vaqueros Reynosa",
+    "away": "Héroes de Zaci",
+    "liga": "Liga Premier Serie A",
+    "hora": "04:05",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Tensung",
+    "away": "Bhutan U19",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "SSU Poli Timişoara W",
+    "away": "Olimpia Cluj W",
+    "liga": "Liga 1 Feminin",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Chiangmai United",
+    "away": "Khon Kaen United",
+    "liga": "Thai League 2",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Police Tero",
+    "away": "Songkhla",
+    "liga": "Thai League 2",
+    "hora": "13:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Mika",
+    "away": "Banants II",
+    "liga": "First League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Coventry City U21",
+    "away": "Barnsley U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Peterborough United U21",
+    "away": "Bristol City U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Wigan Athletic U21",
+    "away": "Colchester United U21",
+    "liga": "Professional Development League",
+    "hora": "15:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Veľké Ludince",
+    "away": "Dunajska Streda",
+    "liga": "Cup",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Narva U21",
+    "away": "Luunja",
+    "liga": "Esiliiga B",
+    "hora": "16:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Levadia U19",
+    "away": "Tulevik",
+    "liga": "Esiliiga B",
+    "hora": "18:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
+  "balance": {
+   "ganados": 1693,
+   "perdidos": 1085,
+   "acierto": 60.9,
+   "yield": 15.8,
+   "cuota_media": 1.9
+  }
+ },
  "reentradas": [],
- "pagina_smart": {},
- "mejor_dia": {},
+ "pagina_smart": {
+  "picks": [
+   {
+    "home": "CSM Reşiţa",
+    "away": "FC Bacau",
+    "liga": "Liga II",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.83,
+    "pinnacle": false,
+    "delta": 4.37,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-15T14:00:00+00:00",
+    "ts": "2026-09-14T18:07:31.585578+00:00"
+   },
+   {
+    "home": "SC Braga",
+    "away": "Estoril",
+    "liga": "Primeira Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.09,
+    "pinnacle": true,
+    "delta": 3.16,
+    "marcador": "1-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T19:45:00+00:00",
+    "ts": "2026-09-14T15:06:16.181541+00:00"
+   },
+   {
+    "home": "Al Wehda Club",
+    "away": "Al Okhdood",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 7,
+    "cuota": 1.31,
+    "pinnacle": true,
+    "delta": 4.29,
+    "marcador": "4-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.011695+00:00"
+   },
+   {
+    "home": "Al Wehda Club",
+    "away": "Al Okhdood",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 4,
+    "cuota": 1.31,
+    "pinnacle": false,
+    "delta": 3.84,
+    "marcador": "4-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.229911+00:00"
+   },
+   {
+    "home": "Al Ula",
+    "away": "Jeddah Club",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.03,
+    "pinnacle": true,
+    "delta": 4.24,
+    "marcador": "3-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:20.791656+00:00"
+   },
+   {
+    "home": "Al Ula",
+    "away": "Jeddah Club",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.19,
+    "pinnacle": true,
+    "delta": 3.87,
+    "marcador": "3-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T16:05:00+00:00",
+    "ts": "2026-09-14T11:05:24.041372+00:00"
+   },
+   {
+    "home": "Al Bukayriyah",
+    "away": "Damac",
+    "liga": "Division 1",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.7,
+    "pinnacle": true,
+    "delta": 4.77,
+    "marcador": "1-2",
+    "resultado": "perdido",
+    "kickoff": "2026-09-14T15:50:00+00:00",
+    "ts": "2026-09-14T11:05:19.119985+00:00"
+   },
+   {
+    "home": "KAMAZ",
+    "away": "Chelyabinsk",
+    "liga": "First League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 7.47,
+    "marcador": "1-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T15:00:00+00:00",
+    "ts": "2026-09-14T13:04:45.290717+00:00"
+   },
+   {
+    "home": "Universitatea Cluj",
+    "away": "Oţelul",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.16,
+    "pinnacle": true,
+    "delta": 6.09,
+    "marcador": "3-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-14T15:00:00+00:00",
+    "ts": "2026-09-14T14:05:03.894102+00:00"
+   },
+   {
+    "home": "Dynamo Kyiv",
+    "away": "Epitsentr Dunayivtsi",
+    "liga": "Premier League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 2.52,
+    "pinnacle": true,
+    "delta": 3.83,
+    "marcador": "3-0",
+    "resultado": "perdido",
+    "kickoff": "2026-09-14T12:30:00+00:00",
+    "ts": "2026-09-14T11:05:16.824945+00:00"
+   },
+   {
+    "home": "Corvinul Hunedoara",
+    "away": "Universitatea Craiova",
+    "liga": "Liga I",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 5.11,
+    "marcador": "0-1",
+    "resultado": "ganado",
+    "kickoff": "2026-09-13T17:30:00+00:00",
+    "ts": "2026-09-13T17:07:39.495800+00:00"
+   },
+   {
+    "home": "Amarante",
+    "away": "União de Leiria",
+    "liga": "Segunda Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.36,
+    "pinnacle": true,
+    "delta": 4.71,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-13T14:30:00+00:00",
+    "ts": "2026-09-13T13:06:39.914769+00:00"
+   },
+   {
+    "home": "Hebei Kungfu",
+    "away": "Shenzhen Juniors",
+    "liga": "League One",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.3,
+    "pinnacle": true,
+    "delta": 3.77,
+    "marcador": "0-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-13T11:30:00+00:00",
+    "ts": "2026-09-13T11:05:30.804981+00:00"
+   },
+   {
+    "home": "Venados FC",
+    "away": "Tepatitlán",
+    "liga": "Liga de Expansión MX",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 3.7,
+    "marcador": "5-0",
+    "resultado": "ganado",
+    "kickoff": "2026-09-12T23:00:00+00:00",
+    "ts": "2026-09-12T21:06:17.469577+00:00"
+   },
+   {
+    "home": "Chapecoense-sc",
+    "away": "Internacional",
+    "liga": "Serie A",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 1.29,
+    "pinnacle": true,
+    "delta": 4.54,
+    "marcador": "1-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-12T20:00:00+00:00",
+    "ts": "2026-09-12T19:09:22.899188+00:00"
+   }
+  ],
+  "balance": {
+   "ganados": 279,
+   "perdidos": 110,
+   "pendientes": 1,
+   "acierto": 71.7,
+   "total": 389
+  }
+ },
+ "mejor_dia": {
+  "disponible": false
+ },
  "apuestas_top": [],
  "stats_gt": {
-  "n": 0,
-  "ganados": 0,
-  "win_rate": 0,
-  "hoy": 0
+  "n": 2979,
+  "ganados": 2002,
+  "win_rate": 67,
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
-  "ganados": 0,
-  "perdidos": 0,
+  "ganados": 96,
+  "perdidos": 37,
   "pendientes": 0,
-  "win_rate": 0
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
