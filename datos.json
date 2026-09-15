@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T19:56:16.525776+00:00",
+ "actualizado": "2026-09-15T20:05:02.225670+00:00",
  "partidos_vivo": [
   {
    "home": "Korona Kielce",
@@ -161,9 +161,9 @@
    "cuota": 1.73,
    "score": 9.05,
    "hora": "18:00",
-   "resultado": "pendiente",
-   "wr_historico": 83,
-   "n_historico": 252
+   "resultado": "ganado",
+   "wr_historico": 84,
+   "n_historico": 255
   },
   {
    "clave": "over25",
@@ -177,7 +177,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1402
+   "n_historico": 1405
   },
   {
    "clave": "btts",
@@ -191,7 +191,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1414
+   "n_historico": 1418
   }
  ],
  "gol_temprano": [
@@ -264,13 +264,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50461.0,
-  "balance_total": 40461.0,
-  "balance_dia": 283.0,
-  "ganados": 2929,
+  "capital": 50522.0,
+  "balance_total": 40522.0,
+  "balance_dia": 344.0,
+  "ganados": 2930,
   "perdidos": 1316,
-  "pendientes": 10,
-  "ganados_dia": 15,
+  "pendientes": 9,
+  "ganados_dia": 16,
   "perdidos_dia": 6,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -538,10 +538,10 @@
    }
   ],
   "balance": {
-   "ganados": 1715,
-   "perdidos": 1101,
+   "ganados": 1720,
+   "perdidos": 1103,
    "acierto": 60.9,
-   "yield": 15.7,
+   "yield": 15.8,
    "cuota_media": 1.9
   }
  },
@@ -895,16 +895,16 @@
   }
  ],
  "stats_gt": {
-  "n": 2996,
-  "ganados": 2015,
+  "n": 2997,
+  "ganados": 2016,
   "win_rate": 67,
   "hoy": 24
  },
  "stats_dia": {
-  "ganados": 15,
+  "ganados": 16,
   "perdidos": 7,
-  "en_juego": 9,
-  "win_rate": 68
+  "en_juego": 8,
+  "win_rate": 70
  },
  "stats_banker": {
   "ganados": 96,
