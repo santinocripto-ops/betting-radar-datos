@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T09:31:54.089075+00:00",
+ "actualizado": "2026-09-15T09:40:39.728294+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 0,
  "umbral_vivo": 7.0,
@@ -593,7 +593,17 @@
  "mejor_dia": {
   "disponible": false
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Guangzhou: Luca Castelnuovo vs Omar Jasika",
+   "apuesta": "SI, Guangzhou: Luca Castelnuovo ganara",
+   "usdc": 56555,
+   "prob": 99.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "11:40"
+  }
+ ],
  "stats_gt": {
   "n": 2979,
   "ganados": 2002,
