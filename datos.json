@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-15T10:25:37.456321+00:00",
- "partidos_vivo": [
-  {
-   "home": "Tensung",
-   "away": "Bhutan U19",
-   "liga": "Premier League",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tensung buscará el empate"
-   ]
-  }
- ],
+ "actualizado": "2026-09-15T10:34:16.935830+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
