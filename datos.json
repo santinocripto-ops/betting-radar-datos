@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T20:31:37.131554+00:00",
+ "actualizado": "2026-09-15T20:39:26.555350+00:00",
  "partidos_vivo": [
   {
    "home": "Real Oruro",
@@ -619,13 +619,6 @@
    "liga": "Regionalliga - Bayern",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Casertana",
-   "away": "Team Altamura",
-   "liga": "Serie C - Girone C",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
