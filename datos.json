@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T16:36:15.289393+00:00",
+ "actualizado": "2026-09-15T16:44:14.638008+00:00",
  "partidos_vivo": [
   {
    "home": "Levadia U19",
@@ -773,6 +773,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Szczecin: Tiago Pereira vs Filip Pieczonka",
+   "apuesta": "SI, Szczecin: Tiago Pereira ganara",
+   "usdc": 22037,
+   "prob": 66.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:44"
+  },
+  {
    "titulo": "Szczecin: Facundo Acosta vs Daniel Galan",
    "apuesta": "SI, Szczecin: Facundo Acosta ganara",
    "usdc": 111190,
@@ -834,15 +843,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "14:11"
-  },
-  {
-   "titulo": "Valencia: Alicia Herrero Linana vs Lucia Cortez Llorca",
-   "apuesta": "SI, Valencia: Alicia Herrero Linana ganara",
-   "usdc": 16392,
-   "prob": 44.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:59"
   }
  ],
  "stats_gt": {
