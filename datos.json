@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T14:51:27.063509+00:00",
+ "actualizado": "2026-09-15T14:59:40.880187+00:00",
  "partidos_vivo": [
   {
    "home": "Veľké Ludince",
@@ -683,6 +683,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Real Madrid CF win on 2026-09-15?",
+   "apuesta": "NO, Real Madrid no ganara",
+   "usdc": 93393,
+   "prob": 18.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "16:59"
+  },
   {
    "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
    "apuesta": "NO — Will United Russia (ER) gain the most seats in the next Russ",
