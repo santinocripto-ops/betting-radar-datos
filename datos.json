@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T21:48:22.756244+00:00",
+ "actualizado": "2026-09-15T21:56:17.262657+00:00",
  "partidos_vivo": [
   {
    "home": "Elche",
@@ -258,7 +258,7 @@
   "balance_dia": 649.0,
   "ganados": 2935,
   "perdidos": 1316,
-  "pendientes": 4,
+  "pendientes": 5,
   "ganados_dia": 21,
   "perdidos_dia": 6,
   "win_rate": 69.0,
@@ -266,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4255,
+  "con_cuota_media": 4256,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -863,7 +863,7 @@
  "stats_dia": {
   "ganados": 21,
   "perdidos": 7,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 75
  },
  "stats_banker": {
