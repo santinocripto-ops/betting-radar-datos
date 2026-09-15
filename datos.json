@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T13:05:57.792899+00:00",
+ "actualizado": "2026-09-15T13:14:40.427065+00:00",
  "partidos_vivo": [
   {
    "home": "Coventry City U21",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Al Orubah vs Al Jeel · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (6 casas)",
@@ -113,6 +119,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Wigan Athletic U21",
+   "away": "Colchester United U21",
+   "liga": "Professional Development League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
   {
    "home": "Peterborough United U21",
    "away": "Bristol City U21",
@@ -423,6 +440,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Al Orubah",
+    "away": "Al Jeel",
+    "liga": "Division 1",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.34,
+    "pinnacle": true,
+    "delta": 4.2,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-15T16:05:00+00:00",
+    "ts": "2026-09-15T13:05:43.173403+00:00"
+   },
+   {
     "home": "CSM Reşiţa",
     "away": "FC Bacau",
     "liga": "Liga II",
@@ -436,6 +468,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-15T14:00:00+00:00",
     "ts": "2026-09-14T18:07:31.585578+00:00"
+   },
+   {
+    "home": "CSM Reşiţa",
+    "away": "FC Bacau",
+    "liga": "Liga II",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 6.97,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-15T14:00:00+00:00",
+    "ts": "2026-09-15T13:05:42.023326+00:00"
    },
    {
     "home": "SC Braga",
@@ -616,42 +663,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-13T11:30:00+00:00",
     "ts": "2026-09-13T11:05:30.804981+00:00"
-   },
-   {
-    "home": "Venados FC",
-    "away": "Tepatitlán",
-    "liga": "Liga de Expansión MX",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.15,
-    "pinnacle": true,
-    "delta": 3.7,
-    "marcador": "5-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T23:00:00+00:00",
-    "ts": "2026-09-12T21:06:17.469577+00:00"
-   },
-   {
-    "home": "Chapecoense-sc",
-    "away": "Internacional",
-    "liga": "Serie A",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 8,
-    "cuota": 1.29,
-    "pinnacle": true,
-    "delta": 4.54,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-12T20:00:00+00:00",
-    "ts": "2026-09-12T19:09:22.899188+00:00"
    }
   ],
   "balance": {
    "ganados": 279,
    "perdidos": 110,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 71.7,
    "total": 389
   }
@@ -707,12 +724,12 @@
   "n": 2981,
   "ganados": 2004,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
