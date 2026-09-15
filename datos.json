@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-15T23:09:11.181689+00:00",
- "partidos_vivo": [
-  {
-   "home": "ABB",
-   "away": "The Strongest",
-   "liga": "Primera División",
-   "minuto": 53,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 45,
-   "momentum_away": 55,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 19 remates totales"
-   ]
-  }
- ],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-15T23:17:57.934987+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
