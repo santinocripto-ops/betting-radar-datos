@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T16:19:04.211013+00:00",
+ "actualizado": "2026-09-15T16:27:30.429317+00:00",
  "partidos_vivo": [
   {
    "home": "Vlašim",
@@ -229,7 +229,7 @@
   "balance_dia": 244.0,
   "ganados": 2918,
   "perdidos": 1310,
-  "pendientes": 5,
+  "pendientes": 6,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -237,7 +237,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4233,
+  "con_cuota_media": 4234,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -753,6 +753,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Szczecin: Facundo Acosta vs Daniel Galan",
+   "apuesta": "SI, Szczecin: Facundo Acosta ganara",
+   "usdc": 111190,
+   "prob": 81.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:27"
+  },
+  {
    "titulo": "Will Genoa CFC win on 2026-09-15?",
    "apuesta": "SI, Genoa CFC ganara",
    "usdc": 24348,
@@ -814,15 +823,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:59"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
-   "usdc": 108063,
-   "prob": 12.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "11:49"
   }
  ],
  "stats_gt": {
@@ -834,7 +834,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 100
  },
  "stats_banker": {
