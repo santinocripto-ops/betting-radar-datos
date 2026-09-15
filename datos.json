@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T21:26:40.590655+00:00",
+ "actualizado": "2026-09-15T21:48:22.756244+00:00",
  "partidos_vivo": [
   {
    "home": "Elche",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "23:48",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Nautico Recife vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.3 (7 casas)",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:56",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:13",
    "tipo": "live"
   }
  ],
@@ -185,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "ABB",
+   "away": "The Strongest",
+   "liga": "Primera División",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
+  {
    "home": "Elche",
    "away": "Real Madrid",
    "liga": "La Liga",
@@ -234,17 +245,6 @@
    "liga": "League Cup",
    "minuto": 10,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": true
-  },
-  {
-   "home": "The New Saints",
-   "away": "Flint Town United",
-   "liga": "Premier League",
-   "minuto": 11,
-   "score": 9.8,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-15",
@@ -858,7 +858,7 @@
   "n": 3002,
   "ganados": 2021,
   "win_rate": 67,
-  "hoy": 24
+  "hoy": 25
  },
  "stats_dia": {
   "ganados": 21,
