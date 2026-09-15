@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-15T14:25:57.904484+00:00",
+ "actualizado": "2026-09-15T14:34:44.056439+00:00",
  "partidos_vivo": [
   {
-   "home": "Wigan Athletic U21",
-   "away": "Colchester United U21",
-   "liga": "Professional Development League",
-   "minuto": 49,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "home": "Veľké Ludince",
+   "away": "Dunajska Streda",
+   "liga": "Cup",
+   "minuto": 47,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.7 goles/partido",
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
