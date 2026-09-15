@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T18:39:46.739669+00:00",
+ "actualizado": "2026-09-15T18:48:15.315420+00:00",
  "partidos_vivo": [
   {
    "home": "Al Ahly",
@@ -782,6 +782,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Liverpool FC win on 2026-09-15?",
+   "apuesta": "NO, Liverpool no ganara",
+   "usdc": 91769,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "20:48"
+  },
+  {
    "titulo": "Will Valencia CF win on 2026-09-15?",
    "apuesta": "SI, Valencia ganara",
    "usdc": 105360,
@@ -843,15 +852,6 @@
    "n_traders": 4,
    "trader": "RN1",
    "hora": "17:34"
-  },
-  {
-   "titulo": "Will Real Madrid CF win on 2026-09-15?",
-   "apuesta": "NO, Real Madrid no ganara",
-   "usdc": 93393,
-   "prob": 18.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "16:59"
   }
  ],
  "stats_gt": {
