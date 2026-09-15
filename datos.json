@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T18:14:00.292482+00:00",
+ "actualizado": "2026-09-15T18:22:51.549655+00:00",
  "partidos_vivo": [
   {
    "home": "IK brage",
@@ -369,7 +369,7 @@
   "balance_dia": 244.0,
   "ganados": 2918,
   "perdidos": 1310,
-  "pendientes": 19,
+  "pendientes": 20,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -377,7 +377,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4247,
+  "con_cuota_media": 4248,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1003,7 +1003,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 18,
+  "en_juego": 19,
   "win_rate": 100
  },
  "stats_banker": {
