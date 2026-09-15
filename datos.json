@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T21:06:01.245578+00:00",
+ "actualizado": "2026-09-15T21:06:14.252392+00:00",
  "partidos_vivo": [
   {
    "home": "Elche",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Nautico Recife vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.3 (7 casas)",
+   "hora": "23:06",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -110,16 +116,19 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Nautico Recife",
+   "away": "Operario-PR",
+   "liga": "Serie B",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.3,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15"
+  },
   {
    "home": "CRB",
    "away": "Sport Recife",
@@ -868,7 +877,7 @@
  "stats_banker": {
   "ganados": 96,
   "perdidos": 38,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
