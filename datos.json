@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-15T12:12:06.215607+00:00",
+ "actualizado": "2026-09-15T12:20:42.272132+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:20",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -58,6 +64,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Peterborough United U21",
+   "away": "Bristol City U21",
+   "liga": "Professional Development League",
+   "minuto": 17,
+   "score": 9.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
   {
    "home": "Tensung",
    "away": "Bhutan U19",
@@ -641,7 +658,7 @@
   "n": 2981,
   "ganados": 2004,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 2,
