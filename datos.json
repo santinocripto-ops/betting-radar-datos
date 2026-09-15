@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T19:48:28.095541+00:00",
+ "actualizado": "2026-09-15T19:56:16.525776+00:00",
  "partidos_vivo": [
   {
    "home": "Korona Kielce",
@@ -269,7 +269,7 @@
   "balance_dia": 283.0,
   "ganados": 2929,
   "perdidos": 1316,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 15,
   "perdidos_dia": 6,
   "win_rate": 69.0,
@@ -277,7 +277,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4254,
+  "con_cuota_media": 4255,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -903,7 +903,7 @@
  "stats_dia": {
   "ganados": 15,
   "perdidos": 7,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 68
  },
  "stats_banker": {
