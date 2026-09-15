@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T09:40:39.728294+00:00",
+ "actualizado": "2026-09-15T09:49:15.694661+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 0,
  "umbral_vivo": 7.0,
@@ -594,6 +594,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 108063,
+   "prob": 12.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "11:49"
+  },
   {
    "titulo": "Guangzhou: Luca Castelnuovo vs Omar Jasika",
    "apuesta": "SI, Guangzhou: Luca Castelnuovo ganara",
