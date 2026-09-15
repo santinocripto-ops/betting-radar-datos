@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T21:06:14.252392+00:00",
+ "actualizado": "2026-09-15T21:26:40.590655+00:00",
  "partidos_vivo": [
   {
    "home": "Elche",
@@ -534,15 +534,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Memmingen",
-   "away": "Wacker Burghausen",
-   "liga": "Regionalliga - Bayern",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -574,6 +566,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-16T00:00:00+00:00",
     "ts": "2026-09-15T19:10:40.369993+00:00"
+   },
+   {
+    "home": "Nautico Recife",
+    "away": "Operario-PR",
+    "liga": "Serie B",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 6,
+    "cuota": 1.35,
+    "pinnacle": true,
+    "delta": 3.64,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-15T22:30:00+00:00",
+    "ts": "2026-09-15T21:06:01.470901+00:00"
    },
    {
     "home": "Al Orubah",
@@ -754,27 +761,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-14T15:00:00+00:00",
     "ts": "2026-09-14T13:04:45.290717+00:00"
-   },
-   {
-    "home": "Universitatea Cluj",
-    "away": "Oţelul",
-    "liga": "Liga I",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.16,
-    "pinnacle": true,
-    "delta": 6.09,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-14T15:00:00+00:00",
-    "ts": "2026-09-14T14:05:03.894102+00:00"
    }
   ],
   "balance": {
    "ganados": 280,
    "perdidos": 114,
-   "pendientes": 2,
+   "pendientes": 3,
    "acierto": 71.1,
    "total": 394
   }
@@ -871,7 +863,7 @@
  "stats_dia": {
   "ganados": 21,
   "perdidos": 7,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 75
  },
  "stats_banker": {
