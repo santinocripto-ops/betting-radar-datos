@@ -1,210 +1,76 @@
 {
- "actualizado": "2026-09-15T19:10:55.098903+00:00",
+ "actualizado": "2026-09-15T19:40:16.772227+00:00",
  "partidos_vivo": [
   {
-   "home": "Ajax",
-   "away": "Willem II",
-   "liga": "Eredivisie",
-   "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Korona Kielce",
+   "away": "Gornik Zabrze",
+   "liga": "Ekstraklasa",
+   "minuto": 54,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
+   "momentum_home": 27,
+   "momentum_away": 73,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ 1 gol — Korona Kielce buscará el empate",
+    "🎯 11 remates totales"
    ]
   },
   {
-   "home": "York",
-   "away": "Newcastle United U21",
-   "liga": "EFL Trophy",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Al-Hilal Saudi FC",
+   "away": "Al-Gharafa",
+   "liga": "AFC Champions League Elite",
+   "minuto": 64,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
+   "momentum_home": 76,
+   "momentum_away": 24,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.2 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚽ 1 gol — Al-Gharafa buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Chesterfield",
-   "away": "Manchester City U21",
-   "liga": "EFL Trophy",
-   "minuto": 49,
+   "home": "Peterborough",
+   "away": "Barnsley",
+   "liga": "League Cup",
+   "minuto": 52,
    "marcador": "2-2",
    "apuesta": "Over 4.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 30,
+   "momentum_away": 70,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "⚽ Liga muy goleadora: 3.61 goles/partido",
     "🔥 4 goles — partido muy abierto",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Wycombe",
-   "away": "Chelsea U21",
-   "liga": "EFL Trophy",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 77,
-   "momentum_away": 23,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.2 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Swindon Town",
-   "away": "Crystal Palace U21",
-   "liga": "EFL Trophy",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 40,
-   "momentum_away": 60,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.2 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 10 remates totales"
-   ]
-  },
-  {
-   "home": "Leyton Orient",
-   "away": "Arsenal U21",
-   "liga": "EFL Trophy",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.2 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Gillingham FC U21",
-   "away": "Birmingham City U21",
-   "liga": "Premier League Cup",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Bromley U21",
-   "away": "Ipswich Town U21",
-   "liga": "Premier League Cup",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Aston Villa U21",
-   "away": "Real Sociedad II",
-   "liga": "Premier League International Cup",
-   "minuto": 46,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Tottenham Hotspur U21",
-   "away": "Dinamo Zagreb U21",
-   "liga": "Premier League International Cup",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.4 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Tottenham Hotspur U21 buscará el empate"
+    "🎯 28 remates totales — partido muy intenso"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ CRB vs Sport Recife · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.23 (8 cas",
@@ -270,12 +136,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:36",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -336,6 +196,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Fram Reykjavik",
+   "away": "Breidablik",
+   "liga": "Úrvalsdeild",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
+  {
    "home": "Liverpool",
    "away": "Tottenham",
    "liga": "League Cup",
@@ -389,17 +260,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-15",
    "es_hoy": true
-  },
-  {
-   "home": "Swindon Town",
-   "away": "Crystal Palace U21",
-   "liga": "EFL Trophy",
-   "minuto": 14,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-15",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -409,7 +269,7 @@
   "balance_dia": 283.0,
   "ganados": 2929,
   "perdidos": 1316,
-  "pendientes": 6,
+  "pendientes": 8,
   "ganados_dia": 15,
   "perdidos_dia": 6,
   "win_rate": 69.0,
@@ -417,7 +277,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4251,
+  "con_cuota_media": 4253,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -733,6 +593,21 @@
     "ts": "2026-09-15T15:09:54.563137+00:00"
    },
    {
+    "home": "CRB",
+    "away": "Sport Recife",
+    "liga": "Serie B",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.29,
+    "pinnacle": true,
+    "delta": 3.78,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-16T00:00:00+00:00",
+    "ts": "2026-09-15T19:10:40.369993+00:00"
+   },
+   {
     "home": "Al Orubah",
     "away": "Al Jeel",
     "liga": "Division 1",
@@ -742,8 +617,8 @@
     "cuota": 1.34,
     "pinnacle": true,
     "delta": 4.2,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-15T16:05:00+00:00",
     "ts": "2026-09-15T13:05:43.173403+00:00"
    },
@@ -757,8 +632,8 @@
     "cuota": 1.21,
     "pinnacle": true,
     "delta": 4.68,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-15T15:30:00+00:00",
     "ts": "2026-09-15T15:09:45.228054+00:00"
    },
@@ -772,8 +647,8 @@
     "cuota": 1.21,
     "pinnacle": false,
     "delta": 3.71,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-15T15:30:00+00:00",
     "ts": "2026-09-15T15:09:45.465761+00:00"
    },
@@ -926,29 +801,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-14T15:00:00+00:00",
     "ts": "2026-09-14T14:05:03.894102+00:00"
-   },
-   {
-    "home": "Dynamo Kyiv",
-    "away": "Epitsentr Dunayivtsi",
-    "liga": "Premier League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 2.52,
-    "pinnacle": true,
-    "delta": 3.83,
-    "marcador": "3-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-14T12:30:00+00:00",
-    "ts": "2026-09-14T11:05:16.824945+00:00"
    }
   ],
   "balance": {
    "ganados": 280,
-   "perdidos": 111,
-   "pendientes": 4,
-   "acierto": 71.6,
-   "total": 391
+   "perdidos": 114,
+   "pendientes": 2,
+   "acierto": 71.1,
+   "total": 394
   }
  },
  "mejor_dia": {
@@ -1038,12 +898,12 @@
   "n": 2996,
   "ganados": 2015,
   "win_rate": 67,
-  "hoy": 22
+  "hoy": 23
  },
  "stats_dia": {
   "ganados": 15,
   "perdidos": 7,
-  "en_juego": 4,
+  "en_juego": 7,
   "win_rate": 68
  },
  "stats_banker": {
