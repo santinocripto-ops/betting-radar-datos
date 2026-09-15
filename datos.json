@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T15:26:23.561070+00:00",
+ "actualizado": "2026-09-15T15:34:38.304583+00:00",
  "partidos_vivo": [
   {
    "home": "Vizela U23",
@@ -741,6 +741,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the September 2026",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
+   "usdc": 104437,
+   "prob": 12.5,
+   "n_traders": 2,
+   "trader": "ImJustKen",
+   "hora": "17:34"
+  },
+  {
+   "titulo": "Szczecin: Dusan Lajovic vs Diego Dedura-Palomero",
+   "apuesta": "SI, Szczecin: Dusan Lajovic ganara",
+   "usdc": 138048,
+   "prob": 20.9,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "17:34"
+  },
   {
    "titulo": "Will Real Madrid CF win on 2026-09-15?",
    "apuesta": "NO, Real Madrid no ganara",
