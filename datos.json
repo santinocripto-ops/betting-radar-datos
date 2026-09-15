@@ -1,30 +1,88 @@
 {
- "actualizado": "2026-09-15T14:59:40.880187+00:00",
+ "actualizado": "2026-09-15T15:09:52.148300+00:00",
  "partidos_vivo": [
   {
-   "home": "Veľké Ludince",
-   "away": "Dunajska Streda",
-   "liga": "Cup",
-   "minuto": 47,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Vizela U23",
+   "away": "Marítimo U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "CSM Reşiţa",
+   "away": "FC Bacau",
+   "liga": "Liga II",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.55 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Mladost DG U19",
+   "away": "Kairat U19",
+   "liga": "UEFA Youth League",
+   "minuto": 51,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "17:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -101,7 +159,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1394
+   "n_historico": 1397
   },
   {
    "clave": "btts",
@@ -114,8 +172,8 @@
    "score": 10,
    "hora": "00:00",
    "resultado": "perdido",
-   "wr_historico": 59,
-   "n_historico": 1405
+   "wr_historico": 58,
+   "n_historico": 1407
   }
  ],
  "gol_temprano": [
@@ -126,7 +184,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-15",
    "es_hoy": true
   },
@@ -137,7 +195,7 @@
    "minuto": 17,
    "score": 9.9,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-15",
    "es_hoy": true
   },
@@ -155,16 +213,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50300.0,
-  "balance_total": 40300.0,
-  "balance_dia": 122.0,
-  "ganados": 2916,
+  "capital": 50422.0,
+  "balance_total": 40422.0,
+  "balance_dia": 244.0,
+  "ganados": 2918,
   "perdidos": 1310,
-  "pendientes": 4,
-  "ganados_dia": 2,
+  "pendientes": 2,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
-  "roi": 9.5,
+  "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -223,7 +281,7 @@
     "away": "Songkhla",
     "liga": "Thai League 2",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -268,7 +326,7 @@
     "away": "Colchester United U21",
     "liga": "Professional Development League",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -360,7 +418,7 @@
     "away": "Songkhla",
     "liga": "Thai League 2",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -396,7 +454,7 @@
     "away": "Colchester United U21",
     "liga": "Professional Development League",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -429,9 +487,9 @@
    }
   ],
   "balance": {
-   "ganados": 1706,
-   "perdidos": 1093,
-   "acierto": 61.0,
+   "ganados": 1709,
+   "perdidos": 1095,
+   "acierto": 60.9,
    "yield": 15.8,
    "cuota_media": 1.9
   }
@@ -739,15 +797,15 @@
   }
  ],
  "stats_gt": {
-  "n": 2981,
-  "ganados": 2004,
+  "n": 2983,
+  "ganados": 2006,
   "win_rate": 67,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
