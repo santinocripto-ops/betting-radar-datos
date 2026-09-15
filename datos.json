@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T14:43:13.364758+00:00",
+ "actualizado": "2026-09-15T14:51:27.063509+00:00",
  "partidos_vivo": [
   {
    "home": "Veľké Ludince",
@@ -683,6 +683,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
+   "apuesta": "NO — Will United Russia (ER) gain the most seats in the next Russ",
+   "usdc": 113981,
+   "prob": 28.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "16:51"
+  },
   {
    "titulo": "Will Deportivo Alavés win on 2026-09-15?",
    "apuesta": "SI, Deportivo Alavés ganara",
