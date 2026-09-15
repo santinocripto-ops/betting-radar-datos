@@ -1,30 +1,234 @@
 {
- "actualizado": "2026-09-15T18:57:13.197707+00:00",
+ "actualizado": "2026-09-15T19:10:55.098903+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Ahly",
-   "away": "Abu Qair Semad",
-   "liga": "Premier League",
-   "minuto": 65,
-   "marcador": "1-0",
+   "home": "Ajax",
+   "away": "Willem II",
+   "liga": "Eredivisie",
+   "minuto": 50,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 82,
+   "momentum_away": 18,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.5 (Eredivisie)",
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "York",
+   "away": "Newcastle United U21",
+   "liga": "EFL Trophy",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 86,
+   "momentum_away": 14,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "Chesterfield",
+   "away": "Manchester City U21",
+   "liga": "EFL Trophy",
+   "minuto": 49,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 47,
+   "momentum_away": 53,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Wycombe",
+   "away": "Chelsea U21",
+   "liga": "EFL Trophy",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 77,
+   "momentum_away": 23,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Swindon Town",
+   "away": "Crystal Palace U21",
+   "liga": "EFL Trophy",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 40,
+   "momentum_away": 60,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 10 remates totales"
+   ]
+  },
+  {
+   "home": "Leyton Orient",
+   "away": "Arsenal U21",
+   "liga": "EFL Trophy",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.2 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Gillingham FC U21",
+   "away": "Birmingham City U21",
+   "liga": "Premier League Cup",
+   "minuto": 46,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 9.0,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga poco goleadora: 2.04 goles/partido",
-    "⚽ 1 gol — Abu Qair Semad buscará el empate",
-    "🎯 20 remates totales — partido muy intenso"
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Bromley U21",
+   "away": "Ipswich Town U21",
+   "liga": "Premier League Cup",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Aston Villa U21",
+   "away": "Real Sociedad II",
+   "liga": "Premier League International Cup",
+   "minuto": 46,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Tottenham Hotspur U21",
+   "away": "Dinamo Zagreb U21",
+   "liga": "Premier League International Cup",
+   "minuto": 50,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Tottenham Hotspur U21 buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ CRB vs Sport Recife · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.23 (8 cas",
+   "hora": "21:10",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "21:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:10",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -72,40 +276,16 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
   {
-   "home": "Al Orubah",
-   "away": "Al Jeel",
-   "liga": "Division 1",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.32,
+   "home": "CRB",
+   "away": "Sport Recife",
+   "liga": "Serie B",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.23,
    "resultado": "pendiente",
    "fecha": "2026-09-15"
   }
@@ -123,7 +303,7 @@
    "hora": "18:00",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 251
+   "n_historico": 252
   },
   {
    "clave": "over25",
@@ -137,7 +317,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 63,
-   "n_historico": 1400
+   "n_historico": 1402
   },
   {
    "clave": "btts",
@@ -151,10 +331,32 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1409
+   "n_historico": 1414
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Liverpool",
+   "away": "Tottenham",
+   "liga": "League Cup",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
+  {
+   "home": "Motherwell",
+   "away": "Aberdeen",
+   "liga": "Premiership",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-15",
+   "es_hoy": true
+  },
   {
    "home": "West Ham",
    "away": "Fulham",
@@ -198,46 +400,24 @@
    "resultado": "pendiente",
    "fecha": "2026-09-15",
    "es_hoy": true
-  },
-  {
-   "home": "Memmingen",
-   "away": "Wacker Burghausen",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-15",
-   "es_hoy": true
-  },
-  {
-   "home": "HIK",
-   "away": "Esbjerg",
-   "liga": "DBU Pokalen",
-   "minuto": 10,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-15",
-   "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50422.0,
-  "balance_total": 40422.0,
-  "balance_dia": 244.0,
-  "ganados": 2918,
-  "perdidos": 1310,
-  "pendientes": 20,
-  "ganados_dia": 4,
-  "perdidos_dia": 0,
+  "capital": 50461.0,
+  "balance_total": 40461.0,
+  "balance_dia": 283.0,
+  "ganados": 2929,
+  "perdidos": 1316,
+  "pendientes": 6,
+  "ganados_dia": 15,
+  "perdidos_dia": 6,
   "win_rate": 69.0,
-  "roi": 9.6,
+  "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4248,
+  "con_cuota_media": 4251,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -355,7 +535,7 @@
     "away": "Tulevik",
     "liga": "Esiliiga B",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -364,7 +544,7 @@
     "away": "FC Sion",
     "liga": "Super League",
     "hora": "19:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -492,14 +672,14 @@
     "away": "Tulevik",
     "liga": "Esiliiga B",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1710,
-   "perdidos": 1099,
+   "ganados": 1715,
+   "perdidos": 1101,
    "acierto": 60.9,
    "yield": 15.7,
    "cuota_media": 1.9
@@ -511,28 +691,28 @@
    "away": "Wacker Burghausen",
    "liga": "Regionalliga - Bayern",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Bayern München II",
    "away": "Augsburg II",
    "liga": "Regionalliga - Bayern",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Casertana",
    "away": "Team Altamura",
    "liga": "Serie C - Girone C",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Super Nova",
    "away": "Riga",
    "liga": "Virsliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -855,20 +1035,20 @@
   }
  ],
  "stats_gt": {
-  "n": 2983,
-  "ganados": 2006,
+  "n": 2996,
+  "ganados": 2015,
   "win_rate": 67,
-  "hoy": 20
+  "hoy": 22
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 0,
-  "en_juego": 19,
-  "win_rate": 100
+  "ganados": 15,
+  "perdidos": 7,
+  "en_juego": 4,
+  "win_rate": 68
  },
  "stats_banker": {
   "ganados": 96,
-  "perdidos": 37,
+  "perdidos": 38,
   "pendientes": 1,
   "win_rate": 72
  },
