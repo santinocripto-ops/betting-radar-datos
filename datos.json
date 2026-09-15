@@ -1,53 +1,133 @@
 {
- "actualizado": "2026-09-15T17:54:51.768194+00:00",
+ "actualizado": "2026-09-15T18:05:02.788007+00:00",
  "partidos_vivo": [
   {
-   "home": "Ironi Tiberias",
-   "away": "Hapoel Katamon",
+   "home": "IK brage",
+   "away": "Sandviken",
+   "liga": "Superettan",
+   "minuto": 47,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 10 remates totales",
+    "⏱ 43 minutos por jugar — margen amplio"
+   ]
+  },
+  {
+   "home": "Landskrona BoIS",
+   "away": "GIF Sundsvall",
+   "liga": "Superettan",
+   "minuto": 47,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 94,
+   "momentum_away": 6,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "⚡ GIF Sundsvall pierde por 3 — atacará sin freno",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Beitar Jerusalem",
+   "away": "Maccabi Petah Tikva",
    "liga": "Ligat Ha'al",
    "minuto": 47,
-   "marcador": "1-0",
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.08 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Maccabi Petah Tikva pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "SG Sonnenhof Grossaspach",
+   "away": "Verl",
+   "liga": "3. Liga",
+   "minuto": 46,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 9.5,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 25,
+   "momentum_away": 75,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚽ 1 gol — SG Sonnenhof Grossaspach buscará el empate"
+   ]
+  },
+  {
+   "home": "SV Meppen",
+   "away": "FC Viktoria Köln",
+   "liga": "3. Liga",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 46,
    "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.08 goles/partido",
-    "⚽ 1 gol — Hapoel Katamon buscará el empate",
-    "🚩 6 córners"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚽ 1 gol — SV Meppen buscará el empate"
    ]
   },
   {
-   "home": "Casertana",
-   "away": "Team Altamura",
-   "liga": "Serie C - Girone C",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "HIK",
+   "away": "Esbjerg",
+   "liga": "DBU Pokalen",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga por encima de la media: 2.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — HIK buscará el empate"
    ]
   },
   {
-   "home": "Vilzing",
-   "away": "Ansbach",
+   "home": "Bayreuth",
+   "away": "Aubstadt",
    "liga": "Regionalliga - Bayern",
    "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -60,9 +140,29 @@
     "⚽ Liga muy goleadora: 3.21 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
+  },
+  {
+   "home": "SK Vorwarts Steyr",
+   "away": "Bad Schallerbach",
+   "liga": "Regionalliga - North",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
