@@ -1,30 +1,15 @@
 {
- "actualizado": "2026-09-16T07:55:15.209611+00:00",
- "partidos_vivo": [
-  {
-   "home": "UAE U23",
-   "away": "Iran U23",
-   "liga": "Asian Games",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
+ "actualizado": "2026-09-16T08:03:47.541965+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "10:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -90,12 +75,6 @@
    "texto": "⚽ CRB vs Sport Recife · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.23 (8 cas",
    "hora": "21:10",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "21:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
