@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T14:06:08.627706+00:00",
+ "actualizado": "2026-09-16T14:06:44.577830+00:00",
  "partidos_vivo": [
   {
    "home": "Enisey",
@@ -45,6 +45,24 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -98,24 +116,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "04:09",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Nautico Recife vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.3 (7 casas)",
-   "hora": "00:05",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
