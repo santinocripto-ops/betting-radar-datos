@@ -1,44 +1,24 @@
 {
- "actualizado": "2026-09-16T00:13:15.686239+00:00",
+ "actualizado": "2026-09-16T00:21:19.192377+00:00",
  "partidos_vivo": [
   {
-   "home": "Londrina",
-   "away": "Ponte Preta",
-   "liga": "Serie B",
-   "minuto": 62,
+   "home": "Indy Eleven",
+   "away": "Brooklyn",
+   "liga": "USL Championship",
+   "minuto": 54,
    "marcador": "4-0",
    "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.5,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Ponte Preta pierde por 4 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Nautico Recife",
-   "away": "Operario-PR",
-   "liga": "Serie B",
-   "minuto": 56,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 21 remates totales — partido muy intenso"
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
