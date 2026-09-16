@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T22:33:58.459050+00:00",
+ "actualizado": "2026-09-16T22:41:11.744178+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -737,6 +737,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic",
+   "apuesta": "SI, Guadalajara Open Akron: Zeynep Sonmez ganara",
+   "usdc": 83354,
+   "prob": 3.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "00:40"
+  },
+  {
    "titulo": "Sao Paulo Open: Vendula Valdmannova vs Laura Pigossi",
    "apuesta": "SI, Sao Paulo Open: Vendula Valdmannova ganara",
    "usdc": 430328,
@@ -798,15 +807,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xb",
    "hora": "20:56"
-  },
-  {
-   "titulo": "Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 32334,
-   "prob": 46.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "20:05"
   }
  ],
  "stats_gt": {
