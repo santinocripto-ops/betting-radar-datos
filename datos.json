@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T17:27:30.492504+00:00",
+ "actualizado": "2026-09-16T17:34:19.711985+00:00",
  "partidos_vivo": [
   {
    "home": "Lokomotiv Sofia",
@@ -439,7 +439,7 @@
   "balance_dia": 140.0,
   "ganados": 2946,
   "perdidos": 1319,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 8,
   "perdidos_dia": 3,
   "win_rate": 69.1,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4275,
+  "con_cuota_media": 4276,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -992,6 +992,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Sao Paulo Open: Mary Stoiana vs Claire Liu",
+   "apuesta": "SI, Sao Paulo Open: Mary Stoiana ganara",
+   "usdc": 84356,
+   "prob": 73.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:34"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the September 2026",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
    "usdc": 94567,
@@ -1053,15 +1062,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "11:30"
-  },
-  {
-   "titulo": "W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis",
-   "apuesta": "SI, W35 Shenyang: Meng Yi Chen ganara",
-   "usdc": 161178,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "03:46"
   }
  ],
  "stats_gt": {
@@ -1073,7 +1073,7 @@
  "stats_dia": {
   "ganados": 10,
   "perdidos": 3,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 77
  },
  "stats_banker": {
