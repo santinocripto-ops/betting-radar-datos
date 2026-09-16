@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-16T20:47:46.567744+00:00",
+ "actualizado": "2026-09-16T20:54:50.654986+00:00",
  "partidos_vivo": [
   {
-   "home": "Coventry",
-   "away": "Aston Villa",
-   "liga": "League Cup",
-   "minuto": 65,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
+   "home": "Barcelona",
+   "away": "Racing Santander",
+   "liga": "La Liga",
+   "minuto": 56,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 36,
-   "momentum_away": 64,
+   "momentum_home": 92,
+   "momentum_away": 8,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Coventry pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "AC Milan",
-   "away": "Benfica",
-   "liga": "UEFA Europa League",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Hapoel Beer Sheva",
-   "away": "Dinamo Zagreb",
-   "liga": "UEFA Europa League",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 73,
-   "momentum_away": 27,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Palmeiras U20",
-   "away": "Naviraiense U20",
-   "liga": "Copa do Brasil U20",
-   "minuto": 60,
-   "marcador": "8-0",
-   "apuesta": "Over 8.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.21 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
