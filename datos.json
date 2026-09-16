@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-09-16T11:31:30.430196+00:00",
+ "actualizado": "2026-09-16T11:39:27.980017+00:00",
  "partidos_vivo": [
   {
-   "home": "Jeonbuk Motors",
-   "away": "Kashiwa Reysol",
-   "liga": "AFC Champions League Elite",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "Hamburger SV II",
-   "away": "St. Pauli II",
-   "liga": "Regionalliga - Nord",
+   "home": "Japan U23",
+   "away": "Hong Kong U23",
+   "liga": "Asian Games",
    "minuto": 51,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 4.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Kolos Kovalivka U19",
-   "away": "LNZ Cherkasy U19",
-   "liga": "U19 League",
-   "minuto": 49,
-   "marcador": "0-1",
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.4 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Hong Kong U23 buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
