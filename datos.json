@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T14:42:35.964781+00:00",
+ "actualizado": "2026-09-16T14:42:42.743347+00:00",
  "partidos_vivo": [
   {
    "home": "Terengganu",
@@ -165,6 +165,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Kustosija",
+   "away": "Bsk Bijelo Brdo",
+   "liga": "Cup",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
   {
    "home": "Seravezza",
    "away": "Montevarchi Calcio",
@@ -828,7 +839,7 @@
   "n": 3008,
   "ganados": 2026,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 5,
