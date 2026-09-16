@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T17:57:36.588231+00:00",
+ "actualizado": "2026-09-16T18:07:06.609992+00:00",
  "partidos_vivo": [
   {
    "home": "Ararat-Armenia",
@@ -127,6 +127,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:57",
    "tipo": "live"
@@ -178,24 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:54",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:34",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -213,7 +213,7 @@
    "hora": "18:45",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 260
+   "n_historico": 263
   },
   {
    "clave": "over25",
@@ -225,9 +225,9 @@
    "cuota": null,
    "score": 10,
    "hora": "11:00",
-   "resultado": "pendiente",
+   "resultado": "anulado",
    "wr_historico": 63,
-   "n_historico": 1414
+   "n_historico": 1421
   },
   {
    "clave": "btts",
@@ -241,7 +241,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1429
+   "n_historico": 1438
   }
  ],
  "gol_temprano": [
@@ -314,20 +314,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51150.0,
-  "balance_total": 41150.0,
-  "balance_dia": 140.0,
-  "ganados": 2946,
-  "perdidos": 1319,
+  "capital": 51040.0,
+  "balance_total": 41040.0,
+  "balance_dia": 30.0,
+  "ganados": 2948,
+  "perdidos": 1321,
   "pendientes": 11,
-  "ganados_dia": 8,
-  "perdidos_dia": 3,
+  "ganados_dia": 10,
+  "perdidos_dia": 5,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4276,
+  "con_cuota_media": 4280,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -418,7 +418,7 @@
     "away": "Aalesund",
     "liga": "NM Cupen",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -427,7 +427,7 @@
     "away": "Rubin",
     "liga": "Premier League",
     "hora": "17:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -436,7 +436,7 @@
     "away": "Sandnes ULF",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -445,7 +445,7 @@
     "away": "Kristiansund BK",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -454,7 +454,7 @@
     "away": "Raufoss",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -465,7 +465,7 @@
     "away": "Yeni Malatyaspor",
     "liga": "Türkiye Kupası",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -555,7 +555,7 @@
     "away": "Aalesund",
     "liga": "NM Cupen",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -564,7 +564,7 @@
     "away": "Rubin",
     "liga": "Premier League",
     "hora": "17:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -573,7 +573,7 @@
     "away": "Sandnes ULF",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -582,45 +582,59 @@
     "away": "Kristiansund BK",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1733,
-   "perdidos": 1110,
+   "ganados": 1744,
+   "perdidos": 1115,
    "acierto": 61.0,
-   "yield": 15.8,
+   "yield": 15.9,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
   {
+   "home": "Boden",
+   "away": "IFK Luleå",
+   "liga": "Division 2 - Norrland",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Waldhof Mannheim",
+   "away": "Rot-Weiß Essen",
+   "liga": "3. Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Deportivo La Coruna",
+   "away": "Sevilla",
+   "liga": "La Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Stjørdals-Blink",
    "away": "Fredrikstad",
    "liga": "NM Cupen",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Spartak Moscow",
    "away": "Fakel",
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Grorud",
    "away": "Tromsdalen Uil",
    "liga": "2. Division - Group 2",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Kustosija",
-   "away": "Bsk Bijelo Brdo",
-   "liga": "Cup",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -872,6 +886,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Manchester United FC vs. Brighton & Hove Albion FC: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 32334,
+   "prob": 46.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "20:05"
+  },
+  {
    "titulo": "Will AC Milan win on 2026-09-16?",
    "apuesta": "SI, AC Milan ganara",
    "usdc": 80531,
@@ -933,28 +956,19 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "16:34"
-  },
-  {
-   "titulo": "Will FC Barcelona win on 2026-09-16?",
-   "apuesta": "NO, FC Barcelona no ganara",
-   "usdc": 264259,
-   "prob": 7.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "14:12"
   }
  ],
  "stats_gt": {
-  "n": 3013,
+  "n": 3015,
   "ganados": 2029,
   "win_rate": 67,
   "hoy": 15
  },
  "stats_dia": {
-  "ganados": 10,
-  "perdidos": 3,
+  "ganados": 12,
+  "perdidos": 5,
   "en_juego": 9,
-  "win_rate": 77
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 100,
