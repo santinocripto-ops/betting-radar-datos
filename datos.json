@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T16:08:16.181698+00:00",
+ "actualizado": "2026-09-16T16:15:27.841803+00:00",
  "partidos_vivo": [
   {
    "home": "Kifisia",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:53",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Stjørdals-Blink",
+   "away": "Fredrikstad",
+   "liga": "NM Cupen",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
+  {
    "home": "Spartak Moscow",
    "away": "Fakel",
    "liga": "Premier League",
@@ -214,17 +225,6 @@
    "away": "Virtus Bolzano",
    "liga": "Serie D - Girone C",
    "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-16",
-   "es_hoy": true
-  },
-  {
-   "home": "Enisey",
-   "away": "Arsenal Tula",
-   "liga": "First League",
-   "minuto": 23,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -854,7 +854,7 @@
   "n": 3011,
   "ganados": 2029,
   "win_rate": 67,
-  "hoy": 8
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 8,
