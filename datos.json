@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T02:56:32.720741+00:00",
+ "actualizado": "2026-09-16T03:05:19.473056+00:00",
  "partidos_vivo": [
   {
    "home": "Puebla",
@@ -99,26 +99,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "CRB",
-   "away": "Sport Recife",
-   "liga": "Serie B",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.22,
-   "resultado": "pendiente",
-   "fecha": "2026-09-15"
-  },
-  {
-   "home": "CRB",
-   "away": "Sport Recife",
-   "liga": "Serie B",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.23,
-   "resultado": "pendiente",
-   "fecha": "2026-09-15"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -132,7 +113,7 @@
    "hora": "18:45",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 258
+   "n_historico": 260
   },
   {
    "clave": "over25",
@@ -146,7 +127,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 63,
-   "n_historico": 1406
+   "n_historico": 1408
   },
   {
    "clave": "btts",
@@ -171,23 +152,23 @@
    "minuto": 14,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-16",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51071.0,
-  "balance_total": 41071.0,
-  "balance_dia": 61.0,
-  "ganados": 2939,
-  "perdidos": 1316,
-  "pendientes": 4,
-  "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "capital": 51016.0,
+  "balance_total": 41016.0,
+  "balance_dia": 6.0,
+  "ganados": 2940,
+  "perdidos": 1317,
+  "pendientes": 2,
+  "ganados_dia": 2,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
-  "roi": 9.7,
+  "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -452,8 +433,8 @@
    }
   ],
   "balance": {
-   "ganados": 1721,
-   "perdidos": 1104,
+   "ganados": 1722,
+   "perdidos": 1105,
    "acierto": 60.9,
    "yield": 15.7,
    "cuota_media": 1.9
@@ -465,7 +446,7 @@
    "away": "Toluca",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -782,21 +763,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3006,
+  "n": 3007,
   "ganados": 2025,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 100
+  "ganados": 4,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 80
  },
  "stats_banker": {
-  "ganados": 98,
+  "ganados": 100,
   "perdidos": 38,
-  "pendientes": 2,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
