@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T09:07:01.290708+00:00",
+ "actualizado": "2026-09-16T09:15:04.940213+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -438,6 +438,21 @@
     "ts": "2026-09-16T08:03:47.771391+00:00"
    },
    {
+    "home": "FC Thun",
+    "away": "Servette FC",
+    "liga": "Super League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 4.79,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-16T17:00:00+00:00",
+    "ts": "2026-09-16T09:07:01.584392+00:00"
+   },
+   {
     "home": "CRB",
     "away": "Sport Recife",
     "liga": "Serie B",
@@ -631,27 +646,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-14T16:05:00+00:00",
     "ts": "2026-09-14T11:05:24.041372+00:00"
-   },
-   {
-    "home": "Al Bukayriyah",
-    "away": "Damac",
-    "liga": "Division 1",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.7,
-    "pinnacle": true,
-    "delta": 4.77,
-    "marcador": "1-2",
-    "resultado": "perdido",
-    "kickoff": "2026-09-14T15:50:00+00:00",
-    "ts": "2026-09-14T11:05:19.119985+00:00"
    }
   ],
   "balance": {
    "ganados": 282,
    "perdidos": 115,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 71.0,
    "total": 397
   }
