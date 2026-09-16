@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T19:41:47.495786+00:00",
+ "actualizado": "2026-09-16T19:49:11.494500+00:00",
  "partidos_vivo": [
   {
    "home": "Stoke City U21",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 18,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:49",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
    "tipo": "live"
   }
  ],
@@ -239,7 +239,7 @@
   "balance_dia": -13.0,
   "ganados": 2953,
   "perdidos": 1324,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 15,
   "perdidos_dia": 8,
   "win_rate": 69.0,
@@ -247,7 +247,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4283,
+  "con_cuota_media": 4284,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -516,6 +516,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Fleetwood Town",
+   "away": "Sheffield Utd",
+   "liga": "League Cup",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Boden",
    "away": "IFK Luleå",
@@ -792,6 +799,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Sport Lisboa e Benfica win on 2026-09-16?",
+   "apuesta": "NO, Sport Lisboa e Benfica no ganara",
+   "usdc": 30074,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:48"
+  },
+  {
    "titulo": "Spread: FC Barcelona (-3.5)",
    "apuesta": "SI — Spread: FC Barcelona (-3.5)",
    "usdc": 141982,
@@ -853,15 +869,6 @@
    "n_traders": 2,
    "trader": "ImJustKen",
    "hora": "19:13"
-  },
-  {
-   "titulo": "Spread: Club Atlético de Madrid (-1.5)",
-   "apuesta": "SI — Spread: Club Atlético de Madrid (-1.5)",
-   "usdc": 210603,
-   "prob": 51.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "18:58"
   }
  ],
  "stats_gt": {
@@ -873,7 +880,7 @@
  "stats_dia": {
   "ganados": 17,
   "perdidos": 8,
-  "en_juego": 4,
+  "en_juego": 5,
   "win_rate": 68
  },
  "stats_banker": {
