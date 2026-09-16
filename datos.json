@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T15:54:53.281037+00:00",
+ "actualizado": "2026-09-16T15:54:58.295331+00:00",
  "partidos_vivo": [
   {
    "home": "Kifisia",
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Spartak Moscow",
+   "away": "Fakel",
+   "liga": "Premier League",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
+  {
    "home": "Grorud",
    "away": "Tromsdalen Uil",
    "liga": "2. Division - Group 2",
@@ -215,17 +226,6 @@
    "liga": "First League",
    "minuto": 23,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-16",
-   "es_hoy": true
-  },
-  {
-   "home": "Hamburger SV II",
-   "away": "St. Pauli II",
-   "liga": "Regionalliga - Nord",
-   "minuto": 12,
-   "score": 9.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-16",
@@ -847,7 +847,7 @@
   "n": 3011,
   "ganados": 2029,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 8,
