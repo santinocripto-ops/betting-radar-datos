@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T14:26:54.128946+00:00",
+ "actualizado": "2026-09-16T14:34:48.192117+00:00",
  "partidos_vivo": [
   {
    "home": "Terengganu",
@@ -752,6 +752,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the September 202",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Sep",
+   "usdc": 100000,
+   "prob": 11.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "16:34"
+  },
+  {
    "titulo": "Will FC Barcelona win on 2026-09-16?",
    "apuesta": "NO, FC Barcelona no ganara",
    "usdc": 264259,
@@ -813,15 +822,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:08"
-  },
-  {
-   "titulo": "Szczecin: Tiago Pereira vs Filip Pieczonka",
-   "apuesta": "SI, Szczecin: Tiago Pereira ganara",
-   "usdc": 22037,
-   "prob": 66.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:44"
   }
  ],
  "stats_gt": {
