@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T01:39:11.825187+00:00",
+ "actualizado": "2026-09-16T01:47:01.759428+00:00",
  "partidos_vivo": [
   {
    "home": "CRB",
@@ -701,6 +701,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis",
+   "apuesta": "SI, W35 Shenyang: Meng Yi Chen ganara",
+   "usdc": 161178,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "03:46"
+  },
+  {
    "titulo": "Spread: Real Madrid CF (-1.5)",
    "apuesta": "SI — Spread: Real Madrid CF (-1.5)",
    "usdc": 27901,
@@ -762,15 +771,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:18"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the September 2026",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Sept",
-   "usdc": 104437,
-   "prob": 12.5,
-   "n_traders": 2,
-   "trader": "ImJustKen",
-   "hora": "17:34"
   }
  ],
  "stats_gt": {
