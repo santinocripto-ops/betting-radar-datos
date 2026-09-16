@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-16T16:44:57.406880+00:00",
+ "actualizado": "2026-09-16T16:52:09.119314+00:00",
  "partidos_vivo": [
   {
-   "home": "Førde",
-   "away": "Aalesund",
-   "liga": "NM Cupen",
-   "minuto": 60,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Rodina Moskva",
+   "away": "Rubin",
+   "liga": "Premier League",
+   "minuto": 62,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.8,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 70,
+   "momentum_away": 30,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Spartak Moscow",
+   "away": "Fakel",
+   "liga": "Premier League",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 90,
+   "momentum_away": 10,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
