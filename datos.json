@@ -1,48 +1,48 @@
 {
- "actualizado": "2026-09-16T19:06:55.647965+00:00",
+ "actualizado": "2026-09-16T19:26:31.494683+00:00",
  "partidos_vivo": [
   {
-   "home": "Lokomotiv",
-   "away": "Krylia Sovetov",
-   "liga": "Premier League",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Stoke City U21",
+   "away": "Borussia M'gladbach II",
+   "liga": "Premier League International Cup",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 24,
-   "momentum_away": 76,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚽ 1 gol — Krylia Sovetov buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Sampaio Corrêa RJ",
-   "away": "Madureira",
-   "liga": "Copa Rio",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.3,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔒 Liga muy cerrada: 1.66 goles/partido",
-    "⚽ 1 gol — Madureira buscará el empate",
-    "⏱ 41 minutos por jugar — margen amplio"
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "São Paulo U20",
+   "away": "União São João U20",
+   "liga": "Paulista - U20",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 18,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -550,13 +550,6 @@
    "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Grorud",
-   "away": "Tromsdalen Uil",
-   "liga": "2. Division - Group 2",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -631,8 +624,8 @@
     "cuota": 1.91,
     "pinnacle": true,
     "delta": 3.15,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-16T17:00:00+00:00",
     "ts": "2026-09-16T08:03:47.771391+00:00"
    },
@@ -646,8 +639,8 @@
     "cuota": 1.44,
     "pinnacle": true,
     "delta": 4.79,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-4",
+    "resultado": "perdido",
     "kickoff": "2026-09-16T17:00:00+00:00",
     "ts": "2026-09-16T09:07:01.584392+00:00"
    },
@@ -789,10 +782,10 @@
   ],
   "balance": {
    "ganados": 282,
-   "perdidos": 116,
-   "pendientes": 6,
-   "acierto": 70.9,
-   "total": 398
+   "perdidos": 118,
+   "pendientes": 4,
+   "acierto": 70.5,
+   "total": 400
   }
  },
  "mejor_dia": {
