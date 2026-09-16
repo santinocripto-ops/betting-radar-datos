@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T19:58:17.718437+00:00",
+ "actualizado": "2026-09-16T20:05:37.751103+00:00",
  "partidos_vivo": [
   {
    "home": "Everton",
@@ -234,7 +234,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-16",
    "es_hoy": true
   },
@@ -245,7 +245,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-16",
    "es_hoy": true
   },
@@ -274,14 +274,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50997.0,
-  "balance_total": 40997.0,
-  "balance_dia": -13.0,
-  "ganados": 2953,
-  "perdidos": 1324,
-  "pendientes": 8,
-  "ganados_dia": 15,
-  "perdidos_dia": 8,
+  "capital": 50958.0,
+  "balance_total": 40958.0,
+  "balance_dia": -52.0,
+  "ganados": 2954,
+  "perdidos": 1325,
+  "pendientes": 6,
+  "ganados_dia": 16,
+  "perdidos_dia": 9,
   "win_rate": 69.0,
   "roi": 9.6,
   "stake": 100.0,
@@ -919,16 +919,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3020,
-  "ganados": 2031,
+  "n": 3022,
+  "ganados": 2032,
   "win_rate": 67,
   "hoy": 18
  },
  "stats_dia": {
-  "ganados": 17,
-  "perdidos": 8,
-  "en_juego": 6,
-  "win_rate": 68
+  "ganados": 18,
+  "perdidos": 9,
+  "en_juego": 4,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 100,
