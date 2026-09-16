@@ -1,33 +1,33 @@
 {
- "actualizado": "2026-09-16T13:41:52.719125+00:00",
+ "actualizado": "2026-09-16T13:50:07.249000+00:00",
  "partidos_vivo": [
   {
-   "home": "Merani Martvili",
-   "away": "Sioni",
-   "liga": "Erovnuli Liga 2",
-   "minuto": 61,
+   "home": "Enisey",
+   "away": "Arsenal Tula",
+   "liga": "First League",
+   "minuto": 58,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.3,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 8 remates totales"
    ]
   },
   {
-   "home": "Kulykiv",
-   "away": "Veres Rivne",
-   "liga": "Cup",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Karvan",
+   "away": "Zaqatala",
+   "liga": "Birinci Dasta",
+   "minuto": 58,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -36,13 +36,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚽ Liga por encima de la media: 2.6 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Kulykiv buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
