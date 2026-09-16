@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T03:05:19.473056+00:00",
+ "actualizado": "2026-09-16T03:13:42.824647+00:00",
  "partidos_vivo": [
   {
    "home": "Puebla",
@@ -461,8 +461,8 @@
     "cuota": 1.98,
     "pinnacle": true,
     "delta": 3.96,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-16T00:00:00+00:00",
     "ts": "2026-09-15T15:09:54.563137+00:00"
    },
@@ -476,8 +476,8 @@
     "cuota": 1.29,
     "pinnacle": true,
     "delta": 3.78,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-16T00:00:00+00:00",
     "ts": "2026-09-15T19:10:40.369993+00:00"
    },
@@ -678,11 +678,11 @@
    }
   ],
   "balance": {
-   "ganados": 281,
-   "perdidos": 114,
-   "pendientes": 2,
-   "acierto": 71.1,
-   "total": 395
+   "ganados": 282,
+   "perdidos": 115,
+   "pendientes": 0,
+   "acierto": 71.0,
+   "total": 397
   }
  },
  "mejor_dia": {
