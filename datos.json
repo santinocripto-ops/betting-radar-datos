@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-16T01:07:50.957989+00:00",
+ "actualizado": "2026-09-16T01:16:08.199043+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:09",
    "tipo": "live"
   }
  ],
@@ -144,70 +144,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Londrina",
-   "away": "Ponte Preta",
-   "liga": "Serie B",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
-  },
-  {
-   "home": "ABB",
-   "away": "The Strongest",
-   "liga": "Primera División",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
-  },
-  {
-   "home": "Elche",
-   "away": "Real Madrid",
-   "liga": "La Liga",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
-  },
-  {
-   "home": "Fram Reykjavik",
-   "away": "Breidablik",
-   "liga": "Úrvalsdeild",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
-  },
-  {
-   "home": "Liverpool",
-   "away": "Tottenham",
-   "liga": "League Cup",
-   "minuto": 10,
+   "home": "Puebla",
+   "away": "Toluca",
+   "liga": "Liga MX",
+   "minuto": 14,
    "score": 9.5,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
-  },
-  {
-   "home": "Motherwell",
-   "away": "Aberdeen",
-   "liga": "Premiership",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-15",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -536,8 +481,8 @@
     "cuota": 1.35,
     "pinnacle": true,
     "delta": 3.64,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-15T22:30:00+00:00",
     "ts": "2026-09-15T21:06:01.470901+00:00"
    },
@@ -723,11 +668,11 @@
    }
   ],
   "balance": {
-   "ganados": 280,
+   "ganados": 281,
    "perdidos": 114,
-   "pendientes": 3,
+   "pendientes": 2,
    "acierto": 71.1,
-   "total": 394
+   "total": 395
   }
  },
  "mejor_dia": {
@@ -811,7 +756,7 @@
   "n": 3006,
   "ganados": 2025,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
