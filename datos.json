@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T07:00:10.119956+00:00",
+ "actualizado": "2026-09-16T07:08:15.005475+00:00",
  "partidos_vivo": [
   {
    "home": "UAE U23",
@@ -127,7 +127,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 63,
-   "n_historico": 1409
+   "n_historico": 1410
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1420
+   "n_historico": 1421
   }
  ],
  "gol_temprano": [
@@ -433,7 +433,7 @@
    }
   ],
   "balance": {
-   "ganados": 1722,
+   "ganados": 1724,
    "perdidos": 1107,
    "acierto": 60.9,
    "yield": 15.7,
