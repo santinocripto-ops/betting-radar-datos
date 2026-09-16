@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T20:05:37.751103+00:00",
+ "actualizado": "2026-09-16T20:12:54.365304+00:00",
  "partidos_vivo": [
   {
    "home": "Everton",
@@ -588,13 +588,6 @@
    "home": "Deportivo La Coruna",
    "away": "Sevilla",
    "liga": "La Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Stjørdals-Blink",
-   "away": "Fredrikstad",
-   "liga": "NM Cupen",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
