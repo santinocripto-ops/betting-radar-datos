@@ -1,28 +1,68 @@
 {
- "actualizado": "2026-09-16T15:19:49.908373+00:00",
+ "actualizado": "2026-09-16T15:27:25.297632+00:00",
  "partidos_vivo": [
   {
-   "home": "Aris Thessalonikis",
-   "away": "Marko",
-   "liga": "Cup",
-   "minuto": 51,
+   "home": "Enna",
+   "away": "Milazzo",
+   "liga": "Serie D - Girone I",
+   "minuto": 61,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 7.8,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.95 goles/partido",
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
+  },
+  {
+   "home": "AC Palermo",
+   "away": "Digiesse PraiaTortora",
+   "liga": "Serie D - Girone I",
+   "minuto": 61,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.1,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.44 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — AC Palermo buscará el empate"
+   ]
+  },
+  {
+   "home": "FK Kukesi",
+   "away": "Pogradeci",
+   "liga": "1st Division",
+   "minuto": 61,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — FK Kukesi buscará el empate"
+   ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
