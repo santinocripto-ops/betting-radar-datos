@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T23:16:38.300817+00:00",
+ "actualizado": "2026-09-16T23:23:15.406163+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -239,7 +239,7 @@
   "balance_dia": 0.0,
   "ganados": 2956,
   "perdidos": 1327,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -247,7 +247,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4285,
+  "con_cuota_media": 4286,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -838,7 +838,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
