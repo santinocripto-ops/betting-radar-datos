@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T11:55:29.205341+00:00",
+ "actualizado": "2026-09-16T12:04:15.373748+00:00",
  "partidos_vivo": [
   {
    "home": "Japan U23",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:04",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,18 +96,6 @@
    "texto": "⚽ Nautico Recife vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.3 (7 casas)",
    "hora": "23:06",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:48",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
