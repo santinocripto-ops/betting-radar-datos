@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-16T08:58:41.144197+00:00",
+ "actualizado": "2026-09-16T09:07:01.290708+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "11:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:40",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ CRB vs Sport Recife · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.23 (8 cas",
-   "hora": "21:10",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
