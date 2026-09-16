@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T05:03:15.637448+00:00",
+ "actualizado": "2026-09-16T05:11:42.040310+00:00",
  "partidos_vivo": [
   {
    "home": "Puebla",
@@ -440,15 +440,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Puebla",
-   "away": "Toluca",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
