@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T19:34:11.965830+00:00",
+ "actualizado": "2026-09-16T19:41:47.495786+00:00",
  "partidos_vivo": [
   {
    "home": "Stoke City U21",
@@ -541,13 +541,6 @@
    "home": "Stjørdals-Blink",
    "away": "Fredrikstad",
    "liga": "NM Cupen",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Spartak Moscow",
-   "away": "Fakel",
-   "liga": "Premier League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
