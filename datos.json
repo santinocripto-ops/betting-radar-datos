@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T13:18:14.123954+00:00",
+ "actualizado": "2026-09-16T13:18:32.662902+00:00",
  "partidos_vivo": [
   {
    "home": "Merani Martvili",
@@ -165,6 +165,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Seravezza",
+   "away": "Montevarchi Calcio",
+   "liga": "Serie D - Girone E",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
+  {
+   "home": "Luparense",
+   "away": "Virtus Bolzano",
+   "liga": "Serie D - Girone C",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
   {
    "home": "Enisey",
    "away": "Arsenal Tula",
@@ -806,7 +828,7 @@
   "n": 3007,
   "ganados": 2025,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 4,
