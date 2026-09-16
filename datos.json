@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-15T23:57:18.710591+00:00",
+ "actualizado": "2026-09-16T00:05:08.547927+00:00",
  "partidos_vivo": [
   {
    "home": "Londrina",
@@ -220,7 +220,7 @@
    "minuto": 18,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-15",
    "es_hoy": false
   },
@@ -271,12 +271,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50949.0,
-  "balance_total": 40949.0,
+  "capital": 51010.0,
+  "balance_total": 41010.0,
   "balance_dia": 0.0,
-  "ganados": 2937,
+  "ganados": 2938,
   "perdidos": 1316,
-  "pendientes": 4,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -867,8 +867,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3004,
-  "ganados": 2023,
+  "n": 3005,
+  "ganados": 2024,
   "win_rate": 67,
   "hoy": 0
  },
