@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-16T21:08:55.723064+00:00",
+ "actualizado": "2026-09-16T21:21:50.888693+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
    "away": "Racing Santander",
    "liga": "La Liga",
-   "minuto": 56,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
+   "minuto": 65,
+   "marcador": "4-2",
+   "apuesta": "Over 6.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -18,11 +18,11 @@
    "razones": [
     "⭐ Bonus liga: +1.5 (La Liga)",
     "⚽ Liga goleadora: 3.11 goles/partido",
-    "🔥 5 goles — partido muy abierto"
+    "🔥 6 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
