@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T09:22:53.746599+00:00",
+ "actualizado": "2026-09-16T09:31:01.747416+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -661,6 +661,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Guangzhou: Naoya Honda vs Nikoloz Basilashvili",
+   "apuesta": "SI, Guangzhou: Naoya Honda ganara",
+   "usdc": 114393,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "11:30"
+  },
+  {
    "titulo": "W35 Shenyang: Meng Yi Chen vs Tahlia Kokkinis",
    "apuesta": "SI, W35 Shenyang: Meng Yi Chen ganara",
    "usdc": 161178,
@@ -722,15 +731,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "18:27"
-  },
-  {
-   "titulo": "Will Genoa CFC win on 2026-09-15?",
-   "apuesta": "SI, Genoa CFC ganara",
-   "usdc": 24348,
-   "prob": 63.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:18"
   }
  ],
  "stats_gt": {
