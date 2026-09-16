@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T08:03:47.541965+00:00",
+ "actualizado": "2026-09-16T08:11:41.875512+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -423,6 +423,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "FC Lugano",
+    "away": "FC ST. Gallen",
+    "liga": "Super League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 3.15,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-16T17:00:00+00:00",
+    "ts": "2026-09-16T08:03:47.771391+00:00"
+   },
+   {
     "home": "CRB",
     "away": "Sport Recife",
     "liga": "Serie B",
@@ -631,27 +646,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-14T15:50:00+00:00",
     "ts": "2026-09-14T11:05:19.119985+00:00"
-   },
-   {
-    "home": "KAMAZ",
-    "away": "Chelyabinsk",
-    "liga": "First League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 7.47,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-14T15:00:00+00:00",
-    "ts": "2026-09-14T13:04:45.290717+00:00"
    }
   ],
   "balance": {
    "ganados": 282,
    "perdidos": 115,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 71.0,
    "total": 397
   }
