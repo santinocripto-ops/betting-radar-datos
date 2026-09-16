@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T14:34:48.192117+00:00",
+ "actualizado": "2026-09-16T14:42:35.964781+00:00",
  "partidos_vivo": [
   {
    "home": "Terengganu",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 29,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:42",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -110,12 +116,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "10:03",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "04:09",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
