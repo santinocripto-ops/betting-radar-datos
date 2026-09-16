@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T04:55:14.260900+00:00",
+ "actualizado": "2026-09-16T05:03:15.637448+00:00",
  "partidos_vivo": [
   {
    "home": "Puebla",
@@ -127,7 +127,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 63,
-   "n_historico": 1408
+   "n_historico": 1409
   },
   {
    "clave": "btts",
@@ -139,9 +139,9 @@
    "cuota": 1.67,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1419
+   "n_historico": 1420
   }
  ],
  "gol_temprano": [
@@ -182,7 +182,7 @@
     "away": "Corinthians W",
     "liga": "Brasileiro Women",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -434,7 +434,7 @@
   ],
   "balance": {
    "ganados": 1722,
-   "perdidos": 1105,
+   "perdidos": 1107,
    "acierto": 60.9,
    "yield": 15.7,
    "cuota_media": 1.9
