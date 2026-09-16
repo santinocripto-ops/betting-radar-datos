@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T13:57:56.516792+00:00",
+ "actualizado": "2026-09-16T14:06:08.627706+00:00",
  "partidos_vivo": [
   {
    "home": "Enisey",
@@ -147,7 +147,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 63,
-   "n_historico": 1410
+   "n_historico": 1411
   },
   {
    "clave": "btts",
@@ -160,8 +160,8 @@
    "score": 10,
    "hora": "00:30",
    "resultado": "perdido",
-   "wr_historico": 58,
-   "n_historico": 1421
+   "wr_historico": 59,
+   "n_historico": 1423
   }
  ],
  "gol_temprano": [
@@ -205,7 +205,7 @@
    "minuto": 12,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-16",
    "es_hoy": true
   },
@@ -223,13 +223,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51016.0,
-  "balance_total": 41016.0,
-  "balance_dia": 6.0,
-  "ganados": 2940,
+  "capital": 51077.0,
+  "balance_total": 41077.0,
+  "balance_dia": 67.0,
+  "ganados": 2941,
   "perdidos": 1317,
-  "pendientes": 6,
-  "ganados_dia": 2,
+  "pendientes": 5,
+  "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.6,
@@ -291,7 +291,7 @@
     "away": "Istaravshan",
     "liga": "Vysshaya Liga",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -419,7 +419,7 @@
     "away": "Kepezspor",
     "liga": "Türkiye Kupası",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -497,10 +497,10 @@
    }
   ],
   "balance": {
-   "ganados": 1724,
+   "ganados": 1727,
    "perdidos": 1107,
    "acierto": 60.9,
-   "yield": 15.7,
+   "yield": 15.8,
    "cuota_media": 1.9
   }
  },
@@ -825,16 +825,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3007,
-  "ganados": 2025,
+  "n": 3008,
+  "ganados": 2026,
   "win_rate": 67,
   "hoy": 5
  },
  "stats_dia": {
-  "ganados": 4,
+  "ganados": 5,
   "perdidos": 1,
-  "en_juego": 4,
-  "win_rate": 80
+  "en_juego": 3,
+  "win_rate": 83
  },
  "stats_banker": {
   "ganados": 100,
