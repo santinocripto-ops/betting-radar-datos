@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-16T18:07:06.609992+00:00",
+ "actualizado": "2026-09-16T18:16:04.484340+00:00",
  "partidos_vivo": [
   {
    "home": "Ararat-Armenia",
@@ -127,6 +127,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:07",
    "tipo": "live"
@@ -190,12 +196,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:37",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -246,6 +246,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Progreso",
+   "away": "Club Nacional",
+   "liga": "Copa Uruguay",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-16",
+   "es_hoy": true
+  },
+  {
    "home": "Lokomotiv",
    "away": "Krylia Sovetov",
    "liga": "Premier League",
@@ -294,17 +305,6 @@
    "away": "Hoffenheim II",
    "liga": "3. Liga",
    "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-16",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportivo La Coruna",
-   "away": "Sevilla",
-   "liga": "La Liga",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -962,7 +962,7 @@
   "n": 3015,
   "ganados": 2029,
   "win_rate": 67,
-  "hoy": 15
+  "hoy": 16
  },
  "stats_dia": {
   "ganados": 12,
