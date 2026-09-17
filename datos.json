@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T02:57:36.294885+00:00",
+ "actualizado": "2026-09-17T03:04:56.578283+00:00",
  "partidos_vivo": [
   {
    "home": "Denver Summit W",
@@ -131,9 +131,9 @@
    "cuota": null,
    "score": 8.7,
    "hora": "00:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 269
+   "n_historico": 270
   },
   {
    "clave": "over25",
@@ -145,9 +145,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1428
+   "n_historico": 1430
   },
   {
    "clave": "btts",
@@ -159,9 +159,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1438
+   "n_historico": 1442
   }
  ],
  "gol_temprano": [
@@ -202,7 +202,7 @@
     "away": "Cruz Azul",
     "liga": "Campeones Cup",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -211,7 +211,7 @@
     "away": "Deportivo Saprissa",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -247,7 +247,7 @@
     "away": "New Mexico United",
     "liga": "USL Championship",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -330,7 +330,7 @@
     "away": "Cruz Azul",
     "liga": "Campeones Cup",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -375,7 +375,7 @@
     "away": "Deportivo Saprissa",
     "liga": "CONCACAF Central American Cup",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -453,8 +453,8 @@
    }
   ],
   "balance": {
-   "ganados": 1750,
-   "perdidos": 1116,
+   "ganados": 1754,
+   "perdidos": 1118,
    "acierto": 61.1,
    "yield": 16.0,
    "cuota_media": 1.9
