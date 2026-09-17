@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-17T14:04:43.414161+00:00",
+ "actualizado": "2026-09-17T14:13:24.410676+00:00",
  "partidos_vivo": [
   {
-   "home": "Iberia 2010",
-   "away": "Merani Tbilisi",
+   "home": "FC Iberia 1999 II",
+   "away": "WIT Georgia",
    "liga": "Liga 3",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 9.0,
+   "score": 8.1,
    "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
     "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚽ 1 gol — Merani Tbilisi buscará el empate"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Djibouti U20",
+   "away": "Sudan U20",
+   "liga": "CECAFA U20 Championship",
+   "minuto": 55,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
