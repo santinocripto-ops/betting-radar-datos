@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T20:53:59.010747+00:00",
+ "actualizado": "2026-09-17T21:01:23.439421+00:00",
  "partidos_vivo": [
   {
    "home": "Malaga",
@@ -751,6 +751,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Rennes: Daniel Rincon vs Titouan Droguet",
+   "apuesta": "SI, Rennes: Daniel Rincon ganara",
+   "usdc": 21558,
+   "prob": 27.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:01"
+  },
+  {
    "titulo": "Will AFC Bournemouth win on 2026-09-17?",
    "apuesta": "SI, AFC Bournemouth ganara",
    "usdc": 170724,
@@ -812,15 +821,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "18:21"
-  },
-  {
-   "titulo": "Will Real Sociedad de Fútbol win on 2026-09-17?",
-   "apuesta": "NO, Real Sociedad de Fútbol no ganara",
-   "usdc": 170949,
-   "prob": 68.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "17:28"
   }
  ],
  "stats_gt": {
