@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-17T20:31:36.489216+00:00",
+ "actualizado": "2026-09-17T20:39:19.891867+00:00",
  "partidos_vivo": [
   {
-   "home": "AFC Wimbledon",
-   "away": "Milton Keynes Dons",
-   "liga": "League One",
+   "home": "Malaga",
+   "away": "Villarreal",
+   "liga": "La Liga",
    "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Celtic",
-   "away": "Ferencvarosi TC",
-   "liga": "UEFA Europa League",
-   "minuto": 47,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 54,
-   "momentum_away": 46,
+   "momentum_home": 6,
+   "momentum_away": 94,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.0 (UEFA Europa League)",
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga muy goleadora: 3.36 goles/partido",
     "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
