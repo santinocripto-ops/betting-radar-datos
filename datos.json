@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T21:44:07.124137+00:00",
+ "actualizado": "2026-09-17T21:51:23.582305+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -474,15 +474,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Tzeirey Tira",
-   "away": "Dimona",
-   "liga": "Liga Alef",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
