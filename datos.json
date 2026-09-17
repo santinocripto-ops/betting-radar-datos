@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T19:02:39.813875+00:00",
+ "actualizado": "2026-09-17T19:31:58.307593+00:00",
  "partidos_vivo": [
   {
    "home": "Orlando Pirates",
@@ -628,8 +628,8 @@
     "cuota": 1.1,
     "pinnacle": true,
     "delta": 3.1,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-17T16:45:00+00:00",
     "ts": "2026-09-17T12:03:48.336422+00:00"
    },
@@ -643,8 +643,8 @@
     "cuota": 1.36,
     "pinnacle": true,
     "delta": 3.2,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-17T16:45:00+00:00",
     "ts": "2026-09-17T12:03:48.843668+00:00"
    },
@@ -770,11 +770,11 @@
    }
   ],
   "balance": {
-   "ganados": 286,
-   "perdidos": 118,
-   "pendientes": 7,
-   "acierto": 70.8,
-   "total": 404
+   "ganados": 287,
+   "perdidos": 119,
+   "pendientes": 5,
+   "acierto": 70.7,
+   "total": 406
   }
  },
  "mejor_dia": {
