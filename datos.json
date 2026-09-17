@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T20:05:05.707433+00:00",
+ "actualizado": "2026-09-17T20:12:04.876940+00:00",
  "partidos_vivo": [
   {
    "home": "AFC Wimbledon",
@@ -522,13 +522,6 @@
    "liga": "Liga Alef",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "FC Iberia 1999",
-   "away": "Dila",
-   "liga": "Erovnuli Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -588,8 +581,8 @@
     "cuota": 1.29,
     "pinnacle": true,
     "delta": 3.52,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-17T17:45:00+00:00",
     "ts": "2026-09-17T08:06:10.218595+00:00"
    },
@@ -603,8 +596,8 @@
     "cuota": 1.61,
     "pinnacle": true,
     "delta": 3.34,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-3",
+    "resultado": "perdido",
     "kickoff": "2026-09-17T17:45:00+00:00",
     "ts": "2026-09-17T08:06:10.411613+00:00"
    },
@@ -760,11 +753,11 @@
    }
   ],
   "balance": {
-   "ganados": 287,
-   "perdidos": 119,
-   "pendientes": 5,
-   "acierto": 70.7,
-   "total": 406
+   "ganados": 288,
+   "perdidos": 120,
+   "pendientes": 3,
+   "acierto": 70.6,
+   "total": 408
   }
  },
  "mejor_dia": {
