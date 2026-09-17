@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T04:58:57.282846+00:00",
+ "actualizado": "2026-09-17T05:06:33.820485+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -113,7 +113,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 270
+   "n_historico": 271
   },
   {
    "clave": "over25",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1446
+   "n_historico": 1448
   }
  ],
  "gol_temprano": [
@@ -152,23 +152,23 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50909.0,
-  "balance_total": 40909.0,
-  "balance_dia": 61.0,
-  "ganados": 2957,
+  "capital": 50970.0,
+  "balance_total": 40970.0,
+  "balance_dia": 122.0,
+  "ganados": 2958,
   "perdidos": 1327,
-  "pendientes": 3,
-  "ganados_dia": 1,
+  "pendientes": 2,
+  "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.0,
-  "roi": 9.5,
+  "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -218,7 +218,7 @@
     "away": "Charlotte Independence",
     "liga": "USL League One",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -433,9 +433,9 @@
    }
   ],
   "balance": {
-   "ganados": 1758,
+   "ganados": 1760,
    "perdidos": 1122,
-   "acierto": 61.0,
+   "acierto": 61.1,
    "yield": 16.0,
    "cuota_media": 1.9
   }
@@ -755,15 +755,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3025,
-  "ganados": 2033,
+  "n": 3026,
+  "ganados": 2034,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 0,
   "win_rate": 100
  },
  "stats_banker": {
