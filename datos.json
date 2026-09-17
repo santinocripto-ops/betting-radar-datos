@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T14:57:32.250132+00:00",
+ "actualizado": "2026-09-17T15:05:01.382488+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -111,7 +111,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 271
+   "n_historico": 272
   },
   {
    "clave": "over25",
@@ -125,7 +125,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1441
+   "n_historico": 1443
   },
   {
    "clave": "btts",
@@ -139,7 +139,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1451
+   "n_historico": 1452
   }
  ],
  "gol_temprano": [
@@ -276,7 +276,7 @@
     "away": "Dinamo Tbilisi II",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -404,7 +404,7 @@
     "away": "Dinamo Tbilisi II",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -464,9 +464,9 @@
    }
   ],
   "balance": {
-   "ganados": 1769,
-   "perdidos": 1123,
-   "acierto": 61.2,
+   "ganados": 1770,
+   "perdidos": 1125,
+   "acierto": 61.1,
    "yield": 16.2,
    "cuota_media": 1.9
   }
