@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T11:55:53.327746+00:00",
+ "actualizado": "2026-09-17T12:04:05.826736+00:00",
  "partidos_vivo": [
   {
    "home": "Myanmar W",
@@ -45,6 +45,24 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Levski Sofia vs Red Bull Salzburg · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 ",
+   "hora": "14:04",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:03",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "14:03",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Dinamo Makhachkala vs CSKA Moscow · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.26 (3 casas)",
@@ -98,28 +116,19 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:57",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:07",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Levski Sofia",
+   "away": "Red Bull Salzburg",
+   "liga": "UEFA Europa League",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.34,
+   "resultado": "pendiente",
+   "fecha": "2026-09-17"
+  },
   {
    "home": "Dinamo Makhachkala",
    "away": "CSKA Moscow",
@@ -805,7 +814,7 @@
  "stats_banker": {
   "ganados": 100,
   "perdidos": 38,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
