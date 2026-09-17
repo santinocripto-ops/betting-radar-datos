@@ -1,50 +1,256 @@
 {
- "actualizado": "2026-09-17T17:16:13.817353+00:00",
+ "actualizado": "2026-09-17T17:19:45.605391+00:00",
  "partidos_vivo": [
   {
-   "home": "Akron",
-   "away": "Akhmat",
-   "liga": "Premier League",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "FC Iberia 1999",
+   "away": "Dila",
+   "liga": "Erovnuli Liga",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 1 gol — Akhmat buscará el empate",
-    "🎯 13 remates totales"
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
    ]
   },
   {
-   "home": "FC Rostov",
-   "away": "Dynamo",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Nizhny Novgorod",
+   "away": "Leningradets",
+   "liga": "First League",
+   "minuto": 58,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 85,
+   "momentum_away": 15,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 1 gol — FC Rostov buscará el empate",
-    "🎯 13 remates totales"
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Leningradets pierde por 4 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Torpedo Moskva",
+   "away": "Veles",
+   "liga": "First League",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 57,
+   "momentum_away": 43,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Stord",
+   "away": "Djerv",
+   "liga": "3. Division - Girone 3",
+   "minuto": 59,
+   "marcador": "3-2",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.34 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "FC Levadia Tallinn",
+   "away": "Tammeka",
+   "liga": "Meistriliiga",
+   "minuto": 59,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Viimsi",
+   "away": "Tartu Welco",
+   "liga": "Esiliiga A",
+   "minuto": 61,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Viimsi buscará el empate"
+   ]
+  },
+  {
+   "home": "Bnei Yehuda",
+   "away": "Maccabi Herzliya",
+   "liga": "Liga Leumit",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Maccabi Herzliya buscará el empate"
+   ]
+  },
+  {
+   "home": "Hapoel Afula",
+   "away": "Hapoel Kfar Shalem",
+   "liga": "Liga Leumit",
+   "minuto": 58,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Hapoel Ra'anana",
+   "away": "Maccabi Kiryat Gat",
+   "liga": "Liga Leumit",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Maccabi Kabilio Jaffa",
+   "away": "Maccabi Bnei Raina",
+   "liga": "Liga Leumit",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Neom SC W",
+   "away": "Al-Ula W",
+   "liga": "Premier League Women",
+   "minuto": 52,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Orduspor 1967",
+   "away": "Torul Belediye Genclik",
+   "liga": "Türkiye Kupası",
+   "minuto": 56,
+   "marcador": "6-0",
+   "apuesta": "Over 6.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.61 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 6 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 21,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:19",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -110,12 +316,6 @@
    "texto": "⚽ Levski Sofia vs Red Bull Salzburg · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 ",
    "hora": "14:04",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:03",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -185,6 +385,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Real Betis",
+   "away": "Getafe",
+   "liga": "La Liga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-17",
+   "es_hoy": true
+  },
+  {
    "home": "Hapoel Afula",
    "away": "Hapoel Kfar Shalem",
    "liga": "Liga Leumit",
@@ -233,17 +444,6 @@
    "away": "Dinamo Tbilisi II",
    "liga": "Liga 3",
    "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": true
-  },
-  {
-   "home": "Margveti 2006",
-   "away": "Gardabani",
-   "liga": "Liga 3",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -553,6 +753,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Polessya",
+    "away": "Kryvbas KR",
+    "liga": "Premier League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.08,
+    "pinnacle": false,
+    "delta": 5.39,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T12:30:00+00:00",
+    "ts": "2026-09-17T17:08:22.486543+00:00"
+   },
+   {
+    "home": "Polessya",
+    "away": "Kryvbas KR",
+    "liga": "Premier League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.22,
+    "pinnacle": false,
+    "delta": 4.87,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T12:30:00+00:00",
+    "ts": "2026-09-17T17:08:22.752660+00:00"
+   },
+   {
     "home": "Plzen",
     "away": "Union St. Gilloise",
     "liga": "UEFA Europa League",
@@ -746,42 +976,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-16T00:00:00+00:00",
     "ts": "2026-09-15T15:09:54.563137+00:00"
-   },
-   {
-    "home": "CRB",
-    "away": "Sport Recife",
-    "liga": "Serie B",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.29,
-    "pinnacle": true,
-    "delta": 3.78,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-16T00:00:00+00:00",
-    "ts": "2026-09-15T19:10:40.369993+00:00"
-   },
-   {
-    "home": "Nautico Recife",
-    "away": "Operario-PR",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 6,
-    "cuota": 1.35,
-    "pinnacle": true,
-    "delta": 3.64,
-    "marcador": "3-3",
-    "resultado": "ganado",
-    "kickoff": "2026-09-15T22:30:00+00:00",
-    "ts": "2026-09-15T21:06:01.470901+00:00"
    }
   ],
   "balance": {
    "ganados": 286,
    "perdidos": 118,
-   "pendientes": 5,
+   "pendientes": 7,
    "acierto": 70.8,
    "total": 404
   }
@@ -873,7 +1073,7 @@
   "n": 3029,
   "ganados": 2036,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 4,
