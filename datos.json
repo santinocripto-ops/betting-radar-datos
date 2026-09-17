@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T18:00:46.227668+00:00",
+ "actualizado": "2026-09-17T18:09:02.210441+00:00",
  "partidos_vivo": [
   {
    "home": "Levski Sofia",
@@ -172,7 +172,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 273
+   "n_historico": 274
   },
   {
    "clave": "over25",
@@ -186,7 +186,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1444
+   "n_historico": 1448
   },
   {
    "clave": "btts",
@@ -200,7 +200,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1453
+   "n_historico": 1458
   }
  ],
  "gol_temprano": [
@@ -244,7 +244,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": true
   },
@@ -255,7 +255,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": true
   },
@@ -266,21 +266,21 @@
    "minuto": 14,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-17",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50892.0,
-  "balance_total": 40892.0,
-  "balance_dia": 44.0,
-  "ganados": 2960,
-  "perdidos": 1329,
-  "pendientes": 9,
-  "ganados_dia": 4,
-  "perdidos_dia": 2,
+  "capital": 50959.0,
+  "balance_total": 40959.0,
+  "balance_dia": 111.0,
+  "ganados": 2963,
+  "perdidos": 1330,
+  "pendientes": 5,
+  "ganados_dia": 7,
+  "perdidos_dia": 3,
   "win_rate": 69.0,
   "roi": 9.5,
   "stake": 100.0,
@@ -377,7 +377,7 @@
     "away": "Djerv",
     "liga": "3. Division - Girone 3",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -386,7 +386,7 @@
     "away": "Tartu Welco",
     "liga": "Esiliiga A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -395,7 +395,7 @@
     "away": "Hapoel Kfar Shalem",
     "liga": "Liga Leumit",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -413,7 +413,7 @@
     "away": "Valerenga",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -523,7 +523,7 @@
     "away": "Djerv",
     "liga": "3. Division - Girone 3",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -532,7 +532,7 @@
     "away": "Tartu Welco",
     "liga": "Esiliiga A",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -541,14 +541,14 @@
     "away": "Hapoel Kfar Shalem",
     "liga": "Liga Leumit",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1770,
-   "perdidos": 1127,
+   "ganados": 1776,
+   "perdidos": 1130,
    "acierto": 61.1,
    "yield": 16.1,
    "cuota_media": 1.9
@@ -560,7 +560,7 @@
    "away": "Dila",
    "liga": "Erovnuli Liga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -883,16 +883,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3029,
-  "ganados": 2036,
+  "n": 3032,
+  "ganados": 2038,
   "win_rate": 67,
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 2,
-  "en_juego": 9,
-  "win_rate": 67
+  "ganados": 7,
+  "perdidos": 3,
+  "en_juego": 5,
+  "win_rate": 70
  },
  "stats_banker": {
   "ganados": 100,
