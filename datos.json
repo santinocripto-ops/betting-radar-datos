@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T12:19:57.646893+00:00",
+ "actualizado": "2026-09-17T12:27:22.153089+00:00",
  "partidos_vivo": [
   {
    "home": "Akademiya Ontustik",
@@ -245,7 +245,7 @@
   "balance_dia": 122.0,
   "ganados": 2958,
   "perdidos": 1327,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -253,7 +253,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4288,
+  "con_cuota_media": 4289,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -850,7 +850,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 100
  },
  "stats_banker": {
