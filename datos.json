@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T10:12:05.626057+00:00",
+ "actualizado": "2026-09-17T10:19:12.625880+00:00",
  "partidos_vivo": [
   {
    "home": "Bangladesh W",
@@ -718,6 +718,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A",
+   "apuesta": "SI, Counter-Strike: B8 ganara",
+   "usdc": 110000,
+   "prob": 58.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "12:18"
+  },
+  {
    "titulo": "Map Handicap: MOUZ (-1.5) vs NRG (+1.5)",
    "apuesta": "SI, Map Handicap: MOUZ (-1.5) ganara",
    "usdc": 178000,
@@ -779,15 +788,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "23:08"
-  },
-  {
-   "titulo": "RSC Anderlecht vs. Olympique Lyonnais: O/U 3.5",
-   "apuesta": "SI, mas de 3.5 goles",
-   "usdc": 20993,
-   "prob": 20.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:47"
   }
  ],
  "stats_gt": {
