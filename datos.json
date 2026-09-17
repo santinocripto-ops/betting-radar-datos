@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T10:04:39.127244+00:00",
+ "actualizado": "2026-09-17T10:05:07.804762+00:00",
  "partidos_vivo": [
   {
    "home": "Bangladesh W",
@@ -708,7 +708,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "18:00",
+  "cuota": 1.35,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
