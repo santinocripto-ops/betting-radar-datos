@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T16:21:53.473899+00:00",
+ "actualizado": "2026-09-17T16:29:18.873298+00:00",
  "partidos_vivo": [
   {
    "home": "Lokomotivi Tbilisi",
@@ -790,6 +790,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spread: Manchester City FC (-2.5)",
+   "apuesta": "SI — Spread: Manchester City FC (-2.5)",
+   "usdc": 123159,
+   "prob": 45.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "18:29"
+  },
+  {
    "titulo": "Counter-Strike: Natus Vincere vs Aurora Gaming - Map 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 19048,
@@ -851,15 +860,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "11:29"
-  },
-  {
-   "titulo": "Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong",
-   "apuesta": "SI, Guangzhou: James Kent Trotter ganara",
-   "usdc": 23842,
-   "prob": 34.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "10:13"
   }
  ],
  "stats_gt": {
