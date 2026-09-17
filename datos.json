@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T03:55:10.495494+00:00",
+ "actualizado": "2026-09-17T04:02:39.828665+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -127,7 +127,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1430
+   "n_historico": 1434
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1442
+   "n_historico": 1446
   }
  ],
  "gol_temprano": [
@@ -433,9 +433,9 @@
    }
   ],
   "balance": {
-   "ganados": 1754,
-   "perdidos": 1118,
-   "acierto": 61.1,
+   "ganados": 1758,
+   "perdidos": 1122,
+   "acierto": 61.0,
    "yield": 16.0,
    "cuota_media": 1.9
   }
