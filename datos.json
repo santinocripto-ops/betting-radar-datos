@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T16:14:20.580283+00:00",
+ "actualizado": "2026-09-17T16:21:53.473899+00:00",
  "partidos_vivo": [
   {
    "home": "Lokomotivi Tbilisi",
@@ -258,7 +258,7 @@
   "balance_dia": 44.0,
   "ganados": 2960,
   "perdidos": 1329,
-  "pendientes": 2,
+  "pendientes": 5,
   "ganados_dia": 4,
   "perdidos_dia": 2,
   "win_rate": 69.0,
@@ -266,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4291,
+  "con_cuota_media": 4294,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -790,6 +790,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Natus Vincere vs Aurora Gaming - Map 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 19048,
+   "prob": 44.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "18:21"
+  },
+  {
    "titulo": "Will Real Sociedad de Fútbol win on 2026-09-17?",
    "apuesta": "NO, Real Sociedad de Fútbol no ganara",
    "usdc": 170949,
@@ -851,15 +860,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "10:13"
-  },
-  {
-   "titulo": "Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A",
-   "apuesta": "SI, Counter-Strike: NIP ganara",
-   "usdc": 100000,
-   "prob": 56.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "05:47"
   }
  ],
  "stats_gt": {
@@ -871,7 +871,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 2,
-  "en_juego": 2,
+  "en_juego": 5,
   "win_rate": 67
  },
  "stats_banker": {
