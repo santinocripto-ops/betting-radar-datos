@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T00:03:36.859016+00:00",
+ "actualizado": "2026-09-17T00:11:36.059375+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -22,7 +22,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
