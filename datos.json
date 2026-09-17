@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T04:02:39.828665+00:00",
+ "actualizado": "2026-09-17T04:10:03.836524+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -444,21 +444,6 @@
  "pagina_smart": {
   "picks": [
    {
-    "home": "Denver Summit W",
-    "away": "Bay FC W",
-    "liga": "NWSL Women",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 6,
-    "cuota": 1.19,
-    "pinnacle": true,
-    "delta": 4.21,
-    "marcador": "",
-    "resultado": "pendiente",
-    "kickoff": "2026-09-17T01:30:00+00:00",
-    "ts": "2026-09-16T14:06:44.746252+00:00"
-   },
-   {
     "home": "Barcelona",
     "away": "Racing Santander",
     "liga": "La Liga",
@@ -472,6 +457,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-16T19:30:00+00:00",
     "ts": "2026-09-16T14:06:43.675898+00:00"
+   },
+   {
+    "home": "Denver Summit W",
+    "away": "Bay FC W",
+    "liga": "NWSL Women",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 6,
+    "cuota": 1.19,
+    "pinnacle": true,
+    "delta": 4.21,
+    "marcador": "2-2",
+    "resultado": "ganado",
+    "kickoff": "2026-09-17T01:30:00+00:00",
+    "ts": "2026-09-16T14:06:44.746252+00:00"
    },
    {
     "home": "Olympiakos Piraeus",
@@ -670,11 +670,11 @@
    }
   ],
   "balance": {
-   "ganados": 284,
+   "ganados": 285,
    "perdidos": 118,
-   "pendientes": 2,
-   "acierto": 70.6,
-   "total": 402
+   "pendientes": 1,
+   "acierto": 70.7,
+   "total": 403
   }
  },
  "mejor_dia": {
