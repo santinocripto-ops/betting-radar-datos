@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-17T22:07:37.621101+00:00",
+ "actualizado": "2026-09-17T22:15:52.489673+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Real Tomayapo",
+   "away": "Oriente Petrolero",
+   "liga": "Primera División",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-17",
+   "es_hoy": false
+  },
+  {
    "home": "Manchester City",
    "away": "Norwich",
    "liga": "League Cup",
@@ -172,17 +183,6 @@
    "home": "Hapoel Afula",
    "away": "Hapoel Kfar Shalem",
    "liga": "Liga Leumit",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "FC Levadia Tallinn",
-   "away": "Tammeka",
-   "liga": "Meistriliiga",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
@@ -517,8 +517,8 @@
     "cuota": 1.5,
     "pinnacle": true,
     "delta": 3.44,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-3",
+    "resultado": "perdido",
     "kickoff": "2026-09-17T19:00:00+00:00",
     "ts": "2026-09-17T08:06:05.679943+00:00"
    },
@@ -705,10 +705,10 @@
   ],
   "balance": {
    "ganados": 288,
-   "perdidos": 120,
-   "pendientes": 3,
-   "acierto": 70.6,
-   "total": 408
+   "perdidos": 121,
+   "pendientes": 2,
+   "acierto": 70.4,
+   "total": 409
   }
  },
  "mejor_dia": {
