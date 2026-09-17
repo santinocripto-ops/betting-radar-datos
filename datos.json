@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T23:05:01.256911+00:00",
+ "actualizado": "2026-09-17T23:11:44.146270+00:00",
  "partidos_vivo": [
   {
    "home": "Real Tomayapo",
@@ -509,6 +509,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Sesvete",
+    "away": "HNK Cibalia",
+    "liga": "First NL",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 5.02,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T14:30:00+00:00",
+    "ts": "2026-09-17T23:04:42.757827+00:00"
+   },
+   {
     "home": "Polessya",
     "away": "Kryvbas KR",
     "liga": "Premier League",
@@ -537,6 +552,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-18T12:30:00+00:00",
     "ts": "2026-09-17T17:08:22.752660+00:00"
+   },
+   {
+    "home": "Hangzhou Greentown",
+    "away": "Wuhan Three Towns",
+    "liga": "Super League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.94,
+    "pinnacle": true,
+    "delta": 2.97,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T11:35:00+00:00",
+    "ts": "2026-09-17T23:04:40.345214+00:00"
    },
    {
     "home": "Plzen",
@@ -702,42 +732,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-16T17:00:00+00:00",
     "ts": "2026-09-16T09:07:01.584392+00:00"
-   },
-   {
-    "home": "Enisey",
-    "away": "Arsenal Tula",
-    "liga": "First League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.5,
-    "pinnacle": true,
-    "delta": 4.24,
-    "marcador": "3-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-16T12:30:00+00:00",
-    "ts": "2026-09-16T12:04:15.553562+00:00"
-   },
-   {
-    "home": "CRB",
-    "away": "Sport Recife",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 7,
-    "cuota": 1.98,
-    "pinnacle": true,
-    "delta": 3.96,
-    "marcador": "2-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-16T00:00:00+00:00",
-    "ts": "2026-09-15T15:09:54.563137+00:00"
    }
   ],
   "balance": {
    "ganados": 288,
    "perdidos": 121,
-   "pendientes": 2,
+   "pendientes": 4,
    "acierto": 70.4,
    "total": 409
   }
@@ -828,7 +828,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
