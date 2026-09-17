@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T03:48:10.593584+00:00",
+ "actualizado": "2026-09-17T03:55:10.495494+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -20,29 +20,9 @@
     "⚽ Liga goleadora: 3.07 goles/partido",
     "🔥 6 goles — partido muy abierto"
    ]
-  },
-  {
-   "home": "Angel City W",
-   "away": "Seattle Reign FC W",
-   "liga": "NWSL Women",
-   "minuto": 58,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Seattle Reign FC W pierde por 2 — atacará sin freno"
-   ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
