@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T13:57:18.430309+00:00",
+ "actualizado": "2026-09-17T14:04:43.414161+00:00",
  "partidos_vivo": [
   {
    "home": "Iberia 2010",
@@ -146,7 +146,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1440
+   "n_historico": 1441
   },
   {
    "clave": "btts",
@@ -182,7 +182,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": true
   },
@@ -193,7 +193,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": true
   },
@@ -211,13 +211,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50970.0,
-  "balance_total": 40970.0,
-  "balance_dia": 122.0,
-  "ganados": 2958,
+  "capital": 51092.0,
+  "balance_total": 41092.0,
+  "balance_dia": 244.0,
+  "ganados": 2960,
   "perdidos": 1327,
-  "pendientes": 5,
-  "ganados_dia": 2,
+  "pendientes": 3,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.6,
@@ -434,7 +434,7 @@
     "away": "Gardabani",
     "liga": "Liga 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -485,7 +485,7 @@
    }
   ],
   "balance": {
-   "ganados": 1768,
+   "ganados": 1769,
    "perdidos": 1123,
    "acierto": 61.2,
    "yield": 16.2,
@@ -813,15 +813,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3026,
-  "ganados": 2034,
+  "n": 3028,
+  "ganados": 2036,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
