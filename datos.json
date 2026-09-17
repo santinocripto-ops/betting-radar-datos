@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T09:22:14.927609+00:00",
+ "actualizado": "2026-09-17T09:29:30.061557+00:00",
  "partidos_vivo": [
   {
    "home": "Bangladesh W",
@@ -712,6 +712,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Map Handicap: MOUZ (-1.5) vs NRG (+1.5)",
+   "apuesta": "SI, Map Handicap: MOUZ (-1.5) ganara",
+   "usdc": 178000,
+   "prob": 62.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "11:29"
+  },
+  {
    "titulo": "Guangzhou: James Kent Trotter vs Mitsuki Wei Kang Leong",
    "apuesta": "SI, Guangzhou: James Kent Trotter ganara",
    "usdc": 23842,
@@ -773,15 +782,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "22:47"
-  },
-  {
-   "titulo": "Will Sport Lisboa e Benfica win on 2026-09-16?",
-   "apuesta": "NO, Sport Lisboa e Benfica no ganara",
-   "usdc": 30074,
-   "prob": 48.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "21:48"
   }
  ],
  "stats_gt": {
