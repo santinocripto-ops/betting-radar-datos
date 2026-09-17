@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T17:52:52.782399+00:00",
+ "actualizado": "2026-09-17T18:00:46.227668+00:00",
  "partidos_vivo": [
   {
    "home": "Levski Sofia",
@@ -810,6 +810,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Rennes: Adrian Mannarino vs Matisse Bobichon",
+   "apuesta": "SI, Rennes: Adrian Mannarino ganara",
+   "usdc": 100463,
+   "prob": 9.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:00"
+  },
+  {
    "titulo": "Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Grou",
    "apuesta": "SI, Counter-Strike: Luminosity ganara",
    "usdc": 101360,
@@ -871,15 +880,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "16:57"
-  },
-  {
-   "titulo": "Will Real Betis Balompié win on 2026-09-17?",
-   "apuesta": "SI, Real Betis Balompié ganara",
-   "usdc": 256907,
-   "prob": 63.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "16:42"
   }
  ],
  "stats_gt": {
