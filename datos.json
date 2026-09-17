@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T17:08:22.549522+00:00",
+ "actualizado": "2026-09-17T17:16:13.817353+00:00",
  "partidos_vivo": [
   {
    "home": "Akron",
@@ -797,6 +797,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Villarreal CF win on 2026-09-17?",
+   "apuesta": "SI, Villarreal ganara",
+   "usdc": 49029,
+   "prob": 48.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "19:16"
+  },
+  {
    "titulo": "Valencia: Alicia Herrero Linana vs Rebeka Masarova",
    "apuesta": "SI, Valencia: Alicia Herrero Linana ganara",
    "usdc": 22090,
@@ -858,15 +867,6 @@
    "n_traders": 2,
    "trader": "ImJustKen",
    "hora": "16:34"
-  },
-  {
-   "titulo": "Counter-Strike: B8 vs M80 (BO1) - Logitech G Play Connect Group A",
-   "apuesta": "SI, Counter-Strike: B8 ganara",
-   "usdc": 110000,
-   "prob": 58.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "12:18"
   }
  ],
  "stats_gt": {
