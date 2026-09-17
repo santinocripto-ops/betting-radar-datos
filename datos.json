@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T08:58:58.604760+00:00",
+ "actualizado": "2026-09-17T09:06:42.883430+00:00",
  "partidos_vivo": [
   {
    "home": "Bangladesh W",
@@ -157,7 +157,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1435
+   "n_historico": 1436
   },
   {
    "clave": "btts",
@@ -349,7 +349,7 @@
     "away": "South Korea W",
     "liga": "Asian Games Women",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -463,7 +463,7 @@
    }
   ],
   "balance": {
-   "ganados": 1761,
+   "ganados": 1762,
    "perdidos": 1123,
    "acierto": 61.1,
    "yield": 16.0,
