@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T03:41:05.450677+00:00",
+ "actualizado": "2026-09-17T03:48:10.593584+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -702,6 +702,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: NIP vs M80 (BO1) - Logitech G Play Connect Group A",
+   "apuesta": "SI, Counter-Strike: NIP ganara",
+   "usdc": 100000,
+   "prob": 56.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "05:47"
+  },
+  {
    "titulo": "Guadalajara Open Akron: Kayla Day vs Liudmila Samsonova",
    "apuesta": "SI, Guadalajara Open Akron: Kayla Day ganara",
    "usdc": 61227,
@@ -763,15 +772,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "21:34"
-  },
-  {
-   "titulo": "Detroit Tigers vs. Toronto Blue Jays: O/U 8.5",
-   "apuesta": "SI, mas de 8.5 goles",
-   "usdc": 100000,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xb",
-   "hora": "20:56"
   }
  ],
  "stats_gt": {
