@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T00:58:52.910043+00:00",
+ "actualizado": "2026-09-17T01:06:09.612017+00:00",
  "partidos_vivo": [
   {
    "home": "Barcelona",
@@ -22,7 +22,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -113,7 +113,7 @@
    "hora": "00:00",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 265
+   "n_historico": 269
   },
   {
    "clave": "over25",
@@ -152,7 +152,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-16",
    "es_hoy": false
   },
@@ -214,13 +214,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50848.0,
-  "balance_total": 40848.0,
-  "balance_dia": 0.0,
-  "ganados": 2956,
+  "capital": 50909.0,
+  "balance_total": 40909.0,
+  "balance_dia": 61.0,
+  "ganados": 2957,
   "perdidos": 1327,
-  "pendientes": 3,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -810,16 +810,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3024,
-  "ganados": 2032,
+  "n": 3025,
+  "ganados": 2033,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 100,
