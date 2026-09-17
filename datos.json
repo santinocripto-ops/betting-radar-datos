@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T13:20:35.842895+00:00",
+ "actualizado": "2026-09-17T13:27:47.527408+00:00",
  "partidos_vivo": [
   {
    "home": "Guria",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:27",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:56",
    "tipo": "live"
   }
  ],
@@ -184,6 +184,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "FC Orenburg",
+   "away": "FC Krasnodar",
+   "liga": "Premier League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-17",
+   "es_hoy": true
+  },
   {
    "home": "Guria",
    "away": "Dinamo Tbilisi II",
@@ -825,7 +836,7 @@
   "n": 3026,
   "ganados": 2034,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 2,
