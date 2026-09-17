@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-09-17T13:35:12.893542+00:00",
+ "actualizado": "2026-09-17T13:42:51.333706+00:00",
  "partidos_vivo": [
   {
-   "home": "Guria",
-   "away": "Dinamo Tbilisi II",
+   "home": "Iberia 2010",
+   "away": "Merani Tbilisi",
    "liga": "Liga 3",
-   "minuto": 50,
+   "minuto": 65,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.0,
    "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
+   "momentum_home": 42,
+   "momentum_away": 58,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
     "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚽ 1 gol — Dinamo Tbilisi II buscará el empate"
-   ]
-  },
-  {
-   "home": "Margveti 2006",
-   "away": "Gardabani",
-   "liga": "Liga 3",
-   "minuto": 51,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚽ 2 goles — partido activo"
+    "⚽ 1 gol — Merani Tbilisi buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
