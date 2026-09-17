@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T14:50:08.222401+00:00",
+ "actualizado": "2026-09-17T14:57:32.250132+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -727,6 +727,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Caldas da Rainha: Francisca Jorge vs Victoria Jimenez Kasintseva",
+   "apuesta": "SI, Caldas da Rainha: Francisca Jorge ganara",
+   "usdc": 18026,
+   "prob": 73.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "16:57"
+  },
+  {
    "titulo": "Will Real Betis Balompié win on 2026-09-17?",
    "apuesta": "SI, Real Betis Balompié ganara",
    "usdc": 256907,
@@ -788,15 +797,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "05:19"
-  },
-  {
-   "titulo": "Guadalajara Open Akron: Zeynep Sonmez vs Iva Jovic",
-   "apuesta": "SI, Guadalajara Open Akron: Zeynep Sonmez ganara",
-   "usdc": 83354,
-   "prob": 3.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "00:40"
   }
  ],
  "stats_gt": {
