@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-17T12:34:40.628013+00:00",
+ "actualizado": "2026-09-17T12:42:03.837585+00:00",
  "partidos_vivo": [
   {
-   "home": "Akademiya Ontustik",
-   "away": "Jaiyq",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Amasyaspor 1968",
+   "away": "Cankirigucu",
+   "liga": "Türkiye Kupası",
+   "minuto": 55,
+   "marcador": "8-0",
+   "apuesta": "Over 8.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,53 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "⚽ Liga muy goleadora: 3.61 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Arys",
-   "away": "Aktobe Jas",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Shakhter Karagandy",
-   "away": "Taraz",
-   "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 8 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
