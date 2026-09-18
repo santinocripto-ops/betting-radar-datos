@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-17T23:56:14.417553+00:00",
+ "actualizado": "2026-09-18T00:02:55.540437+00:00",
  "partidos_vivo": [
   {
    "home": "Real Tomayapo",
@@ -162,7 +162,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-17",
    "es_hoy": false
   },
@@ -224,13 +224,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50926.0,
-  "balance_total": 40926.0,
-  "balance_dia": 0.0,
-  "ganados": 2966,
+  "capital": 50987.0,
+  "balance_total": 40987.0,
+  "balance_dia": 61.0,
+  "ganados": 2967,
   "perdidos": 1332,
-  "pendientes": 3,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -820,16 +820,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3036,
-  "ganados": 2040,
+  "n": 3037,
+  "ganados": 2041,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 1,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 102,
