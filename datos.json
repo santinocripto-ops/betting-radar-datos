@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T15:52:17.996521+00:00",
+ "actualizado": "2026-09-18T15:59:09.730039+00:00",
  "partidos_vivo": [
   {
    "home": "Tallinna Kalev",
@@ -861,6 +861,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will United Russia (ER) gain the most seats in the next Russian parlia",
+   "apuesta": "SI — Will United Russia (ER) gain the most seats in the next Russ",
+   "usdc": 203587,
+   "prob": 78.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "17:59"
+  },
+  {
    "titulo": "Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson",
    "apuesta": "SI, Caldas da Rainha: Malaika Rapolu ganara",
    "usdc": 83770,
@@ -922,15 +931,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "23:01"
-  },
-  {
-   "titulo": "Will AFC Bournemouth win on 2026-09-17?",
-   "apuesta": "SI, AFC Bournemouth ganara",
-   "usdc": 170724,
-   "prob": 46.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "20:54"
   }
  ],
  "stats_gt": {
