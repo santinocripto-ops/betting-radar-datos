@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-18T09:59:43.779425+00:00",
- "partidos_vivo": [
-  {
-   "home": "Persipura Jayapura",
-   "away": "Tornado Pekanbaru",
-   "liga": "Liga 2",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-18T10:07:52.448813+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -714,6 +693,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Gr",
+   "apuesta": "SI, Counter-Strike: 3DMAX ganara",
+   "usdc": 42560,
+   "prob": 56.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:06"
+  },
+  {
    "titulo": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect G",
    "apuesta": "SI, Counter-Strike: EYEBALLERS ganara",
    "usdc": 17208,
@@ -775,15 +763,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:07"
-  },
-  {
-   "titulo": "Spread: Manchester City FC (-2.5)",
-   "apuesta": "SI — Spread: Manchester City FC (-2.5)",
-   "usdc": 123159,
-   "prob": 45.5,
-   "n_traders": 2,
-   "trader": "0x076daa87",
-   "hora": "18:29"
   }
  ],
  "stats_gt": {
