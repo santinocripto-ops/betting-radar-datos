@@ -1,13 +1,73 @@
 {
- "actualizado": "2026-09-18T13:14:44.366419+00:00",
+ "actualizado": "2026-09-18T13:17:05.644015+00:00",
  "partidos_vivo": [
   {
-   "home": "Nantong Zhiyun",
-   "away": "Guangxi Hengchen",
-   "liga": "League One",
-   "minuto": 53,
+   "home": "Birmingham City U21",
+   "away": "Arsenal U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Transport United",
+   "away": "RTC",
+   "liga": "Premier League",
+   "minuto": 57,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Transport United buscará el empate"
+   ]
+  },
+  {
+   "home": "Fleetwood Town U21",
+   "away": "Swansea City U21",
+   "liga": "Professional Development League",
+   "minuto": 54,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.6,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Bekasi City",
+   "away": "Persikad Depok FC",
+   "liga": "Liga 2",
+   "minuto": 55,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -18,13 +78,119 @@
    "razones": [
     "⚽ Liga goleadora: 3.1 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "CSKA Moskva U19",
+   "away": "Fakel U19",
+   "liga": "Youth Championship",
+   "minuto": 58,
+   "marcador": "5-1",
+   "apuesta": "Over 6.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Akademiya Konoplev U20",
+   "away": "Rubin Kazan U20",
+   "liga": "Youth Championship",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Altay",
+   "away": "Irtysh",
+   "liga": "Premier League",
+   "minuto": 57,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Zhetysu",
+   "away": "Kaspiy",
+   "liga": "Premier League",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.63 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Ayutthaya FC",
+   "away": "Uthai Thani",
+   "liga": "Thai League 1",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Bandırmaspor vs Ümraniyespor · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (7 casas)",
@@ -83,12 +249,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "10:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:04",
    "tipo": "smart_money"
   },
   {
@@ -164,6 +324,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Bandırmaspor",
+   "away": "Ümraniyespor",
+   "liga": "1. Lig",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
   {
    "home": "Binh Dinh",
    "away": "Ho Chi Minh",
@@ -816,7 +987,7 @@
   "n": 3040,
   "ganados": 2044,
   "win_rate": 67,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 4,
