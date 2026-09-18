@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T08:33:32.768827+00:00",
+ "actualizado": "2026-09-18T08:40:49.007042+00:00",
  "partidos_vivo": [
   {
    "home": "Philippines U23",
@@ -714,6 +714,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect G",
+   "apuesta": "SI, Counter-Strike: EYEBALLERS ganara",
+   "usdc": 17208,
+   "prob": 40.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "10:40"
+  },
+  {
    "titulo": "Rennes: Daniel Rincon vs Titouan Droguet",
    "apuesta": "SI, Rennes: Daniel Rincon ganara",
    "usdc": 21558,
@@ -775,15 +784,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "18:29"
-  },
-  {
-   "titulo": "Counter-Strike: Natus Vincere vs Aurora Gaming - Map 2 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 19048,
-   "prob": 44.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "18:21"
   }
  ],
  "stats_gt": {
