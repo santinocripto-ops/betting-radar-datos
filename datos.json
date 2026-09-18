@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T14:34:03.968910+00:00",
+ "actualizado": "2026-09-18T14:42:06.327530+00:00",
  "partidos_vivo": [
   {
    "home": "Bandırmaspor",
@@ -67,6 +67,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:09",
    "tipo": "live"
@@ -129,12 +135,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "⭐ MEJOR PRONÓSTICO DEL DÍA",
    "hora": "12:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "10:05",
    "tipo": "smart_money"
   }
  ],
@@ -204,6 +204,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Rekord Bielsko-Biała",
+   "away": "Świt Skolwin",
+   "liga": "II Liga - East",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
   {
    "home": "Bandırmaspor",
    "away": "Ümraniyespor",
@@ -875,7 +886,7 @@
   "n": 3040,
   "ganados": 2044,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 4,
