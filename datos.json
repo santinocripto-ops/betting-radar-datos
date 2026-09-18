@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T15:35:37.611438+00:00",
+ "actualizado": "2026-09-18T15:43:10.417401+00:00",
  "partidos_vivo": [
   {
    "home": "Chelyabinsk",
@@ -208,6 +208,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:20",
    "tipo": "live"
   },
@@ -245,12 +251,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:11",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:10",
    "tipo": "smart_money"
   },
   {
@@ -336,6 +336,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "GrIFK",
+   "away": "Musa",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 11,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "SJK",
    "away": "Mariehamn",
    "liga": "Veikkausliiga",
@@ -384,17 +395,6 @@
    "away": "Ho Chi Minh",
    "liga": "Cup",
    "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Atletico Torque",
-   "away": "Cienciano",
-   "liga": "CONMEBOL Sudamericana",
-   "minuto": 22,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -1017,7 +1017,7 @@
   "n": 3042,
   "ganados": 2045,
   "win_rate": 67,
-  "hoy": 8
+  "hoy": 9
  },
  "stats_dia": {
   "ganados": 6,
