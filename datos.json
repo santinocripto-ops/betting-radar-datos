@@ -1,30 +1,15 @@
 {
- "actualizado": "2026-09-18T00:02:55.540437+00:00",
- "partidos_vivo": [
-  {
-   "home": "Real Tomayapo",
-   "away": "Oriente Petrolero",
-   "liga": "Primera División",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 43,
-   "momentum_away": 57,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.33 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Real Tomayapo pierde por 2 — atacará sin freno"
-   ]
-  }
- ],
+ "actualizado": "2026-09-18T00:11:26.082553+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Sesvete vs HNK Cibalia · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (7 c",
@@ -90,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:19",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -156,70 +135,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Real Tomayapo",
-   "away": "Oriente Petrolero",
-   "liga": "Primera División",
-   "minuto": 16,
+   "home": "Bucaramanga",
+   "away": "Independiente Medellin",
+   "liga": "Primera A",
+   "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "Manchester City",
-   "away": "Norwich",
-   "liga": "League Cup",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "Tzeirey Tira",
-   "away": "Dimona",
-   "liga": "Liga Alef",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "Enppi",
-   "away": "Pyramids FC",
-   "liga": "Premier League",
-   "minuto": 25,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "Real Betis",
-   "away": "Getafe",
-   "liga": "La Liga",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": false
-  },
-  {
-   "home": "Hapoel Afula",
-   "away": "Hapoel Kfar Shalem",
-   "liga": "Liga Leumit",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-17",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -823,7 +747,7 @@
   "n": 3037,
   "ganados": 2041,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 1,
