@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T18:39:36.109637+00:00",
+ "actualizado": "2026-09-18T18:46:24.310956+00:00",
  "partidos_vivo": [
   {
    "home": "Sarpsborg 08 FF",
@@ -248,7 +248,19 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
+   "hora": "20:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:46",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:46",
    "tipo": "live"
   },
   {
@@ -272,7 +284,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
+   "hora": "20:15",
    "tipo": "live"
   },
   {
@@ -301,20 +313,8 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:40",
+   "hora": "20:14",
    "tipo": "live"
   }
  ],
@@ -366,6 +366,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Juve Stabia",
+   "away": "Cesena",
+   "liga": "Serie B",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
+   "home": "Hamrun Spartans",
+   "away": "Marsaxlokk",
+   "liga": "Premier League",
+   "minuto": 13,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
+   "home": "Wisla Krakow",
+   "away": "Slask Wroclaw",
+   "liga": "Ekstraklasa",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "Leicester City U21",
    "away": "West Ham United U21",
    "liga": "Premier League 2 Division One",
@@ -393,39 +426,6 @@
    "liga": "Challenger Pro League",
    "minuto": 14,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Groningen",
-   "away": "PEC Zwolle",
-   "liga": "Eredivisie",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Jong Utrecht",
-   "away": "VVV Venlo",
-   "liga": "Eerste Divisie",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Jong Ajax",
-   "away": "Roda",
-   "liga": "Eerste Divisie",
-   "minuto": 13,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-18",
@@ -992,6 +992,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Brentford FC win on 2026-09-18?",
+   "apuesta": "SI, Brentford ganara",
+   "usdc": 873998,
+   "prob": 37.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "20:45"
+  },
+  {
    "titulo": "Will Chelsea FC win on 2026-09-18?",
    "apuesta": "NO, Chelsea no ganara",
    "usdc": 1103123,
@@ -1053,22 +1062,13 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "15:14"
-  },
-  {
-   "titulo": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 189772,
-   "prob": 52.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "13:31"
   }
  ],
  "stats_gt": {
   "n": 3045,
   "ganados": 2047,
   "win_rate": 67,
-  "hoy": 36
+  "hoy": 39
  },
  "stats_dia": {
   "ganados": 9,
