@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T15:59:25.197292+00:00",
+ "actualizado": "2026-09-18T16:07:06.059125+00:00",
  "partidos_vivo": [
   {
    "home": "Tallinna Kalev",
@@ -127,6 +127,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "18:06",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:43",
    "tipo": "live"
@@ -190,12 +196,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:10",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:10",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -237,7 +237,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1458
+   "n_historico": 1461
   },
   {
    "clave": "btts",
@@ -251,7 +251,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1473
+   "n_historico": 1478
   }
  ],
  "gol_temprano": [
@@ -329,7 +329,7 @@
   "balance_dia": 250.0,
   "ganados": 2972,
   "perdidos": 1333,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 6,
   "perdidos_dia": 1,
   "win_rate": 69.0,
@@ -337,7 +337,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4311,
+  "con_cuota_media": 4312,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -428,7 +428,7 @@
     "away": "Zimbru II",
     "liga": "Liga 1",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -437,7 +437,7 @@
     "away": "FCM Ungheni",
     "liga": "Liga 1",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -446,7 +446,7 @@
     "away": "Ząbkovia Ząbki",
     "liga": "III Liga - Group 1",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -455,7 +455,7 @@
     "away": "Holešov",
     "liga": "4. liga - Divizie E",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -574,7 +574,7 @@
     "away": "Zimbru II",
     "liga": "Liga 1",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -583,7 +583,7 @@
     "away": "FCM Ungheni",
     "liga": "Liga 1",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -598,14 +598,21 @@
    }
   ],
   "balance": {
-   "ganados": 1793,
-   "perdidos": 1138,
-   "acierto": 61.2,
-   "yield": 16.2,
+   "ganados": 1795,
+   "perdidos": 1144,
+   "acierto": 61.1,
+   "yield": 16.0,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Uta Arad",
+   "away": "Sepsi OSK Sfantu Gheorghe",
+   "liga": "Liga I",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Bandırmaspor",
    "away": "Ümraniyespor",
@@ -942,7 +949,7 @@
  "stats_dia": {
   "ganados": 6,
   "perdidos": 2,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 75
  },
  "stats_banker": {
