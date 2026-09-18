@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T22:44:18.084631+00:00",
+ "actualizado": "2026-09-18T22:51:09.161223+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -198,7 +198,7 @@
   "balance_dia": 0.0,
   "ganados": 3003,
   "perdidos": 1344,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -206,7 +206,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4349,
+  "con_cuota_media": 4350,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -589,6 +589,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Shopify Rebellion vs Sentinels - Game 4 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 19622,
+   "prob": 44.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "00:50"
+  },
+  {
    "titulo": "Will Brentford FC win on 2026-09-18?",
    "apuesta": "SI, Brentford ganara",
    "usdc": 873998,
@@ -650,15 +659,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "15:47"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-09-19?",
-   "apuesta": "SI, Newcastle United ganara",
-   "usdc": 168961,
-   "prob": 60.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "15:14"
   }
  ],
  "stats_gt": {
@@ -670,7 +670,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
