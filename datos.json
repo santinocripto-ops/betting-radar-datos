@@ -1,232 +1,12 @@
 {
- "actualizado": "2026-09-18T18:46:24.310956+00:00",
+ "actualizado": "2026-09-18T18:55:17.258552+00:00",
  "partidos_vivo": [
   {
-   "home": "Sarpsborg 08 FF",
-   "away": "KFUM Oslo",
-   "liga": "Eliteserien",
-   "minuto": 64,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Falkenbergs FF",
-   "away": "Ostersunds FK",
-   "liga": "Superettan",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 8 remates totales",
-    "🎯 5 remates a puerta"
-   ]
-  },
-  {
-   "home": "Lyngby",
-   "away": "Silkeborg",
-   "liga": "Superliga",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 55,
-   "momentum_away": 45,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Lyngby pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Kasımpaşa",
-   "away": "Konyaspor",
-   "liga": "Süper Lig",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 17 remates totales"
-   ]
-  },
-  {
-   "home": "Muğlaspor",
-   "away": "Iğdır FK",
-   "liga": "1. Lig",
-   "minuto": 62,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 52,
-   "momentum_away": 48,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 20 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Torslanda",
-   "away": "Lindome",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Hluboka nad Vltavou",
-   "away": "Milevsko",
-   "liga": "4. liga - Divizie A",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Karlovy Vary",
-   "away": "Baník Sokolov",
-   "liga": "4. liga - Divizie B",
-   "minuto": 61,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Baník Sokolov buscará el empate"
-   ]
-  },
-  {
-   "home": "Holbæk B&I",
-   "away": "Ringsted",
-   "liga": "3. Division",
-   "minuto": 65,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Le Havre W",
-   "away": "Lyon W",
-   "liga": "Feminine Division 1",
-   "minuto": 63,
-   "marcador": "0-7",
-   "apuesta": "Over 7.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.58 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 7 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Strasbourg W",
-   "away": "Paris FC W",
-   "liga": "Feminine Division 1",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.58 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Husqvarna",
-   "away": "IFK Skövde",
+   "home": "Herrestads",
+   "away": "Kumla",
    "liga": "Division 2 - Norra Götaland",
    "minuto": 64,
-   "marcador": "1-0",
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 7.5,
@@ -238,17 +18,57 @@
    "razones": [
     "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — IFK Skövde buscará el empate"
+    "⚽ 1 gol — Herrestads buscará el empate"
+   ]
+  },
+  {
+   "home": "B36 Torshavn",
+   "away": "NSI Runavik",
+   "liga": "Meistaradeildin",
+   "minuto": 62,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Yagüe",
+   "away": "River Ebro",
+   "liga": "Tercera División RFEF - Group 16",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 25,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:46",
+   "hora": "20:55",
    "tipo": "live"
   },
   {
@@ -266,7 +86,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
+   "hora": "20:46",
    "tipo": "live"
   },
   {
@@ -290,7 +110,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
+   "hora": "20:15",
    "tipo": "live"
   },
   {
@@ -366,6 +186,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Dundalk",
+   "away": "Shelbourne",
+   "liga": "Premier Division",
+   "minuto": 11,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "Juve Stabia",
    "away": "Cesena",
    "liga": "Serie B",
@@ -419,17 +250,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-18",
    "es_hoy": true
-  },
-  {
-   "home": "Francs Borains",
-   "away": "RSC Anderlecht II",
-   "liga": "Challenger Pro League",
-   "minuto": 14,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -439,7 +259,7 @@
   "balance_dia": 317.0,
   "ganados": 2975,
   "perdidos": 1334,
-  "pendientes": 33,
+  "pendientes": 36,
   "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 69.0,
@@ -447,7 +267,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4342,
+  "con_cuota_media": 4345,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1068,12 +888,12 @@
   "n": 3045,
   "ganados": 2047,
   "win_rate": 67,
-  "hoy": 39
+  "hoy": 40
  },
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 31,
+  "en_juego": 34,
   "win_rate": 69
  },
  "stats_banker": {
