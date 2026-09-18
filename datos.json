@@ -1,188 +1,7 @@
 {
- "actualizado": "2026-09-18T13:39:33.533129+00:00",
- "partidos_vivo": [
-  {
-   "home": "Birmingham City U21",
-   "away": "Arsenal U21",
-   "liga": "Premier League 2 Division One",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Transport United",
-   "away": "RTC",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Transport United buscará el empate"
-   ]
-  },
-  {
-   "home": "Fleetwood Town U21",
-   "away": "Swansea City U21",
-   "liga": "Professional Development League",
-   "minuto": 54,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.6,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Bekasi City",
-   "away": "Persikad Depok FC",
-   "liga": "Liga 2",
-   "minuto": 55,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "CSKA Moskva U19",
-   "away": "Fakel U19",
-   "liga": "Youth Championship",
-   "minuto": 58,
-   "marcador": "5-1",
-   "apuesta": "Over 6.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Akademiya Konoplev U20",
-   "away": "Rubin Kazan U20",
-   "liga": "Youth Championship",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Altay",
-   "away": "Irtysh",
-   "liga": "Premier League",
-   "minuto": 57,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Zhetysu",
-   "away": "Kaspiy",
-   "liga": "Premier League",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.63 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Ayutthaya FC",
-   "away": "Uthai Thani",
-   "liga": "Thai League 1",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 12,
+ "actualizado": "2026-09-18T13:47:36.549963+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -911,6 +730,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Natus Vincere vs Movistar KOI (BO5) - LEC Playoffs",
+   "apuesta": "SI, LoL: Natus Vincere ganara",
+   "usdc": 160287,
+   "prob": 35.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "15:47"
+  },
+  {
    "titulo": "Will Newcastle United FC win on 2026-09-19?",
    "apuesta": "SI, Newcastle United ganara",
    "usdc": 168961,
@@ -972,15 +800,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "20:00"
-  },
-  {
-   "titulo": "Counter-Strike: Luminosity vs NIP (BO1) - Logitech G Play Connect Grou",
-   "apuesta": "SI, Counter-Strike: Luminosity ganara",
-   "usdc": 101360,
-   "prob": 47.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:43"
   }
  ],
  "stats_gt": {
