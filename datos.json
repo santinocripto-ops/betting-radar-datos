@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-18T22:37:32.769132+00:00",
+ "actualizado": "2026-09-18T22:44:18.084631+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Vila Nova",
+   "away": "America Mineiro",
+   "liga": "Serie B",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": false
+  },
+  {
    "home": "Gent",
    "away": "Standard Liege",
    "liga": "Jupiler Pro League",
@@ -174,17 +185,6 @@
    "liga": "Premier League",
    "minuto": 13,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-18",
-   "es_hoy": false
-  },
-  {
-   "home": "Wisla Krakow",
-   "away": "Slask Wroclaw",
-   "liga": "Ekstraklasa",
-   "minuto": 14,
-   "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-18",
