@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T17:40:35.719124+00:00",
+ "actualizado": "2026-09-18T17:47:33.878116+00:00",
  "partidos_vivo": [
   {
    "home": "Gnistan",
@@ -248,6 +248,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:40",
    "tipo": "live"
   },
@@ -279,12 +285,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
    "tipo": "live"
   },
   {
@@ -366,6 +366,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Herrestads",
+   "away": "Kumla",
+   "liga": "Division 2 - Norra Götaland",
+   "minuto": 16,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "Sportfreunde Siegen",
    "away": "SG Wattenscheid 09",
    "liga": "Regionalliga - West",
@@ -419,17 +430,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-18",
    "es_hoy": true
-  },
-  {
-   "home": "Verl",
-   "away": "Würzburger Kickers",
-   "liga": "3. Liga",
-   "minuto": 13,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -439,7 +439,7 @@
   "balance_dia": 317.0,
   "ganados": 2975,
   "perdidos": 1334,
-  "pendientes": 20,
+  "pendientes": 22,
   "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 69.0,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4329,
+  "con_cuota_media": 4331,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -985,6 +985,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Caldas da Rainha: Susan Bandecchi vs Lisa Pigato",
+   "apuesta": "SI, Caldas da Rainha: Susan Bandecchi ganara",
+   "usdc": 106923,
+   "prob": 71.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "19:47"
+  },
+  {
    "titulo": "Will SpVgg Greuther Fürth win on 2026-09-18?",
    "apuesta": "NO, SpVgg Greuther Fürth no ganara",
    "usdc": 26669,
@@ -1046,27 +1055,18 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:06"
-  },
-  {
-   "titulo": "Counter-Strike: EYEBALLERS vs Liquid (BO1) - Logitech G Play Connect G",
-   "apuesta": "SI, Counter-Strike: EYEBALLERS ganara",
-   "usdc": 17208,
-   "prob": 40.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "10:40"
   }
  ],
  "stats_gt": {
   "n": 3045,
   "ganados": 2047,
   "win_rate": 67,
-  "hoy": 26
+  "hoy": 27
  },
  "stats_dia": {
   "ganados": 9,
   "perdidos": 4,
-  "en_juego": 18,
+  "en_juego": 20,
   "win_rate": 69
  },
  "stats_banker": {
