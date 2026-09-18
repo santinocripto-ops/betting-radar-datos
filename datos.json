@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-18T12:32:38.583145+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 5,
+ "actualizado": "2026-09-18T12:41:02.655885+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Nantong Zhiyun",
+   "away": "Guangxi Hengchen",
+   "liga": "League One",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
