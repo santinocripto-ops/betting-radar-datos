@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T11:24:02.872419+00:00",
+ "actualizado": "2026-09-18T11:31:34.757675+00:00",
  "partidos_vivo": [
   {
    "home": "Yanbian Longding",
@@ -256,7 +256,7 @@
   "balance_dia": 244.0,
   "ganados": 2970,
   "perdidos": 1332,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -264,7 +264,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4304,
+  "con_cuota_media": 4305,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -536,6 +536,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "PAU",
+    "away": "Dunkerque",
+    "liga": "Ligue 2",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.62,
+    "pinnacle": true,
+    "delta": 3.22,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T18:00:00+00:00",
+    "ts": "2026-09-18T11:11:02.689436+00:00"
+   },
+   {
     "home": "SV Kapfenberg",
     "away": "SKU Amstetten",
     "liga": "2. Liga",
@@ -549,6 +564,51 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-18T16:30:00+00:00",
     "ts": "2026-09-18T08:05:00.745044+00:00"
+   },
+   {
+    "home": "VfL Wolfsburg",
+    "away": "SV Darmstadt 98",
+    "liga": "2. Bundesliga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 7,
+    "cuota": 1.16,
+    "pinnacle": true,
+    "delta": 4.14,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "ts": "2026-09-18T11:10:56.638920+00:00"
+   },
+   {
+    "home": "WSPG Wels",
+    "away": "First Vienna",
+    "liga": "2. Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.23,
+    "pinnacle": true,
+    "delta": 3.46,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "ts": "2026-09-18T11:10:57.817711+00:00"
+   },
+   {
+    "home": "Floridsdorfer AC",
+    "away": "FC Liefering",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.52,
+    "pinnacle": true,
+    "delta": 2.99,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "ts": "2026-09-18T11:10:58.323152+00:00"
    },
    {
     "home": "Sesvete",
@@ -579,6 +639,36 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-18T14:30:00+00:00",
     "ts": "2026-09-18T08:04:57.025557+00:00"
+   },
+   {
+    "home": "Bandırmaspor",
+    "away": "Ümraniyespor",
+    "liga": "1. Lig",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 8,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 4.7,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T13:00:00+00:00",
+    "ts": "2026-09-18T11:10:51.555694+00:00"
+   },
+   {
+    "home": "Bandırmaspor",
+    "away": "Ümraniyespor",
+    "liga": "1. Lig",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 5,
+    "cuota": 1.28,
+    "pinnacle": false,
+    "delta": 3.34,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T13:00:00+00:00",
+    "ts": "2026-09-18T11:10:51.988568+00:00"
    },
    {
     "home": "Polessya",
@@ -669,102 +759,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-17T17:45:00+00:00",
     "ts": "2026-09-17T08:06:10.218595+00:00"
-   },
-   {
-    "home": "Dinamo Makhachkala",
-    "away": "CSKA Moscow",
-    "liga": "Premier League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.61,
-    "pinnacle": true,
-    "delta": 3.34,
-    "marcador": "1-3",
-    "resultado": "perdido",
-    "kickoff": "2026-09-17T17:45:00+00:00",
-    "ts": "2026-09-17T08:06:10.411613+00:00"
-   },
-   {
-    "home": "OFI",
-    "away": "1899 Hoffenheim",
-    "liga": "UEFA Europa League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.1,
-    "pinnacle": true,
-    "delta": 3.1,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-17T16:45:00+00:00",
-    "ts": "2026-09-17T12:03:48.336422+00:00"
-   },
-   {
-    "home": "Levski Sofia",
-    "away": "Red Bull Salzburg",
-    "liga": "UEFA Europa League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.36,
-    "pinnacle": true,
-    "delta": 3.2,
-    "marcador": "0-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-17T16:45:00+00:00",
-    "ts": "2026-09-17T12:03:48.843668+00:00"
-   },
-   {
-    "home": "Denver Summit W",
-    "away": "Bay FC W",
-    "liga": "NWSL Women",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 6,
-    "cuota": 1.19,
-    "pinnacle": true,
-    "delta": 4.21,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-17T01:30:00+00:00",
-    "ts": "2026-09-16T14:06:44.746252+00:00"
-   },
-   {
-    "home": "Barcelona",
-    "away": "Racing Santander",
-    "liga": "La Liga",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.03,
-    "pinnacle": false,
-    "delta": 4.11,
-    "marcador": "7-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-16T19:30:00+00:00",
-    "ts": "2026-09-16T14:06:43.675898+00:00"
-   },
-   {
-    "home": "Olympiakos Piraeus",
-    "away": "Jagiellonia",
-    "liga": "UEFA Europa League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.07,
-    "pinnacle": true,
-    "delta": 3.95,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-16T19:00:00+00:00",
-    "ts": "2026-09-16T12:04:13.600624+00:00"
    }
   ],
   "balance": {
    "ganados": 288,
    "perdidos": 121,
-   "pendientes": 7,
+   "pendientes": 13,
    "acierto": 70.4,
    "total": 409
   }
@@ -779,6 +779,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Tottenham Hotspur FC vs. Aston Villa FC: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 189772,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "13:31"
+  },
   {
    "titulo": "Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Gr",
    "apuesta": "SI, Counter-Strike: 3DMAX ganara",
@@ -841,15 +850,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:16"
-  },
-  {
-   "titulo": "Valencia: Alicia Herrero Linana vs Rebeka Masarova",
-   "apuesta": "SI, Valencia: Alicia Herrero Linana ganara",
-   "usdc": 22090,
-   "prob": 72.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:07"
   }
  ],
  "stats_gt": {
@@ -861,7 +861,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
