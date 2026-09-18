@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-18T09:02:08.716894+00:00",
+ "actualizado": "2026-09-18T09:09:41.914197+00:00",
  "partidos_vivo": [
   {
-   "home": "Philippines U23",
-   "away": "Vietnam U23",
-   "liga": "Asian Games",
-   "minuto": 49,
+   "home": "Ural U20",
+   "away": "Dynamo Makhachkala U19",
+   "liga": "Youth Championship",
+   "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
