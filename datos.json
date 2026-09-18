@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-18T00:59:32.385313+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-18T01:07:10.935536+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Bucaramanga",
+   "away": "Independiente Medellin",
+   "liga": "Primera A",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 31,
+   "momentum_away": 69,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 14 remates totales"
+   ]
+  }
+ ],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -102,7 +123,7 @@
    "hora": "18:30",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 279
+   "n_historico": 280
   },
   {
    "clave": "over25",
@@ -116,7 +137,7 @@
    "hora": "00:30",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1452
+   "n_historico": 1453
   },
   {
    "clave": "btts",
@@ -444,7 +465,7 @@
    }
   ],
   "balance": {
-   "ganados": 1780,
+   "ganados": 1781,
    "perdidos": 1138,
    "acierto": 61.0,
    "yield": 15.9,
