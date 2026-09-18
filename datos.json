@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T01:56:35.295293+00:00",
+ "actualizado": "2026-09-18T02:03:35.384189+00:00",
  "partidos_vivo": [
   {
    "home": "Bolívar",
@@ -204,20 +204,20 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 50987.0,
-  "balance_total": 40987.0,
-  "balance_dia": 61.0,
-  "ganados": 2967,
+  "capital": 51048.0,
+  "balance_total": 41048.0,
+  "balance_dia": 122.0,
+  "ganados": 2968,
   "perdidos": 1332,
-  "pendientes": 5,
-  "ganados_dia": 1,
+  "pendientes": 4,
+  "ganados_dia": 2,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.5,
@@ -807,15 +807,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3037,
-  "ganados": 2041,
+  "n": 3038,
+  "ganados": 2042,
   "win_rate": 67,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
