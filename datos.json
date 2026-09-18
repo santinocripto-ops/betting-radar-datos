@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T12:56:52.750994+00:00",
+ "actualizado": "2026-09-18T13:05:24.562550+00:00",
  "partidos_vivo": [
   {
    "home": "Nantong Zhiyun",
@@ -146,7 +146,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1454
+   "n_historico": 1456
   },
   {
    "clave": "btts",
@@ -159,8 +159,8 @@
    "score": 10,
    "hora": "00:30",
    "resultado": "ganado",
-   "wr_historico": 58,
-   "n_historico": 1467
+   "wr_historico": 59,
+   "n_historico": 1471
   }
  ],
  "gol_temprano": [
@@ -261,7 +261,7 @@
     "away": "Fukushima United",
     "liga": "J3 League",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -279,7 +279,7 @@
     "away": "Zhenys",
     "liga": "Premier League",
     "hora": "13:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -288,7 +288,7 @@
     "away": "Ekibastuz",
     "liga": "1. Division",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -416,7 +416,7 @@
     "away": "Ekibastuz",
     "liga": "1. Division",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -485,10 +485,10 @@
    }
   ],
   "balance": {
-   "ganados": 1783,
+   "ganados": 1789,
    "perdidos": 1138,
-   "acierto": 61.0,
-   "yield": 16.0,
+   "acierto": 61.1,
+   "yield": 16.1,
    "cuota_media": 1.9
   }
  },
