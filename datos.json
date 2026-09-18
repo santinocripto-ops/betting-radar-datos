@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-18T01:28:42.963677+00:00",
+ "actualizado": "2026-09-18T01:36:07.522300+00:00",
  "partidos_vivo": [
   {
-   "home": "Bucaramanga",
-   "away": "Independiente Medellin",
-   "liga": "Primera A",
-   "minuto": 47,
-   "marcador": "2-1",
+   "home": "Bolívar",
+   "away": "Gualberto Villarroel SJ",
+   "liga": "Primera División",
+   "minuto": 46,
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
+   "momentum_home": 87,
+   "momentum_away": 13,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ Liga muy goleadora: 3.33 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "🎯 14 remates totales"
+    "⚡ Gualberto Villarroel SJ pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Atletico Torque",
+   "away": "Cienciano",
+   "liga": "CONMEBOL Sudamericana",
+   "minuto": 46,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 33,
+   "momentum_away": 67,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Cienciano buscará el empate",
+    "🎯 8 remates totales",
+    "⏱ 44 minutos por jugar — margen amplio"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
