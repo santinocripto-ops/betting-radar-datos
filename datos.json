@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T14:58:38.950142+00:00",
+ "actualizado": "2026-09-18T15:07:22.979468+00:00",
  "partidos_vivo": [
   {
    "home": "Belshina",
@@ -101,15 +101,6 @@
  "picks_recientes": [],
  "bankers": [
   {
-   "home": "Bandırmaspor",
-   "away": "Ümraniyespor",
-   "liga": "1. Lig",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.25,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18"
-  },
-  {
    "home": "Sesvete",
    "away": "HNK Cibalia",
    "liga": "First NL",
@@ -146,7 +137,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1456
+   "n_historico": 1458
   },
   {
    "clave": "btts",
@@ -160,7 +151,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1471
+   "n_historico": 1473
   }
  ],
  "gol_temprano": [
@@ -182,7 +173,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -193,7 +184,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -233,14 +224,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51170.0,
-  "balance_total": 41170.0,
-  "balance_dia": 244.0,
-  "ganados": 2970,
-  "perdidos": 1332,
-  "pendientes": 6,
-  "ganados_dia": 4,
-  "perdidos_dia": 0,
+  "capital": 51176.0,
+  "balance_total": 41176.0,
+  "balance_dia": 250.0,
+  "ganados": 2972,
+  "perdidos": 1333,
+  "pendientes": 3,
+  "ganados_dia": 6,
+  "perdidos_dia": 1,
   "win_rate": 69.0,
   "roi": 9.6,
   "stake": 100.0,
@@ -265,7 +256,7 @@
     "away": "Wuhan Three Towns",
     "liga": "Super League",
     "hora": "13:35",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -328,7 +319,7 @@
     "away": "Persikad Depok FC",
     "liga": "Liga 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -393,7 +384,7 @@
     "away": "Wuhan Three Towns",
     "liga": "Super League",
     "hora": "13:35",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -465,7 +456,7 @@
     "away": "Persikad Depok FC",
     "liga": "Liga 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -507,10 +498,10 @@
    }
   ],
   "balance": {
-   "ganados": 1789,
+   "ganados": 1793,
    "perdidos": 1138,
-   "acierto": 61.1,
-   "yield": 16.1,
+   "acierto": 61.2,
+   "yield": 16.2,
    "cuota_media": 1.9
   }
  },
@@ -520,7 +511,7 @@
    "away": "Ümraniyespor",
    "liga": "1. Lig",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -843,22 +834,22 @@
   }
  ],
  "stats_gt": {
-  "n": 3040,
-  "ganados": 2044,
+  "n": 3042,
+  "ganados": 2045,
   "win_rate": 67,
   "hoy": 6
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 0,
-  "en_juego": 6,
-  "win_rate": 100
+  "ganados": 6,
+  "perdidos": 2,
+  "en_juego": 2,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 102,
-  "perdidos": 38,
-  "pendientes": 2,
-  "win_rate": 73
+  "perdidos": 39,
+  "pendientes": 1,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
