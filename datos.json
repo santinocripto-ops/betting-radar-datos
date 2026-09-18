@@ -1,68 +1,7 @@
 {
- "actualizado": "2026-09-18T20:56:26.070820+00:00",
- "partidos_vivo": [
-  {
-   "home": "Libertas",
-   "away": "Faetano",
-   "liga": "Campionato",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Libertas buscará el empate"
-   ]
-  },
-  {
-   "home": "Murata",
-   "away": "Cosmos",
-   "liga": "Campionato",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Deportivo Santani",
-   "away": "SOL DE America",
-   "liga": "Division Intermedia",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 4,
+ "actualizado": "2026-09-18T21:06:28.306222+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -151,9 +90,9 @@
    "cuota": 1.5,
    "score": 8.87,
    "hora": "18:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 83,
-   "n_historico": 282
+   "n_historico": 286
   },
   {
    "clave": "over25",
@@ -167,7 +106,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1469
+   "n_historico": 1470
   },
   {
    "clave": "btts",
@@ -181,7 +120,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1479
+   "n_historico": 1484
   }
  ],
  "gol_temprano": [
@@ -192,7 +131,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -203,7 +142,7 @@
    "minuto": 18,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -214,7 +153,7 @@
    "minuto": 11,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -225,7 +164,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -236,7 +175,7 @@
    "minuto": 13,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -247,21 +186,21 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51581.0,
-  "balance_total": 41581.0,
-  "balance_dia": 655.0,
-  "ganados": 2989,
-  "perdidos": 1339,
-  "pendientes": 21,
-  "ganados_dia": 23,
-  "perdidos_dia": 7,
+  "capital": 51919.0,
+  "balance_total": 41919.0,
+  "balance_dia": 993.0,
+  "ganados": 3003,
+  "perdidos": 1344,
+  "pendientes": 2,
+  "ganados_dia": 37,
+  "perdidos_dia": 12,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -528,10 +467,10 @@
    }
   ],
   "balance": {
-   "ganados": 1801,
-   "perdidos": 1147,
+   "ganados": 1804,
+   "perdidos": 1150,
    "acierto": 61.1,
-   "yield": 16.1,
+   "yield": 16.0,
    "cuota_media": 1.9
   }
  },
@@ -541,7 +480,7 @@
    "away": "NK Slaven Belupo",
    "liga": "HNL",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Kasımpaşa",
@@ -871,16 +810,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3061,
-  "ganados": 2060,
+  "n": 3079,
+  "ganados": 2073,
   "win_rate": 67,
   "hoy": 42
  },
  "stats_dia": {
-  "ganados": 23,
-  "perdidos": 9,
-  "en_juego": 19,
-  "win_rate": 72
+  "ganados": 37,
+  "perdidos": 14,
+  "en_juego": 0,
+  "win_rate": 73
  },
  "stats_banker": {
   "ganados": 102,
