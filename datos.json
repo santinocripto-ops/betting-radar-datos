@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T18:14:43.175747+00:00",
+ "actualizado": "2026-09-18T18:15:51.099913+00:00",
  "partidos_vivo": [
   {
    "home": "Widzew Łódź",
@@ -108,6 +108,42 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:14",
    "tipo": "live"
   },
@@ -139,42 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:33",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:26",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
    "tipo": "live"
   }
  ],
@@ -226,21 +226,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Herrestads",
-   "away": "Kumla",
-   "liga": "Division 2 - Norra Götaland",
-   "minuto": 16,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Sportfreunde Siegen",
-   "away": "SG Wattenscheid 09",
-   "liga": "Regionalliga - West",
-   "minuto": 10,
+   "home": "Leicester City U21",
+   "away": "West Ham United U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -248,10 +237,10 @@
    "es_hoy": true
   },
   {
-   "home": "Rapid Vienna",
-   "away": "WSG Wattens",
-   "liga": "Bundesliga",
-   "minuto": 10,
+   "home": "Cardiff City U21",
+   "away": "Peterborough United U21",
+   "liga": "Professional Development League",
+   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -259,10 +248,21 @@
    "es_hoy": true
   },
   {
-   "home": "Aubstadt",
-   "away": "Bayern München II",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 23,
+   "home": "Francs Borains",
+   "away": "RSC Anderlecht II",
+   "liga": "Challenger Pro League",
+   "minuto": 14,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
+   "home": "Groningen",
+   "away": "PEC Zwolle",
+   "liga": "Eredivisie",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -270,10 +270,10 @@
    "es_hoy": true
   },
   {
-   "home": "Buchbach",
-   "away": "FC Schweinfurt 05",
-   "liga": "Regionalliga - Bayern",
-   "minuto": 10,
+   "home": "Jong Utrecht",
+   "away": "VVV Venlo",
+   "liga": "Eerste Divisie",
+   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -281,9 +281,9 @@
    "es_hoy": true
   },
   {
-   "home": "Kasımpaşa",
-   "away": "Konyaspor",
-   "liga": "Süper Lig",
+   "home": "Jong Ajax",
+   "away": "Roda",
+   "liga": "Eerste Divisie",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
@@ -928,7 +928,7 @@
   "n": 3045,
   "ganados": 2047,
   "win_rate": 67,
-  "hoy": 27
+  "hoy": 36
  },
  "stats_dia": {
   "ganados": 9,
