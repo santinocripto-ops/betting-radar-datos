@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-18T23:42:02.047337+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-18T23:49:16.234645+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Vila Nova",
+   "away": "America Mineiro",
+   "liga": "Serie B",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 40,
+   "momentum_away": 60,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ 1 gol — America Mineiro buscará el empate",
+    "🎯 23 remates totales — partido muy intenso"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -198,7 +219,7 @@
   "balance_dia": 0.0,
   "ganados": 3003,
   "perdidos": 1344,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -206,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4350,
+  "con_cuota_media": 4351,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -670,7 +691,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
