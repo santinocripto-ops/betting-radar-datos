@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-18T23:35:09.666472+00:00",
+ "actualizado": "2026-09-18T23:42:02.047337+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Independiente Petrolero",
+   "away": "San Antonio Bulo Bulo",
+   "liga": "Primera División",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": false
+  },
+  {
    "home": "Vila Nova",
    "away": "America Mineiro",
    "liga": "Serie B",
@@ -174,17 +185,6 @@
    "liga": "Serie B",
    "minuto": 14,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-18",
-   "es_hoy": false
-  },
-  {
-   "home": "Hamrun Spartans",
-   "away": "Marsaxlokk",
-   "liga": "Premier League",
-   "minuto": 13,
-   "score": 9.5,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-18",
