@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T17:33:48.819952+00:00",
+ "actualizado": "2026-09-18T17:40:35.719124+00:00",
  "partidos_vivo": [
   {
    "home": "Gnistan",
@@ -247,6 +247,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:40",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:33",
    "tipo": "live"
@@ -304,18 +316,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:05",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -366,6 +366,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Sportfreunde Siegen",
+   "away": "SG Wattenscheid 09",
+   "liga": "Regionalliga - West",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
+   "home": "Rapid Vienna",
+   "away": "WSG Wattens",
+   "liga": "Bundesliga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "Aubstadt",
    "away": "Bayern München II",
    "liga": "Regionalliga - Bayern",
@@ -404,28 +426,6 @@
    "liga": "3. Liga",
    "minuto": 13,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Le Havre W",
-   "away": "Lyon W",
-   "liga": "Feminine Division 1",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Nykobing FC",
-   "away": "HIK",
-   "liga": "2. Division",
-   "minuto": 12,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-18",
@@ -1061,7 +1061,7 @@
   "n": 3045,
   "ganados": 2047,
   "win_rate": 67,
-  "hoy": 24
+  "hoy": 26
  },
  "stats_dia": {
   "ganados": 9,
