@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T15:20:02.415310+00:00",
+ "actualizado": "2026-09-18T15:20:32.281328+00:00",
  "partidos_vivo": [
   {
    "home": "Chelyabinsk",
@@ -208,6 +208,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:42",
    "tipo": "live"
   },
@@ -263,18 +275,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "13:10",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "⭐ MEJOR PRONÓSTICO DEL DÍA",
-   "hora": "12:10",
    "tipo": "smart_money"
   }
  ],
@@ -336,6 +336,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "SJK",
+   "away": "Mariehamn",
+   "liga": "Veikkausliiga",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
+   "home": "Uta Arad",
+   "away": "Sepsi OSK Sfantu Gheorghe",
+   "liga": "Liga I",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
+  {
    "home": "Rekord Bielsko-Biała",
    "away": "Świt Skolwin",
    "liga": "II Liga - East",
@@ -373,28 +395,6 @@
    "away": "Cienciano",
    "liga": "CONMEBOL Sudamericana",
    "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Bolívar",
-   "away": "Gualberto Villarroel SJ",
-   "liga": "Primera División",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-18",
-   "es_hoy": true
-  },
-  {
-   "home": "Bucaramanga",
-   "away": "Independiente Medellin",
-   "liga": "Primera A",
-   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -811,8 +811,8 @@
     "cuota": 1.28,
     "pinnacle": true,
     "delta": 4.7,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-18T13:00:00+00:00",
     "ts": "2026-09-18T11:10:51.555694+00:00"
    },
@@ -826,8 +826,8 @@
     "cuota": 1.28,
     "pinnacle": false,
     "delta": 3.34,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-18T13:00:00+00:00",
     "ts": "2026-09-18T11:10:51.988568+00:00"
    },
@@ -841,8 +841,8 @@
     "cuota": 1.08,
     "pinnacle": false,
     "delta": 5.39,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-18T12:30:00+00:00",
     "ts": "2026-09-17T17:08:22.486543+00:00"
    },
@@ -856,8 +856,8 @@
     "cuota": 1.22,
     "pinnacle": false,
     "delta": 4.87,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-18T12:30:00+00:00",
     "ts": "2026-09-17T17:08:22.752660+00:00"
    },
@@ -871,8 +871,8 @@
     "cuota": 1.94,
     "pinnacle": true,
     "delta": 2.97,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-18T11:35:00+00:00",
     "ts": "2026-09-17T23:04:40.345214+00:00"
    },
@@ -886,8 +886,8 @@
     "cuota": 1.57,
     "pinnacle": true,
     "delta": 4.46,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-18T10:00:00+00:00",
     "ts": "2026-09-18T08:04:53.291514+00:00"
    },
@@ -923,11 +923,11 @@
    }
   ],
   "balance": {
-   "ganados": 288,
-   "perdidos": 121,
-   "pendientes": 13,
-   "acierto": 70.4,
-   "total": 409
+   "ganados": 290,
+   "perdidos": 125,
+   "pendientes": 7,
+   "acierto": 69.9,
+   "total": 415
   }
  },
  "mejor_dia": {
@@ -1017,7 +1017,7 @@
   "n": 3042,
   "ganados": 2045,
   "win_rate": 67,
-  "hoy": 6
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 6,
