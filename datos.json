@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T02:58:47.694896+00:00",
+ "actualizado": "2026-09-18T03:06:19.783993+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -114,9 +114,9 @@
    "cuota": 2.8,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1453
+   "n_historico": 1454
   },
   {
    "clave": "btts",
@@ -128,9 +128,9 @@
    "cuota": 1.83,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1466
+   "n_historico": 1467
   }
  ],
  "gol_temprano": [
@@ -141,7 +141,7 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -152,7 +152,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": true
   },
@@ -170,16 +170,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51048.0,
-  "balance_total": 41048.0,
-  "balance_dia": 122.0,
-  "ganados": 2968,
+  "capital": 51170.0,
+  "balance_total": 41170.0,
+  "balance_dia": 244.0,
+  "ganados": 2970,
   "perdidos": 1332,
-  "pendientes": 4,
-  "ganados_dia": 2,
+  "pendientes": 2,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.0,
-  "roi": 9.5,
+  "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -193,7 +193,7 @@
     "away": "Gualberto Villarroel SJ",
     "liga": "Primera División",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -321,7 +321,7 @@
     "away": "Gualberto Villarroel SJ",
     "liga": "Primera División",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -444,10 +444,10 @@
    }
   ],
   "balance": {
-   "ganados": 1781,
+   "ganados": 1783,
    "perdidos": 1138,
    "acierto": 61.0,
-   "yield": 15.9,
+   "yield": 16.0,
    "cuota_media": 1.9
   }
  },
@@ -766,15 +766,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3038,
-  "ganados": 2042,
+  "n": 3040,
+  "ganados": 2044,
   "win_rate": 67,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
