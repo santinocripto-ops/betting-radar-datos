@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-18T00:38:44.250549+00:00",
+ "actualizado": "2026-09-18T00:45:42.267303+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:27",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -134,6 +134,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Bolívar",
+   "away": "Gualberto Villarroel SJ",
+   "liga": "Primera División",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18",
+   "es_hoy": true
+  },
   {
    "home": "Bucaramanga",
    "away": "Independiente Medellin",
@@ -747,7 +758,7 @@
   "n": 3037,
   "ganados": 2041,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
