@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T18:26:13.397110+00:00",
+ "actualizado": "2026-09-18T18:32:51.466367+00:00",
  "partidos_vivo": [
   {
    "home": "Sarpsborg 08 FF",
@@ -992,6 +992,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Chelsea FC win on 2026-09-18?",
+   "apuesta": "NO, Chelsea no ganara",
+   "usdc": 1103123,
+   "prob": 62.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "20:32"
+  },
+  {
    "titulo": "Caldas da Rainha: Susan Bandecchi vs Lisa Pigato",
    "apuesta": "SI, Caldas da Rainha: Susan Bandecchi ganara",
    "usdc": 106923,
@@ -1053,15 +1062,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "13:31"
-  },
-  {
-   "titulo": "Counter-Strike: 3DMAX vs EYEBALLERS (BO1) - Logitech G Play Connect Gr",
-   "apuesta": "SI, Counter-Strike: 3DMAX ganara",
-   "usdc": 42560,
-   "prob": 56.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:06"
   }
  ],
  "stats_gt": {
