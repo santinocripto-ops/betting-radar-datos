@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T08:05:00.579230+00:00",
+ "actualizado": "2026-09-18T08:12:17.096340+00:00",
  "partidos_vivo": [
   {
    "home": "Philippines U23",
@@ -476,6 +476,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "SV Kapfenberg",
+    "away": "SKU Amstetten",
+    "liga": "2. Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 9,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 5.01,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T16:30:00+00:00",
+    "ts": "2026-09-18T08:05:00.745044+00:00"
+   },
+   {
     "home": "Sesvete",
     "away": "HNK Cibalia",
     "liga": "First NL",
@@ -489,6 +504,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-18T14:30:00+00:00",
     "ts": "2026-09-17T23:04:42.757827+00:00"
+   },
+   {
+    "home": "Sesvete",
+    "away": "HNK Cibalia",
+    "liga": "First NL",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.8,
+    "pinnacle": true,
+    "delta": 4.68,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T14:30:00+00:00",
+    "ts": "2026-09-18T08:04:57.025557+00:00"
    },
    {
     "home": "Polessya",
@@ -534,6 +564,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-18T11:35:00+00:00",
     "ts": "2026-09-17T23:04:40.345214+00:00"
+   },
+   {
+    "home": "Chornomorets",
+    "away": "Obolon'-Brovar",
+    "liga": "Premier League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.57,
+    "pinnacle": true,
+    "delta": 4.46,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-18T10:00:00+00:00",
+    "ts": "2026-09-18T08:04:53.291514+00:00"
    },
    {
     "home": "Plzen",
@@ -654,57 +699,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-16T19:00:00+00:00",
     "ts": "2026-09-16T12:04:13.600624+00:00"
-   },
-   {
-    "home": "Bayer Leverkusen",
-    "away": "Celje",
-    "liga": "UEFA Europa League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.02,
-    "pinnacle": true,
-    "delta": 4.06,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-16T19:00:00+00:00",
-    "ts": "2026-09-16T14:06:38.150982+00:00"
-   },
-   {
-    "home": "FC Lugano",
-    "away": "FC ST. Gallen",
-    "liga": "Super League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.91,
-    "pinnacle": true,
-    "delta": 3.15,
-    "marcador": "4-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-16T17:00:00+00:00",
-    "ts": "2026-09-16T08:03:47.771391+00:00"
-   },
-   {
-    "home": "FC Thun",
-    "away": "Servette FC",
-    "liga": "Super League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.44,
-    "pinnacle": true,
-    "delta": 4.79,
-    "marcador": "2-4",
-    "resultado": "perdido",
-    "kickoff": "2026-09-16T17:00:00+00:00",
-    "ts": "2026-09-16T09:07:01.584392+00:00"
    }
   ],
   "balance": {
    "ganados": 288,
    "perdidos": 121,
-   "pendientes": 4,
+   "pendientes": 7,
    "acierto": 70.4,
    "total": 409
   }
