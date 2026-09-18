@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-18T11:09:22.166798+00:00",
+ "actualizado": "2026-09-18T11:11:13.944811+00:00",
  "partidos_vivo": [
   {
    "home": "Yanbian Longding",
@@ -66,6 +66,48 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Bandırmaspor vs Ümraniyespor · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.25 (7 casas)",
+   "hora": "13:11",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:11",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:10",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "13:10",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:09",
@@ -94,52 +136,19 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "10:04",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:45",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Sesvete vs HNK Cibalia · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.2 (7 c",
-   "hora": "01:04",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "01:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "01:04",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "00:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Bandırmaspor",
+   "away": "Ümraniyespor",
+   "liga": "1. Lig",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.25,
+   "resultado": "pendiente",
+   "fecha": "2026-09-18"
+  },
   {
    "home": "Sesvete",
    "away": "HNK Cibalia",
@@ -858,7 +867,7 @@
  "stats_banker": {
   "ganados": 102,
   "perdidos": 38,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
