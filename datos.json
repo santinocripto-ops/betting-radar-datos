@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-18T10:07:52.448813+00:00",
+ "actualizado": "2026-09-18T10:10:13.819136+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "⭐ MEJOR PRONÓSTICO DEL DÍA",
+   "hora": "12:10",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -68,12 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
    "hora": "23:58",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "📈 TOP 10 OVER 2.5 — MAÑANA 18/09/2026",
-   "hora": "23:44",
    "tipo": "smart_money"
   }
  ],
@@ -689,7 +689,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "13:35",
+  "cuota": 3.8,
+  "score": 11.3,
+  "n_senales": 2,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
