@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T10:56:23.851907+00:00",
+ "actualizado": "2026-09-19T11:04:11.817308+00:00",
  "partidos_vivo": [
   {
    "home": "Shimizu S-pulse",
@@ -187,7 +187,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 64,
-   "n_historico": 1476
+   "n_historico": 1478
   },
   {
    "clave": "btts",
@@ -201,7 +201,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1496
+   "n_historico": 1497
   }
  ],
  "gol_temprano": [
@@ -245,7 +245,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-19",
    "es_hoy": true
   },
@@ -256,7 +256,7 @@
    "minuto": 11,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-19",
    "es_hoy": true
   },
@@ -274,13 +274,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 52059.0,
-  "balance_total": 42059.0,
-  "balance_dia": 140.0,
-  "ganados": 3011,
+  "capital": 52181.0,
+  "balance_total": 42181.0,
+  "balance_dia": 262.0,
+  "ganados": 3013,
   "perdidos": 1347,
-  "pendientes": 7,
-  "ganados_dia": 8,
+  "pendientes": 5,
+  "ganados_dia": 10,
   "perdidos_dia": 3,
   "win_rate": 69.1,
   "roi": 9.7,
@@ -421,8 +421,8 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1811,
-   "perdidos": 1161,
+   "ganados": 1813,
+   "perdidos": 1162,
    "acierto": 60.9,
    "yield": 15.8,
    "cuota_media": 1.9
@@ -749,16 +749,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3087,
-  "ganados": 2078,
+  "n": 3089,
+  "ganados": 2080,
   "win_rate": 67,
   "hoy": 9
  },
  "stats_dia": {
-  "ganados": 8,
+  "ganados": 10,
   "perdidos": 3,
-  "en_juego": 5,
-  "win_rate": 73
+  "en_juego": 3,
+  "win_rate": 77
  },
  "stats_banker": {
   "ganados": 102,
