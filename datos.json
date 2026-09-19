@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T04:58:06.211794+00:00",
+ "actualizado": "2026-09-19T05:05:43.270863+00:00",
  "partidos_vivo": [
   {
    "home": "FC Juarez",
@@ -167,7 +167,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 64,
-   "n_historico": 1472
+   "n_historico": 1473
   },
   {
    "clave": "btts",
@@ -181,7 +181,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1487
+   "n_historico": 1488
   }
  ],
  "gol_temprano": [
@@ -192,7 +192,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-19",
    "es_hoy": true
   },
@@ -203,7 +203,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-19",
    "es_hoy": true
   },
@@ -232,14 +232,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 52053.0,
-  "balance_total": 42053.0,
-  "balance_dia": 134.0,
-  "ganados": 3009,
-  "perdidos": 1346,
-  "pendientes": 5,
-  "ganados_dia": 6,
-  "perdidos_dia": 2,
+  "capital": 52059.0,
+  "balance_total": 42059.0,
+  "balance_dia": 140.0,
+  "ganados": 3011,
+  "perdidos": 1347,
+  "pendientes": 2,
+  "ganados_dia": 8,
+  "perdidos_dia": 3,
   "win_rate": 69.1,
   "roi": 9.7,
   "stake": 100.0,
@@ -379,10 +379,10 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1804,
+   "ganados": 1806,
    "perdidos": 1155,
    "acierto": 61.0,
-   "yield": 15.8,
+   "yield": 15.9,
    "cuota_media": 1.9
   }
  },
@@ -392,7 +392,7 @@
    "away": "Tigres UANL",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "San Diego Wave W",
@@ -716,16 +716,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3085,
-  "ganados": 2077,
+  "n": 3087,
+  "ganados": 2078,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 6,
-  "perdidos": 2,
-  "en_juego": 3,
-  "win_rate": 75
+  "ganados": 8,
+  "perdidos": 3,
+  "en_juego": 0,
+  "win_rate": 73
  },
  "stats_banker": {
   "ganados": 102,
