@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T18:07:42.566374+00:00",
+ "actualizado": "2026-09-19T18:14:59.348512+00:00",
  "partidos_vivo": [
   {
    "home": "Sparta Rotterdam",
@@ -87,6 +87,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "20:07",
    "tipo": "live"
@@ -138,24 +156,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:57",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -206,6 +206,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Metz",
+   "away": "Saint Etienne",
+   "liga": "Ligue 2",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Ajax",
+   "away": "Excelsior",
+   "liga": "Eredivisie",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Istra 1961",
+   "away": "HNK Gorica",
+   "liga": "HNL",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Dessel Sport",
    "away": "Cercle Brugge II",
    "liga": "First Amateur Division",
@@ -232,39 +265,6 @@
    "away": "Jaraíz",
    "liga": "Tercera División RFEF - Group 14",
    "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Alcúdia",
-   "away": "Santanyí",
-   "liga": "Tercera División RFEF - Group 11",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Maccabi Netanya",
-   "away": "Maccabi Tel Aviv",
-   "liga": "Ligat Ha'al",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Radnik Surdulica",
-   "away": "FK Partizan",
-   "liga": "Super Liga",
-   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -868,7 +868,7 @@
   "n": 3142,
   "ganados": 2115,
   "win_rate": 67,
-  "hoy": 75
+  "hoy": 78
  },
  "stats_dia": {
   "ganados": 58,
