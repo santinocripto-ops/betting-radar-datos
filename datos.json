@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T03:47:09.926596+00:00",
+ "actualizado": "2026-09-19T03:53:43.189222+00:00",
  "partidos_vivo": [
   {
    "home": "Tigres de Alica",
@@ -353,13 +353,6 @@
    "liga": "NWSL Women",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "New York City FC",
-   "away": "New York Red Bulls",
-   "liga": "Major League Soccer",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
