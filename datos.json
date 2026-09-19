@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T14:00:39.355176+00:00",
+ "actualizado": "2026-09-19T14:09:37.652508+00:00",
  "partidos_vivo": [
   {
    "home": "Zenit W",
@@ -68,6 +68,30 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:43",
    "tipo": "live"
   },
@@ -112,30 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:12",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:11",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -177,7 +177,7 @@
    "hora": "14:30",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1478
+   "n_historico": 1484
   },
   {
    "clave": "btts",
@@ -191,7 +191,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1498
+   "n_historico": 1509
   }
  ],
  "gol_temprano": [
@@ -264,20 +264,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 52203.0,
-  "balance_total": 42203.0,
-  "balance_dia": 284.0,
-  "ganados": 3015,
-  "perdidos": 1348,
-  "pendientes": 25,
-  "ganados_dia": 12,
-  "perdidos_dia": 4,
+  "capital": 52359.0,
+  "balance_total": 42359.0,
+  "balance_dia": 440.0,
+  "ganados": 3023,
+  "perdidos": 1351,
+  "pendientes": 16,
+  "ganados_dia": 20,
+  "perdidos_dia": 7,
   "win_rate": 69.1,
   "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4388,
+  "con_cuota_media": 4390,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -350,7 +350,7 @@
     "away": "Eidsvold",
     "liga": "2. Division - Group 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -359,7 +359,7 @@
     "away": "Vard",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -368,7 +368,7 @@
     "away": "Åkra",
     "liga": "3. Division - Girone 4",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -377,7 +377,7 @@
     "away": "Skjetten",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -386,7 +386,7 @@
     "away": "Bossekop",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -395,7 +395,7 @@
     "away": "Häcken II W",
     "liga": "Elitettan",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -404,7 +404,7 @@
     "away": "Hoyvík",
     "liga": "1. Deild",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -424,7 +424,7 @@
     "away": "Eidsvold",
     "liga": "2. Division - Group 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -433,7 +433,7 @@
     "away": "Vard",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -442,7 +442,7 @@
     "away": "Åkra",
     "liga": "3. Division - Girone 4",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -451,7 +451,7 @@
     "away": "Skjetten",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -460,7 +460,7 @@
     "away": "Bossekop",
     "liga": "3. Division - Girone 5",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -469,7 +469,7 @@
     "away": "Hoyvík",
     "liga": "1. Deild",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -484,27 +484,41 @@
    }
   ],
   "balance": {
-   "ganados": 1814,
-   "perdidos": 1162,
+   "ganados": 1825,
+   "perdidos": 1168,
    "acierto": 61.0,
-   "yield": 15.8,
+   "yield": 15.9,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
   {
+   "home": "EPS",
+   "away": "Ilves II",
+   "liga": "Kakkonen - Lohko B",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Venezia U19",
+   "away": "Brescia U19",
+   "liga": "Campionato Primavera - 2",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Persiba Balikpapan",
    "away": "Persela Lamongan",
    "liga": "Liga 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "FC Viktoria Köln",
    "away": "FC Ingolstadt 04",
    "liga": "3. Liga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -827,16 +841,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3092,
-  "ganados": 2082,
+  "n": 3101,
+  "ganados": 2088,
   "win_rate": 67,
   "hoy": 30
  },
  "stats_dia": {
-  "ganados": 12,
-  "perdidos": 4,
-  "en_juego": 24,
-  "win_rate": 75
+  "ganados": 20,
+  "perdidos": 7,
+  "en_juego": 15,
+  "win_rate": 74
  },
  "stats_banker": {
   "ganados": 102,
