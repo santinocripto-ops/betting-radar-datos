@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T11:07:25.933168+00:00",
+ "actualizado": "2026-09-19T11:25:00.478993+00:00",
  "partidos_vivo": [
   {
    "home": "Shimizu S-pulse",
@@ -429,7 +429,80 @@
     "tanda": 2
    }
   ],
-  "over25": [],
+  "over25": [
+   {
+    "home": "Utrecht W",
+    "away": "Feyenoord W",
+    "liga": "Eredivisie Women",
+    "hora": "16:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Follo",
+    "away": "Eidsvold",
+    "liga": "2. Division - Group 2",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Sogndal II",
+    "away": "Vard",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Hinna",
+    "away": "Åkra",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Harstad",
+    "away": "Skjetten",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ulfstind",
+    "away": "Bossekop",
+    "liga": "3. Division - Girone 5",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "TB",
+    "away": "Hoyvík",
+    "liga": "1. Deild",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Karlskrona",
+    "away": "Oskarshamns AIK",
+    "liga": "Division 2 - Södra Götaland",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
   "balance": {
    "ganados": 1813,
    "perdidos": 1162,
