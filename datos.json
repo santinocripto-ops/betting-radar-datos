@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T15:07:32.359745+00:00",
+ "actualizado": "2026-09-19T15:17:13.042738+00:00",
  "partidos_vivo": [
   {
    "home": "Basel II",
@@ -47,6 +47,30 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:07",
    "tipo": "live"
@@ -91,30 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:51",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:50",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:44",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:43",
    "tipo": "live"
   }
  ],
@@ -166,6 +166,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Pécsi MFC",
+   "away": "MTK Budapest II",
+   "liga": "NB III - Southwest",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Austria Lustenau",
+   "away": "SCR Altach",
+   "liga": "Bundesliga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Kisvarda FC",
+   "away": "Paks",
+   "liga": "NB I",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "NK Varazdin",
+   "away": "NK Osijek",
+   "liga": "HNL",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Robres",
    "away": "Huesca II",
    "liga": "Tercera División RFEF - Group 17",
@@ -181,50 +225,6 @@
    "away": "FC Botosani",
    "liga": "Liga I",
    "minuto": 20,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Saarbrücken",
-   "away": "SG Sonnenhof Grossaspach",
-   "liga": "3. Liga",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Ilirija",
-   "away": "Krško",
-   "liga": "2. SNL",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Vitesse",
-   "away": "Jong PSV U21",
-   "liga": "Eerste Divisie",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Trnje",
-   "away": "Hrvatski Dragovoljac",
-   "liga": "Second NL",
-   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -547,8 +547,8 @@
     "cuota": 2.06,
     "pinnacle": true,
     "delta": 4.71,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-19T13:00:00+00:00",
     "ts": "2026-09-19T11:07:11.628446+00:00"
    },
@@ -562,8 +562,8 @@
     "cuota": 1.4,
     "pinnacle": true,
     "delta": 3.32,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-19T13:00:00+00:00",
     "ts": "2026-09-19T11:07:12.150243+00:00"
    },
@@ -577,8 +577,8 @@
     "cuota": 2.15,
     "pinnacle": true,
     "delta": 5.14,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "perdido",
     "kickoff": "2026-09-19T12:30:00+00:00",
     "ts": "2026-09-19T11:07:09.646420+00:00"
    },
@@ -592,8 +592,8 @@
     "cuota": 1.21,
     "pinnacle": false,
     "delta": 4.58,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-19T12:30:00+00:00",
     "ts": "2026-09-19T11:07:09.833014+00:00"
    },
@@ -734,11 +734,11 @@
    }
   ],
   "balance": {
-   "ganados": 298,
-   "perdidos": 128,
-   "pendientes": 6,
+   "ganados": 301,
+   "perdidos": 129,
+   "pendientes": 2,
    "acierto": 70.0,
-   "total": 426
+   "total": 430
   }
  },
  "mejor_dia": {
@@ -828,7 +828,7 @@
   "n": 3111,
   "ganados": 2096,
   "win_rate": 67,
-  "hoy": 55
+  "hoy": 59
  },
  "stats_dia": {
   "ganados": 31,
