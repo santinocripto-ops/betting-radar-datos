@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T08:37:49.018447+00:00",
+ "actualizado": "2026-09-19T08:44:25.787456+00:00",
  "partidos_vivo": [
   {
    "home": "Bucheon FC 1995",
@@ -588,6 +588,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
+   "apuesta": "SI, LoL: Invictus Gaming ganara",
+   "usdc": 135204,
+   "prob": 52.5,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "10:44"
+  },
+  {
    "titulo": "Will Paris FC win on 2026-09-19?",
    "apuesta": "SI, Paris ganara",
    "usdc": 139294,
@@ -649,15 +658,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "00:50"
-  },
-  {
-   "titulo": "Will Brentford FC win on 2026-09-18?",
-   "apuesta": "SI, Brentford ganara",
-   "usdc": 873998,
-   "prob": 37.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "20:45"
   }
  ],
  "stats_gt": {
