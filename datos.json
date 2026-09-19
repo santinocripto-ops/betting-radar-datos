@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T23:15:06.284753+00:00",
+ "actualizado": "2026-09-19T23:22:55.874702+00:00",
  "partidos_vivo": [
   {
    "home": "River Plate",
@@ -66,6 +66,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:22",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "01:06",
@@ -130,12 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:14",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -186,6 +186,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Tijuana W",
+   "away": "Guadalajara W",
+   "liga": "Liga MX Femenil",
+   "minuto": 14,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": false
+  },
+  {
    "home": "Aurora",
    "away": "Universitario de Vinto",
    "liga": "Copa de la División Profesional",
@@ -235,17 +246,6 @@
    "liga": "1. SNL",
    "minuto": 13,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "AS Eupen",
-   "away": "Liège",
-   "liga": "Challenger Pro League",
-   "minuto": 18,
-   "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-19",
