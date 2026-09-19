@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T17:32:38.403381+00:00",
+ "actualizado": "2026-09-19T17:39:21.863557+00:00",
  "partidos_vivo": [
   {
    "home": "Molde",
@@ -248,6 +248,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:39",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:32",
    "tipo": "live"
   },
@@ -310,12 +316,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:28",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -365,6 +365,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Beitar Jerusalem",
+   "away": "Hapoel Haifa",
+   "liga": "Ligat Ha'al",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
   {
    "home": "Llerenense",
    "away": "Jaraíz",
@@ -419,17 +430,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-19",
    "es_hoy": true
-  },
-  {
-   "home": "Sparta Rotterdam",
-   "away": "Heerenveen",
-   "liga": "Eredivisie",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -439,7 +439,7 @@
   "balance_dia": 837.0,
   "ganados": 3060,
   "perdidos": 1368,
-  "pendientes": 16,
+  "pendientes": 17,
   "ganados_dia": 57,
   "perdidos_dia": 24,
   "win_rate": 69.1,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4444,
+  "con_cuota_media": 4445,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1028,12 +1028,12 @@
   "n": 3142,
   "ganados": 2115,
   "win_rate": 67,
-  "hoy": 73
+  "hoy": 74
  },
  "stats_dia": {
   "ganados": 58,
   "perdidos": 24,
-  "en_juego": 14,
+  "en_juego": 15,
   "win_rate": 71
  },
  "stats_banker": {
