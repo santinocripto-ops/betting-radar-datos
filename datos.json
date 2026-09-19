@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T09:16:10.715946+00:00",
+ "actualizado": "2026-09-19T09:23:01.058497+00:00",
  "partidos_vivo": [
   {
    "home": "Jecheon Citizen",
@@ -259,7 +259,7 @@
   "balance_dia": 140.0,
   "ganados": 3011,
   "perdidos": 1347,
-  "pendientes": 2,
+  "pendientes": 5,
   "ganados_dia": 8,
   "perdidos_dia": 3,
   "win_rate": 69.1,
@@ -267,7 +267,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4360,
+  "con_cuota_media": 4363,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -731,7 +731,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 3,
-  "en_juego": 0,
+  "en_juego": 3,
   "win_rate": 73
  },
  "stats_banker": {
