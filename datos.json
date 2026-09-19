@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T23:22:55.874702+00:00",
+ "actualizado": "2026-09-19T23:30:16.763203+00:00",
  "partidos_vivo": [
   {
    "home": "River Plate",
@@ -259,7 +259,7 @@
   "balance_dia": 0.0,
   "ganados": 3082,
   "perdidos": 1374,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -267,7 +267,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4459,
+  "con_cuota_media": 4460,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -858,7 +858,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
