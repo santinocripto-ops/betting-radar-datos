@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T18:36:43.928109+00:00",
+ "actualizado": "2026-09-19T18:43:23.894596+00:00",
  "partidos_vivo": [
   {
    "home": "Hapoel Beer Sheva",
@@ -576,13 +576,6 @@
    "liga": "HNL",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "FC Saarbrücken",
-   "away": "SG Sonnenhof Grossaspach",
-   "liga": "3. Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
