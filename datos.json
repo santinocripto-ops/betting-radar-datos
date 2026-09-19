@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T10:10:02.432599+00:00",
+ "actualizado": "2026-09-19T10:12:33.105451+00:00",
  "partidos_vivo": [
   {
    "home": "Palermo U19",
@@ -646,7 +646,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.62,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
