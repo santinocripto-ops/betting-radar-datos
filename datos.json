@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T13:43:50.838811+00:00",
+ "actualizado": "2026-09-19T13:50:51.086930+00:00",
  "partidos_vivo": [
   {
    "home": "Guingamp",
@@ -449,7 +449,7 @@
   "balance_dia": 284.0,
   "ganados": 3015,
   "perdidos": 1348,
-  "pendientes": 23,
+  "pendientes": 25,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 69.1,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4386,
+  "con_cuota_media": 4388,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -934,6 +934,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Borussia Mönchengladbach win on 2026-09-19?",
+   "apuesta": "NO, Borussia Mönchengladbach no ganara",
+   "usdc": 50367,
+   "prob": 46.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "15:50"
+  },
+  {
    "titulo": "Will Newcastle United FC win on 2026-09-19?",
    "apuesta": "SI, Newcastle United ganara",
    "usdc": 399872,
@@ -995,15 +1004,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "10:44"
-  },
-  {
-   "titulo": "Will Paris FC win on 2026-09-19?",
-   "apuesta": "SI, Paris ganara",
-   "usdc": 139294,
-   "prob": 51.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x4",
-   "hora": "09:13"
   }
  ],
  "stats_gt": {
@@ -1015,7 +1015,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 22,
+  "en_juego": 24,
   "win_rate": 75
  },
  "stats_banker": {
