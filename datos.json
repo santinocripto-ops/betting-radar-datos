@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T16:28:53.465472+00:00",
+ "actualizado": "2026-09-19T16:35:25.965672+00:00",
  "partidos_vivo": [
   {
    "home": "NK Varazdin",
@@ -319,7 +319,7 @@
   "balance_dia": 952.0,
   "ganados": 3051,
   "perdidos": 1362,
-  "pendientes": 22,
+  "pendientes": 23,
   "ganados_dia": 48,
   "perdidos_dia": 18,
   "win_rate": 69.1,
@@ -327,7 +327,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4435,
+  "con_cuota_media": 4436,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -913,7 +913,7 @@
  "stats_dia": {
   "ganados": 49,
   "perdidos": 18,
-  "en_juego": 20,
+  "en_juego": 21,
   "win_rate": 73
  },
  "stats_banker": {
