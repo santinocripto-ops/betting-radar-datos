@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T14:36:57.671953+00:00",
+ "actualizado": "2026-09-19T14:44:17.373272+00:00",
  "partidos_vivo": [
   {
    "home": "Slovan Bratislava W",
@@ -48,7 +48,19 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
+   "hora": "16:44",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:43",
    "tipo": "live"
   },
   {
@@ -72,7 +84,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
+   "hora": "16:21",
    "tipo": "live"
   },
   {
@@ -102,19 +114,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:10",
+   "hora": "16:20",
    "tipo": "live"
   }
  ],
@@ -176,6 +176,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Saarbrücken",
+   "away": "SG Sonnenhof Grossaspach",
+   "liga": "3. Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Ilirija",
+   "away": "Krško",
+   "liga": "2. SNL",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Vitesse",
+   "away": "Jong PSV U21",
+   "liga": "Eerste Divisie",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Trnje",
    "away": "Hrvatski Dragovoljac",
    "liga": "Second NL",
@@ -202,39 +235,6 @@
    "away": "Wycombe",
    "liga": "League One",
    "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Blackpool",
-   "away": "Plymouth",
-   "liga": "League One",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Salford City",
-   "away": "Swindon Town",
-   "liga": "League Two",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Northampton",
-   "away": "Rotherham",
-   "liga": "League Two",
-   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -824,7 +824,7 @@
   "n": 3101,
   "ganados": 2088,
   "win_rate": 67,
-  "hoy": 50
+  "hoy": 53
  },
  "stats_dia": {
   "ganados": 20,
