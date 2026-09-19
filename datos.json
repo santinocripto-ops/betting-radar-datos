@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-19T08:30:26.671052+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-19T08:37:49.018447+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Bucheon FC 1995",
+   "away": "Gimcheon Sangmu FC",
+   "liga": "K League 1",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 57,
+   "momentum_away": 43,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
