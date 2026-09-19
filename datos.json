@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T04:16:41.034093+00:00",
+ "actualizado": "2026-09-19T04:23:36.823843+00:00",
  "partidos_vivo": [
   {
    "home": "FC Juarez",
@@ -643,6 +643,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Arsenal FC win on 2026-09-19?",
+   "apuesta": "NO, Arsenal no ganara",
+   "usdc": 131914,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "06:23"
+  },
+  {
    "titulo": "Will Club Puebla win on 2026-09-18?",
    "apuesta": "NO, Club Puebla no ganara",
    "usdc": 26240,
@@ -704,15 +713,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "17:59"
-  },
-  {
-   "titulo": "Caldas da Rainha: Malaika Rapolu vs Gabriela Knutson",
-   "apuesta": "SI, Caldas da Rainha: Malaika Rapolu ganara",
-   "usdc": 83770,
-   "prob": 11.0,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "17:17"
   }
  ],
  "stats_gt": {
