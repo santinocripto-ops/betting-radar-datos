@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T08:09:44.508017+00:00",
+ "actualizado": "2026-09-19T08:16:51.792420+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -329,6 +329,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Millwall",
+    "away": "West Ham",
+    "liga": "Championship",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.77,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T11:30:00+00:00",
+    "ts": "2026-09-19T08:09:44.646569+00:00"
+   },
+   {
     "home": "Shaanxi Union",
     "away": "Suzhou Dongwu",
     "liga": "League One",
@@ -342,6 +357,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-19T11:00:00+00:00",
     "ts": "2026-09-18T23:07:06.773424+00:00"
+   },
+   {
+    "home": "FC Kharkiv",
+    "away": "Bukovyna",
+    "liga": "Premier League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 7,
+    "cuota": 1.95,
+    "pinnacle": true,
+    "delta": 5.05,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T10:00:00+00:00",
+    "ts": "2026-09-19T08:09:39.495837+00:00"
    },
    {
     "home": "PAU",
@@ -522,42 +552,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-18T12:30:00+00:00",
     "ts": "2026-09-17T17:08:22.752660+00:00"
-   },
-   {
-    "home": "Hangzhou Greentown",
-    "away": "Wuhan Three Towns",
-    "liga": "Super League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.94,
-    "pinnacle": true,
-    "delta": 2.97,
-    "marcador": "4-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-18T11:35:00+00:00",
-    "ts": "2026-09-17T23:04:40.345214+00:00"
-   },
-   {
-    "home": "Chornomorets",
-    "away": "Obolon'-Brovar",
-    "liga": "Premier League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 6,
-    "cuota": 1.57,
-    "pinnacle": true,
-    "delta": 4.46,
-    "marcador": "1-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T10:00:00+00:00",
-    "ts": "2026-09-18T08:04:53.291514+00:00"
    }
   ],
   "balance": {
    "ganados": 296,
    "perdidos": 127,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 70.0,
    "total": 423
   }
