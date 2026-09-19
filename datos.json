@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T14:58:54.371755+00:00",
+ "actualizado": "2026-09-19T15:07:32.359745+00:00",
  "partidos_vivo": [
   {
    "home": "Basel II",
@@ -47,6 +47,48 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:51",
    "tipo": "live"
@@ -74,62 +116,10 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Carrarese",
-   "away": "Benevento",
-   "liga": "Serie B",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.35,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -143,7 +133,7 @@
    "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 291
+   "n_historico": 292
   },
   {
    "clave": "over25",
@@ -157,7 +147,7 @@
    "hora": "14:30",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1484
+   "n_historico": 1485
   },
   {
    "clave": "btts",
@@ -244,20 +234,20 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 52359.0,
-  "balance_total": 42359.0,
-  "balance_dia": 440.0,
-  "ganados": 3023,
-  "perdidos": 1351,
-  "pendientes": 41,
-  "ganados_dia": 20,
-  "perdidos_dia": 7,
-  "win_rate": 69.1,
+  "capital": 52737.0,
+  "balance_total": 42737.0,
+  "balance_dia": 818.0,
+  "ganados": 3033,
+  "perdidos": 1353,
+  "pendientes": 36,
+  "ganados_dia": 30,
+  "perdidos_dia": 9,
+  "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4415,
+  "con_cuota_media": 4422,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -458,47 +448,61 @@
     "away": "Oskarshamns AIK",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
    "ganados": 1825,
-   "perdidos": 1168,
+   "perdidos": 1169,
    "acierto": 61.0,
-   "yield": 15.9,
+   "yield": 15.8,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
   {
-   "home": "EPS",
-   "away": "Ilves II",
-   "liga": "Kakkonen - Lohko B",
+   "home": "Wigan",
+   "away": "Wycombe",
+   "liga": "League One",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "Venezia U19",
-   "away": "Brescia U19",
-   "liga": "Campionato Primavera - 2",
+   "home": "Salford City",
+   "away": "Swindon Town",
+   "liga": "League Two",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   },
   {
-   "home": "Persiba Balikpapan",
-   "away": "Persela Lamongan",
-   "liga": "Liga 2",
+   "home": "Northampton",
+   "away": "Rotherham",
+   "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
+   "resultado": "pendiente"
   },
   {
-   "home": "FC Viktoria Köln",
-   "away": "FC Ingolstadt 04",
-   "liga": "3. Liga",
+   "home": "Accrington ST",
+   "away": "Newport County",
+   "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
+   "resultado": "pendiente"
+  },
+  {
+   "home": "FBK Karlstad",
+   "away": "Sollentuna",
+   "liga": "Ettan - Norra",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Colchester",
+   "away": "Cheltenham",
+   "liga": "League Two",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
   }
  ],
  "pagina_smart": {
@@ -821,21 +825,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3101,
-  "ganados": 2088,
+  "n": 3111,
+  "ganados": 2096,
   "win_rate": 67,
   "hoy": 55
  },
  "stats_dia": {
-  "ganados": 20,
-  "perdidos": 7,
-  "en_juego": 40,
-  "win_rate": 74
+  "ganados": 31,
+  "perdidos": 9,
+  "en_juego": 34,
+  "win_rate": 78
  },
  "stats_banker": {
-  "ganados": 102,
+  "ganados": 103,
   "perdidos": 40,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
