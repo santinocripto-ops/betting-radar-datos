@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T08:51:35.446307+00:00",
+ "actualizado": "2026-09-19T08:58:25.007053+00:00",
  "partidos_vivo": [
   {
    "home": "Bucheon FC 1995",
@@ -588,6 +588,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Play",
+   "apuesta": "SI, Counter-Strike: Luminosity ganara",
+   "usdc": 82147,
+   "prob": 64.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "10:58"
+  },
+  {
    "titulo": "LoL: Invictus Gaming vs JD Gaming (BO5) - LPL Regional Finals Playoffs",
    "apuesta": "SI, LoL: Invictus Gaming ganara",
    "usdc": 135204,
@@ -649,15 +658,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "03:19"
-  },
-  {
-   "titulo": "LoL: Shopify Rebellion vs Sentinels - Game 4 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 19622,
-   "prob": 44.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "00:50"
   }
  ],
  "stats_gt": {
