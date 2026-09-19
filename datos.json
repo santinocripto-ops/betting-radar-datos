@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T11:40:09.704787+00:00",
+ "actualizado": "2026-09-19T11:47:10.115221+00:00",
  "partidos_vivo": [
   {
    "home": "Karviná U19",
@@ -229,7 +229,7 @@
   "balance_dia": 262.0,
   "ganados": 3013,
   "perdidos": 1347,
-  "pendientes": 5,
+  "pendientes": 7,
   "ganados_dia": 10,
   "perdidos_dia": 3,
   "win_rate": 69.1,
@@ -237,7 +237,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4365,
+  "con_cuota_media": 4367,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -780,7 +780,7 @@
  "stats_dia": {
   "ganados": 10,
   "perdidos": 3,
-  "en_juego": 4,
+  "en_juego": 6,
   "win_rate": 77
  },
  "stats_banker": {
