@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-19T02:36:28.223327+00:00",
+ "actualizado": "2026-09-19T02:43:29.774777+00:00",
  "partidos_vivo": [
   {
-   "home": "Alianza Lima",
-   "away": "ADT",
-   "liga": "Primera División",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 73,
-   "momentum_away": 27,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
-    "⚽ 1 gol — ADT buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Puebla",
-   "away": "Atlante FC",
-   "liga": "Liga MX",
-   "minuto": 55,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 37,
-   "momentum_away": 63,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga por encima de la media: 2.66 goles/partido",
-    "⚽ 1 gol — Puebla buscará el empate"
-   ]
-  },
-  {
-   "home": "Tepatitlán",
-   "away": "Mineros de Zacatecas",
-   "liga": "Liga de Expansión MX",
-   "minuto": 56,
+   "home": "Atlético Choloma",
+   "away": "Estrella Roja",
+   "liga": "Liga Nacional",
+   "minuto": 53,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
-  },
-  {
-   "home": "Piratas",
-   "away": "Venados FC",
-   "liga": "Liga de Expansión MX",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Venados FC buscará el empate"
-   ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
