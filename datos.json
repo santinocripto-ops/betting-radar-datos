@@ -1,28 +1,68 @@
 {
- "actualizado": "2026-09-19T08:58:25.007053+00:00",
+ "actualizado": "2026-09-19T09:06:48.576389+00:00",
  "partidos_vivo": [
   {
-   "home": "Bucheon FC 1995",
-   "away": "Gimcheon Sangmu FC",
-   "liga": "K League 1",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Jecheon Citizen",
+   "away": "Geoje Citizen",
+   "liga": "K4 League",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Jecheon Citizen buscará el empate"
+   ]
+  },
+  {
+   "home": "FC Bacau",
+   "away": "Cetatea Suceava",
+   "liga": "Liga II",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "CSM Satu Mare",
+   "away": "CS Afumati",
+   "liga": "Liga II",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -127,7 +167,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 64,
-   "n_historico": 1475
+   "n_historico": 1476
   },
   {
    "clave": "btts",
@@ -141,7 +181,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1492
+   "n_historico": 1493
   }
  ],
  "gol_temprano": [
@@ -339,9 +379,9 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1808,
+   "ganados": 1810,
    "perdidos": 1159,
-   "acierto": 60.9,
+   "acierto": 61.0,
    "yield": 15.8,
    "cuota_media": 1.9
   }
