@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T13:04:38.444493+00:00",
+ "actualizado": "2026-09-19T13:12:23.073658+00:00",
  "partidos_vivo": [
   {
    "home": "Tottenham",
@@ -246,6 +246,48 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:12",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:11",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:11",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "15:04",
@@ -274,48 +316,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:39",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:39",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Carrarese vs Benevento · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.35",
-   "hora": "13:07",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -449,7 +449,7 @@
   "balance_dia": 284.0,
   "ganados": 3015,
   "perdidos": 1348,
-  "pendientes": 11,
+  "pendientes": 14,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 69.1,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4374,
+  "con_cuota_media": 4377,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -671,7 +671,22 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Persiba Balikpapan",
+   "away": "Persela Lamongan",
+   "liga": "Liga 2",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "FC Viktoria Köln",
+   "away": "FC Ingolstadt 04",
+   "liga": "3. Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -688,6 +703,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-19T16:15:00+00:00",
     "ts": "2026-09-19T11:07:02.078193+00:00"
+   },
+   {
+    "home": "Sturm Graz II",
+    "away": "Wacker Innsbruck",
+    "liga": "2. Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.62,
+    "pinnacle": true,
+    "delta": 5.58,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T13:30:00+00:00",
+    "ts": "2026-09-19T13:04:38.697620+00:00"
    },
    {
     "home": "Cremonese",
@@ -774,8 +804,8 @@
     "cuota": 1.16,
     "pinnacle": true,
     "delta": 3.39,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-19T11:00:00+00:00",
     "ts": "2026-09-18T23:07:06.773424+00:00"
    },
@@ -883,29 +913,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-18T16:30:00+00:00",
     "ts": "2026-09-18T11:10:58.323152+00:00"
-   },
-   {
-    "home": "Sesvete",
-    "away": "HNK Cibalia",
-    "liga": "First NL",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 5.02,
-    "marcador": "1-2",
-    "resultado": "perdido",
-    "kickoff": "2026-09-18T14:30:00+00:00",
-    "ts": "2026-09-17T23:04:42.757827+00:00"
    }
   ],
   "balance": {
-   "ganados": 296,
+   "ganados": 297,
    "perdidos": 128,
    "pendientes": 7,
-   "acierto": 69.8,
-   "total": 424
+   "acierto": 69.9,
+   "total": 425
   }
  },
  "mejor_dia": {
@@ -1000,7 +1015,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 10,
+  "en_juego": 13,
   "win_rate": 75
  },
  "stats_banker": {
