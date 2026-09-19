@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T02:56:57.954896+00:00",
+ "actualizado": "2026-09-19T03:04:46.291066+00:00",
  "partidos_vivo": [
   {
    "home": "Atlético Choloma",
@@ -139,9 +139,9 @@
    "cuota": 1.52,
    "score": 10,
    "hora": "01:00",
-   "resultado": "pendiente",
-   "wr_historico": 59,
-   "n_historico": 1485
+   "resultado": "perdido",
+   "wr_historico": 58,
+   "n_historico": 1486
   }
  ],
  "gol_temprano": [
@@ -163,21 +163,21 @@
    "minuto": 25,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-19",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51980.0,
-  "balance_total": 41980.0,
-  "balance_dia": 61.0,
-  "ganados": 3004,
-  "perdidos": 1344,
-  "pendientes": 8,
-  "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "capital": 52108.0,
+  "balance_total": 42108.0,
+  "balance_dia": 189.0,
+  "ganados": 3008,
+  "perdidos": 1345,
+  "pendientes": 3,
+  "ganados_dia": 5,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.7,
   "stake": 100.0,
@@ -193,7 +193,7 @@
     "away": "Mineros de Zacatecas",
     "liga": "Liga de Expansión MX",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -318,7 +318,7 @@
   "over25": [],
   "balance": {
    "ganados": 1804,
-   "perdidos": 1153,
+   "perdidos": 1154,
    "acierto": 61.0,
    "yield": 15.9,
    "cuota_media": 1.9
@@ -330,7 +330,7 @@
    "away": "New York Red Bulls",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -647,16 +647,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3080,
-  "ganados": 2074,
+  "n": 3084,
+  "ganados": 2077,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 0,
-  "en_juego": 6,
-  "win_rate": 100
+  "ganados": 5,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 83
  },
  "stats_banker": {
   "ganados": 102,
