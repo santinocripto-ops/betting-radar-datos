@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T02:23:03.595012+00:00",
+ "actualizado": "2026-09-19T02:29:50.632902+00:00",
  "partidos_vivo": [
   {
    "home": "Alianza Lima",
@@ -235,7 +235,7 @@
   "balance_dia": 61.0,
   "ganados": 3004,
   "perdidos": 1344,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -243,7 +243,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4355,
+  "con_cuota_media": 4356,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -715,7 +715,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 100
  },
  "stats_banker": {
