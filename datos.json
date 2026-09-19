@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T12:17:07.894022+00:00",
+ "actualizado": "2026-09-19T12:25:56.722248+00:00",
  "partidos_vivo": [
   {
    "home": "United Nordic",
@@ -449,7 +449,7 @@
   "balance_dia": 284.0,
   "ganados": 3015,
   "perdidos": 1348,
-  "pendientes": 4,
+  "pendientes": 11,
   "ganados_dia": 12,
   "perdidos_dia": 4,
   "win_rate": 69.1,
@@ -457,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4367,
+  "con_cuota_media": 4374,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -789,8 +789,8 @@
     "cuota": 1.95,
     "pinnacle": true,
     "delta": 5.05,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-19T10:00:00+00:00",
     "ts": "2026-09-19T08:09:39.495837+00:00"
    },
@@ -902,10 +902,10 @@
   ],
   "balance": {
    "ganados": 296,
-   "perdidos": 127,
-   "pendientes": 8,
-   "acierto": 70.0,
-   "total": 423
+   "perdidos": 128,
+   "pendientes": 7,
+   "acierto": 69.8,
+   "total": 424
   }
  },
  "mejor_dia": {
@@ -1000,7 +1000,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 4,
-  "en_juego": 3,
+  "en_juego": 10,
   "win_rate": 75
  },
  "stats_banker": {
