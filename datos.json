@@ -1,130 +1,88 @@
 {
- "actualizado": "2026-09-19T18:50:04.601410+00:00",
+ "actualizado": "2026-09-19T18:57:56.286780+00:00",
  "partidos_vivo": [
   {
-   "home": "Hapoel Beer Sheva",
-   "away": "Ironi Kiryat Shmona",
-   "liga": "Ligat Ha'al",
-   "minuto": 53,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 1 gol — Ironi Kiryat Shmona buscará el empate",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Maccabi Haifa",
-   "away": "Ironi Tiberias",
-   "liga": "Ligat Ha'al",
+   "home": "Gimnasia L.P.",
+   "away": "Banfield",
+   "liga": "Liga Profesional Argentina",
    "minuto": 65,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "🎯 27 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Maccabi Netanya",
-   "away": "Maccabi Tel Aviv",
-   "liga": "Ligat Ha'al",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Trabzonspor",
-   "away": "Galatasaray",
-   "liga": "Süper Lig",
-   "minuto": 65,
-   "marcador": "3-0",
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
+   "momentum_home": 68,
+   "momentum_away": 32,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "⚡ Galatasaray pierde por 3 — atacará sin freno"
+    "🎯 22 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Batman Petrolspor",
-   "away": "Bursaspor",
-   "liga": "1. Lig",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Gimnasia M.",
+   "away": "Deportivo Riestra",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.7,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 63,
-   "momentum_away": 37,
+   "momentum_home": 71,
+   "momentum_away": 29,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 11 remates totales"
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Víkingur II",
-   "away": "Suduroy",
-   "liga": "1. Deild",
+   "home": "Union Saint-Gilloise II",
+   "away": "Standard Liège II",
+   "liga": "First Amateur Division",
    "minuto": 64,
-   "marcador": "3-2",
-   "apuesta": "Over 5.5",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.3,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.71 goles/partido",
+    "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 10,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:57",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -178,24 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:32",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:15",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -246,6 +186,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Anderlecht",
+   "away": "Zulte Waregem",
+   "liga": "Jupiler Pro League",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Angers",
+   "away": "Estac Troyes",
+   "liga": "Ligue 1",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Sligo Rovers",
+   "away": "St Patrick's Athl.",
+   "liga": "Premier Division",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Maribor",
    "away": "Aluminij",
    "liga": "1. SNL",
@@ -271,39 +244,6 @@
    "home": "Metz",
    "away": "Saint Etienne",
    "liga": "Ligue 2",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Ajax",
-   "away": "Excelsior",
-   "liga": "Eredivisie",
-   "minuto": 14,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Istra 1961",
-   "away": "HNK Gorica",
-   "liga": "HNL",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Dessel Sport",
-   "away": "Cercle Brugge II",
-   "liga": "First Amateur Division",
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
@@ -901,7 +841,7 @@
   "n": 3142,
   "ganados": 2115,
   "win_rate": 67,
-  "hoy": 80
+  "hoy": 83
  },
  "stats_dia": {
   "ganados": 58,
