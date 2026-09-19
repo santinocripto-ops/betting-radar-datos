@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T14:21:44.371386+00:00",
+ "actualizado": "2026-09-19T14:22:09.961887+00:00",
  "partidos_vivo": [
   {
    "home": "Zenit W",
@@ -86,6 +86,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:21",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:20",
    "tipo": "live"
   },
@@ -123,12 +129,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:10",
    "tipo": "live"
   },
   {
@@ -196,10 +196,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "VPS",
-   "away": "KuPS",
-   "liga": "Veikkausliiga",
-   "minuto": 10,
+   "home": "Trnje",
+   "away": "Hrvatski Dragovoljac",
+   "liga": "Second NL",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -207,21 +207,10 @@
    "es_hoy": true
   },
   {
-   "home": "Keçiörengücü",
-   "away": "Sivasspor",
-   "liga": "1. Lig",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Grimsby",
-   "away": "Crawley Town",
-   "liga": "League Two",
-   "minuto": 10,
+   "home": "Majosi",
+   "away": "Kaposvar",
+   "liga": "NB III - Southwest",
+   "minuto": 18,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -229,10 +218,10 @@
    "es_hoy": true
   },
   {
-   "home": "Crewe",
-   "away": "Shrewsbury",
-   "liga": "League Two",
-   "minuto": 10,
+   "home": "Wigan",
+   "away": "Wycombe",
+   "liga": "League One",
+   "minuto": 17,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -240,10 +229,10 @@
    "es_hoy": true
   },
   {
-   "home": "Colchester",
-   "away": "Cheltenham",
-   "liga": "League Two",
-   "minuto": 10,
+   "home": "Blackpool",
+   "away": "Plymouth",
+   "liga": "League One",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -251,10 +240,21 @@
    "es_hoy": true
   },
   {
-   "home": "Chesterfield",
-   "away": "York",
+   "home": "Salford City",
+   "away": "Swindon Town",
    "liga": "League Two",
-   "minuto": 10,
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Northampton",
+   "away": "Rotherham",
+   "liga": "League Two",
+   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -844,7 +844,7 @@
   "n": 3101,
   "ganados": 2088,
   "win_rate": 67,
-  "hoy": 39
+  "hoy": 50
  },
  "stats_dia": {
   "ganados": 20,
