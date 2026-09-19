@@ -1,13 +1,93 @@
 {
- "actualizado": "2026-09-19T15:23:35.420581+00:00",
+ "actualizado": "2026-09-19T15:32:44.921667+00:00",
  "partidos_vivo": [
   {
-   "home": "Basel II",
-   "away": "Bulle",
-   "liga": "1. Liga Promotion",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Athletic Club",
+   "away": "Alaves",
+   "liga": "La Liga",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 88,
+   "momentum_away": 12,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +1.5 (La Liga)",
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "KRC Genk II",
+   "away": "Seraing United",
+   "liga": "Challenger Pro League",
+   "minuto": 63,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 9.3,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ KRC Genk II pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "FC Andorra",
+   "away": "Sporting Gijon",
+   "liga": "Segunda División",
+   "minuto": 58,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 62,
+   "momentum_away": 38,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🚩 6 córners",
+    "⏱ 32 minutos por jugar — tiempo suficiente"
+   ]
+  },
+  {
+   "home": "Cheshunt",
+   "away": "Lewes",
+   "liga": "Non League Premier - Isthmian",
+   "minuto": 61,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.77 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Bracknell Town",
+   "away": "Havant & Wville",
+   "liga": "Non League Premier - Southern South",
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -18,37 +98,17 @@
    "razones": [
     "⚽ Liga goleadora: 3.04 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sp. Subotica U19",
-   "away": "OFK Beograd U19",
-   "liga": "U19 league",
-   "minuto": 62,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ 1 gol — Bracknell Town buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:16",
+   "hora": "17:32",
    "tipo": "live"
   },
   {
@@ -71,50 +131,50 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:51",
+   "hora": "17:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "17:07",
    "tipo": "live"
   }
  ],
@@ -166,6 +226,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Paris FC",
+   "away": "Strasbourg",
+   "liga": "Ligue 1",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Pécsi MFC",
    "away": "MTK Budapest II",
    "liga": "NB III - Southwest",
@@ -215,17 +286,6 @@
    "liga": "Tercera División RFEF - Group 17",
    "minuto": 13,
    "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "CFR 1907 Cluj",
-   "away": "FC Botosani",
-   "liga": "Liga I",
-   "minuto": 20,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-19",
@@ -828,7 +888,7 @@
   "n": 3111,
   "ganados": 2096,
   "win_rate": 67,
-  "hoy": 59
+  "hoy": 60
  },
  "stats_dia": {
   "ganados": 31,
