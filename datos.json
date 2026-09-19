@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T16:57:48.546761+00:00",
+ "actualizado": "2026-09-19T17:04:17.423276+00:00",
  "partidos_vivo": [
   {
    "home": "SKN ST. Polten",
@@ -732,6 +732,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Internazionale Milano win on 2026-09-19?",
+   "apuesta": "SI, FC Internazionale Milano ganara",
+   "usdc": 92702,
+   "prob": 5.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "19:04"
+  },
+  {
    "titulo": "LoL: Karmine Corp vs Movistar KOI - Game 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 150017,
@@ -793,15 +802,6 @@
    "n_traders": 3,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "15:57"
-  },
-  {
-   "titulo": "Will Borussia Mönchengladbach win on 2026-09-19?",
-   "apuesta": "NO, Borussia Mönchengladbach no ganara",
-   "usdc": 50367,
-   "prob": 46.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "15:50"
   }
  ],
  "stats_gt": {
