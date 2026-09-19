@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T02:16:12.762430+00:00",
+ "actualizado": "2026-09-19T02:23:03.595012+00:00",
  "partidos_vivo": [
   {
    "home": "Alianza Lima",
@@ -88,6 +88,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "04:22",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "03:27",
    "tipo": "live"
   },
@@ -150,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:55",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:46",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -205,6 +205,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "San Diego Wave W",
+   "away": "Kansas City W",
+   "liga": "NWSL Women",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
   {
    "home": "Alianza Lima",
    "away": "ADT",
@@ -699,7 +710,7 @@
   "n": 3080,
   "ganados": 2074,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
