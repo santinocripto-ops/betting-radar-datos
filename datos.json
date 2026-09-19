@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T17:08:30.999345+00:00",
+ "actualizado": "2026-09-19T17:15:59.502621+00:00",
  "partidos_vivo": [
   {
    "home": "SKN ST. Polten",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -78,24 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:18",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Alcúdia",
+   "away": "Santanyí",
+   "liga": "Tercera División RFEF - Group 11",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Maccabi Netanya",
+   "away": "Maccabi Tel Aviv",
+   "liga": "Ligat Ha'al",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Radnik Surdulica",
+   "away": "FK Partizan",
+   "liga": "Super Liga",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "San Juan",
    "away": "Txantrea",
    "liga": "Tercera División RFEF - Group 15",
@@ -173,39 +206,6 @@
    "liga": "La Liga",
    "minuto": 10,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Eldense",
-   "away": "Eibar",
-   "liga": "Segunda División",
-   "minuto": 11,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Charleroi",
-   "away": "Cercle Brugge",
-   "liga": "Jupiler Pro League",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Oliveirense",
-   "away": "Penafiel",
-   "liga": "Taça de Portugal",
-   "minuto": 15,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-19",
@@ -488,6 +488,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Universitatea Craiova",
+    "away": "FCSB",
+    "liga": "Liga I",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.17,
+    "pinnacle": true,
+    "delta": 6.02,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T17:30:00+00:00",
+    "ts": "2026-09-19T17:08:29.975368+00:00"
+   },
+   {
+    "home": "Gimnasia L.P.",
+    "away": "Banfield",
+    "liga": "Liga Profesional Argentina",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.17,
+    "pinnacle": true,
+    "delta": 4.14,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T17:30:00+00:00",
+    "ts": "2026-09-19T17:08:31.173832+00:00"
+   },
+   {
     "home": "Charleroi",
     "away": "Cercle Brugge",
     "liga": "Jupiler Pro League",
@@ -681,42 +711,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-18T16:30:00+00:00",
     "ts": "2026-09-18T11:10:56.638920+00:00"
-   },
-   {
-    "home": "WSPG Wels",
-    "away": "First Vienna",
-    "liga": "2. Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 1.23,
-    "pinnacle": true,
-    "delta": 3.46,
-    "marcador": "1-3",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T16:30:00+00:00",
-    "ts": "2026-09-18T11:10:57.817711+00:00"
-   },
-   {
-    "home": "Floridsdorfer AC",
-    "away": "FC Liefering",
-    "liga": "2. Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.52,
-    "pinnacle": true,
-    "delta": 2.99,
-    "marcador": "4-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T16:30:00+00:00",
-    "ts": "2026-09-18T11:10:58.323152+00:00"
    }
   ],
   "balance": {
    "ganados": 302,
    "perdidos": 129,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 70.1,
    "total": 431
   }
@@ -808,7 +808,7 @@
   "n": 3142,
   "ganados": 2115,
   "win_rate": 67,
-  "hoy": 69
+  "hoy": 72
  },
  "stats_dia": {
   "ganados": 58,
