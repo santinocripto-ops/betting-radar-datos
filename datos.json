@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T13:36:44.805924+00:00",
+ "actualizado": "2026-09-19T13:43:50.838811+00:00",
  "partidos_vivo": [
   {
    "home": "Guingamp",
@@ -248,6 +248,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:13",
    "tipo": "live"
   },
@@ -304,18 +316,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:04",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -376,6 +376,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Unie Hlubina",
+   "away": "Polanka nad Odrou",
+   "liga": "3. liga - MSFL",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Septemvri Sofia",
+   "away": "Botev Plovdiv",
+   "liga": "First League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "EPS",
    "away": "Ilves II",
    "liga": "Kakkonen - Lohko B",
@@ -414,28 +436,6 @@
    "liga": "Campionato",
    "minuto": 11,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Beltinci",
-   "away": "Tabor Sežana",
-   "liga": "2. SNL",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "FS Jelgava",
-   "away": "Riga",
-   "liga": "Virsliga",
-   "minuto": 11,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-19",
@@ -1010,7 +1010,7 @@
   "n": 3092,
   "ganados": 2082,
   "win_rate": 67,
-  "hoy": 28
+  "hoy": 30
  },
  "stats_dia": {
   "ganados": 12,
