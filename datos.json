@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T06:20:49.529334+00:00",
+ "actualizado": "2026-09-19T06:28:12.931772+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -575,6 +575,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Brighton & Hove Albion FC vs. Arsenal FC: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 117999,
+   "prob": 53.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "08:27"
+  },
+  {
    "titulo": "Will Tottenham Hotspur FC win on 2026-09-19?",
    "apuesta": "SI, Tottenham Hotspur ganara",
    "usdc": 209543,
@@ -636,15 +645,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "19:47"
-  },
-  {
-   "titulo": "Will SpVgg Greuther Fürth win on 2026-09-18?",
-   "apuesta": "NO, SpVgg Greuther Fürth no ganara",
-   "usdc": 26669,
-   "prob": 84.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:54"
   }
  ],
  "stats_gt": {
