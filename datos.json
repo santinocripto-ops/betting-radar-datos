@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T05:56:33.100163+00:00",
+ "actualizado": "2026-09-19T06:04:08.959631+00:00",
  "partidos_vivo": [
   {
    "home": "FC Juarez",
@@ -167,7 +167,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 64,
-   "n_historico": 1473
+   "n_historico": 1474
   },
   {
    "clave": "btts",
@@ -181,7 +181,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1488
+   "n_historico": 1489
   }
  ],
  "gol_temprano": [
@@ -379,7 +379,7 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1806,
+   "ganados": 1808,
    "perdidos": 1155,
    "acierto": 61.0,
    "yield": 15.9,
