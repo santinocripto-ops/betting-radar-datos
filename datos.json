@@ -1,91 +1,11 @@
 {
- "actualizado": "2026-09-19T16:49:03.734904+00:00",
+ "actualizado": "2026-09-19T16:57:48.546761+00:00",
  "partidos_vivo": [
   {
-   "home": "NK Varazdin",
-   "away": "NK Osijek",
-   "liga": "HNL",
+   "home": "SKN ST. Polten",
+   "away": "Schwarz-Weiß Bregenz",
+   "liga": "2. Liga",
    "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Paris FC",
-   "away": "Strasbourg",
-   "liga": "Ligue 1",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 94,
-   "momentum_away": 6,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.0 (Ligue 1)",
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
-    "⚽ 1 gol — Strasbourg buscará el empate"
-   ]
-  },
-  {
-   "home": "Sandviken",
-   "away": "Orebro SK",
-   "liga": "Superettan",
-   "minuto": 64,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 9.3,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 15 remates totales",
-    "🎯 9 remates a puerta — peligro constante"
-   ]
-  },
-  {
-   "home": "Minsk II",
-   "away": "Osipovichy",
-   "liga": "1. Division",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "La Almunia",
-   "away": "Binéfar",
-   "liga": "Tercera División RFEF - Group 17",
-   "minuto": 61,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
@@ -96,35 +16,27 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
+    "⚽ Liga muy goleadora: 3.46 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — La Almunia buscará el empate"
-   ]
-  },
-  {
-   "home": "Bunyodkor",
-   "away": "Buxoro",
-   "liga": "Super League",
-   "minuto": 50,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 1 gol — SKN ST. Polten buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 23,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:57",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:57",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -184,18 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "18:08",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:38",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:32",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -246,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "San Juan",
+   "away": "Txantrea",
+   "liga": "Tercera División RFEF - Group 15",
+   "minuto": 18,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Sparta Rotterdam",
+   "away": "Heerenveen",
+   "liga": "Eredivisie",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Celta Vigo",
    "away": "Racing Santander",
    "liga": "La Liga",
@@ -284,28 +206,6 @@
    "liga": "Taça de Portugal",
    "minuto": 15,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Menemen FK",
-   "away": "Ankaraspor",
-   "liga": "2. Lig",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Atletico Madrid W",
-   "away": "Edf Logrono W",
-   "liga": "Primera División Femenina",
-   "minuto": 17,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-19",
@@ -832,6 +732,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Karmine Corp vs Movistar KOI - Game 2 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 150017,
+   "prob": 22.0,
+   "n_traders": 2,
+   "trader": "0x076daa87",
+   "hora": "18:55"
+  },
+  {
    "titulo": "Will Nottingham Forest FC win on 2026-09-19?",
    "apuesta": "SI, Nottingham Forest ganara",
    "usdc": 409660,
@@ -893,22 +802,13 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "15:50"
-  },
-  {
-   "titulo": "Will Newcastle United FC win on 2026-09-19?",
-   "apuesta": "SI, Newcastle United ganara",
-   "usdc": 399872,
-   "prob": 61.5,
-   "n_traders": 2,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "15:20"
   }
  ],
  "stats_gt": {
   "n": 3132,
   "ganados": 2110,
   "win_rate": 67,
-  "hoy": 67
+  "hoy": 69
  },
  "stats_dia": {
   "ganados": 49,
