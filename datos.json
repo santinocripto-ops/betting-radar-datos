@@ -1,53 +1,73 @@
 {
- "actualizado": "2026-09-19T10:33:46.257255+00:00",
+ "actualizado": "2026-09-19T10:42:05.547492+00:00",
  "partidos_vivo": [
   {
-   "home": "Palermo U19",
-   "away": "Bari U19",
-   "liga": "Campionato Primavera - 2",
+   "home": "Shimizu S-pulse",
+   "away": "JEF United Chiba",
+   "liga": "J1 League",
    "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lecce U20",
-   "away": "Fiorentina U20",
-   "liga": "Campionato Primavera - 1",
-   "minuto": 52,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Lecce U20 buscará el empate"
-   ]
-  },
-  {
-   "home": "České Budějovice U19",
-   "away": "Pardubice U19",
-   "liga": "1. Liga U19",
-   "minuto": 47,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 58,
+   "momentum_away": 42,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 13 remates totales"
+   ]
+  },
+  {
+   "home": "Urawa",
+   "away": "Tokyo Verdy",
+   "liga": "J1 League",
+   "minuto": 50,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 89,
+   "momentum_away": 11,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Tokyo Verdy pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "V-varen Nagasaki",
+   "away": "Cerezo Osaka",
+   "liga": "J1 League",
+   "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚽ 1 gol — Cerezo Osaka buscará el empate",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Popești-Leordeni",
+   "away": "FC Politehnica Timisoara",
+   "liga": "Liga II",
+   "minuto": 50,
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -56,7 +76,7 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚽ Liga muy goleadora: 3.65 goles/partido",
     "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
