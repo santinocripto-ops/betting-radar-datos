@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T00:55:46.443024+00:00",
+ "actualizado": "2026-09-19T01:03:34.207637+00:00",
  "partidos_vivo": [
   {
    "home": "New York City FC",
@@ -133,7 +133,7 @@
    "hora": "16:00",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 286
+   "n_historico": 290
   },
   {
    "clave": "over25",
@@ -147,7 +147,7 @@
    "hora": "",
    "resultado": null,
    "wr_historico": 64,
-   "n_historico": 1470
+   "n_historico": 1472
   },
   {
    "clave": "btts",
@@ -161,7 +161,7 @@
    "hora": "01:00",
    "resultado": "pendiente",
    "wr_historico": 59,
-   "n_historico": 1484
+   "n_historico": 1485
   }
  ],
  "gol_temprano": [
@@ -205,7 +205,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-18",
    "es_hoy": false
   },
@@ -234,16 +234,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 51919.0,
-  "balance_total": 41919.0,
-  "balance_dia": 0.0,
-  "ganados": 3003,
+  "capital": 51980.0,
+  "balance_total": 41980.0,
+  "balance_dia": 61.0,
+  "ganados": 3004,
   "perdidos": 1344,
-  "pendientes": 7,
-  "ganados_dia": 0,
+  "pendientes": 6,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.1,
-  "roi": 9.6,
+  "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -382,9 +382,9 @@
   "over25": [],
   "balance": {
    "ganados": 1804,
-   "perdidos": 1150,
-   "acierto": 61.1,
-   "yield": 16.0,
+   "perdidos": 1153,
+   "acierto": 61.0,
+   "yield": 15.9,
    "cuota_media": 1.9
   }
  },
@@ -711,16 +711,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3079,
-  "ganados": 2073,
+  "n": 3080,
+  "ganados": 2074,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 5,
-  "win_rate": 0
+  "en_juego": 4,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 102,
