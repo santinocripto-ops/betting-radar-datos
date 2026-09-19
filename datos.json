@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T11:25:00.478993+00:00",
+ "actualizado": "2026-09-19T11:32:07.342180+00:00",
  "partidos_vivo": [
   {
    "home": "Shimizu S-pulse",
@@ -188,14 +188,14 @@
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": null,
-   "home": null,
-   "away": null,
-   "liga": "",
+   "confianza": "alta",
+   "home": "Utrecht W",
+   "away": "Feyenoord W",
+   "liga": "Eredivisie Women",
    "cuota": null,
-   "score": null,
-   "hora": "",
-   "resultado": null,
+   "score": 10,
+   "hora": "14:30",
+   "resultado": "pendiente",
    "wr_historico": 64,
    "n_historico": 1478
   },
@@ -515,6 +515,81 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Charleroi",
+    "away": "Cercle Brugge",
+    "liga": "Jupiler Pro League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 4.08,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T16:15:00+00:00",
+    "ts": "2026-09-19T11:07:02.078193+00:00"
+   },
+   {
+    "home": "Cremonese",
+    "away": "Virtus Entella",
+    "liga": "Serie B",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 8,
+    "cuota": 2.06,
+    "pinnacle": true,
+    "delta": 4.71,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T13:00:00+00:00",
+    "ts": "2026-09-19T11:07:11.628446+00:00"
+   },
+   {
+    "home": "Carrarese",
+    "away": "Benevento",
+    "liga": "Serie B",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.4,
+    "pinnacle": true,
+    "delta": 3.32,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T13:00:00+00:00",
+    "ts": "2026-09-19T11:07:12.150243+00:00"
+   },
+   {
+    "home": "Zorya Luhansk",
+    "away": "Dynamo Kyiv",
+    "liga": "Premier League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 5,
+    "cuota": 2.15,
+    "pinnacle": true,
+    "delta": 5.14,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T12:30:00+00:00",
+    "ts": "2026-09-19T11:07:09.646420+00:00"
+   },
+   {
+    "home": "Zorya Luhansk",
+    "away": "Dynamo Kyiv",
+    "liga": "Premier League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "cuota": 1.21,
+    "pinnacle": false,
+    "delta": 4.58,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-19T12:30:00+00:00",
+    "ts": "2026-09-19T11:07:09.833014+00:00"
+   },
+   {
     "home": "Millwall",
     "away": "West Ham",
     "liga": "Championship",
@@ -663,87 +738,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-18T14:30:00+00:00",
     "ts": "2026-09-17T23:04:42.757827+00:00"
-   },
-   {
-    "home": "Sesvete",
-    "away": "HNK Cibalia",
-    "liga": "First NL",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 1.8,
-    "pinnacle": true,
-    "delta": 4.68,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T14:30:00+00:00",
-    "ts": "2026-09-18T08:04:57.025557+00:00"
-   },
-   {
-    "home": "Bandırmaspor",
-    "away": "Ümraniyespor",
-    "liga": "1. Lig",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 8,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 4.7,
-    "marcador": "0-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-18T13:00:00+00:00",
-    "ts": "2026-09-18T11:10:51.555694+00:00"
-   },
-   {
-    "home": "Bandırmaspor",
-    "away": "Ümraniyespor",
-    "liga": "1. Lig",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 5,
-    "cuota": 1.28,
-    "pinnacle": false,
-    "delta": 3.34,
-    "marcador": "0-1",
-    "resultado": "perdido",
-    "kickoff": "2026-09-18T13:00:00+00:00",
-    "ts": "2026-09-18T11:10:51.988568+00:00"
-   },
-   {
-    "home": "Polessya",
-    "away": "Kryvbas KR",
-    "liga": "Premier League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.08,
-    "pinnacle": false,
-    "delta": 5.39,
-    "marcador": "1-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T12:30:00+00:00",
-    "ts": "2026-09-17T17:08:22.486543+00:00"
-   },
-   {
-    "home": "Polessya",
-    "away": "Kryvbas KR",
-    "liga": "Premier League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 4,
-    "cuota": 1.22,
-    "pinnacle": false,
-    "delta": 4.87,
-    "marcador": "1-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-18T12:30:00+00:00",
-    "ts": "2026-09-17T17:08:22.752660+00:00"
    }
   ],
   "balance": {
    "ganados": 296,
    "perdidos": 127,
-   "pendientes": 3,
+   "pendientes": 8,
    "acierto": 70.0,
    "total": 423
   }
@@ -758,6 +758,24 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: Invictus Gaming vs JD Gaming - Game 3 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 16666,
+   "prob": 25.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:31"
+  },
+  {
+   "titulo": "LoL: Invictus Gaming vs JD Gaming - Game 3 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 31180,
+   "prob": 25.0,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "13:31"
+  },
   {
    "titulo": "Counter-Strike: Luminosity vs BBL (BO3) - Logitech G Play Connect Play",
    "apuesta": "SI, Counter-Strike: Luminosity ganara",
@@ -811,24 +829,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "06:57"
-  },
-  {
-   "titulo": "Will Arsenal FC win on 2026-09-19?",
-   "apuesta": "NO, Arsenal no ganara",
-   "usdc": 131914,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x4",
-   "hora": "06:23"
-  },
-  {
-   "titulo": "Will Club Puebla win on 2026-09-18?",
-   "apuesta": "NO, Club Puebla no ganara",
-   "usdc": 26240,
-   "prob": 66.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "03:19"
   }
  ],
  "stats_gt": {
@@ -840,7 +840,7 @@
  "stats_dia": {
   "ganados": 10,
   "perdidos": 3,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 77
  },
  "stats_banker": {
