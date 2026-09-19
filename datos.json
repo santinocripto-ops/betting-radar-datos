@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T13:02:56.814280+00:00",
+ "actualizado": "2026-09-19T13:04:38.444493+00:00",
  "partidos_vivo": [
   {
    "home": "Tottenham",
@@ -246,6 +246,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "15:04",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:02",
@@ -310,12 +316,6 @@
    "texto": "⚽ Carrarese vs Benevento · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.35",
    "hora": "13:07",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "13:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
