@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T06:42:36.724891+00:00",
+ "actualizado": "2026-09-19T06:49:52.724111+00:00",
  "partidos_vivo": [
   {
    "home": "Oakleigh Cannons",
@@ -596,6 +596,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will FC Barcelona win on 2026-09-19?",
+   "apuesta": "SI, FC Barcelona ganara",
+   "usdc": 348667,
+   "prob": 78.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "08:49"
+  },
+  {
    "titulo": "Brighton & Hove Albion FC vs. Arsenal FC: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
    "usdc": 117999,
@@ -657,15 +666,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "20:32"
-  },
-  {
-   "titulo": "Caldas da Rainha: Susan Bandecchi vs Lisa Pigato",
-   "apuesta": "SI, Caldas da Rainha: Susan Bandecchi ganara",
-   "usdc": 106923,
-   "prob": 71.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:47"
   }
  ],
  "stats_gt": {
