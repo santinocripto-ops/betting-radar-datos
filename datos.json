@@ -1,9 +1,33 @@
 {
- "actualizado": "2026-09-19T16:08:26.398721+00:00",
+ "actualizado": "2026-09-19T16:18:19.105239+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -50,30 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:07",
    "tipo": "live"
   }
  ],
@@ -125,6 +125,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Oliveirense",
+   "away": "Penafiel",
+   "liga": "Taça de Portugal",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Menemen FK",
+   "away": "Ankaraspor",
+   "liga": "2. Lig",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Atletico Madrid W",
+   "away": "Edf Logrono W",
+   "liga": "Primera División Femenina",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "FK Košice",
+   "away": "Ružomberok",
+   "liga": "Super Liga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Paris FC",
    "away": "Strasbourg",
    "liga": "Ligue 1",
@@ -141,50 +185,6 @@
    "liga": "NB III - Southwest",
    "minuto": 14,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Austria Lustenau",
-   "away": "SCR Altach",
-   "liga": "Bundesliga",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Kisvarda FC",
-   "away": "Paks",
-   "liga": "NB I",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "NK Varazdin",
-   "away": "NK Osijek",
-   "liga": "HNL",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Robres",
-   "away": "Huesca II",
-   "liga": "Tercera División RFEF - Group 17",
-   "minuto": 13,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-19",
@@ -491,8 +491,8 @@
     "cuota": 1.62,
     "pinnacle": true,
     "delta": 5.58,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-19T13:30:00+00:00",
     "ts": "2026-09-19T13:04:38.697620+00:00"
    },
@@ -693,11 +693,11 @@
    }
   ],
   "balance": {
-   "ganados": 301,
+   "ganados": 302,
    "perdidos": 129,
-   "pendientes": 2,
-   "acierto": 70.0,
-   "total": 430
+   "pendientes": 1,
+   "acierto": 70.1,
+   "total": 431
   }
  },
  "mejor_dia": {
@@ -787,7 +787,7 @@
   "n": 3132,
   "ganados": 2110,
   "win_rate": 67,
-  "hoy": 60
+  "hoy": 64
  },
  "stats_dia": {
   "ganados": 49,
