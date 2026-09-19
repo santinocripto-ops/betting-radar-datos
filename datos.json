@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T06:56:54.501465+00:00",
+ "actualizado": "2026-09-19T07:04:13.563166+00:00",
  "partidos_vivo": [
   {
    "home": "Oakleigh Cannons",
@@ -141,7 +141,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1489
+   "n_historico": 1490
   }
  ],
  "gol_temprano": [
@@ -340,7 +340,7 @@
   "over25": [],
   "balance": {
    "ganados": 1808,
-   "perdidos": 1155,
+   "perdidos": 1156,
    "acierto": 61.0,
    "yield": 15.9,
    "cuota_media": 1.9
