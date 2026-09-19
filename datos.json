@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T07:14:03.367837+00:00",
+ "actualizado": "2026-09-19T07:20:45.128129+00:00",
  "partidos_vivo": [
   {
    "home": "Oakleigh Cannons",
@@ -346,15 +346,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "FC Juarez",
-   "away": "Tigres UANL",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
