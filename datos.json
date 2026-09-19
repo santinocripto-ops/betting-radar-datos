@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T16:35:25.965672+00:00",
+ "actualizado": "2026-09-19T16:42:13.329608+00:00",
  "partidos_vivo": [
   {
    "home": "NK Varazdin",
@@ -128,6 +128,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:28",
    "tipo": "live"
   },
@@ -184,18 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:32",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -246,6 +246,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Celta Vigo",
+   "away": "Racing Santander",
+   "liga": "La Liga",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
+   "home": "Eldense",
+   "away": "Eibar",
+   "liga": "Segunda División",
+   "minuto": 11,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": true
+  },
+  {
    "home": "Charleroi",
    "away": "Cercle Brugge",
    "liga": "Jupiler Pro League",
@@ -282,28 +304,6 @@
    "home": "Atletico Madrid W",
    "away": "Edf Logrono W",
    "liga": "Primera División Femenina",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "FK Košice",
-   "away": "Ružomberok",
-   "liga": "Super Liga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": true
-  },
-  {
-   "home": "Paris FC",
-   "away": "Strasbourg",
-   "liga": "Ligue 1",
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
@@ -908,7 +908,7 @@
   "n": 3132,
   "ganados": 2110,
   "win_rate": 67,
-  "hoy": 65
+  "hoy": 67
  },
  "stats_dia": {
   "ganados": 49,
