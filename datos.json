@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-19T10:00:25.519450+00:00",
+ "actualizado": "2026-09-19T10:10:02.432599+00:00",
  "partidos_vivo": [
   {
-   "home": "Štětí",
-   "away": "Ústí nad Labem II",
-   "liga": "4. liga - Divizie B",
-   "minuto": 59,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Palermo U19",
+   "away": "Bari U19",
+   "liga": "Campionato Primavera - 2",
+   "minuto": 51,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,138 +16,38 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
+    "⚽ Liga muy goleadora: 3.71 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Přepeře",
-   "away": "Hlinsko",
-   "liga": "4. liga - Divizie C",
-   "minuto": 47,
-   "marcador": "1-0",
+   "home": "Lecce U20",
+   "away": "Fiorentina U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 52,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.46 goles/partido",
+    "⚽ Liga goleadora: 3.11 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hlinsko buscará el empate"
+    "⚽ 1 gol — Lecce U20 buscará el empate"
    ]
   },
   {
-   "home": "Brandýs nad Labem",
-   "away": "Újezd Praha 4",
-   "liga": "4. liga - Divizie B",
-   "minuto": 64,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Sparta Brno",
-   "away": "Sokol Tasovice",
-   "liga": "4. liga - Divizie D",
-   "minuto": 48,
+   "home": "České Budějovice U19",
+   "away": "Pardubice U19",
+   "liga": "1. Liga U19",
+   "minuto": 47,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Persebaya Surabaya",
-   "away": "Garudayaksa",
-   "liga": "Liga 1",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Motorlet Praha",
-   "away": "Benešov",
-   "liga": "3. liga - CFL A",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Slavia III",
-   "away": "Jiskra Domažlice",
-   "liga": "3. liga - CFL A",
-   "minuto": 59,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Zlín U19",
-   "away": "Zbrojovka Brno U19",
-   "liga": "1. Liga U19",
-   "minuto": 48,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -162,7 +62,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 16,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -281,7 +181,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1493
+   "n_historico": 1496
   }
  ],
  "gol_temprano": [
@@ -404,7 +304,7 @@
     "away": "Suwon City FC",
     "liga": "K League 2",
     "hora": "09:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -413,7 +313,7 @@
     "away": "Geoje Citizen",
     "liga": "K4 League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -431,7 +331,7 @@
     "away": "Újezd Praha 4",
     "liga": "4. liga - Divizie B",
     "hora": "10:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -501,9 +401,9 @@
   ],
   "over25": [],
   "balance": {
-   "ganados": 1810,
-   "perdidos": 1159,
-   "acierto": 61.0,
+   "ganados": 1811,
+   "perdidos": 1161,
+   "acierto": 60.9,
    "yield": 15.8,
    "cuota_media": 1.9
   }
