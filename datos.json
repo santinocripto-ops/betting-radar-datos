@@ -1,233 +1,153 @@
 {
- "actualizado": "2026-09-19T12:44:27.845353+00:00",
+ "actualizado": "2026-09-19T12:49:11.377435+00:00",
  "partidos_vivo": [
   {
-   "home": "United Nordic",
-   "away": "Landskrona BoIS",
-   "liga": "Superettan",
+   "home": "Tottenham",
+   "away": "Aston Villa",
+   "liga": "Premier League",
    "minuto": 50,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ United Nordic pierde por 2 — atacará sin freno",
-    "🎯 17 remates totales"
-   ]
-  },
-  {
-   "home": "Osters IF",
-   "away": "IFK Norrkoping",
-   "liga": "Superettan",
-   "minuto": 50,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 26,
-   "momentum_away": 74,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 17 remates totales",
-    "🎯 10 remates a puerta — peligro constante"
-   ]
-  },
-  {
-   "home": "Holstein Kiel",
-   "away": "VfL Osnabrück",
-   "liga": "2. Bundesliga",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚽ 1 gol — VfL Osnabrück buscará el empate"
-   ]
-  },
-  {
-   "home": "1. FC Kaiserslautern",
-   "away": "Eintracht Braunschweig",
-   "liga": "2. Bundesliga",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Karlsruher SC",
-   "away": "1. FC Nürnberg",
-   "liga": "2. Bundesliga",
-   "minuto": 49,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
+   "momentum_home": 63,
+   "momentum_away": 37,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Bundesliga)",
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚽ 1 gol — Karlsruher SC buscará el empate"
+    "⭐ Bonus liga: +1.5 (Premier League)",
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚽ 1 gol — Tottenham buscará el empate"
    ]
   },
   {
-   "home": "Vittsjö W",
-   "away": "Växjö W",
-   "liga": "Damallsvenskan",
-   "minuto": 52,
+   "home": "Millwall",
+   "away": "West Ham",
+   "liga": "Championship",
+   "minuto": 56,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.2,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 58,
-   "momentum_away": 42,
+   "momentum_home": 76,
+   "momentum_away": 24,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⚽ Liga por encima de la media: 2.7 goles/partido",
     "⚽ 2 goles — partido activo",
-    "⚡ Växjö W pierde por 2 — atacará sin freno",
+    "⚡ West Ham pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Stoke City",
+   "away": "Sheffield Utd",
+   "liga": "Championship",
+   "minuto": 58,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.7 goles/partido",
+    "⚽ 1 gol — Stoke City buscará el empate",
     "🎯 12 remates totales"
    ]
   },
   {
-   "home": "Frigg",
-   "away": "Konnerud",
-   "liga": "3. Division - Girone 1",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Konnerud buscará el empate"
-   ]
-  },
-  {
-   "home": "SF Grei",
-   "away": "Heming",
-   "liga": "3. Division - Girone 1",
-   "minuto": 47,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Ullern",
-   "away": "Vålerenga II",
-   "liga": "3. Division - Girone 1",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.44 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Astrio",
-   "away": "Onsala",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 52,
+   "home": "Barnsley",
+   "away": "Leicester",
+   "liga": "League One",
+   "minuto": 56,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 43,
+   "momentum_away": 57,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.55 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Astrio buscará el empate"
+    "⚽ Liga goleadora: 3.15 goles/partido",
+    "⚽ 1 gol — Barnsley buscará el empate",
+    "🎯 16 remates totales"
    ]
   },
   {
-   "home": "Valmiera / BSS",
-   "away": "Riga Mariners",
-   "liga": "1. Liga",
-   "minuto": 48,
+   "home": "Burton Albion",
+   "away": "Mansfield Town",
+   "liga": "League One",
+   "minuto": 57,
    "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 59,
+   "momentum_away": 41,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.34 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.15 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 10 remates totales"
    ]
   },
   {
-   "home": "Smorgon",
-   "away": "Niva",
+   "home": "Walsall",
+   "away": "Port Vale",
+   "liga": "League Two",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.3,
+   "recomendar": true,
+   "momentum_home": 41,
+   "momentum_away": 59,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "⚽ 1 gol — Port Vale buscará el empate",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Cardiff",
+   "away": "Charlton",
+   "liga": "Championship",
+   "minuto": 53,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 9.2,
+   "recomendar": true,
+   "momentum_home": 78,
+   "momentum_away": 22,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.7 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Bumprom",
+   "away": "Lida",
    "liga": "1. Division",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "minuto": 58,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -238,11 +158,91 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.29 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Leeds United U21",
+   "away": "Newcastle United U21",
+   "liga": "Premier League 2 Division One",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.92 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Newcastle United U21 buscará el empate"
+   ]
+  },
+  {
+   "home": "Rijnsburgse Boys",
+   "away": "Quick Boys",
+   "liga": "Tweede Divisie",
+   "minuto": 57,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.1,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Standard Liege W",
+   "away": "OH Leuven W",
+   "liga": "Super League Women",
+   "minuto": 57,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Baník Ostrava U19",
+   "away": "Slavia Praha U19",
+   "liga": "1. Liga U19",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 49,
+ "partidos_vivo_total": 27,
  "umbral_vivo": 7.0,
  "alertas": [
   {
