@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T07:04:13.563166+00:00",
+ "actualizado": "2026-09-19T07:14:03.367837+00:00",
  "partidos_vivo": [
   {
    "home": "Oakleigh Cannons",
@@ -596,6 +596,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Paris FC win on 2026-09-19?",
+   "apuesta": "SI, Paris ganara",
+   "usdc": 139294,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x4",
+   "hora": "09:13"
+  },
+  {
    "titulo": "Will FC Barcelona win on 2026-09-19?",
    "apuesta": "SI, FC Barcelona ganara",
    "usdc": 348667,
@@ -657,15 +666,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "20:45"
-  },
-  {
-   "titulo": "Will Chelsea FC win on 2026-09-18?",
-   "apuesta": "NO, Chelsea no ganara",
-   "usdc": 1103123,
-   "prob": 62.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "20:32"
   }
  ],
  "stats_gt": {
