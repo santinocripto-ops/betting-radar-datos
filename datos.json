@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-19T01:41:07.929978+00:00",
+ "actualizado": "2026-09-19T01:48:13.638716+00:00",
  "partidos_vivo": [
   {
-   "home": "São Bernardo",
-   "away": "Atletico Goianiense",
-   "liga": "Serie B",
-   "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Aucas",
+   "away": "Macara",
+   "liga": "Liga Pro",
+   "minuto": 57,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.1,
    "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
+   "momentum_home": 29,
+   "momentum_away": 71,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 2 goles — partido activo",
+    "⚡ Aucas pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
