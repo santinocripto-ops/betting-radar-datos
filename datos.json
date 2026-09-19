@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T23:44:56.469827+00:00",
+ "actualizado": "2026-09-19T23:52:46.257209+00:00",
  "partidos_vivo": [
   {
    "home": "North Carolina Courage W",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:52",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,18 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:21",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "New England Revolution",
+   "away": "Orlando City SC",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": false
+  },
+  {
+   "home": "CF Montreal",
+   "away": "Columbus Crew",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-19",
+   "es_hoy": false
+  },
+  {
    "home": "Tijuana W",
    "away": "Guadalajara W",
    "liga": "Liga MX Femenil",
@@ -184,28 +206,6 @@
    "liga": "Ligue 1",
    "minuto": 13,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Sligo Rovers",
-   "away": "St Patrick's Athl.",
-   "liga": "Premier Division",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Maribor",
-   "away": "Aluminij",
-   "liga": "1. SNL",
-   "minuto": 13,
-   "score": 9.8,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-19",
@@ -737,6 +737,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Barcelona win the 2026-27 UEFA Champions League Championship?",
+   "apuesta": "SI, Barcelona ganara",
+   "usdc": 225000,
+   "prob": 21.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "01:52"
+  },
+  {
    "titulo": "LoL: LYON vs Cloud9 - Game 2 Winner",
    "apuesta": "SI, ganara",
    "usdc": 29051,
@@ -798,15 +807,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x1",
    "hora": "16:28"
-  },
-  {
-   "titulo": "Game Handicap: KC (-1.5) vs Movistar KOI (+1.5)",
-   "apuesta": "SI, Game Handicap: KC (-1.5) ganara",
-   "usdc": 111111,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "16:19"
   }
  ],
  "stats_gt": {
