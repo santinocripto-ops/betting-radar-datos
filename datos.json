@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T12:38:09.481369+00:00",
+ "actualizado": "2026-09-19T12:44:27.845353+00:00",
  "partidos_vivo": [
   {
    "home": "United Nordic",
@@ -919,6 +919,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Caldas da Rainha: Mia Pohankova vs Gabriela Knutson",
+   "apuesta": "SI, Caldas da Rainha: Mia Pohankova ganara",
+   "usdc": 96644,
+   "prob": 18.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:44"
+  },
+  {
    "titulo": "Will Rayo Vallecano de Madrid win on 2026-09-19?",
    "apuesta": "NO, Rayo Vallecano de Madrid no ganara",
    "usdc": 337239,
@@ -980,15 +989,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "08:49"
-  },
-  {
-   "titulo": "Brighton & Hove Albion FC vs. Arsenal FC: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 117999,
-   "prob": 53.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "08:27"
   }
  ],
  "stats_gt": {
