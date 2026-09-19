@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T04:00:12.040907+00:00",
+ "actualizado": "2026-09-19T04:07:21.302666+00:00",
  "partidos_vivo": [
   {
    "home": "Tigres de Alica",
@@ -141,7 +141,7 @@
    "hora": "01:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1486
+   "n_historico": 1487
   }
  ],
  "gol_temprano": [
@@ -174,7 +174,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-19",
    "es_hoy": true
   },
@@ -192,14 +192,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 52108.0,
-  "balance_total": 42108.0,
-  "balance_dia": 189.0,
-  "ganados": 3008,
-  "perdidos": 1345,
-  "pendientes": 6,
-  "ganados_dia": 5,
-  "perdidos_dia": 1,
+  "capital": 52053.0,
+  "balance_total": 42053.0,
+  "balance_dia": 134.0,
+  "ganados": 3009,
+  "perdidos": 1346,
+  "pendientes": 4,
+  "ganados_dia": 6,
+  "perdidos_dia": 2,
   "win_rate": 69.1,
   "roi": 9.7,
   "stake": 100.0,
@@ -224,7 +224,7 @@
     "away": "Kansas City W",
     "liga": "NWSL Women",
     "hora": "04:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -340,9 +340,9 @@
   "over25": [],
   "balance": {
    "ganados": 1804,
-   "perdidos": 1154,
+   "perdidos": 1155,
    "acierto": 61.0,
-   "yield": 15.9,
+   "yield": 15.8,
    "cuota_media": 1.9
   }
  },
@@ -352,7 +352,7 @@
    "away": "Kansas City W",
    "liga": "NWSL Women",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -669,16 +669,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3084,
+  "n": 3085,
   "ganados": 2077,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 5,
-  "perdidos": 1,
-  "en_juego": 4,
-  "win_rate": 83
+  "ganados": 6,
+  "perdidos": 2,
+  "en_juego": 2,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 102,
