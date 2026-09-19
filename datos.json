@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-19T13:13:25.215057+00:00",
+ "actualizado": "2026-09-19T13:20:01.528358+00:00",
  "partidos_vivo": [
   {
    "home": "Tottenham",
@@ -934,6 +934,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Newcastle United FC win on 2026-09-19?",
+   "apuesta": "SI, Newcastle United ganara",
+   "usdc": 399872,
+   "prob": 61.5,
+   "n_traders": 2,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "15:20"
+  },
+  {
    "titulo": "Caldas da Rainha: Mia Pohankova vs Gabriela Knutson",
    "apuesta": "SI, Caldas da Rainha: Mia Pohankova ganara",
    "usdc": 96644,
@@ -995,15 +1004,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x4",
    "hora": "09:13"
-  },
-  {
-   "titulo": "Will FC Barcelona win on 2026-09-19?",
-   "apuesta": "SI, FC Barcelona ganara",
-   "usdc": 348667,
-   "prob": 78.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "08:49"
   }
  ],
  "stats_gt": {
