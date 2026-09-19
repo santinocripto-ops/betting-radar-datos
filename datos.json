@@ -1,73 +1,53 @@
 {
- "actualizado": "2026-09-19T23:06:02.424658+00:00",
+ "actualizado": "2026-09-19T23:15:06.284753+00:00",
  "partidos_vivo": [
   {
-   "home": "Remo",
-   "away": "Santos",
-   "liga": "Serie A",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Cerro Porteno",
-   "away": "Rubio NU",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 54,
-   "marcador": "1-0",
+   "home": "River Plate",
+   "away": "Huracan",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 50,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.8,
    "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
+   "momentum_home": 67,
+   "momentum_away": 33,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Rubio NU buscará el empate",
-    "🎯 15 remates totales",
-    "🚩 7 córners"
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
+    "⚽ 1 gol — River Plate buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Aurora",
-   "away": "Universitario de Vinto",
-   "liga": "Copa de la División Profesional",
-   "minuto": 50,
+   "home": "Richmond Kickers",
+   "away": "Charlotte Independence",
+   "liga": "USL League One",
+   "minuto": 48,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.35 goles/partido",
+    "⚽ Liga goleadora: 3.08 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Noroeste",
-   "away": "Primavera SP",
-   "liga": "Copa Paulista",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Pioneros de Cancún",
+   "away": "Tapachula",
+   "liga": "Primera Premier",
+   "minuto": 64,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -76,13 +56,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ Liga por encima de la media: 2.84 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -559,6 +539,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Houston Dynamo",
+    "away": "FC Cincinnati",
+    "liga": "Major League Soccer",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 2.91,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-20T00:30:00+00:00",
+    "ts": "2026-09-19T23:06:02.665231+00:00"
+   },
+   {
     "home": "Universitatea Craiova",
     "away": "FCSB",
     "liga": "Liga I",
@@ -767,27 +762,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-18T16:30:00+00:00",
     "ts": "2026-09-18T08:05:00.745044+00:00"
-   },
-   {
-    "home": "VfL Wolfsburg",
-    "away": "SV Darmstadt 98",
-    "liga": "2. Bundesliga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.16,
-    "pinnacle": true,
-    "delta": 4.14,
-    "marcador": "5-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T16:30:00+00:00",
-    "ts": "2026-09-18T11:10:56.638920+00:00"
    }
   ],
   "balance": {
    "ganados": 305,
    "perdidos": 129,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 70.3,
    "total": 434
   }
