@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T02:00:10.784843+00:00",
+ "actualizado": "2026-09-20T02:07:24.561874+00:00",
  "partidos_vivo": [
   {
    "home": "Minnesota United FC",
@@ -294,14 +294,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 53495.0,
-  "balance_total": 43495.0,
-  "balance_dia": 0.0,
-  "ganados": 3083,
-  "perdidos": 1374,
-  "pendientes": 13,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 53562.0,
+  "balance_total": 43562.0,
+  "balance_dia": 67.0,
+  "ganados": 3086,
+  "perdidos": 1375,
+  "pendientes": 9,
+  "ganados_dia": 3,
+  "perdidos_dia": 1,
   "win_rate": 69.2,
   "roi": 9.8,
   "stake": 100.0,
@@ -588,7 +588,7 @@
    "away": "Columbus Crew",
    "liga": "Major League Soccer",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -905,16 +905,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3167,
-  "ganados": 2134,
+  "n": 3170,
+  "ganados": 2136,
   "win_rate": 67,
   "hoy": 6
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 11,
-  "win_rate": 0
+  "ganados": 3,
+  "perdidos": 1,
+  "en_juego": 7,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 103,
