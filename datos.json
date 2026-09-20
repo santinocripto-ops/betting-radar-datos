@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T18:09:10.197169+00:00",
+ "actualizado": "2026-09-20T18:09:16.574232+00:00",
  "partidos_vivo": [
   {
    "home": "Cacereño",
@@ -156,6 +156,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Inter Club d'Escaldes",
+   "away": "Ranger's",
+   "liga": "1a Divisió",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "SV Wehen",
    "away": "MSV Duisburg",
    "liga": "3. Liga",
@@ -204,17 +215,6 @@
    "away": "Sarriana",
    "liga": "Tercera División RFEF - Group 1",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Egnatia Rrogozhinë",
-   "away": "Partizani",
-   "liga": "Superliga",
-   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -872,7 +872,7 @@
   "n": 3229,
   "ganados": 2171,
   "win_rate": 67,
-  "hoy": 77
+  "hoy": 78
  },
  "stats_dia": {
   "ganados": 57,
