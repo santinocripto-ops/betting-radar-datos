@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-20T08:01:40.422396+00:00",
+ "actualizado": "2026-09-20T08:08:40.252460+00:00",
  "partidos_vivo": [
   {
-   "home": "Iran U23",
-   "away": "China PR U23",
-   "liga": "Asian Games",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Philippine Army",
+   "away": "Tuloy",
+   "liga": "PFL",
+   "minuto": 48,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,29 +16,9 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚽ Liga muy goleadora: 3.73 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Amtat FC",
-   "away": "Ulaanbaatar",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "0-5",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.8 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
