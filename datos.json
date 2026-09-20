@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T21:09:04.711266+00:00",
+ "actualizado": "2026-09-20T21:21:18.433161+00:00",
  "partidos_vivo": [
   {
    "home": "Rosario Central",
@@ -595,13 +595,6 @@
    "liga": "Jupiler Pro League",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Santa Clara",
-   "away": "SC Braga",
-   "liga": "Primeira Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
