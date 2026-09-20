@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T00:59:54.514355+00:00",
+ "actualizado": "2026-09-20T01:07:44.773989+00:00",
  "partidos_vivo": [
   {
    "home": "San Jose Earthquakes",
@@ -213,7 +213,7 @@
    "hora": "10:15",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 299
+   "n_historico": 300
   },
   {
    "clave": "over25",
@@ -275,7 +275,7 @@
   "balance_dia": 0.0,
   "ganados": 3083,
   "perdidos": 1374,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -283,7 +283,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4464,
+  "con_cuota_media": 4465,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -882,7 +882,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 0
  },
  "stats_banker": {
