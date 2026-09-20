@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T16:30:55.659529+00:00",
+ "actualizado": "2026-09-20T16:37:03.451269+00:00",
  "partidos_vivo": [
   {
    "home": "HNK Rijeka",
@@ -439,7 +439,7 @@
   "balance_dia": 427.0,
   "ganados": 3130,
   "perdidos": 1396,
-  "pendientes": 27,
+  "pendientes": 28,
   "ganados_dia": 47,
   "perdidos_dia": 22,
   "win_rate": 69.2,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4553,
+  "con_cuota_media": 4554,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1087,7 +1087,7 @@
  "stats_dia": {
   "ganados": 47,
   "perdidos": 22,
-  "en_juego": 25,
+  "en_juego": 26,
   "win_rate": 68
  },
  "stats_banker": {
