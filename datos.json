@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T01:07:44.773989+00:00",
+ "actualizado": "2026-09-20T01:16:31.998399+00:00",
  "partidos_vivo": [
   {
    "home": "San Jose Earthquakes",
@@ -128,6 +128,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:59",
    "tipo": "live"
   },
@@ -184,18 +196,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:06",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:57",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:57",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -245,6 +245,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "CDS Tampico Madero",
+   "away": "Dorados",
+   "liga": "Liga de Expansión MX",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "Monarcas",
+   "away": "Leones Negros UDG",
+   "liga": "Liga de Expansión MX",
+   "minuto": 16,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
   {
    "home": "Houston Dynamo",
    "away": "FC Cincinnati",
@@ -877,7 +899,7 @@
   "n": 3167,
   "ganados": 2134,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 0,
