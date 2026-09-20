@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T16:37:03.451269+00:00",
+ "actualizado": "2026-09-20T16:43:34.270390+00:00",
  "partidos_vivo": [
   {
    "home": "HNK Rijeka",
@@ -248,6 +248,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:30",
    "tipo": "live"
   },
@@ -297,18 +309,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:08",
    "tipo": "live"
   },
   {
@@ -366,6 +366,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Egnatia Rrogozhinë",
+   "away": "Partizani",
+   "liga": "Superliga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "Villarreal",
+   "away": "Levante",
+   "liga": "La Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Al-Jazira",
    "away": "Al Wahda FC",
    "liga": "League Cup",
@@ -404,28 +426,6 @@
    "liga": "Czech Liga",
    "minuto": 15,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Viborg",
-   "away": "FC Nordsjaelland",
-   "liga": "Superliga",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "JFK Ventspils",
-   "away": "Skanste",
-   "liga": "1. Liga",
-   "minuto": 11,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-20",
@@ -1082,7 +1082,7 @@
   "n": 3219,
   "ganados": 2166,
   "win_rate": 67,
-  "hoy": 70
+  "hoy": 72
  },
  "stats_dia": {
   "ganados": 47,
