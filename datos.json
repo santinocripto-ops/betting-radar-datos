@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T12:38:13.360522+00:00",
+ "actualizado": "2026-09-20T12:45:45.597871+00:00",
  "partidos_vivo": [
   {
    "home": "Kladno",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:45",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -84,18 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:14",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Twente",
+   "away": "PSV Eindhoven",
+   "liga": "Eredivisie",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "Valerenga",
+   "away": "Fredrikstad",
+   "liga": "Eliteserien",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "DPMM FC Brunei",
    "away": "Kuala Lumpur FA",
    "liga": "FA Cup",
@@ -183,28 +205,6 @@
    "away": "Luckenwalde",
    "liga": "Regionalliga - Nordost",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "FC Vaduz",
-   "away": "FC Thun",
-   "liga": "Super League",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Sonderjyske",
-   "away": "Randers FC",
-   "liga": "Superliga",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -841,7 +841,7 @@
   "n": 3178,
   "ganados": 2141,
   "win_rate": 67,
-  "hoy": 27
+  "hoy": 29
  },
  "stats_dia": {
   "ganados": 9,
