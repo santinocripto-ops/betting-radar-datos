@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T20:45:58.322709+00:00",
+ "actualizado": "2026-09-20T20:52:51.981939+00:00",
  "partidos_vivo": [
   {
    "home": "Virginia",
@@ -278,7 +278,7 @@
   "balance_dia": 781.0,
   "ganados": 3160,
   "perdidos": 1409,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 77,
   "perdidos_dia": 35,
   "win_rate": 69.2,
@@ -286,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4580,
+  "con_cuota_media": 4581,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -912,7 +912,7 @@
  "stats_dia": {
   "ganados": 77,
   "perdidos": 35,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 69
  },
  "stats_banker": {
