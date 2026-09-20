@@ -1,68 +1,7 @@
 {
- "actualizado": "2026-09-20T11:54:00.004313+00:00",
- "partidos_vivo": [
-  {
-   "home": "Feyenoord",
-   "away": "Utrecht",
-   "liga": "Eredivisie",
-   "minuto": 56,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 93,
-   "momentum_away": 7,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.5 (Eredivisie)",
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Granad. Tenerife W",
-   "away": "Sevilla W",
-   "liga": "Primera División Femenina",
-   "minuto": 65,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sacavenense",
-   "away": "Farense",
-   "liga": "Taça de Portugal",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.57 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  }
- ],
- "partidos_vivo_total": 8,
+ "actualizado": "2026-09-20T12:01:20.569345+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
