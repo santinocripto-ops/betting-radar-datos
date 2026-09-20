@@ -1,113 +1,113 @@
 {
- "actualizado": "2026-09-20T00:43:43.105536+00:00",
+ "actualizado": "2026-09-20T00:52:36.895548+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Garcilaso",
-   "away": "Universitario",
-   "liga": "Primera División",
-   "minuto": 62,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
+   "home": "San Jose Earthquakes",
+   "away": "Los Angeles FC",
+   "liga": "Major League Soccer",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
+   "momentum_home": 75,
+   "momentum_away": 25,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Universitario pierde por 4 — atacará sin freno"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — San Jose Earthquakes buscará el empate",
+    "🚩 7 córners"
    ]
   },
   {
-   "home": "Deportivo Cali",
-   "away": "Cucuta",
-   "liga": "Primera A",
-   "minuto": 49,
+   "home": "CF Montreal",
+   "away": "Columbus Crew",
+   "liga": "Major League Soccer",
+   "minuto": 54,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "New England Revolution",
+   "away": "Orlando City SC",
+   "liga": "Major League Soccer",
+   "minuto": 51,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
+   "momentum_home": 82,
+   "momentum_away": 18,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚽ 1 gol — Cucuta buscará el empate",
-    "🎯 10 remates totales"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — Orlando City SC buscará el empate",
+    "🎯 14 remates totales"
    ]
   },
   {
-   "home": "Atletico San Luis",
-   "away": "Necaxa",
-   "liga": "Liga MX",
+   "home": "DC United",
+   "away": "Charlotte",
+   "liga": "Major League Soccer",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 57,
+   "momentum_away": 43,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Vasco DA Gama",
+   "away": "Coritiba",
+   "liga": "Serie A",
    "minuto": 60,
-   "marcador": "2-1",
+   "marcador": "3-0",
    "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 85,
+   "momentum_away": 15,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga goleadora: 3.04 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "🎯 9 remates totales"
+    "⚡ Coritiba pierde por 3 — atacará sin freno"
    ]
   },
   {
-   "home": "Tijuana W",
-   "away": "Guadalajara W",
-   "liga": "Liga MX Femenil",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Charleston Battery",
-   "away": "Monterey Bay",
-   "liga": "USL Championship",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Detroit City",
-   "away": "Pittsburgh Riverhounds",
+   "home": "Tampa Bay Rowdies",
+   "away": "Birmingham Legion",
    "liga": "USL Championship",
    "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -118,53 +118,19 @@
    "razones": [
     "⚽ Liga goleadora: 3.0 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "NY Cosmos",
-   "away": "Westchester SC",
-   "liga": "USL League One",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.08 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — NY Cosmos buscará el empate"
-   ]
-  },
-  {
-   "home": "Carolina Ascent W",
-   "away": "Brooklyn W",
-   "liga": "USL Super League",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 16,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "02:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -230,12 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:57",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:29",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -286,70 +246,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "New England Revolution",
-   "away": "Orlando City SC",
+   "home": "FC Dallas",
+   "away": "Austin",
    "liga": "Major League Soccer",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "CF Montreal",
-   "away": "Columbus Crew",
-   "liga": "Major League Soccer",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Tijuana W",
-   "away": "Guadalajara W",
-   "liga": "Liga MX Femenil",
-   "minuto": 14,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Aurora",
-   "away": "Universitario de Vinto",
-   "liga": "Copa de la División Profesional",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Anderlecht",
-   "away": "Zulte Waregem",
-   "liga": "Jupiler Pro League",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-19",
-   "es_hoy": false
-  },
-  {
-   "home": "Angers",
-   "away": "Estac Troyes",
-   "liga": "Ligue 1",
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-19",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -961,7 +866,7 @@
   "n": 3167,
   "ganados": 2134,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
