@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T18:01:41.653245+00:00",
+ "actualizado": "2026-09-20T18:09:10.197169+00:00",
  "partidos_vivo": [
   {
    "home": "Cacereño",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:09",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "20:09",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -72,18 +84,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:05",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:05",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
@@ -229,7 +229,7 @@
   "balance_dia": 457.0,
   "ganados": 3140,
   "perdidos": 1401,
-  "pendientes": 25,
+  "pendientes": 26,
   "ganados_dia": 57,
   "perdidos_dia": 27,
   "win_rate": 69.1,
@@ -237,7 +237,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4566,
+  "con_cuota_media": 4567,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -507,6 +507,13 @@
  },
  "reentradas": [
   {
+   "home": "Santa Clara",
+   "away": "SC Braga",
+   "liga": "Primeira Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Al-Jazira",
    "away": "Al Wahda FC",
    "liga": "League Cup",
@@ -540,13 +547,6 @@
    "liga": "2. Division - Group 2",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Volos NFC",
-   "away": "AEK Athens FC",
-   "liga": "Super League 1",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -877,7 +877,7 @@
  "stats_dia": {
   "ganados": 57,
   "perdidos": 27,
-  "en_juego": 24,
+  "en_juego": 25,
   "win_rate": 68
  },
  "stats_banker": {
