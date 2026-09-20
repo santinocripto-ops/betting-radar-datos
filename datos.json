@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T12:37:56.005989+00:00",
+ "actualizado": "2026-09-20T12:38:13.360522+00:00",
  "partidos_vivo": [
   {
    "home": "Kladno",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "14:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "14:38",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "13:46",
    "tipo": "live"
   }
  ],
@@ -219,7 +219,7 @@
   "balance_dia": 17.0,
   "ganados": 3092,
   "perdidos": 1379,
-  "pendientes": 20,
+  "pendientes": 24,
   "ganados_dia": 9,
   "perdidos_dia": 5,
   "win_rate": 69.2,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4491,
+  "con_cuota_media": 4495,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -496,6 +496,20 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Rot-Weiß Essen",
+   "away": "Hansa Rostock",
+   "liga": "3. Liga",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Antwerp",
+   "away": "Union St. Gilloise",
+   "liga": "Jupiler Pro League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Zbrojovka Brno II",
    "away": "Hodonín",
@@ -832,7 +846,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 5,
-  "en_juego": 18,
+  "en_juego": 22,
   "win_rate": 64
  },
  "stats_banker": {
