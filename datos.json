@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T04:56:07.412271+00:00",
+ "actualizado": "2026-09-20T05:02:48.007408+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -119,8 +119,8 @@
    "score": 10,
    "hora": "00:00",
    "resultado": "ganado",
-   "wr_historico": 59,
-   "n_historico": 1519
+   "wr_historico": 58,
+   "n_historico": 1520
   }
  ],
  "gol_temprano": [
@@ -131,7 +131,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": true
   },
@@ -193,13 +193,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 53390.0,
-  "balance_total": 43390.0,
-  "balance_dia": -105.0,
-  "ganados": 3090,
+  "capital": 53451.0,
+  "balance_total": 43451.0,
+  "balance_dia": -44.0,
+  "ganados": 3091,
   "perdidos": 1379,
-  "pendientes": 3,
-  "ganados_dia": 7,
+  "pendientes": 2,
+  "ganados_dia": 8,
   "perdidos_dia": 5,
   "win_rate": 69.1,
   "roi": 9.7,
@@ -261,7 +261,7 @@
     "away": "Atlanta United FC",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -468,7 +468,7 @@
   ],
   "balance": {
    "ganados": 1833,
-   "perdidos": 1172,
+   "perdidos": 1173,
    "acierto": 61.0,
    "yield": 15.9,
    "cuota_media": 1.9
@@ -797,16 +797,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3176,
-  "ganados": 2139,
+  "n": 3177,
+  "ganados": 2140,
   "win_rate": 67,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 7,
+  "ganados": 8,
   "perdidos": 5,
-  "en_juego": 1,
-  "win_rate": 58
+  "en_juego": 0,
+  "win_rate": 62
  },
  "stats_banker": {
   "ganados": 103,
