@@ -1,110 +1,96 @@
 {
- "actualizado": "2026-09-20T02:15:33.865853+00:00",
+ "actualizado": "2026-09-20T02:22:53.983250+00:00",
  "partidos_vivo": [
   {
-   "home": "Minnesota United FC",
-   "away": "Los Angeles Galaxy",
-   "liga": "Major League Soccer",
-   "minuto": 49,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
+   "home": "Deportivo Pasto",
+   "away": "Once Caldas",
+   "liga": "Primera A",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 12 remates totales"
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
    ]
   },
   {
-   "home": "Houston Dynamo",
-   "away": "FC Cincinnati",
-   "liga": "Major League Soccer",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Cancún",
+   "away": "Alebrijes de Oaxaca",
+   "liga": "Liga de Expansión MX",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚽ 1 gol — FC Cincinnati buscará el empate",
-    "🎯 10 remates totales"
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Sporting Kansas City",
-   "away": "Philadelphia Union",
-   "liga": "Major League Soccer",
-   "minuto": 49,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Philadelphia Union pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "FC Dallas",
-   "away": "Austin",
-   "liga": "Major League Soccer",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "St. Louis City",
-   "away": "Toronto FC",
-   "liga": "Major League Soccer",
-   "minuto": 52,
+   "home": "CDS Tampico Madero",
+   "away": "Dorados",
+   "liga": "Liga de Expansión MX",
+   "minuto": 60,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 79,
-   "momentum_away": 21,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚽ 1 gol — Toronto FC buscará el empate",
-    "🎯 10 remates totales"
+    "⚽ Liga muy goleadora: 3.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Dorados buscará el empate"
+   ]
+  },
+  {
+   "home": "Colorado Springs",
+   "away": "New Mexico United",
+   "liga": "USL Championship",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "04:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -170,12 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:22",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "01:06",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -299,7 +279,7 @@
   "balance_dia": 67.0,
   "ganados": 3086,
   "perdidos": 1375,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.2,
@@ -307,7 +287,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4470,
+  "con_cuota_media": 4471,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -576,6 +556,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Deportivo Pasto",
+   "away": "Once Caldas",
+   "liga": "Primera A",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "FC Dallas",
    "away": "Austin",
@@ -913,7 +900,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 1,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 75
  },
  "stats_banker": {
