@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-20T09:58:02.897405+00:00",
+ "actualizado": "2026-09-20T10:07:53.593132+00:00",
  "partidos_vivo": [
   {
-   "home": "Chlumec nad Cidlinou",
-   "away": "Letohrad",
-   "liga": "4. liga - Divizie C",
-   "minuto": 63,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "Kirivong Sok Sen Chey",
+   "away": "Angkor Tiger",
+   "liga": "C-League",
+   "minuto": 59,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,18 +16,98 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
+    "⚽ Liga muy goleadora: 4.08 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Viktoria Žižkov",
-   "away": "Třinec",
-   "liga": "FNL",
-   "minuto": 64,
-   "marcador": "3-0",
+   "home": "Sporting Escaldes",
+   "away": "FC Santa Coloma",
+   "liga": "1a Divisió",
+   "minuto": 46,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Slovácko W",
+   "away": "Slavia Praha W",
+   "liga": "1. Liga Women",
+   "minuto": 46,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.95 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Tensung",
+   "away": "Drukpa",
+   "liga": "Premier League",
+   "minuto": 49,
+   "marcador": "1-2",
    "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.1 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Penang",
+   "away": "Johor Darul Takzim FC",
+   "liga": "FA Cup",
+   "minuto": 47,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.53 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Milan U20",
+   "away": "Roma U20",
+   "liga": "Campionato Primavera - 1",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -36,33 +116,53 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ Liga goleadora: 3.11 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Bohemians 1905 II",
-   "away": "Viktoria Plzeň II",
-   "liga": "3. liga - CFL A",
-   "minuto": 59,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Honvéd II",
+   "away": "Újpest II",
+   "liga": "NB III - Southeast",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.2,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Vasas II",
+   "away": "Csepel",
+   "liga": "NB III - Southeast",
+   "minuto": 48,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 11,
+ "partidos_vivo_total": 14,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -167,7 +267,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1487
+   "n_historico": 1491
   },
   {
    "clave": "btts",
@@ -181,7 +281,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1521
+   "n_historico": 1522
   }
  ],
  "gol_temprano": [
@@ -236,7 +336,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": true
   },
@@ -254,15 +354,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 53451.0,
-  "balance_total": 43451.0,
-  "balance_dia": -44.0,
-  "ganados": 3091,
+  "capital": 53512.0,
+  "balance_total": 43512.0,
+  "balance_dia": 17.0,
+  "ganados": 3092,
   "perdidos": 1379,
-  "pendientes": 8,
-  "ganados_dia": 8,
+  "pendientes": 7,
+  "ganados_dia": 9,
   "perdidos_dia": 5,
-  "win_rate": 69.1,
+  "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -423,7 +523,7 @@
     "away": "Eastern District",
     "liga": "Senior Shield",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -441,7 +541,7 @@
     "away": "Deren",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -450,7 +550,7 @@
     "away": "Třinec",
     "liga": "FNL",
     "hora": "10:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -459,7 +559,7 @@
     "away": "Letohrad",
     "liga": "4. liga - Divizie C",
     "hora": "10:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -528,10 +628,10 @@
    }
   ],
   "balance": {
-   "ganados": 1835,
+   "ganados": 1840,
    "perdidos": 1173,
-   "acierto": 61.0,
-   "yield": 15.9,
+   "acierto": 61.1,
+   "yield": 16.0,
    "cuota_media": 1.9
   }
  },
@@ -858,16 +958,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3177,
-  "ganados": 2140,
+  "n": 3178,
+  "ganados": 2141,
   "win_rate": 67,
   "hoy": 12
  },
  "stats_dia": {
-  "ganados": 8,
+  "ganados": 9,
   "perdidos": 5,
-  "en_juego": 6,
-  "win_rate": 62
+  "en_juego": 5,
+  "win_rate": 64
  },
  "stats_banker": {
   "ganados": 103,
