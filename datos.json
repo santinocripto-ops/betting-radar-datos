@@ -1,210 +1,56 @@
 {
- "actualizado": "2026-09-20T22:35:41.984047+00:00",
+ "actualizado": "2026-09-20T22:44:18.546931+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Cuenca",
-   "away": "Mushuc Runa SC",
-   "liga": "Liga Pro",
+   "home": "Flamengo",
+   "away": "RB Bragantino",
+   "liga": "Serie A",
    "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚽ 1 gol — RB Bragantino buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Sportivo Luqueno",
+   "away": "Deportivo Recoleta",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 55,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 13 remates totales"
-   ]
-  },
-  {
-   "home": "Bucaramanga",
-   "away": "Internacional de Bogota",
-   "liga": "Primera A",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.6,
    "recomendar": true,
    "momentum_home": 48,
    "momentum_away": 52,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.07 goles/partido",
-    "⚽ 1 gol — Internacional de Bogota buscará el empate",
-    "🎯 19 remates totales"
-   ]
-  },
-  {
-   "home": "Colorado Rapids II",
-   "away": "North Texas",
-   "liga": "MLS Next Pro",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Real Monarchs",
-   "away": "Ventura County",
-   "liga": "MLS Next Pro",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Tacoma Defiance",
-   "away": "Portland Timbers II",
-   "liga": "MLS Next Pro",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Vancouver Whitecaps II",
-   "away": "The Town",
-   "liga": "MLS Next Pro",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "St. Louis City II",
-   "away": "Austin II",
-   "liga": "MLS Next Pro",
-   "minuto": 47,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.6,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.2 (MLS)",
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Indy Eleven",
-   "away": "Oakland Roots",
-   "liga": "USL Championship",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sporting JAX W",
-   "away": "Lexington W",
-   "liga": "USL Super League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Deportivo San Pedro",
-   "away": "Cobán Imperial",
-   "liga": "Liga Nacional",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 12 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:44",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Bay FC W vs Racing Louisville W · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota:",
@@ -263,12 +109,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:11",
    "tipo": "live"
   },
   {
@@ -345,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Atletico Paranaense",
+   "away": "Bahia",
+   "liga": "Serie A",
+   "minuto": 14,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
    "home": "The Strongest",
    "away": "Bolívar",
    "liga": "Copa de la División Profesional",
@@ -396,17 +247,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": false
-  },
-  {
-   "home": "Real Oruro",
-   "away": "Gualberto Villarroel SJ",
-   "liga": "Copa de la División Profesional",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-20",
    "es_hoy": false
   }
