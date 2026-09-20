@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T14:10:43.478504+00:00",
+ "actualizado": "2026-09-20T14:19:11.223513+00:00",
  "partidos_vivo": [
   {
    "home": "Zaglebie Lubin",
@@ -88,6 +88,36 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:10",
    "tipo": "live"
   },
@@ -125,36 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:38",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:22",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:20",
    "tipo": "live"
   }
  ],
@@ -206,6 +206,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Levadiakos",
+   "away": "Olympiakos Piraeus",
+   "liga": "Super League 1",
+   "minuto": 17,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "Tirana",
+   "away": "AF Elbasani",
+   "liga": "Superliga",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "St. Truiden",
+   "away": "KVC Westerlo",
+   "liga": "Jupiler Pro League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "AC Horsens",
+   "away": "Aarhus",
+   "liga": "Superliga",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Pendikspor",
    "away": "Bodrum FK",
    "liga": "1. Lig",
@@ -226,50 +270,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-20",
    "es_hoy": true
-  },
-  {
-   "home": "Dinamo Brest",
-   "away": "FC Dnepr Mogilev",
-   "liga": "Premier League",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Ponte Preta",
-   "away": "CRB",
-   "liga": "Serie B",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Ull/Kisa",
-   "away": "Junkeren",
-   "liga": "2. Division - Group 2",
-   "minuto": 10,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Terranuova Traiana",
-   "away": "Flaminia",
-   "liga": "Serie D - Girone E",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -279,7 +279,7 @@
   "balance_dia": 145.0,
   "ganados": 3096,
   "perdidos": 1380,
-  "pendientes": 37,
+  "pendientes": 43,
   "ganados_dia": 13,
   "perdidos_dia": 6,
   "win_rate": 69.2,
@@ -287,7 +287,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4513,
+  "con_cuota_media": 4519,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -557,6 +557,13 @@
  },
  "reentradas": [
   {
+   "home": "Stocksund",
+   "away": "Umeå FC",
+   "liga": "Ettan - Norra",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Bournemouth",
    "away": "Liverpool",
    "liga": "Premier League",
@@ -588,13 +595,6 @@
    "home": "Getafe",
    "away": "Malaga",
    "liga": "La Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Brondby",
-   "away": "FC Copenhagen",
-   "liga": "Superliga",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -922,12 +922,12 @@
   "n": 3182,
   "ganados": 2144,
   "win_rate": 67,
-  "hoy": 44
+  "hoy": 48
  },
  "stats_dia": {
   "ganados": 13,
   "perdidos": 6,
-  "en_juego": 35,
+  "en_juego": 41,
   "win_rate": 68
  },
  "stats_banker": {
