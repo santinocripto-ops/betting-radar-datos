@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T10:18:34.088866+00:00",
+ "actualizado": "2026-09-20T10:25:59.490555+00:00",
  "partidos_vivo": [
   {
    "home": "Kirivong Sok Sen Chey",
@@ -359,7 +359,7 @@
   "balance_dia": 17.0,
   "ganados": 3092,
   "perdidos": 1379,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 9,
   "perdidos_dia": 5,
   "win_rate": 69.2,
@@ -367,7 +367,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4478,
+  "con_cuota_media": 4479,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -972,7 +972,7 @@
  "stats_dia": {
   "ganados": 9,
   "perdidos": 5,
-  "en_juego": 5,
+  "en_juego": 6,
   "win_rate": 64
  },
  "stats_banker": {
