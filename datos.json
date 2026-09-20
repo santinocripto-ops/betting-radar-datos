@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T10:07:53.593132+00:00",
+ "actualizado": "2026-09-20T10:10:55.240016+00:00",
  "partidos_vivo": [
   {
    "home": "Kirivong Sok Sen Chey",
@@ -881,7 +881,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.53,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
