@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T17:31:04.878615+00:00",
+ "actualizado": "2026-09-20T17:38:28.243589+00:00",
  "partidos_vivo": [
   {
    "home": "Dinamo Batumi",
@@ -127,6 +127,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "19:28",
    "tipo": "live"
@@ -190,12 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:49",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -256,6 +256,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Kortrijk",
+   "away": "SK Beveren",
+   "liga": "Jupiler Pro League",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Santa Clara",
    "away": "SC Braga",
    "liga": "Primeira Liga",
@@ -305,17 +316,6 @@
    "liga": "La Liga",
    "minuto": 13,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Al-Jazira",
-   "away": "Al Wahda FC",
-   "liga": "League Cup",
-   "minuto": 15,
-   "score": 9.8,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-20",
@@ -972,7 +972,7 @@
   "n": 3229,
   "ganados": 2171,
   "win_rate": 67,
-  "hoy": 75
+  "hoy": 76
  },
  "stats_dia": {
   "ganados": 57,
