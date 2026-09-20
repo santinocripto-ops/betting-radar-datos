@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T23:24:48.174600+00:00",
+ "actualizado": "2026-09-20T23:32:43.213196+00:00",
  "partidos_vivo": [
   {
    "home": "Real Apodaca",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:32",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:32",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:40",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:25",
    "tipo": "live"
   }
  ],
@@ -165,6 +165,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Deportes Tolima",
+   "away": "America de Cali",
+   "liga": "Primera A",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
+   "home": "Bay FC W",
+   "away": "Racing Louisville W",
+   "liga": "NWSL Women",
+   "minuto": 24,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
    "home": "Atlético San Luis W",
    "away": "Pachuca W",
    "liga": "Liga MX Femenil",
@@ -202,28 +224,6 @@
    "away": "Tivoli Gardens",
    "liga": "Premier League",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": false
-  },
-  {
-   "home": "FC Porto",
-   "away": "Benfica",
-   "liga": "Primeira Liga",
-   "minuto": 10,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": false
-  },
-  {
-   "home": "Valencia",
-   "away": "Real Sociedad",
-   "liga": "La Liga",
-   "minuto": 22,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
