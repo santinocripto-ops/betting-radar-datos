@@ -1,11 +1,31 @@
 {
- "actualizado": "2026-09-20T20:59:58.972499+00:00",
+ "actualizado": "2026-09-20T21:09:04.711266+00:00",
  "partidos_vivo": [
   {
-   "home": "Virginia",
-   "away": "San Martin de Yacuiba",
+   "home": "Rosario Central",
+   "away": "Argentinos JRS",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.1,
+   "recomendar": true,
+   "momentum_home": 40,
+   "momentum_away": 60,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ 1 gol — Argentinos JRS buscará el empate",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "Independiente CBBA",
+   "away": "Wilstermann Cooperativa",
    "liga": "Nacional B",
-   "minuto": 50,
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -22,8 +42,28 @@
    ]
   },
   {
-   "home": "Atletico el Vigia FC",
-   "away": "Real Frontera",
+   "home": "Club Atletico Barinas",
+   "away": "Puerto Cabello II",
+   "liga": "Segunda División",
+   "minuto": 65,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Dinamo de Puerto La Cruz",
+   "away": "Mineros de Guyana",
    "liga": "Segunda División",
    "minuto": 48,
    "marcador": "0-0",
@@ -40,29 +80,9 @@
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
-  },
-  {
-   "home": "Urena SC",
-   "away": "Zamora FC B",
-   "liga": "Segunda División",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Urena SC buscará el empate"
-   ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -233,7 +253,7 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": true
   },
@@ -244,7 +264,7 @@
    "minuto": 24,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": true
   },
@@ -255,7 +275,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-20",
    "es_hoy": true
   },
@@ -266,21 +286,21 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54276.0,
-  "balance_total": 44276.0,
-  "balance_dia": 781.0,
-  "ganados": 3160,
-  "perdidos": 1409,
-  "pendientes": 12,
-  "ganados_dia": 77,
-  "perdidos_dia": 35,
+  "capital": 54249.0,
+  "balance_total": 44249.0,
+  "balance_dia": 754.0,
+  "ganados": 3165,
+  "perdidos": 1412,
+  "pendientes": 4,
+  "ganados_dia": 82,
+  "perdidos_dia": 38,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -560,14 +580,14 @@
    "away": "Paris Saint Germain",
    "liga": "Ligue 1",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Zaragoza",
    "away": "FC Cartagena",
    "liga": "Primera División RFEF - Group 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Kortrijk",
@@ -904,16 +924,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3250,
-  "ganados": 2185,
+  "n": 3256,
+  "ganados": 2188,
   "win_rate": 67,
   "hoy": 88
  },
  "stats_dia": {
-  "ganados": 77,
-  "perdidos": 35,
-  "en_juego": 12,
-  "win_rate": 69
+  "ganados": 82,
+  "perdidos": 38,
+  "en_juego": 4,
+  "win_rate": 68
  },
  "stats_banker": {
   "ganados": 103,
