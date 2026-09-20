@@ -1,128 +1,28 @@
 {
- "actualizado": "2026-09-20T17:53:31.318228+00:00",
+ "actualizado": "2026-09-20T18:01:41.653245+00:00",
  "partidos_vivo": [
   {
-   "home": "Dinamo Batumi",
-   "away": "Torpedo Kutaisi",
-   "liga": "Erovnuli Liga",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Atlético Ottawa",
-   "away": "Supra du Quebec",
-   "liga": "Canadian Premier League",
-   "minuto": 59,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 32,
-   "momentum_away": 68,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 1 gol — Atlético Ottawa buscará el empate",
-    "🎯 20 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Al-Jazira",
-   "away": "Al Wahda FC",
-   "liga": "League Cup",
-   "minuto": 52,
+   "home": "Cacereño",
+   "away": "Arenas Getxo",
+   "liga": "Primera División RFEF - Group 1",
+   "minuto": 56,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.5,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.25 goles/partido",
+    "⚽ Liga goleadora: 2.93 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
-  },
-  {
-   "home": "Al-Dhafra",
-   "away": "Baniyas SC",
-   "liga": "League Cup",
-   "minuto": 54,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.25 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "AD Marco 09",
-   "away": "Maia Lidador",
-   "liga": "Taça de Portugal",
-   "minuto": 63,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Maia Lidador buscará el empate"
-   ]
-  },
-  {
-   "home": "Alfaro",
-   "away": "Haro Deportivo",
-   "liga": "Tercera División RFEF - Group 16",
-   "minuto": 61,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.74 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
   }
  ],
- "partidos_vivo_total": 14,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
