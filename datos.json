@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-20T09:28:32.534597+00:00",
+ "actualizado": "2026-09-20T09:37:08.914654+00:00",
  "partidos_vivo": [
   {
-   "home": "Ulaangom City",
-   "away": "Deren",
-   "liga": "Premier League",
-   "minuto": 47,
-   "marcador": "0-5",
-   "apuesta": "Over 5.5",
+   "home": "Chlumec nad Cidlinou",
+   "away": "Letohrad",
+   "liga": "4. liga - Divizie C",
+   "minuto": 63,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -16,33 +16,53 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.8 goles/partido",
+    "⚽ Liga muy goleadora: 3.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Hang Yuen",
-   "away": "Tatung",
-   "liga": "Taiwan Football Premier League",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Viktoria Žižkov",
+   "away": "Třinec",
+   "liga": "FNL",
+   "minuto": 64,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Bohemians 1905 II",
+   "away": "Viktoria Plzeň II",
+   "liga": "3. liga - CFL A",
+   "minuto": 59,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.2,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
