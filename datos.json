@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T05:17:09.609203+00:00",
+ "actualizado": "2026-09-20T05:23:23.571438+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -474,15 +474,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Deportivo Pasto",
-   "away": "Once Caldas",
-   "liga": "Primera A",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
