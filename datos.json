@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T08:50:11.109259+00:00",
+ "actualizado": "2026-09-20T08:56:53.116304+00:00",
  "partidos_vivo": [
   {
    "home": "Gangwon FC",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:59",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:52",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -165,6 +165,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Kirivong Sok Sen Chey",
+   "away": "Angkor Tiger",
+   "liga": "C-League",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
   {
    "home": "Zbrojovka Brno II",
    "away": "Hodonín",
@@ -217,17 +228,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportivo Pasto",
-   "away": "Once Caldas",
-   "liga": "Primera A",
-   "minuto": 10,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-20",
    "es_hoy": true
   }
@@ -833,7 +833,7 @@
   "n": 3177,
   "ganados": 2140,
   "win_rate": 67,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 8,
