@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T14:19:11.223513+00:00",
+ "actualizado": "2026-09-20T14:26:20.586455+00:00",
  "partidos_vivo": [
   {
    "home": "Zaglebie Lubin",
@@ -846,6 +846,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will AFC Bournemouth vs. Liverpool FC end in a draw?",
+   "apuesta": "SI, acabará en empate",
+   "usdc": 544625,
+   "prob": 20.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "16:26"
+  },
+  {
    "titulo": "Rennes: Harold Mayot vs Sascha Gueymard-Wayenburg",
    "apuesta": "SI, Rennes: Harold Mayot ganara",
    "usdc": 25546,
@@ -907,15 +916,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "08:54"
-  },
-  {
-   "titulo": "Will Real Madrid CF win on 2026-09-20?",
-   "apuesta": "NO, Real Madrid no ganara",
-   "usdc": 223713,
-   "prob": 52.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "05:57"
   }
  ],
  "stats_gt": {
