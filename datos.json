@@ -1,50 +1,36 @@
 {
- "actualizado": "2026-09-20T23:07:48.011469+00:00",
+ "actualizado": "2026-09-20T23:16:48.537730+00:00",
  "partidos_vivo": [
   {
-   "home": "Flamengo",
-   "away": "RB Bragantino",
-   "liga": "Serie A",
-   "minuto": 51,
+   "home": "Real Apodaca",
+   "away": "Guerreros",
+   "liga": "Liga Premier Serie A",
+   "minuto": 49,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 53,
-   "momentum_away": 47,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 1 gol — RB Bragantino buscará el empate",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Sportivo Luqueno",
-   "away": "Deportivo Recoleta",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 48,
-   "momentum_away": 52,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 12 remates totales"
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Guerreros buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +95,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:11",
    "tipo": "live"
   }
  ],
@@ -185,6 +165,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Atlético San Luis W",
+   "away": "Pachuca W",
+   "liga": "Liga MX Femenil",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
    "home": "Atletico Paranaense",
    "away": "Bahia",
    "liga": "Serie A",
@@ -233,17 +224,6 @@
    "away": "Real Sociedad",
    "liga": "La Liga",
    "minuto": 22,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": false
-  },
-  {
-   "home": "Vitoria",
-   "away": "Cruzeiro",
-   "liga": "Serie A",
-   "minuto": 24,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
