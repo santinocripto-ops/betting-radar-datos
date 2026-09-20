@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T15:35:58.536717+00:00",
+ "actualizado": "2026-09-20T15:43:00.391162+00:00",
  "partidos_vivo": [
   {
    "home": "AC Horsens",
@@ -247,6 +247,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:42",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:35",
    "tipo": "live"
@@ -310,12 +316,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:10",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -366,6 +366,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Jagiellonia",
+   "away": "Legia Warszawa",
+   "liga": "Ekstraklasa",
+   "minuto": 12,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Nice",
    "away": "Lille",
    "liga": "Ligue 1",
@@ -415,17 +426,6 @@
    "liga": "HNL",
    "minuto": 19,
    "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "Skeid",
-   "away": "Tromsdalen Uil",
-   "liga": "2. Division - Group 2",
-   "minuto": 20,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-20",
@@ -1082,7 +1082,7 @@
   "n": 3208,
   "ganados": 2160,
   "win_rate": 67,
-  "hoy": 60
+  "hoy": 61
  },
  "stats_dia": {
   "ganados": 37,
