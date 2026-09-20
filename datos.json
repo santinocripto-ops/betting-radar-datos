@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T09:04:25.923803+00:00",
+ "actualizado": "2026-09-20T09:14:30.872559+00:00",
  "partidos_vivo": [
   {
    "home": "Ulaangom City",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "03:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:59",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -166,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Mladá Boleslav II",
+   "away": "Slovan Liberec II",
+   "liga": "3. liga - CFL B",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Kirivong Sok Sen Chey",
    "away": "Angkor Tiger",
    "liga": "C-League",
@@ -214,17 +225,6 @@
    "away": "Atlanta United FC",
    "liga": "Major League Soccer",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "FBC Melgar",
-   "away": "Sport Boys",
-   "liga": "Primera División",
-   "minuto": 20,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -833,7 +833,7 @@
   "n": 3177,
   "ganados": 2140,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 8,
