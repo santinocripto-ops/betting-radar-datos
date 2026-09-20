@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T20:24:12.485761+00:00",
+ "actualizado": "2026-09-20T20:31:09.837812+00:00",
  "partidos_vivo": [
   {
    "home": "AC Milan",
@@ -682,13 +682,6 @@
    "liga": "Primeira Liga",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Al-Jazira",
-   "away": "Al Wahda FC",
-   "liga": "League Cup",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
