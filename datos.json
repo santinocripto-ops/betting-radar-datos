@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T03:51:34.204766+00:00",
+ "actualizado": "2026-09-20T03:57:42.281041+00:00",
  "partidos_vivo": [
   {
    "home": "Colorado Rapids",
@@ -772,6 +772,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Real Madrid CF win on 2026-09-20?",
+   "apuesta": "NO, Real Madrid no ganara",
+   "usdc": 223713,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "05:57"
+  },
+  {
    "titulo": "James Madison vs. San Diego State: O/U 46.5",
    "apuesta": "SI, mas de 46.5 goles",
    "usdc": 85728,
@@ -833,15 +842,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "18:24"
-  },
-  {
-   "titulo": "Spread: FC Barcelona (-1.5)",
-   "apuesta": "SI — Spread: FC Barcelona (-1.5)",
-   "usdc": 102645,
-   "prob": 54.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "16:58"
   }
  ],
  "stats_gt": {
