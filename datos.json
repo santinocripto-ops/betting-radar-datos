@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T01:52:46.983142+00:00",
+ "actualizado": "2026-09-20T01:59:41.241699+00:00",
  "partidos_vivo": [
   {
    "home": "Minnesota United FC",
@@ -832,6 +832,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "James Madison vs. San Diego State: O/U 46.5",
+   "apuesta": "SI, mas de 46.5 goles",
+   "usdc": 325381,
+   "prob": 50.5,
+   "n_traders": 3,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "03:59"
+  },
+  {
    "titulo": "Will Barcelona win the 2026-27 UEFA Champions League Championship?",
    "apuesta": "SI, Barcelona ganara",
    "usdc": 225000,
@@ -893,15 +902,6 @@
    "n_traders": 2,
    "trader": "0x076daa87",
    "hora": "16:57"
-  },
-  {
-   "titulo": "Will AS Roma win on 2026-09-19?",
-   "apuesta": "SI, AS Roma ganara",
-   "usdc": 189639,
-   "prob": 35.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "16:28"
   }
  ],
  "stats_gt": {
