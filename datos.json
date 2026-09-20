@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T22:59:56.154958+00:00",
+ "actualizado": "2026-09-20T23:07:48.011469+00:00",
  "partidos_vivo": [
   {
    "home": "Flamengo",
@@ -213,7 +213,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -253,12 +253,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54310.0,
-  "balance_total": 44310.0,
+  "capital": 54371.0,
+  "balance_total": 44371.0,
   "balance_dia": 0.0,
-  "ganados": 3166,
+  "ganados": 3167,
   "perdidos": 1412,
-  "pendientes": 5,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -849,8 +849,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3257,
-  "ganados": 2189,
+  "n": 3258,
+  "ganados": 2190,
   "win_rate": 67,
   "hoy": 0
  },
