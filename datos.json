@@ -1,9 +1,21 @@
 {
- "actualizado": "2026-09-20T17:06:51.959322+00:00",
+ "actualizado": "2026-09-20T17:14:18.208230+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Club Atlético Güemes vs Midland · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
@@ -62,18 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:30",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:17",
    "tipo": "live"
   }
  ],
@@ -135,6 +135,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Santa Clara",
+   "away": "SC Braga",
+   "liga": "Primeira Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
+   "home": "FK Crvena Zvezda",
+   "away": "Radnicki NIS",
+   "liga": "Super Liga",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Alondras",
    "away": "Sarriana",
    "liga": "Tercera División RFEF - Group 1",
@@ -173,28 +195,6 @@
    "liga": "League Cup",
    "minuto": 15,
    "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "FH hafnarfjordur",
-   "away": "Stjarnan",
-   "liga": "Úrvalsdeild",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
-  },
-  {
-   "home": "OFI",
-   "away": "Asteras Tripolis",
-   "liga": "Super League 1",
-   "minuto": 15,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-20",
@@ -531,6 +531,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "CF Pachuca",
+    "away": "Club Tijuana",
+    "liga": "Liga MX",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 3.8,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-21T00:00:00+00:00",
+    "ts": "2026-09-20T17:06:29.293169+00:00"
+   },
+   {
+    "home": "Club Atlético Güemes",
+    "away": "Midland",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.4,
+    "pinnacle": true,
+    "delta": 3.76,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-20T20:00:00+00:00",
+    "ts": "2026-09-20T17:06:38.655561+00:00"
+   },
+   {
     "home": "Houston Dynamo",
     "away": "FC Cincinnati",
     "liga": "Major League Soccer",
@@ -724,42 +754,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-18T18:00:00+00:00",
     "ts": "2026-09-18T11:11:02.689436+00:00"
-   },
-   {
-    "home": "Rapid",
-    "away": "Arges Pitesti",
-    "liga": "Liga I",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.14,
-    "pinnacle": false,
-    "delta": 3.75,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T18:00:00+00:00",
-    "ts": "2026-09-18T17:05:19.054060+00:00"
-   },
-   {
-    "home": "SV Kapfenberg",
-    "away": "SKU Amstetten",
-    "liga": "2. Liga",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 9,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 5.01,
-    "marcador": "3-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-18T16:30:00+00:00",
-    "ts": "2026-09-18T08:05:00.745044+00:00"
    }
   ],
   "balance": {
    "ganados": 306,
    "perdidos": 129,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 70.3,
    "total": 435
   }
@@ -851,12 +851,12 @@
   "n": 3229,
   "ganados": 2171,
   "win_rate": 67,
-  "hoy": 73
+  "hoy": 75
  },
  "stats_dia": {
   "ganados": 57,
   "perdidos": 27,
-  "en_juego": 18,
+  "en_juego": 19,
   "win_rate": 68
  },
  "stats_banker": {
