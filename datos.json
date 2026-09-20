@@ -1,28 +1,108 @@
 {
- "actualizado": "2026-09-20T18:24:40.316183+00:00",
+ "actualizado": "2026-09-20T18:33:16.389439+00:00",
  "partidos_vivo": [
   {
-   "home": "Cacereño",
-   "away": "Arenas Getxo",
-   "liga": "Primera División RFEF - Group 1",
-   "minuto": 56,
+   "home": "Brann",
+   "away": "Bodo/Glimt",
+   "liga": "Eliteserien",
+   "minuto": 57,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 40,
+   "momentum_away": 60,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.66 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 10 remates totales"
+   ]
+  },
+  {
+   "home": "Kortrijk",
+   "away": "SK Beveren",
+   "liga": "Jupiler Pro League",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Jupiler Pro League)",
+    "⚽ 1 gol — SK Beveren buscará el empate",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Dender",
+   "away": "Patro Eisden",
+   "liga": "Challenger Pro League",
+   "minuto": 59,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 53,
+   "momentum_away": 47,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Nyiregyhaza",
+   "away": "Ferencvarosi TC",
+   "liga": "NB I",
+   "minuto": 46,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "⚽ 1 gol — Ferencvarosi TC buscará el empate",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Antalyaspor",
+   "away": "Vanspor FK",
+   "liga": "1. Lig",
+   "minuto": 63,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 46,
+   "momentum_away": 54,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Vanspor FK pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
