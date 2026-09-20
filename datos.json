@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T13:46:19.586409+00:00",
+ "actualizado": "2026-09-20T13:54:32.694503+00:00",
  "partidos_vivo": [
   {
    "home": "Spartak Varna",
@@ -826,6 +826,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Rennes: Harold Mayot vs Sascha Gueymard-Wayenburg",
+   "apuesta": "SI, Rennes: Harold Mayot ganara",
+   "usdc": 25546,
+   "prob": 73.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "15:53"
+  },
+  {
    "titulo": "AFC Bournemouth vs. Liverpool FC: O/U 3.5",
    "apuesta": "SI, mas de 3.5 goles",
    "usdc": 44999,
@@ -887,15 +896,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "05:57"
-  },
-  {
-   "titulo": "James Madison vs. San Diego State: O/U 46.5",
-   "apuesta": "SI, mas de 46.5 goles",
-   "usdc": 85728,
-   "prob": 50.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "03:59"
   }
  ],
  "stats_gt": {
