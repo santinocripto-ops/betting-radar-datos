@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T01:38:14.008749+00:00",
+ "actualizado": "2026-09-20T01:45:03.706423+00:00",
  "partidos_vivo": [
   {
    "home": "Pacific FC",
@@ -279,7 +279,7 @@
   "balance_dia": 0.0,
   "ganados": 3083,
   "perdidos": 1374,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -287,7 +287,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4468,
+  "con_cuota_media": 4469,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -886,7 +886,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 9,
+  "en_juego": 10,
   "win_rate": 0
  },
  "stats_banker": {
