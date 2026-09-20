@@ -1,30 +1,82 @@
 {
- "actualizado": "2026-09-20T19:32:53.239461+00:00",
+ "actualizado": "2026-09-20T19:42:07.049305+00:00",
  "partidos_vivo": [
   {
-   "home": "San Lorenzo",
-   "away": "Boca Juniors",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Tecnico Universitario",
+   "away": "Delfin SC",
+   "liga": "Liga Pro",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.6,
    "recomendar": true,
-   "momentum_home": 11,
-   "momentum_away": 89,
+   "momentum_home": 55,
+   "momentum_away": 45,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ 1 gol — Delfin SC buscará el empate",
+    "🎯 13 remates totales",
+    "🎯 6 remates a puerta"
+   ]
+  },
+  {
+   "home": "Zaragoza",
+   "away": "FC Cartagena",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
+   ]
+  },
+  {
+   "home": "Tarxien Rainbows",
+   "away": "Attard",
+   "liga": "Challenge League",
+   "minuto": 52,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:40",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -83,18 +135,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:45",
    "tipo": "live"
   }
  ],
@@ -156,6 +196,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "FC Porto",
+   "away": "Benfica",
+   "liga": "Primeira Liga",
+   "minuto": 10,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20",
+   "es_hoy": true
+  },
+  {
    "home": "Valencia",
    "away": "Real Sociedad",
    "liga": "La Liga",
@@ -209,17 +260,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-20",
    "es_hoy": true
-  },
-  {
-   "home": "Zaragoza",
-   "away": "FC Cartagena",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -229,7 +269,7 @@
   "balance_dia": 457.0,
   "ganados": 3140,
   "perdidos": 1401,
-  "pendientes": 36,
+  "pendientes": 37,
   "ganados_dia": 57,
   "perdidos_dia": 27,
   "win_rate": 69.1,
@@ -237,7 +277,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4577,
+  "con_cuota_media": 4578,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -507,6 +547,13 @@
  },
  "reentradas": [
   {
+   "home": "Zaragoza",
+   "away": "FC Cartagena",
+   "liga": "Primera División RFEF - Group 2",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Kortrijk",
    "away": "SK Beveren",
    "liga": "Jupiler Pro League",
@@ -538,13 +585,6 @@
    "home": "JFK Ventspils",
    "away": "Skanste",
    "liga": "1. Liga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Flora Tallinn",
-   "away": "Vaprus",
-   "liga": "Meistriliiga",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
   }
@@ -872,12 +912,12 @@
   "n": 3229,
   "ganados": 2171,
   "win_rate": 67,
-  "hoy": 86
+  "hoy": 87
  },
  "stats_dia": {
   "ganados": 57,
   "perdidos": 27,
-  "en_juego": 35,
+  "en_juego": 36,
   "win_rate": 68
  },
  "stats_banker": {
