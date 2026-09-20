@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T08:15:37.045729+00:00",
+ "actualizado": "2026-09-20T08:22:25.493147+00:00",
  "partidos_vivo": [
   {
    "home": "Philippine Army",
@@ -219,7 +219,7 @@
   "balance_dia": -44.0,
   "ganados": 3091,
   "perdidos": 1379,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 8,
   "perdidos_dia": 5,
   "win_rate": 69.1,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4472,
+  "con_cuota_media": 4473,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 5,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 62
  },
  "stats_banker": {
