@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T22:03:39.360327+00:00",
+ "actualizado": "2026-09-20T22:04:06.947542+00:00",
  "partidos_vivo": [
   {
    "home": "Juan Pablo II College",
@@ -45,6 +45,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Bay FC W vs Racing Louisville W · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota:",
+   "hora": "00:04",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -110,16 +116,19 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:11",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:03",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Bay FC W",
+   "away": "Racing Louisville W",
+   "liga": "NWSL Women",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.23,
+   "resultado": "pendiente",
+   "fecha": "2026-09-20"
+  },
   {
    "home": "Bay FC W",
    "away": "Racing Louisville W",
@@ -854,7 +863,7 @@
  "stats_banker": {
   "ganados": 104,
   "perdidos": 40,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
