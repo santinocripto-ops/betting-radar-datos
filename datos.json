@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T13:00:34.963408+00:00",
+ "actualizado": "2026-09-20T13:07:53.581384+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -744,6 +744,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "AFC Bournemouth vs. Liverpool FC: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 44999,
+   "prob": 38.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "15:07"
+  },
+  {
    "titulo": "Will Málaga CF win on 2026-09-20?",
    "apuesta": "NO, Málaga no ganara",
    "usdc": 34419,
@@ -804,15 +813,6 @@
    "prob": 50.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
-   "hora": "03:59"
-  },
-  {
-   "titulo": "James Madison vs. San Diego State: O/U 46.5",
-   "apuesta": "SI, mas de 46.5 goles",
-   "usdc": 325381,
-   "prob": 50.5,
-   "n_traders": 3,
-   "trader": "0x2c335066FE58fe9237c3",
    "hora": "03:59"
   }
  ],
