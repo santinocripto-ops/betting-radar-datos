@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-20T12:31:10.956196+00:00",
+ "actualizado": "2026-09-20T12:37:56.005989+00:00",
  "partidos_vivo": [
   {
    "home": "Kladno",
@@ -751,6 +751,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Málaga CF win on 2026-09-20?",
+   "apuesta": "NO, Málaga no ganara",
+   "usdc": 34419,
+   "prob": 78.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:37"
+  },
+  {
    "titulo": "Will Liverpool FC win on 2026-09-20?",
    "apuesta": "SI, Liverpool ganara",
    "usdc": 140657,
@@ -812,15 +821,6 @@
    "n_traders": 3,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "03:59"
-  },
-  {
-   "titulo": "Will Barcelona win the 2026-27 UEFA Champions League Championship?",
-   "apuesta": "SI, Barcelona ganara",
-   "usdc": 225000,
-   "prob": 21.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "01:52"
   }
  ],
  "stats_gt": {
