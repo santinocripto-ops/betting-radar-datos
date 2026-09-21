@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T14:07:17.480657+00:00",
+ "actualizado": "2026-09-21T14:07:44.210815+00:00",
  "partidos_vivo": [
   {
    "home": "Odd II",
@@ -44,9 +44,59 @@
  ],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Petrolul Ploiesti vs Csikszereda · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.21 (7 casas)",
+   "hora": "16:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Oţelul vs Corvinul Hunedoara · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
+   "hora": "16:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:07",
+   "tipo": "smart_money"
+  }
+ ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Petrolul Ploiesti",
+   "away": "Csikszereda",
+   "liga": "Liga I",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.21,
+   "resultado": "pendiente",
+   "fecha": "2026-09-21"
+  },
+  {
+   "home": "Oţelul",
+   "away": "Corvinul Hunedoara",
+   "liga": "Liga I",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.39,
+   "resultado": "pendiente",
+   "fecha": "2026-09-21"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -714,7 +764,7 @@
  "stats_banker": {
   "ganados": 106,
   "perdidos": 40,
-  "pendientes": 0,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
