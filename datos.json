@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T15:40:35.966611+00:00",
+ "actualizado": "2026-09-21T15:48:48.313500+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -649,6 +649,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
+   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Oct",
+   "usdc": 97053,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xf",
+   "hora": "17:48"
+  },
   {
    "titulo": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
    "apuesta": "SI, ganara",
