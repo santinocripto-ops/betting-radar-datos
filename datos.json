@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-21T12:57:35.752790+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 3,
+ "actualizado": "2026-09-21T13:05:24.154440+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Thimphu",
+   "away": "Ugyen Academy",
+   "liga": "Premier League",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.24 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Ugyen Academy buscará el empate"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
