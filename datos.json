@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T21:56:00.432364+00:00",
+ "actualizado": "2026-09-21T22:03:08.906487+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -72,13 +72,13 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Brann II",
-   "away": "Fyllingsdalen",
-   "liga": "3. Division - Girone 3",
+   "home": "Juventude U17",
+   "away": "Corinthians U17",
+   "liga": "Brasileiro U17",
    "cuota": null,
-   "score": 8.19,
-   "hora": "16:30",
-   "resultado": "ganado",
+   "score": 8.15,
+   "hora": "18:00",
+   "resultado": "pendiente",
    "wr_historico": 84,
    "n_historico": 320
   },
@@ -86,13 +86,13 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Khovd",
-   "away": "Central Stallions",
-   "liga": "Premier League",
-   "cuota": null,
+   "home": "Toluca W",
+   "away": "Tigres UANL W",
+   "liga": "Liga MX Femenil",
+   "cuota": 4.8,
    "score": 10,
-   "hora": "05:00",
-   "resultado": "ganado",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 64,
    "n_historico": 1534
   },
@@ -100,13 +100,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Khovd",
-   "away": "Central Stallions",
-   "liga": "Premier League",
-   "cuota": null,
+   "home": "Toluca W",
+   "away": "Tigres UANL W",
+   "liga": "Liga MX Femenil",
+   "cuota": 1.44,
    "score": 10,
-   "hora": "05:00",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 59,
    "n_historico": 1562
   }
@@ -121,7 +121,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-21",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Levadia U19",
@@ -132,19 +132,63 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-21",
-   "es_hoy": true
+   "es_hoy": false
+  },
+  {
+   "home": "Oriente Petrolero",
+   "away": "Blooming",
+   "liga": "Copa de la División Profesional",
+   "minuto": 14,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
+   "home": "Deportes Tolima",
+   "away": "America de Cali",
+   "liga": "Primera A",
+   "minuto": 22,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
+   "home": "Bay FC W",
+   "away": "Racing Louisville W",
+   "liga": "NWSL Women",
+   "minuto": 24,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-20",
+   "es_hoy": false
+  },
+  {
+   "home": "Atlético San Luis W",
+   "away": "Pachuca W",
+   "liga": "Liga MX Femenil",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-20",
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 54421.0,
   "balance_total": 44421.0,
-  "balance_dia": -11.0,
+  "balance_dia": 0.0,
   "ganados": 3173,
   "perdidos": 1415,
   "pendientes": 2,
-  "ganados_dia": 5,
-  "perdidos_dia": 3,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -156,256 +200,256 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Khovd",
-    "away": "Central Stallions",
-    "liga": "Premier League",
-    "hora": "07:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Andranik",
-    "away": "Lernayin Artsakh",
-    "liga": "First League",
-    "hora": "13:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Shirak II",
-    "away": "Noah II",
-    "liga": "First League",
-    "hora": "13:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Guabirá",
-    "away": "San Antonio Bulo Bulo",
-    "liga": "Copa de la División Profesional",
-    "hora": "00:00",
+    "home": "Toluca W",
+    "away": "Tigres UANL W",
+    "liga": "Liga MX Femenil",
+    "hora": "02:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Bangladesh W",
-    "away": "Myanmar W",
-    "liga": "Asian Games Women",
-    "hora": "09:00",
-    "resultado": "perdido",
+    "home": "Independiente Petrolero",
+    "away": "Real Tomayapo",
+    "liga": "Copa de la División Profesional",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Fiji",
-    "away": "Vanuatu",
-    "liga": "Friendlies",
-    "hora": "09:00",
-    "resultado": "perdido",
+    "home": "Ararat II",
+    "away": "Pyunik II",
+    "liga": "First League",
+    "hora": "13:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Khovd Western",
-    "away": "Erchim",
+    "home": "Bentonit Ijevan",
+    "away": "Mika",
+    "liga": "First League",
+    "hora": "13:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Pitbulls Santa Barbara FC",
+    "away": "Cariari Pococi",
+    "liga": "Liga de Ascenso",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "RTC",
+    "away": "Tsirang",
     "liga": "Premier League",
-    "hora": "10:00",
-    "resultado": "ganado",
+    "hora": "11:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Tromsø II",
-    "away": "Kongsvinger II",
-    "liga": "3. Division - Girone 5",
-    "hora": "14:00",
-    "resultado": "perdido",
+    "home": "Reboceros La Piedad",
+    "away": "Irapuato",
+    "liga": "Primera Premier",
+    "hora": "04:05",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Kvant",
-    "away": "Avangard Kursk",
-    "liga": "Second League - Group 3",
-    "hora": "14:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Bolton Wanderers Res.",
-    "away": "Queens Park Rangers U21",
+    "home": "Charlton Athletic U21",
+    "away": "Sheffield United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Skala 1911 Stryi",
-    "away": "Vilkhivtsi",
-    "liga": "Druha Liga",
-    "hora": "14:30",
-    "resultado": "perdido",
+    "home": "Wigan Athletic U21",
+    "away": "Coventry City U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Odd II",
-    "away": "Stabæk II",
-    "liga": "3. Division - Girone 4",
-    "hora": "15:00",
-    "resultado": "ganado",
+    "home": "ARO Muscelul Câmpulung",
+    "away": "Baicoi",
+    "liga": "Liga III - Serie 2",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Amkar",
-    "away": "Dinamo Moskva II",
-    "liga": "Second League A - Division A Silver",
-    "hora": "15:00",
-    "resultado": "perdido",
+    "home": "Păuleşti",
+    "away": "Tunari",
+    "liga": "Liga III - Serie 3",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Levadia U19",
-    "away": "Luunja",
-    "liga": "Esiliiga B",
-    "hora": "17:00",
-    "resultado": "perdido",
+    "home": "Axi Adunații-Copăceni",
+    "away": "Oxigen Bucuresti",
+    "liga": "Liga III - Serie 5",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Filiaşi",
+    "away": "CS U Craiova II",
+    "liga": "Liga III - Serie 6",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Poli Timisoara 2",
+    "away": "CIL Blaj",
+    "liga": "Liga III - Serie 7",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
   "over25": [
    {
-    "home": "Khovd",
-    "away": "Central Stallions",
-    "liga": "Premier League",
-    "hora": "07:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Khovd Western",
-    "away": "Erchim",
-    "liga": "Premier League",
-    "hora": "10:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Andranik",
-    "away": "Lernayin Artsakh",
-    "liga": "First League",
-    "hora": "13:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Shirak II",
-    "away": "Noah II",
-    "liga": "First League",
-    "hora": "13:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Guabirá",
-    "away": "San Antonio Bulo Bulo",
-    "liga": "Copa de la División Profesional",
-    "hora": "00:00",
+    "home": "Toluca W",
+    "away": "Tigres UANL W",
+    "liga": "Liga MX Femenil",
+    "hora": "02:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Bangladesh W",
-    "away": "Myanmar W",
-    "liga": "Asian Games Women",
-    "hora": "09:00",
-    "resultado": "perdido",
+    "home": "Independiente Petrolero",
+    "away": "Real Tomayapo",
+    "liga": "Copa de la División Profesional",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "South Korea W",
-    "away": "Korea DPR W",
-    "liga": "Asian Games Women",
-    "hora": "09:00",
-    "resultado": "perdido",
+    "home": "Ararat II",
+    "away": "Pyunik II",
+    "liga": "First League",
+    "hora": "13:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Tromsø II",
-    "away": "Kongsvinger II",
-    "liga": "3. Division - Girone 5",
-    "hora": "14:00",
-    "resultado": "ganado",
+    "home": "Bentonit Ijevan",
+    "away": "Mika",
+    "liga": "First League",
+    "hora": "13:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Kvant",
-    "away": "Avangard Kursk",
-    "liga": "Second League - Group 3",
-    "hora": "14:00",
-    "resultado": "perdido",
+    "home": "RTC",
+    "away": "Tsirang",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Bolton Wanderers Res.",
-    "away": "Queens Park Rangers U21",
+    "home": "Abahani",
+    "away": "Chattogram",
+    "liga": "Federation Cup",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Reboceros La Piedad",
+    "away": "Irapuato",
+    "liga": "Primera Premier",
+    "hora": "04:05",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Charlton Athletic U21",
+    "away": "Sheffield United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Odd II",
-    "away": "Stabæk II",
-    "liga": "3. Division - Girone 4",
-    "hora": "15:00",
-    "resultado": "perdido",
+    "home": "Wigan Athletic U21",
+    "away": "Coventry City U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Amkar",
-    "away": "Dinamo Moskva II",
-    "liga": "Second League A - Division A Silver",
-    "hora": "15:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Struga",
-    "away": "Aresimi",
-    "liga": "First League",
+    "home": "ARO Muscelul Câmpulung",
+    "away": "Baicoi",
+    "liga": "Liga III - Serie 2",
     "hora": "16:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Nõmme Kalju II",
-    "away": "Nõmme United II",
-    "liga": "Esiliiga A",
-    "hora": "16:30",
-    "resultado": "ganado",
+    "home": "Pucioasa",
+    "away": "Flacăra Moreni",
+    "liga": "Liga III - Serie 3",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Păuleşti",
+    "away": "Tunari",
+    "liga": "Liga III - Serie 3",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Axi Adunații-Copăceni",
+    "away": "Oxigen Bucuresti",
+    "liga": "Liga III - Serie 5",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Filiaşi",
+    "away": "CS U Craiova II",
+    "liga": "Liga III - Serie 6",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    }
@@ -656,13 +700,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "14:00",
-  "cuota": 1.51,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -697,13 +735,13 @@
   "n": 3266,
   "ganados": 2195,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 8,
-  "perdidos": 3,
+  "ganados": 0,
+  "perdidos": 0,
   "en_juego": 0,
-  "win_rate": 73
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 108,
