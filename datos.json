@@ -1,28 +1,68 @@
 {
- "actualizado": "2026-09-21T18:57:35.540328+00:00",
+ "actualizado": "2026-09-21T19:06:13.855637+00:00",
  "partidos_vivo": [
   {
-   "home": "Aldosivi",
-   "away": "Atletico Tucuman",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 46,
+   "home": "7 de Abril",
+   "away": "Paraty",
+   "liga": "Carioca B2",
+   "minuto": 57,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 40,
-   "momentum_away": 60,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Rio de Janeiro",
+   "away": "Santa Cruz RJ",
+   "liga": "Carioca B2",
+   "minuto": 51,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "EC São Bernardo U20",
+   "away": "São Paulo U20",
+   "liga": "Paulista - U20",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -97,9 +137,9 @@
    "cuota": null,
    "score": 8.19,
    "hora": "16:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 84,
-   "n_historico": 317
+   "n_historico": 320
   },
   {
    "clave": "over25",
@@ -113,7 +153,7 @@
    "hora": "05:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1531
+   "n_historico": 1534
   },
   {
    "clave": "btts",
@@ -127,7 +167,7 @@
    "hora": "05:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1560
+   "n_historico": 1562
   }
  ],
  "gol_temprano": [
@@ -430,22 +470,14 @@
    }
   ],
   "balance": {
-   "ganados": 1894,
-   "perdidos": 1197,
+   "ganados": 1898,
+   "perdidos": 1198,
    "acierto": 61.3,
-   "yield": 16.4,
+   "yield": 16.5,
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Levadia U19",
-   "away": "Luunja",
-   "liga": "Esiliiga B",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
