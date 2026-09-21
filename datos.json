@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T17:08:44.760178+00:00",
+ "actualizado": "2026-09-21T17:16:21.073343+00:00",
  "partidos_vivo": [
   {
    "home": "Werder Bremen W",
@@ -631,8 +631,8 @@
     "cuota": 1.44,
     "pinnacle": true,
     "delta": 4.95,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-21T15:00:00+00:00",
     "ts": "2026-09-21T14:07:28.959413+00:00"
    },
@@ -818,11 +818,11 @@
    }
   ],
   "balance": {
-   "ganados": 309,
+   "ganados": 310,
    "perdidos": 129,
-   "pendientes": 3,
-   "acierto": 70.5,
-   "total": 438
+   "pendientes": 2,
+   "acierto": 70.6,
+   "total": 439
   }
  },
  "mejor_dia": {
