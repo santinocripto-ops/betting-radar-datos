@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-21T16:58:15.567084+00:00",
+ "actualizado": "2026-09-21T17:08:44.760178+00:00",
  "partidos_vivo": [
   {
-   "home": "Oţelul",
-   "away": "Corvinul Hunedoara",
-   "liga": "Liga I",
-   "minuto": 52,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "home": "Werder Bremen W",
+   "away": "Stuttgart W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -16,17 +16,37 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 22 remates totales — partido muy intenso"
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚽ 1 gol — Stuttgart W buscará el empate",
+    "🎯 15 remates totales"
    ]
   },
   {
-   "home": "Levadia U19",
-   "away": "Luunja",
-   "liga": "Esiliiga B",
-   "minuto": 59,
-   "marcador": "1-0",
+   "home": "Spjelkavik",
+   "away": "Rosenborg II",
+   "liga": "3. Division - Girone 2",
+   "minuto": 49,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Madla",
+   "away": "Haugesund II",
+   "liga": "3. Division - Girone 4",
+   "minuto": 52,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
@@ -36,39 +56,99 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.62 goles/partido",
+    "⚽ Liga muy goleadora: 3.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Luunja buscará el empate"
+    "⚽ 1 gol — Madla buscará el empate"
    ]
   },
   {
-   "home": "Rustavi",
-   "away": "FC Iberia 1999",
-   "liga": "Erovnuli Liga",
-   "minuto": 53,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Alta",
+   "away": "Strømsgodset II",
+   "liga": "3. Division - Girone 5",
+   "minuto": 49,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
+    "⚽ Liga muy goleadora: 4.59 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Rustavi buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "União Leiria U23",
-   "away": "Gil Vicente U23",
-   "liga": "Liga Revelação U23",
+   "home": "Brumunddal",
+   "away": "Sandefjord II",
+   "liga": "3. Division - Girone 6",
    "minuto": 52,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Brumunddal buscará el empate"
+   ]
+  },
+  {
+   "home": "Lyn II",
+   "away": "Sarpsborg 08 II",
+   "liga": "3. Division - Girone 6",
+   "minuto": 50,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.57 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Spartak Pleven",
+   "away": "Ludogorets II",
+   "liga": "Second League",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Javor",
+   "away": "Naftagas",
+   "liga": "Prva Liga",
+   "minuto": 51,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -76,13 +156,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — União Leiria U23 buscará el empate"
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Metalac GM",
+   "away": "Grafičar",
+   "liga": "Prva Liga",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.82 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 17,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -138,15 +238,6 @@
    "cuota": 1.21,
    "resultado": "pendiente",
    "fecha": "2026-09-21"
-  },
-  {
-   "home": "Oţelul",
-   "away": "Corvinul Hunedoara",
-   "liga": "Liga I",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.39,
-   "resultado": "pendiente",
-   "fecha": "2026-09-21"
   }
  ],
  "mejores_dia": [
@@ -176,7 +267,7 @@
    "hora": "05:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1524
+   "n_historico": 1526
   },
   {
    "clave": "btts",
@@ -190,7 +281,7 @@
    "hora": "05:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1552
+   "n_historico": 1554
   }
  ],
  "gol_temprano": [
@@ -201,21 +292,21 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-21",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54576.0,
-  "balance_total": 44576.0,
-  "balance_dia": 144.0,
-  "ganados": 3172,
-  "perdidos": 1413,
-  "pendientes": 4,
-  "ganados_dia": 4,
-  "perdidos_dia": 1,
+  "capital": 54521.0,
+  "balance_total": 44521.0,
+  "balance_dia": 89.0,
+  "ganados": 3173,
+  "perdidos": 1414,
+  "pendientes": 2,
+  "ganados_dia": 5,
+  "perdidos_dia": 2,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -348,7 +439,7 @@
     "away": "Luunja",
     "liga": "Esiliiga B",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -476,16 +567,16 @@
     "away": "Nõmme United II",
     "liga": "Esiliiga A",
     "hora": "16:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 1886,
-   "perdidos": 1190,
+   "ganados": 1887,
+   "perdidos": 1193,
    "acierto": 61.3,
-   "yield": 16.5,
+   "yield": 16.4,
    "cuota_media": 1.9
   }
  },
@@ -495,7 +586,7 @@
    "away": "Luunja",
    "liga": "Esiliiga B",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -764,21 +855,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3264,
+  "n": 3265,
   "ganados": 2195,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 5,
-  "perdidos": 1,
-  "en_juego": 4,
-  "win_rate": 83
+  "ganados": 7,
+  "perdidos": 2,
+  "en_juego": 1,
+  "win_rate": 78
  },
  "stats_banker": {
-  "ganados": 106,
+  "ganados": 107,
   "perdidos": 40,
-  "pendientes": 2,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
