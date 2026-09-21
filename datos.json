@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T18:16:08.539669+00:00",
+ "actualizado": "2026-09-21T18:23:13.270173+00:00",
  "partidos_vivo": [
   {
    "home": "KFUM II",
@@ -241,7 +241,7 @@
   "balance_dia": 89.0,
   "ganados": 3173,
   "perdidos": 1414,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 5,
   "perdidos_dia": 2,
   "win_rate": 69.2,
@@ -249,7 +249,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4589,
+  "con_cuota_media": 4590,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -800,7 +800,7 @@
  "stats_dia": {
   "ganados": 7,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 78
  },
  "stats_banker": {
