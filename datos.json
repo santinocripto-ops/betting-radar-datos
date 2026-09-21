@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T19:55:43.736718+00:00",
+ "actualizado": "2026-09-21T20:02:35.826465+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
@@ -54,17 +54,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Petrolul Ploiesti",
-   "away": "Csikszereda",
-   "liga": "Liga I",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.21,
-   "resultado": "pendiente",
-   "fecha": "2026-09-21"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -117,7 +107,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-21",
    "es_hoy": true
   },
@@ -135,14 +125,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54521.0,
-  "balance_total": 44521.0,
-  "balance_dia": 89.0,
+  "capital": 54421.0,
+  "balance_total": 44421.0,
+  "balance_dia": -11.0,
   "ganados": 3173,
-  "perdidos": 1414,
-  "pendientes": 3,
+  "perdidos": 1415,
+  "pendientes": 2,
   "ganados_dia": 5,
-  "perdidos_dia": 2,
+  "perdidos_dia": 3,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -683,21 +673,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3265,
+  "n": 3266,
   "ganados": 2195,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 7,
-  "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 78
+  "ganados": 8,
+  "perdidos": 3,
+  "en_juego": 0,
+  "win_rate": 73
  },
  "stats_banker": {
-  "ganados": 107,
+  "ganados": 108,
   "perdidos": 40,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 73
  },
  "marca": {
