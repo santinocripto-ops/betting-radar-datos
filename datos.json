@@ -1,30 +1,11 @@
 {
- "actualizado": "2026-09-21T10:00:33.672221+00:00",
+ "actualizado": "2026-09-21T10:09:24.684214+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Bay FC W",
-   "away": "Racing Louisville W",
-   "liga": "NWSL Women",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.23,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20"
-  },
-  {
-   "home": "Bay FC W",
-   "away": "Racing Louisville W",
-   "liga": "NWSL Women",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.23,
-   "resultado": "pendiente",
-   "fecha": "2026-09-20"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -38,7 +19,7 @@
    "hora": "16:30",
    "resultado": "pendiente",
    "wr_historico": 83,
-   "n_historico": 309
+   "n_historico": 311
   },
   {
    "clave": "over25",
@@ -50,9 +31,9 @@
    "cuota": null,
    "score": 10,
    "hora": "05:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1507
+   "n_historico": 1513
   },
   {
    "clave": "btts",
@@ -64,9 +45,9 @@
    "cuota": null,
    "score": 10,
    "hora": "05:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1537
+   "n_historico": 1543
   }
  ],
  "gol_temprano": [
@@ -77,7 +58,7 @@
    "minuto": 14,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -88,7 +69,7 @@
    "minuto": 22,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -99,7 +80,7 @@
    "minuto": 24,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -110,7 +91,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -121,7 +102,7 @@
    "minuto": 14,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   },
@@ -132,21 +113,21 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-20",
    "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54371.0,
-  "balance_total": 44371.0,
-  "balance_dia": 0.0,
-  "ganados": 3167,
-  "perdidos": 1412,
-  "pendientes": 8,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 54576.0,
+  "balance_total": 44576.0,
+  "balance_dia": 144.0,
+  "ganados": 3172,
+  "perdidos": 1413,
+  "pendientes": 2,
+  "ganados_dia": 4,
+  "perdidos_dia": 1,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -162,7 +143,7 @@
     "away": "Central Stallions",
     "liga": "Premier League",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -198,7 +179,7 @@
     "away": "Myanmar W",
     "liga": "Asian Games Women",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -207,7 +188,7 @@
     "away": "Vanuatu",
     "liga": "Friendlies",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -216,7 +197,7 @@
     "away": "Erchim",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -290,7 +271,7 @@
     "away": "Central Stallions",
     "liga": "Premier League",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -299,7 +280,7 @@
     "away": "Erchim",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -335,7 +316,7 @@
     "away": "Myanmar W",
     "liga": "Asian Games Women",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -344,7 +325,7 @@
     "away": "Korea DPR W",
     "liga": "Asian Games Women",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -413,10 +394,10 @@
    }
   ],
   "balance": {
-   "ganados": 1866,
-   "perdidos": 1178,
+   "ganados": 1873,
+   "perdidos": 1183,
    "acierto": 61.3,
-   "yield": 16.5,
+   "yield": 16.4,
    "cuota_media": 1.9
   }
  },
@@ -672,22 +653,22 @@
   }
  ],
  "stats_gt": {
-  "n": 3258,
-  "ganados": 2190,
+  "n": 3264,
+  "ganados": 2195,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 6,
-  "win_rate": 0
+  "ganados": 5,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 83
  },
  "stats_banker": {
-  "ganados": 104,
+  "ganados": 106,
   "perdidos": 40,
-  "pendientes": 2,
-  "win_rate": 72
+  "pendientes": 0,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
