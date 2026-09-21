@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T16:04:50.917726+00:00",
+ "actualizado": "2026-09-21T16:04:55.277307+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -95,7 +95,7 @@
    "hora": "05:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1522
+   "n_historico": 1524
   },
   {
    "clave": "btts",
@@ -109,7 +109,7 @@
    "hora": "05:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1551
+   "n_historico": 1552
   }
  ],
  "gol_temprano": [
@@ -132,7 +132,7 @@
   "balance_dia": 144.0,
   "ganados": 3172,
   "perdidos": 1413,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 4,
   "perdidos_dia": 1,
   "win_rate": 69.2,
@@ -140,7 +140,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4588,
+  "con_cuota_media": 4589,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -168,7 +168,7 @@
     "away": "Noah II",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -305,7 +305,7 @@
     "away": "Noah II",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -386,7 +386,7 @@
     "away": "Aresimi",
     "liga": "First League",
     "hora": "16:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -401,14 +401,22 @@
    }
   ],
   "balance": {
-   "ganados": 1883,
+   "ganados": 1886,
    "perdidos": 1190,
    "acierto": 61.3,
-   "yield": 16.4,
+   "yield": 16.5,
    "cuota_media": 1.9
   }
  },
- "reentradas": [],
+ "reentradas": [
+  {
+   "home": "Levadia U19",
+   "away": "Luunja",
+   "liga": "Esiliiga B",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  }
+ ],
  "pagina_smart": {
   "picks": [
    {
@@ -683,7 +691,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 1,
-  "en_juego": 3,
+  "en_juego": 4,
   "win_rate": 83
  },
  "stats_banker": {
