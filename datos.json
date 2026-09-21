@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T21:02:27.041370+00:00",
+ "actualizado": "2026-09-21T21:15:43.863725+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -422,6 +422,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Central Espanol",
+    "away": "Atletico Torque",
+    "liga": "Primera División",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 3.1,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-21T22:30:00+00:00",
+    "ts": "2026-09-21T21:02:27.259812+00:00"
+   },
+   {
+    "home": "Nueva Chicago",
+    "away": "Patronato",
+    "liga": "Primera Nacional",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": 1.28,
+    "pinnacle": true,
+    "delta": 11.18,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-21T22:00:00+00:00",
+    "ts": "2026-09-21T21:02:26.321685+00:00"
+   },
+   {
     "home": "Petrolul Ploiesti",
     "away": "Csikszereda",
     "liga": "Liga I",
@@ -615,42 +645,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-19T13:00:00+00:00",
     "ts": "2026-09-19T11:07:12.150243+00:00"
-   },
-   {
-    "home": "Zorya Luhansk",
-    "away": "Dynamo Kyiv",
-    "liga": "Premier League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 2.15,
-    "pinnacle": true,
-    "delta": 5.14,
-    "marcador": "0-2",
-    "resultado": "perdido",
-    "kickoff": "2026-09-19T12:30:00+00:00",
-    "ts": "2026-09-19T11:07:09.646420+00:00"
-   },
-   {
-    "home": "Zorya Luhansk",
-    "away": "Dynamo Kyiv",
-    "liga": "Premier League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.21,
-    "pinnacle": false,
-    "delta": 4.58,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T12:30:00+00:00",
-    "ts": "2026-09-19T11:07:09.833014+00:00"
    }
   ],
   "balance": {
    "ganados": 312,
    "perdidos": 129,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 70.7,
    "total": 441
   }
