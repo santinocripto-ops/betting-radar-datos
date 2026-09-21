@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T11:57:24.997558+00:00",
+ "actualizado": "2026-09-21T12:05:01.978023+00:00",
  "partidos_vivo": [
   {
    "home": "Japan W",
@@ -74,7 +74,7 @@
    "hora": "05:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1514
+   "n_historico": 1515
   },
   {
    "clave": "btts",
@@ -435,7 +435,7 @@
    }
   ],
   "balance": {
-   "ganados": 1874,
+   "ganados": 1875,
    "perdidos": 1183,
    "acierto": 61.3,
    "yield": 16.5,
