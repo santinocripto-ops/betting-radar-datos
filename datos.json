@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-21T22:16:57.362586+00:00",
+ "actualizado": "2026-09-21T22:24:10.302784+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -703,6 +703,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "San Diego 2: Braden Shick vs Patrick Maloney",
+   "apuesta": "SI, San Diego 2: Braden Shick ganara",
+   "usdc": 20412,
+   "prob": 59.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:23"
+  },
   {
    "titulo": "Tolentino: Laura Samson vs Noemi Basiletti",
    "apuesta": "SI, Tolentino: Laura Samson ganara",
