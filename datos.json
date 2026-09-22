@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T22:10:58.769347+00:00",
+ "actualizado": "2026-09-22T22:17:50.515415+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -726,6 +726,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "San Diego 2: Tristan Boyer vs Spencer Johnson",
+   "apuesta": "SI, San Diego 2: Tristan Boyer ganara",
+   "usdc": 117897,
+   "prob": 99.5,
+   "n_traders": 2,
+   "trader": "0x076daa87c4fe1a85402a",
+   "hora": "00:17"
+  },
+  {
+   "titulo": "San Diego 2: Jack Kennedy vs Liam Draxl",
+   "apuesta": "SI, San Diego 2: Jack Kennedy ganara",
+   "usdc": 133863,
+   "prob": 13.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:17"
+  },
+  {
    "titulo": "Buenos Aires 2: Lucio Ratti vs Federico Coria",
    "apuesta": "SI, Buenos Aires 2: Lucio Ratti ganara",
    "usdc": 168886,
@@ -778,24 +796,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "14:20"
-  },
-  {
-   "titulo": "Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playo",
-   "apuesta": "SI, Counter-Strike: B8 ganara",
-   "usdc": 133000,
-   "prob": 60.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "14:13"
-  },
-  {
-   "titulo": "Ankara: Martyna Kubka vs Berfu Cengiz",
-   "apuesta": "SI, Ankara: Martyna Kubka ganara",
-   "usdc": 179762,
-   "prob": 25.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "14:13"
   }
  ],
  "stats_gt": {
