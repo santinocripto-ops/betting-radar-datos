@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T02:59:24.786239+00:00",
+ "actualizado": "2026-09-22T03:06:32.516407+00:00",
  "partidos_vivo": [
   {
    "home": "Santos Laguna W",
@@ -127,7 +127,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1536
+   "n_historico": 1537
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1564
+   "n_historico": 1566
   }
  ],
  "gol_temprano": [
@@ -152,23 +152,23 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-22",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54421.0,
-  "balance_total": 44421.0,
-  "balance_dia": 0.0,
+  "capital": 54221.0,
+  "balance_total": 44221.0,
+  "balance_dia": -200.0,
   "ganados": 3173,
-  "perdidos": 1415,
-  "pendientes": 4,
+  "perdidos": 1417,
+  "pendientes": 2,
   "ganados_dia": 0,
-  "perdidos_dia": 0,
-  "win_rate": 69.2,
-  "roi": 9.7,
+  "perdidos_dia": 2,
+  "win_rate": 69.1,
+  "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -191,7 +191,7 @@
     "away": "Real Tomayapo",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -218,7 +218,7 @@
     "away": "Cariari Pococi",
     "liga": "Liga de Ascenso",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -319,7 +319,7 @@
     "away": "Real Tomayapo",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -433,8 +433,8 @@
    }
   ],
   "balance": {
-   "ganados": 1902,
-   "perdidos": 1198,
+   "ganados": 1904,
+   "perdidos": 1199,
    "acierto": 61.4,
    "yield": 16.6,
    "cuota_media": 1.9
@@ -446,7 +446,7 @@
    "away": "Envigado",
    "liga": "Primera B",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -736,15 +736,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3266,
+  "n": 3267,
   "ganados": 2195,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 2,
+  "perdidos": 2,
+  "en_juego": 0,
   "win_rate": 0
  },
  "stats_banker": {
