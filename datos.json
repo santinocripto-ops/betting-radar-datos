@@ -1,9 +1,33 @@
 {
- "actualizado": "2026-09-22T18:56:08.348894+00:00",
+ "actualizado": "2026-09-22T18:56:50.206944+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -50,30 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "03:40",
    "tipo": "live"
   }
  ],
@@ -125,6 +125,50 @@
  ],
  "gol_temprano": [
   {
+   "home": "Stratford Town",
+   "away": "Bromsgrove Sporting",
+   "liga": "Non League Premier - Southern Central",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
+   "home": "Queen of the South",
+   "away": "Annan Athletic",
+   "liga": "Challenge Cup",
+   "minuto": 11,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
+   "home": "Gala Fairydean Rovers",
+   "away": "Spartans",
+   "liga": "Challenge Cup",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
+   "home": "Forfar Athletic",
+   "away": "Peterhead",
+   "liga": "Challenge Cup",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
    "home": "Peterborough",
    "away": "Colchester",
    "liga": "EFL Trophy",
@@ -140,50 +184,6 @@
    "away": "DVS 33 Ermelo",
    "liga": "KNVB Beker",
    "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22",
-   "es_hoy": true
-  },
-  {
-   "home": "Milton Keynes Dons",
-   "away": "Crawley Town",
-   "liga": "EFL Trophy",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22",
-   "es_hoy": true
-  },
-  {
-   "home": "Cheltenham",
-   "away": "Exeter City",
-   "liga": "EFL Trophy",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22",
-   "es_hoy": true
-  },
-  {
-   "home": "Burton Albion",
-   "away": "Nottingham Forest U21",
-   "liga": "EFL Trophy",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22",
-   "es_hoy": true
-  },
-  {
-   "home": "Tranmere",
-   "away": "Shrewsbury",
-   "liga": "EFL Trophy",
-   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -798,7 +798,7 @@
   "n": 3269,
   "ganados": 2197,
   "win_rate": 67,
-  "hoy": 12
+  "hoy": 16
  },
  "stats_dia": {
   "ganados": 2,
