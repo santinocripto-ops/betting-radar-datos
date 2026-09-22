@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-22T13:52:01.053018+00:00",
- "partidos_vivo": [
-  {
-   "home": "Charlton Athletic U21",
-   "away": "Sheffield United U21",
-   "liga": "Professional Development League",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.6,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.43 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  }
- ],
+ "actualizado": "2026-09-22T13:59:06.209235+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
