@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T10:02:57.494590+00:00",
+ "actualizado": "2026-09-22T10:03:16.992572+00:00",
  "partidos_vivo": [
   {
    "home": "RTC",
@@ -678,7 +678,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.33,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
