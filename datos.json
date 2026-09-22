@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T12:21:09.893084+00:00",
+ "actualizado": "2026-09-22T12:28:10.365793+00:00",
  "partidos_vivo": [
   {
    "home": "FarDu",
@@ -186,7 +186,7 @@
   "balance_dia": -200.0,
   "ganados": 3173,
   "perdidos": 1417,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -194,7 +194,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4593,
+  "con_cuota_media": 4594,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -791,7 +791,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 0
  },
  "stats_banker": {
