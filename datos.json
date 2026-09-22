@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T18:00:39.063751+00:00",
+ "actualizado": "2026-09-22T18:07:43.621969+00:00",
  "partidos_vivo": [
   {
    "home": "Bayern Munich W",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1574
+   "n_historico": 1575
   }
  ],
  "gol_temprano": [
@@ -466,7 +466,7 @@
    }
   ],
   "balance": {
-   "ganados": 1917,
+   "ganados": 1918,
    "perdidos": 1201,
    "acierto": 61.5,
    "yield": 16.8,
