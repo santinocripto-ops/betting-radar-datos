@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T00:00:22.446089+00:00",
+ "actualizado": "2026-09-22T00:07:46.587047+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -94,7 +94,7 @@
    "hora": "00:00",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1534
+   "n_historico": 1535
   },
   {
    "clave": "btts",
@@ -108,7 +108,7 @@
    "hora": "00:00",
    "resultado": "pendiente",
    "wr_historico": 59,
-   "n_historico": 1562
+   "n_historico": 1563
   }
  ],
  "gol_temprano": [
@@ -455,7 +455,7 @@
    }
   ],
   "balance": {
-   "ganados": 1898,
+   "ganados": 1900,
    "perdidos": 1198,
    "acierto": 61.3,
    "yield": 16.5,
