@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-09-22T15:55:38.901612+00:00",
+ "actualizado": "2026-09-22T16:03:41.780547+00:00",
  "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -106,7 +106,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1542
+   "n_historico": 1544
   },
   {
    "clave": "btts",
@@ -120,7 +120,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1571
+   "n_historico": 1573
   }
  ],
  "gol_temprano": [
@@ -201,7 +201,7 @@
     "away": "Pyunik II",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -210,7 +210,7 @@
     "away": "Mika",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -329,7 +329,7 @@
     "away": "Pyunik II",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -338,7 +338,7 @@
     "away": "Mika",
     "liga": "First League",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -434,10 +434,10 @@
    }
   ],
   "balance": {
-   "ganados": 1913,
+   "ganados": 1917,
    "perdidos": 1200,
    "acierto": 61.5,
-   "yield": 16.8,
+   "yield": 16.9,
    "cuota_media": 1.9
   }
  },
@@ -689,6 +689,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Ankara: Katarina Kuzmova vs Cagla Buyukakcay",
+   "apuesta": "SI, Ankara: Katarina Kuzmova ganara",
+   "usdc": 24021,
+   "prob": 63.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "18:02"
+  },
+  {
    "titulo": "Tolentino: Barbora Palicova vs Alicia Herrero Linana",
    "apuesta": "SI, Tolentino: Barbora Palicova ganara",
    "usdc": 94986,
@@ -750,15 +759,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "13:30"
-  },
-  {
-   "titulo": "Tolentino: Lisa Zaar vs Rebeka Masarova",
-   "apuesta": "SI, Tolentino: Lisa Zaar ganara",
-   "usdc": 107666,
-   "prob": 10.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "13:00"
   }
  ],
  "stats_gt": {
