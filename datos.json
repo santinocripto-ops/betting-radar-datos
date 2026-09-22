@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T12:13:41.778789+00:00",
+ "actualizado": "2026-09-22T12:21:09.893084+00:00",
  "partidos_vivo": [
   {
    "home": "FarDu",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:21",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Charlton Athletic U21",
+   "away": "Sheffield United U21",
+   "liga": "Professional Development League",
+   "minuto": 18,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
    "home": "Wigan Athletic U21",
    "away": "Coventry City U21",
    "liga": "Professional Development League",
@@ -175,7 +186,7 @@
   "balance_dia": -200.0,
   "ganados": 3173,
   "perdidos": 1417,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -183,7 +194,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4592,
+  "con_cuota_media": 4593,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -699,6 +710,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Ankara: Fiona Crawley vs Carole Monnet",
+   "apuesta": "SI, Ankara: Fiona Crawley ganara",
+   "usdc": 18058,
+   "prob": 41.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:20"
+  },
+  {
    "titulo": "Counter-Strike: B8 vs Luminosity (BO3) - Logitech G Play Connect Playo",
    "apuesta": "SI, Counter-Strike: B8 ganara",
    "usdc": 133000,
@@ -760,27 +780,18 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "12:10"
-  },
-  {
-   "titulo": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
-   "apuesta": "SI, Chengdu Open, Qualification: Luca Castelnuovo ganara",
-   "usdc": 89338,
-   "prob": 37.0,
-   "n_traders": 2,
-   "trader": "0x076daa87c4fe1a85402a",
-   "hora": "12:10"
   }
  ],
  "stats_gt": {
   "n": 3267,
   "ganados": 2195,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 0,
   "perdidos": 2,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
