@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T12:49:08.281487+00:00",
+ "actualizado": "2026-09-22T12:56:25.014474+00:00",
  "partidos_vivo": [
   {
    "home": "FarDu",
@@ -710,6 +710,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Porto: Mina Hodzic vs Elena Malygina",
+   "apuesta": "SI, Porto: Mina Hodzic ganara",
+   "usdc": 140868,
+   "prob": 6.8,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:56"
+  },
+  {
    "titulo": "Ankara: Fiona Crawley vs Carole Monnet",
    "apuesta": "SI, Ankara: Fiona Crawley ganara",
    "usdc": 18058,
@@ -771,15 +780,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:17"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
-   "usdc": 115734,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "12:10"
   }
  ],
  "stats_gt": {
