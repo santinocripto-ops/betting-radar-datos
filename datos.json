@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T10:52:56.333643+00:00",
+ "actualizado": "2026-09-22T11:00:00.191059+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -667,6 +667,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Tolentino: Lisa Zaar vs Rebeka Masarova",
+   "apuesta": "SI, Tolentino: Lisa Zaar ganara",
+   "usdc": 107666,
+   "prob": 10.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "13:00"
+  },
+  {
    "titulo": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
    "apuesta": "SI, Chengdu Open, Qualification: Shintaro Mochizuki ganara",
    "usdc": 20476,
@@ -728,15 +737,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "04:52"
-  },
-  {
-   "titulo": "San Diego 2: Braden Shick vs Patrick Maloney",
-   "apuesta": "SI, San Diego 2: Braden Shick ganara",
-   "usdc": 20412,
-   "prob": 59.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:23"
   }
  ],
  "stats_gt": {
