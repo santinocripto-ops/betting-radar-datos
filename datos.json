@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-22T12:56:25.014474+00:00",
+ "actualizado": "2026-09-22T13:03:57.094852+00:00",
  "partidos_vivo": [
   {
-   "home": "FarDu",
-   "away": "BuxDu",
-   "liga": "Pro League A",
-   "minuto": 47,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Wigan Athletic U21",
+   "away": "Coventry City U21",
+   "liga": "Professional Development League",
+   "minuto": 46,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ Liga muy goleadora: 4.43 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
@@ -377,7 +377,7 @@
     "away": "Chattogram",
     "liga": "Federation Cup",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
