@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T07:01:11.811567+00:00",
+ "actualizado": "2026-09-22T07:08:10.978047+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -660,6 +660,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Korea Open: Emerson Jones vs Yexin Ma",
+   "apuesta": "SI, Korea Open: Emerson Jones ganara",
+   "usdc": 25391,
+   "prob": 46.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "09:07"
+  },
   {
    "titulo": "Korea Open: Anna Bondar vs Renata Zarazua",
    "apuesta": "SI, Korea Open: Anna Bondar ganara",
