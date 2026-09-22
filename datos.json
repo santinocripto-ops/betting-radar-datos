@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-22T17:19:14.991568+00:00",
+ "actualizado": "2026-09-22T17:26:00.639732+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "19:25",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚽ Oţelul vs Corvinul Hunedoara · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "16:07",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +124,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Muaither SC",
+   "away": "Al-Khor",
+   "liga": "QSL Cup",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
   {
    "home": "Charlton Athletic U21",
    "away": "Sheffield United U21",
@@ -765,7 +776,7 @@
   "n": 3269,
   "ganados": 2197,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 2,
