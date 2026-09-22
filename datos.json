@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T04:59:20.213711+00:00",
+ "actualizado": "2026-09-22T05:06:11.814999+00:00",
  "partidos_vivo": [
   {
    "home": "Reboceros La Piedad",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1567
+   "n_historico": 1568
   }
  ],
  "gol_temprano": [
@@ -434,7 +434,7 @@
   ],
   "balance": {
    "ganados": 1906,
-   "perdidos": 1199,
+   "perdidos": 1200,
    "acierto": 61.4,
    "yield": 16.6,
    "cuota_media": 1.9
