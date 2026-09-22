@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T10:10:26.087851+00:00",
+ "actualizado": "2026-09-22T10:17:54.501211+00:00",
  "partidos_vivo": [
   {
    "home": "RTC",
@@ -688,6 +688,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Chengdu Open, Qualification: Shintaro Mochizuki vs Linang Xiao",
+   "apuesta": "SI, Chengdu Open, Qualification: Shintaro Mochizuki ganara",
+   "usdc": 20476,
+   "prob": 71.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:17"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
    "usdc": 115734,
@@ -749,15 +758,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "00:23"
-  },
-  {
-   "titulo": "Tolentino: Laura Samson vs Noemi Basiletti",
-   "apuesta": "SI, Tolentino: Laura Samson ganara",
-   "usdc": 16432,
-   "prob": 5.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "22:42"
   }
  ],
  "stats_gt": {
