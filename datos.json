@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-22T11:00:16.438427+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-22T11:07:45.754104+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Korea Republic U23",
+   "away": "Saudi Arabia U23",
+   "liga": "Asian Games",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -106,7 +127,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1538
+   "n_historico": 1539
   },
   {
    "clave": "btts",
@@ -120,7 +141,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1568
+   "n_historico": 1569
   }
  ],
  "gol_temprano": [
@@ -206,7 +227,7 @@
     "away": "Tsirang",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -325,7 +346,7 @@
     "away": "Tsirang",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -412,7 +433,7 @@
    }
   ],
   "balance": {
-   "ganados": 1906,
+   "ganados": 1908,
    "perdidos": 1200,
    "acierto": 61.4,
    "yield": 16.6,
