@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T17:39:27.527791+00:00",
+ "actualizado": "2026-09-22T17:46:36.284667+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -700,6 +700,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Porto: Erika Andreeva vs Reese Brantmeier",
+   "apuesta": "SI, Porto: Erika Andreeva ganara",
+   "usdc": 132501,
+   "prob": 26.9,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "19:46"
+  },
+  {
    "titulo": "Ankara: Katarina Kuzmova vs Cagla Buyukakcay",
    "apuesta": "SI, Ankara: Katarina Kuzmova ganara",
    "usdc": 24021,
@@ -760,15 +769,6 @@
    "prob": 100.0,
    "n_traders": 2,
    "trader": "0x076daa87c4fe1a85402a",
-   "hora": "13:30"
-  },
-  {
-   "titulo": "Ankara: Elena Pridankina vs Daria Egorova",
-   "apuesta": "SI, Ankara: Elena Pridankina ganara",
-   "usdc": 90206,
-   "prob": 10.5,
-   "n_traders": 3,
-   "trader": "RN1",
    "hora": "13:30"
   }
  ],
