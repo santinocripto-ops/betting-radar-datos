@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T05:12:59.817801+00:00",
+ "actualizado": "2026-09-22T05:19:47.708351+00:00",
  "partidos_vivo": [
   {
    "home": "Reboceros La Piedad",
@@ -681,6 +681,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Korea Open: So-Hyun Park vs Robin Montgomery",
+   "apuesta": "SI, Korea Open: So-Hyun Park ganara",
+   "usdc": 19305,
+   "prob": 93.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "07:19"
+  },
   {
    "titulo": "M25 Yinchuan: Reiya Komagata vs Ryoma Cogan",
    "apuesta": "SI, M25 Yinchuan: Reiya Komagata ganara",
