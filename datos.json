@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T19:58:19.058473+00:00",
+ "actualizado": "2026-09-22T20:05:33.473244+00:00",
  "partidos_vivo": [
   {
    "home": "Forfar Athletic",
@@ -347,7 +347,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1544
+   "n_historico": 1545
   },
   {
    "clave": "btts",
@@ -361,7 +361,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1576
+   "n_historico": 1577
   }
  ],
  "gol_temprano": [
@@ -416,7 +416,7 @@
    "minuto": 22,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
@@ -427,22 +427,22 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-22",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54343.0,
-  "balance_total": 44343.0,
-  "balance_dia": -78.0,
-  "ganados": 3175,
-  "perdidos": 1417,
-  "pendientes": 19,
-  "ganados_dia": 2,
-  "perdidos_dia": 2,
-  "win_rate": 69.1,
+  "capital": 54593.0,
+  "balance_total": 44593.0,
+  "balance_dia": 172.0,
+  "ganados": 3181,
+  "perdidos": 1418,
+  "pendientes": 12,
+  "ganados_dia": 8,
+  "perdidos_dia": 3,
+  "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -708,10 +708,10 @@
    }
   ],
   "balance": {
-   "ganados": 1919,
-   "perdidos": 1201,
+   "ganados": 1920,
+   "perdidos": 1202,
    "acierto": 61.5,
-   "yield": 16.9,
+   "yield": 16.8,
    "cuota_media": 1.9
   }
  },
@@ -742,7 +742,7 @@
    "away": "Shrewsbury",
    "liga": "EFL Trophy",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -1065,16 +1065,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3269,
-  "ganados": 2197,
+  "n": 3275,
+  "ganados": 2202,
   "win_rate": 67,
   "hoy": 16
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 2,
-  "en_juego": 17,
-  "win_rate": 50
+  "ganados": 8,
+  "perdidos": 3,
+  "en_juego": 10,
+  "win_rate": 73
  },
  "stats_banker": {
   "ganados": 108,
