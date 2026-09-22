@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T18:07:43.621969+00:00",
+ "actualizado": "2026-09-22T18:15:47.771368+00:00",
  "partidos_vivo": [
   {
    "home": "Bayern Munich W",
@@ -25,6 +25,48 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -54,48 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "02:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "23:02",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Petrolul Ploiesti vs Csikszereda · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.21 (7 casas)",
-   "hora": "16:07",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Oţelul vs Corvinul Hunedoara · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
-   "hora": "16:07",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -146,46 +146,68 @@
  ],
  "gol_temprano": [
   {
-   "home": "Muaither SC",
-   "away": "Al-Khor",
-   "liga": "QSL Cup",
-   "minuto": 10,
-   "score": 9.5,
+   "home": "GVVV Veenendaal",
+   "away": "DVS 33 Ermelo",
+   "liga": "KNVB Beker",
+   "minuto": 13,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
   {
-   "home": "Charlton Athletic U21",
-   "away": "Sheffield United U21",
-   "liga": "Professional Development League",
-   "minuto": 18,
+   "home": "Milton Keynes Dons",
+   "away": "Crawley Town",
+   "liga": "EFL Trophy",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
+   "resultado": "pendiente",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
   {
-   "home": "Wigan Athletic U21",
-   "away": "Coventry City U21",
-   "liga": "Professional Development League",
-   "minuto": 10,
+   "home": "Cheltenham",
+   "away": "Exeter City",
+   "liga": "EFL Trophy",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
+   "resultado": "pendiente",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
   {
-   "home": "Real Cartagena",
-   "away": "Envigado",
-   "liga": "Primera B",
-   "minuto": 10,
+   "home": "Burton Albion",
+   "away": "Nottingham Forest U21",
+   "liga": "EFL Trophy",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "perdido",
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
+   "home": "Tranmere",
+   "away": "Shrewsbury",
+   "liga": "EFL Trophy",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
+  {
+   "home": "York",
+   "away": "Rotherham",
+   "liga": "EFL Trophy",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
    "fecha": "2026-09-22",
    "es_hoy": true
   }
@@ -797,7 +819,7 @@
   "n": 3269,
   "ganados": 2197,
   "win_rate": 67,
-  "hoy": 4
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 2,
