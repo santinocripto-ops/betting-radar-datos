@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T13:59:06.209235+00:00",
+ "actualizado": "2026-09-22T14:06:43.527805+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -106,7 +106,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1539
+   "n_historico": 1542
   },
   {
    "clave": "btts",
@@ -120,7 +120,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1569
+   "n_historico": 1571
   }
  ],
  "gol_temprano": [
@@ -131,7 +131,7 @@
    "minuto": 18,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
@@ -142,7 +142,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-22",
    "es_hoy": true
   },
@@ -160,16 +160,16 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54221.0,
-  "balance_total": 44221.0,
-  "balance_dia": -200.0,
-  "ganados": 3173,
+  "capital": 54343.0,
+  "balance_total": 44343.0,
+  "balance_dia": -78.0,
+  "ganados": 3175,
   "perdidos": 1417,
-  "pendientes": 4,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 2,
   "perdidos_dia": 2,
   "win_rate": 69.1,
-  "roi": 9.6,
+  "roi": 9.7,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -246,7 +246,7 @@
     "away": "Sheffield United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -255,7 +255,7 @@
     "away": "Coventry City U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -374,7 +374,7 @@
     "away": "Sheffield United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -383,7 +383,7 @@
     "away": "Coventry City U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -434,10 +434,10 @@
    }
   ],
   "balance": {
-   "ganados": 1908,
+   "ganados": 1913,
    "perdidos": 1200,
-   "acierto": 61.4,
-   "yield": 16.6,
+   "acierto": 61.5,
+   "yield": 16.8,
    "cuota_media": 1.9
   }
  },
@@ -762,16 +762,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3267,
-  "ganados": 2195,
+  "n": 3269,
+  "ganados": 2197,
   "win_rate": 67,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 2,
   "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 108,
