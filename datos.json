@@ -1,248 +1,28 @@
 {
- "actualizado": "2026-09-22T20:18:49.411066+00:00",
+ "actualizado": "2026-09-22T20:25:32.955411+00:00",
  "partidos_vivo": [
   {
-   "home": "Forfar Athletic",
-   "away": "Peterhead",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Gala Fairydean Rovers",
-   "away": "Spartans",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Alloa Athletic",
-   "away": "Hibernian U21",
-   "liga": "Challenge Cup",
-   "minuto": 54,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Banks O' Dee",
-   "away": "Aberdeen U21",
-   "liga": "Challenge Cup",
-   "minuto": 53,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Bonnyrigg Rose Athletic",
-   "away": "Airdrie United",
-   "liga": "Challenge Cup",
-   "minuto": 52,
-   "marcador": "1-4",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Clachnacuddin",
-   "away": "Ross County",
-   "liga": "Challenge Cup",
-   "minuto": 52,
+   "home": "Juventus W",
+   "away": "SL Benfica W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 65,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 55,
+   "momentum_away": 45,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Clyde",
-   "away": "Rangers U21",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Clydebank",
-   "away": "St. Mirren U21",
-   "liga": "Challenge Cup",
-   "minuto": 53,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Clydebank buscará el empate"
-   ]
-  },
-  {
-   "home": "Dumbarton",
-   "away": "Kilmarnock II",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dumbarton buscará el empate"
-   ]
-  },
-  {
-   "home": "East Kilbride",
-   "away": "Celtic II",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Edinburgh City",
-   "away": "Dundee United II",
-   "liga": "Challenge Cup",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Dundee United II buscará el empate"
-   ]
-  },
-  {
-   "home": "Elgin City",
-   "away": "Dundee II",
-   "liga": "Challenge Cup",
-   "minuto": 51,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.92 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Juventus W pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 32,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
