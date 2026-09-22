@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-22T02:26:24.986964+00:00",
+ "actualizado": "2026-09-22T02:33:22.354333+00:00",
  "partidos_vivo": [
   {
-   "home": "UMECIT",
-   "away": "Union Cocle",
-   "liga": "Liga Panameña de Fútbol",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Santos Laguna W",
+   "away": "Cruz Azul W",
+   "liga": "Liga MX Femenil",
+   "minuto": 62,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
