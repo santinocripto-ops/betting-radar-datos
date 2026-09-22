@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T04:00:07.728757+00:00",
+ "actualizado": "2026-09-22T04:07:02.543598+00:00",
  "partidos_vivo": [
   {
    "home": "Reboceros La Piedad",
@@ -127,7 +127,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1537
+   "n_historico": 1538
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1566
+   "n_historico": 1567
   }
  ],
  "gol_temprano": [
@@ -236,7 +236,7 @@
     "away": "Irapuato",
     "liga": "Primera Premier",
     "hora": "04:05",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -364,7 +364,7 @@
     "away": "Irapuato",
     "liga": "Primera Premier",
     "hora": "04:05",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -433,7 +433,7 @@
    }
   ],
   "balance": {
-   "ganados": 1904,
+   "ganados": 1906,
    "perdidos": 1199,
    "acierto": 61.4,
    "yield": 16.6,
