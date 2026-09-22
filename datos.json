@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T18:15:47.771368+00:00",
+ "actualizado": "2026-09-22T18:22:46.651374+00:00",
  "partidos_vivo": [
   {
    "home": "Bayern Munich W",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:22",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "03:40",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "02:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Peterborough",
+   "away": "Colchester",
+   "liga": "EFL Trophy",
+   "minuto": 22,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22",
+   "es_hoy": true
+  },
   {
    "home": "GVVV Veenendaal",
    "away": "DVS 33 Ermelo",
@@ -199,17 +210,6 @@
    "resultado": "pendiente",
    "fecha": "2026-09-22",
    "es_hoy": true
-  },
-  {
-   "home": "York",
-   "away": "Rotherham",
-   "liga": "EFL Trophy",
-   "minuto": 15,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -219,7 +219,7 @@
   "balance_dia": -78.0,
   "ganados": 3175,
   "perdidos": 1417,
-  "pendientes": 3,
+  "pendientes": 10,
   "ganados_dia": 2,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4595,
+  "con_cuota_media": 4602,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -819,12 +819,12 @@
   "n": 3269,
   "ganados": 2197,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 1,
+  "en_juego": 8,
   "win_rate": 50
  },
  "stats_banker": {
