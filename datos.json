@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-22T01:08:08.226205+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-22T01:14:46.464540+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Toluca W",
+   "away": "Tigres UANL W",
+   "liga": "Liga MX Femenil",
+   "minuto": 50,
+   "marcador": "1-5",
+   "apuesta": "Over 6.5",
+   "cuota": null,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
