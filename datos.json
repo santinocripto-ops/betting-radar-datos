@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T10:03:16.992572+00:00",
+ "actualizado": "2026-09-22T10:10:26.087851+00:00",
  "partidos_vivo": [
   {
    "home": "RTC",
@@ -688,6 +688,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
+   "usdc": 115734,
+   "prob": 47.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "12:10"
+  },
+  {
+   "titulo": "Chengdu Open, Qualification: Luca Castelnuovo vs Pavel Kotov",
+   "apuesta": "SI, Chengdu Open, Qualification: Luca Castelnuovo ganara",
+   "usdc": 89338,
+   "prob": 37.0,
+   "n_traders": 2,
+   "trader": "0x076daa87c4fe1a85402a",
+   "hora": "12:10"
+  },
+  {
    "titulo": "Korea Open: Emerson Jones vs Yexin Ma",
    "apuesta": "SI, Korea Open: Emerson Jones ganara",
    "usdc": 25391,
@@ -740,24 +758,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "22:42"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
-   "apuesta": "NO — Will the Fed increase interest rates by 25 bps after the Oct",
-   "usdc": 97053,
-   "prob": 51.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xf",
-   "hora": "17:48"
-  },
-  {
-   "titulo": "Counter-Strike: Astralis vs Sangal (BO3) - Stake Pulse Beat II Group A",
-   "apuesta": "SI, ganara",
-   "usdc": 89267,
-   "prob": 79.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "11:08"
   }
  ],
  "stats_gt": {
