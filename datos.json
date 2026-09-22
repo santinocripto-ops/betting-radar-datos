@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-22T09:55:46.036791+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-22T10:02:57.494590+00:00",
+ "partidos_vivo": [
+  {
+   "home": "RTC",
+   "away": "Tsirang",
+   "liga": "Premier League",
+   "minuto": 46,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.21 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
