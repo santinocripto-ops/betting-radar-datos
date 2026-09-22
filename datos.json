@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T21:05:18.495454+00:00",
+ "actualizado": "2026-09-22T21:18:07.740428+00:00",
  "partidos_vivo": [
   {
    "home": "Juventus W",
@@ -99,7 +99,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Criciuma",
+   "away": "Operario-PR",
+   "liga": "Serie B",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.22,
+   "resultado": "pendiente",
+   "fecha": "2026-09-22"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -853,13 +863,13 @@
  "stats_dia": {
   "ganados": 13,
   "perdidos": 8,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 62
  },
  "stats_banker": {
   "ganados": 108,
   "perdidos": 40,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
