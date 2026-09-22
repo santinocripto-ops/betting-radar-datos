@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-22T11:23:01.334065+00:00",
+ "actualizado": "2026-09-22T11:30:16.707849+00:00",
  "partidos_vivo": [
   {
    "home": "Korea Republic U23",
@@ -688,6 +688,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Hangzhou Open, Qualification: Fajing Sun vs Matthew Dellavedova",
+   "apuesta": "SI, Hangzhou Open, Qualification: Fajing Sun ganara",
+   "usdc": 200695,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "0x076daa87c4fe1a85402a",
+   "hora": "13:30"
+  },
+  {
+   "titulo": "Ankara: Elena Pridankina vs Daria Egorova",
+   "apuesta": "SI, Ankara: Elena Pridankina ganara",
+   "usdc": 90206,
+   "prob": 10.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "13:30"
+  },
+  {
    "titulo": "Tolentino: Lisa Zaar vs Rebeka Masarova",
    "apuesta": "SI, Tolentino: Lisa Zaar ganara",
    "usdc": 107666,
@@ -740,24 +758,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "08:14"
-  },
-  {
-   "titulo": "Korea Open: So-Hyun Park vs Robin Montgomery",
-   "apuesta": "SI, Korea Open: So-Hyun Park ganara",
-   "usdc": 19305,
-   "prob": 93.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "07:19"
-  },
-  {
-   "titulo": "M25 Yinchuan: Reiya Komagata vs Ryoma Cogan",
-   "apuesta": "SI, M25 Yinchuan: Reiya Komagata ganara",
-   "usdc": 22839,
-   "prob": 73.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "04:52"
   }
  ],
  "stats_gt": {
