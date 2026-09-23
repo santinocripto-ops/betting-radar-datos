@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-23T01:57:44.813019+00:00",
+ "actualizado": "2026-09-23T02:03:37.711656+00:00",
  "partidos_vivo": [
   {
    "home": "A. Italiano",
@@ -172,7 +172,7 @@
    "minuto": 12,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-22",
    "es_hoy": false
   },
@@ -234,14 +234,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54427.0,
-  "balance_total": 44427.0,
-  "balance_dia": 61.0,
+  "capital": 54227.0,
+  "balance_total": 44227.0,
+  "balance_dia": -139.0,
   "ganados": 3187,
-  "perdidos": 1423,
-  "pendientes": 4,
+  "perdidos": 1425,
+  "pendientes": 2,
   "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "perdidos_dia": 2,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -521,7 +521,7 @@
    "away": "Colo Colo",
    "liga": "Copa Chile",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -838,16 +838,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3283,
+  "n": 3284,
   "ganados": 2206,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
   "ganados": 1,
-  "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 100
+  "perdidos": 2,
+  "en_juego": 0,
+  "win_rate": 33
  },
  "stats_banker": {
   "ganados": 108,
