@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-23T00:55:40.168973+00:00",
+ "actualizado": "2026-09-23T01:02:19.458060+00:00",
  "partidos_vivo": [
   {
    "home": "A. Italiano",
@@ -119,17 +119,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Criciuma",
-   "away": "Operario-PR",
-   "liga": "Serie B",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.22,
-   "resultado": "pendiente",
-   "fecha": "2026-09-22"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -143,7 +133,7 @@
    "hora": "14:00",
    "resultado": "pendiente",
    "wr_historico": 84,
-   "n_historico": 327
+   "n_historico": 330
   },
   {
    "clave": "over25",
@@ -157,7 +147,7 @@
    "hora": "04:00",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1550
+   "n_historico": 1552
   },
   {
    "clave": "btts",
@@ -171,7 +161,7 @@
    "hora": "12:00",
    "resultado": "pendiente",
    "wr_historico": 59,
-   "n_historico": 1580
+   "n_historico": 1582
   }
  ],
  "gol_temprano": [
@@ -193,7 +183,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-22",
    "es_hoy": false
   },
@@ -244,13 +234,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54366.0,
-  "balance_total": 44366.0,
-  "balance_dia": 0.0,
-  "ganados": 3186,
+  "capital": 54427.0,
+  "balance_total": 44427.0,
+  "balance_dia": 61.0,
+  "ganados": 3187,
   "perdidos": 1423,
-  "pendientes": 5,
-  "ganados_dia": 0,
+  "pendientes": 4,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.6,
@@ -518,10 +508,10 @@
    }
   ],
   "balance": {
-   "ganados": 1927,
-   "perdidos": 1203,
+   "ganados": 1929,
+   "perdidos": 1205,
    "acierto": 61.6,
-   "yield": 17.0,
+   "yield": 16.9,
    "cuota_media": 1.9
   }
  },
@@ -848,22 +838,22 @@
   }
  ],
  "stats_gt": {
-  "n": 3282,
-  "ganados": 2205,
+  "n": 3283,
+  "ganados": 2206,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "en_juego": 2,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 108,
-  "perdidos": 40,
-  "pendientes": 1,
-  "win_rate": 73
+  "perdidos": 41,
+  "pendientes": 0,
+  "win_rate": 72
  },
  "marca": {
   "nombre": "Neural Trade IA",
