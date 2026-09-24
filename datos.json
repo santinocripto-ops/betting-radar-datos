@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T21:57:03.743875+00:00",
+ "actualizado": "2026-09-24T22:03:24.717729+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -81,14 +81,14 @@
   {
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
-   "confianza": null,
-   "home": null,
-   "away": null,
-   "liga": "",
-   "cuota": null,
-   "score": null,
-   "hora": "",
-   "resultado": null,
+   "confianza": "alta",
+   "home": "VfB Stuttgart",
+   "away": "1. FC Heidenheim",
+   "liga": "Friendlies Clubs",
+   "cuota": 1.1,
+   "score": 8.69,
+   "hora": "14:30",
+   "resultado": "pendiente",
    "wr_historico": 84,
    "n_historico": 340
   },
@@ -96,27 +96,27 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Myanmar",
-   "away": "Timor-Leste",
-   "liga": "FIFA Asean Cup",
-   "cuota": null,
+   "home": "South Korea W",
+   "away": "Uzbekistan W",
+   "liga": "Asian Games Women",
+   "cuota": 3.8,
    "score": 10,
-   "hora": "12:00",
-   "resultado": "perdido",
+   "hora": "10:30",
+   "resultado": "pendiente",
    "wr_historico": 65,
-   "n_historico": 1573
+   "n_historico": 1574
   },
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Teteks",
-   "away": "FK Rabotnicki",
-   "liga": "Second League",
-   "cuota": 1.7,
+   "home": "Wisła Kraków II",
+   "away": "Czarni Połaniec",
+   "liga": "III Liga - Group 4",
+   "cuota": 1.4,
    "score": 10,
-   "hora": "13:30",
-   "resultado": "perdido",
+   "hora": "11:00",
+   "resultado": "pendiente",
    "wr_historico": 59,
    "n_historico": 1608
   }
@@ -131,7 +131,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-24",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "China",
@@ -142,19 +142,63 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-24",
-   "es_hoy": true
+   "es_hoy": false
+  },
+  {
+   "home": "A. Italiano",
+   "away": "Colo Colo",
+   "liga": "Copa Chile",
+   "minuto": 12,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-22",
+   "es_hoy": false
+  },
+  {
+   "home": "Independiente Medellin",
+   "away": "Jaguares",
+   "liga": "Primera A",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "ganado",
+   "fecha": "2026-09-22",
+   "es_hoy": false
+  },
+  {
+   "home": "Stratford Town",
+   "away": "Bromsgrove Sporting",
+   "liga": "Non League Premier - Southern Central",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-22",
+   "es_hoy": false
+  },
+  {
+   "home": "Queen of the South",
+   "away": "Annan Athletic",
+   "liga": "Challenge Cup",
+   "minuto": 11,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "perdido",
+   "fecha": "2026-09-22",
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 54233.0,
   "balance_total": 44233.0,
-  "balance_dia": 6.0,
+  "balance_dia": 0.0,
   "ganados": 3189,
   "perdidos": 1426,
   "pendientes": 2,
-  "ganados_dia": 2,
-  "perdidos_dia": 1,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -166,73 +210,127 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Teteks",
-    "away": "FK Rabotnicki",
-    "liga": "Second League",
-    "hora": "15:30",
-    "resultado": "perdido",
+    "home": "Wisła Kraków II",
+    "away": "Czarni Połaniec",
+    "liga": "III Liga - Group 4",
+    "hora": "13:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Nacional Potosí",
+    "away": "Always Ready",
+    "liga": "Copa de la División Profesional",
+    "hora": "01:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Dinamo Barnaul",
+    "away": "Pobeda Nizhniy Novgorod",
+    "liga": "Second League - Group 4",
+    "hora": "11:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Alebrijes de Oaxaca",
+    "away": "CA La Paz",
+    "liga": "Liga de Expansión MX",
+    "hora": "03:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Racing Louisville W",
+    "away": "San Diego Wave W",
+    "liga": "NWSL Women",
+    "hora": "00:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Fakirerpool",
+    "away": "Mohammedan Dhaka",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Acatlan",
+    "away": "FC Santiago",
+    "liga": "Liga Premier Serie A",
+    "hora": "00:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Barnsley U21",
+    "away": "Sheffield United U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Podkonice",
-    "away": "Ružomberok II",
-    "liga": "3. liga - Center",
+    "home": "Slonim",
+    "away": "BATE II",
+    "liga": "1. Division",
     "hora": "15:30",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Koprivnica",
-    "away": "Uskok Klis",
-    "liga": "Second NL",
-    "hora": "17:00",
-    "resultado": "perdido",
+    "home": "Slovácko II",
+    "away": "Zbrojovka Brno II",
+    "liga": "3. liga - MSFL",
+    "hora": "15:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Kongahälla",
-    "away": "Lindome",
-    "liga": "Division 2 - Västra Götaland",
-    "hora": "20:15",
-    "resultado": "ganado",
+    "home": "Wisła Płock II",
+    "away": "Jagiellonia II",
+    "liga": "III Liga - Group 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Netherlands",
-    "away": "Germany",
-    "liga": "UEFA Nations League",
-    "hora": "20:45",
-    "resultado": "ganado",
+    "home": "Swit",
+    "away": "Łomża",
+    "liga": "III Liga - Group 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Norway",
-    "away": "Denmark",
-    "liga": "UEFA Nations League",
-    "hora": "20:45",
-    "resultado": "ganado",
+    "home": "Ząbkovia Ząbki",
+    "away": "Mławianka Mława",
+    "liga": "III Liga - Group 1",
+    "hora": "16:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Austria",
-    "away": "Israel",
-    "liga": "UEFA Nations League",
-    "hora": "20:45",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Everton de Vina",
-    "away": "Universidad de Chile",
-    "liga": "Copa Chile",
-    "hora": "01:30",
+    "home": "Timişul Şag",
+    "away": "Universitatea Alba Iulia",
+    "liga": "Liga III - Serie 7",
+    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
@@ -240,73 +338,127 @@
   ],
   "over25": [
    {
-    "home": "Myanmar",
-    "away": "Timor-Leste",
-    "liga": "FIFA Asean Cup",
+    "home": "South Korea W",
+    "away": "Uzbekistan W",
+    "liga": "Asian Games Women",
+    "hora": "12:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Nacional Potosí",
+    "away": "Always Ready",
+    "liga": "Copa de la División Profesional",
+    "hora": "01:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Fakirerpool",
+    "away": "Mohammedan Dhaka",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Abahani",
+    "away": "Chattogram",
+    "liga": "Federation Cup",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "China W",
+    "away": "Vietnam W",
+    "liga": "Asian Games Women",
+    "hora": "08:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Chattogram",
+    "away": "Bangladesh Police",
+    "liga": "Premier League",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Acatlan",
+    "away": "FC Santiago",
+    "liga": "Liga Premier Serie A",
+    "hora": "00:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Barnsley U21",
+    "away": "Sheffield United U21",
+    "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Podkonice",
-    "away": "Ružomberok II",
-    "liga": "3. liga - Center",
+    "home": "Slonim",
+    "away": "BATE II",
+    "liga": "1. Division",
     "hora": "15:30",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Neom SC W",
-    "away": "Al Ahli SC W",
-    "liga": "Premier League Women",
-    "hora": "19:15",
+    "home": "Slovácko II",
+    "away": "Zbrojovka Brno II",
+    "liga": "3. liga - MSFL",
+    "hora": "15:30",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Everton de Vina",
-    "away": "Universidad de Chile",
-    "liga": "Copa Chile",
-    "hora": "01:30",
+    "home": "Wisła Płock II",
+    "away": "Jagiellonia II",
+    "liga": "III Liga - Group 1",
+    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Picuiense",
-    "away": "Guarabira",
-    "liga": "Paraibano 2",
-    "hora": "00:30",
+    "home": "Ząbkovia Ząbki",
+    "away": "Mławianka Mława",
+    "liga": "III Liga - Group 1",
+    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Deportivo Recoleta",
-    "away": "Guairena FC",
-    "liga": "Copa Paraguay",
-    "hora": "23:30",
+    "home": "ARO Muscelul Câmpulung",
+    "away": "Carpati Covasna",
+    "liga": "Liga III - Serie 2",
+    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Santa Rita",
-    "away": "Serrano PB",
-    "liga": "Paraibano 2",
-    "hora": "00:30",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Ind. Juniors",
-    "away": "Cuniburo",
-    "liga": "Liga Pro Serie B",
-    "hora": "22:30",
+    "home": "Blejoi",
+    "away": "Berca",
+    "liga": "Liga III - Serie 3",
+    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
@@ -314,9 +466,9 @@
   ],
   "balance": {
    "ganados": 1958,
-   "perdidos": 1223,
-   "acierto": 61.6,
-   "yield": 17.0,
+   "perdidos": 1224,
+   "acierto": 61.5,
+   "yield": 16.9,
    "cuota_media": 1.9
   }
  },
@@ -558,13 +710,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "15:30",
-  "cuota": 1.7,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -635,13 +781,13 @@
   "n": 3286,
   "ganados": 2207,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 1,
-  "en_juego": 1,
-  "win_rate": 67
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 108,
