@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T11:14:19.727865+00:00",
+ "actualizado": "2026-09-24T11:21:09.579958+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -24,28 +24,28 @@
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": null,
-   "home": null,
-   "away": null,
-   "liga": "",
+   "confianza": "alta",
+   "home": "Myanmar",
+   "away": "Timor-Leste",
+   "liga": "FIFA Asean Cup",
    "cuota": null,
-   "score": null,
-   "hora": "",
-   "resultado": null,
+   "score": 10,
+   "hora": "12:00",
+   "resultado": "pendiente",
    "wr_historico": 65,
    "n_historico": 1563
   },
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
-   "confianza": null,
-   "home": null,
-   "away": null,
-   "liga": "",
-   "cuota": null,
-   "score": null,
-   "hora": "",
-   "resultado": null,
+   "confianza": "alta",
+   "home": "Teteks",
+   "away": "FK Rabotnicki",
+   "liga": "Second League",
+   "cuota": 1.7,
+   "score": 10,
+   "hora": "13:30",
+   "resultado": "pendiente",
    "wr_historico": 59,
    "n_historico": 1598
   }
@@ -531,7 +531,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "15:30",
+  "cuota": 1.7,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
