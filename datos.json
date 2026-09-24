@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T21:33:18.912302+00:00",
+ "actualizado": "2026-09-24T21:39:14.365580+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -561,6 +561,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "San Diego 2: Darwin Blanch vs Andres Andrade",
+   "apuesta": "SI, ganara",
+   "usdc": 15885,
+   "prob": 69.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "23:39"
+  },
   {
    "titulo": "Falcons vs. Packers: O/U 43.5",
    "apuesta": "SI, mas de 43.5 goles",
