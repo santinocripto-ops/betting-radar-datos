@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T18:04:49.415193+00:00",
+ "actualizado": "2026-09-24T18:10:31.123092+00:00",
  "partidos_vivo": [
   {
    "home": "Holon Yermiyahu",
@@ -336,6 +336,51 @@
     "ts": "2026-09-24T15:02:57.841958+00:00"
    },
    {
+    "home": "Liechtenstein",
+    "away": "Lithuania",
+    "liga": "UEFA Nations League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 1.04,
+    "pinnacle": true,
+    "delta": 2.88,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "ts": "2026-09-24T18:04:47.907748+00:00"
+   },
+   {
+    "home": "Norway",
+    "away": "Denmark",
+    "liga": "UEFA Nations League",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.27,
+    "pinnacle": true,
+    "delta": 7.63,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "ts": "2026-09-24T18:04:49.363662+00:00"
+   },
+   {
+    "home": "Norway",
+    "away": "Denmark",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.18,
+    "pinnacle": true,
+    "delta": 3.45,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "ts": "2026-09-24T18:04:49.620552+00:00"
+   },
+   {
     "home": "Central Espanol",
     "away": "Atletico Torque",
     "liga": "Primera División",
@@ -484,57 +529,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-19T17:30:00+00:00",
     "ts": "2026-09-19T17:08:29.975368+00:00"
-   },
-   {
-    "home": "Gimnasia L.P.",
-    "away": "Banfield",
-    "liga": "Liga Profesional Argentina",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.17,
-    "pinnacle": true,
-    "delta": 4.14,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T17:30:00+00:00",
-    "ts": "2026-09-19T17:08:31.173832+00:00"
-   },
-   {
-    "home": "Charleroi",
-    "away": "Cercle Brugge",
-    "liga": "Jupiler Pro League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.2,
-    "pinnacle": true,
-    "delta": 4.08,
-    "marcador": "3-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T16:15:00+00:00",
-    "ts": "2026-09-19T11:07:02.078193+00:00"
-   },
-   {
-    "home": "Sturm Graz II",
-    "away": "Wacker Innsbruck",
-    "liga": "2. Liga",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.62,
-    "pinnacle": true,
-    "delta": 5.58,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T13:30:00+00:00",
-    "ts": "2026-09-19T13:04:38.697620+00:00"
    }
   ],
   "balance": {
    "ganados": 314,
    "perdidos": 129,
-   "pendientes": 2,
+   "pendientes": 5,
    "acierto": 70.9,
    "total": 443
   }
