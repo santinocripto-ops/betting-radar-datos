@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T15:02:57.703776+00:00",
+ "actualizado": "2026-09-24T15:09:11.772747+00:00",
  "partidos_vivo": [
   {
    "home": "Mogila",
@@ -296,6 +296,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Portugal",
+    "away": "Wales",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 4,
+    "cuota": 1.14,
+    "pinnacle": true,
+    "delta": 3.33,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "ts": "2026-09-24T15:02:57.606911+00:00"
+   },
+   {
+    "home": "Portugal",
+    "away": "Wales",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 4,
+    "cuota": 1.14,
+    "pinnacle": false,
+    "delta": 3.51,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-24T18:45:00+00:00",
+    "ts": "2026-09-24T15:02:57.841958+00:00"
+   },
+   {
     "home": "Central Espanol",
     "away": "Atletico Torque",
     "liga": "Primera División",
@@ -489,42 +519,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-19T13:30:00+00:00",
     "ts": "2026-09-19T13:04:38.697620+00:00"
-   },
-   {
-    "home": "Cremonese",
-    "away": "Virtus Entella",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 8,
-    "cuota": 2.06,
-    "pinnacle": true,
-    "delta": 4.71,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T13:00:00+00:00",
-    "ts": "2026-09-19T11:07:11.628446+00:00"
-   },
-   {
-    "home": "Carrarese",
-    "away": "Benevento",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.4,
-    "pinnacle": true,
-    "delta": 3.32,
-    "marcador": "0-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-19T13:00:00+00:00",
-    "ts": "2026-09-19T11:07:12.150243+00:00"
    }
   ],
   "balance": {
    "ganados": 314,
    "perdidos": 129,
-   "pendientes": 0,
+   "pendientes": 2,
    "acierto": 70.9,
    "total": 443
   }
