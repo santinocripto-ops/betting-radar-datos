@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T13:57:37.543060+00:00",
+ "actualizado": "2026-09-24T14:03:43.624137+00:00",
  "partidos_vivo": [
   {
    "home": "Myanmar",
@@ -65,9 +65,9 @@
    "cuota": null,
    "score": 10,
    "hora": "12:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1572
+   "n_historico": 1573
   },
   {
    "clave": "btts",
@@ -92,21 +92,21 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-24",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54227.0,
-  "balance_total": 44227.0,
-  "balance_dia": 0.0,
-  "ganados": 3187,
-  "perdidos": 1425,
-  "pendientes": 4,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 54172.0,
+  "balance_total": 44172.0,
+  "balance_dia": -55.0,
+  "ganados": 3188,
+  "perdidos": 1426,
+  "pendientes": 2,
+  "ganados_dia": 1,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -196,7 +196,7 @@
     "away": "Timor-Leste",
     "liga": "FIFA Asean Cup",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -266,9 +266,9 @@
   ],
   "balance": {
    "ganados": 1954,
-   "perdidos": 1220,
-   "acierto": 61.6,
-   "yield": 17.0,
+   "perdidos": 1221,
+   "acierto": 61.5,
+   "yield": 16.9,
    "cuota_media": 1.9
   }
  },
@@ -278,7 +278,7 @@
    "away": "Maldives",
    "liga": "Friendlies",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -538,16 +538,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3284,
+  "n": 3285,
   "ganados": 2206,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "ganados": 1,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 108,
