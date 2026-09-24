@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T19:02:07.958104+00:00",
+ "actualizado": "2026-09-24T19:21:18.697606+00:00",
  "partidos_vivo": [
   {
    "home": "Belgium U21",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:21",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -115,6 +121,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Cameroon",
+   "away": "Comoros",
+   "liga": "Africa Cup of Nations - Qualification",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-24",
+   "es_hoy": true
+  },
   {
    "home": "China",
    "away": "Maldives",
@@ -550,6 +567,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
+   "usdc": 82859,
+   "prob": 66.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "21:20"
+  },
+  {
    "titulo": "Will Norway win on 2026-09-24?",
    "apuesta": "SI, Norway ganara",
    "usdc": 379594,
@@ -581,7 +607,7 @@
   "n": 3285,
   "ganados": 2206,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
