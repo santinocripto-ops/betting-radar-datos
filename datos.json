@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T16:57:07.583313+00:00",
+ "actualizado": "2026-09-24T17:02:51.833462+00:00",
  "partidos_vivo": [
   {
    "home": "Rivers United",
@@ -111,9 +111,9 @@
    "cuota": 1.7,
    "score": 10,
    "hora": "13:30",
-   "resultado": "pendiente",
-   "wr_historico": 59,
-   "n_historico": 1602
+   "resultado": "perdido",
+   "wr_historico": 58,
+   "n_historico": 1604
   }
  ],
  "gol_temprano": [
@@ -154,7 +154,7 @@
     "away": "FK Rabotnicki",
     "liga": "Second League",
     "hora": "15:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -172,7 +172,7 @@
     "away": "Uskok Klis",
     "liga": "Second NL",
     "hora": "17:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -298,7 +298,7 @@
   ],
   "balance": {
    "ganados": 1954,
-   "perdidos": 1221,
+   "perdidos": 1223,
    "acierto": 61.5,
    "yield": 16.9,
    "cuota_media": 1.9
