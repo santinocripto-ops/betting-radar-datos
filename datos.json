@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T20:37:16.763943+00:00",
+ "actualizado": "2026-09-24T20:43:00.573958+00:00",
  "partidos_vivo": [
   {
    "home": "Cameroon",
@@ -606,6 +606,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Germany win on 2026-09-24?",
+   "apuesta": "SI, Germany ganara",
+   "usdc": 19772,
+   "prob": 65.9,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "22:42"
+  },
   {
    "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
