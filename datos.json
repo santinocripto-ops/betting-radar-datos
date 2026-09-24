@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-09-24T10:27:54.625127+00:00",
- "partidos_vivo": [
-  {
-   "home": "Laos",
-   "away": "Brunei",
-   "liga": "FIFA Asean Cup",
-   "minuto": 49,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 11 remates totales",
-    "🎯 8 remates a puerta — peligro constante"
-   ]
-  },
-  {
-   "home": "Ugyen Academy",
-   "away": "Drukpa",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-24T10:34:52.366507+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
