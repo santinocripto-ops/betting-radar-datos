@@ -1,70 +1,15 @@
 {
- "actualizado": "2026-09-24T21:05:21.169817+00:00",
- "partidos_vivo": [
-  {
-   "home": "Cameroon",
-   "away": "Comoros",
-   "liga": "Africa Cup of Nations - Qualification",
-   "minuto": 62,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 83,
-   "momentum_away": 17,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 17 remates totales",
-    "🎯 5 remates a puerta"
-   ]
-  },
-  {
-   "home": "Puerto Rico",
-   "away": "Guyana",
-   "liga": "CONCACAF Nations League",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Ivory Coast",
-   "away": "Ghana",
-   "liga": "Africa Cup of Nations - Qualification",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.4,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Ghana pierde por 2 — atacará sin freno",
-    "🎯 16 remates totales"
-   ]
-  }
- ],
- "partidos_vivo_total": 7,
+ "actualizado": "2026-09-24T21:07:12.073284+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Mineros de Zacatecas vs Piratas · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
+   "hora": "23:07",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -156,8 +101,8 @@
    "score": 10,
    "hora": "13:30",
    "resultado": "perdido",
-   "wr_historico": 58,
-   "n_historico": 1604
+   "wr_historico": 59,
+   "n_historico": 1608
   }
  ],
  "gol_temprano": [
@@ -168,7 +113,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-24",
    "es_hoy": true
   },
@@ -186,13 +131,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54172.0,
-  "balance_total": 44172.0,
-  "balance_dia": -55.0,
-  "ganados": 3188,
+  "capital": 54233.0,
+  "balance_total": 44233.0,
+  "balance_dia": 6.0,
+  "ganados": 3189,
   "perdidos": 1426,
-  "pendientes": 3,
-  "ganados_dia": 1,
+  "pendientes": 2,
+  "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.6,
@@ -236,7 +181,7 @@
     "away": "Lindome",
     "liga": "Division 2 - Västra Götaland",
     "hora": "20:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -245,7 +190,7 @@
     "away": "Germany",
     "liga": "UEFA Nations League",
     "hora": "20:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -254,7 +199,7 @@
     "away": "Denmark",
     "liga": "UEFA Nations League",
     "hora": "20:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -263,7 +208,7 @@
     "away": "Israel",
     "liga": "UEFA Nations League",
     "hora": "20:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -352,10 +297,10 @@
    }
   ],
   "balance": {
-   "ganados": 1954,
+   "ganados": 1958,
    "perdidos": 1223,
-   "acierto": 61.5,
-   "yield": 16.9,
+   "acierto": 61.6,
+   "yield": 17.0,
    "cuota_media": 1.9
   }
  },
@@ -662,16 +607,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3285,
-  "ganados": 2206,
+  "n": 3286,
+  "ganados": 2207,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 1,
-  "en_juego": 1,
-  "win_rate": 50
+  "en_juego": 0,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 108,
