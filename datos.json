@@ -1,145 +1,51 @@
 {
- "actualizado": "2026-09-23T02:26:47.408977+00:00",
- "partidos_vivo": [
-  {
-   "home": "Santa Fe",
-   "away": "Deportivo Cali",
-   "liga": "Primera A",
-   "minuto": 51,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.4,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚽ 1 gol — Santa Fe buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  }
- ],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-24T09:50:59.955088+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 0,
  "umbral_vivo": 7.0,
- "alertas": [
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "02:37",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Criciuma vs Operario-PR · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.22",
-   "hora": "23:05",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:46",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:56",
-   "tipo": "live"
-  }
- ],
+ "alertas": [],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
-   "confianza": "alta",
-   "home": "Agricola Borcea",
-   "away": "Recolta Gheorghe Doja",
-   "liga": "Liga III - Serie 4",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
    "cuota": null,
-   "score": 8.13,
-   "hora": "14:00",
-   "resultado": "pendiente",
+   "score": null,
+   "hora": "",
+   "resultado": null,
    "wr_historico": 84,
    "n_historico": 330
   },
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
-   "confianza": "alta",
-   "home": "Vanuatu W",
-   "away": "New Caledonia W",
-   "liga": "Friendlies Women",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
    "cuota": null,
-   "score": 10,
-   "hora": "04:00",
-   "resultado": "pendiente",
+   "score": null,
+   "hora": "",
+   "resultado": null,
    "wr_historico": 64,
    "n_historico": 1552
   },
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
-   "confianza": "alta",
-   "home": "Bosnia-Herzegovina U17",
-   "away": "Greece U17",
-   "liga": "UEFA U17 Championship - Qualification",
+   "confianza": null,
+   "home": null,
+   "away": null,
+   "liga": "",
    "cuota": null,
-   "score": 10.0,
-   "hora": "12:00",
-   "resultado": "pendiente",
+   "score": null,
+   "hora": "",
+   "resultado": null,
    "wr_historico": 59,
    "n_historico": 1582
   }
@@ -216,12 +122,12 @@
   "capital_inicial": 10000.0,
   "capital": 54227.0,
   "balance_total": 44227.0,
-  "balance_dia": -139.0,
+  "balance_dia": 0.0,
   "ganados": 3187,
   "perdidos": 1425,
   "pendientes": 2,
-  "ganados_dia": 1,
-  "perdidos_dia": 2,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -231,262 +137,8 @@
   "pct_cuota_real": 0.0
  },
  "pagina2": {
-  "btts": [
-   {
-    "home": "Kashiwa Reysol",
-    "away": "Imabari",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Machida Zelvia",
-    "away": "Tochigi City",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Vanuatu W",
-    "away": "New Caledonia W",
-    "liga": "Friendlies Women",
-    "hora": "06:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Metalist 1925 W",
-    "away": "Torreense W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "12:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Kashima",
-    "away": "Ventforet Kofu",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Deportes Iquique",
-    "away": "Antofagasta",
-    "liga": "Copa Chile",
-    "hora": "01:30",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Japan U23",
-    "away": "Thailand U23",
-    "liga": "Asian Games",
-    "hora": "12:30",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Bosnia-Herzegovina U17",
-    "away": "Greece U17",
-    "liga": "UEFA U17 Championship - Qualification",
-    "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Thimphu City",
-    "away": "Transport United",
-    "liga": "Premier League",
-    "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Velež Nevesinje",
-    "away": "Zvijezda 09",
-    "liga": "1st League - RS",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Bradul Putna",
-    "away": "Paşcani",
-    "liga": "Liga III - Serie 1",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Odorheiu Secuiesc",
-    "away": "Aerostar Bacau",
-    "liga": "Liga III - Serie 1",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Săcele",
-    "away": "Valenii de Munte",
-    "liga": "Liga III - Serie 2",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Kids Tâmpa Braşov",
-    "away": "Olimpic Zărneşti",
-    "liga": "Liga III - Serie 2",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "BTTS",
-    "tanda": 2
-   }
-  ],
-  "over25": [
-   {
-    "home": "Vanuatu W",
-    "away": "New Caledonia W",
-    "liga": "Friendlies Women",
-    "hora": "06:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Fiji W",
-    "away": "Solomon Islands W",
-    "liga": "Friendlies Women",
-    "hora": "09:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Abahani",
-    "away": "Chattogram",
-    "liga": "Federation Cup",
-    "hora": "11:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Kashiwa Reysol",
-    "away": "Imabari",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Kashima",
-    "away": "Ventforet Kofu",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Metalist 1925 W",
-    "away": "Torreense W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "12:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Machida Zelvia",
-    "away": "Tochigi City",
-    "liga": "Emperor Cup",
-    "hora": "10:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Rubin Kazan U20",
-    "away": "Krasnodar U19",
-    "liga": "Youth Championship",
-    "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Iceland U17",
-    "away": "Gibraltar U17",
-    "liga": "UEFA U17 Championship - Qualification",
-    "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Thimphu City",
-    "away": "Transport United",
-    "liga": "Premier League",
-    "hora": "14:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "PAOK W",
-    "away": "Spartak Myjava W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "15:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Velež Nevesinje",
-    "away": "Zvijezda 09",
-    "liga": "1st League - RS",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Bradul Putna",
-    "away": "Paşcani",
-    "liga": "Liga III - Serie 1",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "FC Bacău II",
-    "away": "Ceahlăul Piatra Neamţ",
-    "liga": "Liga III - Serie 1",
-    "hora": "16:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   }
-  ],
+  "btts": [],
+  "over25": [],
   "balance": {
    "ganados": 1929,
    "perdidos": 1205,
@@ -495,15 +147,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "A. Italiano",
-   "away": "Colo Colo",
-   "liga": "Copa Chile",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -743,80 +387,7 @@
  "mejor_dia": {
   "disponible": false
  },
- "apuestas_top": [
-  {
-   "titulo": "San Diego 2: Tristan Boyer vs Spencer Johnson",
-   "apuesta": "SI, San Diego 2: Tristan Boyer ganara",
-   "usdc": 117897,
-   "prob": 99.5,
-   "n_traders": 2,
-   "trader": "0x076daa87c4fe1a85402a",
-   "hora": "00:17"
-  },
-  {
-   "titulo": "San Diego 2: Jack Kennedy vs Liam Draxl",
-   "apuesta": "SI, San Diego 2: Jack Kennedy ganara",
-   "usdc": 133863,
-   "prob": 13.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:17"
-  },
-  {
-   "titulo": "Buenos Aires 2: Lucio Ratti vs Federico Coria",
-   "apuesta": "SI, Buenos Aires 2: Lucio Ratti ganara",
-   "usdc": 168886,
-   "prob": 80.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "00:03"
-  },
-  {
-   "titulo": "Porto: Erika Andreeva vs Reese Brantmeier",
-   "apuesta": "SI, Porto: Erika Andreeva ganara",
-   "usdc": 132501,
-   "prob": 26.9,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "19:46"
-  },
-  {
-   "titulo": "Ankara: Katarina Kuzmova vs Cagla Buyukakcay",
-   "apuesta": "SI, Ankara: Katarina Kuzmova ganara",
-   "usdc": 24021,
-   "prob": 63.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "18:02"
-  },
-  {
-   "titulo": "Tolentino: Barbora Palicova vs Alicia Herrero Linana",
-   "apuesta": "SI, Tolentino: Barbora Palicova ganara",
-   "usdc": 94986,
-   "prob": 83.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "16:13"
-  },
-  {
-   "titulo": "Porto: Mina Hodzic vs Elena Malygina",
-   "apuesta": "SI, Porto: Mina Hodzic ganara",
-   "usdc": 140868,
-   "prob": 6.8,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:56"
-  },
-  {
-   "titulo": "Ankara: Fiona Crawley vs Carole Monnet",
-   "apuesta": "SI, Ankara: Fiona Crawley ganara",
-   "usdc": 18058,
-   "prob": 41.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:20"
-  }
- ],
+ "apuestas_top": [],
  "stats_gt": {
   "n": 3284,
   "ganados": 2206,
@@ -824,10 +395,10 @@
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 2,
+  "ganados": 0,
+  "perdidos": 0,
   "en_juego": 0,
-  "win_rate": 33
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 108,
