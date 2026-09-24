@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-24T21:50:53.896973+00:00",
+ "actualizado": "2026-09-24T21:57:03.743875+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "23:57",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Mineros de Zacatecas vs Piratas · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
