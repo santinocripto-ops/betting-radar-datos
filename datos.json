@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-09-24T15:38:42.053713+00:00",
+ "actualizado": "2026-09-24T15:44:51.445482+00:00",
  "partidos_vivo": [],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -263,15 +263,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "China",
-   "away": "Maldives",
-   "liga": "Friendlies",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
