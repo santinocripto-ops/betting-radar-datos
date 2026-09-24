@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T10:54:46.756719+00:00",
+ "actualizado": "2026-09-24T11:01:51.866527+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -387,7 +387,17 @@
  "mejor_dia": {
   "disponible": false
  },
- "apuestas_top": [],
+ "apuestas_top": [
+  {
+   "titulo": "Chengdu Open: Martin Damm vs Shintaro Mochizuki",
+   "apuesta": "SI, Chengdu Open: Martin Damm ganara",
+   "usdc": 19611,
+   "prob": 69.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "13:01"
+  }
+ ],
  "stats_gt": {
   "n": 3284,
   "ganados": 2206,
