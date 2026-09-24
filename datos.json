@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T21:07:12.073284+00:00",
+ "actualizado": "2026-09-24T21:19:55.983386+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -60,7 +60,17 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Mineros de Zacatecas",
+   "away": "Piratas",
+   "liga": "Liga de Expansión MX",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.36,
+   "resultado": "pendiente",
+   "fecha": "2026-09-24"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -317,8 +327,8 @@
     "cuota": 1.14,
     "pinnacle": true,
     "delta": 3.33,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T15:02:57.606911+00:00"
    },
@@ -332,8 +342,8 @@
     "cuota": 1.14,
     "pinnacle": false,
     "delta": 3.51,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T15:02:57.841958+00:00"
    },
@@ -347,8 +357,8 @@
     "cuota": 1.04,
     "pinnacle": true,
     "delta": 2.88,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T18:04:47.907748+00:00"
    },
@@ -362,8 +372,8 @@
     "cuota": 1.27,
     "pinnacle": true,
     "delta": 7.63,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T18:04:49.363662+00:00"
    },
@@ -377,8 +387,8 @@
     "cuota": 1.18,
     "pinnacle": true,
     "delta": 3.45,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T18:04:49.620552+00:00"
    },
@@ -534,11 +544,11 @@
    }
   ],
   "balance": {
-   "ganados": 314,
-   "perdidos": 129,
-   "pendientes": 5,
-   "acierto": 70.9,
-   "total": 443
+   "ganados": 317,
+   "perdidos": 131,
+   "pendientes": 0,
+   "acierto": 70.8,
+   "total": 448
   }
  },
  "mejor_dia": {
@@ -615,13 +625,13 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 1,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 67
  },
  "stats_banker": {
   "ganados": 108,
   "perdidos": 41,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
