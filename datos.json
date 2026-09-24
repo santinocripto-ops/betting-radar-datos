@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T20:59:50.087538+00:00",
+ "actualizado": "2026-09-24T21:05:21.169817+00:00",
  "partidos_vivo": [
   {
    "home": "Cameroon",
@@ -606,6 +606,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Falcons vs. Packers: O/U 43.5",
+   "apuesta": "SI, mas de 43.5 goles",
+   "usdc": 101592,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "23:05"
+  },
   {
    "titulo": "Will Germany win on 2026-09-24?",
    "apuesta": "SI, Germany ganara",
