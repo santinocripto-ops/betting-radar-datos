@@ -1,9 +1,16 @@
 {
- "actualizado": "2026-09-24T11:40:58.366483+00:00",
+ "actualizado": "2026-09-24T11:47:20.466024+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:47",
+   "tipo": "live"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
@@ -52,70 +59,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "A. Italiano",
-   "away": "Colo Colo",
-   "liga": "Copa Chile",
-   "minuto": 12,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-22",
-   "es_hoy": false
-  },
-  {
-   "home": "Independiente Medellin",
-   "away": "Jaguares",
-   "liga": "Primera A",
+   "home": "China",
+   "away": "Maldives",
+   "liga": "Friendlies",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-22",
-   "es_hoy": false
-  },
-  {
-   "home": "Stratford Town",
-   "away": "Bromsgrove Sporting",
-   "liga": "Non League Premier - Southern Central",
-   "minuto": 10,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-22",
-   "es_hoy": false
-  },
-  {
-   "home": "Queen of the South",
-   "away": "Annan Athletic",
-   "liga": "Challenge Cup",
-   "minuto": 11,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-22",
-   "es_hoy": false
-  },
-  {
-   "home": "Gala Fairydean Rovers",
-   "away": "Spartans",
-   "liga": "Challenge Cup",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-22",
-   "es_hoy": false
-  },
-  {
-   "home": "Forfar Athletic",
-   "away": "Peterhead",
-   "liga": "Challenge Cup",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-22",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-24",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -554,7 +506,7 @@
   "n": 3284,
   "ganados": 2206,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
