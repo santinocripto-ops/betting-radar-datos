@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-24T11:08:35.825105+00:00",
+ "actualizado": "2026-09-24T11:14:19.727865+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -137,8 +137,154 @@
   "pct_cuota_real": 0.0
  },
  "pagina2": {
-  "btts": [],
-  "over25": [],
+  "btts": [
+   {
+    "home": "Teteks",
+    "away": "FK Rabotnicki",
+    "liga": "Second League",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Podkonice",
+    "away": "Ružomberok II",
+    "liga": "3. liga - Center",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Koprivnica",
+    "away": "Uskok Klis",
+    "liga": "Second NL",
+    "hora": "17:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Kongahälla",
+    "away": "Lindome",
+    "liga": "Division 2 - Västra Götaland",
+    "hora": "20:15",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Netherlands",
+    "away": "Germany",
+    "liga": "UEFA Nations League",
+    "hora": "20:45",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Norway",
+    "away": "Denmark",
+    "liga": "UEFA Nations League",
+    "hora": "20:45",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Austria",
+    "away": "Israel",
+    "liga": "UEFA Nations League",
+    "hora": "20:45",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Everton de Vina",
+    "away": "Universidad de Chile",
+    "liga": "Copa Chile",
+    "hora": "01:30",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   }
+  ],
+  "over25": [
+   {
+    "home": "Myanmar",
+    "away": "Timor-Leste",
+    "liga": "FIFA Asean Cup",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Podkonice",
+    "away": "Ružomberok II",
+    "liga": "3. liga - Center",
+    "hora": "15:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Neom SC W",
+    "away": "Al Ahli SC W",
+    "liga": "Premier League Women",
+    "hora": "19:15",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Everton de Vina",
+    "away": "Universidad de Chile",
+    "liga": "Copa Chile",
+    "hora": "01:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Picuiense",
+    "away": "Guarabira",
+    "liga": "Paraibano 2",
+    "hora": "00:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Deportivo Recoleta",
+    "away": "Guairena FC",
+    "liga": "Copa Paraguay",
+    "hora": "23:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Santa Rita",
+    "away": "Serrano PB",
+    "liga": "Paraibano 2",
+    "hora": "00:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ind. Juniors",
+    "away": "Cuniburo",
+    "liga": "Liga Pro Serie B",
+    "hora": "22:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   }
+  ],
   "balance": {
    "ganados": 1946,
    "perdidos": 1215,
