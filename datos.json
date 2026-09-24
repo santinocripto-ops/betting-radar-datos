@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-24T12:06:46.946793+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-24T12:13:41.341375+00:00",
+ "partidos_vivo": [
+  {
+   "home": "South Korea",
+   "away": "Ecuador",
+   "liga": "Friendlies",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
