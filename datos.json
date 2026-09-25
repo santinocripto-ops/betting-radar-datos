@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T14:39:29.380462+00:00",
+ "actualizado": "2026-09-25T14:46:40.266229+00:00",
  "partidos_vivo": [
   {
    "home": "Slonim",
@@ -708,6 +708,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playof",
+   "apuesta": "SI, ganara",
+   "usdc": 90000,
+   "prob": 55.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "16:46"
+  },
+  {
    "titulo": "Will Manchester City win the 2026-27 English Premier League (EPL) Cham",
    "apuesta": "NO, Manchester City no ganara",
    "usdc": 256290,
@@ -769,15 +778,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "23:39"
-  },
-  {
-   "titulo": "Falcons vs. Packers: O/U 43.5",
-   "apuesta": "SI, mas de 43.5 goles",
-   "usdc": 101592,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xd",
-   "hora": "23:05"
   }
  ],
  "stats_gt": {
