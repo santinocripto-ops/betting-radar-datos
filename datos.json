@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-25T23:01:06.688708+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-25T23:08:53.468081+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Nacional Asuncion",
+   "away": "Sportivo Ameliano",
+   "liga": "Division Profesional - Clausura",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 48,
+   "momentum_away": 52,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Sportivo Ameliano buscará el empate",
+    "🎯 15 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
