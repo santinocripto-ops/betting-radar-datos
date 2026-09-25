@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T16:12:45.986248+00:00",
+ "actualizado": "2026-09-25T16:13:01.035441+00:00",
  "partidos_vivo": [
   {
    "home": "Iceland U21",
@@ -145,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Aalesund II",
+   "away": "Rosenborg II",
+   "liga": "3. Division - Girone 2",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-25",
+   "es_hoy": true
+  },
   {
    "home": "Slovácko II",
    "away": "Zbrojovka Brno II",
@@ -764,7 +775,7 @@
   "n": 3287,
   "ganados": 2208,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
