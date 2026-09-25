@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-25T11:53:57.288113+00:00",
+ "actualizado": "2026-09-25T12:01:08.748125+00:00",
  "partidos_vivo": [
   {
-   "home": "Korea Republic U23",
-   "away": "Vietnam U23",
-   "liga": "Asian Games",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "South Korea W",
+   "away": "Uzbekistan W",
+   "liga": "Asian Games Women",
+   "minuto": 61,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
    "cuota": null,
-   "score": 7.1,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚽ Liga muy goleadora: 4.22 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Vietnam U23 buscará el empate"
+    "🔥 5 goles — partido muy abierto"
    ]
   }
  ],
