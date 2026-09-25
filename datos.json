@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T15:37:11.251543+00:00",
+ "actualizado": "2026-09-25T15:44:11.988491+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
@@ -667,6 +667,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Sweden win on 2026-09-25?",
+   "apuesta": "NO, Sweden no ganara",
+   "usdc": 174858,
+   "prob": 33.5,
+   "n_traders": 2,
+   "trader": "0x076daa87c4fe1a85402a",
+   "hora": "17:43"
+  },
+  {
    "titulo": "Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythica",
    "apuesta": "SI, Counter-Strike: M80 ganara",
    "usdc": 80000,
@@ -728,15 +737,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "03:58"
-  },
-  {
-   "titulo": "Falcons vs. Packers: O/U 49.5",
-   "apuesta": "SI, mas de 49.5 goles",
-   "usdc": 75250,
-   "prob": 32.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "03:09"
   }
  ],
  "stats_gt": {
