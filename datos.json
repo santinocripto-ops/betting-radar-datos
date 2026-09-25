@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-09-25T06:56:00.923594+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-25T07:03:36.861381+00:00",
+ "partidos_vivo": [
+  {
+   "home": "China W",
+   "away": "Vietnam W",
+   "liga": "Asian Games Women",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.22 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Korea DPR W",
+   "away": "Chinese Taipei W",
+   "liga": "Asian Games Women",
+   "minuto": 46,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.22 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -94,7 +135,7 @@
    "hora": "10:30",
    "resultado": "pendiente",
    "wr_historico": 65,
-   "n_historico": 1575
+   "n_historico": 1576
   },
   {
    "clave": "btts",
@@ -108,7 +149,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 59,
-   "n_historico": 1610
+   "n_historico": 1611
   }
  ],
  "gol_temprano": [
@@ -455,7 +496,7 @@
    }
   ],
   "balance": {
-   "ganados": 1961,
+   "ganados": 1963,
    "perdidos": 1224,
    "acierto": 61.6,
    "yield": 17.0,
