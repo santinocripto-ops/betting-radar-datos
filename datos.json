@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-09-25T18:33:53.784095+00:00",
+ "actualizado": "2026-09-25T18:42:05.994979+00:00",
  "partidos_vivo": [
   {
-   "home": "Havelse",
-   "away": "Fortuna Köln",
-   "liga": "3. Liga",
-   "minuto": 49,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚽ 1 gol — Havelse buscará el empate"
-   ]
-  },
-  {
-   "home": "Varhaug",
-   "away": "Staal Jørpeland",
-   "liga": "3. Division - Girone 4",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Switzerland U21",
+   "away": "Luxembourg U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 51,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,37 +16,17 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Varhaug buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Räppe",
-   "away": "Växjö Norra",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Växjö Norra buscará el empate"
-   ]
-  },
-  {
-   "home": "Landvetter IS",
-   "away": "Torslanda",
+   "home": "Dalstorps",
+   "away": "Böljan",
    "liga": "Division 2 - Västra Götaland",
    "minuto": 52,
-   "marcador": "2-0",
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
@@ -82,71 +42,11 @@
    ]
   },
   {
-   "home": "FC Helsingor",
-   "away": "Holbæk B&I",
-   "liga": "3. Division",
+   "home": "Schöningen",
+   "away": "SV Drochtersen/Assel",
+   "liga": "Regionalliga - Nord",
    "minuto": 50,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Hammarby Talang",
-   "away": "Stocksund",
-   "liga": "Ettan - Norra",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Stocksund buscará el empate"
-   ]
-  },
-  {
-   "home": "HIK",
-   "away": "Roskilde",
-   "liga": "2. Division",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Örebro SK W",
-   "away": "Linköping W",
-   "liga": "Elitettan",
-   "minuto": 52,
-   "marcador": "2-0",
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.0,
@@ -156,58 +56,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Lund",
-   "away": "Kristianstad",
-   "liga": "Ettan - Södra",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "BFC Dynamo",
-   "away": "Greifswalder FC",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚽ Liga muy goleadora: 4.39 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Magdeburg II",
-   "away": "Altglienicke",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "FC Gutersloh",
+   "away": "Paderborn II",
+   "liga": "Regionalliga - West",
+   "minuto": 54,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -217,12 +77,12 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚽ Liga muy goleadora: 3.45 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 23,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
