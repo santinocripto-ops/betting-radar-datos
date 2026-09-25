@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T04:24:44.292134+00:00",
+ "actualizado": "2026-09-25T04:31:49.133033+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -704,6 +704,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playo",
+   "apuesta": "SI, ganara",
+   "usdc": 100000,
+   "prob": 53.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "06:31"
+  },
+  {
    "titulo": "Falcons vs. Packers: O/U 45.5",
    "apuesta": "SI, mas de 45.5 goles",
    "usdc": 26488,
@@ -765,15 +774,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "16:44"
-  },
-  {
-   "titulo": "Tolentino: Ekaterine Gorgodze vs Barbora Palicova",
-   "apuesta": "SI, Tolentino: Ekaterine Gorgodze ganara",
-   "usdc": 19220,
-   "prob": 65.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "16:15"
   }
  ],
  "stats_gt": {
