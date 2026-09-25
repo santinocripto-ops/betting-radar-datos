@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T23:45:32.751309+00:00",
+ "actualizado": "2026-09-25T23:52:52.550335+00:00",
  "partidos_vivo": [
   {
    "home": "Novorizontino",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -156,6 +156,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Vila Nova",
+   "away": "Londrina",
+   "liga": "Serie B",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-25",
+   "es_hoy": false
+  },
+  {
    "home": "Ruthin Town",
    "away": "Penrhyncoch",
    "liga": "FAW Championship",
@@ -204,17 +215,6 @@
    "away": "Příbram II",
    "liga": "3. liga - CFL A",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Aalesund II",
-   "away": "Rosenborg II",
-   "liga": "3. Division - Girone 2",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
