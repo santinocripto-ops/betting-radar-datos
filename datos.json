@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T16:04:58.928365+00:00",
+ "actualizado": "2026-09-25T16:12:45.986248+00:00",
  "partidos_vivo": [
   {
    "home": "Iceland U21",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:12",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:02",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "14:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
