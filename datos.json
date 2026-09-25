@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T13:46:28.786880+00:00",
+ "actualizado": "2026-09-25T13:53:39.320222+00:00",
  "partidos_vivo": [
   {
    "home": "Nyva Ternopil II",
@@ -164,7 +164,7 @@
   "balance_dia": 0.0,
   "ganados": 3189,
   "perdidos": 1426,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -172,7 +172,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4617,
+  "con_cuota_media": 4618,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -769,7 +769,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
