@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T17:52:57.339827+00:00",
+ "actualizado": "2026-09-25T17:59:57.626559+00:00",
  "partidos_vivo": [
   {
    "home": "Rwanda",
@@ -732,6 +732,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Italy win on 2026-09-25?",
+   "apuesta": "SI, Italy ganara",
+   "usdc": 112032,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "19:59"
+  },
+  {
    "titulo": "Porto: Mia Pohankova vs Katie Swan",
    "apuesta": "SI, Porto: Mia Pohankova ganara",
    "usdc": 25451,
@@ -793,15 +802,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "07:34"
-  },
-  {
-   "titulo": "Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playo",
-   "apuesta": "SI, ganara",
-   "usdc": 100000,
-   "prob": 53.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "06:31"
   }
  ],
  "stats_gt": {
