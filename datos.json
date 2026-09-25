@@ -1,50 +1,42 @@
 {
- "actualizado": "2026-09-25T09:58:30.978041+00:00",
+ "actualizado": "2026-09-25T10:06:53.594802+00:00",
  "partidos_vivo": [
   {
-   "home": "China W",
-   "away": "Vietnam W",
-   "liga": "Asian Games Women",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Bangladesh",
+   "away": "Malaysia",
+   "liga": "FIFA Asean Cup",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 7,
+   "momentum_away": 93,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.22 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Korea DPR W",
-   "away": "Chinese Taipei W",
-   "liga": "Asian Games Women",
-   "minuto": 46,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.22 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Bangladesh pierde por 2 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:06",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "12:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -290,7 +282,7 @@
     "away": "Mohammedan Dhaka",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -391,7 +383,7 @@
     "away": "Mohammedan Dhaka",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -741,7 +733,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "13:00",
+  "cuota": 1.4,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
