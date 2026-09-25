@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-25T21:50:39.593130+00:00",
- "partidos_vivo": [
-  {
-   "home": "Sportivo Luqueno",
-   "away": "Club Guarani",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 12 remates totales"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-25T22:38:58.110681+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -115,13 +94,13 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "VfB Stuttgart",
-   "away": "1. FC Heidenheim",
-   "liga": "Friendlies Clubs",
+   "home": "Helges",
+   "away": "Gute",
+   "liga": "Division 2 - Norra Svealand",
    "cuota": 1.1,
-   "score": 8.69,
-   "hora": "14:30",
-   "resultado": "ganado",
+   "score": 8.35,
+   "hora": "10:30",
+   "resultado": "pendiente",
    "wr_historico": 84,
    "n_historico": 349
   },
@@ -129,13 +108,13 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "South Korea W",
-   "away": "Uzbekistan W",
-   "liga": "Asian Games Women",
+   "home": "Wellington Phoenix II",
+   "away": "Auckland United",
+   "liga": "National League - National",
    "cuota": 3.8,
    "score": 10,
-   "hora": "10:30",
-   "resultado": "ganado",
+   "hora": "02:30",
+   "resultado": "pendiente",
    "wr_historico": 64,
    "n_historico": 1596
   },
@@ -143,13 +122,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Wisła Kraków II",
-   "away": "Czarni Połaniec",
-   "liga": "III Liga - Group 4",
-   "cuota": 1.4,
+   "home": "Wellington Phoenix II",
+   "away": "Auckland United",
+   "liga": "National League - National",
+   "cuota": 1.37,
    "score": 10,
-   "hora": "11:00",
-   "resultado": "ganado",
+   "hora": "02:30",
+   "resultado": "pendiente",
    "wr_historico": 59,
    "n_historico": 1628
   }
@@ -164,7 +143,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Corinthians U20",
@@ -175,7 +154,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Havelse",
@@ -186,7 +165,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Atlético Madrid II",
@@ -197,7 +176,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Písek",
@@ -208,7 +187,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Aalesund II",
@@ -219,18 +198,18 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-25",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 54660.0,
   "balance_total": 44660.0,
-  "balance_dia": 427.0,
+  "balance_dia": 0.0,
   "ganados": 3196,
   "perdidos": 1426,
   "pendientes": 2,
-  "ganados_dia": 7,
+  "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.7,
@@ -243,127 +222,127 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Wisła Kraków II",
-    "away": "Czarni Połaniec",
-    "liga": "III Liga - Group 4",
-    "hora": "13:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Nacional Potosí",
-    "away": "Always Ready",
-    "liga": "Copa de la División Profesional",
-    "hora": "01:30",
+    "home": "Wellington Phoenix II",
+    "away": "Auckland United",
+    "liga": "National League - National",
+    "hora": "04:30",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Dinamo Barnaul",
-    "away": "Pobeda Nizhniy Novgorod",
-    "liga": "Second League - Group 4",
-    "hora": "11:30",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Alebrijes de Oaxaca",
-    "away": "CA La Paz",
-    "liga": "Liga de Expansión MX",
-    "hora": "03:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Racing Louisville W",
-    "away": "San Diego Wave W",
-    "liga": "NWSL Women",
-    "hora": "00:30",
+    "home": "Kanazawa",
+    "away": "Gainare Tottori",
+    "liga": "J3 League",
+    "hora": "06:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Fakirerpool",
-    "away": "Mohammedan Dhaka",
+    "home": "Erchim",
+    "away": "Khovd",
     "liga": "Premier League",
-    "hora": "11:00",
-    "resultado": "anulado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Acatlan",
-    "away": "FC Santiago",
-    "liga": "Liga Premier Serie A",
-    "hora": "00:00",
+    "hora": "07:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Barnsley U21",
-    "away": "Sheffield United U21",
-    "liga": "Professional Development League",
+    "home": "Fukushima United",
+    "away": "Parceiro Nagano",
+    "liga": "J3 League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Eastern",
+    "away": "Kitchee",
+    "liga": "League Cup",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Central Stallions",
+    "away": "Ulaangom City",
+    "liga": "Premier League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Rapid Psáry",
+    "away": "Tempo Praha",
+    "liga": "4. liga - Divizie B",
+    "hora": "10:15",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 1
+   },
+   {
+    "home": "Lysekloster",
+    "away": "Sandviken",
+    "liga": "2. Division - Group 1",
     "hora": "14:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Slonim",
-    "away": "BATE II",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "ganado",
+    "home": "Asker",
+    "away": "Nordstrand",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Slovácko II",
-    "away": "Zbrojovka Brno II",
-    "liga": "3. liga - MSFL",
-    "hora": "15:30",
-    "resultado": "perdido",
+    "home": "Vålerenga II",
+    "away": "Bærum",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Wisła Płock II",
-    "away": "Jagiellonia II",
-    "liga": "III Liga - Group 1",
-    "hora": "16:00",
-    "resultado": "ganado",
+    "home": "Byåsen",
+    "away": "Orkla",
+    "liga": "3. Division - Girone 2",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Swit",
-    "away": "Łomża",
-    "liga": "III Liga - Group 1",
-    "hora": "16:00",
-    "resultado": "perdido",
+    "home": "Fyllingsdalen",
+    "away": "Stord",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Ząbkovia Ząbki",
-    "away": "Mławianka Mława",
-    "liga": "III Liga - Group 1",
-    "hora": "16:00",
-    "resultado": "ganado",
+    "home": "Varegg",
+    "away": "Os",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Timişul Şag",
-    "away": "Universitatea Alba Iulia",
-    "liga": "Liga III - Serie 7",
-    "hora": "16:00",
+    "home": "Åkra",
+    "away": "Madla",
+    "liga": "3. Division - Girone 4",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
@@ -371,127 +350,127 @@
   ],
   "over25": [
    {
-    "home": "South Korea W",
-    "away": "Uzbekistan W",
-    "liga": "Asian Games Women",
-    "hora": "12:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Nacional Potosí",
-    "away": "Always Ready",
-    "liga": "Copa de la División Profesional",
-    "hora": "01:30",
+    "home": "Wellington Phoenix II",
+    "away": "Auckland United",
+    "liga": "National League - National",
+    "hora": "04:30",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Fakirerpool",
-    "away": "Mohammedan Dhaka",
-    "liga": "Premier League",
-    "hora": "11:00",
-    "resultado": "anulado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Abahani",
-    "away": "Chattogram",
-    "liga": "Federation Cup",
-    "hora": "11:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "China W",
-    "away": "Vietnam W",
-    "liga": "Asian Games Women",
-    "hora": "08:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Chattogram",
-    "away": "Bangladesh Police",
-    "liga": "Premier League",
-    "hora": "11:00",
-    "resultado": "anulado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Acatlan",
-    "away": "FC Santiago",
-    "liga": "Liga Premier Serie A",
-    "hora": "00:00",
+    "home": "Kanazawa",
+    "away": "Gainare Tottori",
+    "liga": "J3 League",
+    "hora": "06:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Barnsley U21",
-    "away": "Sheffield United U21",
-    "liga": "Professional Development League",
+    "home": "Erchim",
+    "away": "Khovd",
+    "liga": "Premier League",
+    "hora": "07:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Fukushima United",
+    "away": "Parceiro Nagano",
+    "liga": "J3 League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "FC Ryukyu",
+    "away": "Ehime FC",
+    "liga": "J3 League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Eastern",
+    "away": "Kitchee",
+    "liga": "League Cup",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Central Stallions",
+    "away": "Ulaangom City",
+    "liga": "Premier League",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Lysekloster",
+    "away": "Sandviken",
+    "liga": "2. Division - Group 1",
     "hora": "14:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Slonim",
-    "away": "BATE II",
-    "liga": "1. Division",
-    "hora": "15:30",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Slovácko II",
-    "away": "Zbrojovka Brno II",
-    "liga": "3. liga - MSFL",
-    "hora": "15:30",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Wisła Płock II",
-    "away": "Jagiellonia II",
-    "liga": "III Liga - Group 1",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Ząbkovia Ząbki",
-    "away": "Mławianka Mława",
-    "liga": "III Liga - Group 1",
-    "hora": "16:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "ARO Muscelul Câmpulung",
-    "away": "Carpati Covasna",
-    "liga": "Liga III - Serie 2",
-    "hora": "16:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Blejoi",
-    "away": "Berca",
-    "liga": "Liga III - Serie 3",
-    "hora": "16:00",
+    "home": "Asker",
+    "away": "Nordstrand",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Vålerenga II",
+    "away": "Bærum",
+    "liga": "3. Division - Girone 1",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Byåsen",
+    "away": "Orkla",
+    "liga": "3. Division - Girone 2",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Askøy",
+    "away": "Brann II",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Fyllingsdalen",
+    "away": "Stord",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Varegg",
+    "away": "Os",
+    "liga": "3. Division - Girone 3",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
@@ -743,13 +722,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "13:00",
-  "cuota": 1.4,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -829,13 +802,13 @@
   "n": 3293,
   "ganados": 2214,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 7,
+  "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
-  "win_rate": 100
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 108,
