@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-25T16:27:32.020752+00:00",
+ "actualizado": "2026-09-25T16:35:06.887285+00:00",
  "partidos_vivo": [
   {
-   "home": "Iceland U21",
-   "away": "France U21",
+   "home": "Finland U21",
+   "away": "Spain U21",
    "liga": "UEFA U21 Championship - Qualification",
    "minuto": 46,
-   "marcador": "0-1",
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 8.0,
@@ -18,11 +18,51 @@
    "razones": [
     "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Iceland U21 buscará el empate"
+    "⚽ 1 gol — Spain U21 buscará el empate"
+   ]
+  },
+  {
+   "home": "Bulgaria U21",
+   "away": "Portugal U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Kooteepee",
+   "away": "MP",
+   "liga": "Ykkösliiga",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Kooteepee buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
