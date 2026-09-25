@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T21:05:16.894666+00:00",
+ "actualizado": "2026-09-25T21:50:39.593130+00:00",
  "partidos_vivo": [
   {
    "home": "Sportivo Luqueno",
@@ -593,8 +593,8 @@
     "cuota": 1.26,
     "pinnacle": true,
     "delta": 4.27,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-25T18:45:00+00:00",
     "ts": "2026-09-25T10:06:41.432526+00:00"
    },
@@ -608,8 +608,8 @@
     "cuota": 1.26,
     "pinnacle": false,
     "delta": 3.8,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-25T18:45:00+00:00",
     "ts": "2026-09-25T10:06:41.616927+00:00"
    },
@@ -623,8 +623,8 @@
     "cuota": 1.21,
     "pinnacle": true,
     "delta": 4.05,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-25T18:45:00+00:00",
     "ts": "2026-09-25T18:12:06.244326+00:00"
    },
@@ -638,8 +638,8 @@
     "cuota": 1.21,
     "pinnacle": false,
     "delta": 4.18,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-25T18:45:00+00:00",
     "ts": "2026-09-25T18:12:06.452572+00:00"
    },
@@ -735,11 +735,11 @@
    }
   ],
   "balance": {
-   "ganados": 317,
+   "ganados": 321,
    "perdidos": 131,
-   "pendientes": 9,
-   "acierto": 70.8,
-   "total": 448
+   "pendientes": 5,
+   "acierto": 71.0,
+   "total": 452
   }
  },
  "mejor_dia": {
@@ -752,6 +752,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "LoL: FlyQuest vs Shopify Rebellion (BO5) - LCS Playoffs",
+   "apuesta": "SI, LoL: FlyQuest ganara",
+   "usdc": 35408,
+   "prob": 74.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "23:50"
+  },
   {
    "titulo": "Will Italy win on 2026-09-25?",
    "apuesta": "SI, Italy ganara",
@@ -814,15 +823,6 @@
    "n_traders": 2,
    "trader": "0x076daa87c4fe1a85402a",
    "hora": "15:02"
-  },
-  {
-   "titulo": "Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D",
-   "apuesta": "SI, Valorant: Nongshim RedForce ganara",
-   "usdc": 83842,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x6",
-   "hora": "07:34"
   }
  ],
  "stats_gt": {
