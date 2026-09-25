@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T01:51:28.696916+00:00",
+ "actualizado": "2026-09-25T01:58:56.730296+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -714,6 +714,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Falcons vs. Packers: O/U 45.5",
+   "apuesta": "SI, mas de 45.5 goles",
+   "usdc": 26488,
+   "prob": 50.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "03:58"
+  },
+  {
    "titulo": "Falcons vs. Packers: O/U 49.5",
    "apuesta": "SI, mas de 49.5 goles",
    "usdc": 75250,
@@ -775,15 +784,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "16:15"
-  },
-  {
-   "titulo": "Chengdu Open: Martin Damm vs Shintaro Mochizuki",
-   "apuesta": "SI, Chengdu Open: Martin Damm ganara",
-   "usdc": 19611,
-   "prob": 69.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "13:01"
   }
  ],
  "stats_gt": {
