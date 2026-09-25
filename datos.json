@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T19:04:29.502347+00:00",
+ "actualizado": "2026-09-25T19:04:55.499129+00:00",
  "partidos_vivo": [
   {
    "home": "Switzerland U21",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:04",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Vila Nova vs Londrina · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (7 casas)",
    "hora": "20:12",
@@ -150,12 +156,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -216,6 +216,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Ruthin Town",
+   "away": "Penrhyncoch",
+   "liga": "FAW Championship",
+   "minuto": 17,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-25",
+   "es_hoy": true
+  },
+  {
    "home": "Corinthians U20",
    "away": "XV de Jaú U20",
    "liga": "Paulista - U20",
@@ -263,17 +274,6 @@
    "home": "Aalesund II",
    "away": "Rosenborg II",
    "liga": "3. Division - Girone 2",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": true
-  },
-  {
-   "home": "Slovácko II",
-   "away": "Zbrojovka Brno II",
-   "liga": "3. liga - MSFL",
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
@@ -889,7 +889,7 @@
   "n": 3291,
   "ganados": 2212,
   "win_rate": 67,
-  "hoy": 6
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 5,
