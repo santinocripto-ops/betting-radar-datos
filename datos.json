@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T05:27:23.868728+00:00",
+ "actualizado": "2026-09-25T05:34:16.610308+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -704,6 +704,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Valorant: Nongshim RedForce vs NRG (BO3) - VCT Champions Group D",
+   "apuesta": "SI, Valorant: Nongshim RedForce ganara",
+   "usdc": 83842,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "07:34"
+  },
+  {
    "titulo": "Counter-Strike: Alliance vs Sinners (BO3) - 1win Private Club #1 Playo",
    "apuesta": "SI, ganara",
    "usdc": 100000,
@@ -765,15 +774,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "21:20"
-  },
-  {
-   "titulo": "Will Norway win on 2026-09-24?",
-   "apuesta": "SI, Norway ganara",
-   "usdc": 379594,
-   "prob": 56.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "16:44"
   }
  ],
  "stats_gt": {
