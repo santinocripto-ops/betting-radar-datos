@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-25T15:22:55.887717+00:00",
+ "actualizado": "2026-09-25T15:29:47.865410+00:00",
  "partidos_vivo": [
   {
    "home": "Azerbaijan U21",
@@ -768,6 +768,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythica",
+   "apuesta": "SI, Counter-Strike: M80 ganara",
+   "usdc": 80000,
+   "prob": 70.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "17:29"
+  },
+  {
    "titulo": "Counter-Strike: GamerLegion vs K27 (BO3) - 1win Private Club #1 Playof",
    "apuesta": "SI, ganara",
    "usdc": 90000,
@@ -829,15 +838,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "03:09"
-  },
-  {
-   "titulo": "San Diego 2: Darwin Blanch vs Andres Andrade",
-   "apuesta": "SI, ganara",
-   "usdc": 15885,
-   "prob": 69.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "23:39"
   }
  ],
  "stats_gt": {
