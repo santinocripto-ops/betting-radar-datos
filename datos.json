@@ -1,9 +1,27 @@
 {
- "actualizado": "2026-09-26T14:16:45.505480+00:00",
+ "actualizado": "2026-09-26T14:18:30.328468+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:18",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -56,24 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:52",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:31",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:15",
    "tipo": "live"
   }
  ],
@@ -135,10 +135,21 @@
  ],
  "gol_temprano": [
   {
-   "home": "Llantwit Major",
-   "away": "llanelli AFC",
-   "liga": "FAW Championship",
-   "minuto": 16,
+   "home": "JS Hercules",
+   "away": "Vaajakoski",
+   "liga": "Kakkonen - Lohko C",
+   "minuto": 14,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Reipas",
+   "away": "MyPa",
+   "liga": "Kakkonen - Lohko A",
+   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -146,10 +157,10 @@
    "es_hoy": true
   },
   {
-   "home": "Holyhead Hotspur",
-   "away": "Guilsfield",
-   "liga": "FAW Championship",
-   "minuto": 16,
+   "home": "Peterhead",
+   "away": "Elgin City",
+   "liga": "Challenge Cup",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -157,20 +168,20 @@
    "es_hoy": true
   },
   {
-   "home": "AFC Amsterdam",
-   "away": "Katwijk",
-   "liga": "Tweede Divisie",
-   "minuto": 12,
-   "score": 9.8,
+   "home": "Wycombe",
+   "away": "Reading",
+   "liga": "League One",
+   "minuto": 15,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
   {
-   "home": "Quick Boys",
-   "away": "HHC",
-   "liga": "Tweede Divisie",
+   "home": "Stockport County",
+   "away": "Peterborough",
+   "liga": "League One",
    "minuto": 16,
    "score": 9.5,
    "cuota": null,
@@ -179,22 +190,11 @@
    "es_hoy": true
   },
   {
-   "home": "Almere City II",
-   "away": "Barendrecht",
-   "liga": "Tweede Divisie",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "St. Pölten W",
-   "away": "Kleinmünchen / BW Linz W",
-   "liga": "Frauenliga",
+   "home": "Plymouth",
+   "away": "Burton Albion",
+   "liga": "League One",
    "minuto": 15,
-   "score": 10.0,
+   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-26",
@@ -830,7 +830,7 @@
   "n": 3303,
   "ganados": 2220,
   "win_rate": 67,
-  "hoy": 15
+  "hoy": 22
  },
  "stats_dia": {
   "ganados": 11,
