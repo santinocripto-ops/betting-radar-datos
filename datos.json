@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T17:57:35.098384+00:00",
+ "actualizado": "2026-09-26T18:07:18.053425+00:00",
  "partidos_vivo": [
   {
    "home": "Tenerife",
@@ -146,6 +146,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "20:07",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:50",
@@ -208,12 +214,6 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:41",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:41",
    "tipo": "live"
   }
@@ -294,7 +294,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
@@ -305,7 +305,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
@@ -334,14 +334,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54703.0,
-  "balance_total": 44703.0,
-  "balance_dia": 43.0,
-  "ganados": 3219,
-  "perdidos": 1438,
-  "pendientes": 7,
-  "ganados_dia": 23,
-  "perdidos_dia": 12,
+  "capital": 54709.0,
+  "balance_total": 44709.0,
+  "balance_dia": 49.0,
+  "ganados": 3221,
+  "perdidos": 1439,
+  "pendientes": 4,
+  "ganados_dia": 25,
+  "perdidos_dia": 13,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -621,7 +621,7 @@
    "away": "Hércules II",
    "liga": "Tercera División RFEF - Group 6",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "JS Hercules",
@@ -965,15 +965,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3318,
-  "ganados": 2227,
+  "n": 3320,
+  "ganados": 2228,
   "win_rate": 67,
   "hoy": 28
  },
  "stats_dia": {
-  "ganados": 25,
-  "perdidos": 13,
-  "en_juego": 5,
+  "ganados": 27,
+  "perdidos": 14,
+  "en_juego": 2,
   "win_rate": 66
  },
  "stats_banker": {
