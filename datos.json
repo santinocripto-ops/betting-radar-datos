@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-09-26T01:38:47.962257+00:00",
+ "actualizado": "2026-09-26T01:46:11.355482+00:00",
  "partidos_vivo": [
   {
-   "home": "Barbados",
-   "away": "St. Lucia",
-   "liga": "CONCACAF Nations League",
+   "home": "Seattle Reign FC W",
+   "away": "Boston Legacy W",
+   "liga": "NWSL Women",
    "minuto": 50,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 56,
-   "momentum_away": 44,
+   "momentum_home": 64,
+   "momentum_away": 36,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚽ 1 gol — St. Lucia buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Bonaire",
-   "away": "St. Kitts and Nevis",
-   "liga": "CONCACAF Nations League",
-   "minuto": 50,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 13 remates totales"
-   ]
-  },
-  {
-   "home": "Jamaica",
-   "away": "Guatemala",
-   "liga": "CONCACAF Nations League",
-   "minuto": 51,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.8,
-   "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 14 remates totales"
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚽ 1 gol — Boston Legacy W buscará el empate",
+    "🎯 9 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
