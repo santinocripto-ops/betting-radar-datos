@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T17:18:57.139957+00:00",
+ "actualizado": "2026-09-26T17:26:17.359447+00:00",
  "partidos_vivo": [
   {
    "home": "London City Lionesses W",
@@ -668,13 +668,6 @@
    "home": "Holyhead Hotspur",
    "away": "Guilsfield",
    "liga": "FAW Championship",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "AFC Amsterdam",
-   "away": "Katwijk",
-   "liga": "Tweede Divisie",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
