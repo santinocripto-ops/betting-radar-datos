@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T10:03:03.588041+00:00",
+ "actualizado": "2026-09-26T10:04:14.667023+00:00",
  "partidos_vivo": [
   {
    "home": "Baník Sokolov",
@@ -805,7 +805,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.62,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
