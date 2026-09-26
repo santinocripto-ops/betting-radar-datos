@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-09-26T22:44:20.467465+00:00",
+ "actualizado": "2026-09-26T22:52:14.755968+00:00",
  "partidos_vivo": [
   {
-   "home": "Deportivo Pereira",
-   "away": "Internacional de Bogota",
-   "liga": "Primera A",
+   "home": "The Strongest",
+   "away": "Guabirá",
+   "liga": "Copa de la División Profesional",
    "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.79 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "St. Vincent / Grenadines",
-   "away": "French Guyana",
-   "liga": "CONCACAF Nations League",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.6 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ French Guyana pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Portland Hearts of Pine",
-   "away": "Sarasota Paradise",
-   "liga": "USL League One",
-   "minuto": 54,
-   "marcador": "1-4",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
