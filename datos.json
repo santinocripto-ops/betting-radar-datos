@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T12:16:32.195889+00:00",
+ "actualizado": "2026-09-26T12:16:55.067687+00:00",
  "partidos_vivo": [
   {
    "home": "Jonsered",
@@ -79,6 +79,12 @@
   },
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "14:08",
    "tipo": "live"
@@ -128,12 +134,6 @@
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Hrvace vs Orijent 1919 · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (6 c",
-   "hora": "10:09",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Chelyabinsk vs Enisey · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.27 (3 casas)",
    "hora": "10:09",
    "tipo": "banker"
   }
@@ -205,6 +205,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Slavia Praha W",
+   "away": "Prague Raptors W",
+   "liga": "1. Liga Women",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Hessen Kassel",
+   "away": "FSV Mainz 05 II",
+   "liga": "Regionalliga - SudWest",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Dinamo Stavropol",
+   "away": "Amkar",
+   "liga": "Second League A - Division A Silver",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
    "home": "PuiU Helsinki",
    "away": "Union Plaani",
    "liga": "Kakkonen - Lohko A",
@@ -234,28 +267,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Ružomberok W",
-   "away": "Tatran Prešov W",
-   "liga": "I Liga - Women",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Iwaki",
-   "away": "Vegalta Sendai",
-   "liga": "J2 League",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   }
@@ -889,7 +900,7 @@
   "n": 3296,
   "ganados": 2216,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 4,
