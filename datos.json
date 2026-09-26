@@ -1,28 +1,128 @@
 {
- "actualizado": "2026-09-26T19:05:50.163331+00:00",
+ "actualizado": "2026-09-26T20:04:06.873365+00:00",
  "partidos_vivo": [
   {
-   "home": "Bulle",
-   "away": "FC Schaffhausen",
-   "liga": "1. Liga Promotion",
-   "minuto": 52,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "England",
+   "away": "Spain",
+   "liga": "UEFA Nations League",
+   "minuto": 56,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 52,
+   "momentum_away": 48,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Czechia",
+   "away": "Croatia",
+   "liga": "UEFA Nations League",
+   "minuto": 58,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 12,
+   "momentum_away": 88,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "🎯 13 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Albania",
+   "away": "Belarus",
+   "liga": "UEFA Nations League",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 69,
+   "momentum_away": 31,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "⚡ Belarus pierde por 2 — atacará sin freno",
+    "🎯 12 remates totales"
+   ]
+  },
+  {
+   "home": "Slovakia",
+   "away": "Moldova",
+   "liga": "UEFA Nations League",
+   "minuto": 56,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 74,
+   "momentum_away": 26,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "⚡ Moldova pierde por 2 — atacará sin freno",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "FYR Macedonia",
+   "away": "Switzerland",
+   "liga": "UEFA Nations League",
+   "minuto": 55,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 4,
+   "momentum_away": 96,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 2 goles — partido activo",
+    "⚡ FYR Macedonia pierde por 2 — atacará sin freno",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Queen of the South",
+   "away": "Rangers U21",
+   "liga": "Challenge Cup",
+   "minuto": 47,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
+    "⚽ Liga goleadora: 3.17 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Bulle buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -509,13 +609,6 @@
    "liga": "Eerste Divisie",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Atzeneta",
-   "away": "Hércules II",
-   "liga": "Tercera División RFEF - Group 6",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -534,6 +627,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-09-27T00:30:00+00:00",
     "ts": "2026-09-26T18:07:18.349433+00:00"
+   },
+   {
+    "home": "USA",
+    "away": "Peru",
+    "liga": "Friendlies",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.12,
+    "pinnacle": false,
+    "delta": 3.51,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-26T20:30:00+00:00",
+    "ts": "2026-09-26T19:05:50.404892+00:00"
    },
    {
     "home": "Nautico Recife",
@@ -729,27 +837,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-25T18:45:00+00:00",
     "ts": "2026-09-25T10:06:41.432526+00:00"
-   },
-   {
-    "home": "Italy",
-    "away": "Belgium",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 4,
-    "cuota": 1.26,
-    "pinnacle": false,
-    "delta": 3.8,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-25T18:45:00+00:00",
-    "ts": "2026-09-25T10:06:41.616927+00:00"
    }
   ],
   "balance": {
    "ganados": 326,
    "perdidos": 134,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 70.9,
    "total": 460
   }
