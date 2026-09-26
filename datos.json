@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T15:40:17.227860+00:00",
+ "actualizado": "2026-09-26T15:47:16.869390+00:00",
  "partidos_vivo": [
   {
    "home": "Granada CF",
@@ -1016,6 +1016,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Faroe Islands win on 2026-09-26?",
+   "apuesta": "NO, Faroe Islands no ganara",
+   "usdc": 31351,
+   "prob": 42.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:47"
+  },
+  {
+   "titulo": "Will Faroe Islands win on 2026-09-26?",
+   "apuesta": "SI, Faroe Islands ganara",
+   "usdc": 89861,
+   "prob": 55.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "17:47"
+  },
+  {
    "titulo": "Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs",
    "apuesta": "SI, Counter-Strike: paiN ganara",
    "usdc": 108072,
@@ -1068,24 +1086,6 @@
    "n_traders": 2,
    "trader": "omnibus-076daa",
    "hora": "14:15"
-  },
-  {
-   "titulo": "Counter-Strike: Heroic vs Sangal (BO3) - Stake Pulse Beat II Playoffs",
-   "apuesta": "SI, ganara",
-   "usdc": 90331,
-   "prob": 79.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "12:41"
-  },
-  {
-   "titulo": "Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoff",
-   "apuesta": "SI, ganara",
-   "usdc": 160900,
-   "prob": 33.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "12:41"
   }
  ],
  "stats_gt": {
