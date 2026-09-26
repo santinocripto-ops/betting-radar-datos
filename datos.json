@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T22:59:40.682577+00:00",
+ "actualizado": "2026-09-26T23:08:28.770605+00:00",
  "partidos_vivo": [
   {
    "home": "The Strongest",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Seattle Sounders vs Minnesota United FC · 🎯 Apuesta: Doble oport. 1X (local o empate) · ",
+   "hora": "01:08",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "01:08",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -84,22 +96,20 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:13",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "18:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "17:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Seattle Sounders",
+   "away": "Minnesota United FC",
+   "liga": "Major League Soccer",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -824,7 +834,7 @@
  "stats_banker": {
   "ganados": 111,
   "perdidos": 43,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
