@@ -1,133 +1,13 @@
 {
- "actualizado": "2026-09-26T15:55:12.732481+00:00",
+ "actualizado": "2026-09-26T16:04:58.386077+00:00",
  "partidos_vivo": [
   {
-   "home": "Granada CF",
-   "away": "FC Andorra",
-   "liga": "Segunda División",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Granada CF pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Newport County",
-   "away": "Grimsby",
-   "liga": "League Two",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.74 goles/partido",
-    "⚽ 1 gol — Grimsby buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "York",
-   "away": "Gillingham",
-   "liga": "League Two",
-   "minuto": 64,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.5,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga muy cerrada: 1.74 goles/partido",
-    "⚽ 1 gol — Gillingham buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Djerv",
-   "away": "Sogndal II",
-   "liga": "3. Division - Girone 3",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Komárno W",
-   "away": "Slovan Bratislava W",
-   "liga": "I Liga - Women",
-   "minuto": 63,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.18 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Finnsnes",
-   "away": "Skjervøy",
-   "liga": "3. Division - Girone 5",
-   "minuto": 64,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Skjervøy buscará el empate"
-   ]
-  },
-  {
-   "home": "Sollentuna",
-   "away": "Stockholm Internazionale",
-   "liga": "Ettan - Norra",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Musa",
+   "away": "NJS",
+   "liga": "Kakkonen - Lohko B",
+   "minuto": 50,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -138,111 +18,51 @@
    "razones": [
     "⚽ Liga goleadora: 3.14 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Dumbarton",
-   "away": "Banks O' Dee",
-   "liga": "Challenge Cup",
-   "minuto": 63,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Solin",
-   "away": "Trnje",
-   "liga": "Second NL",
-   "minuto": 61,
+   "home": "Rostov II",
+   "away": "Sevastopol",
+   "liga": "Second League - Group 1",
+   "minuto": 48,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "FK Spartak Tambov",
+   "away": "Kvant",
+   "liga": "Second League - Group 3",
+   "minuto": 47,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.3,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
+    "⚽ Liga por encima de la media: 2.77 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
-  },
-  {
-   "home": "Limavady United",
-   "away": "Cliftonville FC",
-   "liga": "Premiership",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.88 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cliftonville FC buscará el empate"
-   ]
-  },
-  {
-   "home": "Górnik Polkowice",
-   "away": "Odra Bytom Odrzański",
-   "liga": "III Liga - Group 3",
-   "minuto": 65,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Flota Świnoujście",
-   "away": "Unia Swarzędz",
-   "liga": "III Liga - Group 2",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
   }
  ],
- "partidos_vivo_total": 55,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -319,17 +139,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Hrvace",
-   "away": "Orijent 1919",
-   "liga": "First NL",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.4,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -343,7 +153,7 @@
    "hora": "10:30",
    "resultado": "ganado",
    "wr_historico": 84,
-   "n_historico": 351
+   "n_historico": 359
   },
   {
    "clave": "over25",
@@ -415,7 +225,7 @@
    "minuto": 14,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
@@ -426,7 +236,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
@@ -437,21 +247,21 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54712.0,
-  "balance_total": 44712.0,
-  "balance_dia": 52.0,
-  "ganados": 3208,
-  "perdidos": 1432,
-  "pendientes": 20,
-  "ganados_dia": 12,
-  "perdidos_dia": 6,
+  "capital": 54581.0,
+  "balance_total": 44581.0,
+  "balance_dia": -79.0,
+  "ganados": 3217,
+  "perdidos": 1438,
+  "pendientes": 5,
+  "ganados_dia": 21,
+  "perdidos_dia": 12,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -731,35 +541,35 @@
    "away": "Vaajakoski",
    "liga": "Kakkonen - Lohko C",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Stockport County",
    "away": "Peterborough",
    "liga": "League One",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Plymouth",
    "away": "Burton Albion",
    "liga": "League One",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Holyhead Hotspur",
    "away": "Guilsfield",
    "liga": "FAW Championship",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "AFC Amsterdam",
    "away": "Katwijk",
    "liga": "Tweede Divisie",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Almere City II",
@@ -1089,21 +899,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3306,
-  "ganados": 2221,
+  "n": 3316,
+  "ganados": 2225,
   "win_rate": 67,
   "hoy": 25
  },
  "stats_dia": {
-  "ganados": 13,
-  "perdidos": 7,
-  "en_juego": 19,
-  "win_rate": 65
+  "ganados": 23,
+  "perdidos": 13,
+  "en_juego": 3,
+  "win_rate": 64
  },
  "stats_banker": {
-  "ganados": 110,
+  "ganados": 111,
   "perdidos": 43,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
