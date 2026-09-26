@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T04:57:57.535436+00:00",
+ "actualizado": "2026-09-26T05:05:33.993126+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -114,9 +114,9 @@
    "cuota": 3.8,
    "score": 10,
    "hora": "02:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1596
+   "n_historico": 1597
   },
   {
    "clave": "btts",
@@ -128,9 +128,9 @@
    "cuota": 1.37,
    "score": 10,
    "hora": "02:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1628
+   "n_historico": 1629
   }
  ],
  "gol_temprano": [
@@ -226,7 +226,7 @@
     "away": "Auckland United",
     "liga": "National League - National",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -354,7 +354,7 @@
     "away": "Auckland United",
     "liga": "National League - National",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -477,8 +477,8 @@
    }
   ],
   "balance": {
-   "ganados": 1984,
-   "perdidos": 1240,
+   "ganados": 1985,
+   "perdidos": 1241,
    "acierto": 61.5,
    "yield": 16.9,
    "cuota_media": 1.9
