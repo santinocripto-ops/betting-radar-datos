@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:08:19.087147+00:00",
+ "actualizado": "2026-09-26T13:16:17.628655+00:00",
  "partidos_vivo": [
   {
    "home": "Byåsen",
@@ -67,6 +67,24 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:08",
    "tipo": "live"
@@ -117,24 +135,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:13",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "12:03",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:17",
    "tipo": "live"
   }
  ],
@@ -205,6 +205,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Quick Boys",
+   "away": "HHC",
+   "liga": "Tweede Divisie",
+   "minuto": 16,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Almere City II",
+   "away": "Barendrecht",
+   "liga": "Tweede Divisie",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "St. Pölten W",
+   "away": "Kleinmünchen / BW Linz W",
+   "liga": "Frauenliga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
    "home": "Kickers Offenbach",
    "away": "VfR Aalen",
    "liga": "Regionalliga - SudWest",
@@ -232,39 +265,6 @@
    "liga": "Regionalliga - SudWest",
    "minuto": 13,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Dinamo Stavropol",
-   "away": "Amkar",
-   "liga": "Second League A - Division A Silver",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "PuiU Helsinki",
-   "away": "Union Plaani",
-   "liga": "Kakkonen - Lohko A",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Fortuna Hjørring W",
-   "away": "Nordsjælland W",
-   "liga": "Kvindeliga",
-   "minuto": 25,
-   "score": 9.5,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-26",
@@ -900,7 +900,7 @@
   "n": 3296,
   "ganados": 2216,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 12
  },
  "stats_dia": {
   "ganados": 4,
