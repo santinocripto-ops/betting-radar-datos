@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T17:42:47.662004+00:00",
+ "actualizado": "2026-09-26T17:50:16.315472+00:00",
  "partidos_vivo": [
   {
    "home": "Tenerife",
@@ -892,6 +892,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Tolentino: Julia Grabher vs Oksana Selekhmeteva",
+   "apuesta": "SI, Tolentino: Julia Grabher ganara",
+   "usdc": 96420,
+   "prob": 88.5,
+   "n_traders": 2,
+   "trader": "omnibus-076daa",
+   "hora": "19:50"
+  },
+  {
    "titulo": "Will Faroe Islands win on 2026-09-26?",
    "apuesta": "NO, Faroe Islands no ganara",
    "usdc": 31351,
@@ -952,15 +961,6 @@
    "prob": 46.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
-   "hora": "14:15"
-  },
-  {
-   "titulo": "Valorant: LOUD vs EDward Gaming (BO3) - VCT Champions Group B",
-   "apuesta": "SI, Valorant: LOUD ganara",
-   "usdc": 181871,
-   "prob": 70.5,
-   "n_traders": 2,
-   "trader": "omnibus-076daa",
    "hora": "14:15"
   }
  ],
