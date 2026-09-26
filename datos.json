@@ -1,108 +1,188 @@
 {
- "actualizado": "2026-09-26T10:04:14.667023+00:00",
+ "actualizado": "2026-09-26T10:13:07.639529+00:00",
  "partidos_vivo": [
   {
-   "home": "Baník Sokolov",
-   "away": "Ostrov",
-   "liga": "4. liga - Divizie B",
-   "minuto": 63,
+   "home": "Chelyabinsk",
+   "away": "Enisey",
+   "liga": "First League",
+   "minuto": 49,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 36,
+   "momentum_away": 64,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Baník Sokolov buscará el empate"
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ 1 gol — Chelyabinsk buscará el empate",
+    "🚩 8 córners"
    ]
   },
   {
-   "home": "Ústí nad Labem II",
-   "away": "Újezd Praha 4",
-   "liga": "4. liga - Divizie B",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.65 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Újezd Praha 4 buscará el empate"
-   ]
-  },
-  {
-   "home": "Sumsel United",
-   "away": "PSPS",
-   "liga": "Liga 2",
+   "home": "Pakistan",
+   "away": "Thailand",
+   "liga": "FIFA Asean Cup",
    "minuto": 52,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 16,
+   "momentum_away": 84,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Pakistan pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Ružomberok W",
+   "away": "Tatran Prešov W",
+   "liga": "I Liga - Women",
+   "minuto": 54,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.19 goles/partido",
+    "⚽ Liga muy goleadora: 5.32 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — PSPS buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Loko Vltavín",
-   "away": "Králův Dvůr",
-   "liga": "3. liga - CFL A",
-   "minuto": 65,
+   "home": "Spartak Trnava W",
+   "away": "Z. Moravce-Vrable W",
+   "liga": "I Liga - Women",
+   "minuto": 52,
+   "marcador": "1-4",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Horní Heršpice W",
+   "away": "Sparta Praha W",
+   "liga": "1. Liga Women",
+   "minuto": 56,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Baník Ostrava W",
+   "away": "Slovan Liberec W",
+   "liga": "1. Liga Women",
+   "minuto": 53,
    "marcador": "1-2",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.2,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
+    "⚽ Liga muy goleadora: 4.17 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Sreenidi Deccan",
+   "away": "NorthEast United",
+   "liga": "IFA Shield",
+   "minuto": 49,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.6,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 5.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Diósgyőr II",
+   "away": "DEAC",
+   "liga": "NB III - Northeast",
+   "minuto": 54,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.43 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Povltava FA",
-   "away": "Motorlet Praha",
-   "liga": "3. liga - CFL A",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Újpest II",
+   "away": "Szolnoki MAV FC",
+   "liga": "NB III - Southeast",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.2,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
+    "⚽ Liga muy goleadora: 3.93 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -815,6 +895,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Dota 2: Aurora vs Natus Vincere - Game 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 17712,
+   "prob": 26.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "12:11"
+  },
+  {
    "titulo": "Korea Open: Anna Bondar vs Gabriela Ruse",
    "apuesta": "SI, Korea Open: Anna Bondar ganara",
    "usdc": 51476,
@@ -876,15 +965,6 @@
    "n_traders": 2,
    "trader": "0x076daa87c4fe1a85402a",
    "hora": "17:43"
-  },
-  {
-   "titulo": "Counter-Strike: M80 vs BESTIA (BO3) - iBUYPOWER Masters fl0m's Mythica",
-   "apuesta": "SI, Counter-Strike: M80 ganara",
-   "usdc": 80000,
-   "prob": 70.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "17:29"
   }
  ],
  "stats_gt": {
