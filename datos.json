@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-26T03:07:04.050859+00:00",
- "partidos_vivo": [
-  {
-   "home": "CD Arabe Unido",
-   "away": "Herrera",
-   "liga": "Liga Panameña de Fútbol",
-   "minuto": 54,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Herrera buscará el empate"
-   ]
-  }
- ],
+ "actualizado": "2026-09-26T03:14:05.760970+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -554,6 +533,36 @@
     "ts": "2026-09-25T17:08:58.125260+00:00"
    },
    {
+    "home": "Inhulets",
+    "away": "Prykarpattia",
+    "liga": "Persha Liga",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.43,
+    "pinnacle": false,
+    "delta": 7.81,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-26T09:00:00+00:00",
+    "ts": "2026-09-26T03:06:37.832404+00:00"
+   },
+   {
+    "home": "Inhulets",
+    "away": "Prykarpattia",
+    "liga": "Persha Liga",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.27,
+    "pinnacle": false,
+    "delta": 5.52,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-26T09:00:00+00:00",
+    "ts": "2026-09-26T03:06:37.995271+00:00"
+   },
+   {
     "home": "Atlante FC",
     "away": "Monterrey",
     "liga": "Liga MX",
@@ -563,8 +572,8 @@
     "cuota": 1.75,
     "pinnacle": true,
     "delta": 2.97,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "4-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-26T01:00:00+00:00",
     "ts": "2026-09-25T18:12:03.257417+00:00"
    },
@@ -702,44 +711,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T18:04:49.363662+00:00"
-   },
-   {
-    "home": "Norway",
-    "away": "Denmark",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.18,
-    "pinnacle": true,
-    "delta": 3.45,
-    "marcador": "3-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-24T18:45:00+00:00",
-    "ts": "2026-09-24T18:04:49.620552+00:00"
-   },
-   {
-    "home": "Central Espanol",
-    "away": "Atletico Torque",
-    "liga": "Primera División",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 3.1,
-    "marcador": "1-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-21T22:30:00+00:00",
-    "ts": "2026-09-21T21:02:27.259812+00:00"
    }
   ],
   "balance": {
-   "ganados": 322,
+   "ganados": 323,
    "perdidos": 131,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 71.1,
-   "total": 453
+   "total": 454
   }
  },
  "mejor_dia": {
@@ -828,7 +807,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
