@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T12:38:56.686122+00:00",
+ "actualizado": "2026-09-26T12:46:26.727658+00:00",
  "partidos_vivo": [
   {
    "home": "Konnerud",
@@ -824,6 +824,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: 100 Thieves vs Astralis (BO3) - Stake Pulse Beat II Pl",
+   "apuesta": "SI, ganara",
+   "usdc": 30567,
+   "prob": 16.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "14:46"
+  },
+  {
    "titulo": "Will England win on 2026-09-26?",
    "apuesta": "NO, England no ganara",
    "usdc": 129378,
@@ -882,15 +891,6 @@
    "apuesta": "SI, Korea Open: Anna Bondar ganara",
    "usdc": 51476,
    "prob": 77.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:26"
-  },
-  {
-   "titulo": "Korea Open: Lanlana Tararudee vs Maya Joint",
-   "apuesta": "SI, Korea Open: Lanlana Tararudee ganara",
-   "usdc": 119224,
-   "prob": 6.5,
    "n_traders": 2,
    "trader": "RN1",
    "hora": "06:26"
