@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:59:09.271818+00:00",
+ "actualizado": "2026-09-26T14:07:37.798647+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -87,15 +87,6 @@
    "cuota": 1.4,
    "resultado": "pendiente",
    "fecha": "2026-09-26"
-  },
-  {
-   "home": "Inhulets",
-   "away": "Prykarpattia",
-   "liga": "Persha Liga",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.39,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26"
   }
  ],
  "mejores_dia": [
@@ -109,9 +100,9 @@
    "cuota": 1.1,
    "score": 8.35,
    "hora": "10:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 84,
-   "n_historico": 350
+   "n_historico": 351
   },
   {
    "clave": "over25",
@@ -125,7 +116,7 @@
    "hora": "02:30",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1610
+   "n_historico": 1619
   },
   {
    "clave": "btts",
@@ -139,7 +130,7 @@
    "hora": "02:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1640
+   "n_historico": 1651
   }
  ],
  "gol_temprano": [
@@ -212,14 +203,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54727.0,
-  "balance_total": 44727.0,
-  "balance_dia": 67.0,
-  "ganados": 3199,
-  "perdidos": 1427,
-  "pendientes": 18,
-  "ganados_dia": 3,
-  "perdidos_dia": 1,
+  "capital": 54806.0,
+  "balance_total": 44806.0,
+  "balance_dia": 146.0,
+  "ganados": 3206,
+  "perdidos": 1430,
+  "pendientes": 8,
+  "ganados_dia": 10,
+  "perdidos_dia": 4,
   "win_rate": 69.2,
   "roi": 9.7,
   "stake": 100.0,
@@ -307,7 +298,7 @@
     "away": "Nordstrand",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -316,7 +307,7 @@
     "away": "Bærum",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -325,7 +316,7 @@
     "away": "Orkla",
     "liga": "3. Division - Girone 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -334,7 +325,7 @@
     "away": "Stord",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -343,7 +334,7 @@
     "away": "Os",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -352,7 +343,7 @@
     "away": "Madla",
     "liga": "3. Division - Girone 4",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -435,7 +426,7 @@
     "away": "Nordstrand",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -444,7 +435,7 @@
     "away": "Bærum",
     "liga": "3. Division - Girone 1",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -453,7 +444,7 @@
     "away": "Orkla",
     "liga": "3. Division - Girone 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -471,7 +462,7 @@
     "away": "Stord",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -480,16 +471,16 @@
     "away": "Os",
     "liga": "3. Division - Girone 3",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 2000,
-   "perdidos": 1250,
+   "ganados": 2010,
+   "perdidos": 1260,
    "acierto": 61.5,
-   "yield": 16.9,
+   "yield": 16.8,
    "cuota_media": 1.9
   }
  },
@@ -499,21 +490,14 @@
    "away": "Amkar",
    "liga": "Second League A - Division A Silver",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Fortuna Hjørring W",
    "away": "Nordsjælland W",
    "liga": "Kvindeliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  },
-  {
-   "home": "Torpedo Miass",
-   "away": "Tyumen",
-   "liga": "Second League A - Division A Silver",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -836,21 +820,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3296,
-  "ganados": 2216,
+  "n": 3303,
+  "ganados": 2220,
   "win_rate": 67,
   "hoy": 15
  },
  "stats_dia": {
-  "ganados": 4,
-  "perdidos": 1,
-  "en_juego": 18,
-  "win_rate": 80
+  "ganados": 11,
+  "perdidos": 5,
+  "en_juego": 7,
+  "win_rate": 69
  },
  "stats_banker": {
   "ganados": 110,
-  "perdidos": 42,
-  "pendientes": 2,
+  "perdidos": 43,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
