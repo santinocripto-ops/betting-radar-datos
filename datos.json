@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-09-26T00:30:50.667577+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 4,
+ "actualizado": "2026-09-26T00:38:31.971138+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Vila Nova",
+   "away": "Londrina",
+   "liga": "Serie B",
+   "minuto": 48,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 78,
+   "momentum_away": 22,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚽ 1 gol — Londrina buscará el empate",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Nacional Potosí",
+   "away": "Always Ready",
+   "liga": "Copa de la División Profesional",
+   "minuto": 47,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
