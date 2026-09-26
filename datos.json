@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T10:34:37.494855+00:00",
+ "actualizado": "2026-09-26T10:41:51.972249+00:00",
  "partidos_vivo": [
   {
    "home": "Chelyabinsk",
@@ -906,6 +906,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Heroic vs Sangal (BO3) - Stake Pulse Beat II Playoffs",
+   "apuesta": "SI, ganara",
+   "usdc": 90331,
+   "prob": 79.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "12:41"
+  },
+  {
+   "titulo": "Counter-Strike: EYEBALLERS vs K27 (BO3) - 1win Private Club #1 Playoff",
+   "apuesta": "SI, ganara",
+   "usdc": 160900,
+   "prob": 33.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "12:41"
+  },
+  {
    "titulo": "Dota 2: Aurora vs Natus Vincere - Game 1 Winner",
    "apuesta": "SI, ganara",
    "usdc": 17712,
@@ -958,24 +976,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x3",
    "hora": "19:59"
-  },
-  {
-   "titulo": "Porto: Mia Pohankova vs Katie Swan",
-   "apuesta": "SI, Porto: Mia Pohankova ganara",
-   "usdc": 25451,
-   "prob": 55.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "19:32"
-  },
-  {
-   "titulo": "Will Sweden win on 2026-09-25?",
-   "apuesta": "NO, Sweden no ganara",
-   "usdc": 174858,
-   "prob": 33.5,
-   "n_traders": 2,
-   "trader": "0x076daa87c4fe1a85402a",
-   "hora": "17:43"
   }
  ],
  "stats_gt": {
