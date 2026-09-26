@@ -1,28 +1,88 @@
 {
- "actualizado": "2026-09-26T02:08:28.614587+00:00",
+ "actualizado": "2026-09-26T02:17:39.834372+00:00",
  "partidos_vivo": [
   {
-   "home": "Seattle Reign FC W",
-   "away": "Boston Legacy W",
-   "liga": "NWSL Women",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Atlante FC",
+   "away": "Monterrey",
+   "liga": "Liga MX",
+   "minuto": 55,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.9,
    "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
+   "momentum_home": 63,
+   "momentum_away": 37,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.1 goles/partido",
-    "⚽ 1 gol — Boston Legacy W buscará el empate",
-    "🎯 9 remates totales"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Honduras",
+   "away": "Suriname",
+   "liga": "CONCACAF Nations League",
+   "minuto": 58,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.8,
+   "recomendar": true,
+   "momentum_home": 69,
+   "momentum_away": 31,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Cruz Azul W",
+   "away": "Guadalajara W",
+   "liga": "Liga MX Femenil",
+   "minuto": 58,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Correcaminos Uat",
+   "away": "CDS Tampico Madero",
+   "liga": "Liga de Expansión MX",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -568,8 +628,8 @@
     "cuota": 1.36,
     "pinnacle": false,
     "delta": 3.9,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-25T23:30:00+00:00",
     "ts": "2026-09-25T18:12:09.936402+00:00"
    },
@@ -725,11 +785,11 @@
    }
   ],
   "balance": {
-   "ganados": 321,
+   "ganados": 322,
    "perdidos": 131,
-   "pendientes": 5,
-   "acierto": 71.0,
-   "total": 452
+   "pendientes": 4,
+   "acierto": 71.1,
+   "total": 453
   }
  },
  "mejor_dia": {
