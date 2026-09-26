@@ -1,47 +1,6 @@
 {
- "actualizado": "2026-09-26T21:07:11.267758+00:00",
- "partidos_vivo": [
-  {
-   "home": "Nautico Recife",
-   "away": "Sport Recife",
-   "liga": "Serie B",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Sport Recife pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Operario-PR",
-   "away": "Ceara",
-   "liga": "Serie B",
-   "minuto": 64,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.2,
-   "recomendar": true,
-   "momentum_home": 48,
-   "momentum_away": 52,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Ceara pierde por 2 — atacará sin freno"
-   ]
-  }
- ],
+ "actualizado": "2026-09-26T21:43:03.778821+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -588,8 +547,8 @@
     "cuota": 1.4,
     "pinnacle": true,
     "delta": 4.42,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-26T18:45:00+00:00",
     "ts": "2026-09-26T14:09:21.394035+00:00"
    },
@@ -603,8 +562,8 @@
     "cuota": 1.4,
     "pinnacle": false,
     "delta": 4.14,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-26T18:45:00+00:00",
     "ts": "2026-09-26T14:09:21.636859+00:00"
    },
@@ -618,8 +577,8 @@
     "cuota": 1.5,
     "pinnacle": true,
     "delta": 3.67,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-26T18:00:00+00:00",
     "ts": "2026-09-26T14:09:18.635302+00:00"
    },
@@ -760,11 +719,11 @@
    }
   ],
   "balance": {
-   "ganados": 326,
+   "ganados": 329,
    "perdidos": 134,
-   "pendientes": 6,
-   "acierto": 70.9,
-   "total": 460
+   "pendientes": 3,
+   "acierto": 71.1,
+   "total": 463
   }
  },
  "mejor_dia": {
