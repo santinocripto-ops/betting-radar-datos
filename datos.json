@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T12:24:20.064307+00:00",
+ "actualizado": "2026-09-26T12:31:13.991866+00:00",
  "partidos_vivo": [
   {
    "home": "Jonsered",
@@ -824,6 +824,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will England win on 2026-09-26?",
+   "apuesta": "NO, England no ganara",
+   "usdc": 129378,
+   "prob": 74.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x3",
+   "hora": "14:31"
+  },
+  {
    "titulo": "Will Spain win on 2026-09-26?",
    "apuesta": "SI, Spain ganara",
    "usdc": 275700,
@@ -883,15 +892,6 @@
    "usdc": 119224,
    "prob": 6.5,
    "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:26"
-  },
-  {
-   "titulo": "Korea Open: Anna Bondar vs Gabriela Ruse",
-   "apuesta": "SI, Korea Open: Anna Bondar ganara",
-   "usdc": 94194,
-   "prob": 92.5,
-   "n_traders": 3,
    "trader": "RN1",
    "hora": "06:26"
   }
