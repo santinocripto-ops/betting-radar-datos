@@ -1,51 +1,131 @@
 {
- "actualizado": "2026-09-26T16:58:20.650501+00:00",
+ "actualizado": "2026-09-26T17:09:44.315887+00:00",
  "partidos_vivo": [
   {
-   "home": "Union Carl Berner",
-   "away": "Frigg",
-   "liga": "3. Division - Girone 1",
+   "home": "London City Lionesses W",
+   "away": "Brighton W",
+   "liga": "FA WSL",
    "minuto": 50,
-   "marcador": "5-1",
-   "apuesta": "Over 6.5",
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.05 goles/partido",
+    "⚽ 1 gol — Brighton W buscará el empate",
+    "🎯 10 remates totales"
    ]
   },
   {
-   "home": "Rops",
-   "away": "SalPa",
-   "liga": "Ykkönen",
-   "minuto": 59,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
+   "home": "San Marino",
+   "away": "Finland",
+   "liga": "UEFA Nations League",
+   "minuto": 48,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 9.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 6,
+   "momentum_away": 94,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "🔒 Liga poco goleadora: 2.12 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ San Marino pierde por 3 — atacará sin freno"
    ]
   },
   {
-   "home": "Lugano II",
-   "away": "Cham",
-   "liga": "1. Liga Promotion",
+   "home": "Iceland",
+   "away": "Estonia",
+   "liga": "UEFA Nations League",
+   "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.12 goles/partido",
+    "⚽ 1 gol — Estonia buscará el empate",
+    "🎯 10 remates totales"
+   ]
+  },
+  {
+   "home": "Latvia U21",
+   "away": "Germany U21",
+   "liga": "UEFA U21 Championship - Qualification",
    "minuto": 46,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Klubi-04",
+   "away": "JäPS",
+   "liga": "Ykkösliiga",
+   "minuto": 49,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Karsiyaka",
+   "away": "Gaziemirspor",
+   "liga": "3. Lig - Group 2",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Ceuta II",
+   "away": "Tomares",
+   "liga": "Tercera División RFEF - Group 10",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -56,13 +136,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
+    "⚽ Liga por encima de la media: 2.74 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
+  },
+  {
+   "home": "Italy U20 W",
+   "away": "Colombia U20 W",
+   "liga": "World Cup - U20 - Women",
+   "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
   }
  ],
- "partidos_vivo_total": 10,
+ "partidos_vivo_total": 21,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -236,7 +336,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   },
@@ -247,20 +347,20 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54581.0,
-  "balance_total": 44581.0,
-  "balance_dia": -79.0,
-  "ganados": 3217,
+  "capital": 54703.0,
+  "balance_total": 44703.0,
+  "balance_dia": 43.0,
+  "ganados": 3219,
   "perdidos": 1438,
-  "pendientes": 9,
-  "ganados_dia": 21,
+  "pendientes": 7,
+  "ganados_dia": 23,
   "perdidos_dia": 12,
   "win_rate": 69.1,
   "roi": 9.6,
@@ -899,16 +999,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3316,
-  "ganados": 2225,
+  "n": 3318,
+  "ganados": 2227,
   "win_rate": 67,
   "hoy": 28
  },
  "stats_dia": {
-  "ganados": 23,
+  "ganados": 25,
   "perdidos": 13,
-  "en_juego": 7,
-  "win_rate": 64
+  "en_juego": 5,
+  "win_rate": 66
  },
  "stats_banker": {
   "ganados": 111,
