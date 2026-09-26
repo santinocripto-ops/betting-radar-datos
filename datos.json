@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T09:08:57.085997+00:00",
+ "actualizado": "2026-09-26T09:18:01.434016+00:00",
  "partidos_vivo": [
   {
    "home": "Central Stallions",
@@ -108,6 +108,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:17",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "10:17",
    "tipo": "live"
   },
@@ -164,12 +170,6 @@
    "texto": "⚽ Vila Nova vs Londrina · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (7 casas)",
    "hora": "20:12",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "20:12",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -253,6 +253,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Ružomberok W",
+   "away": "Tatran Prešov W",
+   "liga": "I Liga - Women",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
   {
    "home": "Iwaki",
    "away": "Vegalta Sendai",
@@ -866,7 +877,7 @@
   "n": 3294,
   "ganados": 2215,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 1,
