@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T11:19:00.035544+00:00",
+ "actualizado": "2026-09-26T11:26:03.127366+00:00",
  "partidos_vivo": [
   {
    "home": "Torpedo Miass",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:25",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "13:25",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -104,18 +116,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "05:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "05:06",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:52",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -184,6 +184,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "PuiU Helsinki",
+   "away": "Union Plaani",
+   "liga": "Kakkonen - Lohko A",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
+   "home": "Fortuna Hjørring W",
+   "away": "Nordsjælland W",
+   "liga": "Kvindeliga",
+   "minuto": 25,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
   {
    "home": "Torpedo Miass",
    "away": "Tyumen",
@@ -604,8 +626,8 @@
     "cuota": 1.29,
     "pinnacle": true,
     "delta": 4.94,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-26T09:00:00+00:00",
     "ts": "2026-09-26T08:09:17.526223+00:00"
    },
@@ -746,11 +768,11 @@
    }
   ],
   "balance": {
-   "ganados": 323,
+   "ganados": 324,
    "perdidos": 131,
-   "pendientes": 6,
-   "acierto": 71.1,
-   "total": 454
+   "pendientes": 5,
+   "acierto": 71.2,
+   "total": 455
   }
  },
  "mejor_dia": {
@@ -840,7 +862,7 @@
   "n": 3296,
   "ganados": 2216,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 4,
