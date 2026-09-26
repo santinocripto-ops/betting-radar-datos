@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:38:45.331454+00:00",
+ "actualizado": "2026-09-26T13:45:34.219007+00:00",
  "partidos_vivo": [
   {
    "home": "Eimsbütteler TV",
@@ -804,6 +804,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: paiN vs Galorys (BO3) - FERJEE In House Playoffs",
+   "apuesta": "SI, Counter-Strike: paiN ganara",
+   "usdc": 108072,
+   "prob": 56.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "15:45"
+  },
+  {
    "titulo": "St. Tropez: Harold Mayot vs Murphy Cassone",
    "apuesta": "SI, St. Tropez: Harold Mayot ganara",
    "usdc": 20426,
@@ -865,15 +874,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "12:41"
-  },
-  {
-   "titulo": "Dota 2: Aurora vs Natus Vincere - Game 1 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 17712,
-   "prob": 26.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "12:11"
   }
  ],
  "stats_gt": {
