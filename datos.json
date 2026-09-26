@@ -1,51 +1,11 @@
 {
- "actualizado": "2026-09-26T13:24:08.704856+00:00",
+ "actualizado": "2026-09-26T13:31:47.121753+00:00",
  "partidos_vivo": [
   {
-   "home": "Byåsen",
-   "away": "Orkla",
-   "liga": "3. Division - Girone 2",
-   "minuto": 46,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.56 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Frem",
-   "away": "Sundby",
-   "liga": "3. Division",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Frem buscará el empate"
-   ]
-  },
-  {
-   "home": "Lokomotive Leipzig",
-   "away": "FC Rot-Weiß Erfurt",
-   "liga": "Regionalliga - Nordost",
-   "minuto": 51,
+   "home": "Eimsbütteler TV",
+   "away": "HSC Hannover",
+   "liga": "Regionalliga - Nord",
+   "minuto": 55,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
@@ -57,14 +17,40 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.43 goles/partido",
+    "⚽ Liga muy goleadora: 4.3 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Bergisch Gladbach",
+   "away": "Westfalia Rhynern",
+   "liga": "Regionalliga - West",
+   "minuto": 65,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:31",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -129,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "13:25",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "13:03",
    "tipo": "live"
   }
  ],
@@ -205,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "AFC Amsterdam",
+   "away": "Katwijk",
+   "liga": "Tweede Divisie",
+   "minuto": 12,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
+  },
+  {
    "home": "Quick Boys",
    "away": "HHC",
    "liga": "Tweede Divisie",
@@ -254,17 +245,6 @@
    "liga": "1. Liga Women",
    "minuto": 15,
    "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26",
-   "es_hoy": true
-  },
-  {
-   "home": "Hessen Kassel",
-   "away": "FSV Mainz 05 II",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 13,
-   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-26",
@@ -900,7 +880,7 @@
   "n": 3296,
   "ganados": 2216,
   "win_rate": 67,
-  "hoy": 12
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 4,
