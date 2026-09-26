@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T08:09:41.370817+00:00",
+ "actualizado": "2026-09-26T08:17:12.277246+00:00",
  "partidos_vivo": [
   {
    "home": "Papua New Guinea W",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:17",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Hrvace vs Orijent 1919 · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.4 (6 c",
@@ -78,12 +84,6 @@
    "texto": "⚽ Vila Nova vs Londrina · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.32 (7 casas)",
    "hora": "20:12",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "20:12",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -174,70 +174,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Vila Nova",
-   "away": "Londrina",
-   "liga": "Serie B",
-   "minuto": 23,
+   "home": "Iwaki",
+   "away": "Vegalta Sendai",
+   "liga": "J2 League",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Ruthin Town",
-   "away": "Penrhyncoch",
-   "liga": "FAW Championship",
-   "minuto": 17,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Corinthians U20",
-   "away": "XV de Jaú U20",
-   "liga": "Paulista - U20",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Havelse",
-   "away": "Fortuna Köln",
-   "liga": "3. Liga",
-   "minuto": 16,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Atlético Madrid II",
-   "away": "Villarreal II",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 16,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
-  },
-  {
-   "home": "Písek",
-   "away": "Příbram II",
-   "liga": "3. liga - CFL A",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-25",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-26",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -602,6 +547,21 @@
     "ts": "2026-09-26T03:06:37.995271+00:00"
    },
    {
+    "home": "Chelyabinsk",
+    "away": "Enisey",
+    "liga": "First League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.29,
+    "pinnacle": true,
+    "delta": 4.94,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-26T09:00:00+00:00",
+    "ts": "2026-09-26T08:09:17.526223+00:00"
+   },
+   {
     "home": "Atlante FC",
     "away": "Monterrey",
     "liga": "Liga MX",
@@ -735,27 +695,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-24T18:45:00+00:00",
     "ts": "2026-09-24T18:04:47.907748+00:00"
-   },
-   {
-    "home": "Norway",
-    "away": "Denmark",
-    "liga": "UEFA Nations League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 9,
-    "cuota": 1.27,
-    "pinnacle": true,
-    "delta": 7.63,
-    "marcador": "3-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-24T18:45:00+00:00",
-    "ts": "2026-09-24T18:04:49.363662+00:00"
    }
   ],
   "balance": {
    "ganados": 323,
    "perdidos": 131,
-   "pendientes": 5,
+   "pendientes": 6,
    "acierto": 71.1,
    "total": 454
   }
@@ -841,12 +786,12 @@
   "n": 3294,
   "ganados": 2215,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
