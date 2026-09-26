@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:16:17.628655+00:00",
+ "actualizado": "2026-09-26T13:24:08.704856+00:00",
  "partidos_vivo": [
   {
    "home": "Byåsen",
@@ -278,7 +278,7 @@
   "balance_dia": 67.0,
   "ganados": 3199,
   "perdidos": 1427,
-  "pendientes": 12,
+  "pendientes": 15,
   "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.2,
@@ -286,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4638,
+  "con_cuota_media": 4641,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -824,6 +824,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "St. Tropez: Harold Mayot vs Murphy Cassone",
+   "apuesta": "SI, St. Tropez: Harold Mayot ganara",
+   "usdc": 20426,
+   "prob": 47.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "15:23"
+  },
+  {
    "titulo": "Counter-Strike: 100 Thieves vs Astralis (BO3) - Stake Pulse Beat II Pl",
    "apuesta": "SI, ganara",
    "usdc": 30567,
@@ -885,15 +894,6 @@
    "n_traders": 2,
    "trader": "0x2c335066FE58fe9237c3",
    "hora": "12:11"
-  },
-  {
-   "titulo": "Korea Open: Anna Bondar vs Gabriela Ruse",
-   "apuesta": "SI, Korea Open: Anna Bondar ganara",
-   "usdc": 51476,
-   "prob": 77.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:26"
   }
  ],
  "stats_gt": {
@@ -905,7 +905,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 12,
+  "en_juego": 15,
   "win_rate": 80
  },
  "stats_banker": {
