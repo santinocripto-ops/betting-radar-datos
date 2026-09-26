@@ -1,7 +1,248 @@
 {
- "actualizado": "2026-09-26T14:24:37.387074+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-26T14:29:37.610985+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Kenya",
+   "away": "Eritrea",
+   "liga": "Africa Cup of Nations - Qualification",
+   "minuto": 65,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 79,
+   "momentum_away": 21,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Kenya buscará el empate",
+    "🎯 23 remates totales — partido muy intenso",
+    "🎯 6 remates a puerta"
+   ]
+  },
+  {
+   "home": "South Africa",
+   "away": "Guinea",
+   "liga": "Africa Cup of Nations - Qualification",
+   "minuto": 60,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 68,
+   "momentum_away": 32,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Guinea buscará el empate",
+    "🎯 19 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Volga Ulyanovsk",
+   "away": "Leningradets",
+   "liga": "First League",
+   "minuto": 65,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 77,
+   "momentum_away": 23,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ 1 gol — Volga Ulyanovsk buscará el empate",
+    "🎯 9 remates totales"
+   ]
+  },
+  {
+   "home": "Slovenia",
+   "away": "Scotland",
+   "liga": "UEFA Nations League",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 56,
+   "momentum_away": 44,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔒 Liga poco goleadora: 2.12 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "AFC Amsterdam",
+   "away": "Katwijk",
+   "liga": "Tweede Divisie",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Strindheim",
+   "away": "Molde II",
+   "liga": "3. Division - Girone 2",
+   "minuto": 55,
+   "marcador": "7-0",
+   "apuesta": "Over 7.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.56 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 7 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Råde",
+   "away": "Lillehammer",
+   "liga": "3. Division - Girone 6",
+   "minuto": 65,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.54 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Frýdlant",
+   "away": "Valašské Meziříčí",
+   "liga": "4. liga - Divizie F",
+   "minuto": 63,
+   "marcador": "0-5",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "JIPPO",
+   "away": "PK-35",
+   "liga": "Ykkösliiga",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.03 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Ijsselmeervogels",
+   "away": "Rijnsburgse Boys",
+   "liga": "Tweede Divisie",
+   "minuto": 64,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Almere City II",
+   "away": "Barendrecht",
+   "liga": "Tweede Divisie",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Sparta Rotterdam II",
+   "away": "Hoek",
+   "liga": "Tweede Divisie",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 31,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -208,7 +449,7 @@
   "balance_dia": 146.0,
   "ganados": 3206,
   "perdidos": 1430,
-  "pendientes": 9,
+  "pendientes": 17,
   "ganados_dia": 10,
   "perdidos_dia": 4,
   "win_rate": 69.2,
@@ -216,7 +457,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4645,
+  "con_cuota_media": 4653,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -485,6 +726,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "AFC Amsterdam",
+   "away": "Katwijk",
+   "liga": "Tweede Divisie",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Almere City II",
    "away": "Barendrecht",
@@ -835,7 +1083,7 @@
  "stats_dia": {
   "ganados": 11,
   "perdidos": 5,
-  "en_juego": 8,
+  "en_juego": 16,
   "win_rate": 69
  },
  "stats_banker": {
