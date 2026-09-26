@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-09-26T02:38:33.120112+00:00",
+ "actualizado": "2026-09-26T02:45:24.764763+00:00",
  "partidos_vivo": [
   {
-   "home": "Atlante FC",
-   "away": "Monterrey",
-   "liga": "Liga MX",
-   "minuto": 55,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.9,
-   "recomendar": true,
-   "momentum_home": 63,
-   "momentum_away": 37,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Honduras",
-   "away": "Suriname",
-   "liga": "CONCACAF Nations League",
-   "minuto": 58,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.8,
-   "recomendar": true,
-   "momentum_home": 69,
-   "momentum_away": 31,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.62 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Cruz Azul W",
-   "away": "Guadalajara W",
-   "liga": "Liga MX Femenil",
-   "minuto": 58,
-   "marcador": "0-1",
+   "home": "CD Arabe Unido",
+   "away": "Herrera",
+   "liga": "Liga Panameña de Fútbol",
+   "minuto": 54,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.3,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.83 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Correcaminos Uat",
-   "away": "CDS Tampico Madero",
-   "liga": "Liga de Expansión MX",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚽ Liga goleadora: 3.03 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Herrera buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
