@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:31:47.121753+00:00",
+ "actualizado": "2026-09-26T13:38:45.331454+00:00",
  "partidos_vivo": [
   {
    "home": "Eimsbütteler TV",
@@ -258,7 +258,7 @@
   "balance_dia": 67.0,
   "ganados": 3199,
   "perdidos": 1427,
-  "pendientes": 15,
+  "pendientes": 16,
   "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.2,
@@ -266,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4641,
+  "con_cuota_media": 4642,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -885,7 +885,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 15,
+  "en_juego": 16,
   "win_rate": 80
  },
  "stats_banker": {
