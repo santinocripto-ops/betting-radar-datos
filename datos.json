@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-26T13:01:22.257864+00:00",
+ "actualizado": "2026-09-26T13:08:19.087147+00:00",
  "partidos_vivo": [
   {
    "home": "Byåsen",
@@ -67,6 +67,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "15:08",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:24",
    "tipo": "live"
@@ -129,12 +135,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "11:17",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "10:17",
    "tipo": "live"
   }
  ],
@@ -278,7 +278,7 @@
   "balance_dia": 67.0,
   "ganados": 3199,
   "perdidos": 1427,
-  "pendientes": 11,
+  "pendientes": 12,
   "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.2,
@@ -286,7 +286,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4637,
+  "con_cuota_media": 4638,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -556,6 +556,13 @@
  },
  "reentradas": [
   {
+   "home": "Dinamo Stavropol",
+   "away": "Amkar",
+   "liga": "Second League A - Division A Silver",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
    "home": "Fortuna Hjørring W",
    "away": "Nordsjælland W",
    "liga": "Kvindeliga",
@@ -568,13 +575,6 @@
    "liga": "Second League A - Division A Silver",
    "recomendacion": "OVER 0.5",
    "resultado": "pendiente"
-  },
-  {
-   "home": "Ružomberok W",
-   "away": "Tatran Prešov W",
-   "liga": "I Liga - Women",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -905,7 +905,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 1,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 80
  },
  "stats_banker": {
