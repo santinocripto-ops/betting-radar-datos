@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-09-26T12:53:22.631388+00:00",
+ "actualizado": "2026-09-26T13:01:22.257864+00:00",
  "partidos_vivo": [
   {
-   "home": "Konnerud",
-   "away": "KFUM II",
-   "liga": "3. Division - Girone 1",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.78 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "OLS",
-   "away": "PKKU",
-   "liga": "Ykkönen",
+   "home": "Byåsen",
+   "away": "Orkla",
+   "liga": "3. Division - Girone 2",
    "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,29 +16,49 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚽ Liga muy goleadora: 4.56 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Shakhter Soligorsk",
-   "away": "Minsk II",
-   "liga": "1. Division",
-   "minuto": 47,
+   "home": "Frem",
+   "away": "Sundby",
+   "liga": "3. Division",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Frem buscará el empate"
+   ]
+  },
+  {
+   "home": "Lokomotive Leipzig",
+   "away": "FC Rot-Weiß Erfurt",
+   "liga": "Regionalliga - Nordost",
+   "minuto": 51,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.3,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Minsk II buscará el empate"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.43 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
