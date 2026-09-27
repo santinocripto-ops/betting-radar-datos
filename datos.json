@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T15:58:57.043501+00:00",
+ "actualizado": "2026-09-27T16:09:32.585395+00:00",
  "partidos_vivo": [
   {
    "home": "Anguiano",
@@ -122,8 +122,8 @@
    "score": 8.33,
    "hora": "11:00",
    "resultado": "ganado",
-   "wr_historico": 84,
-   "n_historico": 365
+   "wr_historico": 85,
+   "n_historico": 368
   },
   {
    "clave": "over25",
@@ -137,7 +137,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1635
+   "n_historico": 1645
   },
   {
    "clave": "btts",
@@ -151,7 +151,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1668
+   "n_historico": 1676
   }
  ],
  "gol_temprano": [
@@ -184,7 +184,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-27",
    "es_hoy": true
   },
@@ -195,7 +195,7 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": true
   },
@@ -206,7 +206,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-27",
    "es_hoy": true
   },
@@ -217,23 +217,23 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-27",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54643.0,
-  "balance_total": 44643.0,
-  "balance_dia": -139.0,
-  "ganados": 3227,
-  "perdidos": 1443,
-  "pendientes": 19,
-  "ganados_dia": 1,
-  "perdidos_dia": 2,
+  "capital": 54367.0,
+  "balance_total": 44367.0,
+  "balance_dia": -415.0,
+  "ganados": 3235,
+  "perdidos": 1450,
+  "pendientes": 4,
+  "ganados_dia": 9,
+  "perdidos_dia": 9,
   "win_rate": 69.1,
-  "roi": 9.6,
+  "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -319,7 +319,7 @@
     "away": "Norderstedt II",
     "liga": "Oberliga - Hamburg",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -328,7 +328,7 @@
     "away": "Sparta Lichtenberg",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -337,7 +337,7 @@
     "away": "Siedenbollentin",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -346,7 +346,7 @@
     "away": "FC Frankfurt",
     "liga": "Oberliga - Nordost-Süd",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -355,7 +355,7 @@
     "away": "Oldenburger SV",
     "liga": "Oberliga - Schleswig-Holstein",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -364,7 +364,7 @@
     "away": "Nordmark Satrup",
     "liga": "Oberliga - Schleswig-Holstein",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -447,7 +447,7 @@
     "away": "Norderstedt II",
     "liga": "Oberliga - Hamburg",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -456,7 +456,7 @@
     "away": "Siedenbollentin",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -465,7 +465,7 @@
     "away": "BAK '07",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -474,7 +474,7 @@
     "away": "FC Frankfurt",
     "liga": "Oberliga - Nordost-Süd",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -483,7 +483,7 @@
     "away": "Oldenburger SV",
     "liga": "Oberliga - Schleswig-Holstein",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -492,14 +492,14 @@
     "away": "Teningen",
     "liga": "Oberliga - Baden-Württemberg",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 2031,
-   "perdidos": 1272,
+   "ganados": 2041,
+   "perdidos": 1280,
    "acierto": 61.5,
    "yield": 16.8,
    "cuota_media": 1.9
@@ -511,35 +511,35 @@
    "away": "Ska-khabarovsk",
    "liga": "First League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Sturm Graz W",
    "away": "Austria Wien W",
    "liga": "Frauenliga",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Söke 1970",
    "away": "Anadolu Üniversitesi",
    "liga": "3. Lig - Group 2",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Strømsgodset II",
    "away": "Fløya",
    "liga": "3. Division - Girone 5",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Kongsvinger II",
    "away": "Harstad",
    "liga": "3. Division - Girone 5",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -826,16 +826,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3328,
-  "ganados": 2232,
+  "n": 3338,
+  "ganados": 2236,
   "win_rate": 67,
   "hoy": 13
  },
  "stats_dia": {
-  "ganados": 2,
-  "perdidos": 2,
-  "en_juego": 18,
-  "win_rate": 50
+  "ganados": 10,
+  "perdidos": 9,
+  "en_juego": 3,
+  "win_rate": 53
  },
  "stats_banker": {
   "ganados": 112,
