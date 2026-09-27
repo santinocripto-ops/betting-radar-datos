@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T21:00:24.142492+00:00",
+ "actualizado": "2026-09-27T21:09:02.646643+00:00",
  "partidos_vivo": [
   {
    "home": "Aragua FC",
@@ -160,7 +160,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1676
+   "n_historico": 1677
   }
  ],
  "gol_temprano": [
@@ -215,7 +215,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-27",
    "es_hoy": true
   },
@@ -226,21 +226,21 @@
    "minuto": 11,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54495.0,
-  "balance_total": 44495.0,
-  "balance_dia": -287.0,
-  "ganados": 3239,
-  "perdidos": 1451,
-  "pendientes": 9,
-  "ganados_dia": 13,
-  "perdidos_dia": 10,
+  "capital": 54517.0,
+  "balance_total": 44517.0,
+  "balance_dia": -265.0,
+  "ganados": 3241,
+  "perdidos": 1452,
+  "pendientes": 6,
+  "ganados_dia": 15,
+  "perdidos_dia": 11,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -507,7 +507,7 @@
    }
   ],
   "balance": {
-   "ganados": 2042,
+   "ganados": 2043,
    "perdidos": 1280,
    "acierto": 61.5,
    "yield": 16.8,
@@ -799,16 +799,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3342,
-  "ganados": 2239,
+  "n": 3345,
+  "ganados": 2241,
   "win_rate": 67,
   "hoy": 22
  },
  "stats_dia": {
-  "ganados": 14,
-  "perdidos": 10,
-  "en_juego": 9,
-  "win_rate": 58
+  "ganados": 16,
+  "perdidos": 11,
+  "en_juego": 6,
+  "win_rate": 59
  },
  "stats_banker": {
   "ganados": 112,
