@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-09-27T21:09:02.646643+00:00",
- "partidos_vivo": [
-  {
-   "home": "Aragua FC",
-   "away": "Atletico Avila FC",
-   "liga": "Segunda División",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 5,
+ "actualizado": "2026-09-27T21:23:44.726729+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
