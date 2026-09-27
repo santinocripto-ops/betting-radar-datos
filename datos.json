@@ -1,54 +1,14 @@
 {
- "actualizado": "2026-09-27T12:30:58.744268+00:00",
+ "actualizado": "2026-09-27T12:39:12.903848+00:00",
  "partidos_vivo": [
   {
-   "home": "Rosengård W",
-   "away": "Piteå W",
-   "liga": "Damallsvenskan",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Brommapojkarna W",
-   "away": "Malmö FF W",
-   "liga": "Damallsvenskan",
-   "minuto": 53,
-   "marcador": "1-1",
+   "home": "Fauske Sprint",
+   "away": "Tromsø II",
+   "liga": "3. Division - Girone 5",
+   "minuto": 48,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 12,
-   "momentum_away": 88,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.68 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 10 remates totales"
-   ]
-  },
-  {
-   "home": "Arendal",
-   "away": "Brattvåg",
-   "liga": "2. Division - Group 1",
-   "minuto": 50,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -56,193 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚽ Liga muy goleadora: 4.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Franke",
-   "away": "Kungsängen",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 52,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Kungsängen buscará el empate"
-   ]
-  },
-  {
-   "home": "Linero",
-   "away": "Torns",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 53,
-   "marcador": "4-1",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Sölvesborg",
-   "away": "Berga",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 47,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.71 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Berga buscará el empate"
-   ]
-  },
-  {
-   "home": "Onsala",
-   "away": "Qviding FIF",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Qviding FIF buscará el empate"
-   ]
-  },
-  {
-   "home": "Åsane W",
-   "away": "Start W",
-   "liga": "1. Division Women",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "TIL 2020 W",
-   "away": "Arna-Bjørnar W",
-   "liga": "1. Division Women",
-   "minuto": 49,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.64 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Irtysh Omsk",
-   "away": "Dinamo Moskva II",
-   "liga": "Second League A - Division A Silver",
-   "minuto": 48,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Lucksta",
-   "away": "Täfteå",
-   "liga": "Division 2 - Norrland",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.76 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Västra Frölunda",
-   "away": "Åstorp",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.6,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Åstorp buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 29,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
