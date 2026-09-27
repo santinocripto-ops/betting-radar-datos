@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-27T17:23:37.149038+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-27T17:32:04.533622+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Pontevedra",
+   "away": "Ponferradina",
+   "liga": "Primera División RFEF - Group 1",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  }
+ ],
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
