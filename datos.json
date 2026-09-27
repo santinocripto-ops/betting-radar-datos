@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T16:30:19.626566+00:00",
+ "actualizado": "2026-09-27T16:37:50.802972+00:00",
  "partidos_vivo": [
   {
    "home": "Club Leon U21",
@@ -579,13 +579,6 @@
   {
    "home": "Strømsgodset II",
    "away": "Fløya",
-   "liga": "3. Division - Girone 5",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Kongsvinger II",
-   "away": "Harstad",
    "liga": "3. Division - Girone 5",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
