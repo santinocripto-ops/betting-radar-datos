@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T23:14:47.158106+00:00",
+ "actualizado": "2026-09-27T23:23:22.145736+00:00",
  "partidos_vivo": [
   {
    "home": "Sol de América",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:23",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:23",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -104,18 +116,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "20:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "19:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -176,6 +176,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Utah Royals W",
+   "away": "North Carolina Courage W",
+   "liga": "NWSL Women",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": false
+  },
+  {
+   "home": "Columbus Crew",
+   "away": "Inter Miami",
+   "liga": "Major League Soccer",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": false
+  },
+  {
    "home": "Racing United",
    "away": "Montego Bay United",
    "liga": "Premier League",
@@ -213,28 +235,6 @@
    "away": "Mount Pleasant Academy",
    "liga": "Premier League",
    "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Cavalier",
-   "away": "Arnett Gardens",
-   "liga": "Premier League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Universidad O&M",
-   "away": "Salcedo",
-   "liga": "Liga Mayor",
-   "minuto": 13,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -568,8 +568,8 @@
     "cuota": 1.33,
     "pinnacle": true,
     "delta": 4.21,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-27T20:00:00+00:00",
     "ts": "2026-09-27T14:07:19.001482+00:00"
    },
@@ -755,11 +755,11 @@
    }
   ],
   "balance": {
-   "ganados": 332,
+   "ganados": 333,
    "perdidos": 135,
-   "pendientes": 3,
-   "acierto": 71.1,
-   "total": 467
+   "pendientes": 2,
+   "acierto": 71.2,
+   "total": 468
   }
  },
  "mejor_dia": {
