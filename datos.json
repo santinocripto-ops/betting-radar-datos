@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T17:39:39.674118+00:00",
+ "actualizado": "2026-09-27T17:47:26.335687+00:00",
  "partidos_vivo": [
   {
    "home": "Pontevedra",
@@ -528,13 +528,6 @@
    "liga": "First League",
    "recomendacion": "OVER 0.5",
    "resultado": "perdido"
-  },
-  {
-   "home": "Sturm Graz W",
-   "away": "Austria Wien W",
-   "liga": "Frauenliga",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
