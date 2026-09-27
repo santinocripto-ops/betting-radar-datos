@@ -1,171 +1,11 @@
 {
- "actualizado": "2026-09-27T14:43:07.123964+00:00",
+ "actualizado": "2026-09-27T14:53:08.416047+00:00",
  "partidos_vivo": [
   {
-   "home": "Birmingham City W",
-   "away": "Crystal Palace W",
-   "liga": "FA WSL",
-   "minuto": 56,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 47,
-   "momentum_away": 53,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.91 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 21 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Tottenham Hotspur W",
-   "away": "Aston Villa W",
-   "liga": "FA WSL",
-   "minuto": 59,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 81,
-   "momentum_away": 19,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.91 goles/partido",
-    "⚽ 1 gol — Aston Villa W buscará el empate",
-    "🎯 26 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Söke 1970",
-   "away": "Anadolu Üniversitesi",
-   "liga": "3. Lig - Group 2",
-   "minuto": 54,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Liverpool W",
-   "away": "Everton W",
-   "liga": "FA WSL",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.6,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.91 goles/partido",
-    "⚽ 1 gol — Everton W buscará el empate",
-    "🎯 14 remates totales"
-   ]
-  },
-  {
-   "home": "Strømsgodset II",
-   "away": "Fløya",
-   "liga": "3. Division - Girone 5",
-   "minuto": 60,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.7 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Strømsgodset II buscará el empate"
-   ]
-  },
-  {
-   "home": "Murom",
-   "away": "Luki-Energiya",
-   "liga": "Second League - Group 2",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Luki-Energiya buscará el empate"
-   ]
-  },
-  {
-   "home": "Cercle Brugge II",
-   "away": "Tienen",
-   "liga": "First Amateur Division",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Strání",
-   "away": "SK Krumvir",
-   "liga": "4. liga - Divizie E",
-   "minuto": 58,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.8,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Nilüfer Belediye",
-   "away": "Bursa Yıldırımspor",
-   "liga": "3. Lig - Group 2",
-   "minuto": 55,
+   "home": "Beroe",
+   "away": "Yantra 2019",
+   "liga": "Second League",
+   "minuto": 63,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -176,16 +16,36 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
+    "⚽ Liga goleadora: 3.07 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Güzide Gebzespor",
-   "away": "Elazığspor",
+   "home": "Sturm Graz W",
+   "away": "Austria Wien W",
+   "liga": "Frauenliga",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "24 Erzincanspor",
+   "away": "Kırklarelispor",
    "liga": "2. Lig",
-   "minuto": 52,
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -202,47 +62,27 @@
    ]
   },
   {
-   "home": "Oud-Heverlee Leuven II",
-   "away": "Lyra-Lierse Berlaar",
-   "liga": "First Amateur Division",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Francavilla",
+   "away": "Brindisi",
+   "liga": "Serie D - Girone H",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.3,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Lyra-Lierse Berlaar buscará el empate"
-   ]
-  },
-  {
-   "home": "Znojmo",
-   "away": "Velká Bíteš",
-   "liga": "4. liga - Divizie D",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.48 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Velká Bíteš buscará el empate"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 60,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
