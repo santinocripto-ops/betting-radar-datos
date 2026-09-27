@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T16:09:32.585395+00:00",
+ "actualizado": "2026-09-27T16:10:39.672882+00:00",
  "partidos_vivo": [
   {
    "home": "Anguiano",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Utah Royals W vs North Carolina Courage W · 🎯 Apuesta: Doble oport. 1X (local o empate) ",
+   "hora": "18:10",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "18:10",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,22 +96,19 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "16:06",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:42",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:31",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Utah Royals W",
+   "away": "North Carolina Courage W",
+   "liga": "NWSL Women",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.32,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27"
+  },
   {
    "home": "Racing Cordoba",
    "away": "Godoy Cruz",
@@ -840,7 +849,7 @@
  "stats_banker": {
   "ganados": 112,
   "perdidos": 43,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 72
  },
  "marca": {
