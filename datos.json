@@ -1,88 +1,48 @@
 {
- "actualizado": "2026-09-27T10:43:15.462638+00:00",
+ "actualizado": "2026-09-27T10:52:53.526520+00:00",
  "partidos_vivo": [
   {
-   "home": "Tsirang",
-   "away": "Ugyen Academy",
-   "liga": "Premier League",
-   "minuto": 62,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.34 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Calcutta Customs",
-   "away": "Minerva Punjab",
-   "liga": "IFA Shield",
-   "minuto": 58,
-   "marcador": "0-6",
-   "apuesta": "Over 6.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.33 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Metal Kharkiv",
-   "away": "Chernihiv",
-   "liga": "Persha Liga",
+   "home": "FC UFA",
+   "away": "Torpedo Moskva",
+   "liga": "First League",
    "minuto": 59,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 33,
+   "momentum_away": 67,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🟥 1 tarjeta(s) roja(s) — más espacio en el campo"
    ]
   },
   {
-   "home": "Puskás II",
-   "away": "Balatonalmádi",
-   "liga": "NB III - Northwest",
-   "minuto": 57,
+   "home": "Manila Digger",
+   "away": "Azkals",
+   "liga": "PFL",
+   "minuto": 46,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.73 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
  "alertas": [
   {
