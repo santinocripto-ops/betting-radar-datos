@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T22:29:43.951553+00:00",
+ "actualizado": "2026-09-27T22:38:39.421182+00:00",
  "partidos_vivo": [
   {
    "home": "Bay FC W",
@@ -775,6 +775,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Rams vs. Broncos: O/U 44.5",
+   "apuesta": "SI, mas de 44.5 goles",
+   "usdc": 271168,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "00:38"
+  },
   {
    "titulo": "LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs",
    "apuesta": "SI, LoL: Cloud9 ganara",
