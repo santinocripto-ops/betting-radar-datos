@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T12:39:12.903848+00:00",
+ "actualizado": "2026-09-27T12:47:53.519116+00:00",
  "partidos_vivo": [
   {
    "home": "Fauske Sprint",
@@ -25,6 +25,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:47",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -79,6 +91,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "De Graafschap",
+   "away": "Den Bosch",
+   "liga": "Eerste Divisie",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
+  {
+   "home": "Kongsvinger II",
+   "away": "Harstad",
+   "liga": "3. Division - Girone 5",
+   "minuto": 18,
+   "score": 9.9,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
   {
    "home": "Utrera",
    "away": "Recreativo Huelva",
@@ -653,7 +687,7 @@
   "n": 3328,
   "ganados": 2232,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 2,
