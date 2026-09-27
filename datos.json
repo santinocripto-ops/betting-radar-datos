@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T23:23:22.145736+00:00",
+ "actualizado": "2026-09-27T23:31:44.920094+00:00",
  "partidos_vivo": [
   {
    "home": "Sol de América",
@@ -249,7 +249,7 @@
   "balance_dia": 0.0,
   "ganados": 3245,
   "perdidos": 1452,
-  "pendientes": 4,
+  "pendientes": 6,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -257,7 +257,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4701,
+  "con_cuota_media": 4703,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -830,7 +830,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
