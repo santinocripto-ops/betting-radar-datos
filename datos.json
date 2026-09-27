@@ -1,50 +1,56 @@
 {
- "actualizado": "2026-09-27T22:11:07.326045+00:00",
+ "actualizado": "2026-09-27T22:21:13.522821+00:00",
  "partidos_vivo": [
   {
-   "home": "Cavalier",
-   "away": "Arnett Gardens",
-   "liga": "Premier League",
-   "minuto": 59,
-   "marcador": "2-1",
+   "home": "Bay FC W",
+   "away": "Orlando Pride W",
+   "liga": "NWSL Women",
+   "minuto": 54,
+   "marcador": "1-2",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 9.3,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 63,
+   "momentum_away": 37,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ Liga goleadora: 3.07 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 19 remates totales"
    ]
   },
   {
-   "home": "Molynes United",
-   "away": "Tru-Juice",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Jaguares",
+   "away": "Alianza Valledupar",
+   "liga": "Primera A",
+   "minuto": 61,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.4,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 18 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:21",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -109,12 +115,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:19",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:18",
    "tipo": "live"
   }
  ],
@@ -185,6 +185,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Racing United",
+   "away": "Montego Bay United",
+   "liga": "Premier League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": false
+  },
+  {
    "home": "Bolívar",
    "away": "Blooming",
    "liga": "Copa de la División Profesional",
@@ -235,30 +246,19 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-27",
-   "es_hoy": false
-  },
-  {
-   "home": "Gualberto Villarroel SJ",
-   "away": "Independiente Petrolero",
-   "liga": "Copa de la División Profesional",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54517.0,
-  "balance_total": 44517.0,
+  "capital": 54578.0,
+  "balance_total": 44578.0,
   "balance_dia": 0.0,
-  "ganados": 3241,
+  "ganados": 3242,
   "perdidos": 1452,
-  "pendientes": 7,
+  "pendientes": 6,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -822,8 +822,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3345,
-  "ganados": 2241,
+  "n": 3346,
+  "ganados": 2242,
   "win_rate": 67,
   "hoy": 0
  },
