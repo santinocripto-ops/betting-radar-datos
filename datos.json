@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T11:00:49.126862+00:00",
+ "actualizado": "2026-09-27T11:09:32.199990+00:00",
  "partidos_vivo": [
   {
    "home": "FC UFA",
@@ -66,8 +66,8 @@
    "score": 8.33,
    "hora": "11:00",
    "resultado": "pendiente",
-   "wr_historico": 84,
-   "n_historico": 361
+   "wr_historico": 85,
+   "n_historico": 362
   },
   {
    "clave": "over25",
@@ -81,7 +81,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1628
+   "n_historico": 1632
   },
   {
    "clave": "btts",
@@ -95,7 +95,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1661
+   "n_historico": 1663
   }
  ],
  "gol_temprano": [
@@ -291,7 +291,7 @@
     "away": "Cashmere Technical",
     "liga": "National League - National",
     "hora": "04:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -309,7 +309,7 @@
     "away": "Philippine Army",
     "liga": "PFL",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -387,10 +387,10 @@
    }
   ],
   "balance": {
-   "ganados": 2020,
+   "ganados": 2026,
    "perdidos": 1269,
-   "acierto": 61.4,
-   "yield": 16.7,
+   "acierto": 61.5,
+   "yield": 16.8,
    "cuota_media": 1.9
   }
  },
