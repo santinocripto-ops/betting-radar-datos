@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T22:56:10.450054+00:00",
+ "actualizado": "2026-09-27T23:05:14.067222+00:00",
  "partidos_vivo": [
   {
    "home": "Fortaleza EC",
@@ -108,15 +108,6 @@
    "cuota": 1.32,
    "resultado": "pendiente",
    "fecha": "2026-09-27"
-  },
-  {
-   "home": "Racing Cordoba",
-   "away": "Godoy Cruz",
-   "liga": "Primera Nacional",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.28,
-   "resultado": "pendiente",
-   "fecha": "2026-09-27"
   }
  ],
  "mejores_dia": [
@@ -193,7 +184,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": false
   },
@@ -204,7 +195,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": false
   },
@@ -215,7 +206,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": false
   },
@@ -233,12 +224,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54578.0,
-  "balance_total": 44578.0,
+  "capital": 54761.0,
+  "balance_total": 44761.0,
   "balance_dia": 0.0,
-  "ganados": 3242,
+  "ganados": 3245,
   "perdidos": 1452,
-  "pendientes": 7,
+  "pendientes": 4,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -811,8 +802,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3346,
-  "ganados": 2242,
+  "n": 3349,
+  "ganados": 2245,
   "win_rate": 67,
   "hoy": 0
  },
@@ -823,9 +814,9 @@
   "win_rate": 0
  },
  "stats_banker": {
-  "ganados": 112,
+  "ganados": 113,
   "perdidos": 43,
-  "pendientes": 2,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
