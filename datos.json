@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T14:53:08.416047+00:00",
+ "actualizado": "2026-09-27T15:01:36.972224+00:00",
  "partidos_vivo": [
   {
    "home": "Beroe",
@@ -841,6 +841,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Bengals vs. Steelers: O/U 42.5",
+   "apuesta": "SI, mas de 42.5 goles",
+   "usdc": 333917,
+   "prob": 49.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "17:01"
+  },
   {
    "titulo": "Singapore Open: Leylah Fernandez vs Talia Gibson",
    "apuesta": "SI, Singapore Open: Leylah Fernandez ganara",
