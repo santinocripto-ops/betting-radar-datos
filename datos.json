@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-09-27T14:07:31.096676+00:00",
+ "actualizado": "2026-09-27T14:25:13.797806+00:00",
  "partidos_vivo": [
   {
-   "home": "De Graafschap",
-   "away": "Den Bosch",
-   "liga": "Eerste Divisie",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Birmingham City W",
+   "away": "Crystal Palace W",
+   "liga": "FA WSL",
+   "minuto": 56,
+   "marcador": "2-1",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
@@ -16,36 +16,76 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚽ 1 gol — Den Bosch buscará el empate",
-    "🎯 13 remates totales"
+    "⚽ Liga goleadora: 2.91 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 21 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Kongsvinger II",
-   "away": "Harstad",
-   "liga": "3. Division - Girone 5",
+   "home": "Tottenham Hotspur W",
+   "away": "Aston Villa W",
+   "liga": "FA WSL",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 81,
+   "momentum_away": 19,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.91 goles/partido",
+    "⚽ 1 gol — Aston Villa W buscará el empate",
+    "🎯 26 remates totales — partido muy intenso"
+   ]
+  },
+  {
+   "home": "Söke 1970",
+   "away": "Anadolu Üniversitesi",
+   "liga": "3. Lig - Group 2",
    "minuto": 54,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 9.5,
+   "score": 9.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.7 goles/partido",
+    "⚽ Liga goleadora: 3.04 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Stallion",
-   "away": "Maharlika",
-   "liga": "PFL",
-   "minuto": 51,
+   "home": "Liverpool W",
+   "away": "Everton W",
+   "liga": "FA WSL",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.91 goles/partido",
+    "⚽ 1 gol — Everton W buscará el empate",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Strømsgodset II",
+   "away": "Fløya",
+   "liga": "3. Division - Girone 5",
+   "minuto": 60,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
@@ -56,36 +96,96 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
+    "⚽ Liga muy goleadora: 4.7 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Stallion buscará el empate"
+    "⚽ 1 gol — Strømsgodset II buscará el empate"
    ]
   },
   {
-   "home": "Eik-Tønsberg",
-   "away": "Bjarg",
-   "liga": "2. Division - Group 1",
-   "minuto": 53,
-   "marcador": "0-1",
+   "home": "Murom",
+   "away": "Luki-Energiya",
+   "liga": "Second League - Group 2",
+   "minuto": 60,
+   "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.6,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Eik-Tønsberg buscará el empate"
+    "⚽ 1 gol — Luki-Energiya buscará el empate"
    ]
   },
   {
-   "home": "Hatayspor",
-   "away": "Arnavutköy Belediyespor",
+   "home": "Cercle Brugge II",
+   "away": "Tienen",
+   "liga": "First Amateur Division",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Strání",
+   "away": "SK Krumvir",
+   "liga": "4. liga - Divizie E",
+   "minuto": 58,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.8,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Nilüfer Belediye",
+   "away": "Bursa Yıldırımspor",
+   "liga": "3. Lig - Group 2",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.04 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Güzide Gebzespor",
+   "away": "Elazığspor",
    "liga": "2. Lig",
-   "minuto": 49,
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -102,29 +202,61 @@
    ]
   },
   {
-   "home": "12 Bingölspor",
-   "away": "1461 Trabzon FK",
-   "liga": "2. Lig",
-   "minuto": 50,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Oud-Heverlee Leuven II",
+   "away": "Lyra-Lierse Berlaar",
+   "liga": "First Amateur Division",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 7.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "⚽ 1 gol — Lyra-Lierse Berlaar buscará el empate"
+   ]
+  },
+  {
+   "home": "Znojmo",
+   "away": "Velká Bíteš",
+   "liga": "4. liga - Divizie D",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.1,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Velká Bíteš buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 60,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:24",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:24",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Racing Cordoba vs Godoy Cruz · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
@@ -183,18 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:47",
    "tipo": "live"
   }
  ],
@@ -256,6 +376,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Shinnik Yaroslavl",
+   "away": "Ska-khabarovsk",
+   "liga": "First League",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
+  {
+   "home": "Levanger",
+   "away": "Grorud",
+   "liga": "2. Division - Group 2",
+   "minuto": 23,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
+  {
    "home": "Sturm Graz W",
    "away": "Austria Wien W",
    "liga": "Frauenliga",
@@ -294,28 +436,6 @@
    "liga": "3. Lig - Group 2",
    "minuto": 12,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Oud-Heverlee Leuven II",
-   "away": "Lyra-Lierse Berlaar",
-   "liga": "First Amateur Division",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-09-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Strømsgodset II",
-   "away": "Fløya",
-   "liga": "3. Division - Girone 5",
-   "minuto": 14,
-   "score": 9.7,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-27",
@@ -631,6 +751,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Racing Cordoba",
+    "away": "Godoy Cruz",
+    "liga": "Primera Nacional",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.33,
+    "pinnacle": true,
+    "delta": 4.21,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-27T20:00:00+00:00",
+    "ts": "2026-09-27T14:07:19.001482+00:00"
+   },
+   {
     "home": "Fiji",
     "away": "Papua New Guinea",
     "liga": "Friendlies",
@@ -839,27 +974,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-26T01:00:00+00:00",
     "ts": "2026-09-25T18:12:03.257417+00:00"
-   },
-   {
-    "home": "Vila Nova",
-    "away": "Londrina",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 4,
-    "cuota": 1.36,
-    "pinnacle": false,
-    "delta": 3.9,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-25T23:30:00+00:00",
-    "ts": "2026-09-25T18:12:09.936402+00:00"
    }
   ],
   "balance": {
    "ganados": 332,
    "perdidos": 135,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 71.1,
    "total": 467
   }
@@ -906,12 +1026,12 @@
   "n": 3328,
   "ganados": 2232,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 11,
+  "en_juego": 12,
   "win_rate": 50
  },
  "stats_banker": {
