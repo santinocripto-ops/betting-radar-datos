@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T22:21:13.522821+00:00",
+ "actualizado": "2026-09-27T22:29:43.951553+00:00",
  "partidos_vivo": [
   {
    "home": "Bay FC W",
@@ -258,7 +258,7 @@
   "balance_dia": 0.0,
   "ganados": 3242,
   "perdidos": 1452,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -266,7 +266,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4700,
+  "con_cuota_media": 4701,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -830,7 +830,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
