@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T13:42:35.929576+00:00",
+ "actualizado": "2026-09-27T13:50:32.727074+00:00",
  "partidos_vivo": [
   {
    "home": "De Graafschap",
@@ -307,7 +307,7 @@
   "balance_dia": -139.0,
   "ganados": 3227,
   "perdidos": 1443,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 1,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -315,7 +315,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4680,
+  "con_cuota_media": 4681,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -875,7 +875,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 50
  },
  "stats_banker": {
