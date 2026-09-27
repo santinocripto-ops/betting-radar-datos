@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T09:59:56.088473+00:00",
+ "actualizado": "2026-09-27T10:10:06.800392+00:00",
  "partidos_vivo": [
   {
    "home": "Südburgenland W",
@@ -66,17 +66,7 @@
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Seattle Sounders",
-   "away": "Minnesota United FC",
-   "liga": "Major League Soccer",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.32,
-   "resultado": "pendiente",
-   "fecha": "2026-09-26"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -90,7 +80,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 84,
-   "n_historico": 359
+   "n_historico": 361
   },
   {
    "clave": "over25",
@@ -102,9 +92,9 @@
    "cuota": 5.25,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1624
+   "n_historico": 1628
   },
   {
    "clave": "btts",
@@ -116,9 +106,9 @@
    "cuota": 1.44,
    "score": 10,
    "hora": "00:00",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1654
+   "n_historico": 1661
   }
  ],
  "gol_temprano": [
@@ -129,7 +119,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-26",
    "es_hoy": false
   },
@@ -140,7 +130,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-26",
    "es_hoy": false
   },
@@ -191,14 +181,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54782.0,
-  "balance_total": 44782.0,
-  "balance_dia": 0.0,
-  "ganados": 3226,
-  "perdidos": 1441,
-  "pendientes": 4,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 54743.0,
+  "balance_total": 44743.0,
+  "balance_dia": -39.0,
+  "ganados": 3227,
+  "perdidos": 1442,
+  "pendientes": 2,
+  "ganados_dia": 1,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -214,7 +204,7 @@
     "away": "Oriente Petrolero",
     "liga": "Copa de la División Profesional",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -223,7 +213,7 @@
     "away": "Minnesota United FC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -232,7 +222,7 @@
     "away": "Toronto FC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -241,7 +231,7 @@
     "away": "Houston Dash W",
     "liga": "NWSL Women",
     "hora": "02:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -250,7 +240,7 @@
     "away": "Portland Timbers",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -259,7 +249,7 @@
     "away": "CF Pachuca",
     "liga": "Liga MX",
     "hora": "05:05",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -268,7 +258,7 @@
     "away": "Papua New Guinea",
     "liga": "Friendlies",
     "hora": "09:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -342,7 +332,7 @@
     "away": "Minnesota United FC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -351,7 +341,7 @@
     "away": "Toronto FC",
     "liga": "Major League Soccer",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -360,7 +350,7 @@
     "away": "Houston Dash W",
     "liga": "NWSL Women",
     "hora": "02:45",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -378,7 +368,7 @@
     "away": "Portland Timbers",
     "liga": "Major League Soccer",
     "hora": "04:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -465,10 +455,10 @@
    }
   ],
   "balance": {
-   "ganados": 2015,
-   "perdidos": 1263,
-   "acierto": 61.5,
-   "yield": 16.8,
+   "ganados": 2020,
+   "perdidos": 1269,
+   "acierto": 61.4,
+   "yield": 16.7,
    "cuota_media": 1.9
   }
  },
@@ -710,7 +700,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "09:00",
+  "cuota": null,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
@@ -733,21 +729,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3325,
-  "ganados": 2231,
+  "n": 3327,
+  "ganados": 2232,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 2,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 67
  },
  "stats_banker": {
-  "ganados": 111,
+  "ganados": 112,
   "perdidos": 43,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 72
  },
  "marca": {
