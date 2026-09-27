@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T10:35:15.196336+00:00",
+ "actualizado": "2026-09-27T10:43:15.462638+00:00",
  "partidos_vivo": [
   {
    "home": "Tsirang",
@@ -681,6 +681,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Singapore Open: Leylah Fernandez vs Talia Gibson",
+   "apuesta": "SI, Singapore Open: Leylah Fernandez ganara",
+   "usdc": 132365,
+   "prob": 97.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:42"
+  },
   {
    "titulo": "Will Greece win on 2026-09-27?",
    "apuesta": "SI, Greece ganara",
