@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T13:58:12.169095+00:00",
+ "actualizado": "2026-09-27T14:07:31.096676+00:00",
  "partidos_vivo": [
   {
    "home": "De Graafschap",
@@ -126,6 +126,30 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Racing Cordoba vs Godoy Cruz · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
+   "hora": "16:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "16:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:06",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "16:06",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:42",
@@ -172,22 +196,20 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "14:47",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:47",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:19",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "Racing Cordoba",
+   "away": "Godoy Cruz",
+   "liga": "Primera Nacional",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.28,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -201,7 +223,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 84,
-   "n_historico": 364
+   "n_historico": 365
   },
   {
    "clave": "over25",
@@ -215,7 +237,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1633
+   "n_historico": 1635
   },
   {
    "clave": "btts",
@@ -229,7 +251,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1664
+   "n_historico": 1668
   }
  ],
  "gol_temprano": [
@@ -307,7 +329,7 @@
   "balance_dia": -139.0,
   "ganados": 3227,
   "perdidos": 1443,
-  "pendientes": 11,
+  "pendientes": 13,
   "ganados_dia": 1,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -315,7 +337,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4681,
+  "con_cuota_media": 4683,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -388,7 +410,7 @@
     "away": "Bumprom",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -516,7 +538,7 @@
     "away": "Bumprom",
     "liga": "1. Division",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -576,14 +598,28 @@
    }
   ],
   "balance": {
-   "ganados": 2026,
-   "perdidos": 1271,
-   "acierto": 61.4,
+   "ganados": 2031,
+   "perdidos": 1272,
+   "acierto": 61.5,
    "yield": 16.8,
    "cuota_media": 1.9
   }
  },
  "reentradas": [
+  {
+   "home": "Söke 1970",
+   "away": "Anadolu Üniversitesi",
+   "liga": "3. Lig - Group 2",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
+  {
+   "home": "Strømsgodset II",
+   "away": "Fløya",
+   "liga": "3. Division - Girone 5",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Kongsvinger II",
    "away": "Harstad",
@@ -875,13 +911,13 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 2,
-  "en_juego": 9,
+  "en_juego": 11,
   "win_rate": 50
  },
  "stats_banker": {
   "ganados": 112,
   "perdidos": 43,
-  "pendientes": 0,
+  "pendientes": 1,
   "win_rate": 72
  },
  "marca": {
