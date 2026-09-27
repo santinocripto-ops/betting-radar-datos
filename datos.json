@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-27T19:27:41.886491+00:00",
+ "actualizado": "2026-09-27T19:36:58.660817+00:00",
  "partidos_vivo": [
   {
-   "home": "Paraty",
-   "away": "Paduano",
-   "liga": "Carioca B2",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "York United",
+   "away": "Pacific FC",
+   "liga": "Canadian Premier League",
+   "minuto": 53,
+   "marcador": "3-4",
+   "apuesta": "Over 7.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.67 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "🔥 7 goles — partido muy abierto",
+    "🎯 19 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
   {
