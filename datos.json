@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T10:19:48.035616+00:00",
+ "actualizado": "2026-09-27T10:27:39.357561+00:00",
  "partidos_vivo": [
   {
    "home": "Tsirang",
@@ -158,7 +158,7 @@
   "balance_dia": -39.0,
   "ganados": 3227,
   "perdidos": 1442,
-  "pendientes": 2,
+  "pendientes": 3,
   "ganados_dia": 1,
   "perdidos_dia": 1,
   "win_rate": 69.1,
@@ -166,7 +166,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4671,
+  "con_cuota_media": 4672,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -709,7 +709,7 @@
  "stats_dia": {
   "ganados": 2,
   "perdidos": 1,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 67
  },
  "stats_banker": {
