@@ -1,30 +1,116 @@
 {
- "actualizado": "2026-09-27T20:01:39.773041+00:00",
+ "actualizado": "2026-09-27T20:11:56.944809+00:00",
  "partidos_vivo": [
   {
-   "home": "York United",
-   "away": "Pacific FC",
-   "liga": "Canadian Premier League",
-   "minuto": 53,
-   "marcador": "3-4",
-   "apuesta": "Over 7.5",
+   "home": "CRB",
+   "away": "Cuiaba",
+   "liga": "Serie B",
+   "minuto": 47,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 46,
-   "momentum_away": 54,
+   "momentum_home": 78,
+   "momentum_away": 22,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "🔥 7 goles — partido muy abierto",
-    "🎯 19 remates totales"
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚽ 1 gol — Cuiaba buscará el empate",
+    "🎯 17 remates totales"
+   ]
+  },
+  {
+   "home": "Germany",
+   "away": "Greece",
+   "liga": "UEFA Nations League",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 76,
+   "momentum_away": 24,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🎯 15 remates totales",
+    "🚩 6 córners"
+   ]
+  },
+  {
+   "home": "Norway",
+   "away": "Portugal",
+   "liga": "UEFA Nations League",
+   "minuto": 62,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 63,
+   "momentum_away": 37,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 29 remates totales — partido muy intenso",
+    "🎯 8 remates a puerta — peligro constante"
+   ]
+  },
+  {
+   "home": "Guyana",
+   "away": "Cayman Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 48,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 81,
+   "momentum_away": 19,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.4 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Cayman Islands pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Gualberto Villarroel SJ",
+   "away": "Independiente Petrolero",
+   "liga": "Copa de la División Profesional",
+   "minuto": 53,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Independiente Petrolero buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -89,12 +175,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:09",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:43",
    "tipo": "live"
   }
  ],
@@ -165,6 +245,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Universidad O&M",
+   "away": "Salcedo",
+   "liga": "Liga Mayor",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
+  {
    "home": "Gualberto Villarroel SJ",
    "away": "Independiente Petrolero",
    "liga": "Copa de la División Profesional",
@@ -216,17 +307,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Haro Deportivo",
-   "away": "Yagüe",
-   "liga": "Tercera División RFEF - Group 16",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-27",
    "es_hoy": true
   }
@@ -514,15 +594,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Denmark",
-   "away": "Wales",
-   "liga": "UEFA Nations League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -810,7 +882,7 @@
   "n": 3342,
   "ganados": 2239,
   "win_rate": 67,
-  "hoy": 18
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 14,
