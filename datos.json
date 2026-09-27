@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-27T21:35:37.155391+00:00",
+ "actualizado": "2026-09-27T21:44:26.948547+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 12,
  "umbral_vivo": 7.0,
@@ -217,7 +217,7 @@
   "balance_dia": -265.0,
   "ganados": 3241,
   "perdidos": 1452,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 15,
   "perdidos_dia": 11,
   "win_rate": 69.1,
@@ -225,7 +225,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4699,
+  "con_cuota_media": 4700,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -741,6 +741,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs",
+   "apuesta": "SI, LoL: Cloud9 ganara",
+   "usdc": 100000,
+   "prob": 7.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xb",
+   "hora": "23:44"
+  },
+  {
    "titulo": "Bengals vs. Steelers: O/U 42.5",
    "apuesta": "SI, mas de 42.5 goles",
    "usdc": 333917,
@@ -786,7 +795,7 @@
  "stats_dia": {
   "ganados": 16,
   "perdidos": 11,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 59
  },
  "stats_banker": {
