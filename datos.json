@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-27T18:48:24.060701+00:00",
+ "actualizado": "2026-09-27T18:56:54.695971+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:34",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:24",
    "tipo": "live"
   }
  ],
@@ -144,6 +144,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Norway",
+   "away": "Portugal",
+   "liga": "UEFA Nations League",
+   "minuto": 11,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
+  },
+  {
    "home": "Quepos Cambute",
    "away": "Municipal Grecia",
    "liga": "Liga de Ascenso",
@@ -195,17 +206,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-09-27",
-   "es_hoy": true
-  },
-  {
-   "home": "Shinnik Yaroslavl",
-   "away": "Ska-khabarovsk",
-   "liga": "First League",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-09-27",
    "es_hoy": true
   }
@@ -789,7 +789,7 @@
   "n": 3342,
   "ganados": 2239,
   "win_rate": 67,
-  "hoy": 16
+  "hoy": 17
  },
  "stats_dia": {
   "ganados": 14,
