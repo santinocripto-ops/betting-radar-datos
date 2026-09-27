@@ -1,70 +1,97 @@
 {
- "actualizado": "2026-09-27T10:10:06.800392+00:00",
+ "actualizado": "2026-09-27T10:19:48.035616+00:00",
  "partidos_vivo": [
   {
-   "home": "Südburgenland W",
-   "away": "Rheindorf Altach W",
-   "liga": "Frauenliga",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Persela Lamongan",
-   "away": "PSBS Biak Numfor",
-   "liga": "Liga 2",
-   "minuto": 55,
-   "marcador": "4-0",
+   "home": "Tsirang",
+   "away": "Ugyen Academy",
+   "liga": "Premier League",
+   "minuto": 62,
+   "marcador": "1-3",
    "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
+    "⚽ Liga muy goleadora: 4.34 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "RANS Nusantara",
-   "away": "Deltras",
-   "liga": "Liga 2",
-   "minuto": 57,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Calcutta Customs",
+   "away": "Minerva Punjab",
+   "liga": "IFA Shield",
+   "minuto": 58,
+   "marcador": "0-6",
+   "apuesta": "Over 6.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
+    "⚽ Liga muy goleadora: 4.33 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "🔥 6 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Metal Kharkiv",
+   "away": "Chernihiv",
+   "liga": "Persha Liga",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Puskás II",
+   "away": "Balatonalmádi",
+   "liga": "NB III - Northwest",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:19",
+   "tipo": "live"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
@@ -113,70 +140,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "Charlotte",
-   "away": "Chicago Fire",
-   "liga": "Major League Soccer",
-   "minuto": 14,
+   "home": "Utrera",
+   "away": "Recreativo Huelva",
+   "liga": "Tercera División RFEF - Group 10",
+   "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-26",
-   "es_hoy": false
-  },
-  {
-   "home": "CF Montreal",
-   "away": "FC Cincinnati",
-   "liga": "Major League Soccer",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-26",
-   "es_hoy": false
-  },
-  {
-   "home": "OH Leuven W",
-   "away": "Club Brugge W",
-   "liga": "Super League Women",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-26",
-   "es_hoy": false
-  },
-  {
-   "home": "MVV",
-   "away": "Helmond Sport",
-   "liga": "Eerste Divisie",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Emmen",
-   "away": "FC OSS",
-   "liga": "Eerste Divisie",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-26",
-   "es_hoy": false
-  },
-  {
-   "home": "Constància",
-   "away": "Alcúdia",
-   "liga": "Tercera División RFEF - Group 11",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-26",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-09-27",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -475,8 +447,8 @@
     "cuota": 1.91,
     "pinnacle": false,
     "delta": 4.85,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "perdido",
     "kickoff": "2026-09-27T07:00:00+00:00",
     "ts": "2026-09-26T23:08:08.440992+00:00"
    },
@@ -490,8 +462,8 @@
     "cuota": 1.38,
     "pinnacle": true,
     "delta": 4.06,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-27T00:30:00+00:00",
     "ts": "2026-09-26T18:07:18.349433+00:00"
    },
@@ -692,11 +664,11 @@
    }
   ],
   "balance": {
-   "ganados": 331,
-   "perdidos": 134,
-   "pendientes": 2,
-   "acierto": 71.2,
-   "total": 465
+   "ganados": 332,
+   "perdidos": 135,
+   "pendientes": 0,
+   "acierto": 71.1,
+   "total": 467
   }
  },
  "mejor_dia": {
@@ -732,7 +704,7 @@
   "n": 3327,
   "ganados": 2232,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 2,
