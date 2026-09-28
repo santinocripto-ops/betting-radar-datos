@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T09:35:32.028120+00:00",
+ "actualizado": "2026-09-28T09:43:55.469705+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa",
@@ -715,6 +715,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the December 2026",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Dec",
+   "usdc": 110106,
+   "prob": 74.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "11:43"
+  },
+  {
    "titulo": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
    "apuesta": "SI, China Open, Qualification: Yannick Hanfmann ganara",
    "usdc": 80127,
@@ -776,15 +785,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "00:38"
-  },
-  {
-   "titulo": "LoL: Cloud9 vs Team Liquid (BO5) - LCS Playoffs",
-   "apuesta": "SI, LoL: Cloud9 ganara",
-   "usdc": 100000,
-   "prob": 7.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xb",
-   "hora": "23:44"
   }
  ],
  "stats_gt": {
