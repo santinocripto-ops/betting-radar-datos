@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T06:03:41.086129+00:00",
+ "actualizado": "2026-09-28T06:12:58.021359+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa",
@@ -715,6 +715,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
+   "apuesta": "SI, China Open, Qualification: Yannick Hanfmann ganara",
+   "usdc": 80127,
+   "prob": 9.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "08:12"
+  },
+  {
+   "titulo": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
+   "apuesta": "SI, China Open, Qualification: Yannick Hanfmann ganara",
+   "usdc": 166642,
+   "prob": 13.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "08:12"
+  },
+  {
    "titulo": "China Open, Qualification: Yufei Ren vs Yexin Ma",
    "apuesta": "SI, China Open, Qualification: Yufei Ren ganara",
    "usdc": 15616,
@@ -767,24 +785,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xb",
    "hora": "23:44"
-  },
-  {
-   "titulo": "Bengals vs. Steelers: O/U 42.5",
-   "apuesta": "SI, mas de 42.5 goles",
-   "usdc": 333917,
-   "prob": 49.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "17:01"
-  },
-  {
-   "titulo": "Singapore Open: Leylah Fernandez vs Talia Gibson",
-   "apuesta": "SI, Singapore Open: Leylah Fernandez ganara",
-   "usdc": 132365,
-   "prob": 97.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:42"
   }
  ],
  "stats_gt": {
