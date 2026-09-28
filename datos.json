@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T03:59:44.746795+00:00",
+ "actualizado": "2026-09-28T04:09:07.192963+00:00",
  "partidos_vivo": [
   {
    "home": "Trinidad and Tobago",
@@ -99,17 +99,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Utah Royals W",
-   "away": "North Carolina Courage W",
-   "liga": "NWSL Women",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.32,
-   "resultado": "pendiente",
-   "fecha": "2026-09-27"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -123,7 +113,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 370
+   "n_historico": 371
   },
   {
    "clave": "over25",
@@ -135,9 +125,9 @@
    "cuota": 3.25,
    "score": 10,
    "hora": "00:06",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1649
+   "n_historico": 1655
   },
   {
    "clave": "btts",
@@ -149,9 +139,9 @@
    "cuota": 1.91,
    "score": 10,
    "hora": "00:06",
-   "resultado": "pendiente",
-   "wr_historico": 58,
-   "n_historico": 1680
+   "resultado": "ganado",
+   "wr_historico": 59,
+   "n_historico": 1683
   }
  ],
  "gol_temprano": [
@@ -173,7 +163,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-28",
    "es_hoy": true
   },
@@ -184,7 +174,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-28",
    "es_hoy": true
   },
@@ -195,21 +185,21 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-28",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54722.0,
-  "balance_total": 44722.0,
-  "balance_dia": 61.0,
-  "ganados": 3246,
-  "perdidos": 1453,
-  "pendientes": 9,
-  "ganados_dia": 1,
-  "perdidos_dia": 0,
+  "capital": 54911.0,
+  "balance_total": 44911.0,
+  "balance_dia": 250.0,
+  "ganados": 3251,
+  "perdidos": 1454,
+  "pendientes": 3,
+  "ganados_dia": 6,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -225,7 +215,7 @@
     "away": "Atlético San Luis W",
     "liga": "Liga MX Femenil",
     "hora": "02:06",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -234,7 +224,7 @@
     "away": "Dominican Republic",
     "liga": "CONCACAF Nations League",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -279,7 +269,7 @@
     "away": "FC Juarez",
     "liga": "Liga MX",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -353,7 +343,7 @@
     "away": "Atlético San Luis W",
     "liga": "Liga MX Femenil",
     "hora": "02:06",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -380,7 +370,7 @@
     "away": "Dominican Republic",
     "liga": "CONCACAF Nations League",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -398,7 +388,7 @@
     "away": "FC Juarez",
     "liga": "Liga MX",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -407,7 +397,7 @@
     "away": "Nicaragua",
     "liga": "CONCACAF Nations League",
     "hora": "02:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -416,7 +406,7 @@
     "away": "Treasure Beach",
     "liga": "Premier League",
     "hora": "03:05",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -476,8 +466,8 @@
    }
   ],
   "balance": {
-   "ganados": 2044,
-   "perdidos": 1285,
+   "ganados": 2051,
+   "perdidos": 1287,
    "acierto": 61.4,
    "yield": 16.7,
    "cuota_media": 1.9
@@ -489,7 +479,7 @@
    "away": "FC Juarez",
    "liga": "Liga MX",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -806,22 +796,22 @@
   }
  ],
  "stats_gt": {
-  "n": 3351,
-  "ganados": 2246,
+  "n": 3356,
+  "ganados": 2250,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 0,
-  "en_juego": 7,
-  "win_rate": 100
+  "ganados": 6,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 86
  },
  "stats_banker": {
-  "ganados": 113,
+  "ganados": 114,
   "perdidos": 43,
-  "pendientes": 1,
-  "win_rate": 72
+  "pendientes": 0,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
