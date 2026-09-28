@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T18:00:04.744049+00:00",
+ "actualizado": "2026-09-28T18:00:32.178540+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -765,6 +765,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Eagles vs. Bears: O/U 41.5",
+   "apuesta": "SI, mas de 41.5 goles",
+   "usdc": 147251,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "20:00"
+  },
+  {
    "titulo": "Will Bosnia and Herzegovina win on 2026-09-28?",
    "apuesta": "SI, Bosnia and Herzegovina ganara",
    "usdc": 257687,
@@ -826,15 +835,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "13:18"
-  },
-  {
-   "titulo": "Eagles vs. Bears: O/U 57.5",
-   "apuesta": "SI, mas de 57.5 goles",
-   "usdc": 118344,
-   "prob": 11.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "12:41"
   }
  ],
  "stats_gt": {
