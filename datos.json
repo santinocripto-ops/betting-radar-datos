@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T00:06:19.774623+00:00",
+ "actualizado": "2026-09-28T00:15:13.786602+00:00",
  "partidos_vivo": [
   {
    "home": "Haiti",
@@ -746,6 +746,15 @@
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Rams vs. Broncos: O/U 45.5",
+   "apuesta": "SI, mas de 45.5 goles",
+   "usdc": 275150,
+   "prob": 43.5,
+   "n_traders": 2,
+   "trader": "🐋 Ballena anonima (0xd",
+   "hora": "02:14"
+  },
   {
    "titulo": "Rams vs. Broncos: O/U 44.5",
    "apuesta": "SI, mas de 44.5 goles",
