@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T17:06:49.513994+00:00",
+ "actualizado": "2026-09-28T17:14:44.218981+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -590,8 +590,8 @@
     "cuota": 1.22,
     "pinnacle": false,
     "delta": 7.49,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-28T15:00:00+00:00",
     "ts": "2026-09-27T18:06:12.460978+00:00"
    },
@@ -747,11 +747,11 @@
    }
   ],
   "balance": {
-   "ganados": 334,
+   "ganados": 335,
    "perdidos": 135,
-   "pendientes": 5,
-   "acierto": 71.2,
-   "total": 469
+   "pendientes": 4,
+   "acierto": 71.3,
+   "total": 470
   }
  },
  "mejor_dia": {
@@ -764,6 +764,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will Sweden win on 2026-09-28?",
+   "apuesta": "NO, Sweden no ganara",
+   "usdc": 103388,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x2",
+   "hora": "19:14"
+  },
   {
    "titulo": "Armenia vs. Montenegro: O/U 2.5",
    "apuesta": "SI, mas de 2.5 goles",
@@ -826,15 +835,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xe",
    "hora": "11:43"
-  },
-  {
-   "titulo": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
-   "apuesta": "SI, China Open, Qualification: Yannick Hanfmann ganara",
-   "usdc": 80127,
-   "prob": 9.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "08:12"
   }
  ],
  "stats_gt": {
