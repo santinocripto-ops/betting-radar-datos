@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T18:46:43.102133+00:00",
+ "actualizado": "2026-09-28T18:53:50.131932+00:00",
  "partidos_vivo": [
   {
    "home": "Haugesund II",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:53",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -84,12 +90,6 @@
    "texto": "⚽ America Mineiro vs Juventude · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "15:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -174,6 +174,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Leganes",
+   "away": "Castellón",
+   "liga": "Segunda División",
+   "minuto": 23,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-28",
+   "es_hoy": true
+  },
+  {
    "home": "Central African Republic",
    "away": "Burkina Faso",
    "liga": "Africa Cup of Nations - Qualification",
@@ -225,17 +236,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-28",
-   "es_hoy": true
-  },
-  {
-   "home": "Trinidad and Tobago",
-   "away": "Dominican Republic",
-   "liga": "CONCACAF Nations League",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-28",
    "es_hoy": true
   }
@@ -862,7 +862,7 @@
   "n": 3360,
   "ganados": 2251,
   "win_rate": 67,
-  "hoy": 7
+  "hoy": 8
  },
  "stats_dia": {
   "ganados": 9,
