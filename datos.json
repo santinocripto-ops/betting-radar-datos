@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T13:53:06.739567+00:00",
+ "actualizado": "2026-09-28T14:01:10.468225+00:00",
  "partidos_vivo": [
   {
    "home": "Malaysia",
@@ -768,6 +768,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playof",
+   "apuesta": "SI, ganara",
+   "usdc": 136991,
+   "prob": 42.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "16:00"
+  },
+  {
    "titulo": "China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino",
    "apuesta": "SI, China Open, Qualification: Miomir Kecmanovic ganara",
    "usdc": 50227,
@@ -829,15 +838,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "06:49"
-  },
-  {
-   "titulo": "Japan Open Tennis Championships, Qualification: Rinky Hijikata vs Cami",
-   "apuesta": "SI, Japan Open Tennis Championships, Qualification: Rinky Hijikata ganara",
-   "usdc": 113285,
-   "prob": 100.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "05:19"
   }
  ],
  "stats_gt": {
