@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T04:09:07.192963+00:00",
+ "actualizado": "2026-09-28T04:17:45.505448+00:00",
  "partidos_vivo": [
   {
    "home": "Trinidad and Tobago",
@@ -509,8 +509,8 @@
     "cuota": 1.35,
     "pinnacle": true,
     "delta": 4.45,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-27T23:00:00+00:00",
     "ts": "2026-09-27T16:10:26.326132+00:00"
    },
@@ -711,11 +711,11 @@
    }
   ],
   "balance": {
-   "ganados": 333,
+   "ganados": 334,
    "perdidos": 135,
-   "pendientes": 2,
+   "pendientes": 1,
    "acierto": 71.2,
-   "total": 468
+   "total": 469
   }
  },
  "mejor_dia": {
