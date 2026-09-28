@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-28T15:06:03.088767+00:00",
+ "actualizado": "2026-09-28T15:14:23.162771+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -68,12 +74,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "04:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:21",
    "tipo": "live"
   }
  ],
@@ -152,6 +152,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Leixões U23",
+   "away": "Vizela U23",
+   "liga": "Liga Revelação U23",
+   "minuto": 14,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-28",
+   "es_hoy": true
+  },
   {
    "home": "Malaysia",
    "away": "Indonesia",
@@ -548,6 +559,21 @@
     "ts": "2026-09-28T13:08:05.529540+00:00"
    },
    {
+    "home": "Romania",
+    "away": "Bosnia & Herzegovina",
+    "liga": "UEFA Nations League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.62,
+    "pinnacle": true,
+    "delta": 3.75,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-28T18:45:00+00:00",
+    "ts": "2026-09-28T15:06:03.262458+00:00"
+   },
+   {
     "home": "Slovakia U19",
     "away": "Poland U19",
     "liga": "Friendlies",
@@ -711,27 +737,12 @@
     "resultado": "perdido",
     "kickoff": "2026-09-26T14:00:00+00:00",
     "ts": "2026-09-25T17:09:00.546469+00:00"
-   },
-   {
-    "home": "Hrvace",
-    "away": "Orijent 1919",
-    "liga": "First NL",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 5,
-    "cuota": 1.53,
-    "pinnacle": false,
-    "delta": 4.64,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-26T14:00:00+00:00",
-    "ts": "2026-09-25T17:09:01.124919+00:00"
    }
   ],
   "balance": {
    "ganados": 334,
    "perdidos": 135,
-   "pendientes": 4,
+   "pendientes": 5,
    "acierto": 71.2,
    "total": 469
   }
@@ -746,6 +757,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Armenia vs. Montenegro: O/U 2.5",
+   "apuesta": "SI, mas de 2.5 goles",
+   "usdc": 120782,
+   "prob": 44.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x5",
+   "hora": "17:14"
+  },
   {
    "titulo": "Will France win on 2026-09-28?",
    "apuesta": "SI, France ganara",
@@ -808,22 +828,13 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "08:12"
-  },
-  {
-   "titulo": "China Open, Qualification: Yannick Hanfmann vs Tomas Machac",
-   "apuesta": "SI, China Open, Qualification: Yannick Hanfmann ganara",
-   "usdc": 166642,
-   "prob": 13.5,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "08:12"
   }
  ],
  "stats_gt": {
   "n": 3358,
   "ganados": 2251,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 7,
