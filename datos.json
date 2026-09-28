@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T23:04:49.380119+00:00",
+ "actualizado": "2026-09-28T23:11:33.850774+00:00",
  "partidos_vivo": [
   {
    "home": "Atlante W",
@@ -845,7 +845,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
