@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T20:56:24.041217+00:00",
+ "actualizado": "2026-09-28T21:05:00.471805+00:00",
  "partidos_vivo": [
   {
    "home": "Belgium",
@@ -106,6 +106,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:21",
@@ -170,34 +176,10 @@
    "texto": "⚽ Sweden vs Poland · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.31 (8 casas)",
    "hora": "15:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ America Mineiro vs Juventude · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
-   "hora": "15:08",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
  "bankers": [
-  {
-   "home": "Türkiye",
-   "away": "Italy",
-   "liga": "UEFA Nations League",
-   "mercado": "Over 1.5 goles",
-   "cuota": 1.2,
-   "resultado": "pendiente",
-   "fecha": "2026-09-28"
-  },
-  {
-   "home": "Sweden",
-   "away": "Poland",
-   "liga": "UEFA Nations League",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.31,
-   "resultado": "pendiente",
-   "fecha": "2026-09-28"
-  },
   {
    "home": "America Mineiro",
    "away": "Juventude",
@@ -220,8 +202,8 @@
    "score": 7.84,
    "hora": "17:00",
    "resultado": "ganado",
-   "wr_historico": 85,
-   "n_historico": 379
+   "wr_historico": 84,
+   "n_historico": 380
   },
   {
    "clave": "over25",
@@ -249,7 +231,7 @@
    "hora": "00:06",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1697
+   "n_historico": 1701
   }
  ],
  "gol_temprano": [
@@ -271,7 +253,7 @@
    "minuto": 23,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-28",
    "es_hoy": true
   },
@@ -322,13 +304,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54662.0,
-  "balance_total": 44662.0,
-  "balance_dia": 1.0,
-  "ganados": 3254,
+  "capital": 54723.0,
+  "balance_total": 44723.0,
+  "balance_dia": 62.0,
+  "ganados": 3255,
   "perdidos": 1458,
-  "pendientes": 4,
-  "ganados_dia": 9,
+  "pendientes": 3,
+  "ganados_dia": 10,
   "perdidos_dia": 5,
   "win_rate": 69.1,
   "roi": 9.5,
@@ -435,7 +417,7 @@
     "away": "Poland",
     "liga": "UEFA Nations League",
     "hora": "20:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -596,8 +578,8 @@
    }
   ],
   "balance": {
-   "ganados": 2067,
-   "perdidos": 1296,
+   "ganados": 2070,
+   "perdidos": 1297,
    "acierto": 61.5,
    "yield": 16.8,
    "cuota_media": 1.9
@@ -924,21 +906,21 @@
   }
  ],
  "stats_gt": {
-  "n": 3360,
-  "ganados": 2251,
+  "n": 3361,
+  "ganados": 2252,
   "win_rate": 67,
   "hoy": 9
  },
  "stats_dia": {
-  "ganados": 9,
+  "ganados": 12,
   "perdidos": 5,
-  "en_juego": 5,
-  "win_rate": 64
+  "en_juego": 2,
+  "win_rate": 71
  },
  "stats_banker": {
-  "ganados": 114,
+  "ganados": 116,
   "perdidos": 43,
-  "pendientes": 3,
+  "pendientes": 1,
   "win_rate": 73
  },
  "marca": {
