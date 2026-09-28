@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T10:57:20.421130+00:00",
+ "actualizado": "2026-09-28T11:05:25.146154+00:00",
  "partidos_vivo": [
   {
    "home": "Singapore",
@@ -133,7 +133,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 372
+   "n_historico": 373
   },
   {
    "clave": "over25",
@@ -147,7 +147,7 @@
    "hora": "00:06",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1656
+   "n_historico": 1657
   },
   {
    "clave": "btts",
@@ -161,7 +161,7 @@
    "hora": "00:06",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1684
+   "n_historico": 1685
   }
  ],
  "gol_temprano": [
@@ -280,7 +280,7 @@
     "away": "RTC",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -399,7 +399,7 @@
     "away": "RTC",
     "liga": "Premier League",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -486,7 +486,7 @@
    }
   ],
   "balance": {
-   "ganados": 2053,
+   "ganados": 2055,
    "perdidos": 1287,
    "acierto": 61.5,
    "yield": 16.8,
