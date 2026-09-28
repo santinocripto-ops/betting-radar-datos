@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-28T22:49:19.948691+00:00",
+ "actualizado": "2026-09-28T22:56:51.869454+00:00",
  "partidos_vivo": [
   {
-   "home": "Cuba",
-   "away": "Bonaire",
-   "liga": "CONCACAF Nations League",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Atlante W",
+   "away": "Pumas UNAM W",
+   "liga": "Liga MX Femenil",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.3,
    "recomendar": true,
-   "momentum_home": 82,
-   "momentum_away": 18,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Bonaire pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
