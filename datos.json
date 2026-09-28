@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T17:52:55.345392+00:00",
+ "actualizado": "2026-09-28T18:00:04.744049+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -765,6 +765,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Bosnia and Herzegovina win on 2026-09-28?",
+   "apuesta": "SI, Bosnia and Herzegovina ganara",
+   "usdc": 257687,
+   "prob": 33.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x8",
+   "hora": "20:00"
+  },
+  {
    "titulo": "Will Sweden win on 2026-09-28?",
    "apuesta": "NO, Sweden no ganara",
    "usdc": 103388,
@@ -826,15 +835,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "12:41"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the December 2026",
-   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Dec",
-   "usdc": 110106,
-   "prob": 74.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "11:43"
   }
  ],
  "stats_gt": {
