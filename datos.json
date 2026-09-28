@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-28T11:41:46.859222+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-28T11:49:30.924758+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Japan",
+   "away": "Venezuela",
+   "liga": "Friendlies",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.9,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚽ 2 goles — partido activo"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
