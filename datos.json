@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-28T18:08:52.118154+00:00",
+ "actualizado": "2026-09-28T18:09:23.263622+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "20:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -57,12 +63,6 @@
    "texto": "⚽ America Mineiro vs Juventude · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota",
    "hora": "15:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "15:08",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
