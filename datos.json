@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-28T22:02:36.520585+00:00",
+ "actualizado": "2026-09-28T22:10:31.750273+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:10",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -69,12 +75,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:06",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:45",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -135,6 +135,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Suriname",
+   "away": "Martinique",
+   "liga": "CONCACAF Nations League",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-28",
+   "es_hoy": false
+  },
+  {
    "home": "Club Sp. San Lorenzo",
    "away": "Deportivo Recoleta",
    "liga": "Division Profesional - Clausura",
@@ -186,17 +197,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "perdido",
-   "fecha": "2026-09-28",
-   "es_hoy": false
-  },
-  {
-   "home": "Necaxa",
-   "away": "Club America",
-   "liga": "Liga MX",
-   "minuto": 18,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-09-28",
    "es_hoy": false
   }
