@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T14:33:11.932956+00:00",
+ "actualizado": "2026-09-28T14:41:08.110571+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -747,6 +747,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will France win on 2026-09-28?",
+   "apuesta": "SI, France ganara",
+   "usdc": 90000,
+   "prob": 51.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "16:41"
+  },
+  {
    "titulo": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playof",
    "apuesta": "SI, ganara",
    "usdc": 136991,
@@ -808,15 +817,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "08:12"
-  },
-  {
-   "titulo": "China Open, Qualification: Yufei Ren vs Yexin Ma",
-   "apuesta": "SI, China Open, Qualification: Yufei Ren ganara",
-   "usdc": 15616,
-   "prob": 29.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:49"
   }
  ],
  "stats_gt": {
