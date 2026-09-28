@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-28T19:31:44.805851+00:00",
+ "actualizado": "2026-09-28T19:38:44.080389+00:00",
  "partidos_vivo": [
   {
-   "home": "Exeter U21",
-   "away": "Norwich City U21",
-   "liga": "Premier League Cup",
-   "minuto": 46,
+   "home": "Leganes",
+   "away": "Castellón",
+   "liga": "Segunda División",
+   "minuto": 49,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 9.0,
+   "score": 7.6,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 46,
+   "momentum_away": 54,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +1.5 (Premier League)",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.83 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Leganes pierde por 2 — atacará sin freno"
    ]
   }
  ],
