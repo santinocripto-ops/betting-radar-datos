@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-28T21:54:33.892000+00:00",
+ "actualizado": "2026-09-28T22:02:36.520585+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
+   "hora": "00:02",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -69,12 +75,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "15:45",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Türkiye vs Italy · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.2 (7 casas)",
-   "hora": "15:08",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -94,13 +94,13 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Rudar",
-   "away": "Dravinja",
-   "liga": "2. SNL",
+   "home": "Teutonia Ottensen",
+   "away": "Buchholz",
+   "liga": "Oberliga - Hamburg",
    "cuota": null,
-   "score": 7.84,
-   "hora": "17:00",
-   "resultado": "ganado",
+   "score": 8.07,
+   "hora": "17:45",
+   "resultado": "pendiente",
    "wr_historico": 84,
    "n_historico": 380
   },
@@ -108,13 +108,13 @@
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Tigres UANL W",
-   "away": "Atlético San Luis W",
-   "liga": "Liga MX Femenil",
-   "cuota": 3.25,
+   "home": "St. Kitts and Nevis",
+   "away": "Grenada",
+   "liga": "CONCACAF Nations League",
+   "cuota": 5.25,
    "score": 10,
-   "hora": "00:06",
-   "resultado": "perdido",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 64,
    "n_historico": 1666
   },
@@ -122,13 +122,13 @@
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Tigres UANL W",
-   "away": "Atlético San Luis W",
-   "liga": "Liga MX Femenil",
-   "cuota": 1.91,
+   "home": "St. Kitts and Nevis",
+   "away": "Grenada",
+   "liga": "CONCACAF Nations League",
+   "cuota": 1.5,
    "score": 10,
-   "hora": "00:06",
-   "resultado": "ganado",
+   "hora": "00:00",
+   "resultado": "pendiente",
    "wr_historico": 59,
    "n_historico": 1701
   }
@@ -143,7 +143,7 @@
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Leganes",
@@ -154,7 +154,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Central African Republic",
@@ -165,7 +165,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Leixões U23",
@@ -176,7 +176,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Malaysia",
@@ -187,7 +187,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Necaxa",
@@ -198,19 +198,19 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-28",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 54723.0,
   "balance_total": 44723.0,
-  "balance_dia": 62.0,
+  "balance_dia": 0.0,
   "ganados": 3255,
   "perdidos": 1458,
   "pendientes": 4,
-  "ganados_dia": 10,
-  "perdidos_dia": 5,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -222,255 +222,255 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Tigres UANL W",
-    "away": "Atlético San Luis W",
-    "liga": "Liga MX Femenil",
-    "hora": "02:06",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Trinidad and Tobago",
-    "away": "Dominican Republic",
+    "home": "St. Kitts and Nevis",
+    "away": "Grenada",
     "liga": "CONCACAF Nations League",
-    "hora": "03:00",
-    "resultado": "ganado",
+    "hora": "02:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Necaxa",
-    "away": "Club America",
-    "liga": "Liga MX",
-    "hora": "05:10",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "León W",
-    "away": "América W",
+    "home": "Necaxa W",
+    "away": "Toluca W",
     "liga": "Liga MX Femenil",
-    "hora": "01:00",
+    "hora": "03:06",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Indonesia",
-    "away": "Malaysia",
-    "liga": "FIFA Asean Cup",
-    "hora": "13:30",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Tensung",
-    "away": "RTC",
-    "liga": "Premier League",
+    "home": "Bashundhara Kings",
+    "away": "Dhaka Wanderers",
+    "liga": "Federation Cup",
     "hora": "11:00",
-    "resultado": "ganado",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Leon",
-    "away": "FC Juarez",
-    "liga": "Liga MX",
-    "hora": "03:00",
-    "resultado": "ganado",
+    "home": "Gainare Tottori",
+    "away": "V-varen Nagasaki",
+    "liga": "J-League Cup",
+    "hora": "12:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Raelingen",
-    "away": "Lyn II",
-    "liga": "3. Division - Girone 6",
-    "hora": "18:00",
-    "resultado": "perdido",
+    "home": "Fiji W",
+    "away": "New Caledonia W",
+    "liga": "Friendlies Women",
+    "hora": "09:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Hapoel Kfar Shalem",
-    "away": "Maccabi Kabilio Jaffa",
-    "liga": "Liga Leumit",
-    "hora": "18:00",
-    "resultado": "ganado",
+    "home": "Fukushima United",
+    "away": "Mito Hollyhock",
+    "liga": "J-League Cup",
+    "hora": "12:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Swansea City U21",
-    "away": "Queens Park Rangers U21",
-    "liga": "Professional Development League",
-    "hora": "20:00",
-    "resultado": "ganado",
+    "home": "Kataller Toyama",
+    "away": "Urawa",
+    "liga": "J-League Cup",
+    "hora": "12:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Sweden",
-    "away": "Poland",
-    "liga": "UEFA Nations League",
-    "hora": "20:45",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 2
-   },
-   {
-    "home": "Club Sp. San Lorenzo",
-    "away": "Deportivo Recoleta",
-    "liga": "Division Profesional - Clausura",
-    "hora": "21:30",
+    "home": "Greece U17",
+    "away": "Iceland U17",
+    "liga": "UEFA U17 Championship - Qualification",
+    "hora": "14:00",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Al Arabi",
-    "away": "Al Thaid",
-    "liga": "Presidents Cup",
-    "hora": "16:40",
-    "resultado": "perdido",
+    "home": "Charlton Athletic U21",
+    "away": "Millwall U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Haugesund II",
-    "away": "Hinna",
-    "liga": "3. Division - Girone 4",
-    "hora": "19:00",
-    "resultado": "ganado",
+    "home": "Coventry City U21",
+    "away": "Colchester United U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Peterborough United U21",
+    "away": "Fleetwood Town U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Wigan Athletic U21",
+    "away": "Huddersfield Town U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Drukpa",
+    "away": "Transport United",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Hertha Zehlendorf",
+    "away": "Hertha BSC",
+    "liga": "Friendlies Clubs",
+    "hora": "18:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
   "over25": [
    {
-    "home": "Tigres UANL W",
-    "away": "Atlético San Luis W",
-    "liga": "Liga MX Femenil",
-    "hora": "02:06",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "León W",
-    "away": "América W",
-    "liga": "Liga MX Femenil",
-    "hora": "01:00",
+    "home": "St. Kitts and Nevis",
+    "away": "Grenada",
+    "liga": "CONCACAF Nations League",
+    "hora": "02:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Necaxa",
-    "away": "Club America",
-    "liga": "Liga MX",
-    "hora": "05:10",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Trinidad and Tobago",
-    "away": "Dominican Republic",
-    "liga": "CONCACAF Nations League",
-    "hora": "03:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Tensung",
-    "away": "RTC",
-    "liga": "Premier League",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Leon",
-    "away": "FC Juarez",
-    "liga": "Liga MX",
-    "hora": "03:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Curaçao",
-    "away": "Nicaragua",
-    "liga": "CONCACAF Nations League",
-    "hora": "02:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Serbia U18",
-    "away": "Russia U18",
-    "liga": "Friendlies",
-    "hora": "16:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Raelingen",
-    "away": "Lyn II",
-    "liga": "3. Division - Girone 6",
-    "hora": "18:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Armenia",
-    "away": "Montenegro",
-    "liga": "UEFA Nations League",
-    "hora": "18:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Hapoel Kfar Shalem",
-    "away": "Maccabi Kabilio Jaffa",
-    "liga": "Liga Leumit",
-    "hora": "18:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Haugesund II",
-    "away": "Hinna",
-    "liga": "3. Division - Girone 4",
-    "hora": "19:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Ranchers Bees",
-    "away": "Rivers United",
-    "liga": "NPFL",
-    "hora": "17:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Atlante W",
-    "away": "Pumas UNAM W",
+    "home": "Necaxa W",
+    "away": "Toluca W",
     "liga": "Liga MX Femenil",
-    "hora": "23:45",
+    "hora": "03:06",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Fiji W",
+    "away": "New Caledonia W",
+    "liga": "Friendlies Women",
+    "hora": "09:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Bashundhara Kings",
+    "away": "Dhaka Wanderers",
+    "liga": "Federation Cup",
+    "hora": "11:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Japan W",
+    "away": "South Korea W",
+    "liga": "Asian Games Women",
+    "hora": "12:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Kataller Toyama",
+    "away": "Urawa",
+    "liga": "J-League Cup",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "USA U19",
+    "away": "Wales U19",
+    "liga": "Friendlies",
+    "hora": "12:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Greece U17",
+    "away": "Iceland U17",
+    "liga": "UEFA U17 Championship - Qualification",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Charlton Athletic U21",
+    "away": "Millwall U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Coventry City U21",
+    "away": "Colchester United U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Peterborough United U21",
+    "away": "Fleetwood Town U21",
+    "liga": "Professional Development League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Drukpa",
+    "away": "Transport United",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Podvinci",
+    "away": "Ljutomer",
+    "liga": "3. SNL - East",
+    "hora": "16:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Hohenwestedt",
+    "away": "Eckernförder SV",
+    "liga": "Oberliga - Schleswig-Holstein",
+    "hora": "19:30",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
@@ -484,15 +484,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Club Sp. San Lorenzo",
-   "away": "Deportivo Recoleta",
-   "liga": "Division Profesional - Clausura",
-   "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -730,15 +722,18 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "01:00",
-  "cuota": 1.83,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
+   "apuesta": "SI, Mouilleron-Le-Captif: Clement Tabur ganara",
+   "usdc": 15677,
+   "prob": 16.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "00:02"
+  },
   {
    "titulo": "Will Belgium win on 2026-09-28?",
    "apuesta": "NO, Belgium no ganara",
@@ -801,28 +796,19 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x8",
    "hora": "16:00"
-  },
-  {
-   "titulo": "China Open, Qualification: Miomir Kecmanovic vs Adrian Mannarino",
-   "apuesta": "SI, China Open, Qualification: Miomir Kecmanovic ganara",
-   "usdc": 50227,
-   "prob": 15.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:59"
   }
  ],
  "stats_gt": {
   "n": 3361,
   "ganados": 2252,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 12,
-  "perdidos": 5,
-  "en_juego": 3,
-  "win_rate": 71
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 116,
