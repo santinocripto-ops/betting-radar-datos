@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T00:55:53.975135+00:00",
+ "actualizado": "2026-09-28T01:04:21.522519+00:00",
  "partidos_vivo": [
   {
    "home": "Columbus Crew",
@@ -123,7 +123,7 @@
    "hora": "17:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 369
+   "n_historico": 370
   },
   {
    "clave": "over25",
@@ -137,7 +137,7 @@
    "hora": "00:06",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1646
+   "n_historico": 1649
   },
   {
    "clave": "btts",
@@ -150,8 +150,8 @@
    "score": 10,
    "hora": "00:06",
    "resultado": "pendiente",
-   "wr_historico": 59,
-   "n_historico": 1677
+   "wr_historico": 58,
+   "n_historico": 1680
   }
  ],
  "gol_temprano": [
@@ -443,10 +443,10 @@
    }
   ],
   "balance": {
-   "ganados": 2043,
-   "perdidos": 1280,
-   "acierto": 61.5,
-   "yield": 16.8,
+   "ganados": 2044,
+   "perdidos": 1285,
+   "acierto": 61.4,
+   "yield": 16.7,
    "cuota_media": 1.9
   }
  },
