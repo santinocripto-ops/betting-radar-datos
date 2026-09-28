@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-28T23:46:05.237447+00:00",
+ "actualizado": "2026-09-28T23:53:35.767578+00:00",
  "partidos_vivo": [
   {
-   "home": "Libertad Asuncion",
-   "away": "Olimpia",
-   "liga": "Division Profesional - Clausura",
-   "minuto": 49,
+   "home": "America Mineiro",
+   "away": "Juventude",
+   "liga": "Serie B",
+   "minuto": 61,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
+   "momentum_home": 42,
+   "momentum_away": 58,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Libertad Asuncion buscará el empate",
-    "🟥 1 tarjeta(s) roja(s) — más espacio en el campo",
-    "📊 Olimpia: Over2.5 histórico 80%"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚽ 1 gol — America Mineiro buscará el empate",
+    "🎯 21 remates totales — partido muy intenso"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
