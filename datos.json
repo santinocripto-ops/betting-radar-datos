@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T19:00:59.759932+00:00",
+ "actualizado": "2026-09-28T19:08:23.115795+00:00",
  "partidos_vivo": [
   {
    "home": "Exeter U21",
@@ -139,9 +139,9 @@
    "cuota": null,
    "score": 7.84,
    "hora": "17:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 85,
-   "n_historico": 376
+   "n_historico": 378
   },
   {
    "clave": "over25",
@@ -155,7 +155,7 @@
    "hora": "00:06",
    "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1664
+   "n_historico": 1665
   },
   {
    "clave": "btts",
@@ -169,7 +169,7 @@
    "hora": "00:06",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1692
+   "n_historico": 1694
   }
  ],
  "gol_temprano": [
@@ -382,7 +382,7 @@
     "away": "Hinna",
     "liga": "3. Division - Girone 4",
     "hora": "19:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -492,7 +492,7 @@
     "away": "Hinna",
     "liga": "3. Division - Girone 4",
     "hora": "19:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -516,7 +516,7 @@
    }
   ],
   "balance": {
-   "ganados": 2061,
+   "ganados": 2064,
    "perdidos": 1295,
    "acierto": 61.4,
    "yield": 16.7,
@@ -528,13 +528,6 @@
    "home": "Central African Republic",
    "away": "Burkina Faso",
    "liga": "Africa Cup of Nations - Qualification",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Leixões U23",
-   "away": "Vizela U23",
-   "liga": "Liga Revelação U23",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
