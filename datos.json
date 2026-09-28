@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T11:05:25.146154+00:00",
+ "actualizado": "2026-09-28T11:10:24.959523+00:00",
  "partidos_vivo": [
   {
    "home": "Singapore",
@@ -422,24 +422,6 @@
     "tanda": 1
    },
    {
-    "home": "Waterhouse",
-    "away": "Treasure Beach",
-    "liga": "Premier League",
-    "hora": "03:05",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Libertad Asuncion",
-    "away": "Olimpia",
-    "liga": "Division Profesional - Clausura",
-    "hora": "00:00",
-    "resultado": "pendiente",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
     "home": "Serbia U18",
     "away": "Russia U18",
     "liga": "Friendlies",
@@ -480,6 +462,24 @@
     "away": "Hinna",
     "liga": "3. Division - Girone 4",
     "hora": "19:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Ranchers Bees",
+    "away": "Rivers United",
+    "liga": "NPFL",
+    "hora": "17:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Atlante W",
+    "away": "Pumas UNAM W",
+    "liga": "Liga MX Femenil",
+    "hora": "23:45",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
