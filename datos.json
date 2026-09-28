@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T03:27:57.524557+00:00",
+ "actualizado": "2026-09-28T03:35:38.856986+00:00",
  "partidos_vivo": [
   {
    "home": "Trinidad and Tobago",
@@ -207,7 +207,7 @@
   "balance_dia": 61.0,
   "ganados": 3246,
   "perdidos": 1453,
-  "pendientes": 8,
+  "pendientes": 9,
   "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -215,7 +215,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4707,
+  "con_cuota_media": 4708,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -814,7 +814,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 100
  },
  "stats_banker": {
