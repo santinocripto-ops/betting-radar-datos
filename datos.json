@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T05:15:04.780031+00:00",
+ "actualizado": "2026-09-28T05:23:14.971042+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa",
@@ -473,15 +473,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Leon",
-   "away": "FC Juarez",
-   "liga": "Liga MX",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
