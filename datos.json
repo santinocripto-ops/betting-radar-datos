@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T10:33:50.665682+00:00",
+ "actualizado": "2026-09-28T10:41:52.068233+00:00",
  "partidos_vivo": [
   {
    "home": "Singapore",
@@ -741,6 +741,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Eagles vs. Bears: O/U 57.5",
+   "apuesta": "SI, mas de 57.5 goles",
+   "usdc": 118344,
+   "prob": 11.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "12:41"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the December 2026",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Dec",
    "usdc": 110106,
@@ -802,15 +811,6 @@
    "n_traders": 2,
    "trader": "🐋 Ballena anonima (0xd",
    "hora": "02:14"
-  },
-  {
-   "titulo": "Rams vs. Broncos: O/U 44.5",
-   "apuesta": "SI, mas de 44.5 goles",
-   "usdc": 271168,
-   "prob": 48.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "00:38"
   }
  ],
  "stats_gt": {
