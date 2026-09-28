@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-28T04:41:44.937549+00:00",
+ "actualizado": "2026-09-28T04:49:48.617363+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa",
@@ -723,6 +723,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open, Qualification: Yufei Ren vs Yexin Ma",
+   "apuesta": "SI, China Open, Qualification: Yufei Ren ganara",
+   "usdc": 15616,
+   "prob": 29.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:49"
+  },
+  {
    "titulo": "Japan Open Tennis Championships, Qualification: Rinky Hijikata vs Cami",
    "apuesta": "SI, Japan Open Tennis Championships, Qualification: Rinky Hijikata ganara",
    "usdc": 113285,
@@ -784,15 +793,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "12:42"
-  },
-  {
-   "titulo": "Will Greece win on 2026-09-27?",
-   "apuesta": "SI, Greece ganara",
-   "usdc": 119526,
-   "prob": 11.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x2",
-   "hora": "11:18"
   }
  ],
  "stats_gt": {
