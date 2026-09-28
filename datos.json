@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-28T12:13:36.048134+00:00",
+ "actualizado": "2026-09-28T12:21:32.543144+00:00",
  "partidos_vivo": [
   {
-   "home": "Japan",
-   "away": "Venezuela",
+   "home": "South Korea",
+   "away": "Uruguay",
    "liga": "Friendlies",
-   "minuto": 64,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
+   "minuto": 60,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.9,
+   "score": 9.5,
    "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
+   "momentum_home": 72,
+   "momentum_away": 28,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ Liga por encima de la media: 2.79 goles/partido",
     "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚽ 2 goles — partido activo"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
