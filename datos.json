@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T18:46:06.889791+00:00",
+ "actualizado": "2026-09-29T18:54:07.635690+00:00",
  "partidos_vivo": [
   {
    "home": "Saudi Arabia",
@@ -742,6 +742,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Spain win on 2026-09-29?",
+   "apuesta": "NO, Spain no ganara",
+   "usdc": 18297,
+   "prob": 8.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:53"
+  },
+  {
+   "titulo": "Will England win on 2026-09-29?",
+   "apuesta": "SI, England ganara",
+   "usdc": 115780,
+   "prob": 75.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:53"
+  },
+  {
    "titulo": "Will Iceland win on 2026-09-29?",
    "apuesta": "SI, Iceland ganara",
    "usdc": 172179,
@@ -794,24 +812,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xc",
    "hora": "12:10"
-  },
-  {
-   "titulo": "China Open, Qualification: Marco Trungelliti vs Alex Molcan",
-   "apuesta": "SI, China Open, Qualification: Marco Trungelliti ganara",
-   "usdc": 21743,
-   "prob": 22.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "07:08"
-  },
-  {
-   "titulo": "Jingshan: Alexandra Shubladze vs Rina Saigo",
-   "apuesta": "SI, Jingshan: Alexandra Shubladze ganara",
-   "usdc": 106772,
-   "prob": 93.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:41"
   }
  ],
  "stats_gt": {
