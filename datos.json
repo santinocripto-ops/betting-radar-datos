@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T04:31:46.316784+00:00",
+ "actualizado": "2026-09-29T04:41:22.016028+00:00",
  "partidos_vivo": [
   {
    "home": "Guatemala",
@@ -747,6 +747,24 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Jingshan: Alexandra Shubladze vs Rina Saigo",
+   "apuesta": "SI, Jingshan: Alexandra Shubladze ganara",
+   "usdc": 106772,
+   "prob": 93.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:41"
+  },
+  {
+   "titulo": "China Open, Qualification: Harriet Dart vs Yexin Ma",
+   "apuesta": "SI, China Open, Qualification: Harriet Dart ganara",
+   "usdc": 145421,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:40"
+  },
+  {
    "titulo": "China Open, Qualification: Elsa Jacquemot vs Vivian Wolff",
    "apuesta": "SI, China Open, Qualification: Elsa Jacquemot ganara",
    "usdc": 106085,
@@ -799,24 +817,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "00:02"
-  },
-  {
-   "titulo": "Will Belgium win on 2026-09-28?",
-   "apuesta": "NO, Belgium no ganara",
-   "usdc": 283995,
-   "prob": 70.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "20:32"
-  },
-  {
-   "titulo": "Eagles vs. Bears: O/U 41.5",
-   "apuesta": "SI, mas de 41.5 goles",
-   "usdc": 147251,
-   "prob": 51.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xe",
-   "hora": "20:00"
   }
  ],
  "stats_gt": {
