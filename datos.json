@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T04:04:48.049777+00:00",
+ "actualizado": "2026-09-29T04:14:06.155222+00:00",
  "partidos_vivo": [
   {
    "home": "Guatemala",
@@ -747,6 +747,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open, Qualification: Elsa Jacquemot vs Vivian Wolff",
+   "apuesta": "SI, China Open, Qualification: Elsa Jacquemot ganara",
+   "usdc": 106085,
+   "prob": 83.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "06:13"
+  },
+  {
    "titulo": "Jingshan: Kristina Mladenovic vs Sofia Costoulas",
    "apuesta": "SI, Jingshan: Kristina Mladenovic ganara",
    "usdc": 124408,
@@ -807,15 +816,6 @@
    "prob": 51.5,
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xe",
-   "hora": "20:00"
-  },
-  {
-   "titulo": "Will Bosnia and Herzegovina win on 2026-09-28?",
-   "apuesta": "SI, Bosnia and Herzegovina ganara",
-   "usdc": 257687,
-   "prob": 33.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
    "hora": "20:00"
   }
  ],
