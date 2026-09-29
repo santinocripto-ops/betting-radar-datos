@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-29T15:05:53.098707+00:00",
+ "actualizado": "2026-09-29T15:14:21.714210+00:00",
  "partidos_vivo": [
   {
-   "home": "Inter Bratislava",
-   "away": "Podbrezová",
-   "liga": "Cup",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Slovenia U21",
+   "away": "Israel U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 56,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.76 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Inter Bratislava buscará el empate"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
