@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T17:00:47.087945+00:00",
+ "actualizado": "2026-09-29T17:08:45.075987+00:00",
  "partidos_vivo": [
   {
    "home": "Germany U20",
@@ -123,7 +123,7 @@
    "hora": "17:45",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 383
+   "n_historico": 385
   },
   {
    "clave": "over25",
