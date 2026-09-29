@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T01:45:08.669355+00:00",
+ "actualizado": "2026-09-29T01:52:53.934018+00:00",
  "partidos_vivo": [
   {
    "home": "Jamaica",
@@ -775,6 +775,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Eagles vs. Bears: O/U 38.5",
+   "apuesta": "SI, mas de 38.5 goles",
+   "usdc": 16527,
+   "prob": 50.5,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "03:52"
+  },
+  {
    "titulo": "Eagles vs. Bears: O/U 44.5",
    "apuesta": "SI, mas de 44.5 goles",
    "usdc": 44362,
@@ -836,15 +845,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x2",
    "hora": "19:14"
-  },
-  {
-   "titulo": "Armenia vs. Montenegro: O/U 2.5",
-   "apuesta": "SI, mas de 2.5 goles",
-   "usdc": 120782,
-   "prob": 44.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x5",
-   "hora": "17:14"
   }
  ],
  "stats_gt": {
