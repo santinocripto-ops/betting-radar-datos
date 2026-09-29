@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-29T00:14:26.546101+00:00",
+ "actualizado": "2026-09-29T00:21:40.090591+00:00",
  "partidos_vivo": [
   {
-   "home": "America Mineiro",
-   "away": "Juventude",
-   "liga": "Serie B",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "León W",
+   "away": "América W",
+   "liga": "Liga MX Femenil",
+   "minuto": 60,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.3,
    "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚽ 1 gol — America Mineiro buscará el empate",
-    "🎯 21 remates totales — partido muy intenso"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.83 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
