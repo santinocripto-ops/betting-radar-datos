@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T12:16:28.873230+00:00",
+ "actualizado": "2026-09-29T12:24:27.954347+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -186,7 +186,7 @@
   "balance_dia": -55.0,
   "ganados": 3256,
   "perdidos": 1461,
-  "pendientes": 4,
+  "pendientes": 7,
   "ganados_dia": 1,
   "perdidos_dia": 1,
   "win_rate": 69.0,
@@ -194,7 +194,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4721,
+  "con_cuota_media": 4724,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -718,6 +718,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Dota 2: 1win vs Natus Vincere (BO3) - BLAST Slam Group B",
+   "apuesta": "SI, ganara",
+   "usdc": 180869,
+   "prob": 50.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x1",
+   "hora": "14:24"
+  },
+  {
    "titulo": "Hangzhou Open: Daniil Medvedev vs Andrey Rublev",
    "apuesta": "SI, Hangzhou Open: Daniil Medvedev ganara",
    "usdc": 151908,
@@ -779,15 +788,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "03:52"
-  },
-  {
-   "titulo": "Eagles vs. Bears: O/U 44.5",
-   "apuesta": "SI, mas de 44.5 goles",
-   "usdc": 44362,
-   "prob": 32.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "03:11"
   }
  ],
  "stats_gt": {
@@ -799,7 +799,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 1,
-  "en_juego": 3,
+  "en_juego": 6,
   "win_rate": 50
  },
  "stats_banker": {
