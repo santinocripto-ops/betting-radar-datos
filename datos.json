@@ -1,13 +1,113 @@
 {
- "actualizado": "2026-09-29T17:09:05.537261+00:00",
+ "actualizado": "2026-09-29T17:19:05.471217+00:00",
  "partidos_vivo": [
   {
-   "home": "Germany U20",
-   "away": "Italy U20",
-   "liga": "U20 Elite League",
+   "home": "Finland",
+   "away": "Belarus",
+   "liga": "UEFA Nations League",
+   "minuto": 58,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 100,
+   "momentum_away": 0,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🚩 7 córners"
+   ]
+  },
+  {
+   "home": "Cape Verde Islands",
+   "away": "Rwanda",
+   "liga": "Africa Cup of Nations - Qualification",
    "minuto": 55,
-   "marcador": "1-0",
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 3 goles — partido muy abierto",
+    "🎯 15 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Ghana",
+   "away": "Gambia",
+   "liga": "Africa Cup of Nations - Qualification",
+   "minuto": 54,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 57,
+   "momentum_away": 43,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 4 goles — partido muy abierto",
+    "🎯 8 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Russia",
+   "away": "Iran",
+   "liga": "Friendlies",
+   "minuto": 50,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Estonia U21",
+   "away": "France U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 56,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Estonia U21 buscará el empate"
+   ]
+  },
+  {
+   "home": "Poland U20",
+   "away": "Czechia U20",
+   "liga": "U20 Elite League",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -22,7 +122,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 13,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -513,6 +613,21 @@
     "ts": "2026-09-28T21:05:00.902196+00:00"
    },
    {
+    "home": "Slovakia",
+    "away": "Kazakhstan",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 5,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 3.3,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-29T18:45:00+00:00",
+    "ts": "2026-09-29T17:09:05.788454+00:00"
+   },
+   {
     "home": "Finland",
     "away": "Belarus",
     "liga": "UEFA Nations League",
@@ -706,27 +821,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-26T19:30:00+00:00",
     "ts": "2026-09-26T15:07:42.456992+00:00"
-   },
-   {
-    "home": "Albania",
-    "away": "Belarus",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 4,
-    "cuota": 1.4,
-    "pinnacle": true,
-    "delta": 4.42,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-26T18:45:00+00:00",
-    "ts": "2026-09-26T14:09:21.394035+00:00"
    }
   ],
   "balance": {
    "ganados": 340,
    "perdidos": 135,
-   "pendientes": 2,
+   "pendientes": 3,
    "acierto": 71.6,
    "total": 475
   }
