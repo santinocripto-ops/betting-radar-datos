@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-09-29T22:00:04.500666+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-09-29T22:09:25.911559+00:00",
+ "partidos_vivo": [
+  {
+   "home": "French Guyana",
+   "away": "Sint Maarten",
+   "liga": "CONCACAF Nations League",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -92,7 +113,7 @@
    "hora": "14:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 388
+   "n_historico": 390
   },
   {
    "clave": "over25",
@@ -106,7 +127,7 @@
    "hora": "05:00",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1690
+   "n_historico": 1691
   },
   {
    "clave": "btts",
@@ -120,7 +141,7 @@
    "hora": "04:00",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1721
+   "n_historico": 1726
   }
  ],
  "gol_temprano": [
@@ -131,7 +152,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-29",
    "es_hoy": false
   },
@@ -142,7 +163,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-29",
    "es_hoy": false
   },
@@ -153,7 +174,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-29",
    "es_hoy": false
   },
@@ -164,7 +185,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-29",
    "es_hoy": false
   },
@@ -193,12 +214,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54541.0,
-  "balance_total": 44541.0,
+  "capital": 54524.0,
+  "balance_total": 44524.0,
   "balance_dia": 0.0,
-  "ganados": 3261,
-  "perdidos": 1463,
-  "pendientes": 7,
+  "ganados": 3264,
+  "perdidos": 1465,
+  "pendientes": 2,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -467,8 +488,8 @@
    }
   ],
   "balance": {
-   "ganados": 2090,
-   "perdidos": 1321,
+   "ganados": 2094,
+   "perdidos": 1323,
    "acierto": 61.3,
    "yield": 16.4,
    "cuota_media": 1.9
@@ -789,8 +810,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3368,
-  "ganados": 2255,
+  "n": 3372,
+  "ganados": 2258,
   "win_rate": 67,
   "hoy": 0
  },
