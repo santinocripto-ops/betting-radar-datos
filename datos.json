@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T18:05:58.962877+00:00",
+ "actualizado": "2026-09-29T18:14:23.559737+00:00",
  "partidos_vivo": [
   {
    "home": "Hu Ge W",
@@ -528,6 +528,21 @@
     "ts": "2026-09-29T17:09:05.788454+00:00"
    },
    {
+    "home": "Czechia",
+    "away": "England",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.19,
+    "pinnacle": true,
+    "delta": 3.48,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-29T18:45:00+00:00",
+    "ts": "2026-09-29T18:05:59.356714+00:00"
+   },
+   {
     "home": "Finland",
     "away": "Belarus",
     "liga": "UEFA Nations League",
@@ -537,8 +552,8 @@
     "cuota": 1.17,
     "pinnacle": true,
     "delta": 3.35,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-29T16:00:00+00:00",
     "ts": "2026-09-28T18:09:23.544176+00:00"
    },
@@ -706,29 +721,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-26T20:30:00+00:00",
     "ts": "2026-09-26T19:05:50.404892+00:00"
-   },
-   {
-    "home": "Nautico Recife",
-    "away": "Sport Recife",
-    "liga": "Serie B",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.39,
-    "pinnacle": true,
-    "delta": 3.47,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-26T19:30:00+00:00",
-    "ts": "2026-09-26T15:07:42.456992+00:00"
    }
   ],
   "balance": {
-   "ganados": 340,
+   "ganados": 341,
    "perdidos": 135,
    "pendientes": 3,
    "acierto": 71.6,
-   "total": 475
+   "total": 476
   }
  },
  "mejor_dia": {
@@ -741,6 +741,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
+   "usdc": 103211,
+   "prob": 47.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "20:14"
+  },
   {
    "titulo": "Bari: Pol Martin Tiffon vs Laurent Lokoli",
    "apuesta": "SI, Bari: Pol Martin Tiffon ganara",
@@ -803,15 +812,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "06:40"
-  },
-  {
-   "titulo": "China Open, Qualification: Elsa Jacquemot vs Vivian Wolff",
-   "apuesta": "SI, China Open, Qualification: Elsa Jacquemot ganara",
-   "usdc": 106085,
-   "prob": 83.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:13"
   }
  ],
  "stats_gt": {
