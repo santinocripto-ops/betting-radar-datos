@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-09-29T02:01:06.085160+00:00",
- "partidos_vivo": [
-  {
-   "home": "Jamaica",
-   "away": "Honduras",
-   "liga": "CONCACAF Nations League",
-   "minuto": 46,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 19,
-   "momentum_away": 81,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚽ 1 gol — Jamaica buscará el empate",
-    "🎯 12 remates totales"
-   ]
-  },
-  {
-   "home": "St. Lucia",
-   "away": "Bermuda",
-   "liga": "CONCACAF Nations League",
-   "minuto": 46,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 42,
-   "momentum_away": 58,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Bermuda pierde por 2 — atacará sin freno"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-09-29T02:09:19.291494+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -525,15 +484,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Suriname",
-   "away": "Martinique",
-   "liga": "CONCACAF Nations League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
