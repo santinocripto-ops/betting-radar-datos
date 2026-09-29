@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T00:07:37.240679+00:00",
+ "actualizado": "2026-09-29T00:14:26.546101+00:00",
  "partidos_vivo": [
   {
    "home": "America Mineiro",
@@ -764,6 +764,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Eagles vs. Bears: O/U 42.5",
+   "apuesta": "SI, mas de 42.5 goles",
+   "usdc": 26520,
+   "prob": 49.5,
+   "n_traders": 3,
+   "trader": "ndb1",
+   "hora": "02:14"
+  },
+  {
    "titulo": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
    "apuesta": "SI, Mouilleron-Le-Captif: Clement Tabur ganara",
    "usdc": 15677,
@@ -825,15 +834,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "16:41"
-  },
-  {
-   "titulo": "Counter-Strike: NIP vs GamerLegion (BO5) - 1win Private Club #1 Playof",
-   "apuesta": "SI, ganara",
-   "usdc": 136991,
-   "prob": 42.0,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x8",
-   "hora": "16:00"
   }
  ],
  "stats_gt": {
