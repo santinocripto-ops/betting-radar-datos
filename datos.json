@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-29T23:32:29.058856+00:00",
- "partidos_vivo": [
-  {
-   "home": "Real Potosí",
-   "away": "ABB",
-   "liga": "Copa de la División Profesional",
-   "minuto": 53,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  }
- ],
+ "actualizado": "2026-09-29T23:39:42.841712+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
