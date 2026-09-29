@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T10:59:08.240710+00:00",
+ "actualizado": "2026-09-29T11:07:15.683983+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -189,7 +189,7 @@
     "away": "Dhaka Wanderers",
     "liga": "Federation Cup",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -326,7 +326,7 @@
     "away": "Dhaka Wanderers",
     "liga": "Federation Cup",
     "hora": "11:00",
-    "resultado": "pendiente",
+    "resultado": "anulado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
