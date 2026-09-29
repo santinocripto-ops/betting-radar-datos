@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T21:44:48.256594+00:00",
+ "actualizado": "2026-09-29T21:52:25.169586+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -78,17 +78,7 @@
   }
  ],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Luxembourg",
-   "away": "Iceland",
-   "liga": "UEFA Nations League",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.31,
-   "resultado": "pendiente",
-   "fecha": "2026-09-28"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -819,15 +809,15 @@
   "hoy": 9
  },
  "stats_dia": {
-  "ganados": 6,
+  "ganados": 7,
   "perdidos": 3,
-  "en_juego": 6,
-  "win_rate": 67
+  "en_juego": 5,
+  "win_rate": 70
  },
  "stats_banker": {
-  "ganados": 117,
+  "ganados": 118,
   "perdidos": 43,
-  "pendientes": 1,
+  "pendientes": 0,
   "win_rate": 73
  },
  "marca": {
