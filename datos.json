@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T19:59:26.295590+00:00",
+ "actualizado": "2026-09-29T20:07:25.710575+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -100,9 +100,9 @@
    "cuota": null,
    "score": 8.07,
    "hora": "17:45",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 85,
-   "n_historico": 386
+   "n_historico": 388
   },
   {
    "clave": "over25",
@@ -116,7 +116,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1687
+   "n_historico": 1690
   },
   {
    "clave": "btts",
@@ -130,7 +130,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1718
+   "n_historico": 1721
   }
  ],
  "gol_temprano": [
@@ -477,10 +477,10 @@
    }
   ],
   "balance": {
-   "ganados": 2085,
-   "perdidos": 1320,
-   "acierto": 61.2,
-   "yield": 16.3,
+   "ganados": 2090,
+   "perdidos": 1321,
+   "acierto": 61.3,
+   "yield": 16.4,
    "cuota_media": 1.9
   }
  },
