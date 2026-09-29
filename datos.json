@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T01:04:04.658900+00:00",
+ "actualizado": "2026-09-29T01:11:16.367705+00:00",
  "partidos_vivo": [
   {
    "home": "Jamaica",
@@ -576,8 +576,8 @@
     "cuota": 1.26,
     "pinnacle": true,
     "delta": 4.31,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-28T22:30:00+00:00",
     "ts": "2026-09-28T13:08:06.981563+00:00"
    },
@@ -763,17 +763,26 @@
    }
   ],
   "balance": {
-   "ganados": 338,
+   "ganados": 339,
    "perdidos": 135,
-   "pendientes": 3,
+   "pendientes": 2,
    "acierto": 71.5,
-   "total": 473
+   "total": 474
   }
  },
  "mejor_dia": {
   "disponible": false
  },
  "apuestas_top": [
+  {
+   "titulo": "Eagles vs. Bears: O/U 44.5",
+   "apuesta": "SI, mas de 44.5 goles",
+   "usdc": 44362,
+   "prob": 32.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "03:11"
+  },
   {
    "titulo": "Eagles vs. Bears: O/U 42.5",
    "apuesta": "SI, mas de 42.5 goles",
@@ -836,15 +845,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x5",
    "hora": "17:14"
-  },
-  {
-   "titulo": "Will France win on 2026-09-28?",
-   "apuesta": "SI, France ganara",
-   "usdc": 90000,
-   "prob": 51.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "16:41"
   }
  ],
  "stats_gt": {
