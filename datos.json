@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T03:55:39.497997+00:00",
+ "actualizado": "2026-09-29T04:04:48.049777+00:00",
  "partidos_vivo": [
   {
    "home": "Guatemala",
@@ -137,7 +137,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1670
+   "n_historico": 1671
   },
   {
    "clave": "btts",
@@ -499,9 +499,9 @@
   ],
   "balance": {
    "ganados": 2073,
-   "perdidos": 1303,
+   "perdidos": 1304,
    "acierto": 61.4,
-   "yield": 16.7,
+   "yield": 16.6,
    "cuota_media": 1.9
   }
  },
