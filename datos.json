@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-29T07:59:47.529210+00:00",
+ "actualizado": "2026-09-29T08:08:28.995176+00:00",
  "partidos_vivo": [
   {
-   "home": "Korea DPR W",
-   "away": "China W",
-   "liga": "Asian Games Women",
+   "home": "Fiji W",
+   "away": "New Caledonia W",
+   "liga": "Friendlies Women",
    "minuto": 50,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.32 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
