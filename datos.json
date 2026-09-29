@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-29T07:00:39.256802+00:00",
+ "actualizado": "2026-09-29T07:09:21.969502+00:00",
  "partidos_vivo": [
   {
-   "home": "Papua New Guinea W",
-   "away": "Solomon Islands W",
-   "liga": "Friendlies Women",
+   "home": "Korea DPR W",
+   "away": "China W",
+   "liga": "Asian Games Women",
    "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
@@ -137,7 +137,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1672
+   "n_historico": 1673
   },
   {
    "clave": "btts",
@@ -498,7 +498,7 @@
    }
   ],
   "balance": {
-   "ganados": 2073,
+   "ganados": 2074,
    "perdidos": 1305,
    "acierto": 61.4,
    "yield": 16.6,
