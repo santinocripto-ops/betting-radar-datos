@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T17:08:45.075987+00:00",
+ "actualizado": "2026-09-29T17:09:05.537261+00:00",
  "partidos_vivo": [
   {
    "home": "Germany U20",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "00:10",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
-   "hora": "00:02",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
