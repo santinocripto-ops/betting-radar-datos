@@ -1,22 +1,22 @@
 {
- "actualizado": "2026-09-29T16:06:52.406632+00:00",
+ "actualizado": "2026-09-29T16:15:26.457218+00:00",
  "partidos_vivo": [
   {
-   "home": "Al Fujairah SC",
-   "away": "Al Jazira Al Hamra",
-   "liga": "Presidents Cup",
-   "minuto": 48,
-   "marcador": "3-0",
+   "home": "Iceland U21",
+   "away": "Switzerland U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 55,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 7.3,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "🔥 3 goles — partido muy abierto"
    ]
@@ -483,15 +483,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Charlton Athletic U21",
-   "away": "Millwall U21",
-   "liga": "Professional Development League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
