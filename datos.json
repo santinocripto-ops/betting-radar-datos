@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T22:09:25.911559+00:00",
+ "actualizado": "2026-09-29T22:17:38.385822+00:00",
  "partidos_vivo": [
   {
    "home": "French Guyana",
@@ -508,8 +508,8 @@
     "cuota": 1.36,
     "pinnacle": true,
     "delta": 3.79,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-3",
+    "resultado": "ganado",
     "kickoff": "2026-09-29T18:45:00+00:00",
     "ts": "2026-09-28T21:05:00.902196+00:00"
    },
@@ -523,8 +523,8 @@
     "cuota": 1.25,
     "pinnacle": true,
     "delta": 3.3,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-09-29T18:45:00+00:00",
     "ts": "2026-09-29T17:09:05.788454+00:00"
    },
@@ -538,8 +538,8 @@
     "cuota": 1.19,
     "pinnacle": true,
     "delta": 3.48,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "ganado",
     "kickoff": "2026-09-29T18:45:00+00:00",
     "ts": "2026-09-29T18:05:59.356714+00:00"
    },
@@ -725,11 +725,11 @@
    }
   ],
   "balance": {
-   "ganados": 341,
+   "ganados": 344,
    "perdidos": 135,
-   "pendientes": 3,
-   "acierto": 71.6,
-   "total": 476
+   "pendientes": 0,
+   "acierto": 71.8,
+   "total": 479
   }
  },
  "mejor_dia": {
