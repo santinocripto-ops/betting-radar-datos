@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T18:22:16.530664+00:00",
+ "actualizado": "2026-09-29T18:30:20.339163+00:00",
  "partidos_vivo": [
   {
    "home": "Hu Ge W",
@@ -742,6 +742,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Iceland win on 2026-09-29?",
+   "apuesta": "SI, Iceland ganara",
+   "usdc": 172179,
+   "prob": 42.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x9",
+   "hora": "20:30"
+  },
+  {
    "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
    "usdc": 103211,
@@ -803,15 +812,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "06:41"
-  },
-  {
-   "titulo": "China Open, Qualification: Harriet Dart vs Yexin Ma",
-   "apuesta": "SI, China Open, Qualification: Harriet Dart ganara",
-   "usdc": 145421,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "06:40"
   }
  ],
  "stats_gt": {
