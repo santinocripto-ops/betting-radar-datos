@@ -1,9 +1,27 @@
 {
- "actualizado": "2026-09-29T12:07:16.182716+00:00",
+ "actualizado": "2026-09-29T12:16:28.873230+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -56,24 +74,6 @@
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "23:05",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "22:21",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:53",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "20:09",
    "tipo": "smart_money"
   }
  ],
@@ -134,6 +134,39 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Peterborough United U21",
+   "away": "Fleetwood Town U21",
+   "liga": "Professional Development League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Coventry City U21",
+   "away": "Colchester United U21",
+   "liga": "Professional Development League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-29",
+   "es_hoy": true
+  },
+  {
+   "home": "Charlton Athletic U21",
+   "away": "Millwall U21",
+   "liga": "Professional Development League",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-29",
+   "es_hoy": true
+  },
   {
    "home": "Japan W",
    "away": "South Korea W",
@@ -480,8 +513,8 @@
     "cuota": 1.07,
     "pinnacle": true,
     "delta": 4.33,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-09-29T10:00:00+00:00",
     "ts": "2026-09-29T09:07:38.935949+00:00"
    },
@@ -667,11 +700,11 @@
    }
   ],
   "balance": {
-   "ganados": 339,
+   "ganados": 340,
    "perdidos": 135,
-   "pendientes": 3,
-   "acierto": 71.5,
-   "total": 474
+   "pendientes": 2,
+   "acierto": 71.6,
+   "total": 475
   }
  },
  "mejor_dia": {
@@ -761,7 +794,7 @@
   "n": 3363,
   "ganados": 2252,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 1,
