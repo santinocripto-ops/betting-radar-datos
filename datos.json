@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-09-29T18:30:20.339163+00:00",
+ "actualizado": "2026-09-29T18:38:54.093634+00:00",
  "partidos_vivo": [
   {
-   "home": "Hu Ge W",
-   "away": "Uppsala W",
-   "liga": "Svenska Cupen - Women",
-   "minuto": 48,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
+   "home": "Saudi Arabia",
+   "away": "Iraq",
+   "liga": "Gulf Cup of Nations",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 5.23 goles/partido",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
