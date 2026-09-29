@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T04:59:20.655992+00:00",
+ "actualizado": "2026-09-29T05:08:11.829771+00:00",
  "partidos_vivo": [
   {
    "home": "Guatemala",
@@ -747,6 +747,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open, Qualification: Marco Trungelliti vs Alex Molcan",
+   "apuesta": "SI, China Open, Qualification: Marco Trungelliti ganara",
+   "usdc": 21743,
+   "prob": 22.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "07:08"
+  },
+  {
    "titulo": "Jingshan: Alexandra Shubladze vs Rina Saigo",
    "apuesta": "SI, Jingshan: Alexandra Shubladze ganara",
    "usdc": 106772,
@@ -808,15 +817,6 @@
    "n_traders": 3,
    "trader": "ndb1",
    "hora": "02:14"
-  },
-  {
-   "titulo": "Mouilleron-Le-Captif: Clement Tabur vs Matteo Martineau",
-   "apuesta": "SI, Mouilleron-Le-Captif: Clement Tabur ganara",
-   "usdc": 15677,
-   "prob": 16.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "00:02"
   }
  ],
  "stats_gt": {
