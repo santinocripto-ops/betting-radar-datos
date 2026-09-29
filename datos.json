@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-29T13:55:41.432453+00:00",
+ "actualizado": "2026-09-29T14:04:45.049432+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -102,7 +102,7 @@
    "hora": "17:45",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 381
+   "n_historico": 383
   },
   {
    "clave": "over25",
@@ -116,7 +116,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1676
+   "n_historico": 1685
   },
   {
    "clave": "btts",
@@ -130,7 +130,7 @@
    "hora": "00:00",
    "resultado": "perdido",
    "wr_historico": 58,
-   "n_historico": 1711
+   "n_historico": 1717
   }
  ],
  "gol_temprano": [
@@ -141,7 +141,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-29",
    "es_hoy": true
   },
@@ -152,7 +152,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-29",
    "es_hoy": true
   },
@@ -163,7 +163,7 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-29",
    "es_hoy": true
   },
@@ -174,21 +174,21 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-09-29",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54468.0,
-  "balance_total": 44468.0,
-  "balance_dia": -55.0,
-  "ganados": 3256,
-  "perdidos": 1461,
-  "pendientes": 8,
-  "ganados_dia": 1,
-  "perdidos_dia": 1,
+  "capital": 54480.0,
+  "balance_total": 44480.0,
+  "balance_dia": -43.0,
+  "ganados": 3260,
+  "perdidos": 1463,
+  "pendientes": 2,
+  "ganados_dia": 5,
+  "perdidos_dia": 3,
   "win_rate": 69.0,
   "roi": 9.4,
   "stake": 100.0,
@@ -267,7 +267,7 @@
     "away": "Iceland U17",
     "liga": "UEFA U17 Championship - Qualification",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -276,7 +276,7 @@
     "away": "Millwall U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -285,7 +285,7 @@
     "away": "Colchester United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -294,7 +294,7 @@
     "away": "Fleetwood Town U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -303,7 +303,7 @@
     "away": "Huddersfield Town U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -312,7 +312,7 @@
     "away": "Transport United",
     "liga": "Premier League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -368,7 +368,7 @@
     "away": "South Korea W",
     "liga": "Asian Games Women",
     "hora": "12:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -386,7 +386,7 @@
     "away": "Wales U19",
     "liga": "Friendlies",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -395,7 +395,7 @@
     "away": "Iceland U17",
     "liga": "UEFA U17 Championship - Qualification",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -404,7 +404,7 @@
     "away": "Millwall U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -413,7 +413,7 @@
     "away": "Colchester United U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -422,7 +422,7 @@
     "away": "Fleetwood Town U21",
     "liga": "Professional Development League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -431,7 +431,7 @@
     "away": "Transport United",
     "liga": "Premier League",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -455,10 +455,10 @@
    }
   ],
   "balance": {
-   "ganados": 2077,
-   "perdidos": 1310,
-   "acierto": 61.3,
-   "yield": 16.5,
+   "ganados": 2083,
+   "perdidos": 1319,
+   "acierto": 61.2,
+   "yield": 16.3,
    "cuota_media": 1.9
   }
  },
@@ -468,14 +468,14 @@
    "away": "Millwall U21",
    "liga": "Professional Development League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Japan W",
    "away": "South Korea W",
    "liga": "Asian Games Women",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -798,16 +798,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3363,
-  "ganados": 2252,
+  "n": 3367,
+  "ganados": 2254,
   "win_rate": 67,
   "hoy": 4
  },
  "stats_dia": {
-  "ganados": 1,
-  "perdidos": 1,
-  "en_juego": 7,
-  "win_rate": 50
+  "ganados": 5,
+  "perdidos": 3,
+  "en_juego": 1,
+  "win_rate": 62
  },
  "stats_banker": {
   "ganados": 117,
