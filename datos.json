@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T11:51:25.610991+00:00",
+ "actualizado": "2026-09-30T11:59:07.550043+00:00",
  "partidos_vivo": [
   {
    "home": "Uzbekistan U23",
@@ -698,6 +698,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
+   "usdc": 96723,
+   "prob": 43.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xc",
+   "hora": "13:58"
+  },
+  {
    "titulo": "China Open: Nuno Borges vs Novak Djokovic",
    "apuesta": "SI, China Open: Nuno Borges ganara",
    "usdc": 139691,
@@ -759,15 +768,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "07:29"
-  },
-  {
-   "titulo": "China Open: Darja Vidmanova vs Maria Timofeeva",
-   "apuesta": "SI, China Open: Darja Vidmanova ganara",
-   "usdc": 18826,
-   "prob": 32.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "05:36"
   }
  ],
  "stats_gt": {
