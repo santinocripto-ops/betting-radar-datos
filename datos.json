@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T14:03:09.259595+00:00",
+ "actualizado": "2026-09-30T14:09:21.900350+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -453,6 +453,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Slovakia U19",
+    "away": "Switzerland U19",
+    "liga": "Friendlies",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 6,
+    "cuota": 1.44,
+    "pinnacle": true,
+    "delta": 6.04,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-01T09:30:00+00:00",
+    "ts": "2026-09-30T14:02:57.169642+00:00"
+   },
+   {
+    "home": "Portugal U19",
+    "away": "Netherlands U19",
+    "liga": "Friendlies",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 1.75,
+    "pinnacle": true,
+    "delta": 3.23,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-30T16:30:00+00:00",
+    "ts": "2026-09-30T14:02:53.669126+00:00"
+   },
+   {
     "home": "Seychelles",
     "away": "Sri Lanka",
     "liga": "Friendlies",
@@ -646,42 +676,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-27T20:00:00+00:00",
     "ts": "2026-09-27T14:07:19.001482+00:00"
-   },
-   {
-    "home": "Fiji",
-    "away": "Papua New Guinea",
-    "liga": "Friendlies",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 1.91,
-    "pinnacle": false,
-    "delta": 4.85,
-    "marcador": "2-0",
-    "resultado": "perdido",
-    "kickoff": "2026-09-27T07:00:00+00:00",
-    "ts": "2026-09-26T23:08:08.440992+00:00"
-   },
-   {
-    "home": "Seattle Sounders",
-    "away": "Minnesota United FC",
-    "liga": "Major League Soccer",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 7,
-    "cuota": 1.38,
-    "pinnacle": true,
-    "delta": 4.06,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-27T00:30:00+00:00",
-    "ts": "2026-09-26T18:07:18.349433+00:00"
    }
   ],
   "balance": {
    "ganados": 344,
    "perdidos": 135,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 71.8,
    "total": 479
   }
@@ -778,7 +778,7 @@
  "stats_dia": {
   "ganados": 1,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 3,
   "win_rate": 100
  },
  "stats_banker": {
