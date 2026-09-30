@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T06:00:36.039048+00:00",
+ "actualizado": "2026-09-30T06:08:44.800648+00:00",
  "partidos_vivo": [
   {
    "home": "Papua New Guinea",
@@ -137,7 +137,7 @@
    "hora": "05:00",
    "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1692
+   "n_historico": 1693
   },
   {
    "clave": "btts",
@@ -149,9 +149,9 @@
    "cuota": 1.85,
    "score": 10,
    "hora": "04:00",
-   "resultado": "pendiente",
-   "wr_historico": 58,
-   "n_historico": 1727
+   "resultado": "ganado",
+   "wr_historico": 59,
+   "n_historico": 1728
   }
  ],
  "gol_temprano": [
@@ -247,7 +247,7 @@
     "away": "Solomon Islands",
     "liga": "Friendlies",
     "hora": "06:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -402,7 +402,7 @@
     "away": "Solomon Islands",
     "liga": "Friendlies",
     "hora": "06:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -498,8 +498,8 @@
    }
   ],
   "balance": {
-   "ganados": 2096,
-   "perdidos": 1323,
+   "ganados": 2097,
+   "perdidos": 1324,
    "acierto": 61.3,
    "yield": 16.5,
    "cuota_media": 1.9
