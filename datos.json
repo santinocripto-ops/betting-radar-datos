@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T02:04:01.908340+00:00",
+ "actualizado": "2026-09-30T02:10:01.867495+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -488,6 +488,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Seychelles",
+    "away": "Sri Lanka",
+    "liga": "Friendlies",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.36,
+    "pinnacle": false,
+    "delta": 3.93,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-09-30T13:00:00+00:00",
+    "ts": "2026-09-30T02:03:50.032672+00:00"
+   },
+   {
     "home": "Luxembourg",
     "away": "Iceland",
     "liga": "UEFA Nations League",
@@ -696,27 +711,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-27T00:30:00+00:00",
     "ts": "2026-09-26T18:07:18.349433+00:00"
-   },
-   {
-    "home": "USA",
-    "away": "Peru",
-    "liga": "Friendlies",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 4,
-    "cuota": 1.12,
-    "pinnacle": false,
-    "delta": 3.51,
-    "marcador": "4-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-26T20:30:00+00:00",
-    "ts": "2026-09-26T19:05:50.404892+00:00"
    }
   ],
   "balance": {
    "ganados": 344,
    "perdidos": 135,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 71.8,
    "total": 479
   }
@@ -807,7 +807,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
