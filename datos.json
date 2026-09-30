@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T09:56:09.508091+00:00",
+ "actualizado": "2026-09-30T10:03:44.835411+00:00",
  "partidos_vivo": [
   {
    "home": "Khovd",
@@ -123,7 +123,7 @@
    "hora": "14:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 390
+   "n_historico": 391
   },
   {
    "clave": "over25",
@@ -137,7 +137,7 @@
    "hora": "05:00",
    "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1694
+   "n_historico": 1695
   },
   {
    "clave": "btts",
@@ -150,8 +150,8 @@
    "score": 10,
    "hora": "04:00",
    "resultado": "ganado",
-   "wr_historico": 59,
-   "n_historico": 1729
+   "wr_historico": 58,
+   "n_historico": 1730
   }
  ],
  "gol_temprano": [
@@ -210,7 +210,7 @@
     "away": "Ulaanbaatar",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -329,7 +329,7 @@
     "away": "Ulaanbaatar",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -443,8 +443,8 @@
    }
   ],
   "balance": {
-   "ganados": 2099,
-   "perdidos": 1324,
+   "ganados": 2100,
+   "perdidos": 1325,
    "acierto": 61.3,
    "yield": 16.5,
    "cuota_media": 1.9
