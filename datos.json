@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-09-30T14:47:54.753966+00:00",
- "partidos_vivo": [
-  {
-   "home": "Madureira U20",
-   "away": "Vasco da Gama U20",
-   "liga": "Carioca U20",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  }
- ],
+ "actualizado": "2026-09-30T14:54:43.953968+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
