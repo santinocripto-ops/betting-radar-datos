@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-30T07:59:33.566188+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-30T08:07:26.208353+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Fiji",
+   "away": "New Caledonia",
+   "liga": "Friendlies",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚽ 1 gol — Fiji buscará el empate"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -114,9 +135,9 @@
    "cuota": null,
    "score": 10,
    "hora": "05:00",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 64,
-   "n_historico": 1693
+   "n_historico": 1694
   },
   {
    "clave": "btts",
@@ -130,7 +151,7 @@
    "hora": "04:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1728
+   "n_historico": 1729
   }
  ],
  "gol_temprano": [
@@ -180,7 +201,7 @@
     "away": "Hunters",
     "liga": "Premier League",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -299,7 +320,7 @@
     "away": "Hunters",
     "liga": "Premier League",
     "hora": "07:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -422,7 +443,7 @@
    }
   ],
   "balance": {
-   "ganados": 2097,
+   "ganados": 2099,
    "perdidos": 1324,
    "acierto": 61.3,
    "yield": 16.5,
@@ -671,6 +692,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Maddison Inglis vs Zeynep Sonmez",
+   "apuesta": "SI, China Open: Maddison Inglis ganara",
+   "usdc": 115591,
+   "prob": 92.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "10:06"
+  },
+  {
    "titulo": "China Open: Aliaksandra Sasnovich vs Talia Gibson",
    "apuesta": "SI, China Open: Aliaksandra Sasnovich ganara",
    "usdc": 94533,
@@ -729,15 +759,6 @@
    "apuesta": "NO, Spain no ganara",
    "usdc": 18297,
    "prob": 8.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "20:53"
-  },
-  {
-   "titulo": "Will England win on 2026-09-29?",
-   "apuesta": "SI, England ganara",
-   "usdc": 115780,
-   "prob": 75.5,
    "n_traders": 2,
    "trader": "RN1",
    "hora": "20:53"
