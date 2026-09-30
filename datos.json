@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T16:38:22.352726+00:00",
+ "actualizado": "2026-09-30T16:45:12.185827+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
@@ -710,6 +710,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
+   "apuesta": "SI, Dota 2: Team Nemesis ganara",
+   "usdc": 97582,
+   "prob": 33.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "18:44"
+  },
+  {
    "titulo": "China Open: Anna Bondar vs Renata Zarazua",
    "apuesta": "SI, China Open: Anna Bondar ganara",
    "usdc": 23030,
@@ -771,15 +780,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "09:38"
-  },
-  {
-   "titulo": "Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B",
-   "apuesta": "SI, Valorant: Team Vitality ganara",
-   "usdc": 100000,
-   "prob": 46.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "09:17"
   }
  ],
  "stats_gt": {
