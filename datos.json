@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T07:31:37.658644+00:00",
+ "actualizado": "2026-09-30T07:38:32.374426+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -671,6 +671,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Aliaksandra Sasnovich vs Talia Gibson",
+   "apuesta": "SI, China Open: Aliaksandra Sasnovich ganara",
+   "usdc": 94533,
+   "prob": 91.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "09:38"
+  },
+  {
    "titulo": "Valorant: Team Vitality vs LOUD (BO3) - VCT Champions Group B",
    "apuesta": "SI, Valorant: Team Vitality ganara",
    "usdc": 100000,
@@ -732,15 +741,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "20:53"
-  },
-  {
-   "titulo": "Will Iceland win on 2026-09-29?",
-   "apuesta": "SI, Iceland ganara",
-   "usdc": 172179,
-   "prob": 42.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x9",
-   "hora": "20:30"
   }
  ],
  "stats_gt": {
