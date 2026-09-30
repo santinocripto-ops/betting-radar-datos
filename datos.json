@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T10:26:25.523484+00:00",
+ "actualizado": "2026-09-30T10:33:48.463545+00:00",
  "partidos_vivo": [
   {
    "home": "Timor-Leste",
@@ -718,6 +718,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Taylah Preston vs Tamara Korpatsch",
+   "apuesta": "SI, China Open: Taylah Preston ganara",
+   "usdc": 99471,
+   "prob": 100.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "12:33"
+  },
+  {
    "titulo": "Jingshan: Wushuang Zheng vs Sara Sorribes Tormo",
    "apuesta": "SI, Jingshan: Wushuang Zheng ganara",
    "usdc": 95009,
@@ -779,15 +788,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "05:29"
-  },
-  {
-   "titulo": "China Open: Janice Tjen vs Anhelina Kalinina",
-   "apuesta": "SI, China Open: Janice Tjen ganara",
-   "usdc": 24320,
-   "prob": 43.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "05:22"
   }
  ],
  "stats_gt": {
