@@ -1,168 +1,48 @@
 {
- "actualizado": "2026-09-30T17:27:21.993780+00:00",
+ "actualizado": "2026-09-30T17:34:11.677603+00:00",
  "partidos_vivo": [
   {
-   "home": "Brann W",
-   "away": "HJK W",
+   "home": "Eintracht Frankfurt W",
+   "away": "FH W",
    "liga": "UEFA Europa Cup - Women",
    "minuto": 46,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "⚽ 1 gol — HJK W buscará el empate",
-    "🎯 10 remates totales"
-   ]
-  },
-  {
-   "home": "Fortuna Hjørring W",
-   "away": "PSV/Eindhoven W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Spartak Myjava W",
-   "away": "PAOK W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 31,
-   "momentum_away": 69,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "⚽ 1 gol — PAOK W buscará el empate",
-    "🎯 9 remates totales"
-   ]
-  },
-  {
-   "home": "Rosenborg W",
-   "away": "Slovan Liberec W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 48,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 80,
-   "momentum_away": 20,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Slovan Liberec W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Vålerenga W",
-   "away": "Feyenoord W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 57,
-   "momentum_away": 43,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Czech Republic U21",
-   "away": "Bulgaria U21",
-   "liga": "UEFA U21 Championship - Qualification",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Malta U21",
-   "away": "Germany U21",
-   "liga": "UEFA U21 Championship - Qualification",
-   "minuto": 47,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Hønefoss",
-   "away": "KFUM Oslo",
-   "liga": "NM Cupen",
-   "minuto": 48,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 77,
+   "momentum_away": 23,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.87 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Hønefoss buscará el empate"
+    "⚽ Liga muy goleadora: 3.82 goles/partido",
+    "⚽ 1 gol — Eintracht Frankfurt W buscará el empate",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Sturm Graz W",
+   "away": "VfL Wolfsburg W",
+   "liga": "UEFA Europa Cup - Women",
+   "minuto": 46,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 8,
+   "momentum_away": 92,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.82 goles/partido",
+    "⚽ 1 gol — Sturm Graz W buscará el empate",
+    "🎯 11 remates totales"
    ]
   }
  ],
- "partidos_vivo_total": 13,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
