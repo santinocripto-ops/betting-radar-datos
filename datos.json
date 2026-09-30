@@ -1,28 +1,48 @@
 {
- "actualizado": "2026-09-30T12:59:28.801823+00:00",
+ "actualizado": "2026-09-30T13:07:28.339320+00:00",
  "partidos_vivo": [
   {
-   "home": "Uzbekistan U23",
-   "away": "Japan U23",
-   "liga": "Asian Games",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Hong Kong",
+   "away": "Brunei",
+   "liga": "FIFA Asean Cup",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 70,
-   "momentum_away": 30,
+   "momentum_home": 93,
+   "momentum_away": 7,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚽ 1 gol — Japan U23 buscará el empate",
-    "⏱ 42 minutos por jugar — margen amplio"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
+    "🚩 8 córners"
+   ]
+  },
+  {
+   "home": "Bhutan U19",
+   "away": "Thimphu",
+   "liga": "Premier League",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
