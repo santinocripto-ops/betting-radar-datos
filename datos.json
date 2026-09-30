@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T19:06:55.426769+00:00",
+ "actualizado": "2026-09-30T19:20:35.238467+00:00",
  "partidos_vivo": [
   {
    "home": "Rangers W",
@@ -147,6 +147,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "21:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "21:04",
    "tipo": "live"
@@ -204,18 +216,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Slovakia U19 vs Switzerland U19 · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
-   "hora": "16:03",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:02",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -276,6 +276,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "SL Benfica W",
+   "away": "Bayern Munich W",
+   "liga": "UEFA Champions League Women",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-30",
+   "es_hoy": true
+  },
+  {
+   "home": "Portugal U21",
+   "away": "Gibraltar U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-09-30",
+   "es_hoy": true
+  },
+  {
    "home": "Tzeirey Tira",
    "away": "FC Jerusalem",
    "liga": "Liga Alef",
@@ -313,28 +335,6 @@
    "away": "Holon Yermiyahu",
    "liga": "Liga Alef",
    "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Roma W",
-   "away": "Barcelona W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 13,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": true
-  },
-  {
-   "home": "Spartak Myjava W",
-   "away": "PAOK W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 19,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -683,8 +683,8 @@
     "cuota": 1.75,
     "pinnacle": true,
     "delta": 3.23,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "6-1",
+    "resultado": "perdido",
     "kickoff": "2026-09-30T16:30:00+00:00",
     "ts": "2026-09-30T14:02:53.669126+00:00"
    },
@@ -871,10 +871,10 @@
   ],
   "balance": {
    "ganados": 345,
-   "perdidos": 135,
-   "pendientes": 3,
-   "acierto": 71.9,
-   "total": 480
+   "perdidos": 136,
+   "pendientes": 2,
+   "acierto": 71.7,
+   "total": 481
   }
  },
  "mejor_dia": {
@@ -964,7 +964,7 @@
   "n": 3379,
   "ganados": 2264,
   "win_rate": 67,
-  "hoy": 9
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 8,
