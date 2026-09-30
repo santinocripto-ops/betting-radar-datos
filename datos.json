@@ -1,133 +1,13 @@
 {
- "actualizado": "2026-09-30T19:27:29.262038+00:00",
+ "actualizado": "2026-09-30T19:34:23.432961+00:00",
  "partidos_vivo": [
   {
-   "home": "Rangers W",
-   "away": "Hammarby W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 48,
+   "home": "EC Novo Horizonte",
+   "away": "Clube 1992",
+   "liga": "Gaúcho - 3",
+   "minuto": 64,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.82 goles/partido",
-    "⚽ 1 gol — Rangers W buscará el empate",
-    "📊 Rangers W: Over2.5 histórico 70%"
-   ]
-  },
-  {
-   "home": "Merelbeke",
-   "away": "Dessel Sport",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Sporting Charleroi II",
-   "away": "Habay-la-Neuve",
-   "liga": "First Amateur Division",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Zelzate",
-   "away": "Knokke",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Middlesbrough U21",
-   "away": "Juventus U21",
-   "liga": "Premier League International Cup",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.27 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Älvsjö AIK W",
-   "away": "Djurgården W",
-   "liga": "Svenska Cupen - Women",
-   "minuto": 48,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 5.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Navalcarnero",
-   "away": "Real Murcia",
-   "liga": "Copa Federacion",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -136,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.71 goles/partido",
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — EC Novo Horizonte buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 14,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
