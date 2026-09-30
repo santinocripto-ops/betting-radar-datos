@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T18:15:40.024764+00:00",
+ "actualizado": "2026-09-30T18:22:29.366629+00:00",
  "partidos_vivo": [
   {
    "home": "Roma W",
@@ -309,7 +309,7 @@
   "balance_dia": 183.0,
   "ganados": 3267,
   "perdidos": 1465,
-  "pendientes": 7,
+  "pendientes": 9,
   "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 69.0,
@@ -317,7 +317,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4739,
+  "con_cuota_media": 4741,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -922,7 +922,7 @@
  "stats_dia": {
   "ganados": 4,
   "perdidos": 0,
-  "en_juego": 6,
+  "en_juego": 8,
   "win_rate": 100
  },
  "stats_banker": {
