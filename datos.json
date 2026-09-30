@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T21:04:41.647828+00:00",
+ "actualizado": "2026-09-30T21:15:12.755398+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -496,13 +496,6 @@
    "home": "Merelbeke",
    "away": "Dessel Sport",
    "liga": "First Amateur Division",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Czarni Sosnowiec W",
-   "away": "Breidablik W",
-   "liga": "UEFA Europa Cup - Women",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
