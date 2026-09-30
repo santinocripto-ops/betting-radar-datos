@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T20:01:29.315204+00:00",
+ "actualizado": "2026-09-30T20:08:01.916560+00:00",
  "partidos_vivo": [
   {
    "home": "Sporting CP W",
@@ -87,6 +87,12 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "22:07",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:20",
    "tipo": "live"
@@ -149,12 +155,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:15",
    "tipo": "live"
   }
  ],
@@ -289,7 +289,7 @@
   "balance_dia": 311.0,
   "ganados": 3271,
   "perdidos": 1466,
-  "pendientes": 7,
+  "pendientes": 8,
   "ganados_dia": 7,
   "perdidos_dia": 1,
   "win_rate": 69.1,
@@ -297,7 +297,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4744,
+  "con_cuota_media": 4745,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -566,6 +566,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "SL Benfica W",
+   "away": "Bayern Munich W",
+   "liga": "UEFA Champions League Women",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Merelbeke",
    "away": "Dessel Sport",
@@ -909,7 +916,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 1,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 89
  },
  "stats_banker": {
