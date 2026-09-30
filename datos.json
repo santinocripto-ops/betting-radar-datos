@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-09-30T04:58:58.468135+00:00",
+ "actualizado": "2026-09-30T05:06:47.813444+00:00",
  "partidos_vivo": [
   {
-   "home": "Belize",
-   "away": "St. Vincent / Grenadines",
-   "liga": "CONCACAF Nations League",
-   "minuto": 52,
+   "home": "Papua New Guinea",
+   "away": "Solomon Islands",
+   "liga": "Friendlies",
+   "minuto": 47,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 25,
-   "momentum_away": 75,
+   "momentum_home": 77,
+   "momentum_away": 23,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
-    "⚽ 1 gol — Belize buscará el empate",
-    "🎯 12 remates totales"
+    "⚽ Liga goleadora: 3.04 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚽ 1 gol — Papua New Guinea buscará el empate"
    ]
   }
  ],
