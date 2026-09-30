@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T03:30:08.077565+00:00",
+ "actualizado": "2026-09-30T03:37:12.733051+00:00",
  "partidos_vivo": [
   {
    "home": "Belize",
@@ -747,6 +747,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Darja Vidmanova vs Maria Timofeeva",
+   "apuesta": "SI, China Open: Darja Vidmanova ganara",
+   "usdc": 18826,
+   "prob": 32.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "05:36"
+  },
+  {
    "titulo": "China Open: Maya Joint vs Sinja Kraus",
    "apuesta": "SI, China Open: Maya Joint ganara",
    "usdc": 21954,
@@ -808,15 +817,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "18:45"
-  },
-  {
-   "titulo": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
-   "apuesta": "SI, Dota 2: LGD Gaming ganara",
-   "usdc": 95465,
-   "prob": 68.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x1",
-   "hora": "15:40"
   }
  ],
  "stats_gt": {
