@@ -1,6 +1,27 @@
 {
- "actualizado": "2026-09-30T08:59:31.212882+00:00",
- "partidos_vivo": [],
+ "actualizado": "2026-09-30T09:07:09.689190+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Khovd",
+   "away": "Ulaanbaatar",
+   "liga": "Premier League",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.8 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  }
+ ],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -141,20 +162,20 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-09-30",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54524.0,
-  "balance_total": 44524.0,
-  "balance_dia": 0.0,
-  "ganados": 3264,
+  "capital": 54585.0,
+  "balance_total": 44585.0,
+  "balance_dia": 61.0,
+  "ganados": 3265,
   "perdidos": 1465,
-  "pendientes": 3,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.4,
@@ -744,16 +765,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3372,
-  "ganados": 2258,
+  "n": 3373,
+  "ganados": 2259,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 2,
-  "win_rate": 0
+  "en_juego": 1,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 118,
