@@ -1,108 +1,28 @@
 {
- "actualizado": "2026-09-30T18:29:20.803531+00:00",
+ "actualizado": "2026-09-30T18:36:25.316197+00:00",
  "partidos_vivo": [
   {
-   "home": "Roma W",
-   "away": "Barcelona W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 59,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 19,
-   "momentum_away": 81,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Roma W pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Häcken W",
-   "away": "Juventus W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 58,
-   "momentum_away": 42,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Paris FC W",
-   "away": "Arsenal W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 58,
+   "home": "Wiedenbrück",
+   "away": "Sportfreunde Siegen",
+   "liga": "Regionalliga - West",
+   "minuto": 47,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 21,
-   "momentum_away": 79,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Paris FC W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Umeå FC Akademi",
-   "away": "IFK Umeå",
-   "liga": "Division 2 - Norrland",
-   "minuto": 49,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.76 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Hapoel Nazareth Illit",
-   "away": "Tzeirey Tamra",
-   "liga": "Liga Alef",
-   "minuto": 46,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.62 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
