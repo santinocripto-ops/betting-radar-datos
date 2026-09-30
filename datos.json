@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-09-30T22:01:36.457612+00:00",
+ "actualizado": "2026-09-30T22:07:34.789066+00:00",
  "partidos_vivo": [],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -816,7 +816,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 1,
   "win_rate": 0
  },
  "stats_banker": {
