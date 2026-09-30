@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-09-30T21:54:46.392073+00:00",
+ "actualizado": "2026-09-30T22:01:36.457612+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Slovakia U19 vs Switzerland U19 · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
+   "hora": "00:01",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -69,16 +75,19 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:58",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:18",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Slovakia U19",
+   "away": "Switzerland U19",
+   "liga": "Friendlies",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.35,
+   "resultado": "pendiente",
+   "fecha": "2026-09-30"
+  },
   {
    "home": "Slovakia U19",
    "away": "Switzerland U19",
@@ -94,43 +103,43 @@
    "clave": "over15",
    "etiqueta": "Over 1.5 Goles",
    "confianza": "alta",
-   "home": "Farul Constanţa W",
-   "away": "Sparta Praha W",
-   "liga": "UEFA Europa Cup - Women",
-   "cuota": null,
-   "score": 8.28,
-   "hora": "14:00",
-   "resultado": "ganado",
+   "home": "VfB Stuttgart",
+   "away": "SpVgg Greuther Fürth",
+   "liga": "Friendlies Clubs",
+   "cuota": 1.11,
+   "score": 8.39,
+   "hora": "15:30",
+   "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 398
+   "n_historico": 399
   },
   {
    "clave": "over25",
    "etiqueta": "Over 2.5 Goles",
    "confianza": "alta",
-   "home": "Ulaangom City",
-   "away": "Hunters",
-   "liga": "Premier League",
-   "cuota": null,
+   "home": "Oriente Petrolero",
+   "away": "The Strongest",
+   "liga": "Copa de la División Profesional",
+   "cuota": 5.5,
    "score": 10,
-   "hora": "05:00",
-   "resultado": "ganado",
+   "hora": "00:30",
+   "resultado": "pendiente",
    "wr_historico": 64,
-   "n_historico": 1713
+   "n_historico": 1714
   },
   {
    "clave": "btts",
    "etiqueta": "Ambos Marcan",
    "confianza": "alta",
-   "home": "Papua New Guinea",
-   "away": "Solomon Islands",
-   "liga": "Friendlies",
-   "cuota": 1.85,
+   "home": "Oriente Petrolero",
+   "away": "The Strongest",
+   "liga": "Copa de la División Profesional",
+   "cuota": 1.57,
    "score": 10,
-   "hora": "04:00",
-   "resultado": "ganado",
+   "hora": "00:30",
+   "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1745
+   "n_historico": 1747
   }
  ],
  "gol_temprano": [
@@ -143,7 +152,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Portugal U21",
@@ -154,7 +163,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Tzeirey Tira",
@@ -165,7 +174,7 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Merelbeke",
@@ -176,7 +185,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Czarni Sosnowiec W",
@@ -187,7 +196,7 @@
    "cuota": null,
    "resultado": "perdido",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   },
   {
    "home": "Maccabi Ashdod",
@@ -198,19 +207,19 @@
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-09-30",
-   "es_hoy": true
+   "es_hoy": false
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
   "capital": 54847.0,
   "balance_total": 44847.0,
-  "balance_dia": 323.0,
+  "balance_dia": 0.0,
   "ganados": 3275,
   "perdidos": 1468,
   "pendientes": 2,
-  "ganados_dia": 11,
-  "perdidos_dia": 3,
+  "ganados_dia": 0,
+  "perdidos_dia": 0,
   "win_rate": 69.0,
   "roi": 9.5,
   "stake": 100.0,
@@ -222,217 +231,226 @@
  "pagina2": {
   "btts": [
    {
-    "home": "Papua New Guinea",
-    "away": "Solomon Islands",
-    "liga": "Friendlies",
-    "hora": "06:00",
-    "resultado": "ganado",
+    "home": "Oriente Petrolero",
+    "away": "The Strongest",
+    "liga": "Copa de la División Profesional",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Ulaangom City",
-    "away": "Hunters",
-    "liga": "Premier League",
-    "hora": "07:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Khovd",
-    "away": "Ulaanbaatar",
-    "liga": "Premier League",
+    "home": "North District",
+    "away": "Southern District",
+    "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "perdido",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "Timor-Leste",
-    "away": "Cambodia",
-    "liga": "FIFA Asean Cup",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "BTTS",
-    "tanda": 1
-   },
-   {
-    "home": "New York Red Bulls",
-    "away": "St. Louis City",
-    "liga": "Major League Soccer",
-    "hora": "01:30",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "East Bengal II",
-    "away": "Minerva Punjab",
-    "liga": "IFA Shield",
-    "hora": "11:00",
-    "resultado": "perdido",
+    "home": "Shatin",
+    "away": "Hong Kong FC",
+    "liga": "League Cup",
+    "hora": "13:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Poland U17",
-    "away": "Georgia U17",
-    "liga": "Friendlies",
-    "hora": "11:00",
-    "resultado": "ganado",
+    "home": "AS Eupen",
+    "away": "Alemannia Aachen",
+    "liga": "Friendlies Clubs",
+    "hora": "13:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 1
    },
    {
-    "home": "Farul Constanţa W",
-    "away": "Sparta Praha W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "16:00",
-    "resultado": "perdido",
+    "home": "Curaçao",
+    "away": "Trinidad and Tobago",
+    "liga": "CONCACAF Nations League",
+    "hora": "00:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Rosenborg W",
-    "away": "Slovan Liberec W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "18:00",
-    "resultado": "ganado",
+    "home": "Bolívar",
+    "away": "Gualberto Villarroel SJ",
+    "liga": "Copa de la División Profesional",
+    "hora": "00:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Vålerenga W",
-    "away": "Feyenoord W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "18:00",
-    "resultado": "ganado",
+    "home": "Stuttgart II",
+    "away": "Würzburger Kickers",
+    "liga": "Friendlies Clubs",
+    "hora": "13:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
-    "tanda": 2
+    "tanda": 1
    },
    {
-    "home": "Dobrovce",
-    "away": "Hajdina",
-    "liga": "3. SNL - East",
-    "hora": "18:30",
+    "home": "Dubai United",
+    "away": "Hatta SC",
+    "liga": "League Cup",
+    "hora": "15:15",
     "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Roma W",
-    "away": "Barcelona W",
-    "liga": "UEFA Champions League Women",
-    "hora": "18:45",
-    "resultado": "perdido",
+    "home": "VfB Stuttgart",
+    "away": "SpVgg Greuther Fürth",
+    "liga": "Friendlies Clubs",
+    "hora": "17:30",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Umeå FC Akademi",
-    "away": "IFK Umeå",
-    "liga": "Division 2 - Norrland",
-    "hora": "19:00",
-    "resultado": "perdido",
+    "home": "Rana",
+    "away": "Bodo/Glimt",
+    "liga": "NM Cupen",
+    "hora": "18:00",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    },
    {
-    "home": "Czarni Sosnowiec W",
-    "away": "Breidablik W",
-    "liga": "UEFA Europa Cup - Women",
+    "home": "FC Liefering",
+    "away": "TSV St. Johann",
+    "liga": "Friendlies Clubs",
     "hora": "19:00",
-    "resultado": "perdido",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Al Shamal",
+    "away": "Muaither SC",
+    "liga": "QSL Cup",
+    "hora": "19:15",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Denmark",
+    "away": "Portugal",
+    "liga": "UEFA Nations League",
+    "hora": "20:45",
+    "resultado": "pendiente",
+    "mercado": "BTTS",
+    "tanda": 2
+   },
+   {
+    "home": "Wales",
+    "away": "Norway",
+    "liga": "UEFA Nations League",
+    "hora": "20:45",
+    "resultado": "pendiente",
     "mercado": "BTTS",
     "tanda": 2
    }
   ],
   "over25": [
    {
-    "home": "Ulaangom City",
-    "away": "Hunters",
-    "liga": "Premier League",
-    "hora": "07:00",
-    "resultado": "ganado",
+    "home": "Oriente Petrolero",
+    "away": "The Strongest",
+    "liga": "Copa de la División Profesional",
+    "hora": "02:30",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Khovd",
-    "away": "Ulaanbaatar",
+    "home": "Cook Islands",
+    "away": "Tahiti",
+    "liga": "Friendlies",
+    "hora": "04:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "North District",
+    "away": "Southern District",
+    "liga": "League Cup",
+    "hora": "10:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Erchim",
+    "away": "Central Stallions",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Timor-Leste",
-    "away": "Cambodia",
-    "liga": "FIFA Asean Cup",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Papua New Guinea",
-    "away": "Solomon Islands",
-    "liga": "Friendlies",
-    "hora": "06:00",
-    "resultado": "perdido",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Atlético Ottawa",
-    "away": "Cavalry FC",
-    "liga": "Canadian Premier League",
-    "hora": "01:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Finland U19",
-    "away": "Germany U19",
-    "liga": "Friendlies",
-    "hora": "11:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 1
-   },
-   {
-    "home": "Auto Esporte",
-    "away": "Picuiense",
-    "liga": "Paraibano 2",
-    "hora": "00:30",
+    "home": "Shatin",
+    "away": "Hong Kong FC",
+    "liga": "League Cup",
+    "hora": "13:00",
     "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 1
    },
    {
-    "home": "Farul Constanţa W",
-    "away": "Sparta Praha W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "16:00",
-    "resultado": "ganado",
+    "home": "AS Eupen",
+    "away": "Alemannia Aachen",
+    "liga": "Friendlies Clubs",
+    "hora": "13:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Curaçao",
+    "away": "Trinidad and Tobago",
+    "liga": "CONCACAF Nations League",
+    "hora": "00:00",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 1
+   },
+   {
+    "home": "Dunajska Streda",
+    "away": "Puskas Academy",
+    "liga": "Friendlies Clubs",
+    "hora": "15:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Netherlands U18",
-    "away": "Norway U18",
-    "liga": "Friendlies",
-    "hora": "16:00",
-    "resultado": "ganado",
+    "home": "Dubai United",
+    "away": "Hatta SC",
+    "liga": "League Cup",
+    "hora": "15:15",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Flint",
-    "away": "Sandefjord",
+    "home": "VfB Stuttgart",
+    "away": "SpVgg Greuther Fürth",
+    "liga": "Friendlies Clubs",
+    "hora": "17:30",
+    "resultado": "pendiente",
+    "mercado": "Over 2.5",
+    "tanda": 2
+   },
+   {
+    "home": "Rana",
+    "away": "Bodo/Glimt",
     "liga": "NM Cupen",
     "hora": "18:00",
     "resultado": "pendiente",
@@ -440,66 +458,42 @@
     "tanda": 2
    },
    {
-    "home": "Spartak Myjava W",
-    "away": "PAOK W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "18:00",
-    "resultado": "perdido",
+    "home": "FC Liefering",
+    "away": "TSV St. Johann",
+    "liga": "Friendlies Clubs",
+    "hora": "19:00",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Rosenborg W",
-    "away": "Slovan Liberec W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "18:00",
-    "resultado": "ganado",
+    "home": "Al-Ula W",
+    "away": "Al Hilal W",
+    "liga": "Premier League Women",
+    "hora": "19:15",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    },
    {
-    "home": "Vålerenga W",
-    "away": "Feyenoord W",
-    "liga": "UEFA Europa Cup - Women",
-    "hora": "18:00",
-    "resultado": "ganado",
-    "mercado": "Over 2.5",
-    "tanda": 2
-   },
-   {
-    "home": "Angola U23",
-    "away": "Namibia U23",
-    "liga": "CAF U23 Cup of Nations",
-    "hora": "18:00",
-    "resultado": "perdido",
+    "home": "Al Shamal",
+    "away": "Muaither SC",
+    "liga": "QSL Cup",
+    "hora": "19:15",
+    "resultado": "pendiente",
     "mercado": "Over 2.5",
     "tanda": 2
    }
   ],
   "balance": {
-   "ganados": 2121,
+   "ganados": 2124,
    "perdidos": 1337,
-   "acierto": 61.3,
-   "yield": 16.5,
+   "acierto": 61.4,
+   "yield": 16.6,
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "SL Benfica W",
-   "away": "Bayern Munich W",
-   "liga": "UEFA Champions League Women",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Merelbeke",
-   "away": "Dessel Sport",
-   "liga": "First Amateur Division",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -737,13 +731,7 @@
   }
  },
  "mejor_dia": {
-  "disponible": true,
-  "hora": "18:45",
-  "cuota": 1.76,
-  "score": 10.0,
-  "n_senales": 1,
-  "mercado_pista": "Goles",
-  "resultado": "pendiente"
+  "disponible": false
  },
  "apuestas_top": [
   {
@@ -823,18 +811,18 @@
   "n": 3383,
   "ganados": 2266,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 0
  },
  "stats_dia": {
-  "ganados": 12,
-  "perdidos": 3,
-  "en_juego": 1,
-  "win_rate": 80
+  "ganados": 0,
+  "perdidos": 0,
+  "en_juego": 0,
+  "win_rate": 0
  },
  "stats_banker": {
   "ganados": 119,
   "perdidos": 43,
-  "pendientes": 1,
+  "pendientes": 2,
   "win_rate": 73
  },
  "marca": {
