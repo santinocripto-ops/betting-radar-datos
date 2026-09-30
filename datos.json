@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T22:59:39.753673+00:00",
+ "actualizado": "2026-09-30T23:05:38.017966+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -139,7 +139,7 @@
    "hora": "00:30",
    "resultado": "pendiente",
    "wr_historico": 58,
-   "n_historico": 1747
+   "n_historico": 1748
   }
  ],
  "gol_temprano": [
@@ -486,7 +486,7 @@
    }
   ],
   "balance": {
-   "ganados": 2124,
+   "ganados": 2125,
    "perdidos": 1337,
    "acierto": 61.4,
    "yield": 16.6,
