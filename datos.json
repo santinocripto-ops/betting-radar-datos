@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T10:03:44.835411+00:00",
+ "actualizado": "2026-09-30T10:04:14.510872+00:00",
  "partidos_vivo": [
   {
    "home": "Khovd",
@@ -688,7 +688,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "18:45",
+  "cuota": 1.76,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
