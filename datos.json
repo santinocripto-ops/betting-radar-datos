@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T19:20:35.238467+00:00",
+ "actualizado": "2026-09-30T19:27:29.262038+00:00",
  "partidos_vivo": [
   {
    "home": "Rangers W",
@@ -349,7 +349,7 @@
   "balance_dia": 311.0,
   "ganados": 3271,
   "perdidos": 1466,
-  "pendientes": 5,
+  "pendientes": 7,
   "ganados_dia": 7,
   "perdidos_dia": 1,
   "win_rate": 69.1,
@@ -357,7 +357,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4742,
+  "con_cuota_media": 4744,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -969,7 +969,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 1,
-  "en_juego": 4,
+  "en_juego": 6,
   "win_rate": 89
  },
  "stats_banker": {
