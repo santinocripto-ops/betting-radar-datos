@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T15:08:09.751813+00:00",
+ "actualizado": "2026-09-30T15:14:59.864361+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -708,6 +708,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Anna Bondar vs Renata Zarazua",
+   "apuesta": "SI, China Open: Anna Bondar ganara",
+   "usdc": 23030,
+   "prob": 49.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:14"
+  },
+  {
    "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
    "usdc": 96723,
@@ -769,15 +778,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "09:17"
-  },
-  {
-   "titulo": "Jingshan: Elias Ymer vs Terence Atmane",
-   "apuesta": "SI, Jingshan: Elias Ymer ganara",
-   "usdc": 126887,
-   "prob": 50.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "07:29"
   }
  ],
  "stats_gt": {
