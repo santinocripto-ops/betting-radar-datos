@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T17:29:49.591620+00:00",
+ "actualizado": "2026-10-01T17:36:15.560567+00:00",
  "partidos_vivo": [
   {
    "home": "Azerbaijan",
@@ -787,6 +787,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
+   "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
+   "usdc": 84168,
+   "prob": 77.0,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "19:36"
+  },
   {
    "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
    "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
