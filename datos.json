@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T19:35:00.944934+00:00",
+ "actualizado": "2026-10-01T19:41:15.484121+00:00",
  "partidos_vivo": [
   {
    "home": "San Marino U21",
@@ -628,6 +628,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Denmark win on 2026-10-01?",
+   "apuesta": "NO, Denmark no ganara",
+   "usdc": 52616,
+   "prob": 91.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "21:41"
+  },
+  {
    "titulo": "Will Norway win on 2026-10-01?",
    "apuesta": "SI, Norway ganara",
    "usdc": 31948,
@@ -689,15 +698,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "14:01"
-  },
-  {
-   "titulo": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
-   "apuesta": "SI, Map Handicap: NS (-1.5) ganara",
-   "usdc": 92743,
-   "prob": 58.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x6",
-   "hora": "12:37"
   }
  ],
  "stats_gt": {
