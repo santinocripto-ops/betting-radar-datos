@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T18:58:18.542014+00:00",
+ "actualizado": "2026-10-01T19:05:36.852329+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -30,9 +30,9 @@
    "cuota": 1.11,
    "score": 8.39,
    "hora": "15:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 85,
-   "n_historico": 404
+   "n_historico": 406
   },
   {
    "clave": "over25",
@@ -46,7 +46,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1728
+   "n_historico": 1731
   },
   {
    "clave": "btts",
@@ -60,7 +60,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1760
+   "n_historico": 1765
   }
  ],
  "gol_temprano": [
@@ -173,7 +173,7 @@
     "away": "SpVgg Greuther Fürth",
     "liga": "Friendlies Clubs",
     "hora": "17:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -182,7 +182,7 @@
     "away": "Bodo/Glimt",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -310,7 +310,7 @@
     "away": "SpVgg Greuther Fürth",
     "liga": "Friendlies Clubs",
     "hora": "17:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -319,7 +319,7 @@
     "away": "Bodo/Glimt",
     "liga": "NM Cupen",
     "hora": "18:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -352,10 +352,10 @@
    }
   ],
   "balance": {
-   "ganados": 2146,
-   "perdidos": 1342,
-   "acierto": 61.5,
-   "yield": 16.9,
+   "ganados": 2152,
+   "perdidos": 1344,
+   "acierto": 61.6,
+   "yield": 17.0,
    "cuota_media": 1.9
   }
  },
