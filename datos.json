@@ -1,28 +1,7 @@
 {
- "actualizado": "2026-10-01T16:03:43.060012+00:00",
- "partidos_vivo": [
-  {
-   "home": "Bahla",
-   "away": "Fanja",
-   "liga": "FA Cup",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Fanja buscará el empate"
-   ]
-  }
- ],
- "partidos_vivo_total": 1,
+ "actualizado": "2026-10-01T16:12:06.382514+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -408,8 +387,8 @@
     "cuota": null,
     "pinnacle": false,
     "delta": 4.58,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-6",
+    "resultado": "ganado",
     "kickoff": "2026-10-01T12:00:00+00:00",
     "ts": "2026-09-30T17:07:29.659278+00:00"
    },
@@ -610,11 +589,11 @@
    }
   ],
   "balance": {
-   "ganados": 345,
+   "ganados": 346,
    "perdidos": 137,
-   "pendientes": 2,
+   "pendientes": 1,
    "acierto": 71.6,
-   "total": 482
+   "total": 483
   }
  },
  "mejor_dia": {
