@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-10-01T14:03:31.732871+00:00",
- "partidos_vivo": [
-  {
-   "home": "Indonesia",
-   "away": "Bangladesh",
-   "liga": "FIFA Asean Cup",
-   "minuto": 48,
-   "marcador": "6-1",
-   "apuesta": "Over 7.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 95,
-   "momentum_away": 5,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 7 goles — partido muy abierto",
-    "⚡ Bangladesh pierde por 5 — atacará sin freno",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "Malaysia",
-   "away": "Singapore",
-   "liga": "FIFA Asean Cup",
-   "minuto": 49,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 2 goles — partido activo",
-    "⚡ Singapore pierde por 2 — atacará sin freno",
-    "🎯 24 remates totales — partido muy intenso"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-10-01T14:09:35.694614+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -404,6 +363,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Brazil U20",
+    "away": "United States U20",
+    "liga": "Friendlies",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 8,
+    "cuota": null,
+    "pinnacle": true,
+    "delta": 7.99,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-01T16:00:00+00:00",
+    "ts": "2026-10-01T14:03:31.915944+00:00"
+   },
+   {
     "home": "Maldives",
     "away": "Lebanon",
     "liga": "Friendlies",
@@ -612,27 +586,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-28T15:00:00+00:00",
     "ts": "2026-09-27T18:06:12.460978+00:00"
-   },
-   {
-    "home": "Utah Royals W",
-    "away": "North Carolina Courage W",
-    "liga": "NWSL Women",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 8,
-    "cuota": 1.35,
-    "pinnacle": true,
-    "delta": 4.45,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-27T23:00:00+00:00",
-    "ts": "2026-09-27T16:10:26.326132+00:00"
    }
   ],
   "balance": {
    "ganados": 345,
    "perdidos": 137,
-   "pendientes": 1,
+   "pendientes": 2,
    "acierto": 71.6,
    "total": 482
   }
