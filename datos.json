@@ -1,9 +1,16 @@
 {
- "actualizado": "2026-10-01T13:23:39.033033+00:00",
+ "actualizado": "2026-10-01T13:29:13.664840+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
- "alertas": [],
+ "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:29",
+   "tipo": "live"
+  }
+ ],
  "picks_recientes": [],
  "bankers": [],
  "mejores_dia": [
@@ -52,70 +59,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "SL Benfica W",
-   "away": "Bayern Munich W",
-   "liga": "UEFA Champions League Women",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Portugal U21",
-   "away": "Gibraltar U21",
-   "liga": "UEFA U21 Championship - Qualification",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Tzeirey Tira",
-   "away": "FC Jerusalem",
-   "liga": "Liga Alef",
+   "home": "Dubai United",
+   "away": "Hatta SC",
+   "liga": "League Cup",
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Merelbeke",
-   "away": "Dessel Sport",
-   "liga": "First Amateur Division",
-   "minuto": 13,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Czarni Sosnowiec W",
-   "away": "Breidablik W",
-   "liga": "UEFA Europa Cup - Women",
-   "minuto": 14,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Maccabi Ashdod",
-   "away": "Holon Yermiyahu",
-   "liga": "Liga Alef",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": false
+   "resultado": "pendiente",
+   "fecha": "2026-10-01",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -671,7 +623,7 @@
   "n": 3383,
   "ganados": 2266,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 0,
