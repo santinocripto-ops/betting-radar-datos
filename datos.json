@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T15:56:27.774076+00:00",
+ "actualizado": "2026-10-01T16:03:43.060012+00:00",
  "partidos_vivo": [
   {
    "home": "Bahla",
@@ -67,7 +67,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1725
+   "n_historico": 1727
   },
   {
    "clave": "btts",
@@ -81,7 +81,7 @@
    "hora": "00:30",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1758
+   "n_historico": 1760
   }
  ],
  "gol_temprano": [
@@ -92,22 +92,22 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-01",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54847.0,
-  "balance_total": 44847.0,
-  "balance_dia": 0.0,
-  "ganados": 3275,
+  "capital": 54908.0,
+  "balance_total": 44908.0,
+  "balance_dia": 61.0,
+  "ganados": 3276,
   "perdidos": 1468,
-  "pendientes": 3,
-  "ganados_dia": 0,
+  "pendientes": 2,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
-  "win_rate": 69.0,
+  "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -185,7 +185,7 @@
     "away": "Hatta SC",
     "liga": "League Cup",
     "hora": "15:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -322,7 +322,7 @@
     "away": "Hatta SC",
     "liga": "League Cup",
     "hora": "15:15",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -373,10 +373,10 @@
    }
   ],
   "balance": {
-   "ganados": 2142,
+   "ganados": 2146,
    "perdidos": 1341,
    "acierto": 61.5,
-   "yield": 16.8,
+   "yield": 16.9,
    "cuota_media": 1.9
   }
  },
@@ -647,16 +647,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3383,
-  "ganados": 2266,
+  "n": 3384,
+  "ganados": 2267,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 1,
-  "en_juego": 1,
-  "win_rate": 0
+  "en_juego": 0,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 119,
