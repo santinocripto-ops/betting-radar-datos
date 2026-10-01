@@ -1,30 +1,11 @@
 {
- "actualizado": "2026-10-01T11:55:46.088309+00:00",
+ "actualizado": "2026-10-01T12:02:28.634437+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [],
  "picks_recientes": [],
- "bankers": [
-  {
-   "home": "Slovakia U19",
-   "away": "Switzerland U19",
-   "liga": "Friendlies",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.35,
-   "resultado": "pendiente",
-   "fecha": "2026-09-30"
-  },
-  {
-   "home": "Slovakia U19",
-   "away": "Switzerland U19",
-   "liga": "Friendlies",
-   "mercado": "Doble oport. X2 (empate o visitante)",
-   "cuota": 1.35,
-   "resultado": "pendiente",
-   "fecha": "2026-09-30"
-  }
- ],
+ "bankers": [],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -668,6 +649,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
+   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
+   "usdc": 151599,
+   "prob": 35.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "14:01"
+  },
+  {
    "titulo": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
    "apuesta": "SI, Map Handicap: NS (-1.5) ganara",
    "usdc": 92743,
@@ -685,14 +675,14 @@
  },
  "stats_dia": {
   "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 1,
+  "perdidos": 1,
+  "en_juego": 0,
   "win_rate": 0
  },
  "stats_banker": {
   "ganados": 119,
-  "perdidos": 43,
-  "pendientes": 2,
+  "perdidos": 45,
+  "pendientes": 0,
   "win_rate": 73
  },
  "marca": {
