@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T17:54:56.695469+00:00",
+ "actualizado": "2026-10-01T18:01:15.443681+00:00",
  "partidos_vivo": [
   {
    "home": "Austria Wien W",
@@ -667,6 +667,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: FaZe vs Nemiga (BO3) - Stake Ranked Episode 4 Playoffs",
+   "apuesta": "SI, Counter-Strike: FaZe ganara",
+   "usdc": 100000,
+   "prob": 58.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "20:00"
+  },
   {
    "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
    "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
