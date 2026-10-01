@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-10-01T22:34:09.493921+00:00",
- "partidos_vivo": [
-  {
-   "home": "Dominica",
-   "away": "Guyana",
-   "liga": "CONCACAF Nations League",
-   "minuto": 53,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Dominica pierde por 3 — atacará sin freno"
-   ]
-  }
- ],
+ "actualizado": "2026-10-01T22:40:07.364308+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
