@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T10:56:41.250319+00:00",
+ "actualizado": "2026-10-01T11:03:37.200470+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -38,7 +38,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 399
+   "n_historico": 402
   },
   {
    "clave": "over25",
@@ -50,9 +50,9 @@
    "cuota": 5.5,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 64,
-   "n_historico": 1714
+   "n_historico": 1721
   },
   {
    "clave": "btts",
@@ -64,9 +64,9 @@
    "cuota": 1.57,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 58,
-   "n_historico": 1748
+   "n_historico": 1754
   }
  ],
  "gol_temprano": [
@@ -162,7 +162,7 @@
     "away": "The Strongest",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -171,7 +171,7 @@
     "away": "Southern District",
     "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -290,7 +290,7 @@
     "away": "The Strongest",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -299,7 +299,7 @@
     "away": "Tahiti",
     "liga": "Friendlies",
     "hora": "04:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -308,7 +308,7 @@
     "away": "Southern District",
     "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -317,7 +317,7 @@
     "away": "Central Stallions",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -413,10 +413,10 @@
    }
   ],
   "balance": {
-   "ganados": 2125,
-   "perdidos": 1337,
+   "ganados": 2134,
+   "perdidos": 1341,
    "acierto": 61.4,
-   "yield": 16.6,
+   "yield": 16.7,
    "cuota_media": 1.9
   }
  },
