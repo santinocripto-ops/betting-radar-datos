@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-10-01T14:58:22.683806+00:00",
+ "actualizado": "2026-10-01T15:05:30.155510+00:00",
  "partidos_vivo": [],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -32,7 +32,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 403
+   "n_historico": 404
   },
   {
    "clave": "over25",
@@ -45,8 +45,8 @@
    "score": 10,
    "hora": "00:30",
    "resultado": "perdido",
-   "wr_historico": 64,
-   "n_historico": 1723
+   "wr_historico": 65,
+   "n_historico": 1725
   },
   {
    "clave": "btts",
@@ -59,8 +59,8 @@
    "score": 10,
    "hora": "00:30",
    "resultado": "ganado",
-   "wr_historico": 58,
-   "n_historico": 1756
+   "wr_historico": 59,
+   "n_historico": 1758
   }
  ],
  "gol_temprano": [
@@ -155,7 +155,7 @@
     "away": "Würzburger Kickers",
     "liga": "Friendlies Clubs",
     "hora": "13:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -292,7 +292,7 @@
     "away": "Puskas Academy",
     "liga": "Friendlies Clubs",
     "hora": "15:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -352,7 +352,7 @@
    }
   ],
   "balance": {
-   "ganados": 2138,
+   "ganados": 2142,
    "perdidos": 1341,
    "acierto": 61.5,
    "yield": 16.8,
