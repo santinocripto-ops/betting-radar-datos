@@ -1,103 +1,9 @@
 {
- "actualizado": "2026-10-01T00:18:29.143759+00:00",
- "partidos_vivo": [
-  {
-   "home": "Brooklyn",
-   "away": "Detroit City",
-   "liga": "USL Championship",
-   "minuto": 48,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
- "partidos_vivo_total": 4,
+ "actualizado": "2026-10-01T10:44:31.917242+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
- "alertas": [
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Slovakia U19 vs Switzerland U19 · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cu",
-   "hora": "00:01",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "22:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:04",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "20:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:58",
-   "tipo": "live"
-  }
- ],
+ "alertas": [],
  "picks_recientes": [],
  "bankers": [
   {
@@ -752,80 +658,23 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "02:30",
+  "cuota": 1.57,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
-   "titulo": "Will Norway win on 2026-10-01?",
-   "apuesta": "SI, Norway ganara",
-   "usdc": 152724,
-   "prob": 68.5,
+   "titulo": "Map Handicap: NS (-1.5) vs XLG Gaming (+1.5)",
+   "apuesta": "SI, Map Handicap: NS (-1.5) ganara",
+   "usdc": 92743,
+   "prob": 58.5,
    "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x3",
-   "hora": "19:14"
-  },
-  {
-   "titulo": "Dota 2: Team Nemesis vs Natus Vincere (BO3) - BLAST Slam Group B",
-   "apuesta": "SI, Dota 2: Team Nemesis ganara",
-   "usdc": 97582,
-   "prob": 33.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "18:44"
-  },
-  {
-   "titulo": "China Open: Anna Bondar vs Renata Zarazua",
-   "apuesta": "SI, China Open: Anna Bondar ganara",
-   "usdc": 23030,
-   "prob": 49.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "17:14"
-  },
-  {
-   "titulo": "Will the Fed increase interest rates by 25 bps after the October 2026 ",
-   "apuesta": "SI — Will the Fed increase interest rates by 25 bps after the Oct",
-   "usdc": 96723,
-   "prob": 43.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "13:58"
-  },
-  {
-   "titulo": "China Open: Nuno Borges vs Novak Djokovic",
-   "apuesta": "SI, China Open: Nuno Borges ganara",
-   "usdc": 139691,
-   "prob": 16.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xc",
-   "hora": "13:51"
-  },
-  {
-   "titulo": "China Open: Taylah Preston vs Tamara Korpatsch",
-   "apuesta": "SI, China Open: Taylah Preston ganara",
-   "usdc": 99471,
-   "prob": 100.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "12:33"
-  },
-  {
-   "titulo": "Jingshan: Wushuang Zheng vs Sara Sorribes Tormo",
-   "apuesta": "SI, Jingshan: Wushuang Zheng ganara",
-   "usdc": 95009,
-   "prob": 59.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "11:28"
-  },
-  {
-   "titulo": "China Open: Maddison Inglis vs Zeynep Sonmez",
-   "apuesta": "SI, China Open: Maddison Inglis ganara",
-   "usdc": 115591,
-   "prob": 92.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "10:06"
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "12:37"
   }
  ],
  "stats_gt": {
