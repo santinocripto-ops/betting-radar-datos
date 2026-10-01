@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T20:07:41.683230+00:00",
+ "actualizado": "2026-10-01T20:14:01.421098+00:00",
  "partidos_vivo": [
   {
    "home": "Germany",
@@ -126,6 +126,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:13",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:13",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "16:03",
@@ -185,6 +197,28 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "US Virgin Islands",
+   "away": "Saint Martin",
+   "liga": "CONCACAF Nations League",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-01",
+   "es_hoy": true
+  },
+  {
+   "home": "Sporting Cristal",
+   "away": "ADT",
+   "liga": "Copa De La Liga",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-01",
+   "es_hoy": true
+  },
   {
    "home": "Dubai United",
    "away": "Hatta SC",
@@ -804,7 +838,7 @@
   "n": 3384,
   "ganados": 2267,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 1,
