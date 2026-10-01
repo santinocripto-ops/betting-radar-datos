@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T22:11:12.191464+00:00",
+ "actualizado": "2026-10-01T22:17:02.625681+00:00",
  "partidos_vivo": [
   {
    "home": "Dominica",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:16",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
@@ -104,6 +110,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Curaçao",
+   "away": "Trinidad and Tobago",
+   "liga": "CONCACAF Nations League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-01",
+   "es_hoy": false
+  },
+  {
    "home": "US Virgin Islands",
    "away": "Saint Martin",
    "liga": "CONCACAF Nations League",
@@ -152,17 +169,6 @@
    "away": "Gibraltar U21",
    "liga": "UEFA U21 Championship - Qualification",
    "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-09-30",
-   "es_hoy": false
-  },
-  {
-   "home": "Tzeirey Tira",
-   "away": "FC Jerusalem",
-   "liga": "Liga Alef",
-   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
