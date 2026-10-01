@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T17:00:50.649262+00:00",
+ "actualizado": "2026-10-01T17:07:19.560159+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
@@ -46,7 +46,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1727
+   "n_historico": 1728
   },
   {
    "clave": "btts",
@@ -353,7 +353,7 @@
   ],
   "balance": {
    "ganados": 2146,
-   "perdidos": 1341,
+   "perdidos": 1342,
    "acierto": 61.5,
    "yield": 16.9,
    "cuota_media": 1.9
