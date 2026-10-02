@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T03:57:51.215251+00:00",
+ "actualizado": "2026-10-02T04:06:01.798689+00:00",
  "partidos_vivo": [
   {
    "home": "Nicaragua",
@@ -125,9 +125,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1739
+   "n_historico": 1741
   },
   {
    "clave": "btts",
@@ -139,9 +139,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:30",
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1772
+   "n_historico": 1774
   }
  ],
  "gol_temprano": [
@@ -152,7 +152,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -163,7 +163,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -181,14 +181,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55097.0,
-  "balance_total": 45097.0,
-  "balance_dia": 67.0,
-  "ganados": 3281,
-  "perdidos": 1469,
-  "pendientes": 5,
-  "ganados_dia": 3,
-  "perdidos_dia": 1,
+  "capital": 55103.0,
+  "balance_total": 45103.0,
+  "balance_dia": 73.0,
+  "ganados": 3283,
+  "perdidos": 1470,
+  "pendientes": 2,
+  "ganados_dia": 5,
+  "perdidos_dia": 2,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -204,7 +204,7 @@
     "away": "Independiente Petrolero",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -213,7 +213,7 @@
     "away": "Sporting Kansas City",
     "liga": "Major League Soccer",
     "hora": "03:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -332,7 +332,7 @@
     "away": "Independiente Petrolero",
     "liga": "Copa de la División Profesional",
     "hora": "02:30",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -341,7 +341,7 @@
     "away": "Sporting Kansas City",
     "liga": "Major League Soccer",
     "hora": "03:30",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -455,8 +455,8 @@
    }
   ],
   "balance": {
-   "ganados": 2164,
-   "perdidos": 1347,
+   "ganados": 2166,
+   "perdidos": 1349,
    "acierto": 61.6,
    "yield": 17.1,
    "cuota_media": 1.9
@@ -468,7 +468,7 @@
    "away": "Costa Rica",
    "liga": "CONCACAF Nations League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -785,16 +785,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3389,
-  "ganados": 2271,
+  "n": 3391,
+  "ganados": 2272,
   "win_rate": 67,
   "hoy": 3
  },
  "stats_dia": {
-  "ganados": 3,
-  "perdidos": 1,
-  "en_juego": 3,
-  "win_rate": 75
+  "ganados": 5,
+  "perdidos": 2,
+  "en_juego": 0,
+  "win_rate": 71
  },
  "stats_banker": {
   "ganados": 119,
