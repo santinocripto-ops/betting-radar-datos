@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-10-02T00:41:23.696745+00:00",
+ "actualizado": "2026-10-02T00:47:56.082305+00:00",
  "partidos_vivo": [
   {
-   "home": "Anguilla",
-   "away": "Antigua and Barbuda",
-   "liga": "CONCACAF Nations League",
-   "minuto": 49,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Athletic Club",
+   "away": "Sport Recife",
+   "liga": "Serie B",
+   "minuto": 53,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 3,
-   "momentum_away": 97,
+   "momentum_home": 61,
+   "momentum_away": 39,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.18 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Anguilla pierde por 2 — atacará sin freno"
+    "🔥 3 goles — partido muy abierto",
+    "🎯 26 remates totales — partido muy intenso",
+    "🎯 10 remates a puerta — peligro constante"
    ]
   }
  ],
