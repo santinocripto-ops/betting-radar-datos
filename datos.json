@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-10-02T09:10:41.952443+00:00",
+ "actualizado": "2026-10-02T09:19:04.212668+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "11:18",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -69,12 +75,6 @@
    "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
    "hora": "23:58",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "22:13",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -124,6 +124,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Vietnam",
+   "away": "Pakistan",
+   "liga": "FIFA Asean Cup",
+   "minuto": 19,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
   {
    "home": "Nicaragua",
    "away": "Costa Rica",
@@ -445,6 +456,36 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Juventude",
+    "away": "Operario-PR",
+    "liga": "Serie B",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 3.58,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T23:45:00+00:00",
+    "ts": "2026-10-02T09:10:42.068579+00:00"
+   },
+   {
+    "home": "Ferro Carril Oeste",
+    "away": "Deportivo Madryn",
+    "liga": "Primera Nacional",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.25,
+    "pinnacle": true,
+    "delta": 4.13,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T22:00:00+00:00",
+    "ts": "2026-10-02T09:10:40.195649+00:00"
+   },
+   {
     "home": "England U19",
     "away": "USA U19",
     "liga": "Friendlies",
@@ -638,42 +679,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-28T18:45:00+00:00",
     "ts": "2026-09-28T13:08:04.437167+00:00"
-   },
-   {
-    "home": "Türkiye",
-    "away": "Italy",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 4,
-    "cuota": 1.28,
-    "pinnacle": true,
-    "delta": 3.24,
-    "marcador": "1-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-28T18:45:00+00:00",
-    "ts": "2026-09-28T13:08:05.529540+00:00"
-   },
-   {
-    "home": "Romania",
-    "away": "Bosnia & Herzegovina",
-    "liga": "UEFA Nations League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 1.62,
-    "pinnacle": true,
-    "delta": 3.75,
-    "marcador": "2-4",
-    "resultado": "ganado",
-    "kickoff": "2026-09-28T18:45:00+00:00",
-    "ts": "2026-09-28T15:06:03.262458+00:00"
    }
   ],
   "balance": {
    "ganados": 347,
    "perdidos": 137,
-   "pendientes": 1,
+   "pendientes": 3,
    "acierto": 71.7,
    "total": 484
   }
@@ -759,7 +770,7 @@
   "n": 3391,
   "ganados": 2272,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 4
  },
  "stats_dia": {
   "ganados": 5,
