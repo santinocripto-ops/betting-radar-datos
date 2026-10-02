@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T17:07:43.575465+00:00",
+ "actualizado": "2026-10-02T17:07:52.201215+00:00",
  "partidos_vivo": [
   {
    "home": "Khorfakkan",
@@ -45,6 +45,18 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ São Bernardo vs CRB · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.37 (8",
+   "hora": "19:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Boca Juniors vs Union Santa Fe · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.28 (6 casas)",
+   "hora": "19:07",
+   "tipo": "banker"
+  },
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Juventude vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.37 (7 casas)",
@@ -104,22 +116,38 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:49",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:08",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
- "bankers": [],
+ "bankers": [
+  {
+   "home": "São Bernardo",
+   "away": "CRB",
+   "liga": "Serie B",
+   "mercado": "Doble oport. X2 (empate o visitante)",
+   "cuota": 1.37,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  },
+  {
+   "home": "Boca Juniors",
+   "away": "Union Santa Fe",
+   "liga": "Liga Profesional Argentina",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.28,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  },
+  {
+   "home": "Juventude",
+   "away": "Operario-PR",
+   "liga": "Serie B",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.37,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  }
+ ],
  "mejores_dia": [
   {
    "clave": "over15",
@@ -850,7 +878,7 @@
  "stats_banker": {
   "ganados": 119,
   "perdidos": 45,
-  "pendientes": 0,
+  "pendientes": 3,
   "win_rate": 73
  },
  "marca": {
