@@ -1,28 +1,68 @@
 {
- "actualizado": "2026-10-02T01:07:54.251520+00:00",
+ "actualizado": "2026-10-02T01:16:22.795633+00:00",
  "partidos_vivo": [
   {
-   "home": "Athletic Club",
-   "away": "Sport Recife",
-   "liga": "Serie B",
-   "minuto": 53,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Cayman Islands",
+   "away": "Puerto Rico",
+   "liga": "CONCACAF Nations League",
+   "minuto": 58,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 61,
-   "momentum_away": 39,
+   "momentum_home": 17,
+   "momentum_away": 83,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "🔥 3 goles — partido muy abierto",
-    "🎯 26 remates totales — partido muy intenso",
-    "🎯 10 remates a puerta — peligro constante"
+    "⚽ Liga goleadora: 3.18 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Cayman Islands pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Dominican Republic",
+   "away": "Haiti",
+   "liga": "CONCACAF Nations League",
+   "minuto": 48,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.18 goles/partido",
+    "⚽ 1 gol — Dominican Republic buscará el empate",
+    "🎯 13 remates totales"
+   ]
+  },
+  {
+   "home": "Novorizontino",
+   "away": "Goias",
+   "liga": "Serie B",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.6,
+   "recomendar": true,
+   "momentum_home": 65,
+   "momentum_away": 35,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Goias buscará el empate",
+    "🎯 23 remates totales — partido muy intenso",
+    "🎯 7 remates a puerta"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
