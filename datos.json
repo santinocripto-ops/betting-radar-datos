@@ -1,115 +1,15 @@
 {
- "actualizado": "2026-10-02T18:48:29.720137+00:00",
+ "actualizado": "2026-10-02T18:56:37.606878+00:00",
  "partidos_vivo": [
   {
-   "home": "Ranheim",
-   "away": "Egersund",
-   "liga": "1. Division",
+   "home": "VfB Lübeck",
+   "away": "Eimsbütteler TV",
+   "liga": "Regionalliga - Nord",
    "minuto": 65,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Rosenborg II",
-   "away": "Melhus",
-   "liga": "3. Division - Girone 2",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Kungsängen",
-   "away": "Sunnersta",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 65,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.31 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Staffanstorp United",
-   "away": "Sölvesborg",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Sölvesborg buscará el empate"
-   ]
-  },
-  {
-   "home": "Lindome",
-   "away": "Galtabacks",
-   "liga": "Division 2 - Västra Götaland",
-   "minuto": 64,
-   "marcador": "2-1",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "SV Sandhausen",
-   "away": "Kaiserslautern II",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.8,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -117,15 +17,15 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚽ Liga muy goleadora: 4.32 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Jitex W",
-   "away": "Linköping W",
-   "liga": "Elitettan",
-   "minuto": 64,
+   "home": "Bonner SC",
+   "away": "Westfalia Rhynern",
+   "liga": "Regionalliga - West",
+   "minuto": 47,
    "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -136,55 +36,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Teplice",
-   "away": "Dynamo Dresden",
-   "liga": "Friendlies Clubs",
-   "minuto": 46,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Laval",
-   "away": "Rennes",
-   "liga": "Friendlies Clubs",
-   "minuto": 58,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.64 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 22,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:56",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -232,24 +110,6 @@
    "texto": "⚽ Juventude vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.37 (7 casas)",
    "hora": "19:07",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -334,6 +194,39 @@
  ],
  "gol_temprano": [
   {
+   "home": "Bosnia & Herzegovina",
+   "away": "Sweden",
+   "liga": "UEFA Nations League",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Poland",
+   "away": "Romania",
+   "liga": "UEFA Nations League",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
+  {
+   "home": "Dundalk",
+   "away": "Bohemians",
+   "liga": "Premier Division",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
+  {
    "home": "SV Sandhausen",
    "away": "Kaiserslautern II",
    "liga": "Regionalliga - SudWest",
@@ -363,39 +256,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-10-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Bayer Leverkusen W",
-   "away": "Werder Bremen W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Kazakhstan",
-   "away": "Moldova",
-   "liga": "UEFA Nations League",
-   "minuto": 25,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Al Ain",
-   "away": "Ajman",
-   "liga": "League Cup",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   }
@@ -1022,7 +882,7 @@
   "n": 3395,
   "ganados": 2276,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 14
  },
  "stats_dia": {
   "ganados": 9,
