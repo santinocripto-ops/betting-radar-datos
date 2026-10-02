@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T01:44:56.535570+00:00",
+ "actualizado": "2026-10-02T01:52:13.482033+00:00",
  "partidos_vivo": [
   {
    "home": "Blooming",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:52",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -127,6 +133,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Seattle Sounders",
+   "away": "Sporting Kansas City",
+   "liga": "Major League Soccer",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
   {
    "home": "Cayman Islands",
    "away": "Puerto Rico",
@@ -748,7 +765,7 @@
   "n": 3388,
   "ganados": 2270,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 2,
