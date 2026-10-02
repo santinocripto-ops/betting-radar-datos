@@ -1,48 +1,7 @@
 {
- "actualizado": "2026-10-02T16:17:03.719941+00:00",
- "partidos_vivo": [
-  {
-   "home": "Al-Nahda",
-   "away": "Sohar",
-   "liga": "FA Cup",
-   "minuto": 65,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Pendikspor",
-   "away": "Galatasaray",
-   "liga": "Friendlies Clubs",
-   "minuto": 64,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.93 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  }
- ],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-10-02T16:25:14.157142+00:00",
+ "partidos_vivo": [],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
