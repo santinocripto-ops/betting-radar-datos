@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T23:06:42.578843+00:00",
+ "actualizado": "2026-10-02T23:13:43.048863+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
@@ -533,6 +533,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "CA La Paz",
+    "away": "Venados FC",
+    "liga": "Liga de Expansión MX",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 9,
+    "cuota": 1.17,
+    "pinnacle": true,
+    "delta": 4.12,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-03T03:00:00+00:00",
+    "ts": "2026-10-02T23:06:15.829852+00:00"
+   },
+   {
     "home": "Seattle Reign FC W",
     "away": "North Carolina Courage W",
     "liga": "NWSL Women",
@@ -741,27 +756,12 @@
     "resultado": "ganado",
     "kickoff": "2026-10-02T19:00:00+00:00",
     "ts": "2026-10-02T15:08:54.100662+00:00"
-   },
-   {
-    "home": "Poland",
-    "away": "Romania",
-    "liga": "UEFA Nations League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 4,
-    "cuota": 2.36,
-    "pinnacle": true,
-    "delta": 3.21,
-    "marcador": "6-0",
-    "resultado": "perdido",
-    "kickoff": "2026-10-02T18:45:00+00:00",
-    "ts": "2026-10-02T12:08:57.282664+00:00"
    }
   ],
   "balance": {
    "ganados": 350,
    "perdidos": 141,
-   "pendientes": 12,
+   "pendientes": 13,
    "acierto": 71.3,
    "total": 491
   }
@@ -852,7 +852,7 @@
  "stats_dia": {
   "ganados": 0,
   "perdidos": 0,
-  "en_juego": 0,
+  "en_juego": 3,
   "win_rate": 0
  },
  "stats_banker": {
