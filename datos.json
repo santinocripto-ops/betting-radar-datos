@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T02:15:12.766478+00:00",
+ "actualizado": "2026-10-02T02:22:33.606240+00:00",
  "partidos_vivo": [
   {
    "home": "Blooming",
@@ -186,7 +186,7 @@
   "balance_dia": 67.0,
   "ganados": 3281,
   "perdidos": 1469,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.1,
@@ -194,7 +194,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4753,
+  "con_cuota_media": 4754,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -785,7 +785,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 1,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 75
  },
  "stats_banker": {
