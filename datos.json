@@ -1,113 +1,13 @@
 {
- "actualizado": "2026-10-02T10:28:08.938745+00:00",
+ "actualizado": "2026-10-02T10:36:46.346057+00:00",
  "partidos_vivo": [
   {
-   "home": "Vietnam",
-   "away": "Pakistan",
-   "liga": "FIFA Asean Cup",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 64,
-   "momentum_away": 36,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.19 goles/partido",
-    "⚽ 1 gol — Vietnam buscará el empate",
-    "🎯 13 remates totales"
-   ]
-  },
-  {
-   "home": "Chattogram",
-   "away": "Bangladesh Police",
-   "liga": "Premier League",
-   "minuto": 50,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Admira Wacker",
-   "away": "Austria Vienna",
+   "home": "FC Lugano",
+   "away": "Hellas Verona",
    "liga": "Friendlies Clubs",
-   "minuto": 52,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Gornik Zabrze",
-   "away": "Odra Opole",
-   "liga": "Friendlies Clubs",
-   "minuto": 56,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Pardubice",
-   "away": "Viktoria Žižkov",
-   "liga": "Friendlies Clubs",
-   "minuto": 58,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Zlin",
-   "away": "Prostějov",
-   "liga": "Friendlies Clubs",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "minuto": 53,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -122,7 +22,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
