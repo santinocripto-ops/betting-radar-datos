@@ -1,73 +1,13 @@
 {
- "actualizado": "2026-10-02T13:43:19.813550+00:00",
+ "actualizado": "2026-10-02T13:52:49.186544+00:00",
  "partidos_vivo": [
   {
-   "home": "Fleetwood Town U21",
-   "away": "Sheffield Wednesday U21",
-   "liga": "Professional Development League",
-   "minuto": 56,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Dejan",
-   "away": "Persipura Jayapura",
-   "liga": "Liga 2",
-   "minuto": 56,
-   "marcador": "1-0",
+   "home": "Grasshoppers",
+   "away": "Yverdon Sport",
+   "liga": "Friendlies Clubs",
+   "minuto": 61,
+   "marcador": "0-1",
    "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Persipura Jayapura buscará el empate"
-   ]
-  },
-  {
-   "home": "Sigma Olomouc",
-   "away": "Žilina",
-   "liga": "Friendlies Clubs",
-   "minuto": 60,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Mladost DG",
-   "away": "Mornar",
-   "liga": "Friendlies Clubs",
-   "minuto": 64,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -82,7 +22,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
