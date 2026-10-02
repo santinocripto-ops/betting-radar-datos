@@ -1,30 +1,56 @@
 {
- "actualizado": "2026-10-02T14:17:05.611094+00:00",
+ "actualizado": "2026-10-02T14:26:21.497690+00:00",
  "partidos_vivo": [
   {
-   "home": "Grasshoppers",
-   "away": "Yverdon Sport",
-   "liga": "Friendlies Clubs",
-   "minuto": 61,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Al Ain",
+   "away": "Ajman",
+   "liga": "League Cup",
+   "minuto": 47,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.8 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Al-Wasl FC",
+   "away": "Al-Ittihad Kalba",
+   "liga": "League Cup",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.8 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
  "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:26",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +116,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "04:15",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "04:07",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +166,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Kazakhstan",
+   "away": "Moldova",
+   "liga": "UEFA Nations League",
+   "minuto": 25,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
+  {
    "home": "Al Ain",
    "away": "Ajman",
    "liga": "League Cup",
@@ -194,17 +225,6 @@
    "away": "Sporting Kansas City",
    "liga": "Major League Soccer",
    "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-02",
-   "es_hoy": true
-  },
-  {
-   "home": "Cayman Islands",
-   "away": "Puerto Rico",
-   "liga": "CONCACAF Nations League",
-   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -819,7 +839,7 @@
   "n": 3393,
   "ganados": 2274,
   "win_rate": 67,
-  "hoy": 6
+  "hoy": 7
  },
  "stats_dia": {
   "ganados": 7,
