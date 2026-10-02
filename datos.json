@@ -1,13 +1,113 @@
 {
- "actualizado": "2026-10-02T10:08:12.066149+00:00",
+ "actualizado": "2026-10-02T10:11:17.978413+00:00",
  "partidos_vivo": [
   {
-   "home": "Petrolul Ploiesti",
-   "away": "CS Afumati",
-   "liga": "Friendlies Clubs",
-   "minuto": 52,
+   "home": "Vietnam",
+   "away": "Pakistan",
+   "liga": "FIFA Asean Cup",
+   "minuto": 50,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 64,
+   "momentum_away": 36,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.19 goles/partido",
+    "⚽ 1 gol — Vietnam buscará el empate",
+    "🎯 13 remates totales"
+   ]
+  },
+  {
+   "home": "Chattogram",
+   "away": "Bangladesh Police",
+   "liga": "Premier League",
+   "minuto": 50,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.73 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Admira Wacker",
+   "away": "Austria Vienna",
+   "liga": "Friendlies Clubs",
+   "minuto": 52,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Gornik Zabrze",
+   "away": "Odra Opole",
+   "liga": "Friendlies Clubs",
+   "minuto": 56,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Pardubice",
+   "away": "Viktoria Žižkov",
+   "liga": "Friendlies Clubs",
+   "minuto": 58,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Zlin",
+   "away": "Prostějov",
+   "liga": "Friendlies Clubs",
+   "minuto": 57,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -22,9 +122,15 @@
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:10",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +196,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "00:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "📊 INFORME DIARIO NEURAL TRADE IA",
-   "hora": "23:58",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +245,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "IF Elfsborg",
+   "away": "BK Hacken",
+   "liga": "Friendlies Clubs",
+   "minuto": 10,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
   {
    "home": "Vietnam",
    "away": "Pakistan",
@@ -711,7 +822,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "11:30",
+  "cuota": 1.61,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
@@ -791,7 +908,7 @@
   "n": 3391,
   "ganados": 2272,
   "win_rate": 67,
-  "hoy": 4
+  "hoy": 5
  },
  "stats_dia": {
   "ganados": 5,
