@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T02:07:33.263532+00:00",
+ "actualizado": "2026-10-02T02:15:12.766478+00:00",
  "partidos_vivo": [
   {
    "home": "Blooming",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "04:15",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -139,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Nicaragua",
+   "away": "Costa Rica",
+   "liga": "CONCACAF Nations League",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
   {
    "home": "Seattle Sounders",
    "away": "Sporting Kansas City",
@@ -449,6 +466,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "England U19",
+    "away": "USA U19",
+    "liga": "Friendlies",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 3,
+    "cuota": 2.25,
+    "pinnacle": false,
+    "delta": 3.83,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T14:00:00+00:00",
+    "ts": "2026-10-02T02:07:33.487575+00:00"
+   },
+   {
     "home": "Brazil U20",
     "away": "United States U20",
     "liga": "Friendlies",
@@ -657,27 +689,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-28T18:45:00+00:00",
     "ts": "2026-09-28T15:06:03.262458+00:00"
-   },
-   {
-    "home": "Slovakia U19",
-    "away": "Poland U19",
-    "liga": "Friendlies",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 3,
-    "cuota": 1.22,
-    "pinnacle": false,
-    "delta": 7.49,
-    "marcador": "1-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-28T15:00:00+00:00",
-    "ts": "2026-09-27T18:06:12.460978+00:00"
    }
   ],
   "balance": {
    "ganados": 347,
    "perdidos": 137,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 71.7,
    "total": 484
   }
@@ -763,7 +780,7 @@
   "n": 3389,
   "ganados": 2271,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 3,
