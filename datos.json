@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T21:04:41.709374+00:00",
+ "actualizado": "2026-10-02T21:05:45.023335+00:00",
  "partidos_vivo": [
   {
    "home": "Real Unión de Tenerife",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "23:05",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -88,12 +94,6 @@
   {
    "etiqueta": "💎 Cuota Banker",
    "texto": "⚽ Boca Juniors vs Union Santa Fe · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.28 (6 casas)",
-   "hora": "19:07",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Juventude vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.37 (7 casas)",
    "hora": "19:07",
    "tipo": "banker"
   }
