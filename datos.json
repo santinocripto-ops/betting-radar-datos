@@ -1,13 +1,153 @@
 {
- "actualizado": "2026-10-02T11:08:59.680709+00:00",
+ "actualizado": "2026-10-02T11:11:18.616365+00:00",
  "partidos_vivo": [
   {
-   "home": "FC Lugano",
-   "away": "Hellas Verona",
+   "home": "Biwako Shiga",
+   "away": "Roasso Kumamoto",
+   "liga": "J3 League",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Thailand",
+   "away": "Philippines",
+   "liga": "FIFA Asean Cup",
+   "minuto": 52,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.6,
+   "recomendar": true,
+   "momentum_home": 38,
+   "momentum_away": 62,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.19 goles/partido",
+    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 1 gol — Thailand buscará el empate"
+   ]
+  },
+  {
+   "home": "Daejeon Korail",
+   "away": "Gangneung City",
+   "liga": "K3 League",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Gangneung City buscará el empate"
+   ]
+  },
+  {
+   "home": "IMT Novi Beograd U19",
+   "away": "Usce U19",
+   "liga": "U19 league",
+   "minuto": 46,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "1. FC Nürnberg",
+   "away": "FC Ingolstadt 04",
+   "liga": "Friendlies Clubs",
+   "minuto": 51,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "IF Elfsborg",
+   "away": "BK Hacken",
+   "liga": "Friendlies Clubs",
+   "minuto": 54,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Aarhus",
+   "away": "Vendsyssel FF",
    "liga": "Friendlies Clubs",
    "minuto": 53,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Sparta Praha",
+   "away": "Vysočina Jihlava",
+   "liga": "Friendlies Clubs",
+   "minuto": 49,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -22,7 +162,7 @@
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 13,
  "umbral_vivo": 7.0,
  "alertas": [
   {
