@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T01:59:27.626624+00:00",
+ "actualizado": "2026-10-02T02:07:33.263532+00:00",
  "partidos_vivo": [
   {
    "home": "Blooming",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "04:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -151,20 +157,20 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55036.0,
-  "balance_total": 45036.0,
-  "balance_dia": 6.0,
-  "ganados": 3280,
+  "capital": 55097.0,
+  "balance_total": 45097.0,
+  "balance_dia": 67.0,
+  "ganados": 3281,
   "perdidos": 1469,
-  "pendientes": 4,
-  "ganados_dia": 2,
+  "pendientes": 3,
+  "ganados_dia": 3,
   "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.5,
@@ -439,15 +445,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Curaçao",
-   "away": "Trinidad and Tobago",
-   "liga": "CONCACAF Nations League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -762,16 +760,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3388,
-  "ganados": 2270,
+  "n": 3389,
+  "ganados": 2271,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 2,
+  "ganados": 3,
   "perdidos": 1,
-  "en_juego": 2,
-  "win_rate": 67
+  "en_juego": 1,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 119,
