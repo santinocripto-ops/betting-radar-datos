@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T13:26:55.254035+00:00",
+ "actualizado": "2026-10-02T13:35:10.602383+00:00",
  "partidos_vivo": [
   {
    "home": "Fleetwood Town U21",
@@ -86,6 +86,12 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:35",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "14:09",
@@ -150,12 +156,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "04:07",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:52",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -205,6 +205,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Al Ain",
+   "away": "Ajman",
+   "liga": "League Cup",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02",
+   "es_hoy": true
+  },
   {
    "home": "IF Elfsborg",
    "away": "BK Hacken",
@@ -868,7 +879,7 @@
   "n": 3393,
   "ganados": 2274,
   "win_rate": 67,
-  "hoy": 5
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 7,
