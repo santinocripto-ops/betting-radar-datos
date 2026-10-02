@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T16:07:56.802488+00:00",
+ "actualizado": "2026-10-02T16:17:03.719941+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Nahda",
@@ -648,8 +648,8 @@
     "cuota": 1.62,
     "pinnacle": true,
     "delta": 4.32,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-02T13:30:00+00:00",
     "ts": "2026-10-02T12:08:52.725086+00:00"
    },
@@ -746,10 +746,10 @@
   ],
   "balance": {
    "ganados": 347,
-   "perdidos": 138,
-   "pendientes": 9,
-   "acierto": 71.5,
-   "total": 485
+   "perdidos": 139,
+   "pendientes": 8,
+   "acierto": 71.4,
+   "total": 486
   }
  },
  "mejor_dia": {
