@@ -1,9 +1,33 @@
 {
- "actualizado": "2026-10-02T23:05:24.075930+00:00",
+ "actualizado": "2026-10-02T23:06:42.578843+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Seattle Reign FC W vs North Carolina Courage W · 🎯 Apuesta: Doble oport. 1X (local o emp",
+   "hora": "01:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Boca Juniors vs Union Santa Fe · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.27 (6 casas)",
+   "hora": "01:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Juventude vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.37 (7 casas)",
+   "hora": "01:06",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "01:06",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -51,34 +75,37 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "19:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "19:16",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ São Bernardo vs CRB · 🎯 Apuesta: Doble oport. X2 (empate o visitante) · 💰 Cuota: 1.37 (8",
-   "hora": "19:07",
-   "tipo": "banker"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Boca Juniors vs Union Santa Fe · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.28 (6 casas)",
-   "hora": "19:07",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
  "bankers": [
+  {
+   "home": "Seattle Reign FC W",
+   "away": "North Carolina Courage W",
+   "liga": "NWSL Women",
+   "mercado": "Doble oport. 1X (local o empate)",
+   "cuota": 1.4,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  },
+  {
+   "home": "Boca Juniors",
+   "away": "Union Santa Fe",
+   "liga": "Liga Profesional Argentina",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.27,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  },
+  {
+   "home": "Juventude",
+   "away": "Operario-PR",
+   "liga": "Serie B",
+   "mercado": "Over 1.5 goles",
+   "cuota": 1.37,
+   "resultado": "pendiente",
+   "fecha": "2026-10-02"
+  },
   {
    "home": "São Bernardo",
    "away": "CRB",
@@ -831,7 +858,7 @@
  "stats_banker": {
   "ganados": 119,
   "perdidos": 45,
-  "pendientes": 3,
+  "pendientes": 6,
   "win_rate": 73
  },
  "marca": {
