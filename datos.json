@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T16:57:41.350489+00:00",
+ "actualizado": "2026-10-02T17:07:43.575465+00:00",
  "partidos_vivo": [
   {
    "home": "Khorfakkan",
@@ -46,6 +46,60 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💎 Cuota Banker",
+   "texto": "⚽ Juventude vs Operario-PR · 🎯 Apuesta: Over 1.5 goles · 💰 Cuota: 1.37 (7 casas)",
+   "hora": "19:07",
+   "tipo": "banker"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:49",
@@ -62,60 +116,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "17:08",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "17:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:26",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:35",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:09",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "14:08",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:10",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "11:18",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -133,7 +133,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 85,
-   "n_historico": 410
+   "n_historico": 413
   },
   {
    "clave": "over25",
@@ -147,7 +147,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1753
+   "n_historico": 1757
   },
   {
    "clave": "btts",
@@ -161,7 +161,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1790
+   "n_historico": 1791
   }
  ],
  "gol_temprano": [
@@ -508,8 +508,8 @@
    }
   ],
   "balance": {
-   "ganados": 2189,
-   "perdidos": 1354,
+   "ganados": 2192,
+   "perdidos": 1356,
    "acierto": 61.8,
    "yield": 17.4,
    "cuota_media": 1.9
