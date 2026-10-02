@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T01:00:43.180021+00:00",
+ "actualizado": "2026-10-02T01:07:54.251520+00:00",
  "partidos_vivo": [
   {
    "home": "Athletic Club",
@@ -95,7 +95,7 @@
    "hora": "11:00",
    "resultado": "pendiente",
    "wr_historico": 85,
-   "n_historico": 408
+   "n_historico": 409
   },
   {
    "clave": "over25",
@@ -109,7 +109,7 @@
    "hora": "00:30",
    "resultado": "pendiente",
    "wr_historico": 65,
-   "n_historico": 1738
+   "n_historico": 1739
   },
   {
    "clave": "btts",
@@ -123,7 +123,7 @@
    "hora": "00:30",
    "resultado": "pendiente",
    "wr_historico": 59,
-   "n_historico": 1771
+   "n_historico": 1772
   }
  ],
  "gol_temprano": [
@@ -141,13 +141,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 54975.0,
-  "balance_total": 44975.0,
-  "balance_dia": -55.0,
-  "ganados": 3279,
+  "capital": 55036.0,
+  "balance_total": 45036.0,
+  "balance_dia": 6.0,
+  "ganados": 3280,
   "perdidos": 1469,
-  "pendientes": 4,
-  "ganados_dia": 1,
+  "pendientes": 3,
+  "ganados_dia": 2,
   "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.5,
@@ -415,7 +415,7 @@
    }
   ],
   "balance": {
-   "ganados": 2162,
+   "ganados": 2164,
    "perdidos": 1347,
    "acierto": 61.6,
    "yield": 17.1,
@@ -745,16 +745,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3387,
-  "ganados": 2269,
+  "n": 3388,
+  "ganados": 2270,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 2,
   "perdidos": 1,
-  "en_juego": 2,
-  "win_rate": 50
+  "en_juego": 1,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 119,
