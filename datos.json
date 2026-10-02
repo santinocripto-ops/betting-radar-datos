@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T15:58:48.960462+00:00",
+ "actualizado": "2026-10-02T16:07:56.802488+00:00",
  "partidos_vivo": [
   {
    "home": "Al-Nahda",
@@ -147,7 +147,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 65,
-   "n_historico": 1751
+   "n_historico": 1753
   },
   {
    "clave": "btts",
@@ -161,7 +161,7 @@
    "hora": "00:30",
    "resultado": "perdido",
    "wr_historico": 59,
-   "n_historico": 1786
+   "n_historico": 1790
   }
  ],
  "gol_temprano": [
@@ -172,7 +172,7 @@
    "minuto": 25,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -183,7 +183,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -234,13 +234,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55225.0,
-  "balance_total": 45225.0,
-  "balance_dia": 195.0,
-  "ganados": 3285,
+  "capital": 55347.0,
+  "balance_total": 45347.0,
+  "balance_dia": 317.0,
+  "ganados": 3287,
   "perdidos": 1470,
-  "pendientes": 4,
-  "ganados_dia": 7,
+  "pendientes": 2,
+  "ganados_dia": 9,
   "perdidos_dia": 2,
   "win_rate": 69.1,
   "roi": 9.5,
@@ -421,7 +421,7 @@
     "away": "Vysočina Jihlava",
     "liga": "Friendlies Clubs",
     "hora": "12:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -508,8 +508,8 @@
    }
   ],
   "balance": {
-   "ganados": 2185,
-   "perdidos": 1352,
+   "ganados": 2189,
+   "perdidos": 1354,
    "acierto": 61.8,
    "yield": 17.4,
    "cuota_media": 1.9
@@ -836,16 +836,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3393,
-  "ganados": 2274,
+  "n": 3395,
+  "ganados": 2276,
   "win_rate": 67,
   "hoy": 7
  },
  "stats_dia": {
-  "ganados": 7,
+  "ganados": 9,
   "perdidos": 2,
-  "en_juego": 2,
-  "win_rate": 78
+  "en_juego": 0,
+  "win_rate": 82
  },
  "stats_banker": {
   "ganados": 119,
