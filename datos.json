@@ -1,28 +1,28 @@
 {
- "actualizado": "2026-10-02T20:56:06.347966+00:00",
+ "actualizado": "2026-10-02T21:04:41.709374+00:00",
  "partidos_vivo": [
   {
-   "home": "Helmond Sport",
-   "away": "Heracles",
-   "liga": "Eerste Divisie",
-   "minuto": 59,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "home": "Real Unión de Tenerife",
+   "away": "Laguna de Duero",
+   "liga": "Tercera División RFEF - Group 12",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 29,
-   "momentum_away": 71,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "🎯 25 remates totales — partido muy intenso"
+    "⚽ Liga por encima de la media: 2.89 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -141,7 +141,7 @@
    "hora": "11:00",
    "resultado": "ganado",
    "wr_historico": 85,
-   "n_historico": 414
+   "n_historico": 417
   },
   {
    "clave": "over25",
@@ -180,7 +180,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -191,7 +191,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -202,7 +202,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -213,7 +213,7 @@
    "minuto": 10,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-02",
    "es_hoy": true
   },
@@ -242,14 +242,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55359.0,
-  "balance_total": 45359.0,
-  "balance_dia": 329.0,
-  "ganados": 3291,
-  "perdidos": 1472,
-  "pendientes": 6,
-  "ganados_dia": 13,
-  "perdidos_dia": 4,
+  "capital": 55442.0,
+  "balance_total": 45442.0,
+  "balance_dia": 412.0,
+  "ganados": 3294,
+  "perdidos": 1473,
+  "pendientes": 2,
+  "ganados_dia": 16,
+  "perdidos_dia": 5,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -859,15 +859,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3399,
-  "ganados": 2278,
+  "n": 3403,
+  "ganados": 2281,
   "win_rate": 67,
   "hoy": 15
  },
  "stats_dia": {
-  "ganados": 13,
-  "perdidos": 4,
-  "en_juego": 7,
+  "ganados": 16,
+  "perdidos": 5,
+  "en_juego": 3,
   "win_rate": 76
  },
  "stats_banker": {
