@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T06:02:56.826898+00:00",
+ "actualizado": "2026-10-02T06:10:43.523713+00:00",
  "partidos_vivo": [
   {
    "home": "Nicaragua",
@@ -462,15 +462,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Nicaragua",
-   "away": "Costa Rica",
-   "liga": "CONCACAF Nations League",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
