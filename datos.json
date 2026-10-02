@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-10-02T12:09:02.119259+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 2,
+ "actualizado": "2026-10-02T12:18:02.802290+00:00",
+ "partidos_vivo": [
+  {
+   "home": "South Korea",
+   "away": "Venezuela",
+   "liga": "Friendlies",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "1. FC Heidenheim",
+   "away": "Würzburger Kickers",
+   "liga": "Friendlies Clubs",
+   "minuto": 60,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -467,6 +508,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Independ. Rivadavia",
+    "away": "Gimnasia L.P.",
+    "liga": "Liga Profesional Argentina",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.91,
+    "pinnacle": true,
+    "delta": 3.14,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-03T00:30:00+00:00",
+    "ts": "2026-10-02T12:09:02.258674+00:00"
+   },
+   {
     "home": "Juventude",
     "away": "Operario-PR",
     "liga": "Serie B",
@@ -497,6 +553,21 @@
     "ts": "2026-10-02T09:10:40.195649+00:00"
    },
    {
+    "home": "Poland",
+    "away": "Romania",
+    "liga": "UEFA Nations League",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 4,
+    "cuota": 2.36,
+    "pinnacle": true,
+    "delta": 3.21,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T18:45:00+00:00",
+    "ts": "2026-10-02T12:08:57.282664+00:00"
+   },
+   {
     "home": "England U19",
     "away": "USA U19",
     "liga": "Friendlies",
@@ -510,6 +581,36 @@
     "resultado": "pendiente",
     "kickoff": "2026-10-02T14:00:00+00:00",
     "ts": "2026-10-02T02:07:33.487575+00:00"
+   },
+   {
+    "home": "Albania U19",
+    "away": "Lithuania U19",
+    "liga": "Friendlies",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.62,
+    "pinnacle": true,
+    "delta": 4.32,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T13:30:00+00:00",
+    "ts": "2026-10-02T12:08:52.725086+00:00"
+   },
+   {
+    "home": "Congo DR",
+    "away": "Uganda",
+    "liga": "Friendlies",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.15,
+    "pinnacle": false,
+    "delta": 3.67,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T13:00:00+00:00",
+    "ts": "2026-10-02T12:08:51.866395+00:00"
    },
    {
     "home": "Brazil U20",
@@ -630,72 +731,12 @@
     "resultado": "ganado",
     "kickoff": "2026-09-29T18:45:00+00:00",
     "ts": "2026-09-29T18:05:59.356714+00:00"
-   },
-   {
-    "home": "Finland",
-    "away": "Belarus",
-    "liga": "UEFA Nations League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.17,
-    "pinnacle": true,
-    "delta": 3.35,
-    "marcador": "0-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-29T16:00:00+00:00",
-    "ts": "2026-09-28T18:09:23.544176+00:00"
-   },
-   {
-    "home": "USA U19",
-    "away": "Wales U19",
-    "liga": "Friendlies",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 6,
-    "cuota": 1.07,
-    "pinnacle": true,
-    "delta": 4.33,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-09-29T10:00:00+00:00",
-    "ts": "2026-09-29T09:07:38.935949+00:00"
-   },
-   {
-    "home": "America Mineiro",
-    "away": "Juventude",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 7,
-    "cuota": 1.26,
-    "pinnacle": true,
-    "delta": 4.31,
-    "marcador": "0-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-28T22:30:00+00:00",
-    "ts": "2026-09-28T13:08:06.981563+00:00"
-   },
-   {
-    "home": "Sweden",
-    "away": "Poland",
-    "liga": "UEFA Nations League",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.36,
-    "pinnacle": true,
-    "delta": 3.34,
-    "marcador": "3-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-28T18:45:00+00:00",
-    "ts": "2026-09-28T13:08:04.437167+00:00"
    }
   ],
   "balance": {
    "ganados": 347,
    "perdidos": 137,
-   "pendientes": 3,
+   "pendientes": 7,
    "acierto": 71.7,
    "total": 484
   }
