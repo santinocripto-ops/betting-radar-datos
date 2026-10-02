@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T01:16:22.795633+00:00",
+ "actualizado": "2026-10-02T01:23:25.191941+00:00",
  "partidos_vivo": [
   {
    "home": "Cayman Islands",
@@ -712,6 +712,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Seattle Sounders FC vs. Sporting Kansas City: O/U 3.5",
+   "apuesta": "SI, mas de 3.5 goles",
+   "usdc": 127427,
+   "prob": 52.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xb",
+   "hora": "03:23"
+  },
+  {
    "titulo": "Will Wales win on 2026-10-01?",
    "apuesta": "NO, Wales no ganara",
    "usdc": 106412,
@@ -773,15 +782,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "20:00"
-  },
-  {
-   "titulo": "Will there be no change in Fed interest rates after the October 2026 m",
-   "apuesta": "SI — Will there be no change in Fed interest rates after the Octo",
-   "usdc": 84168,
-   "prob": 77.0,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x6",
-   "hora": "19:36"
   }
  ],
  "stats_gt": {
