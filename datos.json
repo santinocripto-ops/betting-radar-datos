@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T23:55:43.483631+00:00",
+ "actualizado": "2026-10-02T00:02:11.056831+00:00",
  "partidos_vivo": [
   {
    "home": "Bolívar",
@@ -139,7 +139,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-01",
    "es_hoy": false
   },
@@ -190,14 +190,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55030.0,
-  "balance_total": 45030.0,
-  "balance_dia": 0.0,
-  "ganados": 3278,
-  "perdidos": 1468,
-  "pendientes": 5,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 54975.0,
+  "balance_total": 44975.0,
+  "balance_dia": -55.0,
+  "ganados": 3279,
+  "perdidos": 1469,
+  "pendientes": 3,
+  "ganados_dia": 1,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -477,7 +477,7 @@
    "away": "Trinidad and Tobago",
    "liga": "CONCACAF Nations League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -794,16 +794,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3386,
+  "n": 3387,
   "ganados": 2269,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 1,
+  "perdidos": 1,
+  "en_juego": 1,
+  "win_rate": 50
  },
  "stats_banker": {
   "ganados": 119,
