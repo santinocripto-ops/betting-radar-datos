@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-10-02T03:10:10.110127+00:00",
+ "actualizado": "2026-10-02T03:18:15.964845+00:00",
  "partidos_vivo": [
   {
-   "home": "Seattle Sounders",
-   "away": "Sporting Kansas City",
-   "liga": "Major League Soccer",
-   "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Nicaragua",
+   "away": "Costa Rica",
+   "liga": "CONCACAF Nations League",
+   "minuto": 61,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.9,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 17,
+   "momentum_away": 83,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.66 goles/partido",
-    "⚽ 1 gol — Seattle Sounders buscará el empate",
-    "🎯 24 remates totales — partido muy intenso"
+    "⚽ Liga goleadora: 3.17 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Nicaragua pierde por 2 — atacará sin freno"
    ]
   }
  ],
