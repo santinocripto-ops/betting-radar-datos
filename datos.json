@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-02T15:08:53.994566+00:00",
+ "actualizado": "2026-10-02T15:17:28.470202+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
@@ -523,6 +523,36 @@
     "ts": "2026-10-02T09:10:40.195649+00:00"
    },
    {
+    "home": "Helmond Sport",
+    "away": "Heracles",
+    "liga": "Eerste Divisie",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 3.1,
+    "pinnacle": true,
+    "delta": 3.95,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T19:00:00+00:00",
+    "ts": "2026-10-02T15:08:53.927065+00:00"
+   },
+   {
+    "home": "Helmond Sport",
+    "away": "Heracles",
+    "liga": "Eerste Divisie",
+    "pick": "Over 1.5 goles",
+    "senal": "Yes",
+    "casas": 3,
+    "cuota": 1.15,
+    "pinnacle": false,
+    "delta": 4.06,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T19:00:00+00:00",
+    "ts": "2026-10-02T15:08:54.100662+00:00"
+   },
+   {
     "home": "Poland",
     "away": "Romania",
     "liga": "UEFA Nations League",
@@ -536,6 +566,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-10-02T18:45:00+00:00",
     "ts": "2026-10-02T12:08:57.282664+00:00"
+   },
+   {
+    "home": "England U19",
+    "away": "USA U19",
+    "liga": "Friendlies",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.2,
+    "pinnacle": true,
+    "delta": 4.45,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-02T16:00:00+00:00",
+    "ts": "2026-10-02T15:08:49.256256+00:00"
    },
    {
     "home": "England U19",
@@ -577,8 +622,8 @@
     "cuota": 1.15,
     "pinnacle": false,
     "delta": 3.67,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-2",
+    "resultado": "perdido",
     "kickoff": "2026-10-02T13:00:00+00:00",
     "ts": "2026-10-02T12:08:51.866395+00:00"
    },
@@ -656,59 +701,14 @@
     "resultado": "ganado",
     "kickoff": "2026-09-30T13:00:00+00:00",
     "ts": "2026-09-30T02:03:50.032672+00:00"
-   },
-   {
-    "home": "Luxembourg",
-    "away": "Iceland",
-    "liga": "UEFA Nations League",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.36,
-    "pinnacle": true,
-    "delta": 3.79,
-    "marcador": "0-3",
-    "resultado": "ganado",
-    "kickoff": "2026-09-29T18:45:00+00:00",
-    "ts": "2026-09-28T21:05:00.902196+00:00"
-   },
-   {
-    "home": "Slovakia",
-    "away": "Kazakhstan",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 5,
-    "cuota": 1.25,
-    "pinnacle": true,
-    "delta": 3.3,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-09-29T18:45:00+00:00",
-    "ts": "2026-09-29T17:09:05.788454+00:00"
-   },
-   {
-    "home": "Czechia",
-    "away": "England",
-    "liga": "UEFA Nations League",
-    "pick": "Over 1.5 goles",
-    "senal": "Over 2.5",
-    "casas": 3,
-    "cuota": 1.19,
-    "pinnacle": true,
-    "delta": 3.48,
-    "marcador": "0-2",
-    "resultado": "ganado",
-    "kickoff": "2026-09-29T18:45:00+00:00",
-    "ts": "2026-09-29T18:05:59.356714+00:00"
    }
   ],
   "balance": {
    "ganados": 347,
-   "perdidos": 137,
-   "pendientes": 7,
-   "acierto": 71.7,
-   "total": 484
+   "perdidos": 138,
+   "pendientes": 9,
+   "acierto": 71.5,
+   "total": 485
   }
  },
  "mejor_dia": {
