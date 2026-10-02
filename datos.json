@@ -1,27 +1,6 @@
 {
- "actualizado": "2026-10-02T21:05:45.023335+00:00",
- "partidos_vivo": [
-  {
-   "home": "Real Unión de Tenerife",
-   "away": "Laguna de Duero",
-   "liga": "Tercera División RFEF - Group 12",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.89 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  }
- ],
+ "actualizado": "2026-10-02T21:55:33.908738+00:00",
+ "partidos_vivo": [],
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
@@ -523,22 +502,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "SV Sandhausen",
-   "away": "Kaiserslautern II",
-   "liga": "Regionalliga - SudWest",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "SpVgg Unterhaching",
-   "away": "FC Schweinfurt 05",
-   "liga": "Regionalliga - Bayern",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
@@ -555,6 +519,21 @@
     "resultado": "pendiente",
     "kickoff": "2026-10-03T02:00:00+00:00",
     "ts": "2026-10-02T17:07:30.561002+00:00"
+   },
+   {
+    "home": "Tepatitlán",
+    "away": "CDS Tampico Madero",
+    "liga": "Liga de Expansión MX",
+    "pick": "X2 (visitante o empate)",
+    "senal": "Away",
+    "casas": 5,
+    "cuota": 1.22,
+    "pinnacle": true,
+    "delta": 3.5,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-03T01:00:00+00:00",
+    "ts": "2026-10-02T21:05:45.258356+00:00"
    },
    {
     "home": "Fortaleza EC",
@@ -716,8 +695,8 @@
     "cuota": 3.1,
     "pinnacle": true,
     "delta": 3.95,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-10-02T19:00:00+00:00",
     "ts": "2026-10-02T15:08:53.927065+00:00"
    },
@@ -731,8 +710,8 @@
     "cuota": 1.15,
     "pinnacle": false,
     "delta": 4.06,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-2",
+    "resultado": "ganado",
     "kickoff": "2026-10-02T19:00:00+00:00",
     "ts": "2026-10-02T15:08:54.100662+00:00"
    },
@@ -746,33 +725,18 @@
     "cuota": 2.36,
     "pinnacle": true,
     "delta": 3.21,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "6-0",
+    "resultado": "perdido",
     "kickoff": "2026-10-02T18:45:00+00:00",
     "ts": "2026-10-02T12:08:57.282664+00:00"
-   },
-   {
-    "home": "England U19",
-    "away": "USA U19",
-    "liga": "Friendlies",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 3,
-    "cuota": 1.2,
-    "pinnacle": true,
-    "delta": 4.45,
-    "marcador": "2-1",
-    "resultado": "ganado",
-    "kickoff": "2026-10-02T16:00:00+00:00",
-    "ts": "2026-10-02T15:08:49.256256+00:00"
    }
   ],
   "balance": {
-   "ganados": 348,
-   "perdidos": 140,
-   "pendientes": 14,
+   "ganados": 350,
+   "perdidos": 141,
+   "pendientes": 12,
    "acierto": 71.3,
-   "total": 488
+   "total": 491
   }
  },
  "mejor_dia": {
