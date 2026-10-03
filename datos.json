@@ -1,213 +1,113 @@
 {
- "actualizado": "2026-10-03T20:07:48.485550+00:00",
+ "actualizado": "2026-10-03T20:12:08.205695+00:00",
  "partidos_vivo": [
   {
-   "home": "Almere City FC",
-   "away": "FC Volendam",
-   "liga": "Eerste Divisie",
-   "minuto": 51,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 68,
-   "momentum_away": 32,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚽ 1 gol — FC Volendam buscará el empate",
-    "🎯 18 remates totales"
-   ]
-  },
-  {
-   "home": "Den Bosch",
-   "away": "Dordrecht",
-   "liga": "Eerste Divisie",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "🔁 Falló el gol temprano (0-0 al descanso) — el gol se espera en la 2ª parte"
-   ]
-  },
-  {
-   "home": "FC Eindhoven",
-   "away": "De Graafschap",
-   "liga": "Eerste Divisie",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚽ 1 gol — De Graafschap buscará el empate",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Waalwijk",
-   "away": "Emmen",
-   "liga": "Eerste Divisie",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 37,
-   "momentum_away": 63,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.36 goles/partido",
-    "⚽ 1 gol — Emmen buscará el empate",
-    "🎯 13 remates totales"
-   ]
-  },
-  {
-   "home": "Albion FC",
-   "away": "Defensor Sporting",
-   "liga": "Primera División",
-   "minuto": 49,
+   "home": "Spain",
+   "away": "Czechia",
+   "liga": "UEFA Nations League",
+   "minuto": 65,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
+   "momentum_home": 91,
+   "momentum_away": 9,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
     "⚽ 2 goles — partido activo",
-    "⚡ Defensor Sporting pierde por 2 — atacará sin freno",
-    "⏱ 41 minutos por jugar — margen amplio"
+    "⚡ Czechia pierde por 2 — atacará sin freno",
+    "🎯 17 remates totales"
    ]
   },
   {
-   "home": "Defensa Y Justicia",
-   "away": "San Lorenzo",
-   "liga": "Liga Profesional Argentina",
-   "minuto": 62,
-   "marcador": "3-0",
+   "home": "Águilas Doradas",
+   "away": "Jaguares",
+   "liga": "Primera A",
+   "minuto": 50,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Paris FC W",
+   "away": "Lens W",
+   "liga": "Feminine Division 1",
+   "minuto": 50,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 52,
+   "momentum_away": 48,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Lens W pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Switzerland",
+   "away": "Slovenia",
+   "liga": "UEFA Nations League",
+   "minuto": 65,
+   "marcador": "2-1",
    "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.6,
+   "score": 9.4,
    "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "🔥 3 goles — partido muy abierto",
-    "⚡ San Lorenzo pierde por 3 — atacará sin freno"
+    "🎯 17 remates totales",
+    "🎯 7 remates a puerta"
    ]
   },
   {
-   "home": "Olympic Charleroi",
-   "away": "Meux",
-   "liga": "First Amateur Division",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Albert Quévy-Mons",
-   "away": "Flénu",
-   "liga": "First Amateur Division",
-   "minuto": 48,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Flénu buscará el empate"
-   ]
-  },
-  {
-   "home": "Tubize",
-   "away": "Habay-la-Neuve",
-   "liga": "First Amateur Division",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Rochefort",
-   "away": "Standard Liège II",
-   "liga": "First Amateur Division",
+   "home": "Atletico Goianiense",
+   "away": "America Mineiro",
+   "liga": "Serie B",
    "minuto": 50,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 8.3,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 66,
+   "momentum_away": 34,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Standard Liège II buscará el empate"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚽ 1 gol — America Mineiro buscará el empate",
+    "🎯 21 remates totales — partido muy intenso"
    ]
   },
   {
-   "home": "Heist",
-   "away": "Cercle Brugge II",
-   "liga": "First Amateur Division",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "home": "Always Ready",
+   "away": "Real Tomayapo",
+   "liga": "Copa de la División Profesional",
+   "minuto": 52,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -216,35 +116,21 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Cercle Brugge II buscará el empate"
-   ]
-  },
-  {
-   "home": "Hoogstraten",
-   "away": "Houtvenne",
-   "liga": "First Amateur Division",
-   "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.24 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Houtvenne buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 28,
+ "partidos_vivo_total": 16,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -310,12 +196,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:14",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -366,6 +246,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Cuiaba",
+   "away": "Ponte Preta",
+   "liga": "Serie B",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "United Arab Emirates",
    "away": "Oman",
    "liga": "Gulf Cup of Nations",
@@ -383,7 +274,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -394,7 +285,7 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -405,7 +296,7 @@
    "minuto": 14,
    "score": 9.9,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -416,32 +307,21 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Strasbourg W",
-   "away": "Marseille W",
-   "liga": "Feminine Division 1",
-   "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
+   "resultado": "perdido",
    "fecha": "2026-10-03",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55872.0,
-  "balance_total": 45872.0,
-  "balance_dia": 430.0,
-  "ganados": 3328,
-  "perdidos": 1488,
-  "pendientes": 8,
-  "ganados_dia": 34,
-  "perdidos_dia": 15,
+  "capital": 56000.0,
+  "balance_total": 46000.0,
+  "balance_dia": 558.0,
+  "ganados": 3332,
+  "perdidos": 1489,
+  "pendientes": 3,
+  "ganados_dia": 38,
+  "perdidos_dia": 16,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -721,7 +601,7 @@
    "away": "Dordrecht",
    "liga": "Eerste Divisie",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -1044,16 +924,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3441,
-  "ganados": 2306,
+  "n": 3445,
+  "ganados": 2309,
   "win_rate": 67,
-  "hoy": 42
+  "hoy": 43
  },
  "stats_dia": {
-  "ganados": 36,
-  "perdidos": 16,
-  "en_juego": 6,
-  "win_rate": 69
+  "ganados": 40,
+  "perdidos": 17,
+  "en_juego": 1,
+  "win_rate": 70
  },
  "stats_banker": {
   "ganados": 123,
