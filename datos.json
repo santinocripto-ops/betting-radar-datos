@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-10-03T12:23:13.994570+00:00",
+ "actualizado": "2026-10-03T12:31:20.155115+00:00",
  "partidos_vivo": [
   {
-   "home": "Mladá Boleslav U19",
-   "away": "Opava U19",
-   "liga": "1. Liga U19",
-   "minuto": 49,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Goczałkowice Zdrój",
+   "away": "ROW Rybnik",
+   "liga": "III Liga - Group 3",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -16,13 +16,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.44 goles/partido",
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Szegedi VSE",
+   "away": "ESMTK",
+   "liga": "NB III - Southeast",
+   "minuto": 46,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
     "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
