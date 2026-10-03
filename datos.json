@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-10-03T11:51:23.321964+00:00",
+ "actualizado": "2026-10-03T11:58:11.586173+00:00",
  "partidos_vivo": [
   {
-   "home": "Talent Warszawa U19",
-   "away": "Jagiellonia U19",
-   "liga": "Central Youth League",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Mladá Boleslav U19",
+   "away": "Opava U19",
+   "liga": "1. Liga U19",
+   "minuto": 49,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -16,7 +16,7 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "⚽ Liga muy goleadora: 4.44 goles/partido",
     "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
