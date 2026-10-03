@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T19:12:07.171286+00:00",
+ "actualizado": "2026-10-03T20:07:48.485550+00:00",
  "partidos_vivo": [
   {
    "home": "Almere City FC",
@@ -971,6 +971,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Cloud9 vs LYON (BO5) - LCS Playoffs",
+   "apuesta": "SI, LoL: Cloud9 ganara",
+   "usdc": 95113,
+   "prob": 34.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "22:07"
+  },
+  {
    "titulo": "Spain vs. Czechia: 1st Half O/U 1.5",
    "apuesta": "SI, mas de 1.5 goles",
    "usdc": 18014,
@@ -1031,15 +1040,6 @@
    "prob": 66.0,
    "n_traders": 3,
    "trader": "RN1",
-   "hora": "17:41"
-  },
-  {
-   "titulo": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Quali",
-   "apuesta": "SI, Dota 2: LGD Gaming ganara",
-   "usdc": 116919,
-   "prob": 63.5,
-   "n_traders": 2,
-   "trader": "omnibus-076daa",
    "hora": "17:41"
   }
  ],
