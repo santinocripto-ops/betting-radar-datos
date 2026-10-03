@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T12:15:47.977652+00:00",
+ "actualizado": "2026-10-03T12:23:13.994570+00:00",
  "partidos_vivo": [
   {
    "home": "Mladá Boleslav U19",
@@ -183,7 +183,7 @@
   "balance_dia": -17.0,
   "ganados": 3297,
   "perdidos": 1475,
-  "pendientes": 2,
+  "pendientes": 5,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -191,7 +191,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4774,
+  "con_cuota_media": 4777,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -742,7 +742,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 3,
-  "en_juego": 0,
+  "en_juego": 3,
   "win_rate": 62
  },
  "stats_banker": {
