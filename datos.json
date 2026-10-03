@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T22:26:58.602328+00:00",
+ "actualizado": "2026-10-03T22:35:20.694272+00:00",
  "partidos_vivo": [
   {
    "home": "Deportes Tolima",
@@ -183,7 +183,7 @@
    "minuto": 17,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": false
   },
@@ -194,7 +194,7 @@
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": false
   },
@@ -234,12 +234,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56061.0,
-  "balance_total": 46061.0,
+  "capital": 56183.0,
+  "balance_total": 46183.0,
   "balance_dia": 0.0,
-  "ganados": 3333,
+  "ganados": 3335,
   "perdidos": 1489,
-  "pendientes": 5,
+  "pendientes": 3,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -830,8 +830,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3446,
-  "ganados": 2310,
+  "n": 3448,
+  "ganados": 2312,
   "win_rate": 67,
   "hoy": 0
  },
