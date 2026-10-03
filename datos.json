@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T20:12:08.205695+00:00",
+ "actualizado": "2026-10-03T20:20:54.059369+00:00",
  "partidos_vivo": [
   {
    "home": "Spain",
@@ -128,6 +128,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:11",
    "tipo": "live"
   },
@@ -166,12 +172,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:14",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -246,6 +246,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Racing Louisville W",
+   "away": "Utah Royals W",
+   "liga": "NWSL Women",
+   "minuto": 17,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "Cuiaba",
    "away": "Ponte Preta",
    "liga": "Serie B",
@@ -299,17 +310,6 @@
    "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
-  },
-  {
-   "home": "Den Bosch",
-   "away": "Dordrecht",
-   "liga": "Eerste Divisie",
-   "minuto": 16,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-10-03",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -319,7 +319,7 @@
   "balance_dia": 558.0,
   "ganados": 3332,
   "perdidos": 1489,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 38,
   "perdidos_dia": 16,
   "win_rate": 69.1,
@@ -327,7 +327,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4824,
+  "con_cuota_media": 4825,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -691,8 +691,8 @@
     "cuota": 1.15,
     "pinnacle": true,
     "delta": 3.87,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T18:00:00+00:00",
     "ts": "2026-10-03T14:08:48.158417+00:00"
    },
@@ -833,11 +833,11 @@
    }
   ],
   "balance": {
-   "ganados": 357,
+   "ganados": 358,
    "perdidos": 147,
-   "pendientes": 6,
-   "acierto": 70.8,
-   "total": 504
+   "pendientes": 5,
+   "acierto": 70.9,
+   "total": 505
   }
  },
  "mejor_dia": {
@@ -927,12 +927,12 @@
   "n": 3445,
   "ganados": 2309,
   "win_rate": 67,
-  "hoy": 43
+  "hoy": 44
  },
  "stats_dia": {
   "ganados": 40,
   "perdidos": 17,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 70
  },
  "stats_banker": {
