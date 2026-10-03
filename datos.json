@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T12:14:13.005844+00:00",
+ "actualizado": "2026-10-03T12:15:47.977652+00:00",
  "partidos_vivo": [
   {
    "home": "Mladá Boleslav U19",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "14:14",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -91,6 +109,39 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Ilves W",
+   "away": "KuPS W",
+   "liga": "Kansallinen Liiga",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Eintracht Trier",
+   "away": "FC Astoria Walldorf",
+   "liga": "Regionalliga - SudWest",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Fram",
+   "away": "Sandefjord II",
+   "liga": "3. Division - Girone 6",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
   {
    "home": "Hong Kong",
    "away": "Cambodia",
@@ -686,7 +737,7 @@
   "n": 3407,
   "ganados": 2284,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 5,
