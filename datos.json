@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T15:34:30.880510+00:00",
+ "actualizado": "2026-10-03T15:42:05.597620+00:00",
  "partidos_vivo": [
   {
    "home": "Avai",
@@ -1005,6 +1005,33 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: Luminosity vs Nemiga - Map 1 Winner",
+   "apuesta": "SI, ganara",
+   "usdc": 19319,
+   "prob": 57.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "17:42"
+  },
+  {
+   "titulo": "Adana: Antonia Ruzic vs Leolia Jeanjean",
+   "apuesta": "SI, Adana: Antonia Ruzic ganara",
+   "usdc": 17316,
+   "prob": 66.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "17:41"
+  },
+  {
+   "titulo": "Dota 2: LGD Gaming vs GamerLegion (BO3) - BLAST Slam Last Chance Quali",
+   "apuesta": "SI, Dota 2: LGD Gaming ganara",
+   "usdc": 116919,
+   "prob": 63.5,
+   "n_traders": 2,
+   "trader": "omnibus-076daa",
+   "hora": "17:41"
+  },
   {
    "titulo": "China Open: Elena Rybakina vs Alina Charaeva",
    "apuesta": "SI, China Open: Elena Rybakina ganara",
