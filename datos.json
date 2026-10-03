@@ -1,7 +1,28 @@
 {
- "actualizado": "2026-10-03T23:49:53.666450+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 6,
+ "actualizado": "2026-10-03T23:58:24.722881+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Kansas City W",
+   "away": "Bay FC W",
+   "liga": "NWSL Women",
+   "minuto": 63,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 71,
+   "momentum_away": 29,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.9 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Bay FC W pierde por 2 — atacará sin freno"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
