@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T15:14:59.269217+00:00",
+ "actualizado": "2026-10-03T15:15:43.301957+00:00",
  "partidos_vivo": [
   {
    "home": "Haverfordwest County AFC",
@@ -67,6 +67,18 @@
  "alertas": [
   {
    "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "17:15",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:14",
    "tipo": "live"
@@ -124,18 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "16:28",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:18",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -186,6 +186,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Ceares",
+   "away": "San Martín",
+   "liga": "Tercera División RFEF - Group 2",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Åland United W",
+   "away": "IF Gnistan",
+   "liga": "Kansallinen Liiga",
+   "minuto": 15,
+   "score": 9.5,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "FC OSS",
    "away": "MVV",
    "liga": "Eerste Divisie",
@@ -223,28 +245,6 @@
    "away": "Altrincham",
    "liga": "National League",
    "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Deportivo de La Coruña W",
-   "away": "Atletico Madrid W",
-   "liga": "Primera División Femenina",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Salford City",
-   "away": "Fleetwood Town",
-   "liga": "League Two",
-   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -866,7 +866,7 @@
   "n": 3414,
   "ganados": 2289,
   "win_rate": 67,
-  "hoy": 30
+  "hoy": 32
  },
  "stats_dia": {
   "ganados": 12,
