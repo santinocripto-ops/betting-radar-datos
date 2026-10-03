@@ -1,15 +1,175 @@
 {
- "actualizado": "2026-10-03T17:05:56.992011+00:00",
+ "actualizado": "2026-10-03T17:14:42.710121+00:00",
  "partidos_vivo": [
   {
-   "home": "England U20",
-   "away": "Germany U20",
-   "liga": "U20 Elite League",
+   "home": "Croatia",
+   "away": "England",
+   "liga": "UEFA Nations League",
+   "minuto": 47,
+   "marcador": "0-4",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 20,
+   "momentum_away": 80,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Croatia pierde por 4 — atacará sin freno",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "Belarus",
+   "away": "San Marino",
+   "liga": "UEFA Nations League",
    "minuto": 49,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 75,
+   "momentum_away": 25,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — San Marino buscará el empate",
+    "🎯 14 remates totales",
+    "🚩 6 córners"
+   ]
+  },
+  {
+   "home": "Le Havre W",
+   "away": "Saint-Malo W",
+   "liga": "Feminine Division 1",
+   "minuto": 48,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 75,
+   "momentum_away": 25,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚠️ Datos en vivo parciales — fiabilidad media",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Lyon W",
+   "away": "Toulouse W",
+   "liga": "Feminine Division 1",
+   "minuto": 49,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 95,
+   "momentum_away": 5,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Toulouse W pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Eintracht Frankfurt W",
+   "away": "Bayern Munich W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 54,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 65,
+   "momentum_away": 35,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚽ 1 gol — Eintracht Frankfurt W buscará el empate",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "Iceland",
+   "away": "Bulgaria",
+   "liga": "UEFA Nations League",
+   "minuto": 50,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.9,
+   "recomendar": true,
+   "momentum_home": 72,
+   "momentum_away": 28,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ 1 gol — Bulgaria buscará el empate",
+    "🎯 9 remates totales",
+    "🎯 5 remates a puerta"
+   ]
+  },
+  {
+   "home": "Sogndal II",
+   "away": "Austevoll",
+   "liga": "3. Division - Girone 3",
+   "minuto": 50,
+   "marcador": "2-3",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.81 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Gute",
+   "away": "Skiljebo",
+   "liga": "Division 2 - Norra Svealand",
+   "minuto": 52,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Ceuta 6 de Junio",
+   "away": "Lebrijana",
+   "liga": "Copa del Rey",
+   "minuto": 47,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -17,15 +177,105 @@
    "remates_away": "-",
    "razones": [
     "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Tedeón",
+   "away": "Anaitasuna",
+   "liga": "Copa del Rey",
+   "minuto": 46,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Saudi Arabia",
+   "away": "Qatar",
+   "liga": "Gulf Cup of Nations",
+   "minuto": 47,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Yozgat Bld Bozokspor",
+   "away": "Yeşilyurt Belediyespor",
+   "liga": "3. Lig - Group 3",
+   "minuto": 47,
+   "marcador": "1-3",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.3,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 13,
+ "partidos_vivo_total": 38,
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:14",
+   "tipo": "smart_money"
+  },
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:14",
+   "tipo": "smart_money"
+  },
+  {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:41",
@@ -65,36 +315,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "17:15",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
    "tipo": "live"
   }
  ],
@@ -113,7 +333,7 @@
    "hora": "11:30",
    "resultado": "ganado",
    "wr_historico": 86,
-   "n_historico": 424
+   "n_historico": 425
   },
   {
    "clave": "over25",
@@ -207,21 +427,21 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-03",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55645.0,
-  "balance_total": 45645.0,
-  "balance_dia": 203.0,
-  "ganados": 3321,
-  "perdidos": 1486,
-  "pendientes": 11,
-  "ganados_dia": 27,
-  "perdidos_dia": 13,
+  "capital": 55728.0,
+  "balance_total": 45728.0,
+  "balance_dia": 286.0,
+  "ganados": 3324,
+  "perdidos": 1487,
+  "pendientes": 7,
+  "ganados_dia": 30,
+  "perdidos_dia": 14,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -859,16 +1079,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3432,
-  "ganados": 2299,
+  "n": 3436,
+  "ganados": 2302,
   "win_rate": 67,
   "hoy": 37
  },
  "stats_dia": {
-  "ganados": 29,
-  "perdidos": 14,
-  "en_juego": 9,
-  "win_rate": 67
+  "ganados": 32,
+  "perdidos": 15,
+  "en_juego": 5,
+  "win_rate": 68
  },
  "stats_banker": {
   "ganados": 123,
