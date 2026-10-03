@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T18:34:52.095597+00:00",
+ "actualizado": "2026-10-03T18:43:26.891057+00:00",
  "partidos_vivo": [
   {
    "home": "Dessel Sport",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "20:43",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "18:41",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:21",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -146,6 +146,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "United Arab Emirates",
+   "away": "Oman",
+   "liga": "Gulf Cup of Nations",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "Albion FC",
    "away": "Defensor Sporting",
    "liga": "Primera División",
@@ -194,17 +205,6 @@
    "away": "Marseille W",
    "liga": "Feminine Division 1",
    "minuto": 10,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Nantes W",
-   "away": "Montpellier W",
-   "liga": "Feminine Division 1",
-   "minuto": 11,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -743,6 +743,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Spain vs. Czechia: 1st Half O/U 1.5",
+   "apuesta": "SI, mas de 1.5 goles",
+   "usdc": 18014,
+   "prob": 60.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "20:43"
+  },
+  {
    "titulo": "Curitiba: Guido Justo vs Tomas Barrios",
    "apuesta": "SI, Curitiba: Guido Justo ganara",
    "usdc": 15235,
@@ -804,22 +813,13 @@
    "n_traders": 2,
    "trader": "omnibus-076daa",
    "hora": "17:41"
-  },
-  {
-   "titulo": "China Open: Elena Rybakina vs Alina Charaeva",
-   "apuesta": "SI, China Open: Elena Rybakina ganara",
-   "usdc": 119622,
-   "prob": 65.3,
-   "n_traders": 4,
-   "trader": "RN1",
-   "hora": "17:04"
   }
  ],
  "stats_gt": {
   "n": 3439,
   "ganados": 2304,
   "win_rate": 67,
-  "hoy": 41
+  "hoy": 42
  },
  "stats_dia": {
   "ganados": 34,
