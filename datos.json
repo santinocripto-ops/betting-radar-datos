@@ -1,248 +1,108 @@
 {
- "actualizado": "2026-10-03T17:30:44.690340+00:00",
+ "actualizado": "2026-10-03T17:40:23.454113+00:00",
  "partidos_vivo": [
   {
-   "home": "Croatia",
-   "away": "England",
-   "liga": "UEFA Nations League",
-   "minuto": 47,
-   "marcador": "0-4",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 20,
-   "momentum_away": 80,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Croatia pierde por 4 — atacará sin freno",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Belarus",
-   "away": "San Marino",
-   "liga": "UEFA Nations League",
-   "minuto": 49,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ 1 gol — San Marino buscará el empate",
-    "🎯 14 remates totales",
-    "🚩 6 córners"
-   ]
-  },
-  {
-   "home": "Le Havre W",
-   "away": "Saint-Malo W",
-   "liga": "Feminine Division 1",
-   "minuto": 48,
+   "home": "York United",
+   "away": "Cavalry FC",
+   "liga": "Canadian Premier League",
+   "minuto": 61,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 75,
-   "momentum_away": 25,
+   "momentum_home": 30,
+   "momentum_away": 70,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "⚠️ Datos en vivo parciales — fiabilidad media",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga muy goleadora: 3.28 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Cavalry FC pierde por 2 — atacará sin freno"
    ]
   },
   {
-   "home": "Lyon W",
-   "away": "Toulouse W",
+   "home": "Nantes W",
+   "away": "Montpellier W",
    "liga": "Feminine Division 1",
-   "minuto": 49,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 95,
-   "momentum_away": 5,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "⚡ Toulouse W pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Eintracht Frankfurt W",
-   "away": "Bayern Munich W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 54,
+   "minuto": 48,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
+   "momentum_home": 30,
+   "momentum_away": 70,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚽ 1 gol — Eintracht Frankfurt W buscará el empate",
-    "🎯 11 remates totales"
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "⚽ 1 gol — Nantes W buscará el empate",
+    "🎯 8 remates totales"
    ]
   },
   {
-   "home": "Iceland",
-   "away": "Bulgaria",
-   "liga": "UEFA Nations League",
+   "home": "Strasbourg W",
+   "away": "Marseille W",
+   "liga": "Feminine Division 1",
    "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.9,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 72,
-   "momentum_away": 28,
+   "momentum_home": 22,
+   "momentum_away": 78,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ 1 gol — Bulgaria buscará el empate",
-    "🎯 9 remates totales",
-    "🎯 5 remates a puerta"
+    "⚽ Liga muy goleadora: 3.39 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "🎯 16 remates totales"
    ]
   },
   {
-   "home": "Sogndal II",
-   "away": "Austevoll",
-   "liga": "3. Division - Girone 3",
-   "minuto": 50,
-   "marcador": "2-3",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Gute",
-   "away": "Skiljebo",
-   "liga": "Division 2 - Norra Svealand",
-   "minuto": 52,
+   "home": "Hamilton Academical",
+   "away": "Peterhead",
+   "liga": "League One",
+   "minuto": 51,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.34 goles/partido",
+    "⚽ Liga por encima de la media: 2.81 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Ceuta 6 de Junio",
-   "away": "Lebrijana",
-   "liga": "Copa del Rey",
-   "minuto": 47,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Tedeón",
-   "away": "Anaitasuna",
-   "liga": "Copa del Rey",
+   "home": "Villacañas",
+   "away": "Toledo",
+   "liga": "Tercera División RFEF - Group 18",
    "minuto": 46,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚽ Liga por encima de la media: 2.75 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Saudi Arabia",
-   "away": "Qatar",
-   "liga": "Gulf Cup of Nations",
-   "minuto": 47,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Yozgat Bld Bozokspor",
-   "away": "Yeşilyurt Belediyespor",
-   "liga": "3. Lig - Group 3",
-   "minuto": 47,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 38,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
