@@ -1,79 +1,79 @@
 {
- "actualizado": "2026-10-03T14:08:47.970778+00:00",
+ "actualizado": "2026-10-03T14:17:41.167195+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
  "alertas": [
   {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "16:08",
-   "tipo": "smart_money"
-  },
-  {
    "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "16:07",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:59",
+   "hora": "16:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:45",
+   "hora": "16:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:45",
+   "hora": "16:17",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:38",
+   "hora": "16:16",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:19",
+   "hora": "16:16",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:12",
+   "hora": "16:16",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:12",
+   "hora": "16:16",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:12",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:04",
+   "hora": "16:16",
    "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "14:15",
+   "hora": "16:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "16:15",
    "tipo": "live"
   }
  ],
@@ -493,6 +493,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Canada",
+    "away": "Peru",
+    "liga": "Friendlies",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 4,
+    "cuota": 1.15,
+    "pinnacle": true,
+    "delta": 3.87,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-03T18:00:00+00:00",
+    "ts": "2026-10-03T14:08:48.158417+00:00"
+   },
+   {
     "home": "CA La Paz",
     "away": "Venados FC",
     "liga": "Liga de Expansión MX",
@@ -701,27 +716,12 @@
     "resultado": "ganado",
     "kickoff": "2026-10-02T19:00:00+00:00",
     "ts": "2026-10-02T15:08:53.927065+00:00"
-   },
-   {
-    "home": "Helmond Sport",
-    "away": "Heracles",
-    "liga": "Eerste Divisie",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 3,
-    "cuota": 1.15,
-    "pinnacle": false,
-    "delta": 4.06,
-    "marcador": "2-2",
-    "resultado": "ganado",
-    "kickoff": "2026-10-02T19:00:00+00:00",
-    "ts": "2026-10-02T15:08:54.100662+00:00"
    }
   ],
   "balance": {
    "ganados": 357,
    "perdidos": 147,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 70.8,
    "total": 504
   }
