@@ -1,55 +1,35 @@
 {
- "actualizado": "2026-10-03T10:43:48.586020+00:00",
+ "actualizado": "2026-10-03T10:51:14.542753+00:00",
  "partidos_vivo": [
   {
-   "home": "České Budějovice U19",
-   "away": "Sparta Praha U19",
-   "liga": "1. Liga U19",
-   "minuto": 54,
+   "home": "Legion",
+   "away": "Levadia U19",
+   "liga": "Esiliiga B",
+   "minuto": 59,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.44 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 4.36 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "Slovácko U19",
-   "away": "Zbrojovka Brno U19",
-   "liga": "1. Liga U19",
-   "minuto": 61,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Arna-Bjørnar W",
+   "away": "Grei W",
+   "liga": "1. Division Women",
+   "minuto": 62,
+   "marcador": "6-0",
+   "apuesta": "Over 6.5",
    "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.44 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Vasas II",
-   "away": "BKV Előre",
-   "liga": "NB III - Southeast",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
@@ -57,92 +37,12 @@
    "remates_away": "-",
    "razones": [
     "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Paksi SE II",
-   "away": "Szekszárd",
-   "liga": "NB III - Southwest",
-   "minuto": 59,
-   "marcador": "5-0",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.17 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "France U20",
-   "away": "Italy U20",
-   "liga": "U20 Elite League",
-   "minuto": 54,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Dhaka Wanderers",
-   "away": "Abahani",
-   "liga": "Premier League",
-   "minuto": 55,
-   "marcador": "1-3",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.73 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Fortis",
-   "away": "City Club",
-   "liga": "Premier League",
-   "minuto": 55,
-   "marcador": "2-3",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 5 goles — partido muy abierto"
+    "🔥 6 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 13,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
