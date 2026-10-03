@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T14:42:29.226923+00:00",
+ "actualizado": "2026-10-03T14:49:16.283644+00:00",
  "partidos_vivo": [
   {
    "home": "Finland",
@@ -279,7 +279,7 @@
   "balance_dia": 50.0,
   "ganados": 3300,
   "perdidos": 1476,
-  "pendientes": 27,
+  "pendientes": 28,
   "ganados_dia": 6,
   "perdidos_dia": 3,
   "win_rate": 69.1,
@@ -287,7 +287,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4803,
+  "con_cuota_media": 4804,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -861,7 +861,7 @@
  "stats_dia": {
   "ganados": 8,
   "perdidos": 4,
-  "en_juego": 25,
+  "en_juego": 26,
   "win_rate": 67
  },
  "stats_banker": {
