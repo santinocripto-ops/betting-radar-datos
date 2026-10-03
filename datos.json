@@ -1,74 +1,14 @@
 {
- "actualizado": "2026-10-03T16:30:35.579989+00:00",
+ "actualizado": "2026-10-03T16:41:29.747997+00:00",
  "partidos_vivo": [
   {
-   "home": "Karlovy Vary",
-   "away": "Meteor Praha",
-   "liga": "4. liga - Divizie B",
-   "minuto": 50,
-   "marcador": "2-2",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Åland United W",
-   "away": "IF Gnistan",
-   "liga": "Kansallinen Liiga",
-   "minuto": 51,
+   "home": "England U20",
+   "away": "Germany U20",
+   "liga": "U20 Elite League",
+   "minuto": 49,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Alcobendas Sport",
-   "away": "Parla Escuela",
-   "liga": "Tercera División RFEF - Group 7",
-   "minuto": 50,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Wigry Suwałki",
-   "away": "Wisła Płock II",
-   "liga": "III Liga - Group 1",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
    "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -76,75 +16,27 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Atlético Astorga",
-   "away": "Amorebieta",
-   "liga": "Segunda División RFEF - Group 1",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Basconia",
-   "away": "Llanera",
-   "liga": "Segunda División RFEF - Group 1",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.86 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Wiener Viktoria",
-   "away": "Donau",
-   "liga": "Regionalliga - Ost",
-   "minuto": 46,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "⚽ Liga muy goleadora: 3.5 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 20,
+ "partidos_vivo_total": 13,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:41",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -179,18 +71,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "17:14",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "17:06",
    "tipo": "live"
   },
   {
@@ -266,6 +146,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Strasbourg W",
+   "away": "Marseille W",
+   "liga": "Feminine Division 1",
+   "minuto": 10,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Nantes W",
+   "away": "Montpellier W",
+   "liga": "Feminine Division 1",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "Menemen FK",
    "away": "Adana Demirspor",
    "liga": "2. Lig",
@@ -303,28 +205,6 @@
    "away": "San Martín",
    "liga": "Tercera División RFEF - Group 2",
    "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Åland United W",
-   "away": "IF Gnistan",
-   "liga": "Kansallinen Liiga",
-   "minuto": 15,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "FC OSS",
-   "away": "MVV",
-   "liga": "Eerste Divisie",
-   "minuto": 10,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -982,7 +862,7 @@
   "n": 3432,
   "ganados": 2299,
   "win_rate": 67,
-  "hoy": 35
+  "hoy": 37
  },
  "stats_dia": {
   "ganados": 29,
