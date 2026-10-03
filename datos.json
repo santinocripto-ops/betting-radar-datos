@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-10-03T23:34:32.209700+00:00",
+ "actualizado": "2026-10-03T23:42:02.936975+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 6,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "01:41",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:16",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:14",
-   "tipo": "smart_money"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "The Strongest",
+   "away": "Universitario de Vinto",
+   "liga": "Copa de la División Profesional",
+   "minuto": 12,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": false
+  },
+  {
    "home": "Veraguas",
    "away": "Tauro FC",
    "liga": "Liga Panameña de Fútbol",
@@ -172,17 +183,6 @@
    "home": "Cuiaba",
    "away": "Ponte Preta",
    "liga": "Serie B",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "United Arab Emirates",
-   "away": "Oman",
-   "liga": "Gulf Cup of Nations",
    "minuto": 12,
    "score": 10.0,
    "cuota": null,
