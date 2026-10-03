@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T13:38:49.780684+00:00",
+ "actualizado": "2026-10-03T13:45:55.964937+00:00",
  "partidos_vivo": [
   {
    "home": "RB Leipzig W",
@@ -248,6 +248,18 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:45",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:38",
    "tipo": "live"
   },
@@ -304,18 +316,6 @@
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
    "hora": "13:05",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:20",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "12:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -366,6 +366,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Chantilly",
+   "away": "Biesheim",
+   "liga": "National 2 - Group A",
+   "minuto": 13,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Penrhyncoch",
+   "away": "Gresford Athletic",
+   "liga": "FAW Championship",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "Grobničan Čavle",
    "away": "Hrvatski Dragovoljac",
    "liga": "Second NL",
@@ -408,28 +430,6 @@
    "resultado": "pendiente",
    "fecha": "2026-10-03",
    "es_hoy": true
-  },
-  {
-   "home": "Växjö W",
-   "away": "Kristianstad W",
-   "liga": "Damallsvenskan",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Ilves W",
-   "away": "KuPS W",
-   "liga": "Kansallinen Liiga",
-   "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
   }
  ],
  "banca": {
@@ -439,7 +439,7 @@
   "balance_dia": -17.0,
   "ganados": 3297,
   "perdidos": 1475,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -447,7 +447,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4782,
+  "con_cuota_media": 4783,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -1009,12 +1009,12 @@
   "n": 3407,
   "ganados": 2284,
   "win_rate": 67,
-  "hoy": 11
+  "hoy": 13
  },
  "stats_dia": {
   "ganados": 5,
   "perdidos": 3,
-  "en_juego": 8,
+  "en_juego": 9,
   "win_rate": 62
  },
  "stats_banker": {
