@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T18:59:08.357289+00:00",
+ "actualizado": "2026-10-03T19:07:19.406603+00:00",
  "partidos_vivo": [
   {
    "home": "Dessel Sport",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
+   "hora": "21:07",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,12 +90,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "19:14",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "18:41",
-   "tipo": "live"
   },
   {
    "etiqueta": "⚡ Gol Temprano",
