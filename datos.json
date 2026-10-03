@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-10-03T11:26:16.810506+00:00",
+ "actualizado": "2026-10-03T11:32:46.046096+00:00",
  "partidos_vivo": [
   {
-   "home": "Legion",
-   "away": "Levadia U19",
-   "liga": "Esiliiga B",
-   "minuto": 59,
+   "home": "Talent Warszawa U19",
+   "away": "Jagiellonia U19",
+   "liga": "Central Youth League",
+   "minuto": 63,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.36 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Arna-Bjørnar W",
-   "away": "Grei W",
-   "liga": "1. Division Women",
-   "minuto": 62,
-   "marcador": "6-0",
-   "apuesta": "Over 6.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -449,8 +429,8 @@
     "cuota": 1.17,
     "pinnacle": true,
     "delta": 4.12,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-2",
+    "resultado": "perdido",
     "kickoff": "2026-10-03T03:00:00+00:00",
     "ts": "2026-10-02T23:06:15.829852+00:00"
    },
@@ -464,8 +444,8 @@
     "cuota": 1.44,
     "pinnacle": true,
     "delta": 2.79,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-03T02:00:00+00:00",
     "ts": "2026-10-02T17:07:30.561002+00:00"
    },
@@ -479,8 +459,8 @@
     "cuota": 1.22,
     "pinnacle": true,
     "delta": 3.5,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-03T01:00:00+00:00",
     "ts": "2026-10-02T21:05:45.258356+00:00"
    },
@@ -494,8 +474,8 @@
     "cuota": 1.21,
     "pinnacle": true,
     "delta": 3.07,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T00:35:00+00:00",
     "ts": "2026-10-02T17:07:29.400636+00:00"
    },
@@ -509,8 +489,8 @@
     "cuota": 1.91,
     "pinnacle": true,
     "delta": 3.14,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T00:30:00+00:00",
     "ts": "2026-10-02T12:09:02.258674+00:00"
    },
@@ -524,8 +504,8 @@
     "cuota": 1.38,
     "pinnacle": true,
     "delta": 3.89,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T00:30:00+00:00",
     "ts": "2026-10-02T17:07:25.664347+00:00"
    },
@@ -539,8 +519,8 @@
     "cuota": 1.14,
     "pinnacle": true,
     "delta": 3.53,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T00:30:00+00:00",
     "ts": "2026-10-02T17:07:28.882012+00:00"
    },
@@ -554,8 +534,8 @@
     "cuota": 1.91,
     "pinnacle": true,
     "delta": 3.58,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "perdido",
     "kickoff": "2026-10-02T23:45:00+00:00",
     "ts": "2026-10-02T09:10:42.068579+00:00"
    },
@@ -569,8 +549,8 @@
     "cuota": 1.22,
     "pinnacle": true,
     "delta": 5.87,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-02T23:45:00+00:00",
     "ts": "2026-10-02T17:07:23.571624+00:00"
    },
@@ -584,8 +564,8 @@
     "cuota": 1.52,
     "pinnacle": true,
     "delta": 5.57,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-02T23:45:00+00:00",
     "ts": "2026-10-02T17:07:23.977339+00:00"
    },
@@ -599,8 +579,8 @@
     "cuota": 1.52,
     "pinnacle": false,
     "delta": 3.68,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-02T23:45:00+00:00",
     "ts": "2026-10-02T17:07:24.184942+00:00"
    },
@@ -614,8 +594,8 @@
     "cuota": 1.4,
     "pinnacle": true,
     "delta": 3.25,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "3-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-02T22:30:00+00:00",
     "ts": "2026-10-02T17:07:22.312449+00:00"
    },
@@ -666,11 +646,11 @@
    }
   ],
   "balance": {
-   "ganados": 350,
-   "perdidos": 142,
-   "pendientes": 12,
-   "acierto": 71.1,
-   "total": 492
+   "ganados": 357,
+   "perdidos": 147,
+   "pendientes": 0,
+   "acierto": 70.8,
+   "total": 504
   }
  },
  "mejor_dia": {
