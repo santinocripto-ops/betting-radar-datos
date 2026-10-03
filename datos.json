@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T16:58:08.816913+00:00",
+ "actualizado": "2026-10-03T17:05:56.992011+00:00",
  "partidos_vivo": [
   {
    "home": "England U20",
@@ -786,6 +786,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Curitiba: Guido Justo vs Tomas Barrios",
+   "apuesta": "SI, Curitiba: Guido Justo ganara",
+   "usdc": 15235,
+   "prob": 28.5,
+   "n_traders": 2,
+   "trader": "0x2c335066FE58fe9237c3",
+   "hora": "19:05"
+  },
+  {
    "titulo": "Columbus: Dylan Dietrich vs Andres Andrade",
    "apuesta": "SI, Columbus: Dylan Dietrich ganara",
    "usdc": 19883,
@@ -847,15 +856,6 @@
    "n_traders": 4,
    "trader": "RN1",
    "hora": "17:04"
-  },
-  {
-   "titulo": "China Open: Sonay Kartal vs Xinyu Wang",
-   "apuesta": "SI, China Open: Sonay Kartal ganara",
-   "usdc": 15096,
-   "prob": 57.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "14:37"
   }
  ],
  "stats_gt": {
