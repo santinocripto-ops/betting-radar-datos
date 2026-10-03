@@ -1,248 +1,148 @@
 {
- "actualizado": "2026-10-03T15:57:29.150274+00:00",
+ "actualizado": "2026-10-03T16:12:05.839396+00:00",
  "partidos_vivo": [
   {
-   "home": "Avai",
-   "away": "Ceara",
-   "liga": "Serie B",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Karlovy Vary",
+   "away": "Meteor Praha",
+   "liga": "4. liga - Divizie B",
+   "minuto": 50,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 78,
-   "momentum_away": 22,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Accrington ST",
-   "away": "Cheltenham",
-   "liga": "League Two",
-   "minuto": 62,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 81,
-   "momentum_away": 19,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Crewe",
-   "away": "Bristol Rovers",
-   "liga": "League Two",
-   "minuto": 63,
+   "home": "Åland United W",
+   "away": "IF Gnistan",
+   "liga": "Kansallinen Liiga",
+   "minuto": 51,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 41,
-   "momentum_away": 59,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Bristol Rovers pierde por 2 — atacará sin freno"
+    "⚽ Liga muy goleadora: 3.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Rochdale",
-   "away": "Swindon Town",
-   "liga": "League Two",
-   "minuto": 64,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 35,
-   "momentum_away": 65,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
-   ]
-  },
-  {
-   "home": "Salford City",
-   "away": "Fleetwood Town",
-   "liga": "League Two",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 15 remates totales"
-   ]
-  },
-  {
-   "home": "Almeria",
-   "away": "Burgos",
-   "liga": "Segunda División",
+   "home": "Alcobendas Sport",
+   "away": "Parla Escuela",
+   "liga": "Tercera División RFEF - Group 7",
    "minuto": 50,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 67,
-   "momentum_away": 33,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 1 gol — Almeria buscará el empate",
-    "🎯 17 remates totales"
-   ]
-  },
-  {
-   "home": "Colchester",
-   "away": "Luton",
-   "liga": "EFL Trophy",
-   "minuto": 65,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.5,
    "recomendar": true,
-   "momentum_home": 33,
-   "momentum_away": 67,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.07 goles/partido",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente",
-    "🎯 13 remates totales"
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   },
   {
-   "home": "FC Koln W",
-   "away": "SC Freiburg W",
-   "liga": "Frauen Bundesliga",
-   "minuto": 63,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
+   "home": "Wigry Suwałki",
+   "away": "Wisła Płock II",
+   "liga": "III Liga - Group 1",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.0,
    "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.81 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Atlético Astorga",
+   "away": "Amorebieta",
+   "liga": "Segunda División RFEF - Group 1",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Basconia",
+   "away": "Llanera",
+   "liga": "Segunda División RFEF - Group 1",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Wiener Viktoria",
+   "away": "Donau",
+   "liga": "Regionalliga - Ost",
+   "minuto": 46,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
     "⚽ Liga muy goleadora: 3.41 goles/partido",
-    "⚽ 1 gol — FC Koln W buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "Leyton Orient",
-   "away": "Plymouth",
-   "liga": "League One",
-   "minuto": 65,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 9.0,
-   "recomendar": true,
-   "momentum_home": 28,
-   "momentum_away": 72,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "🔒 Liga poco goleadora: 2.06 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Leyton Orient pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Exeter City",
-   "away": "Rotherham",
-   "liga": "League Two",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.4,
-   "recomendar": true,
-   "momentum_home": 71,
-   "momentum_away": 29,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.76 goles/partido",
-    "⚽ 1 gol — Rotherham buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "KFUM II",
-   "away": "Ullern",
-   "liga": "3. Division - Girone 1",
-   "minuto": 65,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Piteå",
-   "away": "IF Karlstad",
-   "liga": "Ettan - Norra",
-   "minuto": 65,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.22 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — IF Karlstad buscará el empate"
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 60,
+ "partidos_vivo_total": 20,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -333,7 +233,7 @@
    "hora": "11:30",
    "resultado": "ganado",
    "wr_historico": 86,
-   "n_historico": 422
+   "n_historico": 424
   },
   {
    "clave": "over25",
@@ -347,7 +247,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 65,
-   "n_historico": 1781
+   "n_historico": 1787
   },
   {
    "clave": "btts",
@@ -361,7 +261,7 @@
    "hora": "00:00",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1820
+   "n_historico": 1821
   }
  ],
  "gol_temprano": [
@@ -416,7 +316,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -427,21 +327,21 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55620.0,
-  "balance_total": 45620.0,
-  "balance_dia": 178.0,
-  "ganados": 3304,
-  "perdidos": 1477,
-  "pendientes": 32,
-  "ganados_dia": 10,
-  "perdidos_dia": 4,
+  "capital": 55645.0,
+  "balance_total": 45645.0,
+  "balance_dia": 203.0,
+  "ganados": 3321,
+  "perdidos": 1486,
+  "pendientes": 6,
+  "ganados_dia": 27,
+  "perdidos_dia": 13,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -708,10 +608,10 @@
    }
   ],
   "balance": {
-   "ganados": 2232,
-   "perdidos": 1369,
-   "acierto": 62.0,
-   "yield": 17.8,
+   "ganados": 2234,
+   "perdidos": 1374,
+   "acierto": 61.9,
+   "yield": 17.6,
    "cuota_media": 1.9
   }
  },
@@ -721,42 +621,42 @@
    "away": "Cheltenham",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Salford City",
    "away": "Fleetwood Town",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Rochdale",
    "away": "Swindon Town",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Exeter City",
    "away": "Rotherham",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Cliftonville FC",
    "away": "Ballymena United",
    "liga": "Premiership",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Stranraer",
    "away": "Edinburgh City",
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -1070,16 +970,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3414,
-  "ganados": 2289,
+  "n": 3432,
+  "ganados": 2299,
   "win_rate": 67,
   "hoy": 32
  },
  "stats_dia": {
-  "ganados": 12,
-  "perdidos": 5,
-  "en_juego": 30,
-  "win_rate": 71
+  "ganados": 29,
+  "perdidos": 14,
+  "en_juego": 4,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 123,
