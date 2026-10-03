@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T13:32:13.447781+00:00",
+ "actualizado": "2026-10-03T13:38:49.780684+00:00",
  "partidos_vivo": [
   {
    "home": "RB Leipzig W",
@@ -248,6 +248,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "15:38",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:19",
    "tipo": "live"
   },
@@ -360,6 +366,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Grobničan Čavle",
+   "away": "Hrvatski Dragovoljac",
+   "liga": "Second NL",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
    "home": "Katwijk",
    "away": "Kozakken Boys",
    "liga": "Tweede Divisie",
@@ -408,17 +425,6 @@
    "away": "KuPS W",
    "liga": "Kansallinen Liiga",
    "minuto": 15,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Eintracht Trier",
-   "away": "FC Astoria Walldorf",
-   "liga": "Regionalliga - SudWest",
-   "minuto": 12,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -1003,7 +1009,7 @@
   "n": 3407,
   "ganados": 2284,
   "win_rate": 67,
-  "hoy": 10
+  "hoy": 11
  },
  "stats_dia": {
   "ganados": 5,
