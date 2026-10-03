@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T16:30:07.825818+00:00",
+ "actualizado": "2026-10-03T16:30:35.579989+00:00",
  "partidos_vivo": [
   {
    "home": "Karlovy Vary",
@@ -339,7 +339,7 @@
   "balance_dia": 203.0,
   "ganados": 3321,
   "perdidos": 1486,
-  "pendientes": 6,
+  "pendientes": 9,
   "ganados_dia": 27,
   "perdidos_dia": 13,
   "win_rate": 69.1,
@@ -347,7 +347,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4813,
+  "con_cuota_media": 4816,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -987,7 +987,7 @@
  "stats_dia": {
   "ganados": 29,
   "perdidos": 14,
-  "en_juego": 4,
+  "en_juego": 7,
   "win_rate": 67
  },
  "stats_banker": {
