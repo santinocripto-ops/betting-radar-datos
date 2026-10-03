@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-10-03T18:26:11.194360+00:00",
+ "actualizado": "2026-10-03T18:34:52.095597+00:00",
  "partidos_vivo": [
   {
-   "home": "France U21",
-   "away": "Luxembourg U21",
-   "liga": "UEFA U21 Championship - Qualification",
-   "minuto": 48,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "home": "Dessel Sport",
+   "away": "Harelbeke",
+   "liga": "First Amateur Division",
+   "minuto": 46,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 7.3,
+   "score": 7.8,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚽ Liga muy goleadora: 3.24 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Unionistas de Salamanca",
-   "away": "Cultural Leonesa",
-   "liga": "Primera División RFEF - Group 1",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.81 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Montlouis",
-   "away": "St-Pryvé St-Hilaire",
-   "liga": "National 2 - Group A",
-   "minuto": 49,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.61 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "L'Entregu",
-   "away": "Colunga",
-   "liga": "Tercera División RFEF - Group 2",
-   "minuto": 53,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Harelbeke buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 10,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
