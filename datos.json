@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T16:22:21.451905+00:00",
+ "actualizado": "2026-10-03T16:30:07.825818+00:00",
  "partidos_vivo": [
   {
    "home": "Karlovy Vary",
@@ -905,6 +905,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
+   "apuesta": "SI, Counter-Strike: G2 ganara",
+   "usdc": 132814,
+   "prob": 53.5,
+   "n_traders": 2,
+   "trader": "omnibus-076daa",
+   "hora": "18:30"
+  },
   {
    "titulo": "Counter-Strike: Luminosity vs Nemiga - Map 1 Winner",
    "apuesta": "SI, ganara",
