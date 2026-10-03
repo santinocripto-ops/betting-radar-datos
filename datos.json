@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T14:17:41.167195+00:00",
+ "actualizado": "2026-10-03T14:19:23.676501+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 3,
  "umbral_vivo": 7.0,
@@ -7,7 +7,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:17",
+   "hora": "16:18",
    "tipo": "live"
   },
   {
@@ -31,7 +31,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:16",
+   "hora": "16:17",
    "tipo": "live"
   },
   {
@@ -73,7 +73,7 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "16:15",
+   "hora": "16:16",
    "tipo": "live"
   }
  ],
@@ -125,10 +125,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "Slovan Bratislava W",
-   "away": "Trenčín W",
-   "liga": "I Liga - Women",
-   "minuto": 10,
+   "home": "Liverpool Montevideo",
+   "away": "Progreso",
+   "liga": "Primera División",
+   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -136,54 +136,54 @@
    "es_hoy": true
   },
   {
-   "home": "Chantilly",
-   "away": "Biesheim",
-   "liga": "National 2 - Group A",
-   "minuto": 13,
-   "score": 9.7,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Penrhyncoch",
-   "away": "Gresford Athletic",
-   "liga": "FAW Championship",
-   "minuto": 13,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Grobničan Čavle",
-   "away": "Hrvatski Dragovoljac",
-   "liga": "Second NL",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": true
-  },
-  {
-   "home": "Katwijk",
-   "away": "Kozakken Boys",
-   "liga": "Tweede Divisie",
+   "home": "Boreham Wood",
+   "away": "Altrincham",
+   "liga": "National League",
    "minuto": 15,
-   "score": 9.5,
+   "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
   {
-   "home": "Spakenburg",
-   "away": "AFC Amsterdam",
-   "liga": "Tweede Divisie",
-   "minuto": 11,
+   "home": "Deportivo de La Coruña W",
+   "away": "Atletico Madrid W",
+   "liga": "Primera División Femenina",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Salford City",
+   "away": "Fleetwood Town",
+   "liga": "League Two",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Rochdale",
+   "away": "Swindon Town",
+   "liga": "League Two",
+   "minuto": 14,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-03",
+   "es_hoy": true
+  },
+  {
+   "home": "Grimsby",
+   "away": "Shrewsbury",
+   "liga": "League Two",
+   "minuto": 15,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -768,7 +768,7 @@
   "n": 3410,
   "ganados": 2286,
   "win_rate": 67,
-  "hoy": 14
+  "hoy": 28
  },
  "stats_dia": {
   "ganados": 8,
