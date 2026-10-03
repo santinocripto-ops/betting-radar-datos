@@ -1,48 +1,28 @@
 {
- "actualizado": "2026-10-03T12:51:03.508571+00:00",
+ "actualizado": "2026-10-03T12:57:56.033560+00:00",
  "partidos_vivo": [
   {
-   "home": "Goczałkowice Zdrój",
-   "away": "ROW Rybnik",
-   "liga": "III Liga - Group 3",
-   "minuto": 65,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Bitlis Özgüzelderespor",
+   "away": "Adana Adaletgucu",
+   "liga": "3. Lig - Group 3",
+   "minuto": 63,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 7.5,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.21 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Szegedi VSE",
-   "away": "ESMTK",
-   "liga": "NB III - Southeast",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   }
  ],
- "partidos_vivo_total": 3,
+ "partidos_vivo_total": 2,
  "umbral_vivo": 7.0,
  "alertas": [
   {
