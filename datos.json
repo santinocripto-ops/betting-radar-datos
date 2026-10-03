@@ -1,13 +1,113 @@
 {
- "actualizado": "2026-10-03T13:19:17.954873+00:00",
+ "actualizado": "2026-10-03T13:32:13.447781+00:00",
  "partidos_vivo": [
   {
-   "home": "Bitlis Özgüzelderespor",
-   "away": "Adana Adaletgucu",
-   "liga": "3. Lig - Group 3",
-   "minuto": 63,
+   "home": "RB Leipzig W",
+   "away": "Mainz 05 W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 64,
    "marcador": "3-0",
    "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 61,
+   "momentum_away": 39,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.41 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Mainz 05 W pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Drøbak / Frogn",
+   "away": "Sarpsborg 08 II",
+   "liga": "3. Division - Girone 6",
+   "minuto": 64,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.5 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Rheindorf Altach W",
+   "away": "Kleinmünchen / BW Linz W",
+   "liga": "Frauenliga",
+   "minuto": 64,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Akşehirspor",
+   "away": "Eskişehirspor",
+   "liga": "3. Lig - Group 2",
+   "minuto": 65,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.92 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Anadolu Üniversitesi",
+   "away": "Denizli İYG",
+   "liga": "3. Lig - Group 2",
+   "minuto": 63,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.92 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Denizli İYG buscará el empate"
+   ]
+  },
+  {
+   "home": "Karaman FK",
+   "away": "Kırşehir Belediyespor",
+   "liga": "3. Lig - Group 3",
+   "minuto": 63,
+   "marcador": "0-6",
+   "apuesta": "Over 6.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -18,11 +118,131 @@
    "razones": [
     "⚽ Liga goleadora: 2.96 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "🔥 6 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Osmaniyespor",
+   "away": "Talasgücü Belediyespor",
+   "liga": "3. Lig - Group 3",
+   "minuto": 61,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.4,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Osmaniyespor buscará el empate"
+   ]
+  },
+  {
+   "home": "Stargard Szczeciński",
+   "away": "Kalisz",
+   "liga": "III Liga - Group 2",
+   "minuto": 56,
+   "marcador": "4-0",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Lipno Stęszew",
+   "away": "Chemik Bydgoszcz",
+   "liga": "III Liga - Group 2",
+   "minuto": 63,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.32 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Nürnberg II",
+   "away": "Augsburg II",
+   "liga": "Regionalliga - Bayern",
+   "minuto": 63,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 3.29 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "SV Drochtersen/Assel",
+   "away": "SSV Jeddeloh",
+   "liga": "Regionalliga - Nord",
+   "minuto": 64,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 4.19 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Weiche Flensburg",
+   "away": "VfB Oldenburg",
+   "liga": "Regionalliga - Nord",
+   "minuto": 65,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⬇️ Liga de baja calidad — score ajustado",
+    "⚽ Liga muy goleadora: 4.19 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 2,
+ "partidos_vivo_total": 38,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -213,7 +433,7 @@
   "balance_dia": -17.0,
   "ganados": 3297,
   "perdidos": 1475,
-  "pendientes": 9,
+  "pendientes": 10,
   "ganados_dia": 3,
   "perdidos_dia": 2,
   "win_rate": 69.1,
@@ -221,7 +441,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4781,
+  "con_cuota_media": 4782,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -788,7 +1008,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 3,
-  "en_juego": 7,
+  "en_juego": 8,
   "win_rate": 62
  },
  "stats_banker": {
