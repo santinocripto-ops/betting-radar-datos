@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T14:57:58.861690+00:00",
+ "actualizado": "2026-10-03T15:04:44.998580+00:00",
  "partidos_vivo": [
   {
    "home": "Haverfordwest County AFC",
@@ -804,6 +804,15 @@
   "resultado": "pendiente"
  },
  "apuestas_top": [
+  {
+   "titulo": "China Open: Elena Rybakina vs Alina Charaeva",
+   "apuesta": "SI, China Open: Elena Rybakina ganara",
+   "usdc": 119622,
+   "prob": 65.3,
+   "n_traders": 4,
+   "trader": "RN1",
+   "hora": "17:04"
+  },
   {
    "titulo": "China Open: Sonay Kartal vs Xinyu Wang",
    "apuesta": "SI, China Open: Sonay Kartal ganara",
