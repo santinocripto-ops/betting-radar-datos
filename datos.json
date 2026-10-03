@@ -1,71 +1,31 @@
 {
- "actualizado": "2026-10-03T17:56:53.593064+00:00",
+ "actualizado": "2026-10-03T18:07:40.822753+00:00",
  "partidos_vivo": [
   {
-   "home": "York United",
-   "away": "Cavalry FC",
-   "liga": "Canadian Premier League",
-   "minuto": 61,
+   "home": "France U21",
+   "away": "Luxembourg U21",
+   "liga": "UEFA U21 Championship - Qualification",
+   "minuto": 48,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 7.3,
    "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Cavalry FC pierde por 2 — atacará sin freno"
+    "⚽ Liga muy goleadora: 3.2 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Nantes W",
-   "away": "Montpellier W",
-   "liga": "Feminine Division 1",
-   "minuto": 48,
-   "marcador": "0-1",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 30,
-   "momentum_away": 70,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "⚽ 1 gol — Nantes W buscará el empate",
-    "🎯 8 remates totales"
-   ]
-  },
-  {
-   "home": "Strasbourg W",
-   "away": "Marseille W",
-   "liga": "Feminine Division 1",
-   "minuto": 50,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 22,
-   "momentum_away": 78,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.39 goles/partido",
-    "🔥 3 goles — partido muy abierto",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Hamilton Academical",
-   "away": "Peterhead",
-   "liga": "League One",
-   "minuto": 51,
+   "home": "Unionistas de Salamanca",
+   "away": "Cultural Leonesa",
+   "liga": "Primera División RFEF - Group 1",
+   "minuto": 60,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -82,12 +42,12 @@
    ]
   },
   {
-   "home": "Villacañas",
-   "away": "Toledo",
-   "liga": "Tercera División RFEF - Group 18",
-   "minuto": 46,
-   "marcador": "1-2",
-   "apuesta": "Over 3.5",
+   "home": "Montlouis",
+   "away": "St-Pryvé St-Hilaire",
+   "liga": "National 2 - Group A",
+   "minuto": 49,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -96,13 +56,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.75 goles/partido",
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "L'Entregu",
+   "away": "Colunga",
+   "liga": "Tercera División RFEF - Group 2",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -193,7 +173,7 @@
    "hora": "11:30",
    "resultado": "ganado",
    "wr_historico": 86,
-   "n_historico": 425
+   "n_historico": 426
   },
   {
    "clave": "over25",
@@ -254,7 +234,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -265,7 +245,7 @@
    "minuto": 21,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -276,7 +256,7 @@
    "minuto": 21,
    "score": 9.7,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": true
   },
@@ -294,14 +274,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 55728.0,
-  "balance_total": 45728.0,
-  "balance_dia": 286.0,
-  "ganados": 3324,
-  "perdidos": 1487,
-  "pendientes": 7,
-  "ganados_dia": 30,
-  "perdidos_dia": 14,
+  "capital": 55750.0,
+  "balance_total": 45750.0,
+  "balance_dia": 308.0,
+  "ganados": 3326,
+  "perdidos": 1488,
+  "pendientes": 4,
+  "ganados_dia": 32,
+  "perdidos_dia": 15,
   "win_rate": 69.1,
   "roi": 9.5,
   "stake": 100.0,
@@ -582,41 +562,6 @@
    "liga": "League Two",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
-  },
-  {
-   "home": "Salford City",
-   "away": "Fleetwood Town",
-   "liga": "League Two",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Rochdale",
-   "away": "Swindon Town",
-   "liga": "League Two",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Exeter City",
-   "away": "Rotherham",
-   "liga": "League Two",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Cliftonville FC",
-   "away": "Ballymena United",
-   "liga": "Premiership",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Stranraer",
-   "away": "Edinburgh City",
-   "liga": "League Two",
-   "recomendacion": "OVER 0.5",
-   "resultado": "perdido"
   }
  ],
  "pagina_smart": {
@@ -939,15 +884,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3436,
-  "ganados": 2302,
+  "n": 3439,
+  "ganados": 2304,
   "win_rate": 67,
   "hoy": 37
  },
  "stats_dia": {
-  "ganados": 32,
-  "perdidos": 15,
-  "en_juego": 5,
+  "ganados": 34,
+  "perdidos": 16,
+  "en_juego": 2,
   "win_rate": 68
  },
  "stats_banker": {
