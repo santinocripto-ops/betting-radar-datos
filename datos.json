@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T20:08:06.979850+00:00",
+ "actualizado": "2026-10-04T20:16:16.572006+00:00",
  "partidos_vivo": [
   {
    "home": "Greece",
@@ -106,6 +106,18 @@
  "umbral_vivo": 7.0,
  "alertas": [
   {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:16",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "22:16",
+   "tipo": "live"
+  },
+  {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "22:08",
@@ -158,18 +170,6 @@
    "texto": "⚽ Atletico DE Rafaela vs Atlanta · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: ",
    "hora": "19:08",
    "tipo": "banker"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "💸 Smart Money",
-   "texto": "💸 SMART MONEY DETECTADO",
-   "hora": "19:07",
-   "tipo": "smart_money"
   },
   {
    "etiqueta": "💸 Smart Money",
@@ -245,6 +245,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Bahamas",
+   "away": "US Virgin Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Turks and Caicos Islands",
+   "away": "British Virgin Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 16,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
    "home": "Girona",
    "away": "Mallorca",
    "liga": "Segunda División",
@@ -282,28 +304,6 @@
    "away": "1899 Hoffenheim W",
    "liga": "Frauen Bundesliga",
    "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Manchester City W",
-   "away": "Arsenal W",
-   "liga": "FA WSL",
-   "minuto": 19,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Lysekloster",
-   "away": "jerv",
-   "liga": "2. Division - Group 1",
-   "minuto": 16,
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
@@ -650,6 +650,21 @@
     "ts": "2026-10-04T17:07:48.361359+00:00"
    },
    {
+    "home": "Godoy Cruz",
+    "away": "Los Andes",
+    "liga": "Primera Nacional",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 3,
+    "cuota": 1.11,
+    "pinnacle": true,
+    "delta": 3.51,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-04T21:00:00+00:00",
+    "ts": "2026-10-04T20:08:07.200857+00:00"
+   },
+   {
     "home": "Atletico DE Rafaela",
     "away": "Atlanta",
     "liga": "Primera Nacional",
@@ -749,8 +764,8 @@
     "cuota": 1.17,
     "pinnacle": false,
     "delta": 4.34,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-04T18:00:00+00:00",
     "ts": "2026-10-04T17:07:39.282541+00:00"
    },
@@ -828,29 +843,14 @@
     "resultado": "perdido",
     "kickoff": "2026-10-03T21:30:00+00:00",
     "ts": "2026-10-03T17:14:41.202340+00:00"
-   },
-   {
-    "home": "Atletico Goianiense",
-    "away": "America Mineiro",
-    "liga": "Serie B",
-    "pick": "Over 1.5 goles",
-    "senal": "Yes",
-    "casas": 4,
-    "cuota": 1.24,
-    "pinnacle": false,
-    "delta": 3.7,
-    "marcador": "2-0",
-    "resultado": "ganado",
-    "kickoff": "2026-10-03T19:00:00+00:00",
-    "ts": "2026-10-03T17:14:38.571419+00:00"
    }
   ],
   "balance": {
    "ganados": 362,
-   "perdidos": 149,
+   "perdidos": 150,
    "pendientes": 9,
-   "acierto": 70.8,
-   "total": 511
+   "acierto": 70.7,
+   "total": 512
   }
  },
  "mejor_dia": {
@@ -940,7 +940,7 @@
   "n": 3474,
   "ganados": 2331,
   "win_rate": 67,
-  "hoy": 25
+  "hoy": 27
  },
  "stats_dia": {
   "ganados": 23,
