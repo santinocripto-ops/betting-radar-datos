@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-10-04T16:57:29.847465+00:00",
+ "actualizado": "2026-10-04T17:07:39.087538+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "19:07",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "15:20",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -92,7 +92,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 86,
-   "n_historico": 433
+   "n_historico": 434
   },
   {
    "clave": "over25",
@@ -153,7 +153,7 @@
    "minuto": 16,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -193,13 +193,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56684.0,
-  "balance_total": 46684.0,
-  "balance_dia": 440.0,
-  "ganados": 3356,
+  "capital": 56745.0,
+  "balance_total": 46745.0,
+  "balance_dia": 501.0,
+  "ganados": 3357,
   "perdidos": 1496,
-  "pendientes": 5,
-  "ganados_dia": 20,
+  "pendientes": 4,
+  "ganados_dia": 21,
   "perdidos_dia": 7,
   "win_rate": 69.2,
   "roi": 9.6,
@@ -803,16 +803,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3471,
-  "ganados": 2328,
+  "n": 3472,
+  "ganados": 2329,
   "win_rate": 67,
   "hoy": 22
  },
  "stats_dia": {
-  "ganados": 20,
+  "ganados": 21,
   "perdidos": 7,
-  "en_juego": 3,
-  "win_rate": 74
+  "en_juego": 2,
+  "win_rate": 75
  },
  "stats_banker": {
   "ganados": 123,
