@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T09:06:08.671485+00:00",
+ "actualizado": "2026-10-04T09:15:33.887168+00:00",
  "partidos_vivo": [
   {
    "home": "BC Rangers",
@@ -757,6 +757,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League G",
+   "apuesta": "SI, Counter-Strike: Team Falcons ganara",
+   "usdc": 84824,
+   "prob": 59.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x7",
+   "hora": "11:15"
+  },
+  {
    "titulo": "Patriots vs. Bills: O/U 50.5",
    "apuesta": "SI, mas de 50.5 goles",
    "usdc": 29325,
@@ -817,15 +826,6 @@
    "prob": 77.5,
    "n_traders": 2,
    "trader": "RN1",
-   "hora": "18:57"
-  },
-  {
-   "titulo": "Will England win on 2026-10-03?",
-   "apuesta": "NO, England no ganara",
-   "usdc": 80913,
-   "prob": 16.2,
-   "n_traders": 2,
-   "trader": "omnibus-076daa",
    "hora": "18:57"
   }
  ],
