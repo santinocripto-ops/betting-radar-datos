@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T11:01:53.483275+00:00",
+ "actualizado": "2026-10-04T11:09:56.126350+00:00",
  "partidos_vivo": [
   {
    "home": "Odense Q W",
@@ -778,6 +778,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational G",
+   "apuesta": "SI, LoL: Team WE ganara",
+   "usdc": 86113,
+   "prob": 47.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x6",
+   "hora": "13:09"
+  },
+  {
    "titulo": "China Open: Alexander Zverev vs Novak Djokovic",
    "apuesta": "SI, China Open: Alexander Zverev ganara",
    "usdc": 113000,
@@ -839,15 +848,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "22:07"
-  },
-  {
-   "titulo": "Spain vs. Czechia: 1st Half O/U 1.5",
-   "apuesta": "SI, mas de 1.5 goles",
-   "usdc": 18014,
-   "prob": 60.5,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "20:43"
   }
  ],
  "stats_gt": {
