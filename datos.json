@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T19:59:10.313742+00:00",
+ "actualizado": "2026-10-04T19:59:13.551055+00:00",
  "partidos_vivo": [
   {
    "home": "Greece",
@@ -318,7 +318,7 @@
   "balance_dia": 623.0,
   "ganados": 3359,
   "perdidos": 1496,
-  "pendientes": 6,
+  "pendientes": 7,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 69.2,
@@ -326,7 +326,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4861,
+  "con_cuota_media": 4862,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -595,6 +595,13 @@
   }
  },
  "reentradas": [
+  {
+   "home": "Greece",
+   "away": "Germany",
+   "liga": "UEFA Nations League",
+   "recomendacion": "OVER 0.5",
+   "resultado": "pendiente"
+  },
   {
    "home": "Wales",
    "away": "Denmark",
@@ -931,7 +938,7 @@
  "stats_dia": {
   "ganados": 23,
   "perdidos": 7,
-  "en_juego": 6,
+  "en_juego": 7,
   "win_rate": 77
  },
  "stats_banker": {
