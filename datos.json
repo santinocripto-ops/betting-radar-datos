@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T04:49:58.933588+00:00",
+ "actualizado": "2026-10-04T04:58:35.154211+00:00",
  "partidos_vivo": [
   {
    "home": "Necaxa W",
@@ -693,6 +693,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Patriots vs. Bills: O/U 50.5",
+   "apuesta": "SI, mas de 50.5 goles",
+   "usdc": 29325,
+   "prob": 47.5,
+   "n_traders": 2,
+   "trader": "ndb1",
+   "hora": "06:58"
+  },
+  {
    "titulo": "Fresno State vs. Washington State: O/U 37.5",
    "apuesta": "SI, mas de 37.5 goles",
    "usdc": 18878,
@@ -754,15 +763,6 @@
    "n_traders": 2,
    "trader": "omnibus-076daa",
    "hora": "18:57"
-  },
-  {
-   "titulo": "Counter-Strike: G2 vs Natus Vincere (BO3) - ESL Pro League Group Stage",
-   "apuesta": "SI, Counter-Strike: G2 ganara",
-   "usdc": 132814,
-   "prob": 53.5,
-   "n_traders": 2,
-   "trader": "omnibus-076daa",
-   "hora": "18:30"
   }
  ],
  "stats_gt": {
