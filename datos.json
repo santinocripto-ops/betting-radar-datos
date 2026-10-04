@@ -1,9 +1,15 @@
 {
- "actualizado": "2026-10-04T16:39:06.657508+00:00",
+ "actualizado": "2026-10-04T16:47:43.984446+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "18:47",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -69,12 +75,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "15:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "15:05",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -125,6 +125,17 @@
  ],
  "gol_temprano": [
   {
+   "home": "Nürnberg W",
+   "away": "1899 Hoffenheim W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 17,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
    "home": "Manchester City W",
    "away": "Arsenal W",
    "liga": "FA WSL",
@@ -174,17 +185,6 @@
    "liga": "Feminine Division 1",
    "minuto": 19,
    "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "IFK Trelleborg",
-   "away": "Räppe",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 17,
-   "score": 9.9,
    "cuota": null,
    "resultado": "ganado",
    "fecha": "2026-10-04",
@@ -806,7 +806,7 @@
   "n": 3471,
   "ganados": 2328,
   "win_rate": 67,
-  "hoy": 21
+  "hoy": 22
  },
  "stats_dia": {
   "ganados": 20,
