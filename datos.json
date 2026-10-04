@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T17:35:28.679973+00:00",
+ "actualizado": "2026-10-04T17:44:07.630809+00:00",
  "partidos_vivo": [
   {
    "home": "Como W",
@@ -782,6 +782,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Will Germany win on 2026-10-04?",
+   "apuesta": "NO, Germany no ganara",
+   "usdc": 138060,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "19:43"
+  },
+  {
    "titulo": "Titans vs. Ravens: O/U 42.5",
    "apuesta": "SI, mas de 42.5 goles",
    "usdc": 23086,
@@ -843,15 +852,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "13:09"
-  },
-  {
-   "titulo": "China Open: Alexander Zverev vs Novak Djokovic",
-   "apuesta": "SI, China Open: Alexander Zverev ganara",
-   "usdc": 113000,
-   "prob": 70.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0xa",
-   "hora": "12:29"
   }
  ],
  "stats_gt": {
