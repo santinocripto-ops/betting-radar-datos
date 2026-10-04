@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T08:41:39.304953+00:00",
+ "actualizado": "2026-10-04T08:49:26.832410+00:00",
  "partidos_vivo": [
   {
    "home": "Manila Digger",
@@ -219,7 +219,7 @@
   "balance_dia": 305.0,
   "ganados": 3341,
   "perdidos": 1489,
-  "pendientes": 6,
+  "pendientes": 8,
   "ganados_dia": 5,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -227,7 +227,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4836,
+  "con_cuota_media": 4838,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -818,7 +818,7 @@
  "stats_dia": {
   "ganados": 5,
   "perdidos": 0,
-  "en_juego": 4,
+  "en_juego": 6,
   "win_rate": 100
  },
  "stats_banker": {
