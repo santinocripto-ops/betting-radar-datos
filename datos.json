@@ -1,33 +1,33 @@
 {
- "actualizado": "2026-10-04T01:09:11.667593+00:00",
+ "actualizado": "2026-10-04T01:19:12.208403+00:00",
  "partidos_vivo": [
   {
-   "home": "The Strongest",
-   "away": "Universitario de Vinto",
-   "liga": "Copa de la División Profesional",
-   "minuto": 64,
-   "marcador": "5-1",
-   "apuesta": "Over 6.5",
+   "home": "Argentina",
+   "away": "Burkina Faso",
+   "liga": "Friendlies",
+   "minuto": 51,
+   "marcador": "5-0",
+   "apuesta": "Over 5.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 89,
+   "momentum_away": 11,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.28 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 6 goles — partido muy abierto"
+    "⚽ Liga muy goleadora: 3.46 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "🔥 5 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Fort Wayne",
-   "away": "Forward Madison",
-   "liga": "USL League One",
-   "minuto": 57,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Dragones de Oaxaca",
+   "away": "Real Refineros",
+   "liga": "Liga Premier Serie A",
+   "minuto": 56,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -36,13 +36,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Tigres de Alica",
+   "away": "H2O Purepechas",
+   "liga": "Primera Premier",
+   "minuto": 53,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.86 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 4,
+ "partidos_vivo_total": 7,
  "umbral_vivo": 7.0,
  "alertas": [
   {
