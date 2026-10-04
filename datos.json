@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T10:22:09.719809+00:00",
+ "actualizado": "2026-10-04T10:29:49.075945+00:00",
  "partidos_vivo": [
   {
    "home": "Skjervøy",
@@ -858,6 +858,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "China Open: Alexander Zverev vs Novak Djokovic",
+   "apuesta": "SI, China Open: Alexander Zverev ganara",
+   "usdc": 113000,
+   "prob": 70.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xa",
+   "hora": "12:29"
+  },
+  {
    "titulo": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stag",
    "apuesta": "SI, Counter-Strike: Spirit ganara",
    "usdc": 95806,
@@ -919,15 +928,6 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "20:43"
-  },
-  {
-   "titulo": "Curitiba: Guido Justo vs Tomas Barrios",
-   "apuesta": "SI, Curitiba: Guido Justo ganara",
-   "usdc": 15235,
-   "prob": 28.5,
-   "n_traders": 2,
-   "trader": "0x2c335066FE58fe9237c3",
-   "hora": "19:05"
   }
  ],
  "stats_gt": {
