@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T03:59:56.286602+00:00",
+ "actualizado": "2026-10-04T04:08:36.245060+00:00",
  "partidos_vivo": [
   {
    "home": "USA",
@@ -127,7 +127,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 65,
-   "n_historico": 1788
+   "n_historico": 1790
   },
   {
    "clave": "btts",
@@ -141,7 +141,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1823
+   "n_historico": 1824
   }
  ],
  "gol_temprano": [
@@ -163,20 +163,20 @@
    "minuto": 14,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56427.0,
-  "balance_total": 46427.0,
-  "balance_dia": 183.0,
-  "ganados": 3339,
+  "capital": 56488.0,
+  "balance_total": 46488.0,
+  "balance_dia": 244.0,
+  "ganados": 3340,
   "perdidos": 1489,
-  "pendientes": 4,
-  "ganados_dia": 3,
+  "pendientes": 3,
+  "ganados_dia": 4,
   "perdidos_dia": 0,
   "win_rate": 69.2,
   "roi": 9.6,
@@ -330,7 +330,7 @@
     "away": "Wellington Phoenix II",
     "liga": "National League - National",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -444,9 +444,9 @@
    }
   ],
   "balance": {
-   "ganados": 2237,
-   "perdidos": 1374,
-   "acierto": 61.9,
+   "ganados": 2239,
+   "perdidos": 1375,
+   "acierto": 62.0,
    "yield": 17.7,
    "cuota_media": 1.9
   }
@@ -766,15 +766,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3452,
-  "ganados": 2316,
+  "n": 3453,
+  "ganados": 2317,
   "win_rate": 67,
   "hoy": 2
  },
  "stats_dia": {
-  "ganados": 3,
+  "ganados": 4,
   "perdidos": 0,
-  "en_juego": 2,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
