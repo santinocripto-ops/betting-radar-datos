@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T15:58:46.222742+00:00",
+ "actualizado": "2026-10-04T16:09:06.875117+00:00",
  "partidos_vivo": [
   {
    "home": "Al Arabi",
@@ -133,7 +133,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 86,
-   "n_historico": 431
+   "n_historico": 433
   },
   {
    "clave": "over25",
@@ -527,13 +527,6 @@
    "home": "VVV Venlo",
    "away": "Roda",
    "liga": "Eerste Divisie",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Semen Padang",
-   "away": "PSPS",
-   "liga": "Liga 2",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
