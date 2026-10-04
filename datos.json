@@ -1,88 +1,28 @@
 {
- "actualizado": "2026-10-04T02:59:49.154902+00:00",
+ "actualizado": "2026-10-04T03:08:52.618732+00:00",
  "partidos_vivo": [
   {
-   "home": "Tijuana W",
-   "away": "Atlante W",
-   "liga": "Liga MX Femenil",
-   "minuto": 56,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.3,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Spokane Velocity",
-   "away": "Portland Hearts of Pine",
-   "liga": "USL League One",
-   "minuto": 60,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.1,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 3.14 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
-  },
-  {
-   "home": "Colorado Springs",
-   "away": "Oakland Roots",
-   "liga": "USL Championship",
-   "minuto": 62,
+   "home": "Belize",
+   "away": "French Guyana",
+   "liga": "CONCACAF Nations League",
+   "minuto": 52,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.0,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 44,
+   "momentum_away": 56,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Cancún",
-   "away": "Tapatío",
-   "liga": "Liga de Expansión MX",
-   "minuto": 63,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.85 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -173,7 +113,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 86,
-   "n_historico": 426
+   "n_historico": 427
   },
   {
    "clave": "over25",
@@ -185,9 +125,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:45",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 65,
-   "n_historico": 1787
+   "n_historico": 1788
   },
   {
    "clave": "btts",
@@ -199,9 +139,9 @@
    "cuota": null,
    "score": 10,
    "hora": "00:45",
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1821
+   "n_historico": 1823
   }
  ],
  "gol_temprano": [
@@ -242,7 +182,7 @@
     "away": "Boston Legacy W",
     "liga": "NWSL Women",
     "hora": "02:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -251,7 +191,7 @@
     "away": "Portland Hearts of Pine",
     "liga": "USL League One",
     "hora": "03:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -370,7 +310,7 @@
     "away": "Boston Legacy W",
     "liga": "NWSL Women",
     "hora": "02:45",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -493,10 +433,10 @@
    }
   ],
   "balance": {
-   "ganados": 2234,
+   "ganados": 2237,
    "perdidos": 1374,
    "acierto": 61.9,
-   "yield": 17.6,
+   "yield": 17.7,
    "cuota_media": 1.9
   }
  },
