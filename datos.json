@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T13:48:22.981599+00:00",
+ "actualizado": "2026-10-04T13:56:52.069384+00:00",
  "partidos_vivo": [
   {
    "home": "VVV Venlo",
@@ -798,6 +798,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: FURIA vs MOUZ (BO3) - ESL Pro League Group Stage",
+   "apuesta": "SI, Counter-Strike: FURIA ganara",
+   "usdc": 353118,
+   "prob": 48.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "15:56"
+  },
+  {
    "titulo": "Counter-Strike: G2 vs 1WIN (BO3) - ESL Pro League Group Stage",
    "apuesta": "SI, ganara",
    "usdc": 156757,
@@ -859,15 +868,6 @@
    "n_traders": 3,
    "trader": "RN1",
    "hora": "05:34"
-  },
-  {
-   "titulo": "Fresno State vs. Washington State: O/U 45.5",
-   "apuesta": "SI, mas de 45.5 goles",
-   "usdc": 15625,
-   "prob": 42.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "04:08"
   }
  ],
  "stats_gt": {
