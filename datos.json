@@ -1,31 +1,71 @@
 {
- "actualizado": "2026-10-04T17:44:07.630809+00:00",
+ "actualizado": "2026-10-04T17:54:26.716417+00:00",
  "partidos_vivo": [
   {
-   "home": "Como W",
-   "away": "Inter Milano W",
-   "liga": "Serie A Women",
-   "minuto": 59,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Castellón",
+   "away": "AD Ceuta FC",
+   "liga": "Segunda División",
+   "minuto": 62,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 15,
+   "momentum_away": 85,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.0 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 13 remates totales"
    ]
   },
   {
-   "home": "Zenit",
-   "away": "Bate Borisov",
-   "liga": "Friendlies Clubs",
-   "minuto": 60,
+   "home": "Las Palmas",
+   "away": "Valladolid",
+   "liga": "Segunda División",
+   "minuto": 59,
+   "marcador": "2-2",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 36,
+   "momentum_away": 64,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.11 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "🎯 18 remates totales"
+   ]
+  },
+  {
+   "home": "Nürnberg W",
+   "away": "1899 Hoffenheim W",
+   "liga": "Frauen Bundesliga",
+   "minuto": 64,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 26,
+   "momentum_away": 74,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.48 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "🎯 14 remates totales"
+   ]
+  },
+  {
+   "home": "Algeciras",
+   "away": "Rayo Majadahonda",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -36,13 +76,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.68 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 15,
+ "partidos_vivo_total": 10,
  "umbral_vivo": 7.0,
  "alertas": [
   {
