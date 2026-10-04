@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T13:21:03.446639+00:00",
+ "actualizado": "2026-10-04T13:22:07.164069+00:00",
  "partidos_vivo": [
   {
    "home": "Djurgården W",
@@ -366,10 +366,10 @@
  ],
  "gol_temprano": [
   {
-   "home": "VVV Venlo",
-   "away": "Roda",
-   "liga": "Eerste Divisie",
-   "minuto": 14,
+   "home": "West Ham W",
+   "away": "Chelsea W",
+   "liga": "FA WSL",
+   "minuto": 20,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -377,21 +377,43 @@
    "es_hoy": true
   },
   {
-   "home": "Semen Padang",
-   "away": "PSPS",
-   "liga": "Liga 2",
+   "home": "St. Gallen W",
+   "away": "Servette Chênois W",
+   "liga": "AXA Women’s Super League",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "FC Fleury 91 W",
+   "away": "Paris Saint Germain W",
+   "liga": "Feminine Division 1",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "IFK Trelleborg",
+   "away": "Räppe",
+   "liga": "Division 2 - Södra Götaland",
    "minuto": 17,
-   "score": 9.5,
+   "score": 9.9,
    "cuota": null,
    "resultado": "pendiente",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
   {
-   "home": "Djurgården W",
-   "away": "AIK W",
+   "home": "Malmö FF W",
+   "away": "Rosengård W",
    "liga": "Damallsvenskan",
-   "minuto": 16,
+   "minuto": 20,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
@@ -399,35 +421,13 @@
    "es_hoy": true
   },
   {
-   "home": "Akron II",
-   "away": "Dinamo Barnaul",
-   "liga": "Second League - Group 4",
-   "minuto": 13,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Real Murcia",
-   "away": "Gimnastic",
-   "liga": "Primera División RFEF - Group 2",
-   "minuto": 13,
+   "home": "Hammarby W",
+   "away": "Brommapojkarna W",
+   "liga": "Damallsvenskan",
+   "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Deltras",
-   "away": "Persiba Balikpapan",
-   "liga": "Liga 2",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
+   "resultado": "pendiente",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
@@ -1047,7 +1047,7 @@
   "n": 3462,
   "ganados": 2323,
   "win_rate": 67,
-  "hoy": 13
+  "hoy": 19
  },
  "stats_dia": {
   "ganados": 12,
