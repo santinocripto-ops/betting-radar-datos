@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T01:35:01.675895+00:00",
+ "actualizado": "2026-10-04T01:43:28.185063+00:00",
  "partidos_vivo": [
   {
    "home": "Argentina",
@@ -68,6 +68,12 @@
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "03:43",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "01:41",
    "tipo": "live"
   },
@@ -130,12 +136,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:17",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:16",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -186,70 +186,15 @@
  ],
  "gol_temprano": [
   {
-   "home": "The Strongest",
-   "away": "Universitario de Vinto",
-   "liga": "Copa de la División Profesional",
-   "minuto": 12,
+   "home": "Real Cartagena",
+   "away": "Popayan",
+   "liga": "Primera B",
+   "minuto": 14,
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "Veraguas",
-   "away": "Tauro FC",
-   "liga": "Liga Panameña de Fútbol",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "Westchester SC",
-   "away": "Alta",
-   "liga": "USL League One",
-   "minuto": 10,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "Atletico-MG",
-   "away": "RB Bragantino",
-   "liga": "Serie A",
-   "minuto": 17,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "Racing Louisville W",
-   "away": "Utah Royals W",
-   "liga": "NWSL Women",
-   "minuto": 17,
-   "score": 9.5,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-03",
-   "es_hoy": false
-  },
-  {
-   "home": "Cuiaba",
-   "away": "Ponte Preta",
-   "liga": "Serie B",
-   "minuto": 12,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
-   "fecha": "2026-10-03",
-   "es_hoy": false
+   "fecha": "2026-10-04",
+   "es_hoy": true
   }
  ],
  "banca": {
@@ -853,7 +798,7 @@
   "n": 3450,
   "ganados": 2314,
   "win_rate": 67,
-  "hoy": 0
+  "hoy": 1
  },
  "stats_dia": {
   "ganados": 1,
