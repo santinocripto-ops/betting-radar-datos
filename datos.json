@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-04T08:57:12.844304+00:00",
+ "actualizado": "2026-10-04T09:06:08.671485+00:00",
  "partidos_vivo": [
   {
-   "home": "Manila Digger",
-   "away": "Dynamic Herb Cebu",
-   "liga": "PFL",
-   "minuto": 49,
-   "marcador": "2-0",
+   "home": "BC Rangers",
+   "away": "Wofoo Tai Po",
+   "liga": "League Cup",
+   "minuto": 46,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
@@ -16,13 +16,33 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
+  },
+  {
+   "home": "Kowloon City",
+   "away": "Eastern District",
+   "liga": "League Cup",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.67 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Kowloon City buscará el empate"
+   ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 4,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -207,20 +227,20 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56549.0,
-  "balance_total": 46549.0,
-  "balance_dia": 305.0,
-  "ganados": 3341,
+  "capital": 56610.0,
+  "balance_total": 46610.0,
+  "balance_dia": 366.0,
+  "ganados": 3342,
   "perdidos": 1489,
-  "pendientes": 8,
-  "ganados_dia": 5,
+  "pendientes": 7,
+  "ganados_dia": 6,
   "perdidos_dia": 0,
   "win_rate": 69.2,
   "roi": 9.6,
@@ -810,15 +830,15 @@
   }
  ],
  "stats_gt": {
-  "n": 3454,
-  "ganados": 2318,
+  "n": 3455,
+  "ganados": 2319,
   "win_rate": 67,
   "hoy": 8
  },
  "stats_dia": {
-  "ganados": 5,
+  "ganados": 6,
   "perdidos": 0,
-  "en_juego": 6,
+  "en_juego": 5,
   "win_rate": 100
  },
  "stats_banker": {
