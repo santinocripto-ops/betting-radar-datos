@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T20:55:12.476353+00:00",
+ "actualizado": "2026-10-04T21:04:16.150878+00:00",
  "partidos_vivo": [
   {
    "home": "Urena SC",
@@ -121,15 +121,6 @@
  "picks_recientes": [],
  "bankers": [
   {
-   "home": "Rep. Of Ireland",
-   "away": "Israel",
-   "liga": "UEFA Nations League",
-   "mercado": "Doble oport. 1X (local o empate)",
-   "cuota": 1.26,
-   "resultado": "pendiente",
-   "fecha": "2026-10-04"
-  },
-  {
    "home": "Atletico DE Rafaela",
    "away": "Atlanta",
    "liga": "Primera Nacional",
@@ -235,7 +226,7 @@
    "minuto": 24,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -246,23 +237,23 @@
    "minuto": 23,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56867.0,
-  "balance_total": 46867.0,
-  "balance_dia": 623.0,
-  "ganados": 3359,
-  "perdidos": 1496,
-  "pendientes": 12,
-  "ganados_dia": 23,
-  "perdidos_dia": 7,
-  "win_rate": 69.2,
-  "roi": 9.7,
+  "capital": 56412.0,
+  "balance_total": 46412.0,
+  "balance_dia": 168.0,
+  "ganados": 3360,
+  "perdidos": 1501,
+  "pendientes": 6,
+  "ganados_dia": 24,
+  "perdidos_dia": 12,
+  "win_rate": 69.1,
+  "roi": 9.5,
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
@@ -540,21 +531,21 @@
    "away": "Mallorca",
    "liga": "Segunda División",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Greece",
    "away": "Germany",
    "liga": "UEFA Nations League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "perdido"
   },
   {
    "home": "Wales",
    "away": "Denmark",
    "liga": "UEFA Nations League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -877,22 +868,22 @@
   }
  ],
  "stats_gt": {
-  "n": 3474,
+  "n": 3477,
   "ganados": 2331,
   "win_rate": 67,
   "hoy": 29
  },
  "stats_dia": {
-  "ganados": 23,
-  "perdidos": 7,
-  "en_juego": 12,
-  "win_rate": 77
+  "ganados": 25,
+  "perdidos": 12,
+  "en_juego": 5,
+  "win_rate": 68
  },
  "stats_banker": {
-  "ganados": 123,
+  "ganados": 124,
   "perdidos": 47,
-  "pendientes": 2,
-  "win_rate": 72
+  "pendientes": 1,
+  "win_rate": 73
  },
  "marca": {
   "nombre": "Neural Trade IA",
