@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T01:00:37.172295+00:00",
+ "actualizado": "2026-10-04T01:09:11.667593+00:00",
  "partidos_vivo": [
   {
    "home": "The Strongest",
@@ -194,7 +194,7 @@
    "minuto": 10,
    "score": 9.5,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": false
   },
@@ -234,13 +234,13 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56244.0,
-  "balance_total": 46244.0,
-  "balance_dia": 0.0,
-  "ganados": 3336,
+  "capital": 56305.0,
+  "balance_total": 46305.0,
+  "balance_dia": 61.0,
+  "ganados": 3337,
   "perdidos": 1489,
-  "pendientes": 5,
-  "ganados_dia": 0,
+  "pendientes": 4,
+  "ganados_dia": 1,
   "perdidos_dia": 0,
   "win_rate": 69.1,
   "roi": 9.6,
@@ -830,16 +830,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3449,
-  "ganados": 2313,
+  "n": 3450,
+  "ganados": 2314,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
+  "ganados": 1,
   "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "en_juego": 2,
+  "win_rate": 100
  },
  "stats_banker": {
   "ganados": 123,
