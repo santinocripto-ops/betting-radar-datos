@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-03T23:58:24.722881+00:00",
+ "actualizado": "2026-10-04T00:07:11.827968+00:00",
  "partidos_vivo": [
   {
    "home": "Kansas City W",
@@ -185,7 +185,7 @@
    "minuto": 17,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-03",
    "es_hoy": false
   },
@@ -214,12 +214,12 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56183.0,
-  "balance_total": 46183.0,
+  "capital": 56244.0,
+  "balance_total": 46244.0,
   "balance_dia": 0.0,
-  "ganados": 3335,
+  "ganados": 3336,
   "perdidos": 1489,
-  "pendientes": 6,
+  "pendientes": 5,
   "ganados_dia": 0,
   "perdidos_dia": 0,
   "win_rate": 69.1,
@@ -810,8 +810,8 @@
   }
  ],
  "stats_gt": {
-  "n": 3448,
-  "ganados": 2312,
+  "n": 3449,
+  "ganados": 2313,
   "win_rate": 67,
   "hoy": 0
  },
