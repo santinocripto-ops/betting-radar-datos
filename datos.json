@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T08:25:23.597223+00:00",
+ "actualizado": "2026-10-04T08:33:35.214242+00:00",
  "partidos_vivo": [
   {
    "home": "Manila Digger",
@@ -25,6 +25,24 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:33",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:33",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "10:33",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -78,24 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "22:20",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "22:11",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "🔁 RE-ENTRADA · 2ª PARTE",
-   "hora": "21:07",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:43",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,39 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Karviná II",
+   "away": "Zlín II",
+   "liga": "3. liga - MSFL",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Zbrojovka Brno II",
+   "away": "Blansko",
+   "liga": "3. liga - MSFL",
+   "minuto": 15,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Hradec Králové II",
+   "away": "Mladá Boleslav II",
+   "liga": "3. liga - CFL B",
+   "minuto": 17,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
   {
    "home": "Manila Digger",
    "away": "Dynamic Herb Cebu",
@@ -780,7 +813,7 @@
   "n": 3454,
   "ganados": 2318,
   "win_rate": 67,
-  "hoy": 3
+  "hoy": 6
  },
  "stats_dia": {
   "ganados": 5,
