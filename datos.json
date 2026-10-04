@@ -1,7 +1,48 @@
 {
- "actualizado": "2026-10-04T17:16:34.448261+00:00",
- "partidos_vivo": [],
- "partidos_vivo_total": 10,
+ "actualizado": "2026-10-04T17:27:12.395055+00:00",
+ "partidos_vivo": [
+  {
+   "home": "Como W",
+   "away": "Inter Milano W",
+   "liga": "Serie A Women",
+   "minuto": 59,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Zenit",
+   "away": "Bate Borisov",
+   "liga": "Friendlies Clubs",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  }
+ ],
+ "partidos_vivo_total": 15,
  "umbral_vivo": 7.0,
  "alertas": [
   {
