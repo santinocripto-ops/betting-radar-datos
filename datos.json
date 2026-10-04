@@ -1,24 +1,24 @@
 {
- "actualizado": "2026-10-04T03:26:29.731636+00:00",
+ "actualizado": "2026-10-04T03:35:01.989423+00:00",
  "partidos_vivo": [
   {
-   "home": "Belize",
-   "away": "French Guyana",
-   "liga": "CONCACAF Nations League",
-   "minuto": 52,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "USA",
+   "away": "Mexico",
+   "liga": "Friendlies",
+   "minuto": 65,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 9.8,
    "recomendar": true,
-   "momentum_home": 44,
-   "momentum_away": 56,
+   "momentum_home": 33,
+   "momentum_away": 67,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
-    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+    "⚽ Liga muy goleadora: 3.63 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚽ 2 goles — partido activo"
    ]
   }
  ],
@@ -175,7 +175,7 @@
   "balance_dia": 183.0,
   "ganados": 3339,
   "perdidos": 1489,
-  "pendientes": 3,
+  "pendientes": 4,
   "ganados_dia": 3,
   "perdidos_dia": 0,
   "win_rate": 69.2,
@@ -183,7 +183,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4831,
+  "con_cuota_media": 4832,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -693,6 +693,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Fresno State vs. Washington State: O/U 37.5",
+   "apuesta": "SI, mas de 37.5 goles",
+   "usdc": 18878,
+   "prob": 35.0,
+   "n_traders": 3,
+   "trader": "RN1",
+   "hora": "05:34"
+  },
+  {
    "titulo": "Fresno State vs. Washington State: O/U 45.5",
    "apuesta": "SI, mas de 45.5 goles",
    "usdc": 15625,
@@ -754,15 +763,6 @@
    "n_traders": 2,
    "trader": "omnibus-076daa",
    "hora": "18:30"
-  },
-  {
-   "titulo": "Counter-Strike: Luminosity vs Nemiga - Map 1 Winner",
-   "apuesta": "SI, ganara",
-   "usdc": 19319,
-   "prob": 57.0,
-   "n_traders": 2,
-   "trader": "RN1",
-   "hora": "17:42"
   }
  ],
  "stats_gt": {
@@ -774,7 +774,7 @@
  "stats_dia": {
   "ganados": 3,
   "perdidos": 0,
-  "en_juego": 1,
+  "en_juego": 2,
   "win_rate": 100
  },
  "stats_banker": {
