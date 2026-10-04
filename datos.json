@@ -1,11 +1,11 @@
 {
- "actualizado": "2026-10-04T10:04:40.978116+00:00",
+ "actualizado": "2026-10-04T10:14:16.078714+00:00",
  "partidos_vivo": [
   {
-   "home": "Chlumec nad Cidlinou",
-   "away": "Hlinsko",
-   "liga": "4. liga - Divizie C",
-   "minuto": 65,
+   "home": "Skjervøy",
+   "away": "Fauske Sprint",
+   "liga": "3. Division - Girone 5",
+   "minuto": 53,
    "marcador": "2-0",
    "apuesta": "Over 2.5",
    "cuota": null,
@@ -16,18 +16,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.59 goles/partido",
+    "⚽ Liga muy goleadora: 4.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Karviná II",
-   "away": "Zlín II",
-   "liga": "3. liga - MSFL",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "home": "Yenisey II",
+   "away": "Chertanovo Moscow",
+   "liga": "Second League - Group 2",
+   "minuto": 53,
+   "marcador": "1-1",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
    "recomendar": true,
@@ -36,18 +36,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga goleadora: 3.04 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.35 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Deltras",
-   "away": "Persiba Balikpapan",
-   "liga": "Liga 2",
+   "home": "Kagoshima United",
+   "away": "Fukushima United",
+   "liga": "J3 League",
    "minuto": 50,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.5,
    "recomendar": true,
@@ -56,18 +56,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.11 goles/partido",
+    "⚽ Liga goleadora: 2.9 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Persiba Balikpapan buscará el empate"
+    "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Bohemians 1905 II",
-   "away": "Písek",
-   "liga": "3. liga - CFL A",
-   "minuto": 59,
-   "marcador": "3-3",
-   "apuesta": "Over 6.5",
+   "home": "Teplice II",
+   "away": "Neratovice-Byškovice",
+   "liga": "3. liga - CFL B",
+   "minuto": 55,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.2,
    "recomendar": true,
@@ -77,27 +77,47 @@
    "remates_away": "-",
    "razones": [
     "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   },
   {
-   "home": "Viktoria Plzeň II",
-   "away": "Dukla Praha II",
-   "liga": "3. liga - CFL A",
-   "minuto": 49,
-   "marcador": "3-0",
-   "apuesta": "Over 3.5",
+   "home": "Partizan U19",
+   "away": "Vojvodina U19",
+   "liga": "U19 league",
+   "minuto": 51,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.2,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.89 goles/partido",
+    "⚽ Liga muy goleadora: 4.03 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Brazil U20",
+   "away": "Mexico U20",
+   "liga": "Friendlies",
+   "minuto": 53,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
@@ -105,6 +125,18 @@
  "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:14",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "12:13",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "🔁 RE-ENTRADA · 2ª PARTE",
@@ -164,18 +196,6 @@
    "texto": "💸 SMART MONEY DETECTADO",
    "hora": "04:09",
    "tipo": "smart_money"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "03:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "01:41",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -226,6 +246,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Akron II",
+   "away": "Dinamo Barnaul",
+   "liga": "Second League - Group 4",
+   "minuto": 13,
+   "score": 9.8,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
+   "home": "Real Murcia",
+   "away": "Gimnastic",
+   "liga": "Primera División RFEF - Group 2",
+   "minuto": 13,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
+  {
    "home": "Deltras",
    "away": "Persiba Balikpapan",
    "liga": "Liga 2",
@@ -266,28 +308,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "pendiente",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Hradec Králové II",
-   "away": "Mladá Boleslav II",
-   "liga": "3. liga - CFL B",
-   "minuto": 17,
-   "score": 9.8,
-   "cuota": null,
-   "resultado": "pendiente",
-   "fecha": "2026-10-04",
-   "es_hoy": true
-  },
-  {
-   "home": "Manila Digger",
-   "away": "Dynamic Herb Cebu",
-   "liga": "PFL",
-   "minuto": 11,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
@@ -914,7 +934,7 @@
   "n": 3455,
   "ganados": 2319,
   "win_rate": 67,
-  "hoy": 8
+  "hoy": 10
  },
  "stats_dia": {
   "ganados": 6,
