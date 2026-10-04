@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T12:17:38.934229+00:00",
+ "actualizado": "2026-10-04T12:25:17.078113+00:00",
  "partidos_vivo": [
   {
    "home": "Stabæk II",
@@ -379,7 +379,7 @@
   "balance_dia": 400.0,
   "ganados": 3348,
   "perdidos": 1492,
-  "pendientes": 2,
+  "pendientes": 4,
   "ganados_dia": 12,
   "perdidos_dia": 3,
   "win_rate": 69.2,
@@ -387,7 +387,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4842,
+  "con_cuota_media": 4844,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -660,13 +660,6 @@
    "home": "Karviná II",
    "away": "Zlín II",
    "liga": "3. liga - MSFL",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  },
-  {
-   "home": "Hradec Králové II",
-   "away": "Mladá Boleslav II",
-   "liga": "3. liga - CFL B",
    "recomendacion": "OVER 0.5",
    "resultado": "ganado"
   }
@@ -999,7 +992,7 @@
  "stats_dia": {
   "ganados": 12,
   "perdidos": 3,
-  "en_juego": 0,
+  "en_juego": 2,
   "win_rate": 80
  },
  "stats_banker": {
