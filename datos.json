@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T15:48:42.331567+00:00",
+ "actualizado": "2026-10-04T15:57:59.815883+00:00",
  "partidos_vivo": [
   {
    "home": "Spartak Police n/Metují",
@@ -825,6 +825,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Play",
+   "apuesta": "SI, Counter-Strike: Nemiga ganara",
+   "usdc": 764600,
+   "prob": 47.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0x0",
+   "hora": "17:57"
+  },
+  {
    "titulo": "Palermo: Kalin Ivanovski vs Giuseppe La Vela",
    "apuesta": "SI, Palermo: Kalin Ivanovski ganara",
    "usdc": 26268,
@@ -886,15 +895,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x0",
    "hora": "12:02"
-  },
-  {
-   "titulo": "Counter-Strike: Team Falcons vs Aurora Gaming (BO3) - ESL Pro League G",
-   "apuesta": "SI, Counter-Strike: Team Falcons ganara",
-   "usdc": 84824,
-   "prob": 59.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x7",
-   "hora": "11:15"
   }
  ],
  "stats_gt": {
