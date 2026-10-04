@@ -1,11 +1,171 @@
 {
- "actualizado": "2026-10-04T11:57:42.019149+00:00",
+ "actualizado": "2026-10-04T12:08:10.120967+00:00",
  "partidos_vivo": [
   {
-   "home": "Astur",
-   "away": "Mosconia",
-   "liga": "Tercera División RFEF - Group 2",
-   "minuto": 61,
+   "home": "Stabæk II",
+   "away": "Haugesund II",
+   "liga": "3. Division - Girone 4",
+   "minuto": 50,
+   "marcador": "4-1",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.82 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 5 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Lillestrøm II",
+   "away": "Strømsgodset II",
+   "liga": "3. Division - Girone 5",
+   "minuto": 48,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Astrio",
+   "away": "Västra Frölunda",
+   "liga": "Division 2 - Västra Götaland",
+   "minuto": 52,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Västra Frölunda buscará el empate"
+   ]
+  },
+  {
+   "home": "Austria Wien W",
+   "away": "SK Rapid W",
+   "liga": "Frauenliga",
+   "minuto": 47,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.25 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Oborishte",
+   "away": "Yantra 2019",
+   "liga": "Cup",
+   "minuto": 49,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 4.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Oborishte buscará el empate"
+   ]
+  },
+  {
+   "home": "Göteborg W",
+   "away": "Alingsås W",
+   "liga": "Elitettan",
+   "minuto": 51,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Alingsås W buscará el empate"
+   ]
+  },
+  {
+   "home": "Olympic",
+   "away": "Trelleborg",
+   "liga": "Ettan - Södra",
+   "minuto": 48,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.0 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 2 goles — partido activo"
+   ]
+  },
+  {
+   "home": "Znicz Pruszków",
+   "away": "Stal Stalowa Wola",
+   "liga": "II Liga - East",
+   "minuto": 47,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.97 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 4 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Pobeda Nizhniy Novgorod",
+   "away": "Krylya Sovetov II",
+   "liga": "Second League - Group 4",
+   "minuto": 47,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
@@ -16,13 +176,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚽ Liga por encima de la media: 2.66 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 14,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -152,7 +312,7 @@
    "minuto": 13,
    "score": 9.8,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -163,7 +323,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -174,7 +334,7 @@
    "minuto": 11,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -185,7 +345,7 @@
    "minuto": 10,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -196,7 +356,7 @@
    "minuto": 13,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -207,21 +367,21 @@
    "minuto": 15,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56610.0,
-  "balance_total": 46610.0,
-  "balance_dia": 366.0,
-  "ganados": 3342,
-  "perdidos": 1489,
-  "pendientes": 11,
-  "ganados_dia": 6,
-  "perdidos_dia": 0,
+  "capital": 56644.0,
+  "balance_total": 46644.0,
+  "balance_dia": 400.0,
+  "ganados": 3348,
+  "perdidos": 1492,
+  "pendientes": 2,
+  "ganados_dia": 12,
+  "perdidos_dia": 3,
   "win_rate": 69.2,
   "roi": 9.6,
   "stake": 100.0,
@@ -501,14 +661,14 @@
    "away": "Zlín II",
    "liga": "3. liga - MSFL",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Hradec Králové II",
    "away": "Mladá Boleslav II",
    "liga": "3. liga - CFL B",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -831,16 +991,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3455,
-  "ganados": 2319,
+  "n": 3462,
+  "ganados": 2323,
   "win_rate": 67,
   "hoy": 10
  },
  "stats_dia": {
-  "ganados": 6,
-  "perdidos": 0,
-  "en_juego": 9,
-  "win_rate": 100
+  "ganados": 12,
+  "perdidos": 3,
+  "en_juego": 0,
+  "win_rate": 80
  },
  "stats_banker": {
   "ganados": 123,
