@@ -1,31 +1,231 @@
 {
- "actualizado": "2026-10-04T14:16:17.880939+00:00",
+ "actualizado": "2026-10-04T14:26:33.415260+00:00",
  "partidos_vivo": [
   {
-   "home": "VVV Venlo",
-   "away": "Roda",
-   "liga": "Eerste Divisie",
-   "minuto": 54,
+   "home": "Häcken W",
+   "away": "Uppsala W",
+   "liga": "Damallsvenskan",
+   "minuto": 59,
+   "marcador": "7-0",
+   "apuesta": "Over 7.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 95,
+   "momentum_away": 5,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "🔥 7 goles — partido muy abierto",
+    "⚡ Uppsala W pierde por 7 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Hammarby W",
+   "away": "Brommapojkarna W",
+   "liga": "Damallsvenskan",
+   "minuto": 61,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 86,
+   "momentum_away": 14,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Brommapojkarna W pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Malmö FF W",
+   "away": "Rosengård W",
+   "liga": "Damallsvenskan",
+   "minuto": 58,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 74,
-   "momentum_away": 26,
+   "momentum_home": 62,
+   "momentum_away": 38,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.17 goles/partido",
-    "⚽ 1 gol — Roda buscará el empate",
-    "🎯 13 remates totales"
+    "⚽ Liga por encima de la media: 2.72 goles/partido",
+    "⚽ 1 gol — Rosengård W buscará el empate",
+    "🎯 16 remates totales"
    ]
   },
   {
-   "home": "Bryne",
-   "away": "Lyn",
-   "liga": "1. Division",
+   "home": "FC Fleury 91 W",
+   "away": "Paris Saint Germain W",
+   "liga": "Feminine Division 1",
+   "minuto": 56,
+   "marcador": "0-2",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 23,
+   "momentum_away": 77,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ FC Fleury 91 W pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Tottenham Hotspur W",
+   "away": "London City Lionesses W",
+   "liga": "FA WSL",
    "minuto": 54,
+   "marcador": "1-4",
+   "apuesta": "Over 5.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "🔥 5 goles — partido muy abierto",
+    "⚡ Tottenham Hotspur W pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Aston Villa W",
+   "away": "Crystal Palace W",
+   "liga": "FA WSL",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 60,
+   "momentum_away": 40,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — Crystal Palace W buscará el empate",
+    "🎯 19 remates totales"
+   ]
+  },
+  {
+   "home": "Brighton W",
+   "away": "Charlton Athletic W",
+   "liga": "FA WSL",
+   "minuto": 57,
+   "marcador": "3-1",
+   "apuesta": "Over 4.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 85,
+   "momentum_away": 15,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "🔥 4 goles — partido muy abierto",
+    "⚡ Charlton Athletic W pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "West Ham W",
+   "away": "Chelsea W",
+   "liga": "FA WSL",
+   "minuto": 59,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 0,
+   "momentum_away": 100,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.96 goles/partido",
+    "⚽ 1 gol — West Ham W buscará el empate",
+    "🎯 11 remates totales"
+   ]
+  },
+  {
+   "home": "St. Gallen W",
+   "away": "Servette Chênois W",
+   "liga": "AXA Women’s Super League",
+   "minuto": 60,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 9.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Azerbaijan",
+   "away": "Lithuania",
+   "liga": "UEFA Nations League",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.2,
+   "recomendar": true,
+   "momentum_home": 59,
+   "momentum_away": 41,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚽ 1 gol — Lithuania buscará el empate",
+    "🎯 16 remates totales"
+   ]
+  },
+  {
+   "home": "Sandviken",
+   "away": "Arendal",
+   "liga": "2. Division - Group 1",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.66 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "IFK Trelleborg",
+   "away": "Räppe",
+   "liga": "Division 2 - Södra Götaland",
+   "minuto": 57,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
@@ -36,33 +236,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.72 goles/partido",
+    "⚽ Liga muy goleadora: 3.81 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Lyn buscará el empate"
-   ]
-  },
-  {
-   "home": "Maharlika",
-   "away": "Philippine Army",
-   "liga": "PFL",
-   "minuto": 58,
-   "marcador": "4-0",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.73 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 4 goles — partido muy abierto"
+    "⚽ 1 gol — Räppe buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 8,
+ "partidos_vivo_total": 60,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -561,6 +741,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Netherlands",
+    "away": "Serbia",
+    "liga": "UEFA Nations League",
+    "pick": "Over 1.5 goles",
+    "senal": "Over 2.5",
+    "casas": 3,
+    "cuota": 1.13,
+    "pinnacle": true,
+    "delta": 4.09,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-04T18:45:00+00:00",
+    "ts": "2026-10-04T14:07:31.632128+00:00"
+   },
+   {
     "home": "Kolos Kovalivka II",
     "away": "Oleksandria",
     "liga": "Persha Liga",
@@ -769,27 +964,12 @@
     "resultado": "ganado",
     "kickoff": "2026-10-03T00:30:00+00:00",
     "ts": "2026-10-02T17:07:28.882012+00:00"
-   },
-   {
-    "home": "Juventude",
-    "away": "Operario-PR",
-    "liga": "Serie B",
-    "pick": "X2 (visitante o empate)",
-    "senal": "Away",
-    "casas": 5,
-    "cuota": 1.91,
-    "pinnacle": true,
-    "delta": 3.58,
-    "marcador": "3-0",
-    "resultado": "perdido",
-    "kickoff": "2026-10-02T23:45:00+00:00",
-    "ts": "2026-10-02T09:10:42.068579+00:00"
    }
   ],
   "balance": {
    "ganados": 362,
    "perdidos": 149,
-   "pendientes": 0,
+   "pendientes": 1,
    "acierto": 70.8,
    "total": 511
   }
