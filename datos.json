@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T16:47:43.984446+00:00",
+ "actualizado": "2026-10-04T16:55:33.812992+00:00",
  "partidos_vivo": [],
  "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
@@ -730,6 +730,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Titans vs. Ravens: O/U 42.5",
+   "apuesta": "SI, mas de 42.5 goles",
+   "usdc": 23086,
+   "prob": 49.5,
+   "n_traders": 2,
+   "trader": "ndb1",
+   "hora": "18:55"
+  },
+  {
    "titulo": "Counter-Strike: Nemiga vs Astralis (BO5) - Stake Ranked Episode 4 Play",
    "apuesta": "SI, Counter-Strike: Nemiga ganara",
    "usdc": 764600,
@@ -791,15 +800,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0xa",
    "hora": "12:29"
-  },
-  {
-   "titulo": "Counter-Strike: Spirit vs PARIVISION (BO3) - ESL Pro League Group Stag",
-   "apuesta": "SI, Counter-Strike: Spirit ganara",
-   "usdc": 95806,
-   "prob": 59.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x0",
-   "hora": "12:02"
   }
  ],
  "stats_gt": {
