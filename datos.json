@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T07:02:58.448891+00:00",
+ "actualizado": "2026-10-04T07:11:31.238076+00:00",
  "partidos_vivo": [
   {
    "home": "Pyeongtaek Citizen",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "09:11",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Manila Digger",
+   "away": "Dynamic Herb Cebu",
+   "liga": "PFL",
+   "minuto": 11,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
   {
    "home": "Necaxa W",
    "away": "Cruz Azul W",
@@ -769,7 +780,7 @@
   "n": 3453,
   "ganados": 2317,
   "win_rate": 67,
-  "hoy": 2
+  "hoy": 3
  },
  "stats_dia": {
   "ganados": 4,
