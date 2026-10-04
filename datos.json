@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-10-04T23:37:43.979708+00:00",
+ "actualizado": "2026-10-04T23:47:07.113469+00:00",
  "partidos_vivo": [
   {
-   "home": "Puerto Rico",
-   "away": "Cayman Islands",
-   "liga": "CONCACAF Nations League",
-   "minuto": 61,
+   "home": "Racing Montevideo",
+   "away": "Penarol",
+   "liga": "Primera División",
+   "minuto": 49,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
    "score": 10.0,
    "recomendar": true,
-   "momentum_home": 92,
-   "momentum_away": 8,
+   "momentum_home": 29,
+   "momentum_away": 71,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "⚽ Liga por encima de la media: 2.62 goles/partido",
     "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
     "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
-  },
-  {
-   "home": "Trinidad and Tobago",
-   "away": "Curaçao",
-   "liga": "CONCACAF Nations League",
-   "minuto": 60,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 36,
-   "momentum_away": 64,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "⚽ 1 gol — Curaçao buscará el empate",
-    "🎯 17 remates totales"
-   ]
-  },
-  {
-   "home": "Molynes United",
-   "away": "Racing United",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-3",
-   "apuesta": "Over 3.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "🔥 3 goles — partido muy abierto"
-   ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
