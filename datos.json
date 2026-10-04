@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T17:54:26.716417+00:00",
+ "actualizado": "2026-10-04T18:03:19.978954+00:00",
  "partidos_vivo": [
   {
    "home": "Castellón",
@@ -822,6 +822,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Broncos vs. 49ers: O/U 48.5",
+   "apuesta": "SI, mas de 48.5 goles",
+   "usdc": 438768,
+   "prob": 50.5,
+   "n_traders": 1,
+   "trader": "🐋 Ballena anonima (0xe",
+   "hora": "20:03"
+  },
+  {
    "titulo": "Will Germany win on 2026-10-04?",
    "apuesta": "NO, Germany no ganara",
    "usdc": 138060,
@@ -883,15 +892,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x6",
    "hora": "15:46"
-  },
-  {
-   "titulo": "LoL: Team WE vs HANJIN BRION (BO3) - Demacia Cup Global Invitational G",
-   "apuesta": "SI, LoL: Team WE ganara",
-   "usdc": 86113,
-   "prob": 47.5,
-   "n_traders": 1,
-   "trader": "🐋 Ballena anonima (0x6",
-   "hora": "13:09"
   }
  ],
  "stats_gt": {
