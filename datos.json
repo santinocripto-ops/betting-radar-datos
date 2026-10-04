@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T20:23:32.462344+00:00",
+ "actualizado": "2026-10-04T20:31:13.427741+00:00",
  "partidos_vivo": [
   {
    "home": "Greece",
@@ -318,7 +318,7 @@
   "balance_dia": 623.0,
   "ganados": 3359,
   "perdidos": 1496,
-  "pendientes": 10,
+  "pendientes": 11,
   "ganados_dia": 23,
   "perdidos_dia": 7,
   "win_rate": 69.2,
@@ -326,7 +326,7 @@
   "stake": 100.0,
   "cuota_fija": 1.61,
   "con_cuota_real": 0,
-  "con_cuota_media": 4865,
+  "con_cuota_media": 4866,
   "pct_cuota_real": 0.0
  },
  "pagina2": {
@@ -945,7 +945,7 @@
  "stats_dia": {
   "ganados": 23,
   "perdidos": 7,
-  "en_juego": 10,
+  "en_juego": 11,
   "win_rate": 77
  },
  "stats_banker": {
