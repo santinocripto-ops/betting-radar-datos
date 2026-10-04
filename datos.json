@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T03:18:05.260122+00:00",
+ "actualizado": "2026-10-04T03:26:29.731636+00:00",
  "partidos_vivo": [
   {
    "home": "Belize",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "05:26",
+   "tipo": "live"
+  },
   {
    "etiqueta": "💸 Smart Money",
    "texto": "💸 SMART MONEY DETECTADO",
@@ -90,12 +96,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:17",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:17",
-   "tipo": "live"
   }
  ],
  "picks_recientes": [],
@@ -145,6 +145,17 @@
   }
  ],
  "gol_temprano": [
+  {
+   "home": "Necaxa W",
+   "away": "Cruz Azul W",
+   "liga": "Liga MX Femenil",
+   "minuto": 16,
+   "score": 9.7,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": true
+  },
   {
    "home": "Real Cartagena",
    "away": "Popayan",
@@ -758,7 +769,7 @@
   "n": 3452,
   "ganados": 2316,
   "win_rate": 67,
-  "hoy": 1
+  "hoy": 2
  },
  "stats_dia": {
   "ganados": 3,
