@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T02:00:25.873116+00:00",
+ "actualizado": "2026-10-04T02:09:53.839639+00:00",
  "partidos_vivo": [
   {
    "home": "Portland Thorns W",
@@ -25,6 +25,12 @@
  "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "💸 Smart Money",
+   "texto": "💸 SMART MONEY DETECTADO",
+   "hora": "04:09",
+   "tipo": "smart_money"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -77,12 +83,6 @@
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "20:43",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "20:17",
    "tipo": "live"
   },
   {
@@ -159,15 +159,15 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56305.0,
-  "balance_total": 46305.0,
-  "balance_dia": 61.0,
-  "ganados": 3337,
+  "capital": 56427.0,
+  "balance_total": 46427.0,
+  "balance_dia": 183.0,
+  "ganados": 3339,
   "perdidos": 1489,
-  "pendientes": 5,
-  "ganados_dia": 1,
+  "pendientes": 3,
+  "ganados_dia": 3,
   "perdidos_dia": 0,
-  "win_rate": 69.1,
+  "win_rate": 69.2,
   "roi": 9.6,
   "stake": 100.0,
   "cuota_fija": 1.61,
@@ -682,6 +682,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Fresno State vs. Washington State: O/U 45.5",
+   "apuesta": "SI, mas de 45.5 goles",
+   "usdc": 15625,
+   "prob": 42.0,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "04:08"
+  },
+  {
    "titulo": "LoL: Cloud9 vs LYON (BO5) - LCS Playoffs",
    "apuesta": "SI, LoL: Cloud9 ganara",
    "usdc": 95113,
@@ -743,27 +752,18 @@
    "n_traders": 2,
    "trader": "RN1",
    "hora": "17:42"
-  },
-  {
-   "titulo": "Adana: Antonia Ruzic vs Leolia Jeanjean",
-   "apuesta": "SI, Adana: Antonia Ruzic ganara",
-   "usdc": 17316,
-   "prob": 66.0,
-   "n_traders": 3,
-   "trader": "RN1",
-   "hora": "17:41"
   }
  ],
  "stats_gt": {
-  "n": 3450,
-  "ganados": 2314,
+  "n": 3452,
+  "ganados": 2316,
   "win_rate": 67,
   "hoy": 1
  },
  "stats_dia": {
-  "ganados": 1,
+  "ganados": 3,
   "perdidos": 0,
-  "en_juego": 3,
+  "en_juego": 1,
   "win_rate": 100
  },
  "stats_banker": {
