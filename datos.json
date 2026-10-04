@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T12:25:17.078113+00:00",
+ "actualizado": "2026-10-04T12:32:46.453294+00:00",
  "partidos_vivo": [
   {
    "home": "Stabæk II",
@@ -655,15 +655,7 @@
    "cuota_media": 1.9
   }
  },
- "reentradas": [
-  {
-   "home": "Karviná II",
-   "away": "Zlín II",
-   "liga": "3. liga - MSFL",
-   "recomendacion": "OVER 0.5",
-   "resultado": "ganado"
-  }
- ],
+ "reentradas": [],
  "pagina_smart": {
   "picks": [
    {
