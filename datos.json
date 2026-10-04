@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T00:07:11.827968+00:00",
+ "actualizado": "2026-10-04T00:16:44.877068+00:00",
  "partidos_vivo": [
   {
    "home": "Kansas City W",
@@ -538,8 +538,8 @@
     "cuota": 1.3,
     "pinnacle": true,
     "delta": 3.97,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-03T22:00:00+00:00",
     "ts": "2026-10-03T17:14:41.743132+00:00"
    },
@@ -553,8 +553,8 @@
     "cuota": 1.8,
     "pinnacle": true,
     "delta": 3.17,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-0",
+    "resultado": "perdido",
     "kickoff": "2026-10-03T21:30:00+00:00",
     "ts": "2026-10-03T17:14:41.202340+00:00"
    },
@@ -725,11 +725,11 @@
    }
   ],
   "balance": {
-   "ganados": 359,
-   "perdidos": 147,
-   "pendientes": 4,
+   "ganados": 360,
+   "perdidos": 148,
+   "pendientes": 2,
    "acierto": 70.9,
-   "total": 506
+   "total": 508
   }
  },
  "mejor_dia": {
