@@ -1,28 +1,88 @@
 {
- "actualizado": "2026-10-04T02:18:28.877801+00:00",
+ "actualizado": "2026-10-04T02:28:08.570309+00:00",
  "partidos_vivo": [
   {
-   "home": "Portland Thorns W",
-   "away": "Boston Legacy W",
-   "liga": "NWSL Women",
-   "minuto": 46,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
+   "home": "Tijuana W",
+   "away": "Atlante W",
+   "liga": "Liga MX Femenil",
+   "minuto": 56,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.3,
    "recomendar": true,
-   "momentum_home": 23,
-   "momentum_away": 77,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Portland Thorns W pierde por 2 — atacará sin freno"
+    "⭐ Bonus liga: +0.3 (Liga MX)",
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+   ]
+  },
+  {
+   "home": "Spokane Velocity",
+   "away": "Portland Hearts of Pine",
+   "liga": "USL League One",
+   "minuto": 60,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 7.1,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 3.14 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
+   ]
+  },
+  {
+   "home": "Colorado Springs",
+   "away": "Oakland Roots",
+   "liga": "USL Championship",
+   "minuto": 62,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+   ]
+  },
+  {
+   "home": "Cancún",
+   "away": "Tapatío",
+   "liga": "Liga de Expansión MX",
+   "minuto": 63,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.85 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 1,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
