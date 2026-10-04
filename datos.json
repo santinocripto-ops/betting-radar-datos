@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T02:09:53.839639+00:00",
+ "actualizado": "2026-10-04T02:18:28.877801+00:00",
  "partidos_vivo": [
   {
    "home": "Portland Thorns W",
@@ -444,6 +444,21 @@
  "pagina_smart": {
   "picks": [
    {
+    "home": "Kolos Kovalivka II",
+    "away": "Oleksandria",
+    "liga": "Persha Liga",
+    "pick": "1X (local o empate)",
+    "senal": "Home",
+    "casas": 6,
+    "cuota": 2.2,
+    "pinnacle": true,
+    "delta": 3.99,
+    "marcador": "",
+    "resultado": "pendiente",
+    "kickoff": "2026-10-04T09:30:00+00:00",
+    "ts": "2026-10-04T02:09:54.127009+00:00"
+   },
+   {
     "home": "Argentina",
     "away": "Burkina Faso",
     "liga": "Friendlies",
@@ -453,8 +468,8 @@
     "cuota": 1.1,
     "pinnacle": true,
     "delta": 5.43,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "7-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-04T00:00:00+00:00",
     "ts": "2026-10-03T17:14:42.645893+00:00"
    },
@@ -468,8 +483,8 @@
     "cuota": 1.02,
     "pinnacle": true,
     "delta": 4.22,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "7-0",
+    "resultado": "ganado",
     "kickoff": "2026-10-04T00:00:00+00:00",
     "ts": "2026-10-03T17:14:42.849332+00:00"
    },
@@ -652,29 +667,14 @@
     "resultado": "perdido",
     "kickoff": "2026-10-02T23:45:00+00:00",
     "ts": "2026-10-02T09:10:42.068579+00:00"
-   },
-   {
-    "home": "Juventude",
-    "away": "Operario-PR",
-    "liga": "Serie B",
-    "pick": "1X (local o empate)",
-    "senal": "Home",
-    "casas": 9,
-    "cuota": 1.22,
-    "pinnacle": true,
-    "delta": 5.87,
-    "marcador": "3-0",
-    "resultado": "ganado",
-    "kickoff": "2026-10-02T23:45:00+00:00",
-    "ts": "2026-10-02T17:07:23.571624+00:00"
    }
   ],
   "balance": {
-   "ganados": 360,
+   "ganados": 362,
    "perdidos": 148,
-   "pendientes": 2,
-   "acierto": 70.9,
-   "total": 508
+   "pendientes": 1,
+   "acierto": 71.0,
+   "total": 510
   }
  },
  "mejor_dia": {
