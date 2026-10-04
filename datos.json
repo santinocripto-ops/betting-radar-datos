@@ -1,33 +1,13 @@
 {
- "actualizado": "2026-10-04T11:25:43.963740+00:00",
+ "actualizado": "2026-10-04T11:34:26.484014+00:00",
  "partidos_vivo": [
   {
-   "home": "Odense Q W",
-   "away": "Fortuna Hjørring W",
-   "liga": "Kvindeliga",
-   "minuto": 57,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.79 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Faroe Islands U19",
-   "away": "United Arab Emirates U19",
-   "liga": "Friendlies",
-   "minuto": 58,
-   "marcador": "2-4",
-   "apuesta": "Over 6.5",
+   "home": "Astur",
+   "away": "Mosconia",
+   "liga": "Tercera División RFEF - Group 2",
+   "minuto": 61,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
@@ -36,13 +16,13 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.56 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
    ]
   }
  ],
- "partidos_vivo_total": 9,
+ "partidos_vivo_total": 5,
  "umbral_vivo": 7.0,
  "alertas": [
   {
