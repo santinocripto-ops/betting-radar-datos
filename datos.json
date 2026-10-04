@@ -1,12 +1,72 @@
 {
- "actualizado": "2026-10-04T22:08:41.324748+00:00",
+ "actualizado": "2026-10-04T22:20:22.588233+00:00",
  "partidos_vivo": [
   {
-   "home": "Tru-Juice",
-   "away": "Tivoli Gardens",
-   "liga": "Premier League",
-   "minuto": 60,
-   "marcador": "0-2",
+   "home": "Cucuta",
+   "away": "Deportivo Pereira",
+   "liga": "Primera A",
+   "minuto": 53,
+   "marcador": "3-0",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 75,
+   "momentum_away": 25,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.79 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Deportivo Pereira pierde por 3 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Guabirá",
+   "away": "Oriente Petrolero",
+   "liga": "Copa de la División Profesional",
+   "minuto": 47,
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 8.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Guabirá buscará el empate"
+   ]
+  },
+  {
+   "home": "Herrera",
+   "away": "Alianza FC",
+   "liga": "Liga Panameña de Fútbol",
+   "minuto": 57,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 7.5,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga goleadora: 2.93 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Alianza FC buscará el empate"
+   ]
+  },
+  {
+   "home": "Tampa Bay Sun W",
+   "away": "Lexington W",
+   "liga": "USL Super League",
+   "minuto": 49,
+   "marcador": "1-1",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 7.0,
@@ -16,15 +76,27 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.84 goles/partido",
+    "⚽ Liga por encima de la media: 2.69 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 8,
  "umbral_vivo": 7.0,
  "alertas": [
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:20",
+   "tipo": "live"
+  },
+  {
+   "etiqueta": "⚡ Gol Temprano",
+   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
+   "hora": "00:20",
+   "tipo": "live"
+  },
   {
    "etiqueta": "⚡ Gol Temprano",
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
@@ -84,18 +156,6 @@
    "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
    "hora": "21:09",
    "tipo": "live"
-  },
-  {
-   "etiqueta": "⚡ Gol Temprano",
-   "texto": "⚡ ALERTA GOL 1ª MITAD — 🔥🔥🔥 EXCEPCIONAL",
-   "hora": "21:08",
-   "tipo": "live"
-  },
-  {
-   "etiqueta": "💎 Cuota Banker",
-   "texto": "⚽ Rep. Of Ireland vs Israel · 🎯 Apuesta: Doble oport. 1X (local o empate) · 💰 Cuota: 1.26 ",
-   "hora": "19:08",
-   "tipo": "banker"
   }
  ],
  "picks_recientes": [],
@@ -156,6 +216,28 @@
  ],
  "gol_temprano": [
   {
+   "home": "Trinidad and Tobago",
+   "away": "Curaçao",
+   "liga": "CONCACAF Nations League",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": false
+  },
+  {
+   "home": "Puerto Rico",
+   "away": "Cayman Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 19,
+   "score": 10.0,
+   "cuota": null,
+   "resultado": "pendiente",
+   "fecha": "2026-10-04",
+   "es_hoy": false
+  },
+  {
    "home": "San Luis",
    "away": "Union Espanola",
    "liga": "Primera B",
@@ -196,28 +278,6 @@
    "score": 10.0,
    "cuota": null,
    "resultado": "ganado",
-   "fecha": "2026-10-04",
-   "es_hoy": false
-  },
-  {
-   "home": "Girona",
-   "away": "Mallorca",
-   "liga": "Segunda División",
-   "minuto": 24,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
-   "fecha": "2026-10-04",
-   "es_hoy": false
-  },
-  {
-   "home": "Wales",
-   "away": "Denmark",
-   "liga": "UEFA Nations League",
-   "minuto": 23,
-   "score": 10.0,
-   "cuota": null,
-   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": false
   }
@@ -578,8 +638,8 @@
     "cuota": 1.5,
     "pinnacle": true,
     "delta": 4.6,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-04T20:00:00+00:00",
     "ts": "2026-10-04T17:07:45.410786+00:00"
    },
@@ -593,8 +653,8 @@
     "cuota": 1.5,
     "pinnacle": false,
     "delta": 3.62,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "0-1",
+    "resultado": "perdido",
     "kickoff": "2026-10-04T20:00:00+00:00",
     "ts": "2026-10-04T17:07:45.646152+00:00"
    },
@@ -736,10 +796,10 @@
   ],
   "balance": {
    "ganados": 365,
-   "perdidos": 150,
-   "pendientes": 6,
-   "acierto": 70.9,
-   "total": 515
+   "perdidos": 152,
+   "pendientes": 4,
+   "acierto": 70.6,
+   "total": 517
   }
  },
  "mejor_dia": {
