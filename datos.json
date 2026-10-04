@@ -1,214 +1,34 @@
 {
- "actualizado": "2026-10-04T14:44:40.293126+00:00",
+ "actualizado": "2026-10-04T14:55:08.781926+00:00",
  "partidos_vivo": [
   {
-   "home": "Häcken W",
-   "away": "Uppsala W",
-   "liga": "Damallsvenskan",
-   "minuto": 59,
-   "marcador": "7-0",
-   "apuesta": "Over 7.5",
+   "home": "Spjelkavik",
+   "away": "Ranheim II",
+   "liga": "3. Division - Girone 2",
+   "minuto": 64,
+   "marcador": "1-2",
+   "apuesta": "Over 3.5",
    "cuota": null,
-   "score": 10.0,
+   "score": 8.0,
    "recomendar": true,
-   "momentum_home": 95,
-   "momentum_away": 5,
+   "momentum_home": 50,
+   "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "🔥 7 goles — partido muy abierto",
-    "⚡ Uppsala W pierde por 7 — atacará sin freno"
+    "⚽ Liga muy goleadora: 4.52 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "🔥 3 goles — partido muy abierto"
    ]
   },
   {
-   "home": "Hammarby W",
-   "away": "Brommapojkarna W",
-   "liga": "Damallsvenskan",
-   "minuto": 61,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 86,
-   "momentum_away": 14,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ Brommapojkarna W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Malmö FF W",
-   "away": "Rosengård W",
-   "liga": "Damallsvenskan",
-   "minuto": 58,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 62,
-   "momentum_away": 38,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga por encima de la media: 2.72 goles/partido",
-    "⚽ 1 gol — Rosengård W buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "FC Fleury 91 W",
-   "away": "Paris Saint Germain W",
-   "liga": "Feminine Division 1",
-   "minuto": 56,
-   "marcador": "0-2",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 23,
-   "momentum_away": 77,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "⚡ FC Fleury 91 W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Tottenham Hotspur W",
-   "away": "London City Lionesses W",
-   "liga": "FA WSL",
-   "minuto": 54,
-   "marcador": "1-4",
-   "apuesta": "Over 5.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "🔥 5 goles — partido muy abierto",
-    "⚡ Tottenham Hotspur W pierde por 3 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "Aston Villa W",
-   "away": "Crystal Palace W",
-   "liga": "FA WSL",
-   "minuto": 59,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 60,
-   "momentum_away": 40,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚽ 1 gol — Crystal Palace W buscará el empate",
-    "🎯 19 remates totales"
-   ]
-  },
-  {
-   "home": "Brighton W",
-   "away": "Charlton Athletic W",
-   "liga": "FA WSL",
-   "minuto": 57,
-   "marcador": "3-1",
-   "apuesta": "Over 4.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 85,
-   "momentum_away": 15,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "🔥 4 goles — partido muy abierto",
-    "⚡ Charlton Athletic W pierde por 2 — atacará sin freno"
-   ]
-  },
-  {
-   "home": "West Ham W",
-   "away": "Chelsea W",
-   "liga": "FA WSL",
-   "minuto": 59,
+   "home": "Albalonga",
+   "away": "Anzio",
+   "liga": "Serie D - Girone G",
+   "minuto": 55,
    "marcador": "0-1",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 0,
-   "momentum_away": 100,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.96 goles/partido",
-    "⚽ 1 gol — West Ham W buscará el empate",
-    "🎯 11 remates totales"
-   ]
-  },
-  {
-   "home": "St. Gallen W",
-   "away": "Servette Chênois W",
-   "liga": "AXA Women’s Super League",
-   "minuto": 60,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 9.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.52 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
-   ]
-  },
-  {
-   "home": "Azerbaijan",
-   "away": "Lithuania",
-   "liga": "UEFA Nations League",
-   "minuto": 57,
-   "marcador": "1-0",
-   "apuesta": "Over 1.5",
-   "cuota": null,
-   "score": 8.2,
-   "recomendar": true,
-   "momentum_home": 59,
-   "momentum_away": 41,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.93 goles/partido",
-    "⚽ 1 gol — Lithuania buscará el empate",
-    "🎯 16 remates totales"
-   ]
-  },
-  {
-   "home": "Sandviken",
-   "away": "Arendal",
-   "liga": "2. Division - Group 1",
-   "minuto": 61,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
    "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
@@ -216,33 +36,73 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.66 goles/partido",
+    "⚽ Liga muy goleadora: 3.21 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ 1 gol — Albalonga buscará el empate"
    ]
   },
   {
-   "home": "IFK Trelleborg",
-   "away": "Räppe",
-   "liga": "Division 2 - Södra Götaland",
-   "minuto": 57,
+   "home": "Manfredonia",
+   "away": "Bisceglie",
+   "liga": "Serie D - Girone H",
+   "minuto": 55,
    "marcador": "1-0",
    "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.0,
+   "score": 7.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 3.81 goles/partido",
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 1 gol — Räppe buscará el empate"
+    "⚽ 1 gol — Bisceglie buscará el empate"
+   ]
+  },
+  {
+   "home": "Martina Franca",
+   "away": "Francavilla",
+   "liga": "Serie D - Girone H",
+   "minuto": 65,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga por encima de la media: 2.88 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
+   ]
+  },
+  {
+   "home": "Hamburger SV",
+   "away": "FC Copenhagen",
+   "liga": "Friendlies Clubs",
+   "minuto": 62,
+   "marcador": "0-0",
+   "apuesta": "Over 0.5",
+   "cuota": null,
+   "score": 7.0,
+   "recomendar": true,
+   "momentum_home": 50,
+   "momentum_away": 50,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.56 goles/partido",
+    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
    ]
   }
  ],
- "partidos_vivo_total": 60,
+ "partidos_vivo_total": 9,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -985,6 +845,15 @@
  },
  "apuestas_top": [
   {
+   "titulo": "Palermo: Kalin Ivanovski vs Giuseppe La Vela",
+   "apuesta": "SI, Palermo: Kalin Ivanovski ganara",
+   "usdc": 26268,
+   "prob": 45.5,
+   "n_traders": 2,
+   "trader": "RN1",
+   "hora": "16:53"
+  },
+  {
    "titulo": "Counter-Strike: Vitality vs Natus Vincere (BO3) - ESL Pro League Group",
    "apuesta": "SI, Counter-Strike: Vitality ganara",
    "usdc": 309113,
@@ -1046,15 +915,6 @@
    "n_traders": 1,
    "trader": "🐋 Ballena anonima (0x7",
    "hora": "11:15"
-  },
-  {
-   "titulo": "Patriots vs. Bills: O/U 50.5",
-   "apuesta": "SI, mas de 50.5 goles",
-   "usdc": 29325,
-   "prob": 47.5,
-   "n_traders": 2,
-   "trader": "ndb1",
-   "hora": "06:58"
   }
  ],
  "stats_gt": {
