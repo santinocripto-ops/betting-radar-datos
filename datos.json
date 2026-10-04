@@ -1,48 +1,108 @@
 {
- "actualizado": "2026-10-04T21:04:16.150878+00:00",
+ "actualizado": "2026-10-04T21:18:43.948582+00:00",
  "partidos_vivo": [
   {
-   "home": "Urena SC",
-   "away": "Club Atletico Barinas",
-   "liga": "Segunda División",
-   "minuto": 50,
+   "home": "Talleres Cordoba",
+   "away": "Belgrano Cordoba",
+   "liga": "Liga Profesional Argentina",
+   "minuto": 58,
    "marcador": "0-0",
    "apuesta": "Over 0.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 53,
+   "momentum_away": 47,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅"
+    "⚽ Liga por encima de la media: 2.61 goles/partido",
+    "0-0 en 2ª mitad antes del min 65: alta probabilidad de gol ✅",
+    "⚽ 0-0 — ambos equipos necesitan marcar urgentemente"
    ]
   },
   {
-   "home": "Zamora FC B",
-   "away": "Yaracuyanos FC",
-   "liga": "Segunda División",
-   "minuto": 49,
+   "home": "Chicago Red Stars W",
+   "away": "Denver Summit W",
+   "liga": "NWSL Women",
+   "minuto": 50,
    "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
-   "score": 7.5,
+   "score": 10.0,
    "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
+   "momentum_home": 22,
+   "momentum_away": 78,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga goleadora: 3.12 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
+    "⚽ Liga goleadora: 3.1 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Chicago Red Stars W pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Supra du Quebec",
+   "away": "Pacific FC",
+   "liga": "Canadian Premier League",
+   "minuto": 52,
+   "marcador": "2-0",
+   "apuesta": "Over 2.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 88,
+   "momentum_away": 12,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.31 goles/partido",
+    "⚽ 2 goles — partido activo",
+    "⚡ Pacific FC pierde por 2 — atacará sin freno"
+   ]
+  },
+  {
+   "home": "Turks and Caicos Islands",
+   "away": "British Virgin Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 59,
+   "marcador": "1-0",
+   "apuesta": "Over 1.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 87,
+   "momentum_away": 13,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "⚽ 1 gol — British Virgin Islands buscará el empate",
+    "🎯 15 remates totales"
+   ]
+  },
+  {
+   "home": "Bahamas",
+   "away": "US Virgin Islands",
+   "liga": "CONCACAF Nations League",
+   "minuto": 58,
+   "marcador": "0-3",
+   "apuesta": "Over 3.5",
+   "cuota": null,
+   "score": 10.0,
+   "recomendar": true,
+   "momentum_home": 67,
+   "momentum_away": 33,
+   "remates_home": "-",
+   "remates_away": "-",
+   "razones": [
+    "⚽ Liga muy goleadora: 3.37 goles/partido",
+    "🔥 3 goles — partido muy abierto",
+    "⚡ Bahamas pierde por 3 — atacará sin freno"
    ]
   }
  ],
- "partidos_vivo_total": 6,
+ "partidos_vivo_total": 11,
  "umbral_vivo": 7.0,
  "alertas": [
   {
@@ -650,8 +710,8 @@
     "cuota": 1.13,
     "pinnacle": true,
     "delta": 4.09,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-04T18:45:00+00:00",
     "ts": "2026-10-04T14:07:31.632128+00:00"
    },
@@ -665,8 +725,8 @@
     "cuota": 1.33,
     "pinnacle": true,
     "delta": 3.87,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "1-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-04T18:45:00+00:00",
     "ts": "2026-10-04T17:07:41.194984+00:00"
    },
@@ -680,8 +740,8 @@
     "cuota": 1.11,
     "pinnacle": false,
     "delta": 5.39,
-    "marcador": "",
-    "resultado": "pendiente",
+    "marcador": "2-1",
+    "resultado": "ganado",
     "kickoff": "2026-10-04T18:45:00+00:00",
     "ts": "2026-10-04T17:07:42.445607+00:00"
    },
@@ -777,11 +837,11 @@
    }
   ],
   "balance": {
-   "ganados": 362,
+   "ganados": 365,
    "perdidos": 150,
-   "pendientes": 9,
-   "acierto": 70.7,
-   "total": 512
+   "pendientes": 6,
+   "acierto": 70.9,
+   "total": 515
   }
  },
  "mejor_dia": {
