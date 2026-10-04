@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-04T10:37:15.961059+00:00",
+ "actualizado": "2026-10-04T10:46:20.822720+00:00",
  "partidos_vivo": [
   {
-   "home": "Skjervøy",
-   "away": "Fauske Sprint",
-   "liga": "3. Division - Girone 5",
-   "minuto": 53,
-   "marcador": "2-0",
+   "home": "Odense Q W",
+   "away": "Fortuna Hjørring W",
+   "liga": "Kvindeliga",
+   "minuto": 57,
+   "marcador": "0-2",
    "apuesta": "Over 2.5",
    "cuota": null,
    "score": 8.0,
@@ -16,98 +16,18 @@
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⚽ Liga muy goleadora: 4.69 goles/partido",
+    "⚽ Liga muy goleadora: 3.79 goles/partido",
     "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
     "⚽ 2 goles — partido activo"
    ]
   },
   {
-   "home": "Yenisey II",
-   "away": "Chertanovo Moscow",
-   "liga": "Second League - Group 2",
-   "minuto": 53,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 8.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.35 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Kagoshima United",
-   "away": "Fukushima United",
-   "liga": "J3 League",
-   "minuto": 50,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 7.5,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.9 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
-    "⚽ 2 goles — partido activo"
-   ]
-  },
-  {
-   "home": "Teplice II",
-   "away": "Neratovice-Byškovice",
-   "liga": "3. liga - CFL B",
-   "minuto": 55,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.2,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⬇️ Liga de baja calidad — score ajustado",
-    "⚽ Liga muy goleadora: 3.38 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Partizan U19",
-   "away": "Vojvodina U19",
-   "liga": "U19 league",
-   "minuto": 51,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
-   "cuota": null,
-   "score": 7.0,
-   "recomendar": true,
-   "momentum_home": 50,
-   "momentum_away": 50,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 4.03 goles/partido",
-    "⚠️ Competición secundaria (amistoso/filial/juvenil)",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
-   ]
-  },
-  {
-   "home": "Brazil U20",
-   "away": "Mexico U20",
+   "home": "Faroe Islands U19",
+   "away": "United Arab Emirates U19",
    "liga": "Friendlies",
-   "minuto": 53,
-   "marcador": "2-0",
-   "apuesta": "Over 2.5",
+   "minuto": 58,
+   "marcador": "2-4",
+   "apuesta": "Over 6.5",
    "cuota": null,
    "score": 7.0,
    "recomendar": true,
