@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T14:55:14.896911+00:00",
+ "actualizado": "2026-10-04T15:05:53.199974+00:00",
  "partidos_vivo": [
   {
    "home": "Spjelkavik",
@@ -193,7 +193,7 @@
    "hora": "15:30",
    "resultado": "pendiente",
    "wr_historico": 86,
-   "n_historico": 429
+   "n_historico": 431
   },
   {
    "clave": "over25",
@@ -207,7 +207,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 65,
-   "n_historico": 1802
+   "n_historico": 1810
   },
   {
    "clave": "btts",
@@ -221,7 +221,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1837
+   "n_historico": 1843
   }
  ],
  "gol_temprano": [
@@ -232,7 +232,7 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -243,7 +243,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -254,7 +254,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -265,7 +265,7 @@
    "minuto": 17,
    "score": 9.9,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -276,7 +276,7 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": true
   },
@@ -287,21 +287,21 @@
    "minuto": 20,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": true
   }
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56650.0,
-  "balance_total": 46650.0,
-  "balance_dia": 406.0,
-  "ganados": 3350,
-  "perdidos": 1493,
-  "pendientes": 11,
-  "ganados_dia": 14,
-  "perdidos_dia": 4,
+  "capital": 56684.0,
+  "balance_total": 46684.0,
+  "balance_dia": 440.0,
+  "ganados": 3356,
+  "perdidos": 1496,
+  "pendientes": 2,
+  "ganados_dia": 20,
+  "perdidos_dia": 7,
   "win_rate": 69.2,
   "roi": 9.6,
   "stake": 100.0,
@@ -380,7 +380,7 @@
     "away": "Levanger",
     "liga": "2. Division - Group 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -407,7 +407,7 @@
     "away": "Österlen",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "perdido",
     "mercado": "BTTS",
     "tanda": 2
    },
@@ -434,7 +434,7 @@
     "away": "Hansa Rostock II",
     "liga": "Oberliga - Nordost-Nord",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 2
    }
@@ -508,7 +508,7 @@
     "away": "Levanger",
     "liga": "2. Division - Group 2",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -535,7 +535,7 @@
     "away": "Österlen",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -544,7 +544,7 @@
     "away": "Linero",
     "liga": "Division 2 - Södra Götaland",
     "hora": "14:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 2
    },
@@ -568,10 +568,10 @@
    }
   ],
   "balance": {
-   "ganados": 2260,
-   "perdidos": 1379,
+   "ganados": 2270,
+   "perdidos": 1383,
    "acierto": 62.1,
-   "yield": 18.0,
+   "yield": 18.1,
    "cuota_media": 1.9
   }
  },
@@ -581,14 +581,14 @@
    "away": "Servette Chênois W",
    "liga": "AXA Women’s Super League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "VVV Venlo",
    "away": "Roda",
    "liga": "Eerste Divisie",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   },
   {
    "home": "Semen Padang",
@@ -918,16 +918,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3464,
-  "ganados": 2324,
+  "n": 3471,
+  "ganados": 2328,
   "win_rate": 67,
   "hoy": 19
  },
  "stats_dia": {
-  "ganados": 14,
-  "perdidos": 4,
-  "en_juego": 9,
-  "win_rate": 78
+  "ganados": 20,
+  "perdidos": 7,
+  "en_juego": 0,
+  "win_rate": 74
  },
  "stats_banker": {
   "ganados": 123,
