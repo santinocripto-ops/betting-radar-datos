@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T10:02:55.740026+00:00",
+ "actualizado": "2026-10-04T10:04:40.978116+00:00",
  "partidos_vivo": [
   {
    "home": "Chlumec nad Cidlinou",
@@ -207,7 +207,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 65,
-   "n_historico": 1792
+   "n_historico": 1794
   },
   {
    "clave": "btts",
@@ -221,7 +221,7 @@
    "hora": "00:45",
    "resultado": "ganado",
    "wr_historico": 59,
-   "n_historico": 1827
+   "n_historico": 1830
   }
  ],
  "gol_temprano": [
@@ -362,7 +362,7 @@
     "away": "Wofoo Tai Po",
     "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -371,7 +371,7 @@
     "away": "Eastern District",
     "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "BTTS",
     "tanda": 1
    },
@@ -481,7 +481,7 @@
     "away": "Wofoo Tai Po",
     "liga": "League Cup",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -490,7 +490,7 @@
     "away": "Khovd",
     "liga": "Premier League",
     "hora": "10:00",
-    "resultado": "pendiente",
+    "resultado": "ganado",
     "mercado": "Over 2.5",
     "tanda": 1
    },
@@ -568,10 +568,10 @@
    }
   ],
   "balance": {
-   "ganados": 2244,
+   "ganados": 2249,
    "perdidos": 1375,
-   "acierto": 62.0,
-   "yield": 17.8,
+   "acierto": 62.1,
+   "yield": 17.9,
    "cuota_media": 1.9
   }
  },
@@ -828,7 +828,13 @@
   }
  },
  "mejor_dia": {
-  "disponible": false
+  "disponible": true,
+  "hora": "14:00",
+  "cuota": 1.4,
+  "score": 10.0,
+  "n_senales": 1,
+  "mercado_pista": "Goles",
+  "resultado": "pendiente"
  },
  "apuestas_top": [
   {
