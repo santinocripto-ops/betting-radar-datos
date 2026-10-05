@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-04T23:55:57.998073+00:00",
+ "actualizado": "2026-10-05T00:05:22.895795+00:00",
  "partidos_vivo": [
   {
    "home": "Racing Montevideo",
@@ -152,7 +152,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "ganado",
    "fecha": "2026-10-04",
    "es_hoy": false
   },
@@ -163,7 +163,7 @@
    "minuto": 19,
    "score": 10.0,
    "cuota": null,
-   "resultado": "pendiente",
+   "resultado": "perdido",
    "fecha": "2026-10-04",
    "es_hoy": false
   },
@@ -214,14 +214,14 @@
  ],
  "banca": {
   "capital_inicial": 10000.0,
-  "capital": 56656.0,
-  "balance_total": 46656.0,
-  "balance_dia": 0.0,
-  "ganados": 3364,
-  "perdidos": 1501,
-  "pendientes": 5,
-  "ganados_dia": 0,
-  "perdidos_dia": 0,
+  "capital": 56662.0,
+  "balance_total": 46662.0,
+  "balance_dia": 6.0,
+  "ganados": 3366,
+  "perdidos": 1502,
+  "pendientes": 2,
+  "ganados_dia": 2,
+  "perdidos_dia": 1,
   "win_rate": 69.1,
   "roi": 9.6,
   "stake": 100.0,
@@ -501,7 +501,7 @@
    "away": "Cayman Islands",
    "liga": "CONCACAF Nations League",
    "recomendacion": "OVER 0.5",
-   "resultado": "pendiente"
+   "resultado": "ganado"
   }
  ],
  "pagina_smart": {
@@ -818,16 +818,16 @@
   }
  ],
  "stats_gt": {
-  "n": 3481,
-  "ganados": 2335,
+  "n": 3483,
+  "ganados": 2336,
   "win_rate": 67,
   "hoy": 0
  },
  "stats_dia": {
-  "ganados": 0,
-  "perdidos": 0,
-  "en_juego": 3,
-  "win_rate": 0
+  "ganados": 2,
+  "perdidos": 1,
+  "en_juego": 0,
+  "win_rate": 67
  },
  "stats_banker": {
   "ganados": 124,
