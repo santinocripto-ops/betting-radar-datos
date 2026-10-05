@@ -1,68 +1,28 @@
 {
- "actualizado": "2026-10-05T00:33:33.146363+00:00",
+ "actualizado": "2026-10-05T00:42:59.373681+00:00",
  "partidos_vivo": [
   {
-   "home": "Houston Dash W",
-   "away": "Washington Spirit W",
-   "liga": "NWSL Women",
-   "minuto": 49,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 19,
-   "momentum_away": 81,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga goleadora: 2.97 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 21 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Aruba",
-   "away": "Anguilla",
-   "liga": "CONCACAF Nations League",
-   "minuto": 57,
-   "marcador": "1-1",
-   "apuesta": "Over 2.5",
-   "cuota": null,
-   "score": 10.0,
-   "recomendar": true,
-   "momentum_home": 65,
-   "momentum_away": 35,
-   "remates_home": "-",
-   "remates_away": "-",
-   "razones": [
-    "⚽ Liga muy goleadora: 3.37 goles/partido",
-    "⚽ 2 goles — partido activo",
-    "🎯 24 remates totales — partido muy intenso"
-   ]
-  },
-  {
-   "home": "Guadalajara W",
-   "away": "Juárez W",
-   "liga": "Liga MX Femenil",
+   "home": "Independiente Petrolero",
+   "away": "Bolívar",
+   "liga": "Copa de la División Profesional",
    "minuto": 56,
-   "marcador": "0-0",
-   "apuesta": "Over 0.5",
+   "marcador": "0-1",
+   "apuesta": "Over 1.5",
    "cuota": null,
-   "score": 8.3,
+   "score": 8.0,
    "recomendar": true,
    "momentum_home": 50,
    "momentum_away": 50,
    "remates_home": "-",
    "remates_away": "-",
    "razones": [
-    "⭐ Bonus liga: +0.3 (Liga MX)",
-    "⚽ Liga muy goleadora: 3.69 goles/partido",
-    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida"
+    "⚽ Liga muy goleadora: 3.38 goles/partido",
+    "⚠️ Sin datos en vivo disponibles — análisis solo histórico, fiabilidad muy reducida",
+    "⚽ 1 gol — Independiente Petrolero buscará el empate"
    ]
   }
  ],
- "partidos_vivo_total": 5,
+ "partidos_vivo_total": 1,
  "umbral_vivo": 7.0,
  "alertas": [
   {
